@@ -1,0 +1,19 @@
+# Automatically abort script on errors
+option batch abort
+# Disable overwrite confirmations that conflict with the previous
+option confirm off
+# Connect
+open sftp://pradmin:0Pur35t0fpureFtP@gaprc.org/ -hostkey="ssh-rsa 2048 e5:95:01:79:e9:52:fe:ae:a9:fd:a4:47:ab:df:e2:61"
+# Change remote directory
+cd /var/www/vhosts/gaprc.org/proof
+# Force binary mode transfer
+option transfer binary
+# Ignore .git files/folders
+# For example following mask includes all JPG and GIF images, but excludes those starting with 2010 and 2011: *.jpg; *.gif | 2010*; 2011*.
+option exclude .git/
+# Download file to the local directory d:\
+synchronize remote "%1%" /var/www/vhosts/gaprc.org/proof
+# Disconnect
+close
+# Exit WinSCP
+exit
