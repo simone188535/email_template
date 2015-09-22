@@ -25,3 +25,5 @@ When inlining CSS, all `style` blocks will be stripped from the header.  If you 
 Litmus
 ------------
 To send your template to Litmus, run `grunt send --template=yourTemplatePath.html`.  The template path should be relaitve to the prod folder and should not start with a forward slash. Once you have sent the file, sign in to Litmus to view the test.
+
+-- ronnie
