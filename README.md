@@ -1,16 +1,28 @@
 ## email farm
 
-this is a middleman application that generates html for emails. Only one email is setup this way at present, and that is the alabama monthly newsletter, though I planned to move all the others here.
+this is a middleman application that generates html for emails. Only one email is setup this way at present, and that is a sample responsive email.
 
 TO DEVELOP:
 
 clone this repository, cd to it, bundle, and run middleman. at localhost:4567 will be the root file, which is a link to the newsletter (currently).
 
+```
+NOTE: Prerequisites:
+* Node - https://docs.npmjs.com/getting-started/installing-node
+* Ruby - ruby 2.0.0p481 (2014-05-08 revision 45883) [universal.x86_64-darwin14]
+* Bundler - version 1.10.6
+* Grunt - "npm install -g grunt-cli"
+* Middleman - bundle install middleman
+
+SETUP:
+1. 
+```
+
 In general, all you wil be doing is modifying the .yml file that the email is generated from, and changing the images.
 
 TO SEND:
 
-run `middleman build`, and collect the finished html file from the build directory. Right now, you have to zip up the images folder, I want to make a hook on build that does that automagically and plunks it on your desktop with the finished html file, but I haven't gotten to that yet.
+run `bundle exec middleman build` OR `middleman build`, and collect the finished html file from the ./build directory. Right now, you have to zip up the images folder, I want to make a hook on build that does that automagically and plunks it on your desktop with the finished html file, but I haven't gotten to that yet.
 
 UPDATES:
 
