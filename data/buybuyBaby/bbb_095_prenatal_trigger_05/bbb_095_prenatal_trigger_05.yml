@@ -3,7 +3,7 @@ description: 'Lorem ipsum dolor.'
 
 start_registry_text: 'Start your baby registry now.'
 start_registry_link: 'http://www.buybuybaby.com/store/page/BabyRegistry?mcid=EM_prenataltriggers_rolling_3SignupforRegistry_nooffer'
-start_registry_img: 'images/head-registry.gif'
+start_registry_img: '../images/head-registry.gif'
 start_registry_alt: 'Baby Registry'
 
 view_webpage_text: 'View as a webpage'
@@ -11,84 +11,84 @@ view_webpage_link: 'eDialog to add link. Add: ?mcid=EM_prenataltriggers_rolling_
 
 store_locator_text: ''
 store_locator_link:  'http://www.buybuybaby.com/store/?mcid=EM_prenataltriggers_rolling_3SignupforRegistry_nooffer'
-store_locator_img: 'images/head-logo.gif'
+store_locator_img: '../images/head-logo.gif'
 store_locator_alt: 'buybuy BABY (R)'
 
 whats_new_text: ''
 whats_new_link:  'http://www.buybuybaby.com/store/category/whats-new/32008/'
-whats_new_img: 'images/head-nav1.gif'
+whats_new_img: '../images/head-nav1.gif'
 whats_new_alt: "What's New"
 
 free_ship_text: ''
 free_ship_link:  'http://www.buybuybaby.com/store/category/freeship/32286/?icid=homepage_Promoarea1-homepage&isRedirect=true'
-free_ship_img: 'images/head-nav2.gif'
+free_ship_img: '../images/head-nav2.gif'
 free_ship_alt: 'Free Ship Items'
 
 clearance_text: ''
 clearance_link: 'http://www.buybuybaby.com/store/category/clearance/30010/?mcid=EM_Promo_201509_ToyClear_NoOffer'
-clearance_img: 'images/head-nav3.gif'
+clearance_img: '../images/head-nav3.gif'
 clearance_alt: 'Clearance'
 
 social_fb_text: ''
 social_fb_link: 'http://www.facebook.com/buybuyBABY'
-social_fb_img: 'images/social-facebook.gif'
+social_fb_img: '../images/social-facebook.gif'
 social_fb_alt: 'Facebook'
 
 social_tw_text: ''
 social_tw_link: 'https://twitter.com/buybuybaby'
-social_tw_img: 'images/social-twitter.gif'
+social_tw_img: '../images/social-twitter.gif'
 social_tw_alt: 'Twitter'
 
 social_pi_text: ''
 social_pi_link: 'http://www.pinterest.com/buybuybaby'
-social_pi_img: 'images/social-pinterest.gif'
+social_pi_img: '../images/social-pinterest.gif'
 social_pi_alt: 'Pinterest'
 
 social_yt_text: ''
 social_yt_link: 'http://www.youtube.com/user/buybuybaby'
-social_yt_img: 'images/social-youtube2.gif'
+social_yt_img: '../images/social-youtube2.gif'
 social_yt_alt: 'YouTube'
 
 social_is_text: ''
 social_is_link: 'http://instagram.com/buybuybaby'
-social_is_img: 'images/social-instagram.gif'
+social_is_img: '../images/social-instagram.gif'
 social_is_alt: 'Instagram'
 
 promo1_text: ''
 promo1_link: 'http://www.buybuybaby.com/store/static/tcp'
-promo1_img: 'images/promo-mobile.gif'
+promo1_img: '../images/promo-mobile.gif'
 promo1_alt: 'Mobile offer. First time subscribers 20% off one single item in-store or online. Text OFFER2 to 42229'
 
 promo2_text: ''
 promo2_link: 'http://www.facebook.com/buybuyBABY'
-promo2_img: 'images/promo-facebook.gif'
+promo2_img: '../images/promo-facebook.gif'
 promo2_alt: 'Stay Connected. Like us on Facebook to share your stories, questions and pics with other expecting parents.'
 
 cta2_button_text: ''
 cta2_button_link: 'http://www.buybuybaby.com/store/page/BabyRegistry?mcid=EM_prenataltriggers_rolling_3SignupforRegistry_nooffer'
-cta2_button_img: 'images/t05-cta-button2.gif'
+cta2_button_img: '../images/t05-cta-button2.gif'
 cta2_button_alt: 'find a store'
 
 excitement_text: ''
 excitement_link: 'http://www.buybuybaby.com/store/page/BabyRegistry?mcid=EM_prenataltriggers_rolling_3SignupforRegistry_nooffer'
-excitement_img: 'images/t05-feature.jpg'
+excitement_img: '../images/t05-feature.jpg'
 excitement_alt: 'Register your excitement Start your registry.'
 
 find_registry_text: ''
 find_registry_link: 'http://www.buybuybaby.com/store/page/BabyRegistry'
-find_registry_img: 'images/promo-registry2.gif'
+find_registry_img: '../images/promo-registry2.gif'
 find_registry_alt: 'Know someone expecting? Find a registry.'
 
 
 gift_cards_text: ''
 gift_cards_link: 'http://www.buybuybaby.com/store/static/GiftCardHomePage'
-gift_cards_img: 'images/promo-gift-cards2.gif'
+gift_cards_img: '../images/promo-gift-cards2.gif'
 gift_cards_alt: 'Gift cards. Always the perfect gift. Free standard shipping on gift cards or purchase an eGift card online. Terms & Conditions apply to gift cards.'
 
 
 healthy_women_text: ''
 healthy_women_link: 'TBD add: ?mcid=EM_prenataltriggers_rolling_3SignupforRegistry_nooffer'
-healthy_women_img: 'images/promo-women-health-tips.gif'
+healthy_women_img: '../images/promo-women-health-tips.gif'
 healthy_women_alt: 'Top 5 tips for a healthy eating. Healthy Women. informed. empowered. www.healthywomen.org'
 
 # FOOTER TEXT
