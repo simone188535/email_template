@@ -53,7 +53,7 @@
             color: #808080;
             font-family: Verdana, sans-serif;
             font-size: 11px;
-            font-weight: 320;
+            font-weight: 300;
             line-height: 15px;
             padding: 15px;
          }
@@ -133,7 +133,7 @@
                height: 100% !important;
                margin: 0;
                padding: 0;
-               width: 320px !important;
+               width: 300px !important;
             }
             body[yahoofix] .divider img {
                height: 4px !important;
@@ -150,8 +150,8 @@
             body[yahoofix] table[class=emailnomob], body[yahoofix] td[class=emailnomob], body[yahoofix] img[class=emailnomob], body[yahoofix] span[class=emailnomob] {
                display: none !important;
             }
-            body[yahoofix] table[class=emailwrapto320] {
-               width: 320px !important;
+            body[yahoofix] table[class=emailwrapto300] {
+               width: 300px !important;
                height: auto !important;
                padding: 0 !important;
             }
@@ -165,8 +165,8 @@
                height: auto !important;
                padding: 0 !important;
             }
-            body[yahoofix] img[class=emailimageresize320] {
-               width: 320px !important;
+            body[yahoofix] img[class=emailimageresize300] {
+               width: 300px !important;
                height: auto !important;
                padding: 0 !important;
             }
@@ -202,15 +202,40 @@
             }
             body[yahoofix] *[class=nav] {
                display: block !important;
-               /*width: 320px !important;*/
+               /*width: 300px !important;*/
             } 
+            body[yahoofix] img[class=mobilenav1] {
+               width: 300px !important;
+               height: 46px !important;
+               padding: 0 !important;
+            }
+            body[yahoofix] img[class=mobilenav2] {
+               width: 300px !important;
+               height: 46px !important;
+               padding: 0 !important;
+            }
+            body[yahoofix] img[class=mobilenav3] {
+               width: 300px !important;
+               height: 46px !important;
+               padding: 0 !important;
+            }
+            body[yahoofix] img[class=showcta2] {
+               width: 300px !important;
+               height: 43px !important;
+               padding: 0 !important;
+            }
             body[yahoofix] td[class=emailcolsplit] {
-               width: 320px !important;
+               width: 300px !important;
+               float: left !important;
+               padding: 0;
+            }
+           body[yahoofix] td[class=emailcolsplit250] {
+               width: 250px !important;
                float: left !important;
                padding: 0;
             }
             body[yahoofix] td[class=emailcolsplitcenter] {
-               width: 320px !important;
+               width: 300px !important;
                float: left !important;
                padding: 0 !important;
                text-align: center !important;
@@ -225,13 +250,14 @@
             body[yahoofix] span[class=emailtext13] {
                font-size: 13px !important;
             }
-            body[yahoofix] *[class=show_mobile_promo] {
-               width: 320px !important;
+            body[yahoofix] *[class=show_mobile_logo] {
+               width: 300px !important;
+               height: 97px !important;
                height: auto !important;
             }
-            body[yahoofix] *[class=hide_mobile_promo] {
+            body[yahoofix] *[class=hide_mobile_logo] {
                display: block !important;
-               width: 320px !important;
+               width: 300px !important;
             }
             body[yahoofix] a[class=footer] {
                display: block !important;
@@ -264,7 +290,7 @@
             }
             body[yahoofix] .img-responsive {
                height: auto;
-               max-width: 320px;
+               max-width: 300px;
                width: 100%;
             }
             body[yahoofix] .thirtythree, body[yahoofix] .forty, body[yahoofix] .fifty, body[yahoofix] .sixty, body[yahoofix] .eighty {
@@ -289,15 +315,15 @@
       <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" background="" bgcolor="#FFFFFF" style="margin: 0; padding: 10px 0 !important; width: 100% !important; line-height: 100% !important;">
          <tr>
             <td align="center" valign="top">
-               <table width="640" border="0" align="center" cellspacing="0" bgcolor="#ffffff" class="emailwrapto320">
+               <table width="640" border="0" align="center" cellspacing="0" bgcolor="#ffffff" class="emailwrapto300">
                   <tr>
                      <td width="640" colspan="3" align="center" valign="top">
-                        <table width="640" border="0" cellpadding="0" cellspacing="0" class="emailwrapto320">
+                        <table width="640" border="0" cellpadding="0" cellspacing="0" class="emailwrapto300">
                            <tr>
                               <!-- PREHEAD -->
                               <td align="left" class="emailcolsplitcenter" style="padding-top: 5px; padding-bottom: 5px;">
                                  <font face="Arial, Helvetica, sans-serif" style="font-size: 10px; line-height: 12px; color: #666666">
-                                    <a href="<%=@base_start_registry_text%>" target="_blank" style="color: #33bbf3"><%=@base_start_registry_text%></a>
+                                    <a href="<%=@base_start_registry_link%>" target="_blank" style="color: #33bbf3"><%=@base_start_registry_text%></a>
                                  </font>
                               </td>
                               <td align="right" class="emailcolsplitcenter" style="padding-top:5px; padding-bottom:5px;">
@@ -318,7 +344,7 @@
                   <!-- WRAPPER -->
                   <tr>
                      <td class="wrapper" colspan="3" align="left" valign="top">
-                        <!-- LOGO -->
+                        <!-- LOGO DESKTOP -->
                         <table width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="emailnomob">
                            <tr>
                               <td align="left" valign="top">
@@ -330,7 +356,15 @@
                            </tr>
                         </table>
 
-                        <!-- NAV -->
+
+                        <!-- MOBILE LOGO -->
+                        <table border="0" cellspacing="0" cellpadding="0" style="display: none;" class="hide_mobile_logo" align="center">
+							<tr>
+                              <td align="left" valign="top">
+								  <a href="<%=@base_store_locator_link%>" target="_blank"><img src="<%=@base_store_locator_img_m%>" alt="<%=@base_store_locator_alt%>" width="0" height="0" class="show_mobile_logo" style="display: block;" border="0" /></a>
+							</tr>
+
+                        <!-- NAV DESKTOP-->
                         <table border="0" cellspacing="0" cellpadding="0" class="emailnomob">
                            <tr>
                               <td>
@@ -346,7 +380,22 @@
                            </tr>
                         </table>
 
-                        <table width="640" border="0" cellpadding="0" cellspacing="0" class="emailwrapto320">
+                        <!-- NAV MOBILE-->
+                        <table border="0" cellspacing="0" cellpadding="0" class="hide_mobile_logo">
+                            <tr>
+                               <td>
+                                 <a href="<%=@base_whats_new_link%>" target="_blank"><img src="<%=@base_whats_new_img%>" alt="<%=@base_whats_new_alt%>" width="0" height="0" class="nav1" style="display: block;" border="0" /></a>
+                               </td>
+                               <td>
+                                 <a href="<%=@base_free_ship_link%>" target="_blank"><img src="<%=@base_free_ship_img%>" alt="<%=@base_free_ship_alt%>" width="0" height="0" class="nav2" style="display: block;" border="0" /></a>
+                               </td>
+                               <td>
+                                 <a href="<%=@base_clearance_link%>" target="_blank"><img src="<%=@base_clearance_img%>" alt="<%=@base_clearance_alt%>" width="0" height="0" class="nav3" style="display: block;" border="0" /></a>
+                               </td>
+                            </tr>
+                         </table>
+
+                        <table width="640" border="0" cellpadding="0" cellspacing="0" class="emailwrapto300">
                            <tr>
                          
                               <!-- FEATURE -->
@@ -360,12 +409,19 @@
                                              <tr>
                                                 <td>
                                                    <table border="0" cellspacing="0" cellpadding="0" width="100%">
-                                                      <!--- CTA BUTTON 2 -->
+                                                      <!--- CTA BUTTON 2 DESKTOP-->
                                                       <tr>
-                                                         <td colspan="3" align="center" valign="top" bgcolor="#FFFFFF" class="bodycell" style="padding: 20px;">
-                                                            <a href="<%=@base_cta2_button_link%>" target="_blank"><img src="<%=@base_cta2_button_img%>" alt="<%=@base_cta2_button_alt%>" width="520" height="70" style="display: block;" border="0" /></a>
+                                                         <td colspan="3" align="center" valign="top" bgcolor="#FFFFFF" class="emailnomob" style="padding: 20px;">
+                                                            <a href="<%=@base_cta2_button_link%>" target="_blank"><img src="<%=@base_cta2_button_img%>" alt="<%=@base_cta2_button_img%>" width="520" height="70" style="display: block;" border="0" /></a>
                                                          </td>
                                                       </tr>
+
+                                                      <!--- CTA BUTTON 2 MOBILE-->
+                                                      <tr>
+                                                         <td colspan="3" align="center" valign="top" bgcolor="#FFFFFF" style="padding: 0px;">
+                                                            <a href="<%=@base_cta2_button_link%>" target="_blank"><img src="<%=@base_cta2_button_img%>" alt="<%=@base_cta2_button_img%>" width="0" height="0" class="img-responsive" style="display: block;" border="0" /></a>
+                                                          </td>
+                                                       </tr>
                                                       <!-- SOCIAL -->
                                                       <tr>
                                                          <td colspan="3" align="center" valign="top" bgcolor="#FFFFFF" class="emailnomob">
@@ -412,18 +468,22 @@
 
                            <!-- PROMO BANNERS -->
                            <tr>
-                              <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF" class="emailnomob">
+                              <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF">
+                              <br><br>
                                  <table border="0" cellspacing="0" cellpadding="0">
                                     <tr>
                                        <!-- promo banner 1 -->
-                                       <td class="promo1 emailcolsplit" style="padding: 0 0 10px;">
-                                          <a href="http://www.buybuybaby.com/store/category/beauty-skincare/32126/?mcid=EM_prenataltriggers_rolling_3SignupforRegistry_nooffer" target="_blank"><img src="../images/promo-skin-care.gif" alt="Prenatal skin care. Take care of your skin with the best names in prenatal skincare. Shop now" width="320" height="150" class="img-responsive" style="display: block;" border="0" /></a>
+									   <td class="emailcolsplit" style="padding: 0 0 10px;">
+	                                          <a href="<%=@base_promo1_link%>" target="_blank"><img src="<%=@base_promo1_img%>" alt="<%=@base_promo1_alt%>" width="300" class="img-responsive" style="display: block;" border="0" /></a>
                                        </td>
-
+                                       <!-- spacer -->
+                                       <td class="emailnomob">
+                                          <img src="http://img.ed4.net/buybuybaby/2014/PrenatalTriggers/1/images/spacer50.gif" alt="" width="10" height="10" border="0" class="spacerwidth27" style="display: block;" />
+                                        </td>
                                        <!-- promo banner 2 -->
-                                       <td class="promo2 emailcolsplit" style="padding: 0 0 10px;">
-                                          <a href="http://www.buybuybaby.com/store/selfservice/store/find_store.jsp?flash_enabled=false?mcid=EM_prenataltriggers_rolling_3SignupforRegistry_nooffer" target="_blank"><img src="../images/promo-stores.gif" alt="Over 90 stores and rapidly growing! Find a store" width="320" height="150" class="img-responsive" style="display: block;" border="0" /></a>
-                                       </td>
+                                       <td class="emailcolsplit" style="padding: 0 0 10px;">
+                                          <a href="<%=@base_promo2_link%>" target="_blank"><img src="<%=@base_promo2_img%>" alt="<%=@base_promo2_alt%>" width="315" height="131" class="img-responsive" style="display: block;" border="0" /></a>
+                                        </td>
                                     </tr>
                                  </table>
                               </td>
@@ -434,17 +494,31 @@
                               <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF">
                                  <table class="dotsbar" border="0" cellspacing="0" cellpadding="0">
                                     <tr>
-                                       <!-- find registry banner -->
-                                       <td align="center" class="promo3 emailcolsplit" style="padding: 0 0 10px;">
-                                          <a href="http://www.buybuybaby.com/store/page/BabyRegistry?mcid=EM_prenataltriggers_rolling_3SignupforRegistry_nooffer" target="_blank"><img src="../images/promo-registry.gif" alt="Know someone expecting? Find a registry." width="240" height="200" class="emailnomob" style="display: block;" border="0" /></a>
-                                       </td>
-                                       <!-- gift cards banner -->
-                                       <td align="center" class="promo4 emailcolsplit" style="padding: 0 0 10px;">
-                                          <a href="http://www.buybuybaby.com/store/static/GiftCardHomePage?mcid=EM_prenataltriggers_rolling_3SignupforRegistry_nooffer" target="_blank"><img src="../images/promo-gift-cards.gif" alt="Gift cards. Always the perfect gift. Free standard shipping on gift cards or purchase an eGift card online. Terms & Conditions apply to gift cards." width="186" height="200" class="emailnomob" style="display: block;" border="0" /></a>
-                                       </td>
+                                        <!-- find registry banner -->
+                                        <td align="center" class="promo3 emailcolsplit" style="padding: 0 0 10px;">
+                                          <a href="<%=@base_find_registry_link%>" target="_blank"><img src="<%=@base_find_registry_img%>" alt="<%=@base_find_registry_alt%>" width="240" height="200" class="emailnomob" style="display: block;" border="0" /></a>
+                                        </td>
+                                        <!-- gift cards banner -->
+                                        <td align="center" class="promo4 emailcolsplit" style="padding: 0 0 10px;">
+                                          <a href="<%=@base_gift_card_link%>" target="_blank"><img src="<%=@base_gift_cards_img%>" alt="<%=@base_gift_cards_alt%>" width="186" height="200" class="emailnomob" style="display: block;" border="0" /></a>
+                                        </td>
+                                        <!-- healthy women banner -->
+                                        <td class="promo5" style="padding: 0 0 10px;">
+                                          <a href="<%=@base_healthy_women_link%>" target="_blank"><img src="<%=@base_healthy_women_img%>" alt="<%=@base_healthy_women_alt%>" width="212" height="200" class="emailnomob" style="display: block;" border="0" /></a>
+                                        </td>
+                                    </tr>
+                                 </table>
+                              </td>
+                           </tr>
+
+                           <!-- DOTS PROMO BANNERS - MOBILE -->
+                           <tr>
+                              <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF">
+                                 <table class="dotsbar" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
                                        <!-- healthy women banner -->
                                        <td class="promo5" style="padding: 0 0 10px;">
-                                          <a href="TBD add: ?mcid=EM_prenataltriggers_rolling_3SignupforRegistry_nooffer" target="_blank"><img src="../images/promo-healthy-pregnancy.gif" alt="Top 3 tips for a healthy pregnancy. Healthy Women. informed. empowered. www.healthywomen.org" width="212" height="200" class="img-responsive" style="display: block;" border="0" /></a>
+                                          <a href="<%=@base_healthy_women_link%>" target="_blank"><img src="<%=@base_healthy_women_img%>" alt="<%=@base_healthy_women_alt%>" width="0" height="0" class="img-responsive" style="display: block;" border="0" /></a>
                                        </td>
                                     </tr>
                                  </table>
@@ -453,36 +527,33 @@
                            <!-- INDICIA -->
                            <tr>
                               <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF">
-                                 <table border="0" cellspacing="0" cellpadding="0" width="640" class="emailwrapto320">
+                                 <table border="0" cellspacing="0" cellpadding="0" width="100%" class="emailwrapto300">
                                     <tr>
                                        <td class="indicia" style="color: #666666; font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 10px; line-height: 14px; padding: 10px 20px 20px;">
                                           <font face="Arial, Helvetica, sans-serif" style="font-size: 12px; line-height: 14px; color: #666666">
-                                             <b>Your Closest Store:</b>
-                                             <br />Easton Market, Columbus, OH
+                                             <b><%=@base_footer_closest_store_text%></b>
+                                             <br /><%=@base_footer_closest_example_text%>
                                              <br />
-                                             <a href="#" target="_blank" style="color: #33bbf3">View Map</a>&nbsp;|&nbsp;<a href="#" target="_blank" style="color: #33bbf3">Find Another Location</a>
+                                             <a href="#" target="_blank" style="color: #33bbf3"><%=@base_footer_closest_map_text%></a>&nbsp;|&nbsp;<a href="#" target="_blank" style="color: #33bbf3"><%=@base_footer_closest_another_location_text%></a>
                                           </font>
                                           <br />
                                           <br />
-                                          <font face="Arial, Helvetica, sans-serif" style="font-size: 10px; line-height: 14px; color: #666666">This promotional email was sent to you by buybuy BABY<sup>&reg;</sup>.
-                                             <br />If you received this email from a friend and would like to join our email list,
-                                             <a href="#" target="_blank" style="color: #33bbf3">subscribe here.</a>
-                                             <br />If you prefer not to receive promotional email messages from us,
-                                             <a href="#" target="_blank" style="color: #33bbf3">unsubscribe here.</a>
+                                          <font face="Arial, Helvetica, sans-serif" style="font-size: 10px; line-height: 14px; color: #666666"><%=@base_footer_sent_by%>.
                                              <br />
-                                             <br />Please do not reply to this email -
-                                             <a href="#" target="_blank" style="color: #33bbf3">contact us here.</a>
-                                             <br />Please add
-                                             <a href="#" target="_blank" style="color: #33bbf3">buybuyBABY@buybuyBABY.com</a>to your address book.
+                                             <%=@base_footer_friend_subscribe%>
+                                             <br /><%=@base_footer_unsubscribe%>
+                                             <br />
+                                             <br /><%=@base_footer_do_not_reply%>
+                                             <br /><%=@base_footer_please_add%>
                                              <br/>
                                              <br/>
-                                             <a href="#" target="_blank" style="color: #33bbf3">Privacy Policy - Your Privacy Rights</a>
+                                             <%=@base_footer_your_privacy%>
                                              <br />
-                                             <br />Help is always available at 1-877-3-BUY-BABY (1-877-328-9222)
-                                             <br />buybuybaby.com - Everything for newborns to toddlers.<sup>SM</sup>
+                                             <br /><%=@base_footer_help_available%>
+                                             <br /><%=@base_footer_brand_name%>
                                              <br />
-                                             <br />&copy;2014 Buy Buy Baby, Inc. All rights reserved.
-                                             <br />Corporate Headquarters - 650 Liberty Avenue, Union, NJ 07083</font>
+                                             <br /><%=@base_footer_rights_reserved%>
+                                             <br /><%=@base_footer_corp_address%></font>
                                           <br />
                                           <br />
                                        </td>
