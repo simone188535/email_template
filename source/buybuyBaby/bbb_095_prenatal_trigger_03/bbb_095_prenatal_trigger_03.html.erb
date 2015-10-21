@@ -312,242 +312,333 @@
       </style>
    </head>
    <body yahoofix bgcolor="#FFFFFF" style="width: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;">
-      <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" background="" bgcolor="#FFFFFF" style="margin: 0; padding: 10px 0 !important; width: 100% !important; line-height: 100% !important;">
-         <tr>
-            <td align="center" valign="top">
-               <table width="640" border="0" align="center" cellspacing="0" bgcolor="#ffffff" class="emailwrapto300">
-                  <tr>
-                     <td width="640" colspan="3" align="center" valign="top">
-                        <table width="640" border="0" cellpadding="0" cellspacing="0" class="emailwrapto300">
-                           <tr>
-                              <!-- PREHEAD -->
-                              <td align="left" class="emailcolsplitcenter" style="padding-top: 5px; padding-bottom: 5px;">
-                                 <font face="Arial, Helvetica, sans-serif" style="font-size: 10px; line-height: 12px; color: #666666">
-                                    <a href="<%=@base_start_registry_link%>" target="_blank" style="color: #33bbf3"><%=@base_start_registry_text%></a>
-                                 </font>
-                              </td>
-                              <td align="right" class="emailcolsplitcenter" style="padding-top:5px; padding-bottom:5px;">
-                                 <table border="0" cellspacing="0" cellpadding="0">
-                                    <tr>
-                                       <td class="emailcolsplitcenter" style="font-size: 11px; color: #999999; line-height: 13px; font-family: Arial, Helvetica, Verdana, sans-serif;" align="right">
-                                          <font face="Arial, Helvetica, sans-serif" style="font-size: 10px; line-height: 12px; color: #666666">
-                                             <a href="<%=@base_view_webpage_link%>" target="_blank" style="color: #33bbf3"><%=@base_view_webpage_text%></a>
-                                          </font>
-                                       </td>
-                                    </tr>
-                                 </table>
-                              </td>
-                           </tr>
-                        </table>
-                     </td>
-                  </tr>
-                  <!-- WRAPPER -->
-                  <tr>
-                     <td class="wrapper" colspan="3" align="left" valign="top">
-                        <!-- LOGO DESKTOP -->
-                        <table width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="emailnomob">
-                           <tr>
-                              <td align="left" valign="top">
-                                 <a href="<%=@base_store_locator_link%>" target="_blank"><img src="<%=@base_store_locator_img%>" alt="<%=@base_store_locator_alt%>" width="480" height="105" style="display: block;" border="0" /></a>
-                              </td>
-                              <td align="left" valign="top">
-                                 <a href="<%=@base_start_registry_link%>" target="_blank"><img src="<%=@base_start_registry_img%>" alt="<%=@base_start_registry_alt%>" width="160" height="105" style="display: block;" border="0" /></a>
-                              </td>
-                           </tr>
-                        </table>
+	   <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" background="" bgcolor="#FFFFFF" style="margin: 0; padding: 10px 0 !important; width: 100% !important; line-height: 100% !important;">
+		   <tr>
+			   <td align="center" valign="top">
+				   <table width="640" border="0" align="center" cellspacing="0" bgcolor="#ffffff" class="emailwrapto300">
+					   <tr>
+						   <td width="640" colspan="3" align="center" valign="top">
+							   <table width="640" border="0" cellpadding="0" cellspacing="0" class="emailwrapto300">
+								   <tr>
+									   <!-- PREHEAD -->
+									   <td align="left" class="emailcolsplitcenter" style="padding-top: 5px; padding-bottom: 5px;">
+										   <font face="Arial, Helvetica, sans-serif" style="font-size: 10px; line-height: 12px; color: #666666">
+											   <a href="<%=@base_start_registry_link%>" target="_blank" style="color: #33bbf3"><%=@base_start_registry_text%></a>
+										   </font>
+									   </td>
+									   <td align="right" class="emailcolsplitcenter" style="padding-top:5px; padding-bottom:5px;">
+										   <table border="0" cellspacing="0" cellpadding="0">
+											   <tr>
+												   <td class="emailcolsplitcenter" style="font-size: 11px; color: #999999; line-height: 13px; font-family: Arial, Helvetica, Verdana, sans-serif;" align="right">
+													   <font face="Arial, Helvetica, sans-serif" style="font-size: 10px; line-height: 12px; color: #666666">
+														   <a href="<%=@base_view_webpage_link%>" target="_blank" style="color: #33bbf3"><%=@base_view_webpage_text%></a>
+													   </font>
+												   </td>
+											   </tr>
+										   </table>
+									   </td>
+								   </tr>
+							   </table>
+						   </td>
+					   </tr>
+					   <!-- WRAPPER -->
+					   <tr>
+						   <td class="wrapper" colspan="3" align="left" valign="top">
+							   <!-- LOGO DESKTOP -->
+							   <table width="640" border="0" align="center" cellpadding="0" cellspacing="0" class="emailnomob">
+								   <tr>
+									   <td align="left" valign="top">
+										   <a href="<%=@base_store_locator_link%>" target="_blank"><img src="<%=@base_store_locator_img%>" alt="<%=@base_store_locator_alt%>" width="480" height="105" style="display: block;" border="0" /></a>
+									   </td>
+									   <td align="left" valign="top">
+										   <a href="<%=@base_start_registry_link%>" target="_blank"><img src="<%=@base_start_registry_img%>" alt="<%=@base_start_registry_alt%>" width="160" height="105" style="display: block;" border="0" /></a>
+									   </td>
+								   </tr>
+							   </table>
+							   <!-- MOBILE LOGO -->
+							   <table border="0" cellspacing="0" cellpadding="0" style="display: none;" class="hide_mobile_logo" align="center">
+								   <tr>
+									   <td align="left" valign="top">
+										   <a href="<%=@base_store_locator_link%>" target="_blank"><img src="<%=@base_store_locator_img_m%>" alt="<%=@base_store_locator_alt%>" width="0" height="0" class="show_mobile_logo" style="display: block;" border="0" /></a>
+									   </td>
+								   </tr>
+							   </table>
+							   
+							   <!-- NAV DESKTOP-->
+							   <table border="0" cellspacing="0" cellpadding="0" class="emailnomob">
+								   <tr>
+									   <td>
+										   <a href="<%=@base_whats_new_link%>" target="_blank"><img src="<%=@base_whats_new_img%>" alt="<%=@base_whats_new_alt%>" width="210" height="61" style="display: block;" border="0" /></a>
+									   </td>
+									   <td>
+										   <a href="<%=@base_free_ship_link%>" target="_blank"><img src="<%=@base_free_ship_img%>" alt="<%=@base_free_ship_alt%>" width="220" height="61" style="display: block;" border="0" /></a>
+									   </td>
+									   <td>
+										   <a href="<%=@base_clearance_link%>" target="_blank"><img src="<%=@base_clearance_img%>" alt="<%=@base_clearance_alt%>" width="210" height="61" style="display: block;" border="0" /></a>
+									   </td>
+								   </tr>
+							   </table>
+							   
+							   <!-- NAV MOBILE-->
+							   <table border="0" cellspacing="0" cellpadding="0" style="display: none;" class="hide_mobile_logo">
+								   <tr>
+									   <td>
+										   <a href="<%=@base_whats_new_link%>" target="_blank"><img src="<%=@base_whats_new_img%>" alt="<%=@base_whats_new_alt%>" width="0" height="0" class="nav1" style="display: block;" border="0" /></a>
+									   </td>
+									   <td>
+										   <a href="<%=@base_free_ship_link%>" target="_blank"><img src="<%=@base_free_ship_img%>" alt="<%=@base_free_ship_alt%>" width="0" height="0" class="nav2" style="display: block;" border="0" /></a>
+									   </td>
+									   <td>
+										   <a href="<%=@base_clearance_link%>" target="_blank"><img src="<%=@base_clearance_img%>" alt="<%=@base_clearance_alt%>" width="0" height="0" class="nav3" style="display: block;" border="0" /></a>
+									   </td>
+								   </tr>
+							   </table>
+							   
+							   
+							   <table width="640" border="0" cellpadding="0" cellspacing="0" class="emailwrapto300">
+								   <!-- FEATURE -->
+								   <tr>
+									   <td>
+										   <a href="<%=@base_excitement_link%>" target="_blank"><img src="<%=@base_excitement_img%>" alt="<%=@base_excitement_alt%>" width="640" height="425" class="emailimageresize298" style="display: block;" border="0" /></a>
+									   </td>
+								   </tr>
+								   <!-- CONTENT -->
+								   <tr>
+									   <td class="content" style="color: #808080; font-family: Verdana, sans-serif; font-size: 11px; font-weight: 320; line-height: 15px; padding: 15px;">
 
-
-                        <!-- MOBILE LOGO -->
-                        <table border="0" cellspacing="0" cellpadding="0" style="display: none;" class="hide_mobile_logo" align="center">
-							<tr>
-                              <td align="left" valign="top">
-								  <a href="<%=@base_store_locator_link%>" target="_blank"><img src="<%=@base_store_locator_img_m%>" alt="<%=@base_store_locator_alt%>" width="0" height="0" class="show_mobile_logo" style="display: block;" border="0" /></a>
-							</tr>
-
-                        <!-- NAV DESKTOP-->
-                        <table border="0" cellspacing="0" cellpadding="0" class="emailnomob">
-                           <tr>
-                              <td>
-                                 <a href="<%=@base_whats_new_link%>" target="_blank"><img src="<%=@base_whats_new_img%>" alt="<%=@base_whats_new_alt%>" width="210" height="61" style="display: block;" border="0" /></a>
-                              </td>
-                              <td>
-                                 <a href="<%=@base_free_ship_link%>" target="_blank"><img src="<%=@base_free_ship_img%>" alt="<%=@base_free_ship_alt%>" width="220" height="61" style="display: block;" border="0" /></a>
-                              </td>
-                              <td>
-                                 <a href="<%=@base_clearance_link%>" target="_blank"><img src="<%=@base_clearance_img%>" alt="<%=@base_clearance_alt%>" width="210" height="61" style="display: block;" border="0" /></a>
-                              </td>
-  
-                           </tr>
-                        </table>
-
-                        <!-- NAV MOBILE-->
-                        <table border="0" cellspacing="0" cellpadding="0" style="display: none;" class="hide_mobile_logo">
-                            <tr>
-                               <td>
-                                 <a href="<%=@base_whats_new_link%>" target="_blank"><img src="<%=@base_whats_new_img%>" alt="<%=@base_whats_new_alt%>" width="0" height="0" class="nav1" style="display: block;" border="0" /></a>
-                               </td>
-                               <td>
-                                 <a href="<%=@base_free_ship_link%>" target="_blank"><img src="<%=@base_free_ship_img%>" alt="<%=@base_free_ship_alt%>" width="0" height="0" class="nav2" style="display: block;" border="0" /></a>
-                               </td>
-                               <td>
-                                 <a href="<%=@base_clearance_link%>" target="_blank"><img src="<%=@base_clearance_img%>" alt="<%=@base_clearance_alt%>" width="0" height="0" class="nav3" style="display: block;" border="0" /></a>
-                               </td>
-                            </tr>
-                         </table>
-
-                        <table width="640" border="0" cellpadding="0" cellspacing="0" class="emailwrapto300">
-                           <tr>
-                         
-                              <!-- FEATURE -->
-                                    <tr>
-                                       <td>
-                                          <a href="<%=@base_excitement_link%>" target="_blank"><img src="<%=@base_excitement_img%>" alt="<%=@base_excitement_alt%>" width="640" height="425" class="emailimageresize298" style="display: block;" border="0" /></a>
-                                       </td>
-                                    </tr>
-                                    <!-- CONTENT -->
-											<%=@base_variant_content%>
-                                             <tr>
-                                                <td>
-                                                   <table border="0" cellspacing="0" cellpadding="0" width="100%">
-                                                      <!--- CTA BUTTON 2 -->
-                                                      <tr>
-                                                         <td colspan="3" align="center" valign="top" bgcolor="#FFFFFF" style="padding: 20px;">
-                                                            <a href="<%=@base_cta2_button_link%>" target="_blank"><img src="<%=@base_cta2_button_img%>" alt="<%=@base_cta2_button_img%>" class="img-responsive" width="520" height="70" style="display: block;" border="0" /></a>
-                                                         </td>
-                                                      </tr>
-
-                                                      <!-- SOCIAL -->
-                                                      <tr>
-                                                         <td colspan="3" align="center" valign="top" bgcolor="#FFFFFF" class="emailnomob">
-                                                            <table border="0" cellspacing="0" cellpadding="0">
-                                                               <tr>
-                                                                  <td align="left" valign="top">
-                                                                     <table border="0" cellspacing="0" cellpadding="0">
-                                                                        <tr>
-                                                                           <td align="left" valign="top">
-                                                                              <a href="<%=@base_social_fb_link%>" target="_blank"><img src="<%=@base_social_fb_img%>" alt="<%=@base_social_fb_alt%>" width="53" height="55" style="display: block;" border="0" /></a>
-                                                                           </td>
-
-                                                                           <td align="left" valign="top">
-                                                                              <a href="<%=@base_social_tw_link%>" target="_blank"><img src="<%=@base_social_tw_img%>" alt="<%=@base_social_tw_alt%>" width="60" height="55" style="display: block;" border="0" /></a>
-                                                                           </td>
-
-                                                                           <td align="left" valign="top">
-                                                                              <a href="<%=@base_social_pi_link%>" target="_blank"><img src="<%=@base_social_pi_img%>" alt="<%=@base_social_pi_alt%>" width="51" height="55" style="display: block;" border="0" /></a>
-                                                                           </td>
-
-                                                                           <td align="left" valign="top">
-                                                                              <a href="<%=@base_social_yt_link%>" target="_blank"><img src="<%=@base_social_yt_img%>" alt="<%=@base_social_yt_alt%>" width="62" height="55" style="display: block;" border="0" /></a>
-                                                                           </td>
-
-                                                                           <td align="left" valign="top">
-                                                                              <a href="<%=@base_social_is_link%>" target="_blank"><img src="<%=@base_social_is_img%>" alt="<%=@base_social_is_alt%>" width="54" height="55" style="display: block;" border="0" /></a>
-                                                                           </td>
-                                                                        </tr>
-                                                                     </table>
-                                                                  </td>
-                                                               </tr>
-                                                            </table>
-                                                         </td>
-                                                      </tr>
-                                                   </table>
-                                                </td>
-                                             </tr>
-                                          </table>
-                                       </td>
-                                    </tr>
-                                 </table>
-                              </td>
-
-
-                           <!-- PROMO BANNERS -->
-                           <tr>
-                              <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF">
-                              <br><br>
-                                 <table border="0" cellspacing="0" cellpadding="0">
-                                    <tr>
-                                       <!-- promo banner 1 -->
-									   <td class="emailcolsplit" style="padding: 0 0 10px;">
-	                                          <a href="<%=@base_promo1_link%>" target="_blank"><img src="<%=@base_promo1_img%>" alt="<%=@base_promo1_alt%>" width="300" class="img-responsive" style="display: block;" border="0" /></a>
-                                       </td>
-                                       <!-- spacer -->
-                                       <td class="emailnomob">
-                                          <img src="http://img.ed4.net/buybuybaby/2014/PrenatalTriggers/1/images/spacer50.gif" alt="" width="10" height="10" border="0" class="spacerwidth27" style="display: block;" />
-                                        </td>
-                                       <!-- promo banner 2 -->
-                                       <td class="emailcolsplit" style="padding: 0 0 10px;">
-                                          <a href="<%=@base_promo2_link%>" target="_blank"><img src="<%=@base_promo2_img%>" alt="<%=@base_promo2_alt%>" width="315" height="131" class="img-responsive" style="display: block;" border="0" /></a>
-                                        </td>
-                                    </tr>
-                                 </table>
-                              </td>
-                           </tr>
-
-                           <!-- DOTS PROMO BANNERS -->
-                           <tr>
-                              <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF">
-                                 <table class="dotsbar" border="0" cellspacing="0" cellpadding="0">
-                                    <tr>
-                                        <!-- find registry banner -->
-                                        <td align="center" class="promo3 emailcolsplit" style="padding: 0 0 10px;">
-                                          <a href="<%=@base_find_registry_link%>" target="_blank"><img src="<%=@base_find_registry_img%>" alt="<%=@base_find_registry_alt%>" width="240" height="200" class="emailnomob" style="display: block;" border="0" /></a>
-                                        </td>
-                                        <!-- gift cards banner -->
-                                        <td align="center" class="promo4 emailcolsplit" style="padding: 0 0 10px;">
-                                          <a href="<%=@base_gift_card_link%>" target="_blank"><img src="<%=@base_gift_cards_img%>" alt="<%=@base_gift_cards_alt%>" width="186" height="200" class="emailnomob" style="display: block;" border="0" /></a>
-                                        </td>
-                                        <!-- healthy women banner -->
-                                        <td align="center" class="promo5 emailcolsplit" style="padding: 0 0 10px;">
-                                          <a href="<%=@base_healthy_women_link%>" target="_blank"><img src="<%=@base_healthy_women_img%>" alt="<%=@base_healthy_women_alt%>" width="212" height="195" class="img-responsive" style="display: block;" border="0" /></a>
-                                        </td>
-                                    </tr>
-                                 </table>
-                              </td>
-                           </tr>
-
-                           <!-- INDICIA -->
-                           <tr>
-                              <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF">
-                                 <table border="0" cellspacing="0" cellpadding="0" width="100%" class="emailwrapto300">
-                                    <tr>
-                                       <td class="indicia" style="color: #666666; font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 10px; line-height: 14px; padding: 10px 20px 20px;">
-                                          <font face="Arial, Helvetica, sans-serif" style="font-size: 12px; line-height: 14px; color: #666666">
-                                             <b><%=@base_footer_closest_store_text%></b>
-                                             <br /><%=@base_footer_closest_example_text%>
-                                             <br />
-                                             <a href="#" target="_blank" style="color: #33bbf3"><%=@base_footer_closest_map_text%></a>&nbsp;|&nbsp;<a href="#" target="_blank" style="color: #33bbf3"><%=@base_footer_closest_another_location_text%></a>
-                                          </font>
-                                          <br />
-                                          <br />
-                                          <font face="Arial, Helvetica, sans-serif" style="font-size: 10px; line-height: 14px; color: #666666"><%=@base_footer_sent_by%>.
-                                             <br />
-                                             <%=@base_footer_friend_subscribe%>
-                                             <br /><%=@base_footer_unsubscribe%>
-                                             <br />
-                                             <br /><%=@base_footer_do_not_reply%>
-                                             <br /><%=@base_footer_please_add%>
-                                             <br/>
-                                             <br/>
-                                             <%=@base_footer_your_privacy%>
-                                             <br />
-                                             <br /><%=@base_footer_help_available%>
-                                             <br /><%=@base_footer_brand_name%>
-                                             <br />
-                                             <br /><%=@base_footer_rights_reserved%>
-                                             <br /><%=@base_footer_corp_address%></font>
-                                          <br />
-                                          <br />
-                                       </td>
-                                    </tr>
-                                 </table>
-                              </td>
-                           </tr>
-                        </table>
-                     </td>
-                  </tr>
-               </table>
-            </td>
-         </tr>
-      </table>
-   </body>
+										   <!-- PROBLEM AREA -->
+										   <table border="0" cellspacing="0" cellpadding="0" class="emailwrapto280">
+											   <tr>
+												   <td align="left" colspan="2">
+													   <p class="leadsubhead eighty" style="margin-bottom: 15px;">
+														   <font face="Verdana, sans-serif" style="font-size: 15px; line-height: 19px; color: #4395d1">Reasons new parents love to register at buybuy BABY:</font>
+													   </p>
+												   </td>
+											   </tr>
+											   <tr>
+												   <td class="fifty" align="left">
+													   <table class="ul" border="0" cellspacing="0" cellpadding="0">
+														   <tr>
+															   <td class="bullet" align="left" valign="top" style="padding: 3px 10px 10px;">
+																   <img src="../images/bullet.gif" alt="" width="10" height="10" style="display: block;" border="0" />
+															   </td>
+															   <td>
+																   <p style="margin-bottom: 11px;">
+																	   <font face="Verdana, sans-serif" style="font-size:13px; line-height:15px; color:#808080">Free Goody Bag Available In-Store</font>
+																   </p>
+															   </td>
+														   </tr>
+														   <tr>
+															   <td class="bullet" align="left" valign="top" style="padding: 3px 10px 10px;">
+																   <img src="../images/bullet.gif" alt="" width="10" height="10" style="display: block;" border="0" />
+															   </td>
+															   <td>
+																   <p style="margin-bottom: 11px;">
+																	   <font face="Verdana, sans-serif" style="font-size:13px; line-height:15px; color:#808080">Expert Service from the Best Registry Consultants</font>
+																   </p>
+															   </td>
+														   </tr>
+														   <tr>
+															   <td class="bullet" align="left" valign="top" style="padding: 3px 10px 10px;">
+																   <img src="../images/bullet.gif" alt="" width="10" height="10" style="display: block;" border="0" />
+															   </td>
+															   <td>
+																   <p style="margin-bottom: 11px;">
+																	   <font face="Verdana, sans-serif" style="font-size:13px; line-height:15px; color:#808080">Online Appointment Scheduling and Registry Tools</font>
+																   </p>
+															   </td>
+														   </tr>
+													   </table>
+												   </td>
+												   <td class="fifty" align="left">
+													   <table class="ul" border="0" cellspacing="0" cellpadding="0">
+														   <tr>
+															   <td class="bullet" align="left" valign="top" style="padding: 3px 10px 10px;">
+																   <img src="../images/bullet.gif" alt="" width="10" height="10" style="display: block;" border="0" />
+															   </td>
+															   <td>
+																   <p style="margin-bottom: 11px;">
+																	   <font face="Verdana, sans-serif" style="font-size:13px; line-height:15px; color:#808080">Completion Discount</font>
+																   </p>
+															   </td>
+														   </tr>
+														   <tr>
+															   <td class="bullet" align="left" valign="top" style="padding: 3px 10px 10px;">
+																   <img src="../images/bullet.gif" alt="" width="10" height="10" style="display: block;" border="0" />
+															   </td>
+															   <td>
+																   <p style="margin-bottom: 11px;">
+																	   <font face="Verdana, sans-serif" style="font-size:13px; line-height:15px; color:#808080">Friends Referral Rewards</font>
+																   </p>
+															   </td>
+														   </tr>
+														   <tr>
+															   <td class="bullet" align="left" valign="top" style="padding: 3px 10px 10px;">
+																   <img src="../images/bullet.gif" alt="" width="10" height="10" style="display: block;" border="0" />
+															   </td>
+															   <td>
+																   <p style="margin-bottom: 11px;">
+																	   <font face="Verdana, sans-serif" style="font-size:13px; line-height:15px; color:#808080">Hassle-Free Returns</font>
+																   </p>
+															   </td>
+														   </tr>
+														   <tr>
+															   <td class="bullet" align="left" valign="top" style="padding: 3px 10px 10px;">
+																   <img src="../images/bullet.gif" alt="" width="10" height="10" style="display: block;" border="0" />
+															   </td>
+															   <td>
+																   <p style="margin-bottom: 11px;">
+																	   <font face="Verdana, sans-serif" style="font-size:13px; line-height:15px; color:#808080">Free Gift Packaging In-Store</font>
+																   </p>
+															   </td>
+														   </tr>
+													   </table>
+												   </td>
+											   </tr>
+										   </table>
+										   <!-- PROBLEM AREA -->
+									   </td>
+								   </tr>
+								   <tr>
+									   <td>
+										   <table border="0" cellspacing="0" cellpadding="0" width="100%">
+											   <!--- CTA BUTTON 2 -->
+											   <tr>
+												   <td colspan="3" class="img-responsive" align="center" valign="top" bgcolor="#FFFFFF" style="padding: 20px;">
+													   <a href="<%=@base_cta2_button_link%>" target="_blank"><img src="<%=@base_cta2_button_img%>" alt="<%=@base_cta2_button_img%>" class="img-responsive" width="520" height="70" style="display: block;" border="0" /></a>
+												   </td>
+											   </tr>
+											   
+											   <!-- SOCIAL -->
+											   <tr>
+												   <td colspan="3" align="center" valign="top" bgcolor="#FFFFFF" class="emailnomob">
+													   <table border="0" cellspacing="0" cellpadding="0">
+														   <tr>
+															   <td align="left" valign="top">
+																   <table border="0" cellspacing="0" cellpadding="0">
+																	   <tr>
+																		   <td align="left" valign="top">
+																			   <a href="<%=@base_social_fb_link%>" target="_blank"><img src="<%=@base_social_fb_img%>" alt="<%=@base_social_fb_alt%>" width="53" height="55" style="display: block;" border="0" /></a>
+																		   </td>
+																		   
+																		   
+																		   <td align="left" valign="top">
+																			   <a href="<%=@base_social_tw_link%>" target="_blank"><img src="<%=@base_social_tw_img%>" alt="<%=@base_social_tw_alt%>" width="60" height="55" style="display: block;" border="0" /></a>
+																		   </td>
+																		   
+																		   <td align="left" valign="top">
+																			   <a href="<%=@base_social_pi_link%>" target="_blank"><img src="<%=@base_social_pi_img%>" alt="<%=@base_social_pi_alt%>" width="51" height="55" style="display: block;" border="0" /></a>
+																		   </td>
+																		   
+																		   
+																		   <td align="left" valign="top">
+																			   <a href="<%=@base_social_yt_link%>" target="_blank"><img src="<%=@base_social_yt_img%>" alt="<%=@base_social_yt_alt%>" width="62" height="55" style="display: block;" border="0" /></a>
+																		   </td>
+																		   
+																		   <td align="left" valign="top">
+																			   <a href="<%=@base_social_is_link%>" target="_blank"><img src="<%=@base_social_is_img%>" alt="<%=@base_social_is_alt%>" width="54" height="55" style="display: block;" border="0" /></a>
+																		   </td>
+																	   </tr>
+																   </table>
+															   </td>
+														   </tr>
+													   </table>
+												   </td>
+											   </tr>
+										   </table>
+									   </td>
+								   </tr>
+								   
+								   <!-- PROMO BANNERS -->
+								   <tr>
+									   <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF">
+										   <br /><br />
+										   <table border="0" cellspacing="0" cellpadding="0">
+											   <tr>
+												   <!-- promo banner 1 -->
+												   <td class="emailcolsplit" style="padding: 0 0 10px;">
+													   <a href="<%=@base_promo1_link%>" target="_blank"><img src="<%=@base_promo1_img%>" alt="<%=@base_promo1_alt%>" width="300" class="img-responsive" style="display: block;" border="0" /></a>
+												   </td>
+												   <!-- spacer -->
+												   <td class="emailnomob">
+													   <img src="http://img.ed4.net/buybuybaby/2014/PrenatalTriggers/1/images/spacer50.gif" alt="" width="10" height="10" border="0" class="spacerwidth27" style="display: block;" />
+												   </td>
+												   <!-- promo banner 2 -->
+												   <td class="emailcolsplit" style="padding: 0 0 10px;">
+													   <a href="<%=@base_promo2_link%>" target="_blank"><img src="<%=@base_promo2_img%>" alt="<%=@base_promo2_alt%>" width="315" height="131" class="img-responsive" style="display: block;" border="0" /></a>
+												   </td>
+											   </tr>
+										   </table>
+									   </td>
+								   </tr>
+								   
+								   <!-- DOTS PROMO BANNERS -->
+								   <tr>
+									   <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF">
+										   <table class="dotsbar" border="0" cellspacing="0" cellpadding="0">
+											   <tr>
+												   <!-- find registry banner -->
+												   <td align="center" class="promo3 emailcolsplit" style="padding: 0 0 10px;">
+													   <a href="<%=@base_find_registry_link%>" target="_blank"><img src="<%=@base_find_registry_img%>" alt="<%=@base_find_registry_alt%>" width="240" height="200" class="emailnomob" style="display: block;" border="0" /></a>
+												   </td>
+												   <!-- gift cards banner -->
+												   <td align="center" class="promo4 emailcolsplit" style="padding: 0 0 10px;">
+													   <a href="<%=@base_gift_card_link%>" target="_blank"><img src="<%=@base_gift_cards_img%>" alt="<%=@base_gift_cards_alt%>" width="186" height="200" class="emailnomob" style="display: block;" border="0" /></a>
+												   </td>
+												   <!-- healthy women banner -->
+												   <td align="center" class="promo5 emailcolsplit" style="padding: 0 0 10px;">
+													   <a href="<%=@base_healthy_women_link%>" target="_blank"><img src="<%=@base_healthy_women_img%>" alt="<%=@base_healthy_women_alt%>" width="212" height="195" class="img-responsive" style="display: block;" border="0" /></a>
+												   </td>
+											   </tr>
+										   </table>
+									   </td>
+								   </tr>
+								   
+								   <!-- INDICIA -->
+								   <tr>
+									   <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF">
+										   <table border="0" cellspacing="0" cellpadding="0" width="100%" class="emailwrapto300">
+											   <tr>
+												   <td class="indicia" style="color: #666666; font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 10px; line-height: 14px; padding: 10px 20px 20px;">
+													   <font face="Arial, Helvetica, sans-serif" style="font-size: 12px; line-height: 14px; color: #666666">
+														   <b><%=@base_footer_closest_store_text%></b>
+				                                             <br /><%=@base_footer_closest_example_text%>
+				                                             <br />
+				                                             <a href="#" target="_blank" style="color: #33bbf3"><%=@base_footer_closest_map_text%></a>&nbsp;|&nbsp;<a href="#" target="_blank" style="color: #33bbf3"><%=@base_footer_closest_another_location_text%></a>
+				                                          </font>
+				                                          <br />
+				                                          <br />
+				                                          <font face="Arial, Helvetica, sans-serif" style="font-size: 10px; line-height: 14px; color: #666666"><%=@base_footer_sent_by%>.
+				                                             <br />
+				                                             <%=@base_footer_friend_subscribe%>
+				                                             <br /><%=@base_footer_unsubscribe%>
+				                                             <br />
+				                                             <br /><%=@base_footer_do_not_reply%>
+				                                             <br /><%=@base_footer_please_add%>
+				                                             <br/>
+				                                             <br/>
+				                                             <%=@base_footer_your_privacy%>
+				                                             <br />
+				                                             <br /><%=@base_footer_help_available%>
+				                                             <br /><%=@base_footer_brand_name%>
+				                                             <br />
+				                                             <br /><%=@base_footer_rights_reserved%>
+				                                             <br /><%=@base_footer_corp_address%>
+														 </font>
+				                                          <br />
+				                                          <br />
+														  
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
 </html>
