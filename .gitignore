@@ -14,3 +14,7 @@ npm-debug.log
 .DS_Store
 
 .zip
+=======
+
+# Ignore env files
+.idea/*
