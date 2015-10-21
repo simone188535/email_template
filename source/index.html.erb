@@ -1,5 +1,4 @@
----
----
+
 <style>
   ul, li {list-style: none;}
   ul {margin: 0 0 1em 0; padding:0 0 0 0.5em;}
@@ -12,10 +11,13 @@
 <div class="welcome">
 <h1>Emails in this build</h1>
 
-<h2>buybuyBaby</h2>
 <ul>
-	<li><a href="buybuyBaby/bbb_095_prenatal_trigger_03/bbb_095_prenatal_trigger_03.html">bbb_095_prenatal_trigger_03</a></li>
-	<li><a href="buybuyBaby/bbb_095_prenatal_trigger_05/bbb_095_prenatal_trigger_05.html">bbb_095_prenatal_trigger_05</a></li>
+<% 	files = Dir.glob("./build/**/*.html")
+	files.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
+	files.each do |file_name| %>
+	<li><a href="<%= file_name[('./build/').length,file_name.length] %>"><%= file_name[('./build/').length,file_name.length] %></a></li>
+<% end %>
 </ul>
+
 
 </div><!-- .welcome -->
