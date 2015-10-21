@@ -1,0 +1,19 @@
+npm-debug.log
+
+# Ignore bundler config
+/.bundle
+
+# Ignore Sass' cache
+/.sass-cache
+
+# Ignore build folder
+/build
+/prod
+/node_modules/
+
+.DS_Store
+
+.zip
+
+# Ignore env files
+.idea/*
