@@ -172,7 +172,8 @@
             body[yahoofix] table[class=emailnomob], body[yahoofix] td[class=emailnomob], body[yahoofix] img[class=emailnomob], body[yahoofix] span[class=emailnomob] {
                display: none !important;
             }
-            body[yahoofix] table[class=emailwrapto320],
+            body[yahoofix] table[class*=emailwrapto320],
+            body[yahoofix] td[class*=emailwrapto320]
              {
                width: 320px !important;
                height: auto !important;
@@ -260,6 +261,15 @@
                display: block !important;
                width: 320px !important;
             }
+            body[yahoofix] *[class=show_mobile_logo] {
+               width: 300px !important;
+               height: 97px !important;
+               height: auto !important;
+            }
+            body[yahoofix] *[class=hide_mobile_logo] {
+               display: block !important;
+               width: 300px !important;
+            }
             body[yahoofix] a[class=footer] {
                display: block !important;
                font-size: 14px !important;
@@ -282,7 +292,8 @@
             body[yahoofix] .promo1, body[yahoofix] .promo5 {
                display: block !important;
                height: auto !important;
-               max-width: 480px !important;
+               /*max-width: 480px !important;*/
+               max-width: 320px !important;
                width: 100% !important;
             }
             body[yahoofix] .promo2, body[yahoofix] .promo3, body[yahoofix] .promo4 {
@@ -293,6 +304,9 @@
                height: auto;
                max-width: 320px;
                width: 100%;
+            }
+            body[yahoofix] .mobile-cta-btn-2 {
+               width: 280px !important;
             }
             body[yahoofix] .thirtythree, body[yahoofix] .forty, body[yahoofix] .fifty, body[yahoofix] .sixty, body[yahoofix] .eighty {
                display: block !important;
@@ -319,7 +333,7 @@
             <td align="center" valign="top">
                <table width="600" border="0" align="center" cellspacing="0" bgcolor="#ffffff" class="emailwrapto320">
                   <tr>
-                     <td width="600" colspan="3" align="center" valign="top">
+                     <td width="600" colspan="3" align="center" valign="top" class="emailwrapto320">
                         <table width="600" border="0" cellpadding="0" cellspacing="0" class="emailwrapto320 prehead">
                            <tr>
                               <!-- PREHEAD -->
@@ -340,6 +354,13 @@
                                  </table>
                               </td>
                            </tr>
+                           <tr>
+                              <td colspan="3" align="center" valign="top" class="hide_mobile_logo" style="display: none;">
+                                 <a href="<%=@base_store_locator_link%>" target="_blank">
+                                    <img src="<%=@base_store_locator_img_m%>" alt="<%=@base_store_locator_alt%>" width="0" height="0" class="show_mobile_logo" style="display: block;" border="0" />
+                                 </a>
+                              </td>
+                           </tr>
                         </table>
                      </td>
                   </tr>
@@ -357,6 +378,7 @@
                               </td>
                            </tr>
                         </table>
+                       
 
                         <!-- NAV -->
                         <table border="0" cellspacing="0" cellpadding="0" class="emailnomob">
@@ -373,6 +395,21 @@
                            </tr>
                         </table>
 
+                        <!-- NAV MOBILE-->
+                        <table border="0" cellspacing="0" cellpadding="0" style="display: none;" class="hide_mobile_logo">
+                           <tr>
+                              <td>
+                                 <a href="<%=@base_whats_new_link%>" target="_blank"><img src="<%=@base_whats_new_img%>" alt="<%=@base_whats_new_alt%>" width="0" height="0" class="nav1" style="display: block;" border="0" /></a>
+                              </td>
+                              <td>
+                                 <a href="<%=@base_free_ship_link%>" target="_blank"><img src="<%=@base_free_ship_img%>" alt="<%=@base_free_ship_alt%>" width="0" height="0" class="nav2" style="display: block;" border="0" /></a>
+                              </td>
+                              <td>
+                                 <a href="<%=@base_clearance_link%>" target="_blank"><img src="<%=@base_clearance_img%>" alt="<%=@base_clearance_alt%>" width="0" height="0" class="nav3" style="display: block;" border="0" /></a>
+                              </td>
+                           </tr>
+                        </table>
+
 
                         <table width="600" border="0" cellpadding="0" cellspacing="0" class="emailwrapto320">
                         <!-- FEATURE -->
@@ -384,11 +421,107 @@
                            <!-- CONTENT -->
                            <tr>
                               <td valign="top">
-                                 <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="emailwrapto320">
                                     <tr>
                                        <td width="15"><img src="../images/spacer.gif" alt="" width="15" height="1"></td>
                                        <td valign="top">
-                                          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+                                          <!-- Mobile list -->
+                                          <table border="0" cellpadding="0" cellspacing="0" width="100%" style="display: none;" class="hide_mobile_logo">
+                                             <tr>
+                                                <td style="font-family: Verdana, sans-serif; font-size: 15px; line-height: 19px; color: #4395d1; padding-top: 20px; padding-bottom: 20px" valign="top" align="left">
+                                                   <%=@base_content_header%>
+                                                </td>
+                                             </tr>
+                                             <tr>
+                                                <td style="padding-left: 15px; padding-bottom: 10px;" class="content-list">
+                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                      <tr>
+                                                         <td width="12" valign="top" align="left">&bull;</td>
+                                                         <td valign="top" align="left">
+                                                            <%=@base_content_list_1%>
+                                                         </td>
+                                                      </tr>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                             <tr>
+                                                <td style="padding-left: 15px; padding-bottom: 10px;" class="content-list">
+                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                      <tr>
+                                                         <td width="12" valign="top" align="left">&bull;</td>
+                                                         <td valign="top" align="left">
+                                                            <%=@base_content_list_2%>
+                                                         </td>
+                                                      </tr>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                             <tr>
+                                                <td style="padding-left: 15px; padding-bottom: 10px" class="content-list">
+                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                      <tr>
+                                                         <td width="12" valign="top" align="left">&bull;</td>
+                                                         <td valign="top" align="left">
+                                                            <%=@base_content_list_3%>
+                                                         </td>
+                                                      </tr>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                             <tr>
+                                                <td style="padding-left: 15px; padding-bottom: 10px" class="content-list">
+                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                      <tr>
+                                                         <td width="12" valign="top" align="left">&bull;</td>
+                                                         <td valign="top" align="left">
+                                                            <%=@base_content_list_4%>
+                                                         </td>
+                                                      </tr>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                             <tr>
+                                                <td style="padding-left: 15px; padding-bottom: 10px" class="content-list">
+                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                      <tr>
+                                                         <td width="12" valign="top" align="left">&bull;</td>
+                                                         <td valign="top" align="left">
+                                                            <%=@base_content_list_5%>
+                                                         </td>
+                                                      </tr>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                             <tr>
+                                                <td style="padding-left: 15px; padding-bottom: 10px" class="content-list">
+                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                      <tr>
+                                                         <td width="12" valign="top" align="left">&bull;</td>
+                                                         <td valign="top" align="left">
+                                                            <%=@base_content_list_6%>
+                                                         </td>
+                                                      </tr>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                             <tr>
+                                                <td style="padding-left: 15px; padding-bottom: 10px" class="content-list">
+                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                      <tr>
+                                                         <td width="12" valign="top" align="left">&bull;</td>
+                                                         <td valign="top" align="left">
+                                                            <%=@base_content_list_7%>
+                                                         </td>
+                                                      </tr>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                          </table>
+
+
+                                          <!-- Desktop list -->
+                                          <table border="0" cellpadding="0" cellspacing="0" width="100%" class="emailnomob">
                                              <tr>
                                                 <td colspan="4" height="10" style="font-size: 1px; line-height: 1px;">
                                                    <img src="../images/spacer.gif" alt="" width="1" height="10">
@@ -548,7 +681,8 @@
                                                    <img src="../images/spacer.gif" alt="" width="20" height="1">
                                                 </td>
                                                 <td valign="top">
-                                                    <a href="<%=@base_cta2_button_link%>" target="_blank"><img src="<%=@base_cta2_button_img%>" alt="<%=@base_cta2_button_img%>" style="display: inline-block;" border="0" /></a>
+                                                    <a href="<%=@base_cta2_button_link%>" target="_blank">
+                                                    <img src="<%=@base_cta2_button_img%>" alt="<%=@base_cta2_button_img%>" style="display: inline-block;" border="0" class="mobile-cta-btn-2" /></a>
                                                 </td>
                                                 <td width="20">
                                                    <img src="../images/spacer.gif" alt="" width="20" height="1">
@@ -608,10 +742,10 @@
                   </tr>
 
                   <tr>
-                     <td width="600" colspan="3" align="center" valign="top">
+                     <td width="100%" colspan="3" align="center" valign="top" class="emailwrapto320">
                         <table border="0" cellspacing="0" cellpadding="0" width="100%">
                            <tr>
-                              <td colspan="2" height="20" style="font-size: 1px; line-height: 1px;">
+                              <td colspan="2" height="20" class="emailnomob" style="font-size: 1px; line-height: 1px;">
                                  <img src="../images/spacer.gif" alt="" width="1" height="20">
                               </td>
                            </tr>
@@ -631,7 +765,7 @@
                   </tr>
 
                   <tr>
-                     <td width="600" colspan="3" align="center" valign="top">
+                     <td width="600" colspan="3" align="center" valign="top" class="emailwrapto320">
                         <!-- DOTS PROMO BANNERS -->
                         <table border="0" cellspacing="0" cellpadding="0" width="100%">
                            <tr>
