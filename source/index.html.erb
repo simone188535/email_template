@@ -1,37 +1,29 @@
----
----
-<style>
-  ul, li {list-style: none;}
-  ul {margin: 0 0 1em 0; padding:0 0 0 0.5em;}
-  li {margin: 0 0 0.2em 0; padding:0 0 0 0.3em;}
-  h1,h2,h3,h4,h5,h6 {margin-bottom:0;}
-  .welcome {color: #333;}
-  h2 {color:#555; margin: 0.2em 0 0 0; font-size:18px;}
-  p {margin:0;}
-</style>
+<html>
+<head>
+	
+	<style>
+	  ul, li {list-style: none;}
+	  ul {margin: 0 0 1em 0; padding:0 0 0 0.5em;}
+	  li {margin: 0 0 0.2em 0; padding:0 0 0 0.3em;}
+	  h1,h2,h3,h4,h5,h6 {margin-bottom:0;}
+	  .welcome {color: #333;}
+	  h2 {color:#555; margin: 0.2em 0 0 0; font-size:18px;}
+	  p {margin:0;}
+	</style>
+	
+</head>
+<body>
 <div class="welcome">
 <h1>Emails in this build</h1>
 
-<h2>buybuyBaby</h2>
 <ul>
-  <li>
-    <a href="buybuyBaby/bbb_095_prenatal_trigger_03/bbb_095_prenatal_trigger_03.html">bbb_095_prenatal_trigger_03</a>
-  </li>
-  <li>
-    <a href="buybuyBaby/bbb_095_prenatal_trigger_04/bbb_095_prenatal_trigger_04.html">bbb_095_prenatal_trigger_04</a>
-  </li>
-  <li>
-    <a href="buybuyBaby/bbb_095_prenatal_trigger_05/bbb_095_prenatal_trigger_05.html">bbb_095_prenatal_trigger_05</a>
-  </li>
-  <li>
-    <a href="buybuyBaby/bbb_095_prenatal_trigger_06/bbb_095_prenatal_trigger_06.html">bbb_095_prenatal_trigger_06</a>
-  </li>
-  <li>
-    <a href="buybuyBaby/bbb_095_prenatal_trigger_07/bbb_095_prenatal_trigger_07.html">bbb_095_prenatal_trigger_07</a>
-  </li>
-  <li>
-    <a href="buybuyBaby/bbb_095_prenatal_trigger_08/bbb_095_prenatal_trigger_08.html">bbb_095_prenatal_trigger_08</a>
-  </li>
+<% 	files = Dir.glob("./build/**/*.html")
+	files.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
+	files.each do |file_name| %>
+	<li><a href="<%= file_name[('./build/').length,file_name.length] %>"><%= file_name[('./build/').length,file_name.length] %></a></li>
+<% end %>
 </ul>
 
+
 </div><!-- .welcome -->
+</body>
