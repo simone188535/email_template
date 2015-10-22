@@ -151,6 +151,9 @@
       </style>
      <style type="text/css" data-embed>
          @media screen and (max-device-width: 480px) {
+			 table[class=contenttable] {
+				 width:290px !important;
+			 }
             body[yahoofix] .wrapper {
                height: 100% !important;
                margin: 0;
@@ -426,123 +429,30 @@
                                        <td width="15"><img src="../images/spacer.gif" alt="" width="15" height="1"></td>
                                        <td valign="top">
 
-                                          <!-- Mobile list -->
-                                          <table border="0" cellpadding="0" cellspacing="0" width="100%" style="display: none;" class="hide_mobile_logo">
-                                             <tr>
-                                                <td style="font-family: Verdana, sans-serif; font-size: 15px; line-height: 19px; color: #4395d1; padding-top: 20px; padding-bottom: 20px" valign="top" align="left">
-                                                   <%=@base_content_header%>
-                                                </td>
-                                             </tr>
-                                             <tr>
-                                                <td style="padding-left: 15px; padding-bottom: 10px;" class="content-list">
-                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                                      <tr>
-                                                         <td width="12" valign="top" align="left">&bull;</td>
-                                                         <td valign="top" align="left">
-                                                            <%=@base_content_list_1%>
-                                                         </td>
-                                                      </tr>
-                                                   </table>
-                                                </td>
-                                             </tr>
-                                             <tr>
-                                                <td style="padding-left: 15px; padding-bottom: 10px;" class="content-list">
-                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                                      <tr>
-                                                         <td width="12" valign="top" align="left">&bull;</td>
-                                                         <td valign="top" align="left">
-                                                            <%=@base_content_list_2%>
-                                                         </td>
-                                                      </tr>
-                                                   </table>
-                                                </td>
-                                             </tr>
-                                             <tr>
-                                                <td style="padding-left: 15px; padding-bottom: 10px" class="content-list">
-                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                                      <tr>
-                                                         <td width="12" valign="top" align="left">&bull;</td>
-                                                         <td valign="top" align="left">
-                                                            <%=@base_content_list_3%>
-                                                         </td>
-                                                      </tr>
-                                                   </table>
-                                                </td>
-                                             </tr>
-                                             <tr>
-                                                <td style="padding-left: 15px; padding-bottom: 10px" class="content-list">
-                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                                      <tr>
-                                                         <td width="12" valign="top" align="left">&bull;</td>
-                                                         <td valign="top" align="left">
-                                                            <%=@base_content_list_4%>
-                                                         </td>
-                                                      </tr>
-                                                   </table>
-                                                </td>
-                                             </tr>
-                                             <tr>
-                                                <td style="padding-left: 15px; padding-bottom: 10px" class="content-list">
-                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                                      <tr>
-                                                         <td width="12" valign="top" align="left">&bull;</td>
-                                                         <td valign="top" align="left">
-                                                            <%=@base_content_list_5%>
-                                                         </td>
-                                                      </tr>
-                                                   </table>
-                                                </td>
-                                             </tr>
-                                             <tr>
-                                                <td style="padding-left: 15px; padding-bottom: 10px" class="content-list">
-                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                                      <tr>
-                                                         <td width="12" valign="top" align="left">&bull;</td>
-                                                         <td valign="top" align="left">
-                                                            <%=@base_content_list_6%>
-                                                         </td>
-                                                      </tr>
-                                                   </table>
-                                                </td>
-                                             </tr>
-                                             <tr>
-                                                <td style="padding-left: 15px; padding-bottom: 10px" class="content-list">
-                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                                      <tr>
-                                                         <td width="12" valign="top" align="left">&bull;</td>
-                                                         <td valign="top" align="left">
-                                                            <%=@base_content_list_7%>
-                                                         </td>
-                                                      </tr>
-                                                   </table>
-                                                </td>
-                                             </tr>
-                                          </table>
-
 
                                           <!-- Desktop list -->
-                                          <table border="0" cellpadding="0" cellspacing="0" width="100%" class="emailnomob">
-                                             <tr>
-                                                <td colspan="4" height="10" style="font-size: 1px; line-height: 1px;">
-                                                   <img src="../images/spacer.gif" alt="" width="1" height="10">
-                                                </td>
-                                             </tr>
-                                             <tr>
-                                                <td colspan="4" style="font-family: Verdana, sans-serif; font-size: 15px; line-height: 19px; color: #4395d1">
-                                                   <%=@base_content_header%>
-                                                </td>
-                                             </tr>
-                                             <tr>
-                                                <td colspan="4" height="20" style="font-size: 1px; line-height: 1px;">
-                                                   <img src="../images/spacer.gif" alt="" width="1" height="20">
-                                                </td>
-                                             </tr>
-                                             <tr>
-                                                <td width="15">
-                                                   <img src="../images/spacer.gif" alt="" width="15" height="1">
-                                                </td>
-                                                <td width="260" class="content-list">
-                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+										  <table border="0" cellpadding="0" cellspacing="0" width="600" class="contenttable">
+                                              <tr>
+                                                 <td colspan="3" height="12" style="font-size: 1px; line-height: 1px;">
+                                                    <img src="../images/spacer.gif" alt="" width="1" height="12">
+                                                 </td>
+                                              </tr>
+	                                          <tr>
+	                                             <td colspan="4" style="font-family: Verdana, sans-serif; font-size: 15px; line-height: 19px; color: #4395d1">
+	                                                <%=@base_content_header%>
+	                                             </td>
+	                                          </tr>
+	                                          <tr>
+	                                             <td colspan="4" height="20" style="font-size: 1px; line-height: 1px;">
+	                                                <img src="../images/spacer.gif" alt="" width="1" height="20">
+	                                             </td>
+	                                          </tr>
+										  </table>
+										  
+                                          <table border="0" cellpadding="0" cellspacing="0" width="600" class="contenttable">
+											  <tr>
+                                                <td>
+                                                   <table border="0" cellpadding="0" cellspacing="0" width="290" align="left">
                                                       <tr>
                                                          <td valign="top" width="10">
                                                             <b>&bull;</b>
@@ -586,14 +496,13 @@
                                                             <%=@base_content_list_3%>
                                                          </td>
                                                       </tr>
+                                                      <tr>
+                                                         <td colspan="3" height="12" style="font-size: 1px; line-height: 1px;">
+                                                            <img src="../images/spacer.gif" alt="" width="1" height="12">
+                                                         </td>
+                                                      </tr>
                                                    </table>
-                                                </td>
-
-                                                <td width="30"><img src="../images/spacer.gif" alt="" width="30" height="1"></td>
-
-
-                                                <td width="260" class="content-list">
-                                                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                   <table border="0" cellpadding="0" cellspacing="0" width="290" align="right">
                                                       <tr>
                                                          <td valign="top" width="10">
                                                             <b>&bull;</b>
@@ -653,9 +562,13 @@
                                                             <%=@base_content_list_7%>
                                                          </td>
                                                       </tr>
+                                                      <tr>
+                                                         <td colspan="3" height="12" style="font-size: 1px; line-height: 1px;">
+                                                            <img src="../images/spacer.gif" alt="" width="1" height="12">
+                                                         </td>
+                                                      </tr>
                                                    </table>
                                                 </td>
-
                                              </tr>
                                           </table>
                                        </td>
