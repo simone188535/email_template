@@ -5,7 +5,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
    <head>
-      <!--<link rel="image_src" href="http://img.ed4.net/buybuybaby/2010/49845_1021_cuisinart/5/images/logo.jpg" />-->
+     
       <meta name="title" content="<%=@base_title%>" />
       <meta name="Description" content="<%=@base_description%>" />
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -536,12 +536,12 @@
                                  <table border="0" cellspacing="0" cellpadding="0" width="100%">
                                     <!--- CTA BUTTON 2 -->
                                     <tr>
-                                       <td colspan="3" height="40">
+                                       <td height="40" style="font-size: 1px; line-height: 1px;">
                                           <img src="../images/spacer.gif" alt="" width="1" height="40">
                                        </td>
                                     </tr>
                                     <tr>
-                                       <td colspan="3" align="center" valign="top" bgcolor="#FFFFFF" style="text-align:center;">
+                                       <td align="center" valign="top" bgcolor="#FFFFFF" style="text-align:center;">
                                           <table border="0" cellspacing="0" cellpadding="0" width="100%">
                                              <tr>
                                                 <td width="20">
@@ -559,13 +559,13 @@
                                        </td>
                                     </tr>
                                      <tr>
-                                       <td colspan="3" height="20">
+                                       <td height="20" style="font-size: 1px; line-height: 1px;">
                                           <img src="../images/spacer.gif" alt="" width="1" height="20">
                                        </td>
                                     </tr>
                                     <!-- SOCIAL -->
                                     <tr>
-                                       <td colspan="3" align="center" valign="top" bgcolor="#FFFFFF" class="emailnomob">
+                                       <td align="center" valign="top" bgcolor="#FFFFFF" class="emailnomob">
                                           <table border="0" cellspacing="0" cellpadding="0">
                                              <tr>
                                                 <td align="left" valign="top">
@@ -611,6 +611,11 @@
                      <td width="600" colspan="3" align="center" valign="top">
                         <table border="0" cellspacing="0" cellpadding="0" width="100%">
                            <tr>
+                              <td colspan="2" height="20" style="font-size: 1px; line-height: 1px;">
+                                 <img src="../images/spacer.gif" alt="" width="1" height="20">
+                              </td>
+                           </tr>
+                           <tr>
                                <!-- promo banner 1 -->
                               <td class="promo1 emailcolsplit">
                                  <a href="<%=@base_promo1_link%>" target="_blank"><img src="<%=@base_promo1_img%>" alt="<%=@base_promo1_alt%>" width="300" class="img-responsive" style="display: block;" border="0" /></a>
@@ -627,9 +632,58 @@
 
                   <tr>
                      <td width="600" colspan="3" align="center" valign="top">
+                        <!-- DOTS PROMO BANNERS -->
                         <table border="0" cellspacing="0" cellpadding="0" width="100%">
                            <tr>
-                              
+                              <!-- find registry banner -->
+                              <td align="center" class="promo3 emailcolsplit" style="padding: 0 0 10px;">
+                                 <a href="<%=@base_find_registry_link%>" target="_blank"><img src="<%=@base_find_registry_img%>" alt="<%=@base_find_registry_alt%>" width="228" class="emailnomob" style="display: block;" border="0" /></a>
+                              </td>
+                              <!-- gift cards banner -->
+                              <td align="center" class="promo4 emailcolsplit" style="padding: 0 0 10px;">
+                                 <a href="<%=@base_gift_card_link%>" target="_blank"><img src="<%=@base_gift_cards_img%>" alt="<%=@base_gift_cards_alt%>" width="177" class="emailnomob" style="display: block;" border="0" /></a>
+                              </td>
+                              <!-- healthy women banner -->
+                              <td class="promo5" style="padding: 0 0 10px;">
+                                 <a href="<%=@base_healthy_women_link%>" target="_blank"><img src="<%=@base_healthy_women_img%>" alt="<%=@base_healthy_women_alt%>" width="200" class="img-responsive" style="display: block;" border="0" /></a>
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+
+                  <tr>
+                     <td width="600" colspan="3" align="left" valign="top">
+                        <table border="0" cellspacing="0" cellpadding="0" width="100%" class="emailwrapto320">
+                           <tr>
+                              <td class="indicia" style="color: #666666; font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 10px; line-height: 14px; padding: 10px 20px 20px;">
+                                 <font face="Arial, Helvetica, sans-serif" style="font-size: 12px; line-height: 14px; color: #666666">
+                                    <b><%=@base_footer_closest_store_text%></b>
+                                    <br /><%=@base_footer_closest_example_text%>
+                                    <br />
+                                    <a href="#" target="_blank" style="color: #33bbf3"><%=@base_footer_closest_map_text%></a>&nbsp;|&nbsp;<a href="#" target="_blank" style="color: #33bbf3"><%=@base_footer_closest_another_location_text%></a>
+                                 </font>
+                                 <br />
+                                 <br />
+                                 <font face="Arial, Helvetica, sans-serif" style="font-size: 10px; line-height: 14px; color: #666666"><%=@base_footer_sent_by%>.
+                                    <br />
+                                    <%=@base_footer_friend_subscribe%>
+                                    <br /><%=@base_footer_unsubscribe%>
+                                    <br />
+                                    <br /><%=@base_footer_do_not_reply%>
+                                    <br /><%=@base_footer_please_add%>
+                                    <br/>
+                                    <br/>
+                                    <%=@base_footer_your_privacy%>
+                                    <br />
+                                    <br /><%=@base_footer_help_available%>
+                                    <br /><%=@base_footer_brand_name%>
+                                    <br />
+                                    <br /><%=@base_footer_rights_reserved%>
+                                    <br /><%=@base_footer_corp_address%></font>
+                                 <br />
+                                 <br />
+                              </td>
                            </tr>
                         </table>
                      </td>
@@ -640,65 +694,9 @@
          </tr>
 
         
-         <!-- DOTS PROMO BANNERS -->
-         <tr>
-            <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF">
-               <table class="dotsbar" border="0" cellspacing="0" cellpadding="0">
-                  <tr>
-                     <!-- find registry banner -->
-                     <td align="center" class="promo3 emailcolsplit" style="padding: 0 0 10px;">
-                        <a href="<%=@base_find_registry_link%>" target="_blank"><img src="<%=@base_find_registry_img%>" alt="<%=@base_find_registry_alt%>" width="233" class="emailnomob" style="display: block;" border="0" /></a>
-                     </td>
-                     <!-- gift cards banner -->
-                     <td align="center" class="promo4 emailcolsplit" style="padding: 0 0 10px;">
-                        <a href="<%=@base_gift_card_link%>" target="_blank"><img src="<%=@base_gift_cards_img%>" alt="<%=@base_gift_cards_alt%>" width="177" class="emailnomob" style="display: block;" border="0" /></a>
-                     </td>
-                     <!-- healthy women banner -->
-                     <td class="promo5" style="padding: 0 0 10px;">
-                        <a href="<%=@base_healthy_women_link%>" target="_blank"><img src="<%=@base_healthy_women_img%>" alt="<%=@base_healthy_women_alt%>" width="190" class="img-responsive" style="display: block;" border="0" /></a>
-                     </td>
-                  </tr>
-               </table>
-            </td>
-         </tr>
 
-         <!-- INDICIA -->
-         <tr>
-            <td colspan="3" align="left" valign="top" bgcolor="#FFFFFF">
-               <table border="0" cellspacing="0" cellpadding="0" width="100%" class="emailwrapto320">
-                  <tr>
-                     <td class="indicia" style="color: #666666; font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 10px; line-height: 14px; padding: 10px 20px 20px;">
-                        <font face="Arial, Helvetica, sans-serif" style="font-size: 12px; line-height: 14px; color: #666666">
-                           <b><%=@base_footer_closest_store_text%></b>
-                           <br /><%=@base_footer_closest_example_text%>
-                           <br />
-                           <a href="#" target="_blank" style="color: #33bbf3"><%=@base_footer_closest_map_text%></a>&nbsp;|&nbsp;<a href="#" target="_blank" style="color: #33bbf3"><%=@base_footer_closest_another_location_text%></a>
-                        </font>
-                        <br />
-                        <br />
-                        <font face="Arial, Helvetica, sans-serif" style="font-size: 10px; line-height: 14px; color: #666666"><%=@base_footer_sent_by%>.
-                           <br />
-                           <%=@base_footer_friend_subscribe%>
-                           <br /><%=@base_footer_unsubscribe%>
-                           <br />
-                           <br /><%=@base_footer_do_not_reply%>
-                           <br /><%=@base_footer_please_add%>
-                           <br/>
-                           <br/>
-                           <%=@base_footer_your_privacy%>
-                           <br />
-                           <br /><%=@base_footer_help_available%>
-                           <br /><%=@base_footer_brand_name%>
-                           <br />
-                           <br /><%=@base_footer_rights_reserved%>
-                           <br /><%=@base_footer_corp_address%></font>
-                        <br />
-                        <br />
-                     </td>
-                  </tr>
-               </table>
-            </td>
-         </tr>
+
+         
 
       </table>
    </body>
