@@ -16,14 +16,23 @@
 <div class="welcome">
 <h1>Emails in this build</h1>
 
-<ul>
-<% 	files = Dir.glob("./build/**/*.html")
-	files.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
-	files.each do |file_name| %>
-	<li><a href="<%= file_name[('./build/').length,file_name.length] %>"><%= file_name[('./build/').length,file_name.length] %></a></li>
-<% end %>
-</ul>
+<%  directories = Dir.entries("./build") 
+	directories.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template|\.|\.\.|images|index\.html|javascripts|stylesheets/i }
+	directories.each do |directory_name| 
+%>
+<h2><%= directory_name %></h2>
 
+	<ul>
+	<% 	
+		files = Dir.glob("./build/"+directory_name+"/**/*.html")
+		files.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
+		files.each do |file_name| 
+	%>
+		<li><a href="<%= file_name[('./build/').length,file_name.length] %>"><%= file_name[('./build/'+directory_name+'/').length,file_name.length] %></a></li>
+	<% end %>
+	</ul>
+
+<% end %>
 
 </div><!-- .welcome -->
 </body>
