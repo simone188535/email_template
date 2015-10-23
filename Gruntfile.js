@@ -32,7 +32,7 @@ module.exports = function(grunt) {
         options: {
           username: 'andy.hardy@purered.net',
           password: 'pur3r3d_qa',
-          url: 'https://litmus.com',
+          url: 'https://gaprc.litmus.com',
           clients: ['ol2000','ol2002','ol2003','ol2007','ol2010','ol2011','ol2013','android4','androidgmailapp','ipad','iphone4','iphone5','iphone5s','iphone6','iphone6plus','chromegmailnew', 'ffgmailnew','gmailnew','chromeoutlookcom','outlookcom','ffoutlookcom']
         }
       }
