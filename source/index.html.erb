@@ -1,67 +1,42 @@
----
-title: Welcome Karin
----
-<style>
-  ul, li {list-style: none;}
-  ul {margin: 0 0 1em 0; padding:0 0 0 0.5em;}
-  li {margin: 0 0 0.2em 0; padding:0 0 0 0.3em;}
-  h1,h2,h3,h4,h5,h6 {margin-bottom:0;}
-  .welcome {color: #333;}
-  h2 {color:#555; margin: 0.2em 0 0 0; font-size:18px;}
-  p {margin:0;}
-</style>
-<div class="welcome">
-
-  <h1>Alabama Power Lakes</h1>
-  <ul>
-    <li>
-      <a href="/alabama_power_lakes/lakes.html">Lakes Newsletter</a>
-    </li>
-  </ul>
-  <h1>Alabama Travel</h1>
-  <ul>
-    <li>
-      <a href="/alabama_tourism/newsletter.html">Newsletter</a>
-    </li>
-  </ul>
-  <h1>Backed By Bayer</h1>
-  <ul>
-  	<li>
-  		<a href="/backed_by_bayer/plant-health-scholarship/scholarship.html">Plant Health Scholarship</a>
-  	</li>
-    <li>
-      <a href="/backed_by_bayer/max-force-promo/max.html">LINK GOES HERE</a>
-    </li>
-    <li><h2>Fall Solutions</h2>
+<html>
+<head>
+	
+	<style>
+	  ul, li {list-style: none;}
+	  ul {margin: 0 0 1em 0; padding:0 0 0 0.5em;}
+	  li {margin: 0 0 0.2em 0; padding:0 0 0 0.3em;}
+	  h1,h2,h3,h4,h5,h6 {margin-bottom:0;}
+	  .welcome {color: #333;}
+	  h2 {color:#555; margin: 0.2em 0 0 0; font-size:18px;}
+	  p {margin:0;}
+	</style>
+	
+</head>
+ <body>
+ <div class="welcome">
+<h1>Email Proofs</h1>
+ 
+<br/>
+<hr/>
+<%  directories = Dir.entries("./build") 
+    directories.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template|\.|\.\.|images|index\.html|javascripts|stylesheets/i }
+    directories.each do |directory_name| 
+%>
+<h2><%= directory_name %></h2>
+<br/>
     <ul>
-      <li><a href="/backed_by_bayer/fall-solutions/non-participant/touch-2/nonpart2.html">End User Non-participant Touch 2</a></li>
-
-
+    <%     
+        files = Dir.glob("./build/"+directory_name+"/**/*.html")
+        files.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
+        files.each do |file_name| 
+        file_contents = IO.read(file_name)
+        file_title = /(\<title\>)(.*)(\<\/title\>)/.match(file_contents)[2]
+    %>
+        <li><a href="<%= file_name[('./build/').length,file_name.length] %>"><%= file_name[('./build/'+directory_name+'/').length,file_name.length] %></a> - <%= file_title %></li>
+    <% end %>
     </ul>
-    </li>
-  </ul>
-  <h1>Bayer Advanced</h1>
-  <ul>
-        <li><a href="/bayer_advanced/ask_lance/ask_lance.html">Ask Lance</a></li>
-        <li><a href="/bayer_advanced/pest/pest.html">Pest Alert</a></li>
-        <li><h2>Garden Gazette</h2>
-        <ul>
-        <li><a href="/bayer_advanced/garden_gazette/green_a/green.html">Green</a></li>
-        <li><a href="/bayer_advanced/garden_gazette/blue/blue.html">Blue</a></li>
-        <li><a href="/bayer_advanced/garden_gazette/orange/orange.html">Orange</a></li>
-      </ul>
-      </li>
-  </ul>
-  <h1>Carespot</h1>
-  <ul>
-    <li>
-      <a href="/carespot/carespot.html">Carespot</a>
-    </li>
-  </ul>
-  <h1>Express Oil</h1>
-  <ul>
-    <li>
-      <a href="/express_oil/eoc_survey/survey.html">EOC Survey</a>
-    </li>
-  </ul>
-</div><!-- .welcome -->
+<hr/>
+<br/>
+ <% end %>
+ </div><!-- .welcome -->
+</body>
