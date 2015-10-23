@@ -12,27 +12,31 @@
 	</style>
 	
 </head>
-<body>
-<div class="welcome">
-<h1>Emails in this build</h1>
-
+ <body>
+ <div class="welcome">
+<h1>Email Proofs</h1>
+ 
+<br/>
+<hr/>
 <%  directories = Dir.entries("./build") 
-	directories.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template|\.|\.\.|images|index\.html|javascripts|stylesheets/i }
-	directories.each do |directory_name| 
+    directories.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template|\.|\.\.|images|index\.html|javascripts|stylesheets/i }
+    directories.each do |directory_name| 
 %>
 <h2><%= directory_name %></h2>
-
-	<ul>
-	<% 	
-		files = Dir.glob("./build/"+directory_name+"/**/*.html")
-		files.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
-		files.each do |file_name| 
-	%>
-		<li><a href="<%= file_name[('./build/').length,file_name.length] %>"><%= file_name[('./build/'+directory_name+'/').length,file_name.length] %></a></li>
-	<% end %>
-	</ul>
-
-<% end %>
-
-</div><!-- .welcome -->
+<br/>
+    <ul>
+    <%     
+        files = Dir.glob("./build/"+directory_name+"/**/*.html")
+        files.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
+        files.each do |file_name| 
+        file_contents = IO.read(file_name)
+        file_title = /(\<title\>)(.*)(\<\/title\>)/.match(file_contents)[2]
+    %>
+        <li><a href="<%= file_name[('./build/').length,file_name.length] %>"><%= file_name[('./build/'+directory_name+'/').length,file_name.length] %></a> - <%= file_title %></li>
+    <% end %>
+    </ul>
+<hr/>
+<br/>
+ <% end %>
+ </div><!-- .welcome -->
 </body>
