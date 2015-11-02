@@ -287,7 +287,7 @@
                           <table width="300" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row">
                            <tr>
                               <td class="col column1" valign="top">
-                                 <a href="<%=@base_start_registry_text%>" target="_blank">
+                                 <a href="<%=@base_start_registry_link%>" target="_blank">
                                     <%=@base_start_registry_text%>
                                  </a>
                                  <br><br>
@@ -589,7 +589,7 @@
                                  </a>
                               </td>
                               <td valign="top" class="go-away" width="183">
-                                 <a href="<%=@base_gift_card_link%>" target="_blank" class="go-away">
+                                 <a href="<%=@base_gift_cards_link%>" target="_blank" class="go-away">
                                     <img src="<%=@base_gift_cards_img%>" alt="<%=@base_gift_cards_alt%>" border="0" width="183" height="201" />
                                  </a>
                               </td>
@@ -618,9 +618,10 @@
                                     <b><%=@base_footer_closest_store_text%></b>
                                     <br><%=@base_footer_closest_example_text%>
                                     <br>
-                                    <a href="#" target="_blank">
+                                    <a href="<%=@base_footer_closest_map_link%>" target="_blank">
                                        <%=@base_footer_closest_map_text%>
-                                    </a>&nbsp;|&nbsp;<a href="#" target="_blank"><%=@base_footer_closest_another_location_text%></a>
+                                    </a>
+                                    </a>&nbsp;|&nbsp;<a href="<%=@base_footer_closest_another_location_link%>" target="_blank"><%=@base_footer_closest_another_location_text%></a>
                                  </div>
                                  <%=@base_footer_sent_by%>.
                                  <br>
