@@ -164,6 +164,10 @@
             width: 420px;
           }
 
+          .img-promo {
+            width: 300px;
+          }
+
           .text-center {
             text-align: center;
           }
@@ -245,12 +249,16 @@
         }
 
         td[class*="main-content"] {
-         padding-left: 15px;
-         padding-right: 15px;
+         /*padding-left: 15px;
+         padding-right: 15px;*/
         }
 
         td[class*="short-content-block"],
         div[class*="short-content-block"] {
+          width: 100% !important;
+        }
+
+        img[class*="img-promo"] {
           width: 100% !important;
         }
 
@@ -544,7 +552,6 @@
                         <a href="<%=@base_cta_img_link%>" target="_blank">
                             <img src="<%=@base_cta_img%>" align="center" class="inline-block" alt="<%=@base_cta_img_alt%>">
                         </a>
-                        <img src="../images/spacer.gif" alt="" width="1" height="30">
                      </td>
                   </tr>
                   <!-- /CTA -->
@@ -552,7 +559,7 @@
                   <tr class="go-away" align="center">
                     <td valign="top" class="go-away">
                       <img src="../images/scallop.jpg" alt="">
-                      <img src="../images/spacer.gif" alt="" width="1" height="16">
+                      
                     </td>
                   </tr>
 
@@ -566,7 +573,7 @@
                               <tr>
                                  <td class="col">
                                     <a href="<%=@base_promo1_link%>" target="_blank">
-                                       <img src="<%=@base_promo1_img%>" alt="<%=@base_promo1_alt%>" border="0" class="center-block" />
+                                       <img src="<%=@base_promo1_img%>" alt="<%=@base_promo1_alt%>" width="300" border="0" class="center-block img-promo" />
                                     </a>
                                  </td>
                               </tr>
@@ -576,7 +583,7 @@
                               <tr>
                                  <td class="col">
                                     <a href="<%=@base_promo2_link%>" target="_blank">
-                                       <img src="<%=@base_promo2_img%>" alt="<%=@base_promo2_alt%>" border="0" class="center-block" />
+                                       <img src="<%=@base_promo2_img%>" alt="<%=@base_promo2_alt%>" width="300" border="0" class="center-block img-promo"/>
                                     </a>
                                  </td>
                               </tr>
