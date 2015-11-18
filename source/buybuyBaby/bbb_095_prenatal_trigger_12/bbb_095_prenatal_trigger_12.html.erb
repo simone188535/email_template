@@ -50,7 +50,6 @@
             display: block;
             border:none;
             outline:none;
-            width: auto;
             max-width: 100%;
             -ms-interpolation-mode: bicubic;
           }
@@ -198,6 +197,10 @@
             font-size: 12px;
           }
 
+          .nav img {
+            width: 200px;
+          }
+
     </style>
 
     <style type="text/css" data-embed>
@@ -283,8 +286,13 @@
             padding-left: 15px;
             padding-right: 15px;
          }
-
+        table[class="nav"] img,
+        table[class="nav"] td {
+          height: auto !important;
+          width: auto !important;
+        }
       }
+
     </style>
     <!-- 
       Table columns fixed width measurement:
@@ -373,19 +381,19 @@
                      <td valign="top">
                         <table border="0" width="100%" cellpadding="0" cellspacing="0" class="nav">
                            <tr>
-                              <td bgcolor="#EC1556" valign="top" width="33.333%">
+                              <td bgcolor="#EC1556" valign="top" width="200">
                                  <a href="<%=@base_whats_new_link%>" target="_blank">
-                                    <img src="<%=@base_whats_new_img%>" alt="<%=@base_whats_new_alt%>" border="0" />
+                                    <img src="<%=@base_whats_new_img%>" width="200" alt="<%=@base_whats_new_alt%>" border="0" />
                                  </a>
                               </td>
-                              <td bgcolor="#EC1556" valign="top" width="33.333%">
+                              <td bgcolor="#EC1556" valign="top" width="200">
                                  <a href="<%=@base_free_ship_link%>" target="_blank">
-                                    <img src="<%=@base_free_ship_img%>" alt="<%=@base_free_ship_alt%>" border="0" />
+                                    <img src="<%=@base_free_ship_img%>" width="200" alt="<%=@base_free_ship_alt%>" border="0" />
                                  </a>
                               </td>
-                              <td bgcolor="#EC1556" valign="top" width="33.333%">
+                              <td bgcolor="#EC1556" valign="top" width="200">
                                  <a href="<%=@base_clearance_link%>" target="_blank">
-                                    <img src="<%=@base_clearance_img%>" alt="<%=@base_clearance_alt%>" border="0" />
+                                    <img src="<%=@base_clearance_img%>" width="200" alt="<%=@base_clearance_alt%>" border="0" />
                                  </a>
                               </td>
                            </tr>
@@ -568,22 +576,22 @@
                      <td valign="top">
                         <!--[if mso]>
                         <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                          <tr><td width="50%" valign="top"><![endif]-->
-                           <table width="300" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row">
+                          <tr><td width="298" style="width: 298px;" valign="top"><![endif]-->
+                           <table width="298" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row" style="width: 298px;">
                               <tr>
                                  <td class="col">
                                     <a href="<%=@base_promo1_link%>" target="_blank">
-                                       <img src="<%=@base_promo1_img%>" alt="<%=@base_promo1_alt%>" width="300" border="0" class="center-block img-promo" />
+                                       <img src="<%=@base_promo1_img%>" alt="<%=@base_promo1_alt%>" border="0" class="center-block img-promo" width="298" style="width: 298px;" />
                                     </a>
                                  </td>
                               </tr>
                            </table>
-                        <!--[if mso]></td><td width="50%" valign="top"><![endif]-->
-                           <table width="300" border="0" cellpadding="0" cellspacing="0" align="right" class="force-row">
+                        <!--[if mso]></td><td width="298" style="width: 298px;" valign="top"><![endif]-->
+                           <table width="298" style="width: 298px;" border="0" cellpadding="0" cellspacing="0" align="right" class="force-row">
                               <tr>
                                  <td class="col">
                                     <a href="<%=@base_promo2_link%>" target="_blank">
-                                       <img src="<%=@base_promo2_img%>" alt="<%=@base_promo2_alt%>" width="300" border="0" class="center-block img-promo"/>
+                                       <img src="<%=@base_promo2_img%>" alt="<%=@base_promo2_alt%>" border="0" class="center-block img-promo" width="298" style="width: 298px;" />
                                     </a>
                                  </td>
                               </tr>
@@ -599,19 +607,19 @@
                       <img src="../images/spacer.gif" alt="" width="1" height="15">
                         <table border="0" width="100%" cellpadding="0" cellspacing="0">
                            <tr>
-                              <td class="go-away" valign="top" align="right" width="244">
+                              <td class="go-away" valign="top" align="right" width="228">
                                   <a href="<%=@base_find_registry_link%>" target="_blank" class="go-away">
-                                    <img src="<%=@base_find_registry_img%>" alt="<%=@base_find_registry_alt%>" border="0" width="244" height="201" align="right" />
+                                    <img src="<%=@base_find_registry_img%>" alt="<%=@base_find_registry_alt%>" border="0" width="228" height="201" align="right" />
                                  </a>
                               </td>
-                              <td valign="top" class="go-away" width="183">
+                              <td valign="top" class="go-away" width="172">
                                  <a href="<%=@base_gift_cards_link%>" target="_blank" class="go-away">
-                                    <img src="<%=@base_gift_cards_img%>" alt="<%=@base_gift_cards_alt%>" border="0" width="183" height="201" />
+                                    <img src="<%=@base_gift_cards_img%>" alt="<%=@base_gift_cards_alt%>" border="0" width="172" height="201" />
                                  </a>
                               </td>
-                              <td valign="top" class="mobile-dot-promo" width="212">
+                              <td valign="top" class="mobile-dot-promo" width="200">
                                  <a href="<%=@base_healthy_women_link%>" target="_blank">
-                                    <img src="<%=@base_healthy_women_img%>" alt="<%=@base_healthy_women_alt%>" border="0" width="212" height="200" />
+                                    <img src="<%=@base_healthy_women_img%>" alt="<%=@base_healthy_women_alt%>" border="0" width="200" height="200" />
                                  </a>
                               </td>
                            </tr>
