@@ -151,8 +151,8 @@
           }
           .main-content .content-blocks,
           .main-content .content-blocks td {
-            font-size: 13px;
-            line-height: 18px;
+            font-size: 12px;
+            line-height: 15px;
           }
 
           .main-content .content-list .list-title {
@@ -255,7 +255,7 @@
       in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
 
       @media screen and (max-width: 599px) {
-        table[class="force-row"],
+        table[class*="force-row"],
         table[class="container"] {
           width: 100% !important;
           max-width: 100% !important;
@@ -513,43 +513,51 @@
                                   <table width="261" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row content-blocks">
                                     <tr>
                                       <td valign="top" class="main-content">
-                                        <span class="green">
-                                          <b><%=@base_block_1_title%></b>
-                                        </span><br>
-                                        <%=@base_block_1_text%>
-                                      </td>
-                                    </tr>
-                                    <tr>
-                                      <td height="20">
-                                        <img src="../images/spacer.gif" alt="" width="1" height="20">
-                                      </td>
-                                    </tr>
+                                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                              <tr>
+                                                <td valign="top" class="main-content">
+                                                  <span class="green">
+                                                    <b><%=@base_block_1_title%></b>
+                                                  </span><br>
+                                                  <%=@base_block_1_text%>
+                                                </td>
+                                              </tr>
+                                              <tr>
+                                                <td height="20">
+                                                  <img src="../images/spacer.gif" alt="" width="1" height="20">
+                                                </td>
+                                              </tr>
+                                              <tr>
+                                                <td valign="top" class="main-content">
+                                                  <span class="green">
+                                                    <b><%=@base_block_2_title%></b>
+                                                  </span><br>
+                                                  <%=@base_block_2_text%>
+                                                </td>
+                                              </tr>
+                                              <tr>
+                                                <td height="20">
+                                                  <img src="../images/spacer.gif" alt="" width="1" height="20">
+                                                </td>
+                                              </tr>
 
-                                    <tr>
-                                      <td valign="top" class="main-content">
-                                        <span class="green">
-                                          <b><%=@base_block_2_title%></b>
-                                        </span><br>
-                                        <%=@base_block_2_text%>
+                                              <tr>
+                                                <td valign="top" class="main-content">
+                                                  <span class="green">
+                                                    <b><%=@base_block_3_title%></b>
+                                                  </span><br>
+                                                  <%=@base_block_3_text%>
+                                                </td>
+                                              </tr>
+                                              <tr>
+                                                <td height="20">
+                                                  <img src="../images/spacer.gif" alt="" width="1" height="20">
+                                                </td>
+                                              </tr>
+                                        </table>
                                       </td>
-                                    </tr>
-                                    <tr>
-                                      <td height="20">
-                                        <img src="../images/spacer.gif" alt="" width="1" height="20">
-                                      </td>
-                                    </tr>
-
-                                    <tr>
-                                      <td valign="top" class="main-content">
-                                        <span class="green">
-                                          <b><%=@base_block_3_title%></b>
-                                        </span><br>
-                                        <%=@base_block_3_text%>
-                                      </td>
-                                    </tr>
-                                    <tr>
-                                      <td height="20">
-                                        <img src="../images/spacer.gif" alt="" width="1" height="20">
+                                      <td width="10">
+                                        <img src="../images/spacer.gif" alt="" width="10" height="1">
                                       </td>
                                     </tr>
                                   </table>
@@ -563,6 +571,35 @@
                                         </a>
                                       </td>
                                     </tr>
+                                    <tr>
+                                      <td height="20">
+                                        <img src="../images/spacer.gif" alt="" width="1" height="20">
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td valign="top">
+                                        <a href="<%=@base_content_img_3_link%>" target="_blank">
+                                          <img src="<%=@base_content_img_3%>" alt="<%=@base_content_img_3_alt%>" class="center-block">
+                                        </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="20">
+                                        <img src="../images/spacer.gif" alt="" width="1" height="20">
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td valign="top">
+                                        <a href="<%=@base_content_img_5_link%>" target="_blank">
+                                          <img src="<%=@base_content_img_5%>" alt="<%=@base_content_img_5_alt%>" class="center-block">
+                                        </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="20">
+                                        <img src="../images/spacer.gif" alt="" width="1" height="20">
+                                      </td>
+                                    </tr>
                                   </table>
 
                                   <!--[if mso]></td><td width="146" valign="top"><![endif]-->
@@ -574,74 +611,40 @@
                                         </a>
                                       </td>
                                     </tr>
-                                  </table>
-
-                                  <!--[if mso]></td></tr></table><![endif]-->
-                                </td>
-                              </tr>
-                              
-
-                              <!-- Product list -->
-                              <tr>
-                                <td valign="top" class="main-content">
-                                  <!--[if mso]>
-                                  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                    <tr><td width="185" valign="top"><![endif]-->
-                                  <table width="185" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row">
                                     <tr>
-                                      <td valign="top" class="main-content" width="26">
-                                        <img src="<%=@base_list_bullet_a%>" alt="<%=@base_list_bullet_a_alt%>" height="17" width="16">
+                                      <td height="20">
+                                        <img src="../images/spacer.gif" alt="" width="1" height="20">
                                       </td>
-                                      <td valign="top" class="main-cotent">
-                                        <a href="<%=@base_list_1_img_link%>" target="_blank">
-                                          <img src="<%=@base_list_1_img%>" alt="<%=@base_list_1_img_alt%>">
+                                    </tr>
+                                    <tr>
+                                      <td valign="top">
+                                        <a href="<%=@base_content_img_4_link%>" target="_blank">
+                                          <img src="<%=@base_content_img_4%>" alt="<%=@base_content_img_4_alt%>" class="center-block">
                                         </a>
                                       </td>
                                     </tr>
                                     <tr>
-                                      <td valign="top" class="main-content" width="26">
-                                        <img src="<%=@base_list_bullet_b%>" alt="<%=@base_list_bullet_b_alt%>" height="17" width="16">
+                                      <td height="20">
+                                        <img src="../images/spacer.gif" alt="" width="1" height="20">
                                       </td>
-                                      <td valign="top" class="main-cotent">
-                                        <a href="<%=@base_list_2_img_link%>" target="_blank">
-                                          <img src="<%=@base_list_2_img%>" alt="<%=@base_list_2_img_alt%>">
+                                    </tr>
+                                    <tr>
+                                      <td valign="top">
+                                        <a href="<%=@base_content_img_6_link%>" target="_blank">
+                                          <img src="<%=@base_content_img_6%>" alt="<%=@base_content_img_6_alt%>" class="center-block">
                                         </a>
                                       </td>
                                     </tr>
                                     <tr>
-                                      <td valign="top" class="main-content" width="26">
-                                        <img src="<%=@base_list_bullet_c%>" alt="<%=@base_list_bullet_c_alt%>" height="17" width="16">
-                                      </td>
-                                      <td valign="top" class="main-cotent">
-                                        <a href="<%=@base_list_3_img_link%>" target="_blank">
-                                          <img src="<%=@base_list_3_img%>" alt="<%=@base_list_3_img_alt%>">
-                                        </a>
-                                      </td>
-                                    </tr>
-                                  </table>
-
-                                  <!--[if mso]></td><td width="355" valign="top"><![endif]-->
-
-                                  <table width="355" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row">
-                                    <tr>
-                                      <td valign="top" class="main-content">
-                                      <td valign="top" class="main-cotent">
-                                        <a href="<%=@base_content_img_1_link%>" target="_blank">
-                                          <img src="<%=@base_content_img_1%>" alt="<%=@base_content_img_1_alt%>" align="left" class="center-block">
-                                        </a>
+                                      <td height="20">
+                                        <img src="../images/spacer.gif" alt="" width="1" height="20">
                                       </td>
                                     </tr>
                                   </table>
 
                                   <!--[if mso]></td></tr></table><![endif]-->
-
-
                                 </td>
                               </tr>
-                              <!-- /Product list -->
-
-
-
                             </table>
                           </td>
                           <td width="30" class="go-away">
@@ -658,13 +661,6 @@
                     </td>
                    </tr>
                    
-
-
-                   <tr>
-                    <td height="30">
-                       <img src="../images/spacer.gif" alt="" width="1" height="30">
-                    </td>
-                  </tr>
                   <!-- /Main content -->
 
                   <tr class="go-away" align="center">
@@ -690,8 +686,8 @@
                               </tr>
                            </table>
                         <!--[if mso]></td><td width="298" style="width: 298px;" valign="top"><![endif]-->
-                           <table width="298" style="width: 298px;" border="0" cellpadding="0" cellspacing="0" align="right" class="force-row">
-                              <tr>
+                           <table width="298" style="width: 298px;" border="0" cellpadding="0" cellspacing="0" align="right" class="force-row go-away">
+                              <tr class="go-away">
                                  <td class="col">
                                     <a href="<%=@base_promo2_link%>" target="_blank">
                                        <img src="<%=@base_promo2_img%>" alt="<%=@base_promo2_alt%>" border="0" class="center-block img-promo" width="298" style="width: 298px;" />
