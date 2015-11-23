@@ -1,6 +1,6 @@
 require "em/pure_ruby"
 require "fuelsdk"
-#activate :livereload
+activate :livereload
 ###
 # Compass
 ###
