@@ -33,8 +33,9 @@
         files_html.each do |file_name| 
 	        file_contents = IO.read(file_name)
 	        file_title = /(\<title\>)(.*)(\<\/title\>)/.match(file_contents)
+			file_first_line = file_contents.lines[0]
 			if file_title==nil
-				file_title = 'Unknown'
+				file_title = file_first_line
 			 else
 				file_title = file_title[2]
 			end
@@ -46,8 +47,9 @@
         files_txt.each do |file_name| 
 	        file_contents = IO.read(file_name)
 	        file_title = /(\<title\>)(.*)(\<\/title\>)/.match(file_contents)
+			file_first_line = file_contents.lines[0]
 			if file_title==nil
-				file_title = 'Unknown'
+				file_title = file_first_line
 			 else
 				file_title = file_title[2]
 			end
