@@ -6,7 +6,7 @@
 <head>
 <meta name="viewport" content="width=device-width">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title><%=@base_title_e%></title>
+<title><%=@base_title%></title>
 <style>
 /* -------------------------------------
     GLOBAL
@@ -83,7 +83,6 @@ a {
     BODY
 ------------------------------------- */
 table.body-wrap {
-  padding: 20px;
   width: 100%;
 }
 
@@ -162,7 +161,6 @@ ol li {
 
 /* Set the padding on the td rather than the div for Outlook compatibility */
 .body-wrap .container {
-  padding: 20px;
 }
 
 /* This should also be a block element, so that it will fill 100% of the .container */
@@ -175,6 +173,42 @@ ol li {
 /* Let's make sure tables in the content area are 100% wide */
 .content table {
   width: 100%;
+}
+
+thead td {
+	font-size: 1.6rem;
+	font-weight: bold;
+}
+.hero_image {
+	font-size: 1.5rem;
+	text-align: center;
+}
+.hero_image img {
+	
+}
+
+.description {
+	font-size: 0.8rem;
+	padding:5px;
+	margin:5px;
+}
+.big_sub_score {
+	font-size: 7rem;	
+}
+.totalTitle {
+	font-size: 3rem;
+	text-align: center;	
+}
+.big_score {
+	font-size: 10rem;
+	text-align: center;	
+}
+.leftside {
+    border: solid 1px #348eda;
+}
+
+.emailTitle {
+	text-align: center;
 }
 
 </style>
@@ -206,53 +240,38 @@ ol li {
 <table class="body-wrap" bgcolor="#f6f6f6">
   <tr>
     <td></td>
-    <td class="container" bgcolor="#FFFFFF">
+    <td class="container">
 
       <!-- content -->
       <div class="content">
 <table cellpadding="0" cellspacing="0">
+				<thead><td colspan="2" class="emailTitle"><%=@base_title_table%></td></thead>
     <tr>
         <td class="pattern" width="600" align="center">
             <table cellpadding="0" cellspacing="0">
                 <tr>
                     <td class="col" width="290" valign="top">
-                        <table cellpadding="0" cellspacing="0">
+                        <table cellpadding="0" cellspacing="0" class="leftside">
                             <tr>
-                                <td class="hero_image"><img src="http://placehold.it/450x150" width="290" alt="" style="display: block; border: 0;" /></td>
+                                <td class="hero_image"><%=@base_hand_hygiene_title%><br/><img src="<%=@base_hand_hygiene_image%>" width="" alt="<%=@base_hand_hygiene_alt%>" style="display: block; border: 0;" /></td>
+								<td class="description"><%=@base_hand_hygiene_desc_e%></td>
+                                <td class="big_sub_score"><%=@base_hand_hygiene_score_e%></td>
                             </tr>
                             <tr>
-                                <td class="headline" align="left" style="font-family: arial,sans-serif; font-size: 22px; color: #333; padding-top: 15px;">
-                                    This is a story headline
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="body_copy" align="left" style="font-family: arial,sans-serif; font-size: 14px; line-height: 20px !important; color: #7f7f7f; padding-top: 10px;">
-                                    Virtual computing via the cloud is all the rage these days but blade servers, which make up the bulk of the infrastructure for cloud computing systems, require specific fusing for high reliability and uptime. The Littelfuse 456 Series--- NANO2 Subminature Surface Mount Fuse - is perfect for this.
-                                </td>
-                            </tr>
-                            <tr>
-                                <td align="left" style="padding-top: 15px;"><img src="http://placehold.it/118x34/333&text=Learn+More" alt="Learn More" style="display: block; border: 0;" /></td>
+                                <td class="hero_image"><%=@base_surface_cleanliness_title%><br/><img src="<%=@base_surface_cleanliness_image%>" width="" alt="<%=@base_surface_cleanliness_alt%>" style="display: block; border: 0;" /></td>
+								<td class="description"><%=@base_surface_cleanliness_desc_e%></td>
+                                <td class="big_sub_score"><%=@base_surface_cleanliness_score_e%></td>
                             </tr>
                         </table>
                     </td>
                     <td class="spacer" width="20" style="font-size: 1px;">&nbsp;</td>
                     <td class="col" width="290" valign="top">
-                        <table cellpadding="0" cellspacing="0">
+                        <table cellpadding="0" cellspacing="0" class="leftside">
                             <tr>
-                                <td class="hero_image"><img src="http://placehold.it/450x150" width="290" alt="" style="display: block; border: 0;" /></td>
+                                <td class="totalTitle"><%=@base_total_title%></td>
                             </tr>
                             <tr>
-                                <td class="headline" align="left" style="font-family: arial,sans-serif; font-size: 22px; color: #333; padding-top: 15px;">
-                                    This is a story headline
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="body_copy" align="left" style="font-family: arial,sans-serif; font-size: 14px; line-height: 20px !important; color: #7f7f7f; padding-top: 10px;">
-                                    Virtual computing via the cloud is all the rage these days but blade servers, which make up the bulk of the infrastructure for cloud computing systems, require specific fusing for high reliability and uptime. The Littelfuse 456 Series--- NANO2 Subminature Surface Mount Fuse - is perfect for this.
-                                </td>
-                            </tr>
-                            <tr>
-                                <td align="left" style="padding-top: 15px;"><img src="http://placehold.it/118x34/333&text=Learn+More" alt="Learn More" style="display: block; border: 0;" /></td>
+                                <td class="big_score"><%=@base_total_score_e%></td>
                             </tr>
                         </table>
                     </td>

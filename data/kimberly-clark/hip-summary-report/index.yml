@@ -1,5 +1,20 @@
-title_e: 'My Title'
+title: 'Heroes in Prevention (HIP) Summary Report'
 unsubscribe_text: 'Tired of getting these emails?'
 unsubscribe_link: 'http://www.google.com'
 unsubscribe_link_text: 'Unsubscribe'
 
+title_table: 'Heroes in Prevention (HIP) Summary Report'
+hand_hygiene_title: 'Hand Hygiene'
+hand_hygiene_image: 'https://placeholdit.imgix.net/~text?txtsize=24&txt=Hand%20Hygiene%20Image&w=150&h=150'
+hand_hygiene_alt: 'Hand Hygiene'
+hand_hygiene_desc_e: 'You broke the cycle of transmission 8378 times this week, versus 3897 times last week.'
+hand_hygiene_score_e: '6'
+
+surface_cleanliness_title: 'Surface Cleanliness'
+surface_cleanliness_image: 'https://placeholdit.imgix.net/~text?txtsize=24&txt=Surface%20Cleanliness%20Image&w=150&h=150'
+surface_cleanliness_alt: 'Surface Cleanliness'
+surface_cleanliness_desc_e: 'Your ATP score was 0 this week, versus 0 last week.'
+surface_cleanliness_score_e: '6'
+
+total_title: 'Total'
+total_score_e: '12'
