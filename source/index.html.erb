@@ -26,35 +26,13 @@
 <br/>
     <ul>
     <%     
-        files_html = Dir.glob("./build/"+directory_name+"/**/*.html")
-        files_txt  = Dir.glob("./build/"+directory_name+"/**/*.txt")
-
-        files_html.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
-        files_html.each do |file_name| 
-	        file_contents = IO.read(file_name)
-	        file_title = /(\<title\>)(.*)(\<\/title\>)/.match(file_contents)
-			file_first_line = file_contents.lines[0]
-			if file_title==nil
-				file_title = file_first_line
-			 else
-				file_title = file_title[2]
-			end
-			
-	    %>
-	        <li><a href="<%= file_name[('./build/').length,file_name.length] %>"><%= file_name[('./build/'+directory_name+'/').length,file_name.length] %></a> - <%= file_title %></li>
-    <% end
-        files_txt.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
-        files_txt.each do |file_name| 
-	        file_contents = IO.read(file_name)
-	        file_title = /(\<title\>)(.*)(\<\/title\>)/.match(file_contents)
-			file_first_line = file_contents.lines[0]
-			if file_title==nil
-				file_title = file_first_line
-			 else
-				file_title = file_title[2]
-			end
-	    %>
-	        <li><a href="<%= file_name[('./build/').length,file_name.length] %>"><%= file_name[('./build/'+directory_name+'/').length,file_name.length] %></a> - <%= file_title %></li>
+        files = Dir.glob("./build/"+directory_name+"/**/*.html")
+        files.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
+        files.each do |file_name| 
+        file_contents = IO.read(file_name)
+        file_title = /(\<title\>)(.*)(\<\/title\>)/.match(file_contents)[2]
+    %>
+        <li><a href="<%= file_name[('./build/').length,file_name.length] %>"><%= file_name[('./build/'+directory_name+'/').length,file_name.length] %></a> - <%= file_title %></li>
     <% end %>
     </ul>
 <hr/>
