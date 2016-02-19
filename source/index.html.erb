@@ -26,13 +26,33 @@
 <br/>
     <ul>
     <%     
-        files = Dir.glob("./build/"+directory_name+"/**/*.html")
-        files.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
-        files.each do |file_name| 
-        file_contents = IO.read(file_name)
-        file_title = /(\<title\>)(.*)(\<\/title\>)/.match(file_contents)[2]
-    %>
-        <li><a href="<%= file_name[('./build/').length,file_name.length] %>"><%= file_name[('./build/'+directory_name+'/').length,file_name.length] %></a> - <%= file_title %></li>
+        files_html = Dir.glob("./build/"+directory_name+"/**/*.html")
+        files_txt = Dir.glob("./build/"+directory_name+"/**/*.txt")
+		
+		['Cat', 'Dog', 'Bird'].include? 'Dog'
+
+        files_html.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
+        files_html.each do |file_name| 
+	        file_contents = IO.read(file_name)
+	        file_title = /(\<title\>)(.*)(\<\/title\>)/.match(file_contents)
+			file_extension = (file_name.last(file_name.length-file_name.rindex('.')-1)).upcase
+			txt_file_name = file_name.first(file_name.rindex('.'))+".txt"
+			has_text = files_txt.include?(txt_file_name)
+			if file_title==nil
+				file_title = file_contents.lines[0]
+			 else
+				file_title = file_title[2]
+			end
+	    %>
+	        <li><%= file_title %> - <a href="<%= file_name[('./build/').length,file_name.length] %>">HTML</a> - 
+		<%
+				if has_text==true
+		%>
+		<a href="<%= txt_file_name[('./build/').length,txt_file_name.length] %>">TXT</a>
+		<%
+				end
+		%>
+			</li>
     <% end %>
     </ul>
 <hr/>
