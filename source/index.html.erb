@@ -29,8 +29,6 @@
         files_html = Dir.glob("./build/"+directory_name+"/**/*.html")
         files_txt = Dir.glob("./build/"+directory_name+"/**/*.txt")
 		
-		['Cat', 'Dog', 'Bird'].include? 'Dog'
-
         files_html.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
         files_html.each do |file_name| 
 	        file_contents = IO.read(file_name)
@@ -46,11 +44,11 @@
 	    %>
 	        <li><%= file_title %> - <a href="<%= file_name[('./build/').length,file_name.length] %>">HTML</a> - 
 		<%
-				if has_text==true
+			if has_text==true
 		%>
 		<a href="<%= txt_file_name[('./build/').length,txt_file_name.length] %>">TXT</a>
 		<%
-				end
+			end
 		%>
 			</li>
     <% end %>
