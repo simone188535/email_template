@@ -20,13 +20,20 @@ SETUP:
 
 In general, all you wil be doing is modifying the .yml file that the email is generated from, and changing the images.
 
-TO SEND:
+When creating files use the following structure: 
 
-run `bundle exec middleman build` OR `middleman build`, and collect the finished html file from the ./build directory. Right now, you have to zip up the images folder, I want to make a hook on build that does that automagically and plunks it on your desktop with the finished html file, but I haven't gotten to that yet.
+In the source directory: 
 
-UPDATES:
+HTML email: client_name/project_name/project_name.html.erb
 
-The functionality to inline CSS and send to Litmus from your dev environment has been added.
+Text email: client_name/project_name/project_name.txt.erb
+
+Image directory: client_name/project_name/images
+
+In the data directory: client_name/project_name/project_name.yml
+
+Do not use dashes (-) when naming folders or directories, use an underscore instead (_)
+
 
 CSS
 ------------
