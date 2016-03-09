@@ -11,9 +11,9 @@ module.exports = function(grunt) {
       test :{
         files: [{
           expand: true,           // Enable dynamic expansion.
-          cwd: 'build',        // Src matches are relative to this path.
-          src: ['**/*.html'],        // Actual pattern(s) to match.
-          dest: 'prod/',     // Destination path prefix.
+          cwd: 'build',           // Src matches are relative to this path.
+          src: ['**/*.html'],     // Actual pattern(s) to match.
+          dest: 'prod/',          // Destination path prefix.
           ext: '.html',           // Dest filepaths will have this extension.
         }],
         options: {
@@ -22,7 +22,22 @@ module.exports = function(grunt) {
       }
     },
 
-     // Litmus testing
+    // Image Compression
+    // ----------------------
+
+    imagemin: {
+      dynamic: {
+        files: [{
+          expand: true,
+          cwd: 'build/'+grunt.option('imgpath')+'/',  // image files are relative to this path
+          src: ['**/*.{png,jpg,gif}'],
+          dest: 'prod/'+grunt.option('imgpath')+'/'
+        }]
+      }
+    },
+
+
+    // Litmus testing
     // ----------------------
 
     // Test in all Outlook clients
@@ -42,10 +57,12 @@ module.exports = function(grunt) {
 
   grunt.loadNpmTasks('grunt-email-builder');
   grunt.loadNpmTasks('grunt-litmus');
+  grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-newer');
 
   // Default task(s).
   grunt.registerTask('default', ['emailBuilder']);
+  grunt.registerTask('images', ['newer:imagemin']); // grunt images --imgpath=client_name/project_name/images (replative to 'prod' folder, do not include '/' after the images directory path)
   grunt.registerTask('build',   ['newer:emailBuilder']);
   grunt.registerTask('send', ['litmus']); // grunt send --template=yourtemplate.html (relative to 'prod' folder)
 };

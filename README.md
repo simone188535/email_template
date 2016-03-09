@@ -34,6 +34,11 @@ In the data directory: client_name/project_name/project_name.yml
 
 Do not use dashes (-) when naming folders or directories, use an underscore instead (_)
 
+Images
+------------
+To minify/optimize images in a project folder, use the following command: 
+
+`grunt images --imgpath=client_name/project_name/images`
 
 CSS
 ------------
