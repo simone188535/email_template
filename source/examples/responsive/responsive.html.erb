@@ -42,11 +42,12 @@
         }
         table td {border-collapse:collapse;}
         table, tr, td {text-align: left;}
-        img{
+        img{ /* responsive images */
             display: block;
             border:none;
             outline:none;
-            width: auto;
+            width: auto !important;
+            height: auto !important;
             max-width: 100%;
             -ms-interpolation-mode: bicubic;
           }
@@ -82,6 +83,11 @@
             line-height: 16px;
           }
 
+          .header {
+            font-size: 18px;
+            line-height: 22px;
+          }
+
           sup {
             font-size:8px;
             line-height:0;
@@ -98,28 +104,35 @@
           }
 
           a {
-          color: #a12a7a;
+          color: #3232ae !important;
           text-decoration: none;
           }
 
           a:hover {
-            color: #a12a7a !important;
+            color: #3232ae !important;
           }
 
           a:active {
-            color: #a12a7a !important;
+            color: #3232ae !important;
           }
 
           a:visited {
             color: #a12a7a !important;
           }
 
-          /* Responsive images */
-          img.scale {
-              width: auto !important;
-              height: auto !important;
-              max-width: 100%;
-            }
+          .text-left {
+            text-align: left !important;
+          }
+
+          .text-center {
+            text-align: center !important;
+          }
+
+          .text-right {
+            text-align: right !important;
+          }
+
+
 
            /* Visibility Classes - Fixes Gmail bug of not supporting display:none. See media query override for mobile. This class must be used on the element as well as the element's parent. http://www.campaignmonitor.com/blog/post/3948/hiding-content-in-both-desktop-and-web-email-clients */
           .show-for-small, .footer.show-for-small,
@@ -212,7 +225,7 @@
 
                     <!-- Desktop spacing -->
                     <td class="go-away" width="40">
-                       <img src="../images/spacer.gif" width="40" height="1" alt="">
+                       <img src="images/spacer.gif" width="40" height="1" alt="">
                     </td>
                     <!-- /Desktop spacing -->
 
@@ -233,26 +246,28 @@
 
                       <table border="0" cellpadding="0" cellspacing="0" width="264" align="left" class="force-row">
                           <tr>
-                            <td class="col" valign="top" bgcolor="#999999">
+                            <td class="col" valign="top" bgcolor="#eeeeee">
                               <table border="0" cellpadding="0" cellspacing="0" width="100%">
                                 <tr>
                                   <td class="go-away" width="10">
-                                     <img src="../images/spacer.gif" width="10" height="1" alt="">
+                                     <img src="images/spacer.gif" width="10" height="1" alt="">
                                   </td>
-                                  <td valign="top">
+                                  <td valign="top" align="left">
                                     <br>
                                     <b><%=@base_column_one_header%></b>
-                                    <br>
-                                    <img src="<%=base_column_one_image_url%>" alt="<%base_column_one_image_alt%>">
                                     <br><br>
+                                    <center>
+                                      <img src="<%=@base_column_one_image_url%>" alt="<%@base_column_one_image_alt%>">
+                                    </center>
+                                    <br>
                                     <%=@base_column_one_text%>
                                     <br><br>
                                   </td>
                                   <td class="go-away" width="10">
-                                   <img src="../images/spacer.gif" width="10" height="1" alt="">
+                                   <img src="images/spacer.gif" width="10" height="1" alt="">
                                 </td>
                                 <td bgcolor="#ffffff" class="go-away">
-                                  <img src="../images/spacer.gif" width="10" height="1" alt="">
+                                  <img src="images/spacer.gif" width="10" height="1" alt="">
                                 </td>
                                 </tr>
                               </table>
@@ -264,23 +279,25 @@
 
                         <table border="0" cellpadding="0" cellspacing="0" width="264" align="right" class="force-row">
                           <tr>
-                            <td class="col" valign="top" bgcolor="#999999">
+                            <td class="col" valign="top" bgcolor="#eeeeee">
                               <table border="0" cellpadding="0" cellspacing="0" width="100%">
                                 <tr>
                                   <td class="go-away" width="10">
-                                     <img src="../images/spacer.gif" width="10" height="1" alt="">
+                                     <img src="images/spacer.gif" width="10" height="1" alt="">
                                   </td>
-                                  <td valign="top">
+                                  <td valign="top" align="left">
                                     <br>
                                     <b><%=@base_column_two_header%></b>
-                                    <br>
-                                    <img src="<%=base_column_two_image_url%>" alt="<%base_column_two_image_alt%>">
                                     <br><br>
+                                    <center>
+                                      <img src="<%=@base_column_two_image_url%>" alt="<%@base_column_two_image_alt%>">
+                                    </center>
+                                    <br>
                                     <%=@base_column_two_text%>
                                     <br><br>
                                   </td>
                                   <td class="go-away" width="10">
-                                   <img src="../images/spacer.gif" width="10" height="1" alt="">
+                                   <img src="images/spacer.gif" width="10" height="1" alt="">
                                 </td>
                                 </tr>
                               </table>
@@ -297,7 +314,7 @@
 
                     <!-- Desktop spacing -->
                     <td class="go-away" width="40">
-                      <img src="../images/spacer.gif" width="40" height="1" alt="">
+                      <img src="images/spacer.gif" width="40" height="1" alt="">
                     </td>
                     <!-- /Desktop spacing -->
 

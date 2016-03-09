@@ -1,6 +1,6 @@
 ## email farm
 
-this is a middleman application that generates html for emails. Only one email is setup this way at present, and that is a sample responsive email.
+This is a middleman application that generates html for emails. You can view example emails and there setup under the data/examples and source/examples folder.
 
 TO DEVELOP:
 
@@ -14,11 +14,13 @@ NOTE: Prerequisites:
 * Grunt - "npm install -g grunt-cli"
 * Middleman - bundle install middleman
 
-SETUP:
-1. 
-```
+---------------------------------------
+
+To build the email files, run `middleman server`. To view the emails in your browser, run `middleman server`. Then browse to localhost:4567/client_name/project_name/project_name.html
 
 In general, all you wil be doing is modifying the .yml file that the email is generated from, and changing the images.
+
+When running `middleman server`, when you make changes to the files, your browser will automatically reload render your changes. 
 
 When creating files use the following structure: 
 
