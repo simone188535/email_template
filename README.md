@@ -9,8 +9,8 @@ clone this repository, cd to it, bundle, and run middleman. at localhost:4567 wi
 ```
 NOTE: Prerequisites:
 * Node - https://docs.npmjs.com/getting-started/installing-node
-* Ruby - ruby 2.0.0p481 (2014-05-08 revision 45883) [universal.x86_64-darwin14]
-* Bundler - version 1.10.6
+* Ruby
+* Bundler
 * Grunt - "npm install -g grunt-cli"
 * Middleman - bundle install middleman
 
