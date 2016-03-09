@@ -20,8 +20,6 @@ To build the email files, run `middleman server`. To view the emails in your bro
 
 In general, all you wil be doing is modifying the .yml file that the email is generated from, and changing the images.
 
-When running `middleman server`, when you make changes to the files, your browser will automatically reload render your changes. 
-
 When creating files use the following structure: 
 
 In the source directory: 

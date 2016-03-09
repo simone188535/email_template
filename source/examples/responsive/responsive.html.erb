@@ -79,13 +79,18 @@
 
           }
           body, .container, .text, td, p {
-            font-size: 12px;
-            line-height: 16px;
+            font-size: 16px;
+            line-height: 20px;
           }
 
           .header {
-            font-size: 18px;
-            line-height: 22px;
+            font-size: 24px;
+            line-height: 28px;
+          }
+
+          .sub-header {
+            font-size: 20px;
+            line-height: 24px;
           }
 
           sup {
@@ -95,8 +100,8 @@
           }
 
           .view-online {
-            font-size: 10px;
-            line-height: 12px;
+            font-size: 12px;
+            line-height: 14px;
             text-align: center;
           }
           .view-online a {
@@ -190,6 +195,10 @@
         td[class="col"] {
           padding: 10px;
         }
+
+        div[class="header"], div[class="sub-header"] {
+          text-align: center;
+        }
       }
     </style>
   </head>
@@ -254,8 +263,10 @@
                                   </td>
                                   <td valign="top" align="left">
                                     <br>
-                                    <b><%=@base_column_one_header%></b>
-                                    <br><br>
+                                    <div class="sub-header">
+                                      <b><%=@base_column_one_header%></b>
+                                    </div>
+                                    <br>
                                     <center>
                                       <img src="<%=@base_column_one_image_url%>" alt="<%@base_column_one_image_alt%>">
                                     </center>
@@ -287,8 +298,10 @@
                                   </td>
                                   <td valign="top" align="left">
                                     <br>
-                                    <b><%=@base_column_two_header%></b>
-                                    <br><br>
+                                    <div class="sub-header">
+                                      <b><%=@base_column_two_header%></b>
+                                    </div>
+                                    <br>
                                     <center>
                                       <img src="<%=@base_column_two_image_url%>" alt="<%@base_column_two_image_alt%>">
                                     </center>

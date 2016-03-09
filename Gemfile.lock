@@ -88,7 +88,7 @@ GEM
       rack (>= 1.4.5, < 2.0)
       thor (>= 0.15.2, < 2.0)
       tilt (~> 1.4.1, < 2.0)
-    middleman-livereload (3.4.6)
+    middleman-livereload (3.4.4)
       em-websocket (~> 0.5.1)
       middleman-core (>= 3.3)
       rack-livereload (~> 0.3.15)
@@ -166,7 +166,7 @@ DEPENDENCIES
   activesupport
   fuelsdk
   middleman (~> 3.4.1)
-  middleman-livereload (~> 3.4.5)
+  middleman-livereload (= 3.4.4)
   pry
 
 BUNDLED WITH
