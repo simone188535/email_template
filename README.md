@@ -44,7 +44,7 @@ CSS
 ------------
 When you have finished editing your email and have built the project (using `middleman build`), you can inline your CSS by running `grunt build`. This will inline the CSS in your templates and encode any HTML entites and place the file in the directory named 'prod'. The prod directory will have the same structure as the data and source directories.
 
-When inlining CSS, all `style` blocks with the attribute `data-embed` will be stripped from the header.  If you are using media queries, wrap them in a separate `style` tag and  add `data-embed-ignore"` to the  tag: `<style type="text/css" data-ignore="true"`. This will keep the inliner from stripping this style block and it will not inline the styles contained in block.
+When inlining CSS, all `style` blocks with the attribute `data-embed` will be stripped from the header.  If you are using media queries, wrap them in a separate `style` tag and  add `data-embed-ignore"` to the  tag: `<style type="text/css" data-embed-ignore`. This will keep the inliner from stripping this style block and it will not inline the styles contained in block.
 
 Litmus
 ------------
