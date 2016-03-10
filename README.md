@@ -2,6 +2,8 @@
 
 This is a middleman application that generates html for emails. You can view example emails and there setup under the data/examples and source/examples folder.
 
+All responsive emails use the Antwort Responsive Layouts for Email (http://internations.github.io/antwort/).  The framework supports the all email clients and is one of the few that can handle older versions of Android as well as Outlook and Lotus Notes.
+
 TO DEVELOP:
 
 clone this repository, cd to it, bundle, and run middleman. at localhost:4567 will be the root file, which is a link to the newsletter (currently).
