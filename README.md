@@ -1,6 +1,8 @@
 ## email farm
 
-this is a middleman application that generates html for emails. Only one email is setup this way at present, and that is a sample responsive email.
+This is a middleman application that generates html for emails. You can view example emails and there setup under the data/examples and source/examples folder.
+
+All responsive emails use the Antwort Responsive Layouts for Email (http://internations.github.io/antwort/).  The framework supports the all email clients and is one of the few that can handle older versions of Android as well as Outlook and Lotus Notes.
 
 TO DEVELOP:
 
@@ -9,33 +11,49 @@ clone this repository, cd to it, bundle, and run middleman. at localhost:4567 wi
 ```
 NOTE: Prerequisites:
 * Node - https://docs.npmjs.com/getting-started/installing-node
-* Ruby - ruby 2.0.0p481 (2014-05-08 revision 45883) [universal.x86_64-darwin14]
-* Bundler - version 1.10.6
+* Ruby
+* Bundler
 * Grunt - "npm install -g grunt-cli"
 * Middleman - bundle install middleman
 
-SETUP:
-1. 
-```
+---------------------------------------
+
+To build the email files, run `middleman server`. To view the emails in your browser, run `middleman server`. Then browse to localhost:4567/client_name/project_name/project_name.html
 
 In general, all you wil be doing is modifying the .yml file that the email is generated from, and changing the images.
 
-TO SEND:
+When creating files use the following structure: 
 
-run `bundle exec middleman build` OR `middleman build`, and collect the finished html file from the ./build directory. Right now, you have to zip up the images folder, I want to make a hook on build that does that automagically and plunks it on your desktop with the finished html file, but I haven't gotten to that yet.
+In the source directory: 
 
-UPDATES:
+HTML email: client_name/project_name/project_name.html.erb
 
-The functionality to inline CSS and send to Litmus from your dev environment has been added.
+Text email: client_name/project_name/project_name.txt.erb
+
+Image directory: client_name/project_name/images
+
+In the data directory: client_name/project_name/project_name.yml
+
+Do not use dashes (-) when naming folders or directories, use an underscore instead (_)
+
+Images
+------------
+To minify/optimize images in a project folder, use the following command: 
+
+`grunt images --imgpath=client_name/project_name/images`
 
 CSS
 ------------
-When you have finished editing your email and have built the project (using `middleman build`), you can inline your CSS by running `grunt build`. This will inline the CSS in your templates and place them in the directory named 'prod'. The prod directory will have the same structure as the data and source directories.
+When you have finished editing your email and have built the project (using `middleman build`), you can inline your CSS by running `grunt build`. This will inline the CSS in your templates and encode any HTML entites and place the file in the directory named 'prod'. The prod directory will have the same structure as the data and source directories.
 
-When inlining CSS, all `style` blocks will be stripped from the header.  If you are using media queries, wrap them in a separate `style` tag and  add `data-ignore="true"` to the  tag: `<style type="text/css" data-ignore="true"`. This will keep the inliner from stripping this style block and it will not inline the styles contained in block.
+When inlining CSS, all `style` blocks with the attribute `data-embed` will be stripped from the header.  If you are using media queries, wrap them in a separate `style` tag and  add `data-embed-ignore"` to the  tag: `<style type="text/css" data-embed-ignore`. This will keep the inliner from stripping this style block and it will not inline the styles contained in block.
 
 Litmus
 ------------
 To send your template to Litmus, run `grunt send --template=yourTemplatePath.html`.  The template path should be relaitve to the prod folder and should not start with a forward slash. Once you have sent the file, sign in to Litmus to view the test.
 
--- ronnie
+Litmus Credentials:
+
+User: andy.hardy@purered.net
+
+Pass: pur3r3d_qa

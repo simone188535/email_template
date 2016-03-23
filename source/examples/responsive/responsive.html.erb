@@ -1,0 +1,346 @@
+<% require 'active_support/all' %>
+<% data.examples.responsive.responsive.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+    <!-- So that mobile webkit will display zoomed in -->
+    <meta name="format-detection" content="telephone=no">
+    <!-- disable auto telephone linking in iOS -->
+    <title><%=@base_title%></title>
+    <style type="text/css" data-embed>
+      /* This style block will be inlined when running 'grunt build' and stripped from the header */
+
+      /* Resets */
+        .ReadMsgBody {
+          width: 100%;
+          background-color: #ffffff;
+        }
+        .ExternalClass {
+          width: 100%;
+          background-color: #ffffff;
+        }
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {line-height:100%;}
+        .yshortcuts a {border-bottom: none !important;}
+
+        body {
+          -webkit-text-size-adjust:none;
+          -ms-text-size-adjust:none;
+          margin:0;
+          padding:0;}
+        table {
+          border-spacing:0;
+          border-collapse:collapse;
+          mso-table-lspace: 0pt;
+          mso-table-rspace: 0pt;
+        }
+        table td {border-collapse:collapse;}
+        table, tr, td {text-align: left;}
+        img{ /* responsive images */
+            display: block;
+            border:none;
+            outline:none;
+            width: auto !important;
+            height: auto !important;
+            max-width: 100%;
+            -ms-interpolation-mode: bicubic;
+          }
+        a img {border:none;}
+
+        /* Wrap phone numbers and addresses to prevent them showing up as links on mobile */
+        .apple-link-black {
+          color: #000000; !important;
+          text-decoration: none !important;
+          }
+          .apple-link-white {
+          color: #ffffff; !important;
+          text-decoration: none !important;
+          }
+
+        .container {
+            width: 600px;
+            max-width: 600px;
+        }
+
+          /* Typography */
+          body, .text, .header, td, p {
+            text-align: left;
+          }
+          body, .container, .text, .header, td, p {
+            color: #2a2a2a;
+            font-family: Helvetica, Arial, sans-serif;
+            font-weight: normal;
+
+          }
+          body, .container, .text, td, p {
+            font-size: 16px;
+            line-height: 20px;
+          }
+
+          .header {
+            font-size: 24px;
+            line-height: 28px;
+          }
+
+          .sub-header {
+            font-size: 20px;
+            line-height: 24px;
+          }
+
+          sup {
+            font-size:8px;
+            line-height:0;
+            vertical-align:4px;
+          }
+
+          .view-online {
+            font-size: 12px;
+            line-height: 14px;
+            text-align: center;
+          }
+          .view-online a {
+            text-decoration: underline !important;
+          }
+
+          a {
+          color: #3232ae !important;
+          text-decoration: none;
+          }
+
+          a:hover {
+            color: #3232ae !important;
+          }
+
+          a:active {
+            color: #3232ae !important;
+          }
+
+          a:visited {
+            color: #a12a7a !important;
+          }
+
+          .text-left {
+            text-align: left !important;
+          }
+
+          .text-center {
+            text-align: center !important;
+          }
+
+          .text-right {
+            text-align: right !important;
+          }
+
+
+
+           /* Visibility Classes - Fixes Gmail bug of not supporting display:none. See media query override for mobile. This class must be used on the element as well as the element's parent. http://www.campaignmonitor.com/blog/post/3948/hiding-content-in-both-desktop-and-web-email-clients */
+          .show-for-small, .footer.show-for-small,
+          .hide-for-desktop {
+            display: none;
+            max-height: 0px;
+            font-size: 0;
+            width: 0;
+            mso-hide: all;
+          }
+    </style>
+
+
+    <style type="text/css" data-embed-ignore>
+      /* This style block will be ignored for inlining when running 'grunt build' and will not be stripped from the header */
+
+      /*  Media queries */
+
+      /* Define all styles in media queries using attribute selectors in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
+      @media screen and (max-width: 599px) {
+        table[class="force-row"],
+        table[class="container"] {
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+
+        table[class="force-row"] {
+          margin-bottom: 10px;
+        }
+
+        /* Visibility */
+        table[class*="go-away"],
+        td[class*="go-away"],
+        td[class*="go-away"] img,
+        tr[class*="go-away"] img,
+        tr[class*="go-away"],
+        tr[class*="go-away"] td,
+        img[class*="go-away"],
+        div[class*="go-away"] {
+          display: none !important;
+        }
+        table[class*="container"] .show-for-small,
+        table[class*="container"] .hide-for-desktop {
+          max-height: none !important;
+          font-size: 14px !important;
+          display: block !important;
+          width: auto !important;
+          }
+
+        td[class="container"] {
+          padding-left: 14px;
+          padding-right: 14px;
+        }
+
+        td[class="col"] {
+          padding: 10px;
+        }
+
+        div[class="header"], div[class="sub-header"] {
+          text-align: center;
+        }
+      }
+    </style>
+  </head>
+  <body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
+      <!--
+      Responsive framework: Antwort v1.0 - https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0)
+
+      * Force 100% width on aligned tables
+      * Use multiple aligned tables for columns
+      * Tables must have a fixed pixel width
+      * 'force-row' class forces the tables into rows on mobile
+      * Include an Outlook only wrapper table
+    -->
+
+     <!-- 100% background wrapper -->
+  <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+    <tr>
+      <td>
+        <br>
+        <!-- 600px container -->
+          <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+            <tr>
+              <td colspan="3" valign="top" align="center" class="view-online">
+                <%=@base_view_online%>
+                <br><br><br><br>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" colspan="3">
+
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tr>
+
+                    <!-- Desktop spacing -->
+                    <td class="go-away" width="40">
+                       <img src="images/spacer.gif" width="40" height="1" alt="">
+                    </td>
+                    <!-- /Desktop spacing -->
+
+                    <td class="container" valign="top" align="left">
+                      <!-- main content -->
+                      <div class="header">
+                        <b><%=@base_header_text%></b>
+                      </div>
+                      <br><br>
+                      <%=@base_intro_message%>
+                      <br><br><br><br>
+
+                      <!-- columns -->
+
+                      <!--[if mso]>
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr><td width="50%" valign="top"><![endif]-->
+
+                      <table border="0" cellpadding="0" cellspacing="0" width="264" align="left" class="force-row">
+                          <tr>
+                            <td class="col" valign="top" bgcolor="#eeeeee">
+                              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                  <td class="go-away" width="10">
+                                     <img src="images/spacer.gif" width="10" height="1" alt="">
+                                  </td>
+                                  <td valign="top" align="left">
+                                    <br>
+                                    <div class="sub-header">
+                                      <b><%=@base_column_one_header%></b>
+                                    </div>
+                                    <br>
+                                    <center>
+                                      <img src="<%=@base_column_one_image_url%>" alt="<%@base_column_one_image_alt%>">
+                                    </center>
+                                    <br>
+                                    <%=@base_column_one_text%>
+                                    <br><br>
+                                  </td>
+                                  <td class="go-away" width="10">
+                                   <img src="images/spacer.gif" width="10" height="1" alt="">
+                                </td>
+                                <td bgcolor="#ffffff" class="go-away">
+                                  <img src="images/spacer.gif" width="10" height="1" alt="">
+                                </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+
+                      <!--[if mso]></td><td width="50%" valign="top"><![endif]-->
+
+                        <table border="0" cellpadding="0" cellspacing="0" width="264" align="right" class="force-row">
+                          <tr>
+                            <td class="col" valign="top" bgcolor="#eeeeee">
+                              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                  <td class="go-away" width="10">
+                                     <img src="images/spacer.gif" width="10" height="1" alt="">
+                                  </td>
+                                  <td valign="top" align="left">
+                                    <br>
+                                    <div class="sub-header">
+                                      <b><%=@base_column_two_header%></b>
+                                    </div>
+                                    <br>
+                                    <center>
+                                      <img src="<%=@base_column_two_image_url%>" alt="<%@base_column_two_image_alt%>">
+                                    </center>
+                                    <br>
+                                    <%=@base_column_two_text%>
+                                    <br><br>
+                                  </td>
+                                  <td class="go-away" width="10">
+                                   <img src="images/spacer.gif" width="10" height="1" alt="">
+                                </td>
+                                </tr>
+                              </table>
+                            </td>
+                           </tr>
+                        </table>
+
+                       <!--[if mso]></td></tr></table><![endif]-->
+
+
+                      <!-- /columns -->
+                      <!-- /main content -->
+                    </td>
+
+                    <!-- Desktop spacing -->
+                    <td class="go-away" width="40">
+                      <img src="images/spacer.gif" width="40" height="1" alt="">
+                    </td>
+                    <!-- /Desktop spacing -->
+
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        <!-- /600px container -->
+
+      </td>
+    </tr>
+  </table>
+  <!-- /100% background wrapper -->
+  </body>
+</html>

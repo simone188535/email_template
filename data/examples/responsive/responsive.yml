@@ -1,0 +1,19 @@
+view_online: 'Having trouble viewing this email? <a href="#">View online</a>'
+
+title: 'Email Title'
+
+header_text: 'EXAMPLE RESPONSIVE TEMPLATE'
+
+intro_message: 'Two columns on desktop and one column on mobile:'
+
+column_one_header: 'Column 1'
+column_one_text: 'This column will become the top row on mobile.'
+column_one_image_url: 'images/placeholder.jpg'
+column_one_image_alt: 'Placeholder Image'
+
+column_two_header: 'Column 2'
+column_two_text: 'This column will become the bottom row on mobile.'
+column_two_image_url: 'images/placeholder.jpg'
+column_two_image_alt: 'Placeholder Image'
+
+unsubscribe: 'If you would like to stop receiving emails <a href="#">click here to unsubscribe</a>.'
