@@ -4,6 +4,10 @@ shadow_right_bg_img: 'images/right-shadow.jpg'
 shadow_bottom_bg_img: 'images/bottom-shadow.jpg'
 shadow_top_bg_img: 'images/top-shadow.jpg'
 
+header_top_mid_bg_spacing_img: 'images/header-top-row-mid-bg.jpg'
+header_bottom_left_bg_spacing_img: 'images/header-bottom-row-left-bg.jpg'
+header_bottom_right_bg_spacing_img: 'images/header-bottom-row-right-bg.jpg'
+
 logo_link: ''
 logo_link_text: 'Balduccis Food Lovers Market TM'
 logo_link_img: 'images/header-logo.jpg'
@@ -14,15 +18,15 @@ find_store_link_img: 'images/find-store-link.jpg'
 
 catering_link: ''
 catering_link_text: 'CATERING'
-catering_link_img: 'images/catering-link.jpg'
+catering_link_img: 'images/header-catering-link.jpg'
 
 chef_prep_link: ''
 chef_prep_link_text: 'CHEF PREPARED'
-chef_prep_link_img: 'images/chef-prep-link.jpg'
+chef_prep_link_img: 'images/header-chef-prep-link.jpg'
 
 mybalduccis_link: ''
 mybalduccis_link_text: 'myBALDUCCIS'
-mybalduccis_link_img: 'images/mybalduccis-link.jpg'
+mybalduccis_link_img: 'images/header-my-bld-link.jpg'
 
 hero_img: 'images/hero.jpg'
 hero_text: 'Thank You for Your Catering Order'

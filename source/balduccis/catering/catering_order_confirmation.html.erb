@@ -164,7 +164,8 @@
           	font-size: 12px;
           }
 
-          .top-header, .top-header td {
+          .top-header, .top-header td,
+          .top-header-top-row, .top-header-top-row td {
           	background-color: #000000;
           	color: #ffffff;
           }
@@ -257,44 +258,68 @@
         <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
             <tr>
              	<td valign="top" align="left">
-
-	            	<table class="top-header" border="0" cellpadding="0" cellspacing="0" width="100%">
+              <!-- Header top row -->
+	            	<table class="top-header-top-row" border="0" cellpadding="0" cellspacing="0" width="100%">
 	              		<tr bgcolor="#000000">
-	              		<td valign="bottom">
-	              			<a href="#">
-	              				<img src="<%=@base_logo_link_img%>" alt="<%=@base_logo_link_text%>">
-	              			</a>
-	              		</td>
-	              		<td valign="bottom">
-	              			<a href="#">
-	              				<img src="<%=@base_catering_link_img%>" alt="<%=@base_catering_link_text%>">
-	              			</a>
-	              		</td>
-	              		<td valign="bottom">
-	              			<a href="#">
-	              				<img src="<%=@base_chef_prep_link_img%>" alt="<%=@base_chef_prep_link_text%>">
-	              			</a>
-	              		</td>
-	              		<td valign="bottom">
-	              			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	              				<tr>
-	              					<td valign="bottom">
-	              						<a href="#">
-	              							<img src="<%=@base_find_store_link_img%>" alt="<%=@base_find_store_link_text%>">
-	              						</a>
-	              					</td>
-	              				</tr>
-	              				<tr>
-	              					<td valign="bottom">
-	              						<a href="#">
-	              							<img src="<%=@base_mybalduccis_link_img%>" alt="<%=@base_mybalduccis_link_text%>">
-	              						</a>
-	              					</td>
-	              				</tr>
-	              			</table>
-	              		</td>
+
+                    <!-- Logo -->
+  	              		<td valign="bottom">
+  	              			<a href="#">
+  	              				<img src="<%=@base_logo_link_img%>" alt="<%=@base_logo_link_text%>">
+  	              			</a>
+  	              		</td>
+
+                    <!-- Background spacing -->
+  	              		<td valign="bottom">
+  	              				<img src="<%=@base_header_top_mid_bg_spacing_img%>" alt="">
+  	              		</td>
+
+                    <!-- Find a store -->  
+  	              		<td valign="bottom">
+  	              			<a href="#">
+                          <img src="<%=@base_find_store_link_img%>" alt="<%=@base_find_store_link_text%>">
+  	              			</a>
+  	              		</td>
 	              		</tr>
 	              	</table>
+
+                  <!-- Header bottom row -->
+                  <table class="top-header" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tr bgcolor="#000000">
+                      
+                      <!-- Background spacing -->
+                      <td valign="top">
+                        <img src="<%=@base_header_bottom_left_bg_spacing_img%>" alt="">
+                      </td>
+
+                      <!-- Catering link -->
+                      <td valign="top">
+                        <a href="#">
+                          <img src="<%=@base_catering_link_img%>" alt="<%=@base_catering_link_text%>">
+                        </a>
+                      </td>
+
+                      <!-- Chef prep link -->
+                      <td valign="top">
+                        <a href="#">
+                          <img src="<%=@base_chef_prep_link_img%>" alt="<%=@base_chef_prep_link_text%>">
+                        </a>
+                      </td>
+
+                      <!-- My Balducci's link -->
+                      <td valign="top">
+                        <a href="#">
+                          <img src="<%=@base_mybalduccis_link_img%>" alt="<%=@base_mybalduccis_link_text%>">
+                        </a>
+                      </td>
+
+                      <!-- Background spacing -->
+                      <td valign="top">
+                        <img src="<%=@base_header_bottom_right_bg_spacing_img%>" alt="">
+                      </td>
+
+                    </tr>
+                  </table>
               	</td>
             </tr>
             <tr>
