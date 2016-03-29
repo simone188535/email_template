@@ -1,0 +1,502 @@
+<% require 'active_support/all' %>
+<% data.duanereade.story_template.story_template.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+    <!-- So that mobile webkit will display zoomed in -->
+    <meta name="format-detection" content="telephone=no">
+    <!-- disable auto telephone linking in iOS -->
+    <title><%=@base_title%></title>
+    <style type="text/css" data-embed>
+      /* This style block will be inlined when running 'grunt build' and stripped from the header */
+
+      /* Resets */
+        .ReadMsgBody {
+          width: 100%;
+          background-color: #ffffff;
+        }
+        .ExternalClass {
+          width: 100%;
+          background-color: #ffffff;
+        }
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {line-height:100%;}
+        .yshortcuts a {border-bottom: none !important;}
+
+        body {
+          -webkit-text-size-adjust:none;
+          -ms-text-size-adjust:none;
+          margin:0;
+          padding:0;}
+        table {
+          border-spacing:0;
+          border-collapse:collapse;
+          mso-table-lspace: 0pt;
+          mso-table-rspace: 0pt;
+        }
+        table td {border-collapse:collapse;}
+        table, tr, td {text-align: left;}
+        img{
+            display: block;
+            border:none;
+            outline:none;
+            -ms-interpolation-mode: bicubic;
+          }
+        img.responsive {
+          width: auto !important;
+          height: auto !important;
+          max-width: 100%;
+        }
+        a img {
+          border:none;
+        }
+
+        /* Wrap phone numbers and addresses to prevent them showing up as links on mobile */
+        .apple-link-black {
+          color: #000000; !important;
+          text-decoration: none !important;
+          }
+          .apple-link-white {
+          color: #ffffff; !important;
+          text-decoration: none !important;
+          }
+
+        .container {
+            width: 600px;
+            max-width: 600px;
+        }
+
+          /* Typography */
+          body, .text, .header, td, p {
+            text-align: left;
+          }
+          body, .container, .text, .header, td, p {
+            color: #000000;
+            font-family: Helvetica, Arial, sans-serif;
+            font-weight: normal;
+
+          }
+          body, .container, .text, td, p {
+            font-size: 20px;
+            line-height: 24px;
+          }
+
+          sup {
+            font-size:8px;
+            line-height:0;
+            vertical-align:4px;
+          }
+
+          .view-online {
+            font-size: 12px;
+            line-height: 14px;
+            text-align: center;
+          }
+          .view-online a {
+            text-decoration: underline !important;
+          }
+
+          a {
+            color: #f2b14d !important;
+            text-decoration: none;
+          }
+
+          a:hover {
+            color: #f2b14d !important;
+          }
+
+          a:active {
+            color: #f2b14d !important;
+          }
+
+          a:visited {
+            color: #f2b14d !important;
+          }
+
+          .footer a {
+            color: #f2b14d !important;
+            text-decoration: none;
+          }
+
+          .footer a:hover {
+            color: #f2b14d !important;
+          }
+
+          .footer a:active {
+            color: #f2b14d !important;
+          }
+
+          .footer a:visited {
+            color: #f2b14d !important;
+          }
+
+          .text-underline {
+            text-decoration: underline;
+          }
+
+          .text-left {
+            text-align: left !important;
+          }
+
+          .text-center {
+            text-align: center !important;
+          }
+
+          .text-right {
+            text-align: right !important;
+          }
+
+           /* Visibility Classes - Fixes Gmail bug of not supporting display:none. See media query override for mobile. This class must be used on the element as well as the element's parent. http://www.campaignmonitor.com/blog/post/3948/hiding-content-in-both-desktop-and-web-email-clients */
+          .show-for-small, .footer.show-for-small,
+          .hide-for-desktop {
+            display: none;
+            max-height: 0px;
+            font-size: 0;
+            width: 0;
+            mso-hide: all;
+          }
+
+          .orange {
+          	color: #f2b14d;
+          }
+
+          .cell-height {
+          	line-height:1px;
+          	font-size:1px;
+          }
+
+          .small-text {
+          	font-size: 12px;
+          }
+
+          .hero, .callout {
+            border-bottom-width: 10px;
+            border-bottom-style: solid;
+            border-bottom-color: #f2b14d;
+          }
+
+          .promo-button {
+            background-color:#f2b14d;
+            display:inline-block;
+            line-height:40px;
+            font-size: 22px;
+            text-align:center;
+            text-decoration:none;
+            width:180px;
+            -webkit-text-size-adjust:none;
+          }
+
+          .promo-button,
+          .promo-button:hover, 
+          .promo-button:active, 
+          .promo-button:visited,
+          .footer-nav,
+          .footer-nav a,
+          .footer-nav a:hover,
+          .footer-nav a:active,
+          .footer-nav a:visited {
+            color:#ffffff !important;
+          }
+
+          .social-links a,
+          .social-links a:hover,
+          .social-links a:active,
+          .social-links a:visited {
+            color: #000000 !important;
+          }
+
+          .promo-button img, .social-links img {
+            display: inline-block !important;
+          }
+
+          .callout, .callout td {
+            color: #ffffff;
+          }
+
+          .footer-nav, .social-links {
+            text-align: center;
+            font-size: 18px;
+          }
+
+          .footer-text {
+            color: #8b8b8b;
+            font-size: 14px;
+            line-height: 16px;
+          }
+
+          .footer-text a,
+          .footer-text a:hover,
+          .footer-text a:active,
+          .footer-text a:visited {
+            color: #000000 !important;
+            text-decoration: underline;
+          }
+
+          .footer-text .footer-end-links, .copyright {
+            font-size: 18px;
+            text-align: center;
+            color: #000000;
+          }
+          .footer-end-links {
+            line-height: 24px;
+          }
+          .copyright {
+            font-size: 14px;
+          }
+
+    </style>
+
+
+    <style type="text/css" data-embed-ignore>
+      /* This style block will be ignored for inlining when running 'grunt build' and will not be stripped from the header */
+
+      /*  Media queries */
+
+      /* Define all styles in media queries using attribute selectors in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
+
+
+      @media screen and (max-width: 599px) {
+      	
+        table[class="force-row"],
+        table[class="container"] {
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+
+        table[class="force-row"] {
+          margin-bottom: 10px;
+        }
+
+        /* Visibility */
+        table[class*="go-away"],
+        td[class*="go-away"],
+        td[class*="go-away"] img,
+        tr[class*="go-away"] img,
+        tr[class*="go-away"],
+        tr[class*="go-away"] td,
+        img[class*="go-away"],
+        div[class*="go-away"] {
+          display: none !important;
+        }
+        table[class*="container"] .show-for-small,
+        table[class*="container"] .hide-for-desktop {
+          max-height: none !important;
+          font-size: 14px !important;
+          display: block !important;
+          width: auto !important;
+          }
+
+        td[class="container"] {
+          padding-left: 14px;
+          padding-right: 14px;
+        }
+
+        td[class="col"] {
+          padding: 10px;
+        }
+
+        td[class="article-text"] {
+          font-size: 16px;
+        }
+        td[class="article-text"] img,
+        td[class="social-links"] img {
+          max-width: 75%;
+        }
+
+        td[class="social-links"] img {
+          margin-bottom: 5px;
+        }
+
+        td[class="footer-nav"] {
+          font-size: 16px;
+        }
+      }
+    </style>
+  </head>
+  <body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
+      <!--
+      Responsive framework: Antwort v1.0 - https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0)
+
+      * Force 100% width on aligned tables
+      * Use multiple aligned tables for columns
+      * Tables must have a fixed pixel width
+      * 'force-row' class forces the tables into rows on mobile
+      * Include an Outlook only wrapper table
+    -->
+
+     <!-- 100% background wrapper -->
+<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+    <tr>
+      <td>
+        <!-- 600px container -->
+        <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+            <!-- Header logo -->
+            <tr>
+            	<td valign="top" align="center">
+                <a href="<%=@base_logo_img_link%>">
+            		  <img src="<%=@base_logo_img_url%>" alt="<%=@base_logo_img_alt%>" class="responsive">
+                </a>
+            	</td>
+            </tr>
+            <!-- /Header logo -->
+
+            <!-- Hero -->
+            <tr>
+            	<td valign="top" align="center" class="hero">
+                <a href="<%=@base_hero_img_link%>">
+                  <img src="<%=@base_hero_img_url%>" alt="<%=@base_hero_img_alt%>" class="responsive">
+                </a>
+            	</td>
+            </tr>
+            <tr>
+              <td height="20" class="cell-height">
+                <img src="images/spacer.gif" alt="" height="20" width="1">
+              </td>
+            </tr>
+            <!-- /Hero -->
+
+            <!-- Articles -->
+            <% data.duanereade.story_template.story_template.articles.each do |f| %>
+              <tr>
+                <td valign="top" align="left">
+                  <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td valign="top" align="left" width="50%" class="article-text">
+                        <a href="<%= f["promo_btn_url"] %>">
+                          <img src="<%= f["text_img_url"] %>" alt="<%= f["text_img_alt"] %>" class="responsive">
+                        </a>
+                        <%= f["promo_text"] %><br><br>
+                        <div><!--[if mso]>
+                          <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="#f2b14d">
+                            <w:anchorlock/>
+                            <center>
+                          <![endif]-->
+                              <a href="<%= f["promo_btn_url"] %>" class="promo-button"><%= f["promo_btn_text"] %><img src="<%=@base_order_btn_arrow_img%>" alt=""></a>
+                          <!--[if mso]>
+                            </center>
+                          </v:rect>
+                        <![endif]--></div>
+                      </td>
+                      <td valign="top" align="right" width="50%">
+                        <a href="<%= f["promo_btn_url"] %>">
+                          <img src="<%= f["product_img_url"] %>" alt="<%= f["product_img_alt"] %>" class="responsive">
+                        </a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height="15" class="cell-height">
+                  <img src="images/spacer.gif" alt="" height="15" width="1">
+                </td>
+              </tr>
+            <% end %>
+
+            <tr>
+              <td class="cell-height" height="30">
+                <img src="images/spacer.gif" alt="" height="30" width="1">
+              </td>
+            </tr>
+
+            <!-- Call out -->
+            <tr>
+              <td valign="top" class="callout">
+                <a href="<%=@base_callout_img_link%>">
+                  <img src="<%=@base_callout_img_url%>" alt="<%=@base_callout_img_url%>" class="responsive">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td class="cell-height" height="5">
+                <img src="images/spacer.gif" alt="" height="5" width="1">
+              </td>
+            </tr>
+
+          <!-- Footer nav -->
+          <tr bgcolor="#000000">
+            <td class="cell-height" height="15">
+              <img src="images/spacer.gif" alt="" height="15" width="1">
+            </td>
+          </tr>
+          <tr bgcolor="#000000">
+            <td valign="top" align="center" class="footer-nav">
+              <% data.duanereade.story_template.story_template.footernav.each do |f| %><a href="<%= f["link"] %>">
+                  <%= f["text"] %>
+                  </a>&nbsp;<%= f["sep"] %>&nbsp;
+              <% end %>
+            </td>
+          </tr>
+          <tr bgcolor="#000000">
+            <td class="cell-height" height="15">
+              <img src="images/spacer.gif" alt="" height="15" width="1">
+            </td>
+          </tr>
+
+          <tr>
+            <td class="cell-height" height="40">
+              <img src="images/spacer.gif" alt="" height="40" width="1">
+            </td>
+          </tr>
+
+          <!-- Social links -->
+          <tr>
+            <td valign="top" align="center" class="social-links">
+              <% data.duanereade.story_template.story_template.socialnav.each do |f| %>
+                <a href="<%= f["link"] %>">
+                  <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" class="responsive">
+                </a>
+              <% end %>
+            </td>
+          </tr>
+
+          <tr>
+            <td class="cell-height" height="30">
+              <img src="images/spacer.gif" alt="" height="30" width="1">
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td align="left" valign="top">
+              <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                <td width="40">
+                  <img src="images/spacer.gif" alt="" height="1" width="40">
+                </td>
+                 <td class="footer-text" align="left" valign="top">
+                   <%=@base_footer_text%>
+                   <div class="footer-end-links text-underline">
+                     <a href="<%=@base_unsubscribe_link%>">
+                      <%=@base_unsubscribe_text%>
+                     </a> |
+                     <a href="<%=@base_privacy_link%>">
+                      <%=@base_privacy_text%>
+                    </a>
+                   </div>
+                   <div class="copyright">
+                      <br>
+                     <%=@base_copyright%>
+                   </div>
+                </td>
+                <td width="40">
+                  <img src="images/spacer.gif" alt="" height="1" width="40">
+                </td>
+              </table>
+            </td>
+          </tr>
+
+        </table>
+          <!-- /600px container -->
+          <br><br>
+      </td>
+    </tr>
+</table>
+  <!-- /100% background wrapper -->
+  </body>
+</html>

@@ -1,5 +1,5 @@
 <% require 'active_support/all' %>
-<% data.balduccis.catering.catering_order_confirmation.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<% data.duanereade.graphic_template.graphic_template.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
   <head>
@@ -8,8 +8,16 @@
     <!-- So that mobile webkit will display zoomed in -->
     <meta name="format-detection" content="telephone=no">
     <!-- disable auto telephone linking in iOS -->
+    <!--[if gte mso 9]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+    <![endif]-->
     <title><%=@base_title%></title>
-    <style type="text/css">
+    <style type="text/css" data-embed>
       /* This style block will be inlined when running 'grunt build' and stripped from the header */
 
       /* Resets */
@@ -42,17 +50,14 @@
         }
         table td {border-collapse:collapse;}
         table, tr, td {text-align: left;}
-        img{
-            
+        img{ /* responsive images */
             display: block;
             border:none;
             outline:none;
-            -ms-interpolation-mode: bicubic;
-          }
-          img.responsive {
             width: auto !important;
             height: auto !important;
             max-width: 100%;
+            -ms-interpolation-mode: bicubic;
           }
         a img {border:none;}
 
@@ -76,7 +81,7 @@
             text-align: left;
           }
           body, .container, .text, .header, td, p {
-            color: #2a2a2a;
+            color: #000000;
             font-family: Helvetica, Arial, sans-serif;
             font-weight: normal;
 
@@ -112,7 +117,7 @@
           }
 
           a {
-          color: #f3901d !important;
+          color: #e9772f !important;
           text-decoration: none;
           }
 
@@ -121,15 +126,15 @@
           }
 
           a:hover {
-            color: #f3901d !important;
+            color: #e9772f !important;
           }
 
           a:active {
-            color: #f3901d !important;
+            color: #e9772f !important;
           }
 
           a:visited {
-            color: #f3901d !important;
+            color: #e9772f !important;
           }
 
           .text-left {
@@ -167,37 +172,10 @@
           	font-size: 12px;
           }
 
-          .top-header, .top-header td,
-          .top-header-top-row, .top-header-top-row td {
-          	background-color: #000000;
-          	color: #ffffff;
-          }
-
-          .top-header {
-          	border-bottom-width: 4px;
-          	border-bottom-style: solid;
-          	border-bottom-color: #f3901d;
-          }
-
-          .order-summary {
-          	border-bottom-width: 2px;
-          	border-bottom-style: solid;
-          	border-bottom-color: #f3901d;
-          }
-
-          .content-wrap .container {
-            border-bottom-style: solid;
-            border-bottom-color: #d9d9d9;
-            border-bottom-width: 2px;
-            border-right-style: solid;
-            border-right-color: #d9d9d9;
-            border-right-width: 2px;
-          }
-         
     </style>
 
 
-    <style type="text/css" data-embed>
+    <style type="text/css" data-embed-ignore>
       /* This style block will be ignored for inlining when running 'grunt build' and will not be stripped from the header */
 
       /*  Media queries */
@@ -206,8 +184,9 @@
 
 
       @media screen and (max-width: 599px) {
+      	
         table[class="force-row"],
-        table[class*="container"] {
+        table[class="container"] {
           width: 100% !important;
           max-width: 100% !important;
         }
@@ -243,18 +222,6 @@
         td[class="col"] {
           padding: 10px;
         }
-
-        div[class="header"], div[class="sub-header"] {
-          text-align: center;
-        }
-
-        td[class="header-top-row"] img,
-        td[class="header-bottom-row"] img,
-        td[class="footer-row"] img {
-          width: auto !important;
-          height: auto !important;
-          max-width: 100%;
-        }
       }
     </style>
   </head>
@@ -277,64 +244,64 @@
         <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
             <tr>
              	<td valign="top" align="left">
-                <!-- Header top row -->
-                <table class="top-header-top-row" border="0" cellpadding="0" cellspacing="0" width="100%">
-                    <tr bgcolor="#000000">
+              <!-- Header top row -->
+	            	<table class="top-header-top-row" border="0" cellpadding="0" cellspacing="0" width="100%">
+	              		<tr bgcolor="#000000">
 
                     <!-- Logo -->
-                      <td valign="bottom" align="left" class="header-top-row header-logo">
-                        <a href="#">
-                          <img src="<%=@base_logo_link_img%>" alt="<%=@base_logo_link_text%>">
-                        </a>
-                      </td>
+  	              		<td valign="bottom" class="header-top-row header-logo">
+  	              			<a href="#">
+  	              				<img src="<%=@base_logo_link_img%>" alt="<%=@base_logo_link_text%>">
+  	              			</a>
+  	              		</td>
 
                     <!-- Background spacing -->
-                      <td valign="bottom" align="left" class="header-top-row header-top-bg">
-                          <img src="<%=@base_header_top_mid_bg_spacing_img%>" alt="">
-                      </td>
+  	              		<td valign="bottom" class="header-top-row header-top-bg">
+  	              				<img src="<%=@base_header_top_mid_bg_spacing_img%>" alt="">
+  	              		</td>
 
-                    <!-- Find a store -->
-                      <td valign="bottom" align="left" class="header-top-row header-find-store">
-                        <a href="#">
+                    <!-- Find a store -->  
+  	              		<td valign="bottom" class="header-top-row header-find-store">
+  	              			<a href="#">
                           <img src="<%=@base_find_store_link_img%>" alt="<%=@base_find_store_link_text%>">
-                        </a>
-                      </td>
-                    </tr>
-                  </table>
+  	              			</a>
+  	              		</td>
+	              		</tr>
+	              	</table>
 
                   <!-- Header bottom row -->
                   <table class="top-header" border="0" cellpadding="0" cellspacing="0" width="100%">
                     <tr bgcolor="#000000">
                       
                       <!-- Background spacing -->
-                      <td valign="top" align="left" class="header-bottom-row header-bottom-left-bg">
+                      <td valign="top" class="header-bottom-row header-bottom-left-bg">
                         <img src="<%=@base_header_bottom_left_bg_spacing_img%>" alt="">
                       </td>
 
                       <!-- Catering link -->
-                      <td valign="top" align="left" class="header-bottom-row header-catering">
+                      <td valign="top" class="header-bottom-row header-catering">
                         <a href="#">
                           <img src="<%=@base_catering_link_img%>" alt="<%=@base_catering_link_text%>">
                         </a>
                       </td>
 
                       <!-- Chef prep link -->
-                      <td valign="top" align="left" class="header-bottom-row header-chef">
+                      <td valign="top" class="header-bottom-row header-chef">
                         <a href="#">
                           <img src="<%=@base_chef_prep_link_img%>" alt="<%=@base_chef_prep_link_text%>">
                         </a>
                       </td>
 
                       <!-- My Balducci's link -->
-                      <td valign="top" align="left" class="header-bottom-row header-my-bld">
+                      <td valign="top" class="header-bottom-row header-my-bld">
                         <a href="#">
                           <img src="<%=@base_mybalduccis_link_img%>" alt="<%=@base_mybalduccis_link_text%>">
                         </a>
                       </td>
 
                       <!-- Background spacing -->
-                      <td valign="top" align="left" class="header-bottom-row header-bottom-right-bg">
-                        <img src="<%=@base_header_bottom_right_bg_spacing_img%>" alt="" width="76">
+                      <td valign="top">
+                        <img src="<%=@base_header_bottom_right_bg_spacing_img%>" alt="">
                       </td>
 
                     </tr>
@@ -354,9 +321,7 @@
 				            	<img src="images/spacer.gif" width="20" height="1" alt="">
 				            </td>
 				            <td width="560" valign="top" align="center">
-                      <center>
-				            	 <img src="<%=@base_hero_img%>" alt="<%=@base_hero_text%>" align="center" class="responsive">
-                      </center>
+				            	<img src="<%=@base_hero_img%>" alt="<%=@base_hero_text%>" align="center">
 				            </td>
 				            <td width="20">
 				            	<img src="images/spacer.gif" width="20" height="1" alt="">
@@ -377,8 +342,8 @@
             				<td width="20">
 			            		<img src="images/spacer.gif" width="20" height="1" alt="">
 			            	</td>
-			            	<td valign="top" align="left" width="558">
-			            		<table border="0" cellpadding="0" cellspacing="0" width="100%" class="content-wrap">
+			            	<td valign="top" align="left" width="560">
+			            		<table border="0" cellpadding="0" cellspacing="0" width="100%">
 			            			<tr>
 			            				<td valign="top" align="left" bgcolor="#ffffff" class="container">
 			            					<table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -448,14 +413,37 @@
 			            					</table>
 			            				</td>
 			            			</tr>
-				              </table>
-				          </td>
-    							<td width="20" valign="top">
-    								<img src="images/spacer.gif" width="20" height="1" alt="">
-    							</td>
-            		</tr>
-            	</table>
-            </td>
+			            			<tr>
+			            				<td background="<%=@base_shadow_bottom_bg_img%>" bgcolor="#e7e7e7" width="560" height="5" class="cell-height" valign="top">
+											<!--[if gte mso 9]>
+											<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:560px;height:5px;line-height:1px;font-size:1px;">
+											<v:fill type="tile" src="<%=@base_shadow_bottom_bg_img%>" color="#e7e7e7" />
+											<v:textbox inset="0,0,0,0">
+											<![endif]-->
+											<div></div>
+											<!--[if gte mso 9]>
+											</v:textbox>
+											</v:rect>
+											<![endif]-->
+										</td>
+			            			</tr>
+				                </table>
+				            </td>
+							<td background="<%=@base_shadow_right_bg_img%>" bgcolor="#e7e7e7" width="20" class="cell-height" valign="top">
+								<!--[if gte mso 9]>
+								<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:20px;">
+								<v:fill type="tile" src="<%=@base_shadow_right_bg_img%>" color="#e7e7e7" />
+								<v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
+								<![endif]-->
+								<div></div>
+								<!--[if gte mso 9]>
+								</v:textbox>
+								</v:rect>
+								<![endif]-->
+							</td>
+            			</tr>
+            		</table>
+            	</td>
 	        </tr>
 	        <tr>
 	        	<td valign="top" align="left">
@@ -465,21 +453,21 @@
 	        					<img src="images/spacer.gif" width="1" height="15" alt="">
 	        				</td>
 	        			</tr>
-	        			<tr bgcolor="#000000">
-	        				<td valign="top" align="left" class="footer-row footer-logo">
+	        			<tr>
+	        				<td valign="top">
 	        					<a href="#">
 	        						<img src="<%=@base_footer_logo_img%>" alt="<%=@base_footer_logo_text%>">
 	        					</a>
 	        				</td>
-	        				<td valign="top" align="left" class="footer-row footer-mid-bg">
+	        				<td valign="top">
 	        						<img src="<%=@base_footer_mid_img%>" alt="">
 	        				</td>
-	        				<td valign="top" align="left" class="footer-row footer-fb">
+	        				<td valign="top">
 	        					<a href="#">
 	        						<img src="<%=@base_footer_fb_img%>" alt="<%=@base_footer_fb_text%>">
 	        					</a>
 	        				</td>
-	        				<td valign="top" align="left" class="footer-row footer-tw">
+	        				<td valign="top">
 	        					<a href="#">
 	        						<img src="<%=@base_footer_tw_img%>" alt="<%=@base_footer_tw_text%>">
 	        					</a>
