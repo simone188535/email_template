@@ -21,21 +21,21 @@ unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
 privacy_link: '#'
 privacy_text: 'Privacy Policy'
 
-copyright: '&copy 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc., 40 Wall Street, New York, NY 1000'
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc., 40 Wall Street, New York, NY 1000'
 
 # Loop through articles
 
 articles:
 - text_img_url: "images/article-1-text.jpg"
   text_img_alt: "4x6 Digital Prints 14 cents each"
-  promo_text: "On orders of 75 prints<br> or more with card & <br>Promo Code: <b>XXXXXX</b>"
+  promo_text: "On orders of 75 prints or more with card & Promo Code: <b>XXXXXX</b>"
   promo_btn_url: "#"
   promo_btn_text: "Order now"
   product_img_url: "images/article-1-img.jpg"
   product_img_alt: "Ready in about an hour"
 - text_img_url: "images/article-2-text.jpg"
   text_img_alt: "Photo Books 20% off"
-  promo_text: "Starting at $9.99 ea.<br> Promo Code: <b>XXXXXX</b>"
+  promo_text: "Starting at $9.99 ea. Promo Code: <b>XXXXXX</b>"
   promo_btn_url: "#"
   promo_btn_text: "Order now"
   product_img_url: "images/article-2-img.jpg"
