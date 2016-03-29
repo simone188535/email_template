@@ -301,9 +301,8 @@
         td[class="article-text"] {
           font-size: 16px;
         }
-        td[class="article-text"] img,
-        td[class="social-links"] img {
-          max-width: 70%;
+        td[class="article-text"] img.promo-text {
+          width: 75% !important;
         }
 
         td[class="social-links"] img {
@@ -311,11 +310,15 @@
         }
 
         td[class="footer-nav"] {
-          font-size: 14px;
+          font-size: 13px;
         }
 
         div[class="promo-text-wrap"] {
           padding-left: 10px;
+        }
+
+        a[class="promo-button"] {
+          margin-left: 10px;
         }
 
         td[class="article-text"] img {
@@ -374,9 +377,12 @@
                     <tr>
                       <td valign="top" align="left" width="50%" class="article-text">
                         <a href="<%= f["promo_btn_url"] %>">
-                          <img src="<%= f["text_img_url"] %>" alt="<%= f["text_img_alt"] %>" class="responsive">
+                          <img src="<%= f["text_img_url"] %>" alt="<%= f["text_img_alt"] %>" class="responsive promo-text">
                         </a>
-                        <div class="promo-text-wrap"><%= f["promo_text"] %></div><br><br>
+                        <div class="promo-text-wrap"><%= f["promo_text"] %></div>
+                        <div style="height: 15px;">
+                          <img src="images/spacer.gif" alt="" height="15" width="1">
+                        </div>
                         <div><!--[if mso]>
                           <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="#f2b14d">
                             <w:anchorlock/>
