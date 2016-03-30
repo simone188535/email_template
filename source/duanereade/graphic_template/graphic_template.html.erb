@@ -197,53 +197,6 @@
             border-bottom-color: #ffeb37;
           }
 
-          .promo-button,
-          a.promo-button-link{
-            background-color:#ec532b;
-            
-            font-size: 22px;
-            text-align:center;
-            text-decoration:none;
-            width:180px;
-            color: #ffffff !important;
-            -webkit-text-size-adjust:none;
-            font-family: Helvetica, Arial, sans-serif;
-          }
-
-          a.promo-button-link, a.hero-button-link {
-            text-align: center;
-          }
-
-          .promo-button,
-          a.promo-button-link,
-          a.promo-button-link:hover, 
-          a.promo-button-link:active, 
-          a.promo-button-link:visited,
-          .footer-nav,
-          a.footer-nav-link,
-          a.footer-nav-link:hover,
-          a.footer-nav-link:active,
-          a.footer-nav-link:visited {
-            color:#ffffff !important;
-          }
-
-          .hero-button,
-          a.hero-button-link,
-          a.hero-button-link:hover, 
-          a.hero-button-link:active, 
-          a.hero-button-link:visited {
-           width: 220px;
-            background-color: #ffeb37;
-            color: #ec532b !important;
-            
-            font-size: 22px;
-            text-align:center;
-            text-decoration:none;
-            -webkit-text-size-adjust:none;
-            font-family: Helvetica, Arial, sans-serif;
-          }
-
-
           .social-links a,
           .social-links a:hover,
           .social-links a:active,
@@ -255,11 +208,6 @@
             display: inline-block !important;
           }
 
-          .promo-button img,
-          .hero-button img {
-            display: inline !important;
-          }
-
           .callout, .callout td {
             color: #ffffff;
           }
@@ -267,6 +215,14 @@
           .footer-nav, .social-links {
             text-align: center;
             font-size: 18px;
+          }
+
+          .footer-nav,
+          a.footer-nav-link,
+          a.footer-nav-link:hover,
+          a.footer-nav-link:active,
+          a.footer-nav-link:visited {
+            color:#ffffff !important;
           }
 
           .footer-text {
@@ -295,21 +251,73 @@
             font-size: 14px;
           }
 
+          .button-outer-wrap,
+          .button-inner-wrap, 
+          .button-table {
+            margin: 0 auto;
+          }
+
+          .button-inner-wrap,
+          .button-table,
+          .button-cell {
+            mso-hide:all;
+          }
+
+          .button-table,
+          .button-cell,
+          .button-link {
+           text-align:center;
+          }
+
+          .button-cell {
+            vertical-align:middle;
+            display: block;
+          }
+
+          .button-link {
+            -webkit-text-size-adjust:none;
+            font-family: Helvetica, Arial, sans-serif;
+            text-decoration: none;
+            line-height: 45px;
+            display:inline-block;
+          }
+
+          .hero-button-cell {
+            background-color: #ffeb37;
+          }
+          .hero-button-cell,
+          .hero-button-link span {
+            color: #ec532b !important;
+          }
+          .hero-button-link {
+            font-size: 22px;
+            width:220px;
+          }
+
+          .promo-button-cell {
+            background-color: #ec532b;
+          }
+          .promo-button-cell,
+          .promo-button-link span {
+            color: #ffffff !important;
+          }
+          .promo-button-link {
+            font-size: 20px;
+            width: 180px;
+          }
+
     </style>
 
 
     <style type="text/css" data-embed>
-      /* This style block will be ignored for inlining when running 'grunt build' and will not be stripped from the header */
-
-      /*  Media queries */
-
-      /* Define all styles in media queries using attribute selectors in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
-
 
       @media screen and (max-width: 599px) {
         
         table[class="force-row"],
-        table[class="container"] {
+        table[class="container"],
+        table[class*="button-table"],
+        td[class*="button-cell"],
+        a[class*="button-link"] {
           width: 100% !important;
           max-width: 100% !important;
         }
@@ -368,18 +376,7 @@
       }
     </style>
   </head>
-  <body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
-      <!--
-      Responsive framework: Antwort v1.0 - https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0)
-
-      * Force 100% width on aligned tables
-      * Use multiple aligned tables for columns
-      * Tables must have a fixed pixel width
-      * 'force-row' class forces the tables into rows on mobile
-      * Include an Outlook only wrapper table
-    -->
-
-     <!-- 100% background wrapper -->
+  <body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" > <!-- 100% background wrapper -->
 <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
     <tr>
       <td>
@@ -412,60 +409,44 @@
                     <td width="40" class="go-away">
                       <img src="images/spacer.gif" height="1" width="40" class="go-away" alt="">
                     </td>
-                    <td valign="top" align="center" class="text-center">
-                      <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
-                        <tr>
-                          <td colspan="3" valign="top" align="center" class="hero-text text-center">
-                            <%=@base_hero_text%>
-                          </td>
-                        </tr>
-
-                        <tr>
-                          <td colspan="3" class="cell-height" height="20">
-                            <img src="images/spacer.gif" height="20" width="1" alt="">
-                          </td>
-                        </tr>
-
-                        <tr>
-                          <td width="150" class="go-away">
-                            <img src="images/spacer.gif" alt="" height="1" width="150" class="go-away">
-                          </td>
-                          <td width="220" valign="middle" align="center" class="hero-button text-center" bgcolor="#ffeb37">
-                            <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
-                              <tr bgcolor="#ffeb37">
-                                <td class="cell-height" height="10">
-                                  <img src="images/spacer.gif" height="10" width="1" alt="">
-                                </td>
-                              </tr>
-                              <tr>
-                                <td valign="middle" align="center" class="hero-button text-center" bgcolor="#ffeb37">
-                                  <a href="<%=@base_hero_img_link%>" class="hero-button-link text-center"><%=@base_hero_btn_text%> <span>&rsaquo;</span></a>
-                                </td>
-                              </tr>
-                              <tr bgcolor="#ffeb37">
-                                <td class="cell-height" height="10">
-                                  <img src="images/spacer.gif" height="10" width="1" alt="">
-                                </td>
-                              </tr>
-                            </table>
-                          </td>
-                          <td width="150" class="go-away">
-                            <img src="images/spacer.gif" alt="" height="1" width="150" class="go-away">
-                          </td>
-                        </tr>
-
-                        <tr>
-                          <td colspan="3" class="cell-height" height="30">
-                            <img src="images/spacer.gif" height="30" width="1" alt="">
-                          </td>
-                        </tr>
-                      </table>
+                    <td valign="top" align="center" class=" hero-text text-center">
+                       <%=@base_hero_text%>
+                       <div style="height: 20px">
+                         <img src="images/spacer.gif" alt="" height="20" width="1">
+                       </div>
+                       <center>
+                          <div class="button-outer-wrap"><!--[if mso]>
+                           <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%=@base_hero_img_link%>" style="height:45px;v-text-anchor:middle;width:220px;" stroke="f" fillcolor="#ffeb37" fill="t">
+                              <w:anchorlock/>
+                              <center style="color:#ec532b;font-family: Helvetica, Arial, sans-serif;font-size:22px;"><%=@base_hero_btn_text%></center>
+                            </v:rect>
+                          <![endif]-->
+                            <div class="button-inner-wrap">
+                              <table align="center" cellpadding="0" cellspacing="0" height="45" width="220" class="button-table">
+                                <tbody>
+                                  <tr>
+                                    <td align="center" bgcolor="#ffeb37" height="45" class="button-cell hero-button-cell" width="220">
+                                      <a href="<%=@base_hero_img_link%>" class="button-link hero-button-link" title="<%=@base_hero_btn_text%>">
+                                        <span><%=@base_hero_btn_text%></span>
+                                      </a>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+                        </center>
                     </td>
                     <td width="40" class="go-away">
                       <img src="images/spacer.gif" height="1" width="40" class="go-away" alt="">
                     </td>
                   </tr>
                  </table>
+              </td>
+            </tr>
+            <tr bgcolor="#ec532b">
+              <td class="cell-height" height="30">
+                <img src="images/spacer.gif" alt="" height="30" width="1">
               </td>
             </tr>
             <tr>
@@ -514,24 +495,30 @@
                        <!--[if mso]></td><td width="180" valign="top"><![endif]-->
                        <table border="0" cellpadding="0" cellspacing="0" width="180" align="right" class="force-row">
                          <tr>
-                           <td valign="middle" align="center" class="promo-button text-center" bgcolor="#ec532b">
-                            <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
-                              <tr bgcolor="#ec532b">
-                                <td class="cell-height" height="10">
-                                  <img src="images/spacer.gif" height="10" width="1" alt="">
-                                </td>
-                              </tr>
-                              <tr bgcolor="#ec532b">
-                                <td valign="middle" align="center" class="promo-button text-center" bgcolor="#ec532b">
-                                  <a href="<%= f["url"] %>" class="promo-button-link text-center"><%= f["btn_text"] %> <span>&rsaquo;</span></a>
-                                </td>
-                              </tr>
-                              <tr bgcolor="#ec532b">
-                                <td class="cell-height" height="10">
-                                  <img src="images/spacer.gif" height="10" width="1" alt="">
-                                </td>
-                              </tr>
-                            </table>
+                           <td valign="middle" align="center" class="text-center">
+                            
+                             <center>
+                                <div class="button-outer-wrap"><!--[if mso]>
+                                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="#ec532b" fill="t">
+                                    <w:anchorlock/>
+                                    <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%=@base_hero_btn_text%></center>
+                                  </v:rect>
+                                <![endif]-->
+                                  <div class="button-inner-wrap">
+                                    <table align="center" cellpadding="0" cellspacing="0" height="45" width="180" class="button-table">
+                                      <tbody>
+                                        <tr>
+                                          <td align="center" bgcolor="#ec532b" height="45" class="button-cell promo-button-cell" width="180">
+                                            <a href="<%= f["url"] %>" class="button-link promo-button-link" title="<%= f["btn_text"] %>">
+                                              <span><%= f["btn_text"] %></span>
+                                            </a>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </div>
+                                </div>
+                              </center>
                            </td>
                          </tr>
                        </table>

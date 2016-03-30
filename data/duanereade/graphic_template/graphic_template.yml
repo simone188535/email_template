@@ -8,14 +8,11 @@ hero_img_url: 'images/hero.jpg'
 hero_img_alt: "Sun's Out. 3 for the price of 2."
 hero_img_link: '#'
 hero_text: 'Stock up and <b>mix&amp;match</b> select brands of skin and suncare'
-hero_btn_text: 'Start shopping'
+hero_btn_text: 'Start shopping &rsaquo;'
 
 callout_img_url: 'images/app.jpg'
 callout_img_alt: 'Exclusive savings, shopping lists and reward tracking. Get the app >'
 callout_img_link: '#'
-
-order_btn_arrow_img: 'images/btn-arrow.jpg'
-hero_btn_arrow_img: 'images/hero-btn-arrow.jpg'
 
 footer_text: '<sup>*</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any other offers.<br><br>Offers Good Sun. XX/XX - Sat. XX/XX/XX. <sup>**</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any  other offers. Excludes instant, collage prints and prints from film. Of Equal or lesser price, mix and match. Good Sun. XX/XX thru Sat. 02/13/16. &Dagger;Valid in select stores. See associate for details.<br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents")  are provided strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding any questions you may have about a medical condition. Reliance on any of the contents is solely at your own risk. Duane Reade does not guarantee the applicability or accuracy of any  information mentioned in the Contents.<br><br>'
 
@@ -33,12 +30,12 @@ articles:
   img_alt: "Deal of the week! 2/$6 or 2.99 ea."
   url: '#'
   text: "<b>with card DiGiorno Thin & Crispy Frozen Pizza</b> Select varieties"
-  btn_text: "Shop now"
+  btn_text: "Shop now &rsaquo;"
 - img: "images/article-2.jpg"
   img_alt: "1.29 each"
   url : "#"
   text: "<b>with card Coca-Cola 1.25 liters</b> Select varieties of Coke products"
-  btn_text: "Shop now"
+  btn_text: "Shop now &rsaquo;"
 
 footernav:
 - text: "Pharmacy"
