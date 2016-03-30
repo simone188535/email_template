@@ -12,8 +12,6 @@ callout_img_url: 'images/app_img.jpg'
 callout_img_alt: 'Photo printing is a snap with our free app. Get it now >'
 callout_img_link: '#'
 
-order_btn_arrow_img: 'images/btn-arrow.jpg'
-
 footer_text: '<sup>*</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any other offers.<br><br>Offers Good Sun. XX/XX - Sat. XX/XX/XX. <sup>**</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any  other offers. Excludes instant, collage prints and prints from film. Of Equal or lesser price, mix and match. Good Sun. XX/XX thru Sat. 02/13/16. &Dagger;Valid in select stores. See associate for details.<br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents")  are provided strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding any questions you may have about a medical condition. Reliance on any of the contents is solely at your own risk. Duane Reade does not guarantee the applicability or accuracy of any  information mentioned in the Contents.<br><br>'
 
 unsubscribe_link: '#'
@@ -30,14 +28,14 @@ articles:
   text_img_alt: "4x6 Digital Prints 14 cents each"
   promo_text: "On orders of 75 prints or more with card & Promo Code: <b>XXXXXX</b>"
   promo_btn_url: "#"
-  promo_btn_text: "Order now"
+  promo_btn_text: "Order now &rsaquo;"
   product_img_url: "images/article-1-img.jpg"
   product_img_alt: "Ready in about an hour"
 - text_img_url: "images/article-2-text.jpg"
   text_img_alt: "Photo Books 20% off"
   promo_text: "Starting at $9.99 ea. Promo Code: <b>XXXXXX</b>"
   promo_btn_url: "#"
-  promo_btn_text: "Order now"
+  promo_btn_text: "Order now &rsaquo;"
   product_img_url: "images/article-2-img.jpg"
   product_img_alt: "Photo book"
 

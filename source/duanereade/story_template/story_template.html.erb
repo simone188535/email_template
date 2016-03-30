@@ -107,33 +107,10 @@
             text-decoration: none;
           }
 
-          a:hover {
-            color: #f2b14d !important;
-          }
-
-          a:active {
-            color: #f2b14d !important;
-          }
-
+          a:hover,
+          a:active,
           a:visited {
-            color: #f2b14d !important;
-          }
-
-          .footer a {
-            color: #f2b14d !important;
-            text-decoration: none;
-          }
-
-          .footer a:hover {
-            color: #f2b14d !important;
-          }
-
-          .footer a:active {
-            color: #f2b14d !important;
-          }
-
-          .footer a:visited {
-            color: #f2b14d !important;
+            color: #f2b14d;
           }
 
           .text-underline {
@@ -185,23 +162,6 @@
             border-bottom-color: #f2b14d;
           }
 
-          a.promo-button {
-            background-color:#f2b14d;
-            display:inline-block;
-            line-height:40px;
-            font-size: 22px;
-            text-align:center;
-            text-decoration:none;
-            width:180px;
-            color: #ffffff !important;
-            -webkit-text-size-adjust:none;
-            font-family: Helvetica, Arial, sans-serif;
-          }
-
-          a.promo-button,
-          a.promo-button:hover, 
-          a.promo-button:active, 
-          a.promo-button:visited,
           .footer-nav,
           a.footer-nav-link,
           a.footer-nav-link:hover,
@@ -217,7 +177,7 @@
             color: #000000 !important;
           }
 
-          .promo-button img, .social-links img {
+          .social-links img {
             display: inline-block !important;
           }
 
@@ -256,6 +216,53 @@
             font-size: 14px;
           }
 
+         /* .button-outer-wrap,
+          .button-inner-wrap, 
+          .button-table {
+            margin: 0 auto;
+          } */
+
+          .button-inner-wrap,
+          .button-table,
+          .button-cell {
+            mso-hide:all;
+          }
+
+          .button-table,
+          .button-cell,
+          .button-link {
+           text-align:center;
+          }
+
+          .button-cell {
+            vertical-align:middle;
+            display: block;
+          }
+
+          .button-link {
+            -webkit-text-size-adjust:none;
+            font-family: Helvetica, Arial, sans-serif;
+            text-decoration: none;
+            line-height: 45px;
+            display:inline-block;
+          }
+
+          .promo-button-cell {
+            background-color: #f2b14d;
+          }
+          .promo-button-cell,
+          a.promo-button-link,
+          a.promo-button-link span,
+          a.promo-button-link:hover,
+          a.promo-button-link:active,
+          a.promo-button-link:visited {
+            color: #ffffff !important;
+          }
+          .promo-button-link {
+            font-size: 20px;
+            width: 200px;
+          }
+
     </style>
 
 
@@ -270,12 +277,16 @@
       @media screen and (max-width: 599px) {
       	
         table[class="force-row"],
-        table[class="container"] {
+        table[class="container"],
+        table[class*="button-table"],
+        td[class*="button-cell"],
+        a[class*="button-link"]  {
           width: 100% !important;
           max-width: 100% !important;
         }
 
         table[class="force-row"] {
+          float: none !important;
           margin-bottom: 10px;
         }
 
@@ -315,14 +326,14 @@
         }
 
         td[class="footer-nav"] {
-          font-size: 13px;
+          font-size: 11px;
         }
 
         div[class="promo-text-wrap"] {
           padding-left: 10px;
         }
 
-        a[class="promo-button"] {
+        div[class="button-outer-wrap"] {
           margin-left: 10px;
         }
 
@@ -388,16 +399,26 @@
                         <div style="height: 15px;">
                           <img src="images/spacer.gif" alt="" height="15" width="1">
                         </div>
-                        <div><!--[if mso]>
-                          <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="#f2b14d">
-                            <w:anchorlock/>
-                            <center>
+                          <div class="button-outer-wrap"><!--[if mso]>
+                           <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="#f2b14d" fill="t">
+                              <w:anchorlock/>
+                              <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%= f["promo_btn_text"] %></center>
+                            </v:rect>
                           <![endif]-->
-                              <a href="<%= f["promo_btn_url"] %>" class="promo-button"><%= f["promo_btn_text"] %> <span>&rsaquo;</span></a>
-                          <!--[if mso]>
-                            </center>
-                          </v:rect>
-                        <![endif]--></div>
+                            <div class="button-inner-wrap">
+                              <table align="left" cellpadding="0" cellspacing="0" height="45" width="200" class="button-table">
+                                <tbody>
+                                  <tr>
+                                    <td align="center" valign="middle" bgcolor="#f2b14d" height="45" class="button-cell promo-button-cell" width="200">
+                                      <a href="<%= f["promo_btn_url"] %>" class="button-link promo-button-link" title="<%= f["btn_text"] %>">
+                                        <%= f["promo_btn_text"] %>
+                                      </a>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
                       </td>
                       <td valign="top" align="right" width="50%">
                         <a href="<%= f["promo_btn_url"] %>">
