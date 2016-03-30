@@ -305,6 +305,11 @@
           width: 75% !important;
         }
 
+        td[class="social-links"] {
+          padding-left: 15px;
+          padding-right: 15px;
+        }
+
         td[class="social-links"] img {
           margin-bottom: 5px;
         }
@@ -388,7 +393,7 @@
                             <w:anchorlock/>
                             <center>
                           <![endif]-->
-                              <a href="<%= f["promo_btn_url"] %>" class="promo-button"><%= f["promo_btn_text"] %><img src="<%=@base_order_btn_arrow_img%>" alt=""></a>
+                              <a href="<%= f["promo_btn_url"] %>" class="promo-button"><%= f["promo_btn_text"] %> <span>&rsaquo;</span></a>
                           <!--[if mso]>
                             </center>
                           </v:rect>

@@ -8,26 +8,18 @@
     <!-- So that mobile webkit will display zoomed in -->
     <meta name="format-detection" content="telephone=no">
     <!-- disable auto telephone linking in iOS -->
-    <!--[if gte mso 9]>
-      <xml>
-        <o:OfficeDocumentSettings>
-          <o:AllowPNG/>
-          <o:PixelsPerInch>96</o:PixelsPerInch>
-        </o:OfficeDocumentSettings>
-      </xml>
-    <![endif]-->
     <title><%=@base_title%></title>
-    <style type="text/css" data-embed>
+    <style type="text/css">
       /* This style block will be inlined when running 'grunt build' and stripped from the header */
 
       /* Resets */
         .ReadMsgBody {
           width: 100%;
-          background-color: #e7e7e7;
+          background-color: #ffffff;
         }
         .ExternalClass {
           width: 100%;
-          background-color: #e7e7e7;
+          background-color: #ffffff;
         }
         .ExternalClass,
         .ExternalClass p,
@@ -50,16 +42,20 @@
         }
         table td {border-collapse:collapse;}
         table, tr, td {text-align: left;}
-        img{ /* responsive images */
+        img{
             display: block;
             border:none;
             outline:none;
-            width: auto !important;
-            height: auto !important;
-            max-width: 100%;
             -ms-interpolation-mode: bicubic;
           }
-        a img {border:none;}
+        img.responsive {
+          width: auto !important;
+          height: auto !important;
+          max-width: 100%;
+        }
+        a img {
+          border:none;
+        }
 
         /* Wrap phone numbers and addresses to prevent them showing up as links on mobile */
         .apple-link-black {
@@ -87,24 +83,14 @@
 
           }
           body, .container, .text, td, p {
-            font-size: 16px;
-            line-height: 20px;
-          }
-
-          .header {
-            font-size: 24px;
-            line-height: 28px;
-          }
-
-          .sub-header {
             font-size: 20px;
             line-height: 24px;
           }
 
           sup {
-            font-size:8px;
+            font-size:14px;
             line-height:0;
-            vertical-align:4px;
+            vertical-align:0;
           }
 
           .view-online {
@@ -117,24 +103,41 @@
           }
 
           a {
-          color: #e9772f !important;
-          text-decoration: none;
-          }
-
-          .text-underline {
-          	text-decoration: underline;
+            color: #f2b14d !important;
+            text-decoration: none;
           }
 
           a:hover {
-            color: #e9772f !important;
+            color: #f2b14d !important;
           }
 
           a:active {
-            color: #e9772f !important;
+            color: #f2b14d !important;
           }
 
           a:visited {
-            color: #e9772f !important;
+            color: #f2b14d !important;
+          }
+
+          .footer a {
+            color: #f2b14d !important;
+            text-decoration: none;
+          }
+
+          .footer a:hover {
+            color: #f2b14d !important;
+          }
+
+          .footer a:active {
+            color: #f2b14d !important;
+          }
+
+          .footer a:visited {
+            color: #f2b14d !important;
+          }
+
+          .text-underline {
+            text-decoration: underline;
           }
 
           .text-left {
@@ -160,22 +163,142 @@
           }
 
           .orange {
-          	color: #f3901d;
+            color: #f2b14d !important;
+          }
+
+          .white {
+            color: #ffffff !important;
           }
 
           .cell-height {
-          	line-height:1px;
-          	font-size:1px;
+            line-height:1px;
+            font-size:1px;
           }
 
           .small-text {
-          	font-size: 12px;
+            font-size: 12px;
+          }
+
+          .hero {
+            border-top-width: 10px;
+            border-top-style: solid;
+            border-top-color: #ffeb37;
+          }
+
+          .hero-text {
+            color: #ffffff;
+            line-height: 34px;
+            font-size: 30px;
+          }
+
+          .callout {
+            border-bottom-width: 10px;
+            border-bottom-style: solid;
+            border-bottom-color: #ffeb37;
+          }
+
+          .promo-button,
+          a.promo-button-link{
+            background-color:#ec532b;
+            
+            font-size: 22px;
+            text-align:center;
+            text-decoration:none;
+            width:180px;
+            color: #ffffff !important;
+            -webkit-text-size-adjust:none;
+            font-family: Helvetica, Arial, sans-serif;
+          }
+
+          a.promo-button-link, a.hero-button-link {
+            text-align: center;
+          }
+
+          .promo-button,
+          a.promo-button-link,
+          a.promo-button-link:hover, 
+          a.promo-button-link:active, 
+          a.promo-button-link:visited,
+          .footer-nav,
+          a.footer-nav-link,
+          a.footer-nav-link:hover,
+          a.footer-nav-link:active,
+          a.footer-nav-link:visited {
+            color:#ffffff !important;
+          }
+
+          .hero-button,
+          a.hero-button-link,
+          a.hero-button-link:hover, 
+          a.hero-button-link:active, 
+          a.hero-button-link:visited {
+           width: 220px;
+            background-color: #ffeb37;
+            color: #ec532b !important;
+            
+            font-size: 22px;
+            text-align:center;
+            text-decoration:none;
+            -webkit-text-size-adjust:none;
+            font-family: Helvetica, Arial, sans-serif;
+          }
+
+
+          .social-links a,
+          .social-links a:hover,
+          .social-links a:active,
+          .social-links a:visited {
+            color: #000000 !important;
+          }
+
+          .social-links img{
+            display: inline-block !important;
+          }
+
+          .promo-button img,
+          .hero-button img {
+            display: inline !important;
+          }
+
+          .callout, .callout td {
+            color: #ffffff;
+          }
+
+          .footer-nav, .social-links {
+            text-align: center;
+            font-size: 18px;
+          }
+
+          .footer-text {
+            color: #8b8b8b;
+            font-size: 14px;
+            line-height: 16px;
+          }
+
+          .footer-text a,
+          .footer-text a:hover,
+          .footer-text a:active,
+          .footer-text a:visited {
+            color: #000000 !important;
+            text-decoration: underline;
+          }
+
+          .footer-text .footer-end-links, .copyright {
+            font-size: 18px;
+            text-align: center;
+            color: #000000;
+          }
+          .footer-end-links {
+            line-height: 24px;
+          }
+          .copyright {
+            font-size: 14px;
           }
 
     </style>
 
 
-    <style type="text/css" data-embed-ignore>
+    <style type="text/css" data-embed>
       /* This style block will be ignored for inlining when running 'grunt build' and will not be stripped from the header */
 
       /*  Media queries */
@@ -184,7 +307,7 @@
 
 
       @media screen and (max-width: 599px) {
-      	
+        
         table[class="force-row"],
         table[class="container"] {
           width: 100% !important;
@@ -192,6 +315,7 @@
         }
 
         table[class="force-row"] {
+          float: none !important;
           margin-bottom: 10px;
         }
 
@@ -212,20 +336,39 @@
           font-size: 14px !important;
           display: block !important;
           width: auto !important;
-          }
+        }
 
-        td[class="container"] {
+        td[class*="hero-text-wrap"] {
           padding-left: 14px;
           padding-right: 14px;
         }
 
-        td[class="col"] {
-          padding: 10px;
+        td[class="social-links"] {
+          padding-left: 15px;
+          padding-right: 15px;
         }
+
+        td[class="social-links"] img {
+          margin-bottom: 5px;
+        }
+
+        td[class="footer-nav"] {
+          font-size: 13px;
+        }
+
+        a[class="promo-button"] {
+          margin: 0 auto;
+          margin-bottom: 10px;
+        }
+
+        div[class="promo-button-wrap"] {
+          text-align: center;
+        }
+
       }
     </style>
   </head>
-  <body  bgcolor="#e7e7e7" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
+  <body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
       <!--
       Responsive framework: Antwort v1.0 - https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0)
 
@@ -237,247 +380,276 @@
     -->
 
      <!-- 100% background wrapper -->
-<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#e7e7e7">
+<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
     <tr>
       <td>
         <!-- 600px container -->
         <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+            <!-- Header logo -->
             <tr>
-             	<td valign="top" align="left">
-              <!-- Header top row -->
-	            	<table class="top-header-top-row" border="0" cellpadding="0" cellspacing="0" width="100%">
-	              		<tr bgcolor="#000000">
+              <td valign="top" align="center">
+                <a href="<%=@base_logo_img_link%>">
+                  <img src="<%=@base_logo_img_url%>" alt="<%=@base_logo_img_alt%>" class="responsive">
+                </a>
+              </td>
+            </tr>
+            <!-- /Header logo -->
 
-                    <!-- Logo -->
-  	              		<td valign="bottom" class="header-top-row header-logo">
-  	              			<a href="#">
-  	              				<img src="<%=@base_logo_link_img%>" alt="<%=@base_logo_link_text%>">
-  	              			</a>
-  	              		</td>
+            <!-- Hero -->
+            <tr bgcolor="#ec532b">
+              <td valign="top" align="center" class="hero">
+                <a href="<%=@base_hero_img_link%>">
+                 <center> 
+                  <img src="<%=@base_hero_img_url%>" alt="<%=@base_hero_img_alt%>" class="responsive">
+                 </center>
+                </a>
+              </td>
+            </tr>
+            <tr bgcolor="#ec532b">
+              <td valign="top" align="center" class="hero-text-wrap text-center">
+                 <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="40" class="go-away">
+                      <img src="images/spacer.gif" height="1" width="40" class="go-away" alt="">
+                    </td>
+                    <td valign="top" align="center" class="text-center">
+                      <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                          <td colspan="3" valign="top" align="center" class="hero-text text-center">
+                            <%=@base_hero_text%>
+                          </td>
+                        </tr>
 
-                    <!-- Background spacing -->
-  	              		<td valign="bottom" class="header-top-row header-top-bg">
-  	              				<img src="<%=@base_header_top_mid_bg_spacing_img%>" alt="">
-  	              		</td>
+                        <tr>
+                          <td colspan="3" class="cell-height" height="20">
+                            <img src="images/spacer.gif" height="20" width="1" alt="">
+                          </td>
+                        </tr>
 
-                    <!-- Find a store -->  
-  	              		<td valign="bottom" class="header-top-row header-find-store">
-  	              			<a href="#">
-                          <img src="<%=@base_find_store_link_img%>" alt="<%=@base_find_store_link_text%>">
-  	              			</a>
-  	              		</td>
-	              		</tr>
-	              	</table>
+                        <tr>
+                          <td width="150" class="go-away">
+                            <img src="images/spacer.gif" alt="" height="1" width="150" class="go-away">
+                          </td>
+                          <td width="220" valign="middle" align="center" class="hero-button text-center" bgcolor="#ffeb37">
+                            <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+                              <tr bgcolor="#ffeb37">
+                                <td class="cell-height" height="10">
+                                  <img src="images/spacer.gif" height="10" width="1" alt="">
+                                </td>
+                              </tr>
+                              <tr>
+                                <td valign="middle" align="center" class="hero-button text-center" bgcolor="#ffeb37">
+                                  <a href="<%=@base_hero_img_link%>" class="hero-button-link text-center"><%=@base_hero_btn_text%> <span>&rsaquo;</span></a>
+                                </td>
+                              </tr>
+                              <tr bgcolor="#ffeb37">
+                                <td class="cell-height" height="10">
+                                  <img src="images/spacer.gif" height="10" width="1" alt="">
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                          <td width="150" class="go-away">
+                            <img src="images/spacer.gif" alt="" height="1" width="150" class="go-away">
+                          </td>
+                        </tr>
 
-                  <!-- Header bottom row -->
-                  <table class="top-header" border="0" cellpadding="0" cellspacing="0" width="100%">
-                    <tr bgcolor="#000000">
-                      
-                      <!-- Background spacing -->
-                      <td valign="top" class="header-bottom-row header-bottom-left-bg">
-                        <img src="<%=@base_header_bottom_left_bg_spacing_img%>" alt="">
-                      </td>
-
-                      <!-- Catering link -->
-                      <td valign="top" class="header-bottom-row header-catering">
-                        <a href="#">
-                          <img src="<%=@base_catering_link_img%>" alt="<%=@base_catering_link_text%>">
-                        </a>
-                      </td>
-
-                      <!-- Chef prep link -->
-                      <td valign="top" class="header-bottom-row header-chef">
-                        <a href="#">
-                          <img src="<%=@base_chef_prep_link_img%>" alt="<%=@base_chef_prep_link_text%>">
-                        </a>
-                      </td>
-
-                      <!-- My Balducci's link -->
-                      <td valign="top" class="header-bottom-row header-my-bld">
-                        <a href="#">
-                          <img src="<%=@base_mybalduccis_link_img%>" alt="<%=@base_mybalduccis_link_text%>">
-                        </a>
-                      </td>
-
-                      <!-- Background spacing -->
-                      <td valign="top">
-                        <img src="<%=@base_header_bottom_right_bg_spacing_img%>" alt="">
-                      </td>
-
-                    </tr>
-                  </table>
-              	</td>
+                        <tr>
+                          <td colspan="3" class="cell-height" height="30">
+                            <img src="images/spacer.gif" height="30" width="1" alt="">
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td width="40" class="go-away">
+                      <img src="images/spacer.gif" height="1" width="40" class="go-away" alt="">
+                    </td>
+                  </tr>
+                 </table>
+              </td>
             </tr>
             <tr>
-            	<td height="20" valign="top">
-            		<img src="images/spacer.gif" width="1" height="20" alt="">
-            	</td>
+              <td height="20" class="cell-height">
+                <img src="images/spacer.gif" alt="" height="20" width="1">
+              </td>
+            </tr>
+            <!-- /Hero -->
+
+            <!-- Articles -->
+            <% data.duanereade.graphic_template.graphic_template.articles.each do |f| %>
+              <tr>
+                <td valign="top" align="center">
+                  <a href="<%= f["url"] %>">
+                    <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" class="responsive">
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td class="cell-height" height="10">
+                  <img src="images/spacer.gif" alt="" height="10" width="1">
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left">
+
+                 <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="30">
+                        <img src="images/spacer.gif" alt="" height="1" width="30">
+                    </td>
+                    <td valign="top" align="left" class="container">
+                      <!--[if mso]>
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr><td width="350" valign="top"><![endif]-->
+                      <table border="0" cellpadding="0" cellspacing="0" width="350" align="left" class="force-row">
+                        <tr>
+                          <td valign="top" align="left">
+                            <%= f["text"] %>
+                          </td>
+                          <td width="40" class="go-away">
+                            <img src="images/spacer.gif" alt="" height="1" width="10" class="go-away">
+                          </td>
+                        </tr>
+                      </table>
+                       <!--[if mso]></td><td width="180" valign="top"><![endif]-->
+                       <table border="0" cellpadding="0" cellspacing="0" width="180" align="right" class="force-row">
+                         <tr>
+                           <td valign="middle" align="center" class="promo-button text-center" bgcolor="#ec532b">
+                            <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+                              <tr bgcolor="#ec532b">
+                                <td class="cell-height" height="10">
+                                  <img src="images/spacer.gif" height="10" width="1" alt="">
+                                </td>
+                              </tr>
+                              <tr bgcolor="#ec532b">
+                                <td valign="middle" align="center" class="promo-button text-center" bgcolor="#ec532b">
+                                  <a href="<%= f["url"] %>" class="promo-button-link text-center"><%= f["btn_text"] %> <span>&rsaquo;</span></a>
+                                </td>
+                              </tr>
+                              <tr bgcolor="#ec532b">
+                                <td class="cell-height" height="10">
+                                  <img src="images/spacer.gif" height="10" width="1" alt="">
+                                </td>
+                              </tr>
+                            </table>
+                           </td>
+                         </tr>
+                       </table>
+                       <!--[if mso]></td></tr></table><![endif]-->
+
+                    </td>
+                    <td width="30">
+                        <img src="images/spacer.gif" alt="" height="1" width="30">
+                    </td>
+                  </tr>
+                 </table>
+
+                </td>
+              </tr>
+              <tr>
+                <td height="15" class="cell-height">
+                  <img src="images/spacer.gif" alt="" height="15" width="1">
+                </td>
+              </tr>
+            <% end %>
+
+            <tr>
+              <td class="cell-height" height="30">
+                <img src="images/spacer.gif" alt="" height="30" width="1">
+              </td>
+            </tr>
+
+            <!-- Call out -->
+            <tr>
+              <td valign="top" class="callout">
+                <a href="<%=@base_callout_img_link%>">
+                  <img src="<%=@base_callout_img_url%>" alt="<%=@base_callout_img_url%>" class="responsive">
+                </a>
+              </td>
             </tr>
             <tr>
-            	<td valign="top" align="center">
-            		<table border="0" cellpadding="0" cellspacing="0" width="100%">
-            			<tr>
-	            			<td width="20">
-				            	<img src="images/spacer.gif" width="20" height="1" alt="">
-				            </td>
-				            <td width="560" valign="top" align="center">
-				            	<img src="<%=@base_hero_img%>" alt="<%=@base_hero_text%>" align="center">
-				            </td>
-				            <td width="20">
-				            	<img src="images/spacer.gif" width="20" height="1" alt="">
-				            </td>
-			            </tr>
-			            <tr>
-            				<td height="15" colspan="3" class="cell-height">
-            					<img src="images/spacer.gif" width="1" height="15" alt="">
-            				</td>
-			            </tr>
-            		</table>
-            	</td>
+              <td class="cell-height" height="5">
+                <img src="images/spacer.gif" alt="" height="5" width="1">
+              </td>
             </tr>
-            <tr>
-            	<td valign="top">
-            		<table border="0" cellpadding="0" cellspacing="0" width="100%">
-            			<tr>
-            				<td width="20">
-			            		<img src="images/spacer.gif" width="20" height="1" alt="">
-			            	</td>
-			            	<td valign="top" align="left" width="560">
-			            		<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			            			<tr>
-			            				<td valign="top" align="left" bgcolor="#ffffff" class="container">
-			            					<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			            						<tr>
-			            							<td width="20">
-									            		<img src="images/spacer.gif" width="20" height="1" alt="">
-									            	</td>
-									            	<td valign="top" align="left">
-									            		<table border="0" cellpadding="0" cellspacing="0" width="100%" height="20">
-									            			<tr>
-									            				<td height="20">
-									            					<img src="images/spacer.gif" width="1" height="20" alt="">
-									            				</td>
-									            			</tr>
-									            		</table>
-									            		<%=@base_greeting%><br><br>
-									            		<%=@base_message_body%>
 
-									            		<table border="0" cellpadding="0" cellspacing="0" width="100%" class="order-summary">
-									            			<tr>
-									            				<td height="5" class="cell-height">
-									            					<img src="images/spacer.gif" width="1" height="5" alt="">
-									            				</td>
-									            			</tr>
-									            			<tr>
-									            				<td class="summary-header orange">
-									            					<b><%=@base_order_summary_header%></b>
-									            				</td>
-									            			</tr>
-									            			<tr>
-									            				<td height="8" class="cell-height">
-									            					<img src="images/spacer.gif" width="1" height="8" alt="">
-									            				</td>
-									            			</tr>
-									            		</table>
+          <!-- Footer nav -->
+          <tr bgcolor="#000000">
+            <td class="cell-height" height="15">
+              <img src="images/spacer.gif" alt="" height="15" width="1">
+            </td>
+          </tr>
+          <tr bgcolor="#000000">
+            <td valign="top" align="center" class="footer-nav">
+              <% data.duanereade.story_template.story_template.footernav.each do |f| %><a class="footer-nav-link" href="<%= f["link"] %>">
+                  <%= f["text"] %>
+                  </a><span class="white">&nbsp;<%= f["sep"] %>&nbsp;</span>
+              <% end %>
+            </td>
+          </tr>
+          <tr bgcolor="#000000">
+            <td class="cell-height" height="15">
+              <img src="images/spacer.gif" alt="" height="15" width="1">
+            </td>
+          </tr>
 
-									            		<table border="0" cellpadding="0" cellspacing="0" width="100%" height="20">
-									            			<tr>
-									            				<td height="20">
-									            					<img src="images/spacer.gif" width="1" height="20" alt="">
-									            				</td>
-									            			</tr>
-									            		</table>
+          <tr>
+            <td class="cell-height" height="40">
+              <img src="images/spacer.gif" alt="" height="40" width="1">
+            </td>
+          </tr>
 
-									            		<%=@base_order_number%><br><br>
-									            		<%=@base_order_date%><br><br>
-									            		<%=@base_special_instructions%><br><br>
-									            		<%=@base_sold_to%><br><br>
-									            		<%=@base_order_details%><br><br>
-									            		<%=@base_subtotal%><br>
-									            		<span class="small-text">
-									            			<%=@base_subtotal_note%>
-									            		</span>
+          <!-- Social links -->
+          <tr>
+            <td valign="top" align="center" class="social-links">
+              <% data.duanereade.story_template.story_template.socialnav.each do |f| %>
+                <a href="<%= f["link"] %>">
+                  <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" class="responsive">
+                </a>
+              <% end %>
+            </td>
+          </tr>
 
-									            		<table border="0" cellpadding="0" cellspacing="0" width="100%" height="20">
-									            			<tr>
-									            				<td height="20">
-									            					<img src="images/spacer.gif" width="1" height="20" alt="">
-									            				</td>
-									            			</tr>
-									            		</table>
-									            	</td>
-									            	<td width="20">
-										        		<img src="images/spacer.gif" width="20" height="1" alt="">
-										        	</td>
-			            						</tr>
-			            					</table>
-			            				</td>
-			            			</tr>
-			            			<tr>
-			            				<td background="<%=@base_shadow_bottom_bg_img%>" bgcolor="#e7e7e7" width="560" height="5" class="cell-height" valign="top">
-											<!--[if gte mso 9]>
-											<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:560px;height:5px;line-height:1px;font-size:1px;">
-											<v:fill type="tile" src="<%=@base_shadow_bottom_bg_img%>" color="#e7e7e7" />
-											<v:textbox inset="0,0,0,0">
-											<![endif]-->
-											<div></div>
-											<!--[if gte mso 9]>
-											</v:textbox>
-											</v:rect>
-											<![endif]-->
-										</td>
-			            			</tr>
-				                </table>
-				            </td>
-							<td background="<%=@base_shadow_right_bg_img%>" bgcolor="#e7e7e7" width="20" class="cell-height" valign="top">
-								<!--[if gte mso 9]>
-								<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:20px;">
-								<v:fill type="tile" src="<%=@base_shadow_right_bg_img%>" color="#e7e7e7" />
-								<v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
-								<![endif]-->
-								<div></div>
-								<!--[if gte mso 9]>
-								</v:textbox>
-								</v:rect>
-								<![endif]-->
-							</td>
-            			</tr>
-            		</table>
-            	</td>
-	        </tr>
-	        <tr>
-	        	<td valign="top" align="left">
-	        		<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	        			<tr>
-	        				<td height="15" class="cell-height">
-	        					<img src="images/spacer.gif" width="1" height="15" alt="">
-	        				</td>
-	        			</tr>
-	        			<tr>
-	        				<td valign="top">
-	        					<a href="#">
-	        						<img src="<%=@base_footer_logo_img%>" alt="<%=@base_footer_logo_text%>">
-	        					</a>
-	        				</td>
-	        				<td valign="top">
-	        						<img src="<%=@base_footer_mid_img%>" alt="">
-	        				</td>
-	        				<td valign="top">
-	        					<a href="#">
-	        						<img src="<%=@base_footer_fb_img%>" alt="<%=@base_footer_fb_text%>">
-	        					</a>
-	        				</td>
-	        				<td valign="top">
-	        					<a href="#">
-	        						<img src="<%=@base_footer_tw_img%>" alt="<%=@base_footer_tw_text%>">
-	        					</a>
-	        				</td>
-	        			</tr>
-	        		</table>
-	        	</td>
-	        </tr>
+          <tr>
+            <td class="cell-height" height="30">
+              <img src="images/spacer.gif" alt="" height="30" width="1">
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td align="left" valign="top">
+              <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="40">
+                    <img src="images/spacer.gif" alt="" height="1" width="40">
+                  </td>
+                   <td class="footer-text" align="left" valign="top">
+                     <%=@base_footer_text%>
+                     <div class="footer-end-links text-underline">
+                       <a href="<%=@base_unsubscribe_link%>">
+                        <%=@base_unsubscribe_text%>
+                       </a> |
+                       <a href="<%=@base_privacy_link%>">
+                        <%=@base_privacy_text%>
+                      </a>
+                     </div>
+                     <div class="copyright">
+                        <br>
+                       <%=@base_copyright%>
+                     </div>
+                  </td>
+                  <td width="40">
+                    <img src="images/spacer.gif" alt="" height="1" width="40">
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
         </table>
           <!-- /600px container -->
+          <br><br>
       </td>
     </tr>
 </table>
