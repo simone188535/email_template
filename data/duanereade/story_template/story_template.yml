@@ -1,5 +1,7 @@
 title: 'DuanereadeTM by Walgreens'
 
+primary_color: '#f2b14d'
+
 logo_img_url: 'images/header-logo.jpg'
 logo_img_alt: 'DuanereadeTM by Walgreens'
 logo_img_link: '#'
@@ -40,7 +42,7 @@ articles:
   product_img_alt: "Photo book"
 
 footernav:
-- text: "Pharmacy"
+- text: "RX"
   link: "#"
   sep: "|"
 - text: "Beauty"
@@ -60,12 +62,6 @@ socialnav:
 - img: "images/tw-link.jpg"
   link: "#"
   alt: "Twitter"
-- img: "images/email-link.jpg"
-  link: "#"
-  alt: "Email"
-- img: "images/nav-link.jpg"
-  link: "#"
-  alt: "Find Store"
 - img: "images/site-link.jpg"
   link: "#"
   alt: "Duanereade"

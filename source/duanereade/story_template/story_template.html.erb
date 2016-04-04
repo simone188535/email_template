@@ -103,14 +103,14 @@
           }
 
           a {
-            color: #f2b14d !important;
+            color: <%=@base_primary_color%> !important;
             text-decoration: none;
           }
 
           a:hover,
           a:active,
           a:visited {
-            color: #f2b14d;
+            color: <%=@base_primary_color%>;
           }
 
           .text-underline {
@@ -140,7 +140,7 @@
           }
 
           .orange {
-          	color: #f2b14d !important;
+          	color: <%=@base_primary_color%> !important;
           }
 
           .white {
@@ -159,7 +159,7 @@
           .hero, .callout {
             border-bottom-width: 10px;
             border-bottom-style: solid;
-            border-bottom-color: #f2b14d;
+            border-bottom-color: <%=@base_primary_color%>;
           }
 
           .footer-nav,
@@ -248,7 +248,7 @@
           }
 
           .promo-button-cell {
-            background-color: #f2b14d;
+            background-color: <%=@base_primary_color%>;
           }
           .promo-button-cell,
           a.promo-button-link,
@@ -261,6 +261,10 @@
           .promo-button-link {
             font-size: 20px;
             width: 200px;
+          }
+
+          .promo-text-wrap {
+            width: 215px;
           }
 
     </style>
@@ -325,12 +329,16 @@
           margin-bottom: 5px;
         }
 
-        td[class="footer-nav"] {
-          font-size: 11px;
+        a[class="footer-nav-link"],  
+        td[class="footer-nav"] a, 
+        td[class="footer-nav"] span {
+          font-size: 15px !important;
         }
 
         div[class="promo-text-wrap"] {
           padding-left: 10px;
+          width: 100% !important;
+          max-width: 172px;
         }
 
         div[class="button-outer-wrap"] {
@@ -371,8 +379,8 @@
             <!-- /Header logo -->
 
             <!-- Hero -->
-            <tr>
-            	<td valign="top" align="center" class="hero">
+            <tr bgcolor="<%=@base_primary_color%>">
+            	<td valign="top" align="center" class="hero" bgcolor="<%=@base_primary_color%>">
                 <a href="<%=@base_hero_img_link%>">
                   <img src="<%=@base_hero_img_url%>" alt="<%=@base_hero_img_alt%>" class="responsive">
                 </a>
@@ -400,7 +408,7 @@
                           <img src="images/spacer.gif" alt="" height="15" width="1">
                         </div>
                           <div class="button-outer-wrap"><!--[if mso]>
-                           <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="#f2b14d" fill="t">
+                           <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
                               <w:anchorlock/>
                               <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%= f["promo_btn_text"] %></center>
                             </v:rect>
@@ -409,7 +417,7 @@
                               <table align="left" cellpadding="0" cellspacing="0" height="45" width="200" class="button-table">
                                 <tbody>
                                   <tr>
-                                    <td align="center" valign="middle" bgcolor="#f2b14d" height="45" class="button-cell promo-button-cell" width="200">
+                                    <td align="center" valign="middle" bgcolor="<%=@base_primary_color%>" height="45" class="button-cell promo-button-cell" width="200">
                                       <a href="<%= f["promo_btn_url"] %>" class="button-link promo-button-link" title="<%= f["btn_text"] %>">
                                         <%= f["promo_btn_text"] %>
                                       </a>
@@ -458,12 +466,12 @@
 
           <!-- Footer nav -->
           <tr bgcolor="#000000">
-            <td class="cell-height" height="15">
+            <td class="cell-height" height="15" bgcolor="#000000">
               <img src="images/spacer.gif" alt="" height="15" width="1">
             </td>
           </tr>
           <tr bgcolor="#000000">
-            <td valign="top" align="center" class="footer-nav">
+            <td valign="top" align="center" class="footer-nav" bgcolor="#000000">
               <% data.duanereade.story_template.story_template.footernav.each do |f| %><a class="footer-nav-link" href="<%= f["link"] %>">
                   <%= f["text"] %>
                   </a><span class="white">&nbsp;<%= f["sep"] %>&nbsp;</span>
@@ -471,7 +479,7 @@
             </td>
           </tr>
           <tr bgcolor="#000000">
-            <td class="cell-height" height="15">
+            <td class="cell-height" height="15" bgcolor="#000000">
               <img src="images/spacer.gif" alt="" height="15" width="1">
             </td>
           </tr>
