@@ -8,19 +8,29 @@ module.exports = function(grunt) {
     // ----------------------
 
     emailBuilder: {
-      test :{
-        files: [{
-          expand: true,           // Enable dynamic expansion.
-          cwd: 'build',           // Src matches are relative to this path.
-          src: ['**/*.html'],     // Actual pattern(s) to match.
-          dest: 'prod/',          // Destination path prefix.
-          ext: '.html',           // Dest filepaths will have this extension.
-        }],
-        options: {
-          encodeSpecialChars: true
-        }
-      }
-    },
+		test :{
+			files: [{
+				expand: true,           // Enable dynamic expansion.
+				cwd: 'build',           // Src matches are relative to this path.
+				src: ['**/*.html'],     // Actual pattern(s) to match.
+				dest: 'prod/',          // Destination path prefix.
+				ext: '.html',           // Dest filepaths will have this extension.
+			}],
+			options: {
+				encodeSpecialChars: true
+			}
+		},
+	},
+	
+	copy: {
+	  files: {
+	    cwd: 'build/',  // set working folder / root to copy
+	    src: ['**/*'],           // copy all files and subfolders
+	    dest: 'prod/',    // destination folder
+	    expand: true           // required when using cwd
+	  }
+	},
+	
 
     // Image Compression
     // ----------------------
@@ -59,9 +69,10 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-litmus');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-newer');
+  grunt.loadNpmTasks('grunt-contrib-copy');
 
   // Default task(s).
-  grunt.registerTask('default', ['emailBuilder']);
+  grunt.registerTask('default', ['emailBuilder','copy']);
   grunt.registerTask('images', ['newer:imagemin']); // grunt images --imgpath=client_name/project_name/images (replative to 'prod' folder, do not include '/' after the images directory path)
   grunt.registerTask('build',   ['newer:emailBuilder']);
   grunt.registerTask('send', ['litmus']); // grunt send --template=yourtemplate.html (relative to 'prod' folder)
