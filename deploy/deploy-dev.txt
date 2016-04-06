@@ -12,7 +12,7 @@ option transfer binary
 # For example following mask includes all JPG and GIF images, but excludes those starting with 2010 and 2011: *.jpg; *.gif | 2010*; 2011*.
 option exclude .git/
 # Download file to the local directory d:\
-synchronize remote "%1%" /var/www/vhosts/gaprc.org/proof
+synchronize remote "%1%" /var/www/vhosts/gaprc.org/build/
 # Disconnect
 close
 # Exit WinSCP
