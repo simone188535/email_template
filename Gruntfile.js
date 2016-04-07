@@ -22,6 +22,7 @@ module.exports = function(grunt) {
 		},
 	},
 	
+	// copy images and other folders to build directory
 	copy: {
 	  files: {
 	    cwd: 'build/',  // set working folder / root to copy
@@ -30,6 +31,21 @@ module.exports = function(grunt) {
 	    expand: true           // required when using cwd
 	  }
 	},
+	
+	// Switch images for those in CDN
+	// cdnify: {
+	//   someTarget: {
+	//     options: {
+	//       base: 'http://proof.gaprc.org/'+grunt.option('images-path')
+	//     },
+	//     files: [{
+	//       expand: true,
+	//       cwd: 'app',
+	//       src: '**/*.{css,html}',
+	//       dest: 'dist'
+	//     }]
+	//   }
+	// },
 	
 
     // Image Compression
