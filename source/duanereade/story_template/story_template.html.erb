@@ -179,7 +179,6 @@
 
           .social-links img {
             display: inline-block !important;
-            height: 64px !important;
           }
 
           .callout, .callout td {
@@ -268,6 +267,13 @@
             width: 215px;
           }
 
+          .article-img a {
+            text-align: right;
+          }
+          .article-img img {
+            float: right;
+          }
+
     </style>
 
 
@@ -326,6 +332,9 @@
           padding-right: 15px;
         }
 
+        td[class="social-links"] img {
+          height: 44px !important;
+        }
 
         a[class="footer-nav-link"],  
         td[class="footer-nav"] a, 
@@ -345,6 +354,17 @@
 
         td[class="article-text"] img {
           margin-left: 5px;
+        }
+
+        td[class="article-text"] {
+          width: 48% !important;
+        }
+        td[class="article-img"] {
+          width: 52% !important;
+        }
+        td[class="footer-nav"] {
+          padding-top: 5px;
+          padding-bottom: 5px;
         }
       }
     </style>
@@ -397,7 +417,7 @@
                 <td valign="top" align="left">
                   <table border="0" width="100%" cellpadding="0" cellspacing="0">
                     <tr>
-                      <td valign="top" align="left" width="40%" class="article-text">
+                      <td valign="top" align="left" width="240" class="article-text">
                         <a href="<%= f["promo_btn_url"] %>">
                           <img src="<%= f["text_img_url"] %>" alt="<%= f["text_img_alt"] %>" class="responsive promo-text">
                         </a>
@@ -426,9 +446,9 @@
                             </div>
                           </div>
                       </td>
-                      <td valign="top" align="right" width="60%">
+                      <td valign="top" align="right" width="360" class="article-img">
                         <a href="<%= f["promo_btn_url"] %>">
-                          <img src="<%= f["product_img_url"] %>" alt="<%= f["product_img_alt"] %>" class="responsive">
+                          <img src="<%= f["product_img_url"] %>" alt="<%= f["product_img_alt"] %>" class="responsive" align="right">
                         </a>
                       </td>
                     </tr>
@@ -463,9 +483,9 @@
             </tr>
 
           <!-- Footer nav -->
-          <tr bgcolor="#000000">
-            <td class="cell-height" height="15" bgcolor="#000000">
-              <img src="images/spacer.gif" alt="" height="15" width="1">
+          <tr bgcolor="#000000" class="go-away">
+            <td class="cell-height" height="5" bgcolor="#000000" class="go-away">
+              <img src="images/spacer.gif" alt="" height="5" width="1" class="go-away">
             </td>
           </tr>
           <tr bgcolor="#000000">
@@ -476,9 +496,9 @@
               <% end %>
             </td>
           </tr>
-          <tr bgcolor="#000000">
-            <td class="cell-height" height="15" bgcolor="#000000">
-              <img src="images/spacer.gif" alt="" height="15" width="1">
+          <tr bgcolor="#000000" class="go-away">
+            <td class="cell-height" height="5" bgcolor="#000000" class="go-away">
+              <img src="images/spacer.gif" alt="" height="5" width="1" class="go-away">
             </td>
           </tr>
 
@@ -510,8 +530,8 @@
             <td align="left" valign="top">
               <table border="0" width="100%" cellpadding="0" cellspacing="0">
                 <tr>
-                  <td width="40">
-                    <img src="images/spacer.gif" alt="" height="1" width="40">
+                  <td width="15">
+                    <img src="images/spacer.gif" alt="" height="1" width="15">
                   </td>
                    <td class="footer-text" align="left" valign="top">
                      <%=@base_footer_text%>
@@ -528,8 +548,8 @@
                        <%=@base_copyright%>
                      </div>
                   </td>
-                  <td width="40">
-                    <img src="images/spacer.gif" alt="" height="1" width="40">
+                  <td width="15">
+                    <img src="images/spacer.gif" alt="" height="1" width="15">
                   </td>
                 </tr>
               </table>
