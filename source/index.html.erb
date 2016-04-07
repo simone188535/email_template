@@ -19,7 +19,7 @@
 <br/>
 <hr/>
 <%  directories = Dir.entries("./build") 
-    directories.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template|\.|\.\.|images|index\.html|javascripts|stylesheets/i }
+    directories.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template|\.|\.\.|images|index\.html|javascripts|stylesheets|\*/i }
     directories.each do |directory_name| 
 %>
 <h2><%= directory_name %></h2>
@@ -29,7 +29,7 @@
         files_html = Dir.glob("./build/"+directory_name+"/**/*.html")
         files_txt = Dir.glob("./build/"+directory_name+"/**/*.txt")
 		
-        files_html.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
+        files_html.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template|\*/i }
         files_html.each do |file_name| 
 	        file_contents = IO.read(file_name)
 	        file_title = /(\<title\>)(.*)(\<\/title\>)/.match(file_contents)
@@ -42,11 +42,11 @@
 				file_title = file_title[2]
 			end
 	    %>
-	        <li><%= file_title %> - <a href="<%= file_name[('./build/').length,file_name.length] %>">HTML</a> - 
+	        <li><%= file_title %> - <a href="<%= file_name[('./build/').length,file_name.length] %>">HTML</a>
 		<%
 			if has_text==true
 		%>
-		<a href="<%= txt_file_name[('./build/').length,txt_file_name.length] %>">TXT</a>
+		&nbsp;-&nbsp;<a href="<%= txt_file_name[('./build/').length,txt_file_name.length] %>">TXT</a>
 		<%
 			end
 		%>
