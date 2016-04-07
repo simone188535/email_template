@@ -105,5 +105,4 @@ module.exports = function(grunt) {
   grunt.registerTask('images', ['newer:imagemin']); // grunt images --imgpath=client_name/project_name/images (replative to 'prod' folder, do not include '/' after the images directory path)
   grunt.registerTask('build',   ['copy','newer:emailBuilder']);
   grunt.registerTask('send', ['litmus']); // grunt send --template=yourtemplate.html (relative to 'prod' folder)
-};=======
->>>>>>> External Changes
+};
