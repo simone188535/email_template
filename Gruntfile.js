@@ -20,13 +20,19 @@ module.exports = function(grunt) {
 				encodeSpecialChars: true
 			}
 		},
+		inline: {
+		    files: { 'build/**/*.html' : 'prod/**/*.html' },
+		    options: {
+		      encodeSpecialChars: true
+		    }
+		  },
 	},
 	
 	// copy images and other folders to build directory
 	copy: {
 	  files: {
 	    cwd: 'build/',  // set working folder / root to copy
-	    src: ['**/*'],           // copy all files and subfolders
+	    src: ['**/*','!**/*.html'],           // copy all files and subfolders
 	    dest: 'prod/',    // destination folder
 	    expand: true           // required when using cwd
 	  }
