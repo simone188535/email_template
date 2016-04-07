@@ -29,16 +29,16 @@ module.exports = function(grunt) {
 	},
 	
 	// kick off middleman build
-	middleman: {
-	    options: {
-	    useBundle: true
-	    },
-	    build: {
-	      options: {
-	        command: "build"
-	      }
-	    }
-	  },
+	// middleman: {
+	//     options: {
+	//     useBundle: true
+	//     },
+	//     build: {
+	//       options: {
+	//         command: "build"
+	//       }
+	//     }
+	//   },
 	
 	// copy images and other folders to build directory
 	copy: {
@@ -118,11 +118,11 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-newer');
   grunt.loadNpmTasks('grunt-contrib-copy');
-  grunt.loadNpmTasks('grunt-middleman');
+//  grunt.loadNpmTasks('grunt-middleman');
 
   // Default task(s).
-  grunt.registerTask('default', ['middleman','copy','emailBuilder']);
+  grunt.registerTask('default', ['copy','emailBuilder']);
   grunt.registerTask('images', ['newer:imagemin']); // grunt images --imgpath=client_name/project_name/images (replative to 'prod' folder, do not include '/' after the images directory path)
-  grunt.registerTask('build',   ['middleman','copy','newer:emailBuilder']);
+  grunt.registerTask('build',   ['copy','newer:emailBuilder']);
   grunt.registerTask('send', ['litmus']); // grunt send --template=yourtemplate.html (relative to 'prod' folder)
 };
