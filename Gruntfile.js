@@ -20,12 +20,31 @@ module.exports = function(grunt) {
 				encodeSpecialChars: true
 			}
 		},
+		inline: {
+		    files: { 'build/**/*.html' : 'prod/**/*.html' },
+		    options: {
+		      encodeSpecialChars: true
+		    }
+		  },
 	},
 	
+	// kick off middleman build
+	middleman: {
+	    options: {
+	    useBundle: true
+	    },
+	    build: {
+	      options: {
+	        command: "build"
+	      }
+	    }
+	  },
+	
+	// copy images and other folders to build directory
 	copy: {
 	  files: {
 	    cwd: 'build/',  // set working folder / root to copy
-	    src: ['**/*'],           // copy all files and subfolders
+	    src: ['**/*','!**/*.html'],           // copy all files and subfolders
 	    dest: 'prod/',    // destination folder
 	    expand: true           // required when using cwd
 	  }
@@ -40,8 +59,8 @@ module.exports = function(grunt) {
 	//         bucket: "pr-email-cdn"
 	//       },
 	//       build: {
-	//         cwd: "prd/",
-	//         src: ['**/*','!**/*.html',,'!**/*.html']
+	//         cwd: "build/",
+	//         src: "**"
 	//       }
 	//     },
 	
@@ -99,10 +118,11 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-newer');
   grunt.loadNpmTasks('grunt-contrib-copy');
+  grunt.loadNpmTasks('grunt-middleman');
 
   // Default task(s).
-  grunt.registerTask('default', ['copy','emailBuilder']);
+  grunt.registerTask('default', ['middleman','copy','emailBuilder']);
   grunt.registerTask('images', ['newer:imagemin']); // grunt images --imgpath=client_name/project_name/images (replative to 'prod' folder, do not include '/' after the images directory path)
-  grunt.registerTask('build',   ['copy','newer:emailBuilder']);
+  grunt.registerTask('build',   ['middleman','copy','newer:emailBuilder']);
   grunt.registerTask('send', ['litmus']); // grunt send --template=yourtemplate.html (relative to 'prod' folder)
 };
