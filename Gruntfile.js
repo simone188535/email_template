@@ -32,18 +32,18 @@ module.exports = function(grunt) {
 	},
 	
 	//copy images to s3 bucket
-	aws: grunt.file.readJSON("credentials.json"),
-    s3: {
-      options: {
-        accessKeyId: "<%= aws.accessKeyId %>",
-        secretAccessKey: "<%= aws.secretAccessKey %>",
-        bucket: "pr-email-cdn"
-      },
-      build: {
-        cwd: "prd/",
-        src: ['**/*','!**/*.html',,'!**/*.html']
-      }
-    },
+	// aws: grunt.file.readJSON("credentials.json"),
+	//     s3: {
+	//       options: {
+	//         accessKeyId: "<%= aws.accessKeyId %>",
+	//         secretAccessKey: "<%= aws.secretAccessKey %>",
+	//         bucket: "pr-email-cdn"
+	//       },
+	//       build: {
+	//         cwd: "prd/",
+	//         src: ['**/*','!**/*.html',,'!**/*.html']
+	//       }
+	//     },
 	
 	// Switch images for those in CDN
 	// cdnify: {
