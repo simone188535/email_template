@@ -1,0 +1,63 @@
+title: '50% off 50 photo prints? Yes, please!'
+
+primary_color: '#00a29b'
+
+logo_img_url: 'images/header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: '#'
+
+hero_img_url: 'images/header.png'
+hero_img_link: 'http://www.walgreens.com/Photo'
+hero_text: ''
+hero_btn_text: ''
+
+callout_img_url: 'images/appCallOut.png'
+callout_img_alt: 'PHOTO PRINTING IS A SNAP WITH OUR FREE APP'
+callout_img_link: 'http://www.walgreens.com/Photo'
+
+footer_text: '<sup>*</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Excludes instant, collage prints and prints from film. Not to be combined with any other offers. Good Sun. 04/10 thru Sat. 04/16/16.<br><br><sup>**</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Select templates not available in app. Not to be combined with any other offers. Good Sun. 04/10 thru Sat. 04/16/16.<br><br>The contents of this email and health related information and resources on the Duane Reade website (""Contents"") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade  does not guarantee the applicability or accuracy of any information mentioned in the Contents.<br><br>'
+unsubscribe_link: '#'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: '#'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 1000'
+
+# Loop through articles
+
+articles:
+- img: "images/DigitalPrints.png"
+  img_alt: "Ready in about an hour | 4x6 Digital Prints 50% off"
+  url: 'http://www.walgreens.com/Photo'
+  text: "Use promo code: <span style='font-weight:bold; color:#ce0260;'>SMPRINTS</span>"
+  btn_text: "Shop now &rsaquo;"
+- img: "images/PhotoCards.png"
+  img_alt: "Photo Cards 30% off | Same Day Pickup"
+  url : "http://www.walgreens.com/Photo"
+  text: "Use promo code: <span style='font-weight:bold; color:#ce0260;'>SPECIALDAY</span>"
+  btn_text: "Shop now &rsaquo;"
+
+footernav:
+- text: "Pharmacy"
+  link: "#"
+  sep: "|"
+- text: "Beauty"
+  link: "#"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "#"
+  sep: "|"
+- text: "Find Store"
+  link: "#"
+  sep: ""
+
+socialnav:
+- img: "images/fb-link.jpg"
+  link: "#"
+  alt: "Facebook"
+- img: "images/tw-link.jpg"
+  link: "#"
+  alt: "Twitter"
+- img: "images/site-link.jpg"
+  link: "#"
+  alt: "Duanereade"
