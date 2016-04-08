@@ -1,5 +1,5 @@
 <% require 'active_support/all' %>
-<% data.duanereade.dr_86196_DR_Week3_041216_Beauty_V1_2B.dr_86196_DR_Week3_041216_Beauty_V1_2B.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<% data.duanereade.dr_041116_Weekly_2A.dr_041116_Weekly_2A.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
   <head>
@@ -399,7 +399,7 @@
             <!-- /Header logo -->
 
             <!-- Articles -->
-            <% data.duanereade.dr_86196_DR_Week3_041216_Beauty_V1_2B.dr_86196_DR_Week3_041216_Beauty_V1_2B.articles.each do |f| %>
+            <% data.duanereade.blank_template.blank_template.articles.each do |f| %>
               <tr>
                 <td valign="top" align="center">
                   <a href="<%= f["url"] %>">
@@ -437,7 +437,7 @@
           </tr>
           <tr bgcolor="#000000">
             <td valign="top" align="center" class="footer-nav" bgcolor="#000000">
-              <% data.duanereade.dr_86196_DR_Week3_041216_Beauty_V1_2B.dr_86196_DR_Week3_041216_Beauty_V1_2B.footernav.each do |f| %><a class="footer-nav-link" href="<%= f["link"] %>">
+              <% data.duanereade.blank_template.blank_template.footernav.each do |f| %><a class="footer-nav-link" href="<%= f["link"] %>">
                   <%= f["text"] %>
                   </a><span class="white">&nbsp;<%= f["sep"] %>&nbsp;</span>
               <% end %>
@@ -458,7 +458,7 @@
           <!-- Social links -->
           <tr>
             <td valign="top" align="center" class="social-links">
-              <% data.duanereade.dr_86196_DR_Week3_041216_Beauty_V1_2B.dr_86196_DR_Week3_041216_Beauty_V1_2B.socialnav.each do |f| %>
+              <% data.duanereade.blank_template.blank_template.socialnav.each do |f| %>
                 <a href="<%= f["link"] %>">
                   <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" class="responsive">
                 </a>
