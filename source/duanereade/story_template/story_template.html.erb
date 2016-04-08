@@ -271,7 +271,6 @@
             text-align: right;
           }
           .article-img img {
-            float: right;
           }
 
     </style>
@@ -366,6 +365,11 @@
           padding-top: 5px;
           padding-bottom: 5px;
         }
+        img[class="right-article-image"] {
+          width: auto !important;
+          height: auto !important;
+          max-width: 100%;
+        }
       }
     </style>
   </head>
@@ -431,6 +435,7 @@
                               <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%= f["promo_btn_text"] %></center>
                             </v:rect>
                           <![endif]-->
+                          <!--[if !mso]><!-- -->
                             <div class="button-inner-wrap">
                               <table align="left" cellpadding="0" cellspacing="0" height="45" width="200" class="button-table">
                                 <tbody>
@@ -444,11 +449,13 @@
                                 </tbody>
                               </table>
                             </div>
+                            <!--<![endif]-->
+
                           </div>
                       </td>
                       <td valign="top" align="right" width="360" class="article-img">
                         <a href="<%= f["promo_btn_url"] %>">
-                          <img src="<%= f["product_img_url"] %>" alt="<%= f["product_img_alt"] %>" class="responsive" align="right">
+                          <img src="<%= f["product_img_url"] %>" alt="<%= f["product_img_alt"] %>" class="right-article-image" align="right" width="360">
                         </a>
                       </td>
                     </tr>
