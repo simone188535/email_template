@@ -38,9 +38,6 @@ footernav:
 - text: "Find Store"
   link: "http://%%track%%/dr13"
   sep: ""
-//- text: "Beauty"
-//  link: "http://%%track%%/dr13"
-//  sep: ""
 
 
 socialnav:
@@ -51,5 +48,5 @@ socialnav:
   link: "http://%%track%%/dr11"
   alt: "Twitter"
 - img: "images/site-link.jpg"
-  link: "dr13"
+  link: "http://%%track%%/dr13"
   alt: "Duanereade"
