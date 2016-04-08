@@ -1,22 +1,12 @@
-title: 'DuanereadeTM by Walgreens'
+title: 'It’s Customer Appreciation Week!'
 
 primary_color: '#ec532b'
 
 logo_img_url: 'images/header-logo.jpg'
-logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_alt: 'Hurry in for 20% Off tons of brands & a FREE gift!'
 logo_img_link: '#'
 
-hero_img_url: 'images/hero.jpg'
-hero_img_alt: "Sun's Out. 3 for the price of 2."
-hero_img_link: '#'
-hero_text: 'Stock up and <b>mix&amp;match</b> select brands of skin and suncare'
-hero_btn_text: 'Start shopping &rsaquo;'
-
-callout_img_url: 'images/app.jpg'
-callout_img_alt: 'Exclusive savings, shopping lists and reward tracking. Get the app >'
-callout_img_link: '#'
-
-footer_text: '<sup>*</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any other offers.<br><br>Offers Good Sun. XX/XX - Sat. XX/XX/XX. <sup>**</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any  other offers. Excludes instant, collage prints and prints from film. Of Equal or lesser price, mix and match. Good Sun. XX/XX thru Sat. 02/13/16. &Dagger;Valid in select stores. See associate for details.<br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents")  are provided strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding any questions you may have about a medical condition. Reliance on any of the contents is solely at your own risk. Duane Reade does not guarantee the applicability or accuracy of any  information mentioned in the Contents.<br><br>'
+footer_text: '<sup>*</sup>Sale merchandise may not be included in all stores and only while supplies last. Balance Rewards Card is required for sale pricing. Sale prices offered for the dates listed, unless otherwise specified. Cannot be combined with any other offer. Excludes OPI, Hair Salon and Nail Studio services<br><br><sup>&Dagger;</sup>While supplies last. <br><br>The contents of this email and health related information and resources on the Duane Reade website (""Contents"") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade  does not guarantee the applicability or accuracy of any information mentioned in the Contents.'
 
 unsubscribe_link: '#'
 unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
@@ -28,21 +18,15 @@ copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holding
 # Loop through articles
 
 articles:
-- img: "images/article-1.jpg"
-  img_alt: "Deal of the week! 2/$6 or 2.99 ea."
-  url: '#'
-- img: "images/article-2.jpg"
-  img_alt: "1.29 each"
-  url : "#"
-- img: "#"
-  img_alt: ''
-  url: '#'
-- img: "#"
-  img_alt: ''
-  url: '#'
+- img: "images/body.png"
+  img_alt: "Customer Appreciation Week | 20% off"
+  url: 'http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1'
+- img: "images/appCallOut.png"
+  img_alt: "Makeup Reviews, Shopping, & More | Get the App"
+  url : "http://walgreens.com/mobile"
 
 footernav:
-- text: "Beauty"
+- text: "Pharmacy"
   link: "#"
   sep: "|"
 - text: "Photo"
