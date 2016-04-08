@@ -21,16 +21,16 @@ articles:
 - img: "images/body.png"
   img_alt: "Customer Appreciation Week | 20% off"
   url: 'http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1'
-- img: "images/appCallOut.png"
+- img: "images/appCallOut2.png"
   img_alt: "Makeup Reviews, Shopping, & More | Get the App"
   url : "http://walgreens.com/mobile"
 
 footernav:
 - text: "Pharmacy"
-  link: "http://%%track%%/toppharm"
+  link: "http://duanereade.com/Pharmacy.aspx"
   sep: "|"
 - text: "Photo"
-  link: "http://%%track%%/topphoto"
+  link: "http://www.duanereade.com/Photo.aspx?num=7"
   sep: "|"
 - text: "Weekly Ad"
   link: "http://%%track%%/topcirc"
