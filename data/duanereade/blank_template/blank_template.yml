@@ -31,13 +31,15 @@ articles:
 - img: "images/article-1.jpg"
   img_alt: "Deal of the week! 2/$6 or 2.99 ea."
   url: '#'
-  text: "<b>with card DiGiorno Thin & Crispy Frozen Pizza</b> Select varieties"
-  btn_text: "Shop now &rsaquo;"
 - img: "images/article-2.jpg"
   img_alt: "1.29 each"
   url : "#"
-  text: "<b>with card Coca-Cola 1.25 liters</b> Select varieties of Coke products"
-  btn_text: "Shop now &rsaquo;"
+- img: "#"
+  img_alt: ''
+  url: '#'
+- img: "#"
+  img_alt: ''
+  url: '#'
 
 footernav:
 - text: "Beauty"
