@@ -8,10 +8,11 @@ logo_img_link: '#'
 
 footer_text: '<sup>*</sup>Sale merchandise may not be included in all stores and only while supplies last. Balance Rewards Card is required for sale pricing. Sale prices offered for the dates listed, unless otherwise specified. Cannot be combined with any other offer. Excludes OPI, Hair Salon and Nail Studio services<br><br><sup>&Dagger;</sup>While supplies last. <br><br>The contents of this email and health related information and resources on the Duane Reade website (""Contents"") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade  does not guarantee the applicability or accuracy of any information mentioned in the Contents.<br><br>'
 
-unsubscribe_link: '#'
+unsubscribe_link: 'http://www.walgreens.com/marketing/emailsignup/emailoptout.jsp?email=arod0815%40hotmail.com&option=2&ec=hncx75924_unsub&ep_rid=ABkBlJ&ep_mid=_BXC5-aB9MWZmLN'
 unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
-privacy_link: '#'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
 privacy_text: 'Privacy Policy'
+
 
 copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 1000'
 
@@ -27,16 +28,16 @@ articles:
 
 footernav:
 - text: "Pharmacy"
-  link: "http://duanereade.com/Pharmacy.aspx"
+  link: "http://www.walgreens.com/pharmacy/"
   sep: "|"
 - text: "Photo"
-  link: "http://www.duanereade.com/Photo.aspx?num=7"
+  link: "http://photo.walgreens.com/walgreens/welcome"
   sep: "|"
 - text: "Weekly Ad"
-  link: "http://%%track%%/topcirc"
+  link: "http://www.duanereade.com/Circular.aspx?num=3"
   sep: "|"
 - text: "Find Store"
-  link: "http://%%track%%/dr13"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
   sep: ""
 
 

@@ -8,9 +8,9 @@ logo_img_link: '#'
 
 footer_text: '<sup>*</sup>Offers valid 04/10-4/16/16  <br><br>*Between April 3, 2016 and June 4, 2016, Walgreens will donate to Comic Relief Inc.’s Red Nose Day Fund, $0.50 for each Red Nose purchased and 10% of the purchase price for every Red Flair item purchased(beads, bow ties, headbands, sunglasses, pens, mugs, cups and hats). The Red Nose Day Fund helps lift children out of poverty in the U.S. and overseas. For more information about the Red Nose Day Fund, visit rednoseday.org. For details on Red Nose Day Proud Supporters, see Walgreens.com/RedNoseDay. No portion of purchase is tax deductible.<br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade  does not guarantee the applicability or accuracy of any information mentioned in the Contents.<br><br>'
 
-unsubscribe_link: '#'
+unsubscribe_link: 'http://www.walgreens.com/marketing/emailsignup/emailoptout.jsp?email=arod0815%40hotmail.com&option=2&ec=hncx75924_unsub&ep_rid=ABkBlJ&ep_mid=_BXC5-aB9MWZmLN'
 unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
-privacy_link: '#'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
 privacy_text: 'Privacy Policy'
 
 copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 1000'
@@ -33,16 +33,16 @@ articles:
 
 footernav:
 - text: "Pharmacy"
-  link: "http://%%track%%/toppharm"
+  link: "http://www.walgreens.com/pharmacy/"
   sep: "|"
 - text: "Photo"
-  link: "http://%%track%%/topphoto"
+  link: "http://photo.walgreens.com/walgreens/welcome"
   sep: "|"
 - text: "Beauty"
-  link: "http://%%track%%/dr21"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
   sep: "|"
 - text: "Find Store"
-  link: "http://%%track%%/dr13"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
   sep: ""
 
 
