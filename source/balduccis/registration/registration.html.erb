@@ -1,5 +1,5 @@
 <% require 'active_support/all' %>
-<% data.balduccis.catering.catering_order_confirmation.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<% data.balduccis.registration.registration.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
   <head>
@@ -179,10 +179,15 @@
           	border-bottom-color: #f3901d;
           }
 
-          .order-summary {
-          	border-bottom-width: 2px;
+          .welcome-header {
+          	border-bottom-width: 1px;
           	border-bottom-style: solid;
           	border-bottom-color: #f3901d;
+          }
+
+          .header {
+            font-size: 18px;
+            font-weight: bold;
           }
 
           .content-wrap .container {
@@ -192,6 +197,30 @@
             border-right-style: solid;
             border-right-color: #d9d9d9;
             border-right-width: 2px;
+          }
+
+          .login-link {
+            text-decoration: underline;
+          }
+
+          .login-email {
+            color: #000000 !important;
+            text-decoration: none !important;
+          }
+
+          .login-info {
+            border-bottom-style: solid;
+            border-bottom-color: #cdcdcd;
+            border-bottom-width: 1px;
+            border-right-style: solid;
+            border-right-color: #cdcdcd;
+            border-right-width: 1px;
+            border-left-style: solid;
+            border-left-color: #cdcdcd;
+            border-left-width: 1px;
+            border-top-style: solid;
+            border-top-color: #cdcdcd;
+            border-top-width: 1px;
           }
          
     </style>
@@ -289,8 +318,8 @@
                       </td>
 
                     <!-- Background spacing -->
-                      <td valign="bottom" align="left" class="header-top-row header-top-bg" class="responsive">
-                          <img src="<%=@base_header_top_mid_bg_spacing_img%>" alt="">
+                      <td valign="bottom" align="left" class="header-top-row header-top-bg">
+                          <img src="<%=@base_header_top_mid_bg_spacing_img%>" alt="" class="responsive">
                       </td>
 
                     <!-- Find a store -->
@@ -394,26 +423,76 @@
 									            				</td>
 									            			</tr>
 									            		</table>
-									            		<%=@base_greeting%><br><br>
-									            		<%=@base_message_body%>
+                                  <table border="0" cellpadding="0" cellspacing="0" width="100%" class="welcome-header">
+                                    <tr>
+                                      <td height="5" class="cell-height">
+                                        <img src="images/spacer.gif" width="1" height="5" alt="">
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="header orange">
+                                        <b><%=@base_header_text%></b>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="5" class="cell-height">
+                                        <img src="images/spacer.gif" width="1" height="5" alt="">
+                                      </td>
+                                    </tr>
+                                  </table>
+                                  <table class="cell-height" height="20" border="0" cellspacing="0" cellpadding="0" width="100%">
+                                    <tr>
+                                      <td class="cell-height" height="20">
+                                        <img src="images/spacer.gif" width="1" height="20" alt="">
+                                      </td>
+                                    </tr>
+                                  </table>
+									            		<%=@base_message_body%><br><br>
 
-									            		<table border="0" cellpadding="0" cellspacing="0" width="100%" class="order-summary">
-									            			<tr>
-									            				<td height="5" class="cell-height">
-									            					<img src="images/spacer.gif" width="1" height="5" alt="">
-									            				</td>
-									            			</tr>
-									            			<tr>
-									            				<td class="summary-header orange">
-									            					<b><%=@base_order_summary_header%></b>
-									            				</td>
-									            			</tr>
-									            			<tr>
-									            				<td height="8" class="cell-height">
-									            					<img src="images/spacer.gif" width="1" height="8" alt="">
-									            				</td>
-									            			</tr>
-									            		</table>
+                                  <table border="0" cellspacing="0" cellpadding="10" width="100%" bgcolor="#e7e7e7" class="login-info">
+                                    <tr>
+                                      <td valign="top" align="left" bgcolor="#e7e7e7">
+                                        <%=@base_login_info%>
+                                      </td>
+                                    </tr>
+                                  </table>
+
+                                   <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                    <tr>
+                                      <td valign="top" height="30" class="cell-height">
+                                        <img src="images/spacer.gif" width="1" height="30" alt="">
+                                      </td>
+                                    </tr>
+                                     <tr>
+                                       <td valign="top" align="left">
+                                         <%=@base_feature_header%>
+                                       </td>
+                                     </tr>
+                                     <tr>
+                                       <td valign="top" align="left">
+                                        <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                          <% data.balduccis.registration.registration.feature_list.each do |f| %>
+                                          <tr>
+                                            <td width="30" valign="top" class="list-padding">
+                                              <img src="images/spacer.gif" width="30" height="1" alt="" class="list-padding">
+                                            </td>
+                                            <td width="10" valign="top" align="left" class="list-bullet">&bull;</td>
+                                            <td class="list-text" valign="top" align="left">
+                                              <%= f["text"] %>
+                                            </td>
+                                          </tr>
+                                          <% end %>
+
+                                         </table>
+                                       </td>
+                                     </tr>
+                                     <tr>
+                                      <td valign="top" height="30" class="cell-height">
+                                        <img src="images/spacer.gif" width="1" height="30" alt="">
+                                      </td>
+                                    </tr>
+                                   </table>
+                                   <%=@base_contact_info%>
 
 									            		<table border="0" cellpadding="0" cellspacing="0" width="100%" height="20">
 									            			<tr>
@@ -422,16 +501,6 @@
 									            				</td>
 									            			</tr>
 									            		</table>
-
-									            		<%=@base_order_number%><br><br>
-									            		<%=@base_order_date%><br><br>
-									            		<%=@base_special_instructions%><br><br>
-									            		<%=@base_sold_to%><br><br>
-									            		<%=@base_order_details%><br><br>
-									            		<%=@base_subtotal%><br>
-									            		<span class="small-text">
-									            			<%=@base_subtotal_note%>
-									            		</span>
 
 									            		<table border="0" cellpadding="0" cellspacing="0" width="100%" height="20">
 									            			<tr>
@@ -476,7 +545,7 @@
 	        				</td>
 	        				<td valign="top" align="left" class="footer-row footer-fb">
 	        					<a href="#">
-	        						<img src="<%=@base_footer_fb_img%>" alt="<%=@base_footer_fb_text%> class="responsive"">
+	        						<img src="<%=@base_footer_fb_img%>" alt="<%=@base_footer_fb_text%>" class="responsive">
 	        					</a>
 	        				</td>
 	        				<td valign="top" align="left" class="footer-row footer-tw">
