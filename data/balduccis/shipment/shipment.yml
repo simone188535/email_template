@@ -1,0 +1,54 @@
+title: 'Thank You for Your Order'
+
+shadow_right_bg_img: 'images/right-shadow.jpg'
+shadow_bottom_bg_img: 'images/bottom-shadow.jpg'
+shadow_top_bg_img: 'images/top-shadow.jpg'
+
+header_top_mid_bg_spacing_img: 'images/header-top-row-mid-bg.jpg'
+header_bottom_left_bg_spacing_img: 'images/header-bottom-row-left-bg.jpg'
+header_bottom_right_bg_spacing_img: 'images/header-bottom-row-right-bg.jpg'
+
+logo_link: ''
+logo_link_text: 'Balduccis Food Lovers Market TM'
+logo_link_img: 'images/header-logo.jpg'
+
+find_store_link: ''
+find_store_link_text: 'FIND A STORE'
+find_store_link_img: 'images/find-store-link.jpg'
+
+catering_link: ''
+catering_link_text: 'CATERING'
+catering_link_img: 'images/header-catering-link.jpg'
+
+chef_prep_link: ''
+chef_prep_link_text: 'CHEF PREPARED'
+chef_prep_link_img: 'images/header-chef-prep-link.jpg'
+
+mybalduccis_link: ''
+mybalduccis_link_text: 'myBALDUCCIS'
+mybalduccis_link_img: 'images/header-my-bld-link.jpg'
+
+hero_img: 'images/gifts-hero.jpg'
+hero_text: 'Thank You for Order'
+
+greeting: 'Dear First name Last name,'
+message_body: |
+  Thank you for shopping with us! Your order has been shipped.<br><br><b>Order Number:</b> 1001010010<br><br>If you have questions or need to make any changes to your order, please email <a href="mailto:gifts@balduccis.com">gifts@balduccis.com</a> or call <span class="apple-link-black">1-866-278-8866</span>.
+
+order_summary_header: 'ORDER SUMMARY'
+
+order_number: '<b>Order Number:</b> 0101010'
+sold_to: '<b>Sold to:</b><br> Name<br>Address<br>State<br>Country<br>T: 5555555555'
+ship_to: '<b>Shipped to:</b><br>Name<br>Address<br>State<br>Country<br>T: 5555555555'
+ship_method: '<b>Shipping Method:</b><br>United Parcel Service - UPS Ground'
+
+footer_logo_link: 'http://www.balduccis.com'
+footer_logo_text: 'www.balduccis.com'
+footer_logo_img: 'images/footer-logo.jpg'
+footer_fb_link: '#'
+footer_fb_text: 'Facebook'
+footer_fb_img: 'images/footer-fb.jpg'
+footer_tw_link: '#'
+footer_tw_img: 'images/footer-tw.jpg'
+footer_tw_text: 'Twitter'
+footer_mid_img: 'images/footer-middle.jpg'
