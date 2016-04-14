@@ -306,7 +306,10 @@
             font-size: 20px;
             width: 180px;
           }
-
+		  span.preHeader {
+			  color: black;
+			  font-size: 14px;
+		  }
     </style>
 
 
@@ -389,6 +392,9 @@
       <td>
         <!-- 600px container -->
         <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+			<tr>
+					<td valign="top" align="center"><span class="preHeader"><%= @base_pre_header_text %></span></td>
+			</tr>
             <!-- Header logo -->
             <tr>
               <td valign="top" align="center">

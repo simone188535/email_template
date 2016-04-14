@@ -1,6 +1,8 @@
 <% require 'active_support/all' %>
 <% data.duanereade.dr_042116_Pharmacy.dr_042116_Pharmacy.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <html><body>
+<%= @base_pre_header_text %>
+
 If you are having trouble viewing this email, click here :<BR>
 <A HREF="http://%%track%%/topwebview?t_params=%%t_params%%">http://%%track%%/topwebview?t_params=%%t_params%%</A><BR>
 <br/>
@@ -9,7 +11,7 @@ If you are having trouble viewing this email, click here :<BR>
 <!-- Articles -->
 <% data.duanereade.dr_042116_Pharmacy.dr_042116_Pharmacy.articles.each do |f| %>
 <br /><br />
-<a href="<%= f["url"] %>">"><%= f["img_alt"] %></a><br />
+<a href="<%= f["url"] %>"><%= f["img_alt"] %></a><br />
 
 <% end %>
 
