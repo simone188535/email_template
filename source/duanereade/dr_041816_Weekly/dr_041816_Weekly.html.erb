@@ -90,7 +90,7 @@
           sup {
             font-size:14px;
             line-height:0;
-            vertical-align:0;
+            vertical-align:7px;
           }
 
           .view-online {
@@ -264,10 +264,11 @@
             width: 215px;
             -webkit-text-size-adjust:none;
             font-family: Helvetica, Arial, sans-serif;
-			font-size: 18pt;
+			       font-size: 15pt;
             text-decoration: none;
-            line-height: 20pt;
+            line-height: 18pt;
             display:inline-block;
+            color: #515151;
           }
 
           .article-img a {
@@ -275,9 +276,9 @@
           }
           .article-img img {
           }
-		  span.preHeader {
-			  color: black;
-			  font-size: 14px;
+		  .preheader-text {
+			  color: #515151;
+			  font-size: 18px;
 		  }
 
     </style>
@@ -377,6 +378,16 @@
           height: auto !important;
           max-width: 100%;
         }
+        div[class*="promo-text-wrap"] {
+          font-size: 15px;
+          line-height: 18px;
+        }
+        td[class*="promo-button-cell"] {
+          margin-bottom: 20px;
+        }
+        td[class="preheader-text"] {
+          font-size: 14px;
+        }
       }
     </style>
   </head>
@@ -398,7 +409,17 @@
         <!-- 600px container -->
         <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
 			<tr>
-					<td valign="top" align="center"><span class="preHeader"><%= @base_pre_header_text %></span></td>
+					<td valign="top" align="center" class="preheader-text">
+            <table border="0" width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="10"><img src="images/spacer.gif" alt="" height="1" width="10"></td>
+                <td valign="top" align="left" class="preheader-text">
+                  <span class="preHeader"><%= @base_pre_header_text %></span>
+                </td>
+                <td width="10"><img src="images/spacer.gif" alt="" height="1" width="10"></td>
+              </tr>
+            </table>
+          </td>
 			</tr>
             <!-- Header logo -->
             <tr>
@@ -532,7 +553,7 @@
             <tr>
               <td valign="top" class="callout">
                 <a href="<%=@base_callout_img_link%>">
-                  <img src="<%=@base_callout_img_url%>" alt="<%=@base_callout_img_url%>" class="responsive">
+                  <img src="<%=@base_callout_img_url%>" alt="<%=@base_callout_img_alt%>" class="responsive">
                 </a>
               </td>
             </tr>
