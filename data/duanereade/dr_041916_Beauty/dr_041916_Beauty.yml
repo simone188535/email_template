@@ -1,4 +1,4 @@
-title: 'STORY TEMPLATE'
+title: 'Calling all makeup addicts&#8230;'
 
 primary_color: '#d61969'
 
@@ -28,21 +28,24 @@ copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holding
 # Loop through articles
 
 articles:
-- text_img_url: "images/041916_Beauty_02.jpg"
+- type: "product-right-image"
+  text_img_url: "images/041916_Beauty_02.jpg"
   text_img_alt: "Shop Now (1)"
   promo_text: "<strong>Studio 35<sup>TM</sup> or Walgreens Facial Wipes</strong><br />15 to 30 pk."
   promo_btn_url: "http://www.walgreens.com/store/c/skin-care-products/ID=360323-tier2general?exp=A"
   promo_btn_text: "Shop now &rsaquo;"
   product_img_url: "images/041916_Beauty_03.jpg"
   product_img_alt: "Start with a clean slate"
-- text_img_url: "images/041916_Beauty_05.jpg"
+- type: "product-left-image"
+  text_img_url: "images/041916_Beauty_05.jpg"
   text_img_alt: "Look youthful and fresh"
   promo_text: "<strong>Roc Skin</strong>"
   promo_btn_url: "http://www.walgreens.com/store/c/skin-care-products/ID=360323-tier2general?exp=A"
   promo_btn_text: "Shop now &rsaquo;"
   product_img_url: "images/041916_Beauty_04.jpg"
   product_img_alt: "Stay protected from the sun"
-- text_img_url: "images/041916_Beauty_06.jpg"
+- type: "product-right-image"
+  text_img_url: "images/041916_Beauty_06.jpg"
   text_img_alt: "Look youthful and fresh"
   promo_text: "<strong>Coppertone or Bain de Soleil Sun Care</strong><br />Select varieties."
   promo_btn_url: "http://www.walgreens.com/store/c/first-aid/ID=360533-tier2general?exp=A"
