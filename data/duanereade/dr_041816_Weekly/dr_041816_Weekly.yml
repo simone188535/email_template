@@ -62,14 +62,15 @@ footernav:
   link: "#"
   sep: "|"
 - text: "Beauty"
-  link: "#"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
   sep: "|"
 - text: "Weekly Ad"
-  link: "#"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
   sep: "|"
 - text: "Find Store"
-  link: "#"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
   sep: ""
+
 
 socialnav:
 - img: "images/041816_fb-link.jpg"
