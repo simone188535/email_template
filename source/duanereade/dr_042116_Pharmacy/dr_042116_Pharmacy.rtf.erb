@@ -11,7 +11,7 @@ If you are having trouble viewing this email, click here :<BR>
 <!-- Articles -->
 <% data.duanereade.dr_042116_Pharmacy.dr_042116_Pharmacy.articles.each do |f| %>
 <br /><br />
-<a href="<%= f["url"] %>"><%= f["img_alt"] %></a><br />
+<a href="<%= f["url"] %><%= f["img_alt"] %></a><br />
 
 <% end %>
 
@@ -20,9 +20,8 @@ This email was sent by: Duane Reade Holdings, Inc., 40 Wall Street,<BR>
 New York, NY 10005<BR>
 <BR>
 Privacy Policy : <BR>
-<A HREF="http://%%track%%/footpriv">http://%%track%%/footpriv</A><BR>
-Refer A Friend :<BR>
-<A HREF="http://%%track%%/footrefer?RAF_TRACK=%%RAF_TRACK%%&email=%%email%%">http://%%track%%/footrefer?RAF_TRACK=%%RAF_TRACK%%&email=%%email%%</A> <BR>
+<A HREF="<%=@base_privacy_link%>"><%=@base_privacy_link%></A><BR>
+
 Unsubscribe/Preferences : <BR>
-<A HREF="http://%%track%%/footunsub?email=%%email%%">http://%%track%%/footunsub?email=%%email%%</A>
+<A HREF="<%=@base_unsubscribe_link%>"><%=@base_unsubscribe_link%></A>
 </body></html>
