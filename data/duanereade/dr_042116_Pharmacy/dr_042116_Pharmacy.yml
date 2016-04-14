@@ -1,0 +1,54 @@
+
+title: 'Savings made just for seniors'
+
+primary_color: '#ec532b'
+
+logo_img_url: 'images/042116_Pharmacy_01.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: '#'
+
+footer_text: '<sup>*</sup>$1 copays apply to Teir 1 generics.  <br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade  does not guarantee the applicability or accuracy of any information mentioned in the Contents.<br><br>'
+
+unsubscribe_link: 'http://www.walgreens.com/marketing/emailsignup/emailoptout.jsp?email=arod0815%40hotmail.com&option=2&ec=hncx75924_unsub&ep_rid=ABkBlJ&ep_mid=_BXC5-aB9MWZmLN'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 1000'
+
+# Loop through articles
+
+articles:
+- img: "images/042116_Pharmacy_02.jpg"
+  img_alt: "Savings made just for seniors. Your co-pays could be as low as $1 with Medicare Part D!"
+  url: 'http://www.walgreens.com/topic/pharmacy/medicarepartd/services-info.jsp?ban=MedD_HPLftRail'
+- img: "images/042116_Pharmacy_03.jpg"
+  img_alt: "Get the App"
+  url : "http://walgreens.com/mobile"
+
+
+footernav:
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Photo"
+  link: "http://photo.walgreens.com/walgreens/welcome"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+
+socialnav:
+- img: "images/042116_fb-link.jpg"
+  link: "http://%%track%%/dr7"
+  alt: "Facebook"
+- img: "images/042116_tw-link.jpg"
+  link: "http://%%track%%/dr11"
+  alt: "Twitter"
+- img: "images/042116_site-link.jpg"
+  link: "http://%%track%%/dr13"
+  alt: "Duanereade"
