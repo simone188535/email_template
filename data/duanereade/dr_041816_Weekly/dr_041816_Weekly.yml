@@ -1,45 +1,61 @@
 title: 'STORY TEMPLATE'
 
-primary_color: '#f2b14d'
+primary_color: '#0096db'
 
-logo_img_url: 'images/header-logo.jpg'
+logo_img_url: 'images/041816_Weekly_00.jpg'
 logo_img_alt: 'DuanereadeTM by Walgreens'
-logo_img_link: '#'
+logo_img_link: 'http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1'
 
-hero_img_url: 'images/hero.jpg'
-hero_img_alt: 'Celebrate every moment. Get those photos off your phone and into the world. Print photos >'
-hero_img_link: '#'
+hero_img_url: 'images/041816_Weekly_01.jpg'
+hero_img_alt: '5x EVERYDAY points when you spend $10 or more on eligible items in store or online'
+hero_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
 
-callout_img_url: 'images/app_img.jpg'
-callout_img_alt: 'Photo printing is a snap with our free app. Get it now >'
-callout_img_link: '#'
+pre_header_text: 'With 5x Everyday Points, it’ll be easy-peasy'
 
-footer_text: '<sup>*</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any other offers.<br><br>Offers Good Sun. XX/XX - Sat. XX/XX/XX. <sup>**</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any  other offers. Excludes instant, collage prints and prints from film. Of Equal or lesser price, mix and match. Good Sun. XX/XX thru Sat. 02/13/16. &Dagger;Valid in select stores. See associate for details.<br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents")  are provided strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding any questions you may have about a medical condition. Reliance on any of the contents is solely at your own risk. Duane Reade does not guarantee the applicability or accuracy of any  information mentioned in the Contents.<br><br>'
+callout_img_url: 'images/041816_Weekly_09.jpg'
+callout_img_alt: 'Point-tracking, paperless, coupons, &amp; more | Get the app'
+callout_img_link: 'http://www.walgreens.com/Photo'
 
-unsubscribe_link: '#'
+footer_text: '<sup>*</sup>‭Offer valid 4/17- 4/23/16. Points good on next purchase. Purchase requirement is before taxes, after discounts, and in a single transaction. <br>‭Excludes prescriptions, alcohol; dairy; tobacco; ‭stamps; phone/prepaid/gift cards; money orders/transfers; transportation passes; lottery; donations; ‭pseudoephedrine; ephedrine; clinic services; and ‭bonus point offers. For full terms, see store or Walgreens.com/Balance. Cannot combine or double. <br>‭Coupon can also be clipped to your Balance Reward card or activated at Walgreens.com/Balance to be used in store or online.<br><br><sup>**</sup>Good on next purchase. If offer has purchase requirement, it must be met in a single transaction, before taxes and after discounts. Points are not earned if store credit or redemption dollars are used in a transaction and cannot be redeemed on some items. Complete details at Walgreens.com/Balance.<br><br><sup>&Dagger;</sup>Between April 3, 2016 and June 4, 2016, Walgreens will donate to Comic Relief Inc.’s Red Nose Day Fund, $0.50 for each Red Nose purchased and 10% of the purchase price for every Red Flair item purchased (beads, bow ties, headbands, sunglasses, pens, mugs, cups and hats). The Red Nose Day Fund helps lift children out of poverty in the U.S. and overseas. For more information about the Red Nose Day Fund, visit rednoseday.org. For details on Red Nose Day Proud Supporters, see Walgreens.com/RedNoseDay. No portion of purchase is tax deductible.<br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade  does not guarantee the applicability or accuracy of any information mentioned in the Contents.  <br><br>'
+
+unsubscribe_link: 'http://www.walgreens.com/marketing/emailsignup/emailoptout.jsp?email=arod0815%40hotmail.com&option=2&ec=hncx75924_unsub&ep_rid=ABkBlJ&ep_mid=_BXC5-aB9MWZmLN'
 unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
-privacy_link: '#'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
 privacy_text: 'Privacy Policy'
 
-copyright: '&copy; 2016 Isaac Whitehead. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 1000'
+copyright: '&copy;Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 1000'
 
 # Loop through articles
 
 articles:
-- text_img_url: "images/article-1-text.jpg"
-  text_img_alt: "4x6 Digital Prints 14 cents each"
-  promo_text: "On orders of 75 prints or more with card & Promo Code: <b>XXXXXX</b>"
-  promo_btn_url: "#"
+- type: "product-right-image"
+  text_img_url: "images/041816_Weekly_02.jpg"
+  text_img_alt: "7000 points when you spend $25** | Claritin Allergy Relief"
+  promo_text: "on Claritin Allergy Relief<ul><li>Tablets, Redi Tabs or Liqui-gels, 30ct</li><li>Children's, 20ct or 8oz</li></ul>"
+  promo_btn_url: "http://www.walgreens.com/store/c/allergy-and-sinus/ID=360545-tier2general"
   promo_btn_text: "Order now &rsaquo;"
-  product_img_url: "images/article-1-img.jpg"
-  product_img_alt: "Ready in about an hour"
-- text_img_url: "images/article-2-text.jpg"
-  text_img_alt: "Photo Books 20% off"
-  promo_text: "Starting at $9.99 ea. Promo Code: <b>XXXXXX</b>"
-  promo_btn_url: "#"
+  product_img_url: "images/041816_Weekly_03.jpg"
+  product_img_alt: "7000 points when you spend $25** | Claritin Allergy Relief"
+- type: "product-left-image"
+  text_img_url: "images/041816_Weekly_05.jpg"
+  text_img_alt: "7000 points when you spend $25** | Walgreens Allergy Relief"
+  promo_text: "on Allergy Relief Walgreens.  Wal-Zyr<sup>&trade;</sup>, Wal-itin<sup>&reg;</sup> or Wal-Fex<sup>&reg;</sup>, 25 or 30 ct., or 8 oz."
+  promo_btn_url: "http://www.walgreens.com/store/c/allergy-and-sinus/ID=360545-tier2general"
   promo_btn_text: "Order now &rsaquo;"
-  product_img_url: "images/article-2-img.jpg"
-  product_img_alt: "Photo book"
+  product_img_url: "images/041816_Weekly_04.jpg"
+  product_img_alt: "7000 points when you spend $25** | Claritin Allergy Relief"
+- type: "product-right-image"
+  text_img_url: "images/041816_Weekly_06.jpg"
+  text_img_alt: "5000 points when you spend $15** | Select Johnson &amp; Johnson Products"
+  promo_text: "on Select Johnson &amp; Johnson Band-Aid, Neosporin or Benadryl Cream."
+  promo_btn_url: "http://www.walgreens.com/store/c/first-aid/ID=360533-tier2general?exp=A"
+  promo_btn_text: "Order now &rsaquo;"
+  product_img_url: "images/041816_Weekly_07.jpg"
+  product_img_alt: "5000 points when you spend $15** | Select Johnson &amp; Johnson Products"
+- type: 'image'
+  img: "images/041816_Weekly_08.jpg"
+  img_alt: "FindFlair"
+  url: 'http://www.walgreens.com/store/store/category/productlist.jsp?N=519416'
 
 footernav:
 - text: "Rx"
@@ -56,12 +72,12 @@ footernav:
   sep: ""
 
 socialnav:
-- img: "images/fb-link.jpg"
-  link: "#"
+- img: "images/041816_fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
   alt: "Facebook"
-- img: "images/tw-link.jpg"
-  link: "#"
+- img: "images/041816_tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
   alt: "Twitter"
-- img: "images/site-link.jpg"
-  link: "#"
+- img: "images/041816_site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
   alt: "Duanereade"
