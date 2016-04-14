@@ -1,0 +1,51 @@
+<% require 'active_support/all' %>
+<% data.duanereade.dr_041816_Weekly.dr_041816_Weekly.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<html><body>
+<%= @base_pre_header_text %>
+
+<a href="<%=@base_hero_img_link%>"><%=@base_hero_img_alt%></a>
+
+
+<% data.duanereade.dr_041816_Weekly.dr_041816_Weekly.articles.each do |f| %>
+<% if f["type"]=="product-right-image" || f["type"]=="product-left-image" %>
+<a href="<%= f["promo_btn_url"] %>"><%= f["text_img_alt"] %></a>
+
+
+<% end %>
+
+<% if f["type"]== "image" %>
+<a href="<%= f["url"] %>"><%= f["img_alt"] %></a>
+
+
+<% end %>
+<% end %>
+
+<a href="<%=@base_callout_img_url%>"><%= @base_callout_img_alt %></a>
+
+
+<% data.duanereade.dr_041816_Weekly.dr_041816_Weekly.footernav.each do |f| %>
+<a href="<%= f["link"] %>"><%= f["text"] %></a>
+
+
+<% end %>
+
+<% data.duanereade.dr_041816_Weekly.dr_041816_Weekly.socialnav.each do |f| %>
+<a href="<%= f["link"] %>">"><%= f["alt"] %></a>
+
+<% end %>
+
+<a href="<%=@base_unsubscribe_link%>"><%=@base_unsubscribe_text%><a/>
+
+
+<a href="<%=@base_privacy_text%>"><%=@base_privacy_link%></a>
+
+
+<%=@base_copyright%>
+
+</body></html>
+
+
+
+
+
+
