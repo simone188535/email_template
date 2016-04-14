@@ -3,25 +3,49 @@
 <html><body>
 <%= @base_pre_header_text %>
 
-If you are having trouble viewing this email, click here :<BR>
-<A HREF="http://%%track%%/topwebview?t_params=%%t_params%%">http://%%track%%/topwebview?t_params=%%t_params%%</A><BR>
-<br/>
+<a href="<%=@base_hero_img_link%>"><%=@base_hero_img_alt%></a>
 
 
-<!-- Articles -->
 <% data.duanereade.dr_042116_Pharmacy.dr_042116_Pharmacy.articles.each do |f| %>
-<br /><br />
-<a href="<%= f["url"] %><%= f["img_alt"] %></a><br />
+<% if f["type"]=="product-right-image" || f["type"]=="product-left-image" %>
+<a href="<%= f["promo_btn_url"] %>"><%= f["text_img_alt"] %></a>
+
 
 <% end %>
 
+<% if f["type"]== "image" %>
+<a href="<%= f["url"] %>"><%= f["img_alt"] %></a>
 
-This email was sent by: Duane Reade Holdings, Inc., 40 Wall Street,<BR>
-New York, NY 10005<BR>
-<BR>
-Privacy Policy : <BR>
-<A HREF="<%=@base_privacy_link%>"><%=@base_privacy_link%></A><BR>
 
-Unsubscribe/Preferences : <BR>
-<A HREF="<%=@base_unsubscribe_link%>"><%=@base_unsubscribe_link%></A>
+<% end %>
+<% end %>
+
+<a href="<%=@base_callout_img_link%>"><%= @base_callout_img_alt %></a>
+
+
+<% data.duanereade.dr_042116_Pharmacy.dr_042116_Pharmacy.footernav.each do |f| %>
+<a href="<%= f["link"] %>"><%= f["text"] %></a>
+
+
+<% end %>
+
+<% data.duanereade.dr_042116_Pharmacy.dr_042116_Pharmacy.socialnav.each do |f| %>
+<a href="<%= f["link"] %>">"><%= f["alt"] %></a>
+
+<% end %>
+
+<a href="<%=@base_unsubscribe_link%>"><%=@base_unsubscribe_text%><a/>
+
+
+<a href="<%=@base_privacy_text%>"><%=@base_privacy_link%></a>
+
+
+<%=@base_copyright%>
+
 </body></html>
+
+
+
+
+
+
