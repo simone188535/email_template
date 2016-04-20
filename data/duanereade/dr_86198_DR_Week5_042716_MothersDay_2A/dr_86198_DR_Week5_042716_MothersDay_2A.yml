@@ -9,13 +9,13 @@ logo_img_link: 'http://walgreens.com'
 pre_header_text: 'Make mom’s day at Duane Reade'
 
 hero_img_url: 'images/042716_article-1.jpg'
-hero_img_alt: "Mother's Day her way at Duane Reade"
+hero_img_alt: "Celebrate the mom she is all year with a card that makes her day."
 hero_img_link: 'https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp'
 hero_text: 'Stock up and <b>mix&amp;match</b> select brands of skin and suncare'
 hero_btn_text: 'Start shopping &rsaquo;'
 
 callout_img_url: 'images/042716_article-3.jpg'
-callout_img_alt: 'Get the App >'
+callout_img_alt: 'Get the App'
 callout_img_link: 'http://walgreens.com/mobile'
 
 footer_text: 'The contents of this email and health related information and resources on the Duane Reade website ("Contents") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade  does not guarantee the applicability or accuracy of any information mentioned in the Contents.<br><br>'
@@ -31,7 +31,7 @@ copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holding
 
 articles:
 - img: "images/042716_article-2.jpg"
-  img_alt: "Shop now"
+  img_alt: "Find a store"
   url: "http://www.walgreens.com/topic/duane-reade/duane-reade.jsp"
   text: "Visit your local Duane Reade and <br>find the perfect card for Mom."
   btn_text: "Find a Store &rsaquo;"
@@ -44,15 +44,15 @@ footernav:
 - text: "Beauty"
   link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
   sep: "|"
-  alt: "rx"
+  alt: "Beauty"
 - text: "Weekly Ad"
   link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
   sep: "|"
-  alt: "rx"
+  alt: "Weekly Ad"
 - text: "Find Store"
   link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
   sep: ""
-  alt: "rx"
+  alt: "Find Store"
 
 socialnav:
 - img: "images/042716_fb-link.jpg"
