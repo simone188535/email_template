@@ -1,10 +1,20 @@
-title: 'Photo gifts & prints in under an hour'
+title: 'Photo gifts & prints in under an hour NEW'
 
-primary_color: '#ec532b'
+primary_color: '#52C2CE'
 
 logo_img_url: 'images/header-logo.jpg'
 logo_img_alt: 'DuanereadeTM by Walgreens'
 logo_img_link: '#'
+
+hero_img_url: 'images/042816_article-1.jpg'
+hero_img_alt: "Mother's Day her way at Duane Reade"
+hero_img_link: 'https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp'
+hero_text: 'Stock up and <b>mix&amp;match</b> select brands of skin and suncare'
+hero_btn_text: 'Start shopping &rsaquo;'
+
+callout_img_url: 'images/042816_article-4.jpg'
+callout_img_alt: 'Get the App >'
+callout_img_link: 'http://walgreens.com/mobile'
 
 footer_text: '<sup>*</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Excludes instant, collage prints and prints from film. Not to be combined with any other offers. Good Sun. 04/24 thru Sat. 04/30/16. <br><br><sup>**</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Select templates not available in app. Not to be combined with any other offers. Good Sun. 04/24 thru Sat. 04/30/16.<br><br>&#10013; Valid in select stores. See associate for details. <br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade  does not guarantee the applicability or accuracy of any information mentioned in the Contents.<br><br>'
 
@@ -18,19 +28,16 @@ copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holding
 # Loop through articles
 
 articles:
-- img: "images/042816_article-1.jpg"
-  img_alt: "Memories that last a lifetime"
-  url: 'http://www.walgreens.com/photo'
 - img: "images/042816_article-2.jpg"
-  img_alt: "40% off 4x6 Digital Prints"
-  url : "http://www.walgreens.com/photo"
+  img_alt: "Shop now"
+  url: "http://www.walgreens.com/topic/duane-reade/duane-reade.jsp"
+  text: "<b>Large Mother's Day Plush"
+  btn_text: "Shop now &rsaquo;"
 - img: "images/042816_article-3.jpg"
-  img_alt: "30% off Posters, Photo Cards and Canvas prints "
-  url : "http://www.walgreens.com/photo"
-- img: "images/042816_article-4.jpg"
-  img_alt: "Get the App "
-  url : "http://walgreens.com/mobile"
-
+  img_alt: "Shop now"
+  url : "http://www.walgreens.com/topic/duane-reade/duane-reade.jsp"
+  text: "<b>Mother's Day Mug with<br>Plush</b> 6in."
+  btn_text: "Shop now &rsaquo;"
 
 footernav:
 - text: "Rx"
