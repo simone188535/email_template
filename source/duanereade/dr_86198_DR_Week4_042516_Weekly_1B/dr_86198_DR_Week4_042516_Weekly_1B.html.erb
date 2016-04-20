@@ -12,6 +12,26 @@
     <style type="text/css">
       /* This style block will be inlined when running 'grunt build' and stripped from the header */
 
+     table table tr:nth-child(2), td.hero {
+      border: none;
+     }
+
+     table table tr:nth-child(8) table td:nth-child(2) b {
+        line-height: 45px;
+     }
+
+     table table tr:nth-child(3),
+     table table tr:nth-child(4),
+     table table tr:nth-child(20),
+     table table tr:nth-child(21),
+     table table tr:nth-child(22) {
+        display: none;
+      }
+
+     td.callout {
+      border: none;
+     }
+
       /* Resets */
         .ReadMsgBody {
           width: 100%;
@@ -398,6 +418,76 @@
             </tr>
             <!-- /Header logo -->
 
+            <!-- Hero -->
+            <tr bgcolor="<%=@base_primary_color%>">
+              <td valign="top" align="center" class="hero" bgcolor="<%=@base_primary_color%>">
+                <a href="<%=@base_hero_img_link%>">
+                 <center> 
+                  <img src="<%=@base_hero_img_url%>" alt="<%=@base_hero_img_alt%>" class="responsive">
+                 </center>
+                </a>
+              </td>
+            </tr>
+            <tr bgcolor="<%=@base_primary_color%>">
+              <td valign="top" align="center" class="hero-text-wrap text-center" bgcolor="<%=@base_primary_color%>">
+                 <table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="<%=@base_primary_color%>">
+                  <tr bgcolor="<%=@base_primary_color%>">
+                    <td width="40" class="go-away" bgcolor="<%=@base_primary_color%>">
+                      <img src="images/spacer.gif" height="1" width="40" class="go-away" alt="">
+                    </td>
+                    <td valign="top" align="center" class=" hero-text text-center" bgcolor="<%=@base_primary_color%>">
+                       <%=@base_hero_text%>
+                       <table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="<%=@base_primary_color%>">
+                         <tr>
+                           <td height="30" class="cell-height" bgcolor="<%=@base_primary_color%>">
+                             <img src="images/spacer.gif" alt="" height="30" width="1">
+                           </td>
+                         </tr>
+                       </table>
+                       <center>
+                          <div class="button-outer-wrap"><!--[if mso]>
+                           <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%=@base_hero_img_link%>" style="height:45px;v-text-anchor:middle;width:220px;" stroke="f" fillcolor="#ffeb37" fill="t">
+                              <w:anchorlock/>
+                              <center style="color:<%=@base_primary_color%>;font-family: Helvetica, Arial, sans-serif;font-size:22px;"><%=@base_hero_btn_text%></center>
+                            </v:rect>
+                          <![endif]-->
+                          <!--[if !mso]><!-- -->
+                            <div class="button-inner-wrap">
+                              <table align="center" cellpadding="0" cellspacing="0" height="45" width="220" class="button-table">
+                                <tbody>
+                                  <tr>
+                                    <td align="center" bgcolor="#ffeb37" height="45" class="button-cell hero-button-cell" width="220">
+                                      <a href="<%=@base_hero_img_link%>" class="button-link hero-button-link" title="<%=@base_hero_btn_text%>">
+                                        <span><%=@base_hero_btn_text%></span>
+                                      </a>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+                          <!--<![endif]-->
+                          </div>
+                        </center>
+                    </td>
+                    <td width="40" class="go-away" bgcolor="<%=@base_primary_color%>">
+                      <img src="images/spacer.gif" height="1" width="40" class="go-away" alt="">
+                    </td>
+                  </tr>
+                 </table>
+              </td>
+            </tr>
+            <tr bgcolor="<%=@base_primary_color%>">
+              <td class="cell-height" height="30" bgcolor="<%=@base_primary_color%>">
+                <img src="images/spacer.gif" alt="" height="30" width="1">
+              </td>
+            </tr>
+            <tr>
+              <td height="20" class="cell-height">
+                <img src="images/spacer.gif" alt="" height="20" width="1">
+              </td>
+            </tr>
+            <!-- /Hero -->
+
             <!-- Articles -->
             <% data.duanereade.dr_86198_DR_Week4_042516_Weekly_1B.dr_86198_DR_Week4_042516_Weekly_1B.articles.each do |f| %>
               <tr>
@@ -407,11 +497,100 @@
                   </a>
                 </td>
               </tr>
+              <tr>
+                <td class="cell-height" height="10">
+                  <img src="images/spacer.gif" alt="" height="10" width="1">
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left">
+
+                 <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="30">
+                        <img src="images/spacer.gif" alt="" height="1" width="30">
+                    </td>
+                    <td valign="top" align="left" class="container">
+                      <!--[if mso]>
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr><td width="350" valign="top"><![endif]-->
+                      <table border="0" cellpadding="0" cellspacing="0" width="350" align="left" class="force-row">
+                        <tr>
+                          <td valign="top" align="left" class="article-text-padding">
+                            <%= f["text"] %>
+                          </td>
+                          <td width="25" class="go-away">
+                            <img src="images/spacer.gif" alt="" height="1" width="25" class="go-away">
+                          </td>
+                        </tr>
+                      </table>
+                       <!--[if mso]></td><td width="180" valign="top"><![endif]-->
+                       <table border="0" cellpadding="0" cellspacing="0" width="180" align="right" class="force-row">
+                         <tr>
+                           <td valign="middle" align="center" class="text-center">
+                            
+                             <center>
+                                <div class="button-outer-wrap button-promo-wrap"><!--[if mso]>
+                                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
+                                    <w:anchorlock/>
+                                    <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%=@base_hero_btn_text%></center>
+                                  </v:rect>
+                                <![endif]-->
+                                <!--[if !mso]><!-- -->
+                                  <div class="button-inner-wrap">
+                                    <table align="center" cellpadding="0" cellspacing="0" height="45" width="180" class="button-table">
+                                      <tbody>
+                                        <tr>
+                                          <td align="center" bgcolor="<%=@base_primary_color%>" height="45" class="button-cell promo-button-cell" width="180">
+                                            <a href="<%= f["url"] %>" class="button-link promo-button-link" title="<%= f["btn_text"] %>">
+                                              <span><%= f["btn_text"] %></span>
+                                            </a>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </div>
+                                  <!--<![endif]-->
+                                </div>
+                              </center>
+                           </td>
+                         </tr>
+                       </table>
+                       <!--[if mso]></td></tr></table><![endif]-->
+
+                    </td>
+                    <td width="30">
+                        <img src="images/spacer.gif" alt="" height="1" width="30">
+                    </td>
+                  </tr>
+                 </table>
+
+                </td>
+              </tr>
+              <tr>
+                <td height="15" class="cell-height">
+                  <img src="images/spacer.gif" alt="" height="15" width="1">
+                </td>
+              </tr>
             <% end %>
 
             <tr>
+              <td class="cell-height" height="30">
+                <img src="images/spacer.gif" alt="" height="30" width="1">
+              </td>
+            </tr>
+
+            <!-- Call out -->
+            <tr>
+              <td valign="top" class="callout">
+                <a href="<%=@base_callout_img_link%>">
+                  <img src="<%=@base_callout_img_url%>" alt="<%=@base_callout_img_alt%>" class="responsive">
+                </a>
+              </td>
+            </tr>
+            <tr>
               <td class="cell-height" height="10">
-                <img src="images/spacer.gif" alt="" height="10" width="1">
+                <img src="images/spacer.gif" alt="" height="5" width="1">
               </td>
             </tr>
 
