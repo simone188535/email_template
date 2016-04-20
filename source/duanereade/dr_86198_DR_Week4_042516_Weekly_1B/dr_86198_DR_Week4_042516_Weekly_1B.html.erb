@@ -12,19 +12,24 @@
     <style type="text/css">
       /* This style block will be inlined when running 'grunt build' and stripped from the header */
 
-     table table tr:nth-child(2), td.hero {
+     table table tr:nth-child(3), td.hero {
       border: none;
      }
 
-     table table tr:nth-child(8) table td:nth-child(2) b {
+     table table tr:nth-child(9) table td:nth-child(2) b {
         line-height: 45px;
      }
 
-     table table tr:nth-child(3),
+     .preHeader {
+        color: #515151;
+        font-size: 12px;
+     }
+
      table table tr:nth-child(4),
-     table table tr:nth-child(20),
+     table table tr:nth-child(5),
      table table tr:nth-child(21),
-     table table tr:nth-child(22) {
+     table table tr:nth-child(22),
+     table table tr:nth-child(23) {
         display: none;
       }
 
@@ -408,6 +413,11 @@
       <td>
         <!-- 600px container -->
         <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+
+            <tr>
+                <td valign="top" align="center"><span class="preHeader"><%= @base_pre_header_text %></span></td>
+            </tr>
+            
             <!-- Header logo -->
             <tr>
               <td valign="top" align="center">
@@ -602,7 +612,7 @@
           </tr>
           <tr bgcolor="#000000">
             <td valign="top" align="center" class="footer-nav" bgcolor="#000000">
-              <% data.duanereade.dr_86198_DR_Week4_042516_Weekly_1B.dr_86198_DR_Week4_042516_Weekly_1B.footernav.each do |f| %><a class="footer-nav-link" href="<%= f["link"] %>">
+              <% data.duanereade.dr_86198_DR_Week4_042516_Weekly_1B.dr_86198_DR_Week4_042516_Weekly_1B.footernav.each do |f| %><a class="footer-nav-link" href="<%= f["link"] %>" alt="<%= f["alt"] %>">
                   <%= f["text"] %>
                   </a><span class="white">&nbsp;<%= f["sep"] %>&nbsp;</span>
               <% end %>
