@@ -1,0 +1,56 @@
+title: 'Make mom’s day at Duane Reade'
+
+primary_color: '#ec532b'
+
+logo_img_url: 'images/header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: '#'
+
+footer_text: 'The contents of this email and health related information and resources on the Duane Reade website ("Contents") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade  does not guarantee the applicability or accuracy of any information mentioned in the Contents.<br><br>'
+
+unsubscribe_link: 'http://www.walgreens.com/marketing/emailsignup/emailoptout.jsp?email=arod0815%40hotmail.com&option=2&ec=hncx75924_unsub&ep_rid=ABkBlJ&ep_mid=_BXC5-aB9MWZmLN'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc., 40 Wall Street, New York, NY 1000'
+
+# Loop through articles
+
+articles:
+- img: "images/042716_article-1.jpg"
+  img_alt: "Celebrate the mom she is all year with a card that makes her day."
+  url: 'http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1'
+- img: "images/042716_article-2.jpg"
+  img_alt: "Find a store"
+  url : "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+- img: "images/042716_article-3.jpg"
+  img_alt: "Get the App "
+  url : "http://walgreens.com/mobile"
+
+
+footernav:
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Photo"
+  link: "http://photo.walgreens.com/walgreens/welcome"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+
+socialnav:
+- img: "images/fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duanereade"
