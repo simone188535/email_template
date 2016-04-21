@@ -1,22 +1,44 @@
 <% require 'active_support/all' %>
 <% data.duanereade.dr_86198_DR_Week4_042516_Weekly_1B.dr_86198_DR_Week4_042516_Weekly_1B.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
-If you are having trouble viewing this email, click here :
-http://%%track%%/topwebview?t_params=%%t_params%%
+
+<%= @base_pre_header_text %>
+
+<%=@base_hero_img_alt%>
+<%=@base_hero_img_link%>
 
 <% data.duanereade.dr_86198_DR_Week4_042516_Weekly_1B.dr_86198_DR_Week4_042516_Weekly_1B.articles.each do |f| %>
-<%= f["img_alt"] %>
-<%= f["url"] %>">
+<% if f["type"]=="product-right-image" || f["type"]=="product-left-image" %>
+<%= f["text_img_alt"] %>
+<%= f["promo_btn_url"] %>
 
 <% end %>
 
+<% if f["type"]== "image" %>
+<%= f["img_alt"] %>
+<%= f["url"] %>
 
-This email was sent by: Duane Reade Holdings, Inc., 40 Wall Street,
-New York, NY 10005
+<% end %>
+<% end %>
 
-Privacy Policy : 
-http://%%track%%/footpriv
-Refer A Friend :
-http://%%track%%/footrefer?RAF_TRACK=%%RAF_TRACK%%&email=%%email%% 
-Unsubscribe/Preferences : 
-http://%%track%%/footunsub?email=%%email%%
+<%= @base_callout_img_alt %>
+<%=@base_callout_img_link%>
 
+<% data.duanereade.dr_86198_DR_Week4_042516_Weekly_1B.dr_86198_DR_Week4_042516_Weekly_1B.footernav.each do |f| %>
+<%= f["text"] %>
+<%= f["link"] %>
+
+<% end %>
+
+<% data.duanereade.dr_86198_DR_Week4_042516_Weekly_1B.dr_86198_DR_Week4_042516_Weekly_1B.socialnav.each do |f| %>
+<%= f["alt"] %>
+<%= f["link"] %>">
+
+<% end %>
+
+<%=@base_unsubscribe_text%>
+<%=@base_unsubscribe_link%>
+
+<%=@base_privacy_text%>
+<%=@base_privacy_link%>
+
+<%=@base_copyright%>
