@@ -342,16 +342,22 @@
 
 
     <style type="text/css" data-embed>
-
+      .button-column {
+        width: 180px !important;
+        min-width: 180px !important;
+      }
       @media screen and (max-width: 599px) {
         
         table[class="force-row"],
         table[class="container"],
         table[class*="button-table"],
+        table[class*="button-column"],
+        td[class*="button-column"],
         td[class*="button-cell"],
         a[class*="button-link"] {
           width: 100% !important;
           max-width: 100% !important;
+          min-width: 100% !important;
         }
 
         table[class="force-row"] {
@@ -542,7 +548,7 @@
                         </tr>
                       </table>
                        <!--[if mso]></td><td width="180" valign="top"><![endif]-->
-                       <table border="0" cellpadding="0" cellspacing="0" width="180" align="right" class="force-row">
+                       <table border="0" cellpadding="0" cellspacing="0" width="100%" align="right" class="force-row button-column" style="width: 100%; min-width: 100%;">
                          <tr>
                            <td valign="middle" align="center" class="text-center">
                             
@@ -555,10 +561,10 @@
                                 <![endif]-->
                                 <!--[if !mso]><!-- -->
                                   <div class="button-inner-wrap">
-                                    <table align="center" cellpadding="0" cellspacing="0" height="45" width="180" class="button-table">
+                                    <table align="center" cellpadding="0" cellspacing="0" height="45" width="100%" class="button-table button-column" style="width: 100%; min-width: 100%;">
                                       <tbody>
                                         <tr>
-                                          <td align="center" bgcolor="<%=@base_primary_color%>" height="45" class="button-cell promo-button-cell" width="180">
+                                          <td align="center" bgcolor="<%=@base_primary_color%>" height="45" class="button-cell promo-button-cell button-column" style="width: 100%; min-width: 100%;" width="100%">
                                             <a href="<%= f["url"] %>" class="button-link promo-button-link" title="<%= f["btn_text"] %>">
                                               <span><%= f["btn_text"] %></span>
                                             </a>
