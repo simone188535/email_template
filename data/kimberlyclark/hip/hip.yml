@@ -2,18 +2,63 @@ view_online: 'Having trouble viewing this email? <a href="#">View online</a>'
 
 title: 'HIP Team Report'
 
-header_text: 'EXAMPLE RESPONSIVE TEMPLATE'
+header_text: 'Header Text'
 
 intro_message: 'Two columns on desktop and one column on mobile:'
 
 column_one_header: 'Column 1'
-column_one_text: 'This column will become the top row on mobile.'
+column_one_text: 'Below is the overview of the weekly HIP* Team Challenge results <br />for your community last week. GH House led last week. In order <br />to improve hygiene behaviors, and minimize infections, <br/ >please review the results and recognize the neighborhoods <br />which did well, and support those with areas for improvement.'
 column_one_image_url: 'images/placeholder.jpg'
 column_one_image_alt: 'Placeholder Image'
 
-column_two_header: 'Column 2'
-column_two_text: 'This column will become the bottom row on mobile.'
-column_two_image_url: 'images/placeholder.jpg'
-column_two_image_alt: 'Placeholder Image'
+column_two_header: 'Column 2' 
+column_two_text: 'weekly_scores_header'
+column_two_image_url: 'images/weekly_scores_header.jpg'
+column_two_image_alt: 'weekly_scores_header'
+
+column_three_header: 'Column 3'
+column_three_text: 'weekly scores table'
+column_three_image_url: 'images/placeholder.jpg'
+column_three_image_alt: 'weekly_scores_table'
+
+column_four_header: 'Column 4'
+column_four_text: 'legend image'
+column_four_image_url: 'images/placeholder.jpg'
+column_four_image_alt: 'scores_legend'
+
+column_five_header: 'Column 5'
+column_five_text: 'LIVE TEXT BOX 2'
+column_five_image_url: 'images/placeholder.jpg'
+column_five_image_alt: 'textbox2'
+
+column_six_header: 'Column 6'
+column_six_text: 'monthly_standings_head'
+column_six_image_url: 'images/monthly_standings_head.jpg'
+column_six_image_alt: 'monthly_standings_head'
+
+column_seven_header: 'Column 7'
+column_seven_text: 'monthly scores table'
+column_seven_image_url: 'images/placeholder.jpg'
+column_seven_image_alt: 'monthly_scores_table'
+
+column_eight_header: 'Column 8'
+column_eight_text: 'LIVE TEXT BOX 3'
+column_eight_image_url: 'images/placeholder.jpg'
+column_eight_image_alt: 'textbox3'
+
+column_nine_header: 'Column 9'
+column_nine_text: 'hugs logo'
+column_nine_image_url: 'images/hugs_logo.jpg'
+column_nine_image_alt: 'hugs_logo'
+
+column_ten_header: 'Column 10'
+column_ten_text: 'LIVE TEXT - footer_text'
+column_ten_image_url: 'images/placeholder.jpg'
+column_ten_image_alt: 'footer_text'
+
+column_eleven_header: 'Column 11'
+column_eleven_text: 'KC footer logo'
+column_eleven_image_url: 'images/kc_footer_logo.jpg'
+column_eleven_image_alt: 'kc_footer_logo'
 
 unsubscribe: 'If you would like to stop receiving emails <a href="#">click here to unsubscribe</a>.'

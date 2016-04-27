@@ -148,6 +148,112 @@
             width: 0;
             mso-hide: all;
           }
+	.orangeHeader {
+
+		background: #f99d25; 
+	    height: 58px;
+	}
+
+	.orangeHeader p {
+	    padding-left: 10px;
+	    font-family: Arial;
+	    font-size: 14px;
+	}
+
+	.textbox1{
+
+	}
+
+	.textbox1 p, .textbox2 p, .textbox3 {
+		font-family: Arial;
+		padding: 35px 38px;
+	    line-height: 26px;
+	    font-size: 18px;
+	    color: #3E3E3E;
+	}
+
+	.textbox2 p a {
+
+		color: #00aeef;
+
+	}
+
+	.textbox3 {
+		background: #f99d25;
+	}
+
+	.textbox3 p a {
+
+		color: #555555;
+	}
+
+	.textbox4 {
+		background: #f99d25;
+		padding: 10px 30px 10px;
+
+	}
+
+	.textbox4 p {
+		padding-left: 10px;
+	    font-family: Arial;
+	    font-size: 12px;
+	}
+
+	.bottomBordersHere th, .bottomBordersHere td {
+		border-bottom: 1px solid #ccc; 
+	}
+
+	.rightBordersHere td, .rightBordersHere th {
+		border-right: 1px solid #ccc; 
+
+	}
+
+	.NorightBordersHere {
+		border-right: none !important; 
+	}
+
+	.weeklyScores {
+		font-family: Arial;
+	}
+
+	.weeklyScores td {
+		text-align: center;
+		line-height: 30px;
+	}
+
+	.weeklyScores th {
+		text-align: left;
+		line-height: 30px;
+	}
+
+	.weeklyScores th.centerth {
+		text-align: center;
+	}
+
+	.weeklyScores th.nobold {
+		font-weight: 500;
+	}
+
+	.colorRed {
+		color: #ca0d07 ;
+		font-weight: bold;
+	}
+
+	.colorYellow {
+		color: #ffd817 ;
+		font-weight: bold;
+	}
+
+	.colorGreen {
+		color: #acce55 ;
+		font-weight: bold;
+	}
+
+	.colorBlack {
+		color: #000 ;
+		font-weight: bold;
+	}
+
     </style>
 
 
@@ -157,7 +263,8 @@
       /*  Media queries */
 
       /* Define all styles in media queries using attribute selectors in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
-      @media screen and (max-width: 599px) {
+      /* MK change max-width from 599px to 601px */
+      @media screen and (max-width: 601px) {
         table[class="force-row"],
         table[class="container"] {
           width: 100% !important;
@@ -220,116 +327,147 @@
         <br>
         <!-- 600px container -->
           <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+            
+   
             <tr>
-              <td colspan="3" valign="top" align="center" class="view-online">
-                <%=@base_view_online%>
-                <br><br><br><br>
-              </td>
-            </tr>
-            <tr>
-              <td valign="top" align="left" colspan="3">
+              <td valign="top" align="left">
 
                 <table border="0" cellpadding="0" cellspacing="0" width="100%">
                   <tr>
 
-                    <!-- Desktop spacing -->
-                    <td class="go-away" width="40">
-                       <img src="images/spacer.gif" width="40" height="1" alt="">
-                    </td>
-                    <!-- /Desktop spacing -->
+                  
 
                     <td class="container" valign="top" align="left">
-                      <!-- main content -->
-                      <div class="header">
-                        <b><%=@base_header_text%></b>
-                      </div>
-                      <br><br>
-                      <%=@base_intro_message%>
-                      <br><br><br><br>
+                      <table id="Table_01" width="100%"  border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="3">
+			<div class="orangeHeader"><p>HIP TEAM REPORT FOR WEEK ENDING MARCH 26, 2016</p></div>
+		</td>
+		<td colspan="3">
+			<img src="images/header_logo_02.jpg" width="150" height="58" alt="header_logo"></td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<img src="images/hip_ca.jpg" width="600" height="114" alt="hip_ca_image"></td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<div class="textbox1"><%=@base_column_one_text%></div>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<img src="images/weekly_scores_header.jpg" width="600" height="96" alt="weekly_scores_header"></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/weekly_scores_star_bdg.jpg" width="48" height="203" alt="weekly_scores_star_bdg"></td>
+		<td colspan="4">
+			<div class="weekly_scores_table"><p></p>
+			</div>
+			
+<table class="weeklyScores rightBordersHere" width="100%" >
+  <tr class="bottomBordersHere" >
+<th>Street Name</th>
+<th class="centerth">HAND HYGIENE</th> <!-- use tds instead of th -->
+<th class="centerth">SURFACE HYGIENE</th>
+<th class="centerth NorightBordersHere">TOTAL</th>
+  </tr>
+  <tr class="bottomBordersHere" >
+<th class="nobold">GH House</th>
+    <td align="left">2</td> <!-- use align to align -->
+    <td>4</td>		
+    <td class="NorightBordersHere">6</td>
+  </tr>
+  <tr class="bottomBordersHere" >
+<th class="nobold">EF House</th>
+    <td>1</td>
+    <td>4</td>		
+    <td class="NorightBordersHere">5</td>
+  </tr>
+  <tr class="bottomBordersHere" >
+<th class="nobold">AL Mem. Care</th>
+    <td>2</td>
+    <td>3</td>		
+    <td class="NorightBordersHere">5</td>
+  </tr>
+<tr>
+<th class="nobold">AL Classic</th>
+    <td>1</td>
+    <td>1</td>		
+    <td class="NorightBordersHere">2</td>
+  </tr>
+</table>
 
-                      <!-- columns -->
-
-                      <!--[if mso]>
-                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                      <tr><td width="50%" valign="top"><![endif]-->
-
-                      <table border="0" cellpadding="0" cellspacing="0" width="264" align="left" class="force-row">
-                          <tr>
-                            <td class="col" valign="top" bgcolor="#eeeeee">
-                              <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                <tr>
-                                  <td class="go-away" width="10">
-                                     <img src="images/spacer.gif" width="10" height="1" alt="">
-                                  </td>
-                                  <td valign="top" align="left">
-                                    <br>
-                                    <div class="sub-header">
-                                      <b><%=@base_column_one_header%></b>
-                                    </div>
-                                    <br>
-                                    <center>
-                                      <img src="<%=@base_column_one_image_url%>" alt="<%@base_column_one_image_alt%>">
-                                    </center>
-                                    <br>
-                                    <%=@base_column_one_text%>
-                                    <br><br>
-                                  </td>
-                                  <td class="go-away" width="10">
-                                   <img src="images/spacer.gif" width="10" height="1" alt="">
-                                </td>
-                                <td bgcolor="#ffffff" class="go-away">
-                                  <img src="images/spacer.gif" width="10" height="1" alt="">
-                                </td>
-                                </tr>
-                              </table>
-                            </td>
-                          </tr>
-                        </table>
-
-                      <!--[if mso]></td><td width="50%" valign="top"><![endif]-->
-
-                        <table border="0" cellpadding="0" cellspacing="0" width="264" align="right" class="force-row">
-                          <tr>
-                            <td class="col" valign="top" bgcolor="#eeeeee">
-                              <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                <tr>
-                                  <td class="go-away" width="10">
-                                     <img src="images/spacer.gif" width="10" height="1" alt="">
-                                  </td>
-                                  <td valign="top" align="left">
-                                    <br>
-                                    <div class="sub-header">
-                                      <b><%=@base_column_two_header%></b>
-                                    </div>
-                                    <br>
-                                    <center>
-                                      <img src="<%=@base_column_two_image_url%>" alt="<%@base_column_two_image_alt%>">
-                                    </center>
-                                    <br>
-                                    <%=@base_column_two_text%>
-                                    <br><br>
-                                  </td>
-                                  <td class="go-away" width="10">
-                                   <img src="images/spacer.gif" width="10" height="1" alt="">
-                                </td>
-                                </tr>
-                              </table>
-                            </td>
-                           </tr>
-                        </table>
-
-                       <!--[if mso]></td></tr></table><![endif]-->
+			</td>
+		<td>
+			<img src="images/weekly_scores_right_shdw.jpg" width="41" height="203" alt="weekly_scores_right_shdw"></td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<img src="images/scores_legend.jpg" width="600" height="132" alt="scores_legend"></td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<div class="textbox1"><p>Below are the Heros In Prevention team challenge results <br />for this month to date. AL Memory Care leads so far this month.</p></div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<img src="images/monthly_standings_head.jpg" width="600" height="100" alt="monthly_standings_head"></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="images/monthly_table_leader_bdg.jpg" width="50" height="241" alt="monthly_table_leader_bdg"></td>
+		<td colspan="2">
+			<img src="images/monthly_table_02.jpg" width="508" height="241" alt="monthly_table"></td>
+		<td colspan="2">
+			<img src="images/monthly_table_right_shdw.jpg" width="42" height="241" alt="monthly_table_right_shdw"></td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<img src="images/space.jpg" width="600" height="35" alt="space"></td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<div class="textbox2"><p>Attached are more details on each neighborhood's team <br />challenge results. Please ensure your teams log into <a href="https://partners.heroesinprevention.com/">HIP* Live</a><br /> to view and discuss this report, or print it out and share it with them.</p></div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<img src="images/hugs_logo.jpg" width="600" height="353" alt="hugs_logo"></td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<div class="textbox3"><p>If you have any questions or need support,<br /> please contact <a href="mailto:Suzy@kcc.com" target="_blank">Suzy@kcc.com.</a><br /><br/> Thank You, <br/><br />Your Heros In Prevention*<br />support team</p></div>
+			<div class="textbox4"><p><strong>THIS IS AN AUTOMATED MESSAGE - PLEASE DO NOT REPLY DIRECTLY TO THIS EMAIL</strong></p></div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<img src="images/kc_footer_logo.jpg" width="600" height="58" alt="kc_footer_logo"></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/spacer.gif" width="48" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="2" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="400" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="108" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="1" height="1" alt=""></td>
+		<td>
+			<img src="images/spacer.gif" width="41" height="1" alt=""></td>
+	</tr>
+</table>
 
 
                       <!-- /columns -->
                       <!-- /main content -->
                     </td>
 
-                    <!-- Desktop spacing -->
-                    <td class="go-away" width="40">
-                      <img src="images/spacer.gif" width="40" height="1" alt="">
-                    </td>
-                    <!-- /Desktop spacing -->
+                    
 
                   </tr>
                 </table>
