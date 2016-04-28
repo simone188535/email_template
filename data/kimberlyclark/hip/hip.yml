@@ -8,18 +8,16 @@ intro_message: 'Two columns on desktop and one column on mobile:'
 
 column_one_header: 'Column 1'
 column_one_text: 'Below is the overview of the weekly HIP* Team Challenge results <br />for your community last week. GH House led last week. In order <br />to improve hygiene behaviors, and minimize infections, <br/ >please review the results and recognize the neighborhoods <br />which did well, and support those with areas for improvement.'
-column_one_image_url: 'images/placeholder.jpg'
-column_one_image_alt: 'Placeholder Image'
+
 
 column_two_header: 'Column 2' 
-column_two_text: 'weekly_scores_header'
-column_two_image_url: 'images/weekly_scores_header.jpg'
-column_two_image_alt: 'weekly_scores_header'
+column_two_text: 'Below are the Heros In Prevention team challenge results <br />for this month to date. AL Memory Care leads so far this month.'
+
 
 column_three_header: 'Column 3'
-column_three_text: 'weekly scores table'
-column_three_image_url: 'images/placeholder.jpg'
-column_three_image_alt: 'weekly_scores_table'
+column_three_text: 'Attached are more details on each neighborhoods team <br />challenge results. Please ensure your teams log into '
+column_three_email_url: 'https://partners.heroesinprevention.com/'
+column_three_text_2: '<br /> to view and discuss this report, or print it out and share it with them.'
 
 column_four_header: 'Column 4'
 column_four_text: 'legend image'
