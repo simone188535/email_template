@@ -230,6 +230,10 @@
 		font-weight: 500;
 	}
 
+	.monthlyScores th.nobold {
+		font-weight: 500;
+	}
+
 	.colorRed {
 		color: #ca0d07 ;
 		font-weight: bold;
@@ -348,10 +352,12 @@
 				<img src="images/spacer.gif" height="1" width="10">
 			</td>
 			<td>
-			<div class="orangeHeader">HIP TEAM REPORT FOR WEEK ENDING MARCH 26, 2016</div>
+			<div class="orangeHeader"><%=@base_column_header_text%></div>
 		</td>
 		<td align="right">
-			<img align="right" src="images/header_logo_02.jpg" width="150" height="58" alt="header_logo">
+			<a href="<%=@base_column_header_logo_url%>">
+				<img align="right" src="<%=@base_column_header_logo%>" width="150" height="20" alt="header_logo">
+			</a>
 		</td>
 		</tr>
 		<tr>
@@ -365,71 +371,72 @@
 	</tr>
 	<tr>
 		<td colspan="6">
-			<img src="images/hip_ca.jpg" width="600" height="114" alt="hip_ca_image"></td>
+			<a href="https://partners.heroesinprevention.com/">
+				<img src="images/hip_ca.jpg" width="600" height="114" alt="hip_ca_image"></td>
+			</a>
 	</tr>
 	<tr>
 		<td colspan="6">
 			<div class="textbox1"><%=@base_column_one_text%></div>
+		</td>
 	</tr>
 	<tr>
 		<td colspan="6" valign="bottom">
-			<img src="images/weekly_scores_header.jpg" width="600" height="96" alt="weekly_scores_header"></td>
+			<img src="images/weekly_scores_header.jpg" width="600" height="96" alt="weekly_scores_header">
+		</td>
 	</tr>
 	<tr>
-		<td background="images/weekly_scores_star_bdg_bg.jpg" bgcolor="#bfbfbf" width="48" valign="top" align="left"> <!--[if gte mso 9]> <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:48px;"> <v:fill type="tile" src="images/weekly_scores_right_bg.jpg" color="#bfbfbf" /> <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0"> <![endif]--> <div>
-			<img src="images/weekly_scores_star_bdg.jpg" width="48" height="203" alt="weekly_scores_star_bdg">
-		</div>
-  <!--[if gte mso 9]>
-    </v:textbox>
-  </v:rect>
-  <![endif]-->
-	</td>
+		<td background="images/weekly_scores_star_bdg_bg.jpg" bgcolor="#bfbfbf" width="48" valign="top" align="left"> 
+
+				<img src="images/weekly_scores_star_bdg.jpg" width="48" height="203" alt="weekly_scores_star_bdg">
+
+		</td>
 		<td colspan="4">
 			<div class="weekly_scores_table"><p></p>
 			</div>
 			
-<table class="weeklyScores rightBordersHere" width="100%" >
-  <tr class="bottomBordersHere" >
-<th>Street Name</th>
-<th class="centerth">HAND HYGIENE</th> <!-- use tds instead of th -->
-<th class="centerth">SURFACE HYGIENE</th>
-<th class="centerth NorightBordersHere">TOTAL</th>
-  </tr>
-  <tr class="bottomBordersHere" >
-<th class="nobold">GH House</th>
-    <td align="left">2</td> <!-- use align to align -->
-    <td>4</td>		
-    <td class="NorightBordersHere">6</td>
-  </tr>
-  <tr class="bottomBordersHere" >
-<th class="nobold">EF House</th>
-    <td>1</td>
-    <td>4</td>		
-    <td class="NorightBordersHere">5</td>
-  </tr>
-  <tr class="bottomBordersHere" >
-<th class="nobold">AL Mem. Care</th>
-    <td>2</td>
-    <td>3</td>		
-    <td class="NorightBordersHere">5</td>
-  </tr>
-<tr>
-<th class="nobold">AL Classic</th>
-    <td>1</td>
-    <td>1</td>		
-    <td class="NorightBordersHere">2</td>
-  </tr>
-</table>
-			</td>
-		<td background="images/weekly_scores_right_bg.jpg" bgcolor="#bfbfbf" width="41" valign="top"> <!--[if gte mso 9]> <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:41px;"> <v:fill type="tile" src="images/weekly_scores_right_bg.jpg" color="#bfbfbf" /> <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0"> <![endif]--> <div>
-			<img src="images/spacer.gif" width="41">
-		 </div>
-  <!--[if gte mso 9]>
-    </v:textbox>
-  </v:rect>
-  <![endif]-->
-	</td>
-
+			<table class="weeklyScores rightBordersHere" width="100%" >
+			  <tr class="bottomBordersHere" >
+			<th>Street Name</th>
+			<th class="centerth">HAND HYGIENE</th> <!-- use tds instead of th -->
+			<th class="centerth">SURFACE HYGIENE</th>
+			<th class="centerth NorightBordersHere">TOTAL</th>
+			  </tr>
+			  <tr class="bottomBordersHere" >
+			<th class="nobold">GH House</th>
+			    <td align="left">2</td> <!-- use align to align -->
+			    <td>4</td>		
+			    <td class="NorightBordersHere">6</td>
+			  </tr>
+			  <tr class="bottomBordersHere" >
+			<th class="nobold">EF House</th>
+			    <td>1</td>
+			    <td>4</td>		
+			    <td class="NorightBordersHere">5</td>
+			  </tr>
+			  <tr class="bottomBordersHere" >
+			<th class="nobold">AL Mem. Care</th>
+			    <td>2</td>
+			    <td>3</td>		
+			    <td class="NorightBordersHere">5</td>
+			  </tr>
+			<tr>
+			<th class="nobold">AL Classic</th>
+			    <td>1</td>
+			    <td>1</td>		
+			    <td class="NorightBordersHere">2</td>
+			  </tr>
+			</table>
+		</td>
+		<td background="images/weekly_scores_right_bg.jpg" bgcolor="#bfbfbf" width="41" valign="top"> 	<!--[if gte mso 9]> <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:41px;"> <v:fill type="tile" src="images/weekly_scores_right_bg.jpg" color="#bfbfbf" /> <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0"> <![endif]--> 
+			<div>
+				<img src="images/spacer.gif" width="41">
+			 </div>
+			  <!--[if gte mso 9]>
+			    </v:textbox>
+			  </v:rect>
+			  <![endif]-->
+		</td>
 	</tr>
 	<tr>
 		<td colspan="6" valign="top" align="right">
@@ -441,29 +448,101 @@
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6">
-			<img src="images/monthly_standings_head.jpg" width="600" height="100" alt="monthly_standings_head"></td>
+		<td colspan="6" valign="bottom">
+			<img src="images/monthly_standings_head.jpg" width="600" height="100" alt="monthly_standings_head">
+		</td>
 	</tr>
 	<tr>
-		<td colspan="2">
-			<img src="images/monthly_table_leader_bdg.jpg" width="50" height="241" alt="monthly_table_leader_bdg"></td>
-		<td colspan="2">
-			<img src="images/monthly_table_02.jpg" width="508" height="241" alt="monthly_table"></td>
-		<td colspan="2" bgcolor="#bfbfbf" width="42">
-			<img src="images/monthly_table_right_shdw.jpg" width="42" height="241" alt="monthly_table_right_shdw"></td>
+		<td background="images/monthly_table_leader_bdg_bg.jpg" bgcolor="#bfbfbf" width="50" valign="top" align="left" >
+		<!--[if gte mso 9]> <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:50px;"> <v:fill type="tile" src="images/monthly_scores_right_bg.jpg" color="#bfbfbf" /> <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0"> <![endif]-->
+			<div>
+				<img src="images/monthly_table_leader_bdg.jpg" width="50" height="241" alt="monthly_table_leader_bdg">
+			</div>
+		<!--[if gte mso 9]>
+		    </v:textbox>
+		  </v:rect>
+		  <![endif]-->
+		</td>
+		<td colspan="4">
+			<div class="monthly_scores_table">
+			</div>
+			
+			<table class="monthlyScores rightBordersHere" width="100%" >
+			  <tr class="bottomBordersHere" >
+			<th>ACME RETIREMENT<br />COMMUNITY</th>
+			<th class="centerth">3.4</th> <!-- use tds instead of th -->
+			<th class="centerth">3.11</th>
+			<th class="centerth">3.18</th>
+			<th class="centerth">3.25</th>
+			<th class="centerth NorightBordersHere">TOTAL</th>
+			  </tr>
+			  <tr class="bottomBordersHere" >
+			<th class="nobold">AL Mem. Care</th>
+			    <td align="left">3</td> <!-- use align to align -->
+			    <td align="left">10</td>
+			    <td align="left">0</td>
+			    <td align="left">0</td>		
+			    <td class="NorightBordersHere">23</td>
+			  </tr>
+			  <tr class="bottomBordersHere" >
+			<th class="nobold">AL Classic</th>
+			    <td align="left">10</td>
+			    <td align="left">2</td>
+			    <td align="left">0</td>
+			    <td align="left">0</td>		
+			    <td class="NorightBordersHere">17</td>
+			  </tr>
+			  <tr class="bottomBordersHere" >
+			<th class="nobold">GH House</th>
+			    <td align="left">3</td>
+			    <td align="left">6</td>
+			    <td align="left">0</td>
+			    <td align="left">0</td>		
+			    <td class="NorightBordersHere">12</td>
+			  </tr>
+			<tr>
+			<th class="nobold">EF Housee</th>
+			    <td align="left">2</td>
+			    <td align="left">5</td>
+			    <td align="left">0</td>
+			    <td align="left">0</td>		
+			    <td class="NorightBordersHere">10</td>
+			  </tr>
+			</table>
+		</td>
+		<td background="images/monthly_scores_right_bg.jpg" bgcolor="#bfbfbf" width="41" valign="top"> 	<!--[if gte mso 9]> <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:41px;"> <v:fill type="tile" src="images/monthly_scores_right_bg.jpg" color="#bfbfbf" /> <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0"> <![endif]--> 
+			<div>
+				<img src="images/spacer.gif" width="41">
+			 </div>
+			  <!--[if gte mso 9]>
+			    </v:textbox>
+			  </v:rect>
+			  <![endif]-->
+		</td>
+	</tr>
+	</tr>
+	<tr>
+		<td colspan="6" align="left">
+			<div class="textbox5"><b><%=@base_column_five_header%></b> <%=@base_column_five_text%>
+			</div>
+		</td>
 	</tr>
 	<tr>
 		<td colspan="6">
 			<img src="images/space.jpg" width="600" height="35" alt="space"></td>
 	</tr>
 	<tr>
-		<td colspan="6">
-			<div class="textbox2"><%=@base_column_three_text%><a href="<%=@base_column_three_email_url%>">HIP* Live</a><%=@base_column_three_text_2%></div>
+		<td colspan="" width="2">
+				<img src="images/spacer.gif" height="1" width="2">
+			</td>
+		<td colspan="6" align="center">
+			<div align="left" class="textbox2"><%=@base_column_three_text%><a href="<%=@base_column_three_email_url%>">HIP* Live</a><%=@base_column_three_text_2%></div>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="6" align="center">
-			<img src="images/hugs_logo.jpg" width="600" height="353" alt="hugs_logo"></td>
+			<img src="images/hugs_logo.jpg" width="600" height="353" alt="hugs_logo">
+		</td>
 	</tr>
 
 	<tr bgcolor="#f99d25">
@@ -498,7 +577,9 @@
 	</tr>
 	<tr>
 		<td colspan="6">
-			<img src="images/kc_footer_logo.jpg" width="600" height="58" alt="kc_footer_logo"></td>
+			<a href="http://www.kimberly-clark.com/">
+			<img src="images/kc_footer_logo.jpg" width="600" height="58" alt="kc_footer_logo"></a>
+		</td>
 	</tr>
 	<tr>
 		<td>
