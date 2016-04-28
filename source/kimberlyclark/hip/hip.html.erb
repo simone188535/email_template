@@ -2,537 +2,488 @@
 <% data.kimberlyclark.hip.hip.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="initial-scale=1.0">
-    <!-- So that mobile webkit will display zoomed in -->
-    <meta name="format-detection" content="telephone=no">
-    <!-- disable auto telephone linking in iOS -->
-    <title><%=@base_title%></title>
-    <style type="text/css" data-embed>
-      /* This style block will be inlined when running 'grunt build' and stripped from the header */
-
-      /* Resets */
-        .ReadMsgBody {
-          width: 100%;
-          background-color: #ffffff;
-        }
-        .ExternalClass {
-          width: 100%;
-          background-color: #ffffff;
-        }
-        .ExternalClass,
-        .ExternalClass p,
-        .ExternalClass span,
-        .ExternalClass font,
-        .ExternalClass td,
-        .ExternalClass div {line-height:100%;}
-        .yshortcuts a {border-bottom: none !important;}
-
-        body {
-          -webkit-text-size-adjust:none;
-          -ms-text-size-adjust:none;
-          margin:0;
-          padding:0;}
-        table {
-          border-spacing:0;
-          border-collapse:collapse;
-          mso-table-lspace: 0pt;
-          mso-table-rspace: 0pt;
-        }
-        table td {border-collapse:collapse;}
-        table, tr, td {text-align: left;}
-        img{ /* responsive images */
-            display: block;
-            border:none;
-            outline:none;
-            width: auto !important;
-            height: auto !important;
-            max-width: 100%;
-            -ms-interpolation-mode: bicubic;
-          }
-        a img {border:none;}
-
-        /* Wrap phone numbers and addresses to prevent them showing up as links on mobile */
-        .apple-link-black {
-          color: #000000; !important;
-          text-decoration: none !important;
-          }
-          .apple-link-white {
-          color: #ffffff; !important;
-          text-decoration: none !important;
-          }
-
-        .container {
-            width: 600px;
-            max-width: 600px;
-        }
-
-          /* Typography */
-          body, .text, .header, td, p {
-            text-align: left;
-          }
-          body, .container, .text, .header, td, p {
-            color: #2a2a2a;
-            font-family: Helvetica, Arial, sans-serif;
-            font-weight: normal;
-
-          }
-          body, .container, .text, td, p {
-            font-size: 16px;
-            line-height: 20px;
-          }
-
-          .header {
-            font-size: 24px;
-            line-height: 28px;
-          }
-
-          .sub-header {
-            font-size: 20px;
-            line-height: 24px;
-          }
-
-          sup {
-            font-size:8px;
-            line-height:0;
-            vertical-align:4px;
-          }
-
-          .view-online {
-            font-size: 12px;
-            line-height: 14px;
-            text-align: center;
-          }
-          .view-online a {
-            text-decoration: underline !important;
-          }
-
-          a {
-          color: #3232ae !important;
-          text-decoration: none;
-          }
-
-          a:hover {
-            color: #3232ae !important;
-          }
-
-          a:active {
-            color: #3232ae !important;
-          }
-
-          a:visited {
-            color: #a12a7a !important;
-          }
-
-          .text-left {
-            text-align: left !important;
-          }
-
-          .text-center {
-            text-align: center !important;
-          }
-
-          .text-right {
-            text-align: right !important;
-          }
-
-
-
-           /* Visibility Classes - Fixes Gmail bug of not supporting display:none. See media query override for mobile. This class must be used on the element as well as the element's parent. http://www.campaignmonitor.com/blog/post/3948/hiding-content-in-both-desktop-and-web-email-clients */
-          .show-for-small, .footer.show-for-small,
-          .hide-for-desktop {
-            display: none;
-            max-height: 0px;
-            font-size: 0;
-            width: 0;
-            mso-hide: all;
-          }
-	.orangeHeader {
-
-		background: #f99d25;
-	    font-family: Arial;
-	    font-size: 14px; 
-	}
-
-
-
-	.textbox1{
-
-	}
-
-	.textbox1, .textbox2, .textbox3 {
-		font-family: Arial;
-	    line-height: 26px;
-	    font-size: 18px;
-	    color: #3E3E3E;
-	}
-
-	.textbox2 p a {
-
-		color: #00aeef;
-
-	}
-
-	.textbox3 {
-		background: #f99d25;
-	}
-
-	.textbox3 p a {
-
-		color: #555555;
-	}
-
-	.textbox4 {
-		background: #f99d25;
-		padding: 10px 30px 10px;
-
-	}
-
-	.textbox4 p {
-		padding-left: 10px;
-	    font-family: Arial;
-	    font-size: 12px;
-	}
-
-	.bottomBordersHere th, .bottomBordersHere td {
-		border-bottom: 1px solid #ccc; 
-	}
-
-	.rightBordersHere td, .rightBordersHere th {
-		border-right: 1px solid #ccc; 
-
-	}
-
-	.NorightBordersHere {
-		border-right: none !important; 
-	}
-
-	.weeklyScores {
-		font-family: Arial;
-	}
-
-	.weeklyScores td {
-		text-align: center;
-		line-height: 30px;
-	}
-
-	.weeklyScores th {
-		text-align: left;
-		line-height: 30px;
-	}
-
-	.weeklyScores th.centerth {
-		text-align: center;
-	}
-
-	.weeklyScores th.nobold {
-		font-weight: 500;
-	}
-
-	.colorRed {
-		color: #ca0d07 ;
-		font-weight: bold;
-	}
-
-	.colorYellow {
-		color: #ffd817 ;
-		font-weight: bold;
-	}
-
-	.colorGreen {
-		color: #acce55 ;
-		font-weight: bold;
-	}
-
-	.colorBlack {
-		color: #000 ;
-		font-weight: bold;
-	}
-
-    </style>
-
-
-    <style type="text/css" data-embed-ignore>
-      /* This style block will be ignored for inlining when running 'grunt build' and will not be stripped from the header */
-
-      /*  Media queries */
-
-      /* Define all styles in media queries using attribute selectors in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
-      /* MK change max-width from 599px to 601px */
-      @media screen and (max-width: 601px) {
-        table[class="force-row"],
-        table[class="container"] {
-          width: 100% !important;
-          max-width: 100% !important;
-        }
-
-        table[class="force-row"] {
-          margin-bottom: 10px;
-        }
-
-        /* Visibility */
-        table[class*="go-away"],
-        td[class*="go-away"],
-        td[class*="go-away"] img,
-        tr[class*="go-away"] img,
-        tr[class*="go-away"],
-        tr[class*="go-away"] td,
-        img[class*="go-away"],
-        div[class*="go-away"] {
-          display: none !important;
-        }
-        table[class*="container"] .show-for-small,
-        table[class*="container"] .hide-for-desktop {
-          max-height: none !important;
-          font-size: 14px !important;
-          display: block !important;
-          width: auto !important;
-          }
-
-        td[class="container"] {
-          padding-left: 14px;
-          padding-right: 14px;
-        }
-
-        td[class="col"] {
-          padding: 10px;
-        }
-
-        div[class="header"], div[class="sub-header"] {
-          text-align: center;
-        }
-      }
-    </style>
-  </head>
-  <body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta name="viewport" content="initial-scale=1.0">
+      <!-- So that mobile webkit will display zoomed in -->
+      <meta name="format-detection" content="telephone=no">
+      <!-- disable auto telephone linking in iOS -->
+      <title><%=@base_title%></title>
+      <style type="text/css" data-embed>
+         /* This style block will be inlined when running 'grunt build' and stripped from the header */
+         /* Resets */
+         .ReadMsgBody {
+         width: 100%;
+         background-color: #ffffff;
+         }
+         .ExternalClass {
+         width: 100%;
+         background-color: #ffffff;
+         }
+         .ExternalClass,
+         .ExternalClass p,
+         .ExternalClass span,
+         .ExternalClass font,
+         .ExternalClass td,
+         .ExternalClass div {line-height:100%;}
+         .yshortcuts a {border-bottom: none !important;}
+         body {
+         -webkit-text-size-adjust:none;
+         -ms-text-size-adjust:none;
+         margin:0;
+         padding:0;}
+         table {
+         border-spacing:0;
+         border-collapse:collapse;
+         mso-table-lspace: 0pt;
+         mso-table-rspace: 0pt;
+         }
+         table td {border-collapse:collapse;}
+         table, tr, td {text-align: left;}
+         img{ /* responsive images */
+         display: block;
+         border:none;
+         outline:none;
+         width: auto !important;
+         height: auto !important;
+         max-width: 100%;
+         -ms-interpolation-mode: bicubic;
+         }
+         a img {border:none;}
+         /* Wrap phone numbers and addresses to prevent them showing up as links on mobile */
+         .apple-link-black {
+         color: #000000; !important;
+         text-decoration: none !important;
+         }
+         .apple-link-white {
+         color: #ffffff; !important;
+         text-decoration: none !important;
+         }
+         .container {
+         width: 600px;
+         max-width: 600px;
+         }
+         /* Typography */
+         body, .text, .header, td, p {
+         text-align: left;
+         }
+         body, .container, .text, .header, td, p {
+         color: #2a2a2a;
+         font-family: Helvetica, Arial, sans-serif;
+         font-weight: normal;
+         }
+         body, .container, .text, td, p {
+         font-size: 16px;
+         line-height: 20px;
+         }
+         .header {
+         font-size: 24px;
+         line-height: 28px;
+         }
+         .sub-header {
+         font-size: 20px;
+         line-height: 24px;
+         }
+         sup {
+         font-size:8px;
+         line-height:0;
+         vertical-align:4px;
+         }
+         .view-online {
+         font-size: 12px;
+         line-height: 14px;
+         text-align: center;
+         }
+         .view-online a {
+         text-decoration: underline !important;
+         }
+         a {
+         color: #3232ae !important;
+         text-decoration: none;
+         }
+         a:hover {
+         color: #3232ae !important;
+         }
+         a:active {
+         color: #3232ae !important;
+         }
+         a:visited {
+         color: #a12a7a !important;
+         }
+         .text-left {
+         text-align: left !important;
+         }
+         .text-center {
+         text-align: center !important;
+         }
+         .text-right {
+         text-align: right !important;
+         }
+         /* Visibility Classes - Fixes Gmail bug of not supporting display:none. See media query override for mobile. This class must be used on the element as well as the element's parent. http://www.campaignmonitor.com/blog/post/3948/hiding-content-in-both-desktop-and-web-email-clients */
+         .show-for-small, .footer.show-for-small,
+         .hide-for-desktop {
+         display: none;
+         max-height: 0px;
+         font-size: 0;
+         width: 0;
+         mso-hide: all;
+         }
+         .orangeHeader {
+         background: #f99d25;
+         font-family: Arial;
+         font-size: 14px; 
+         }
+         .textbox1{
+         }
+         .textbox1, .textbox2, .textbox3 {
+         font-family: Arial;
+         line-height: 26px;
+         font-size: 18px;
+         color: #3E3E3E;
+         }
+         .textbox2 p a {
+         color: #00aeef;
+         }
+         .textbox3 {
+         background: #f99d25;
+         }
+         .textbox3 p a {
+         color: #555555;
+         }
+         .textbox4 {
+         background: #f99d25;
+         padding: 10px 30px 10px;
+         }
+         .textbox4 p {
+         padding-left: 10px;
+         font-family: Arial;
+         font-size: 12px;
+         }
+         .bottomBordersHere th, .bottomBordersHere td {
+         border-bottom: 1px solid #ccc; 
+         }
+         .rightBordersHere td, .rightBordersHere th {
+         border-right: 1px solid #ccc; 
+         }
+         .NorightBordersHere {
+         border-right: none !important; 
+         }
+         .weeklyScores {
+         font-family: Arial;
+         }
+         .weeklyScores td {
+         text-align: center;
+         line-height: 30px;
+         }
+         .weeklyScores th {
+         text-align: left;
+         line-height: 30px;
+         }
+         .weeklyScores th.centerth {
+         text-align: center;
+         }
+         .weeklyScores th.nobold {
+         font-weight: 500;
+         }
+         .colorRed {
+         color: #ca0d07 ;
+         font-weight: bold;
+         }
+         .colorYellow {
+         color: #ffd817 ;
+         font-weight: bold;
+         }
+         .colorGreen {
+         color: #acce55 ;
+         font-weight: bold;
+         }
+         .colorBlack {
+         color: #000 ;
+         font-weight: bold;
+         }
+      </style>
+      <style type="text/css" data-embed-ignore>
+         /* This style block will be ignored for inlining when running 'grunt build' and will not be stripped from the header */
+         /*  Media queries */
+         /* Define all styles in media queries using attribute selectors in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
+         /* MK change max-width from 599px to 601px */
+         @media screen and (max-width: 601px) {
+         table[class="force-row"],
+         table[class="container"] {
+         width: 100% !important;
+         max-width: 100% !important;
+         }
+         table[class="force-row"] {
+         margin-bottom: 10px;
+         }
+         /* Visibility */
+         table[class*="go-away"],
+         td[class*="go-away"],
+         td[class*="go-away"] img,
+         tr[class*="go-away"] img,
+         tr[class*="go-away"],
+         tr[class*="go-away"] td,
+         img[class*="go-away"],
+         div[class*="go-away"] {
+         display: none !important;
+         }
+         table[class*="container"] .show-for-small,
+         table[class*="container"] .hide-for-desktop {
+         max-height: none !important;
+         font-size: 14px !important;
+         display: block !important;
+         width: auto !important;
+         }
+         td[class="container"] {
+         padding-left: 14px;
+         padding-right: 14px;
+         }
+         td[class="col"] {
+         padding: 10px;
+         }
+         div[class="header"], div[class="sub-header"] {
+         text-align: center;
+         }
+         }
+      </style>
+   </head>
+   <body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
       <!--
-      Responsive framework: Antwort v1.0 - https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0)
-
-      * Force 100% width on aligned tables
-      * Use multiple aligned tables for columns
-      * Tables must have a fixed pixel width
-      * 'force-row' class forces the tables into rows on mobile
-      * Include an Outlook only wrapper table
-    -->
-
-     <!-- 100% background wrapper -->
-  <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-    <tr>
-      <td>
-        <br>
-        <!-- 600px container -->
-          <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
-            
-   
-            <tr>
-              <td valign="top" align="left">
-
-                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         Responsive framework: Antwort v1.0 - https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0)
+         
+         * Force 100% width on aligned tables
+         * Use multiple aligned tables for columns
+         * Tables must have a fixed pixel width
+         * 'force-row' class forces the tables into rows on mobile
+         * Include an Outlook only wrapper table
+         -->
+      <!-- 100% background wrapper -->
+      <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+         <tr>
+            <td>
+               <br>
+               <!-- 600px container -->
+               <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
                   <tr>
-
-                  
-
-                    <td class="container" valign="top" align="left">
-                      <table id="Table_01" width="100%"  border="0" cellpadding="0" cellspacing="0">
-	<tr bgcolor="#f99d25">
-	<td colspan="6">
-	<table width="100%" border="0" cellpadding="0" cellspacing="0">
-		<tr>
-			<td colspan="3" height="20">
-				<img src="images/spacer.gif" height="20" width="1">
-			</td>
-		</tr>
-		<tr>
-			<td width="10">
-				<img src="images/spacer.gif" height="1" width="10">
-			</td>
-			<td>
-			<div class="orangeHeader">HIP TEAM REPORT FOR WEEK ENDING MARCH 26, 2016</div>
-		</td>
-		<td align="right">
-			<img align="right" src="images/header_logo_02.jpg" width="150" height="58" alt="header_logo">
-		</td>
-		</tr>
-		<tr>
-			<td colspan="3" height="20">
-				<img src="images/spacer.gif" height="20" width="1">
-			</td>
-		</tr>
-	</table>
-	</td>
-		
-	</tr>
-	<tr>
-		<td colspan="6">
-			<img src="images/hip_ca.jpg" width="600" height="114" alt="hip_ca_image"></td>
-	</tr>
-	<tr>
-		<td colspan="6">
-			<div class="textbox1"><%=@base_column_one_text%></div>
-	</tr>
-	<tr>
-		<td colspan="6" valign="bottom">
-			<img src="images/weekly_scores_header.jpg" width="600" height="96" alt="weekly_scores_header"></td>
-	</tr>
-	<tr>
-		<td background="images/weekly_scores_star_bdg_bg.jpg" bgcolor="#bfbfbf" width="48" valign="top" align="left"> <!--[if gte mso 9]> <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:48px;"> <v:fill type="tile" src="images/weekly_scores_right_bg.jpg" color="#bfbfbf" /> <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0"> <![endif]--> <div>
-			<img src="images/weekly_scores_star_bdg.jpg" width="48" height="203" alt="weekly_scores_star_bdg">
-		</div>
-  <!--[if gte mso 9]>
-    </v:textbox>
-  </v:rect>
-  <![endif]-->
-	</td>
-		<td colspan="4">
-			<div class="weekly_scores_table"><p></p>
-			</div>
-			
-<table class="weeklyScores rightBordersHere" width="100%" >
-  <tr class="bottomBordersHere" >
-<th>Street Name</th>
-<th class="centerth">HAND HYGIENE</th> <!-- use tds instead of th -->
-<th class="centerth">SURFACE HYGIENE</th>
-<th class="centerth NorightBordersHere">TOTAL</th>
-  </tr>
-  <tr class="bottomBordersHere" >
-<th class="nobold">GH House</th>
-    <td align="left">2</td> <!-- use align to align -->
-    <td>4</td>		
-    <td class="NorightBordersHere">6</td>
-  </tr>
-  <tr class="bottomBordersHere" >
-<th class="nobold">EF House</th>
-    <td>1</td>
-    <td>4</td>		
-    <td class="NorightBordersHere">5</td>
-  </tr>
-  <tr class="bottomBordersHere" >
-<th class="nobold">AL Mem. Care</th>
-    <td>2</td>
-    <td>3</td>		
-    <td class="NorightBordersHere">5</td>
-  </tr>
-<tr>
-<th class="nobold">AL Classic</th>
-    <td>1</td>
-    <td>1</td>		
-    <td class="NorightBordersHere">2</td>
-  </tr>
-</table>
-			</td>
-		<td background="images/weekly_scores_right_bg.jpg" bgcolor="#bfbfbf" width="41" valign="top"> <!--[if gte mso 9]> <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:41px;"> <v:fill type="tile" src="images/weekly_scores_right_bg.jpg" color="#bfbfbf" /> <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0"> <![endif]--> <div>
-			<img src="images/spacer.gif" width="41">
-		 </div>
-  <!--[if gte mso 9]>
-    </v:textbox>
-  </v:rect>
-  <![endif]-->
-	</td>
-
-	</tr>
-	<tr>
-		<td colspan="6" valign="top" align="right">
-			<img src="images/scores_legend.jpg" width="600" height="132" alt="scores_legend"></td>
-	</tr>
-	<tr>
-		<td colspan="6">
-			<div class="textbox1"><%=@base_column_two_text%></div>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="6">
-			<img src="images/monthly_standings_head.jpg" width="600" height="100" alt="monthly_standings_head"></td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<img src="images/monthly_table_leader_bdg.jpg" width="50" height="241" alt="monthly_table_leader_bdg"></td>
-		<td colspan="2">
-			<img src="images/monthly_table_02.jpg" width="508" height="241" alt="monthly_table"></td>
-		<td colspan="2" bgcolor="#bfbfbf" width="42">
-			<img src="images/monthly_table_right_shdw.jpg" width="42" height="241" alt="monthly_table_right_shdw"></td>
-	</tr>
-	<tr>
-		<td colspan="6">
-			<img src="images/space.jpg" width="600" height="35" alt="space"></td>
-	</tr>
-	<tr>
-		<td colspan="6">
-			<div class="textbox2"><%=@base_column_three_text%><a href="<%=@base_column_three_email_url%>">HIP* Live</a><%=@base_column_three_text_2%></div>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="6" align="center">
-			<img src="images/hugs_logo.jpg" width="600" height="353" alt="hugs_logo"></td>
-	</tr>
-
-	<tr bgcolor="#f99d25">
-		<td colspan="6">
-
-		<table width="100%" border="0" cellpadding="0" cellspacing="0">
-			<tr bgcolor="#f99d25">
-			<td colspan="3" height="20">
-				<img src="images/spacer.gif" width="1" height="20">
-			</td>
-				
-			</tr>
-			<tr>
-				<td width="25">
-					<img src="images/spacer.gif" width="25" height="1">
-				</td>
-				<td valign="top" align="left">
-					<div class="textbox3">If you have any questions or need support,<br /> please contact <a href="mailto:Suzy@kcc.com" target="_blank">Suzy@kcc.com.</a><br /><br/> Thank You, <br/><br />Your Heros In Prevention*<br />support team</div>
-					<div class="textbox4"><b>THIS IS AN AUTOMATED MESSAGE - PLEASE DO NOT REPLY DIRECTLY TO THIS EMAIL</b></div>
-				</td>
-				<td width="25">
-					<img src="images/spacer.gif" width="25" height="1">
-				</td>
-			</tr>
-			<tr>
-				
-			</tr>
-		</table>
-
-			
-		</td>
-	</tr>
-	<tr>
-		<td colspan="6">
-			<img src="images/kc_footer_logo.jpg" width="600" height="58" alt="kc_footer_logo"></td>
-	</tr>
-	<tr>
-		<td>
-			<img src="images/spacer.gif" width="48" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="2" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="400" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="108" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="1" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="41" height="1" alt=""></td>
-	</tr>
-</table>
-
-
-                      <!-- /columns -->
-                      <!-- /main content -->
-                    </td>
-
-                    
-
+                     <td valign="top" align="left">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                           <tr>
+                              <td class="container" valign="top" align="left">
+                                 <table id="Table_01" width="100%"  border="0" cellpadding="0" cellspacing="0">
+                                    <tr bgcolor="#f99d25">
+                                       <td colspan="6">
+                                          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                             <tr>
+                                                <td colspan="3" height="20">
+                                                   <img src="images/spacer.gif" height="20" width="1">
+                                                </td>
+                                             </tr>
+                                             <tr>
+                                                <td width="10">
+                                                   <img src="images/spacer.gif" height="1" width="10">
+                                                </td>
+                                                <td>
+                                                   <div class="orangeHeader">HIP TEAM REPORT FOR WEEK ENDING MARCH 26, 2016</div>
+                                                </td>
+                                                <td align="right">
+                                                   <img align="right" src="images/header_logo_02.jpg" width="150" height="58" alt="header_logo">
+                                                </td>
+                                             </tr>
+                                             <tr>
+                                                <td colspan="3" height="20">
+                                                   <img src="images/spacer.gif" height="20" width="1">
+                                                </td>
+                                             </tr>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="6">
+                                          <img src="images/hip_ca.jpg" width="600" height="114" alt="hip_ca_image">
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="6">
+                                          <div class="textbox1"><%=@base_column_one_text%></div>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="6" valign="bottom">
+                                          <img src="images/weekly_scores_header.jpg" width="600" height="96" alt="weekly_scores_header">
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td background="images/weekly_scores_star_bdg_bg.jpg" bgcolor="#bfbfbf" width="48" valign="top" align="left">
+                                          <!--[if gte mso 9]> 
+                                          <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:48px;">
+                                             <v:fill type="tile" src="images/weekly_scores_right_bg.jpg" color="#bfbfbf" />
+                                             <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
+                                                <![endif]--> 
+                                                <div>
+                                                   <img src="images/weekly_scores_star_bdg.jpg" width="48" height="203" alt="weekly_scores_star_bdg">
+                                                </div>
+                                                <!--[if gte mso 9]>
+                                             </v:textbox>
+                                          </v:rect>
+                                          <![endif]-->
+                                       </td>
+                                       <td colspan="4">
+                                          <div class="weekly_scores_table">
+                                             <p></p>
+                                          </div>
+                                          <table class="weeklyScores rightBordersHere" width="100%" >
+                                             <tr class="bottomBordersHere" >
+                                                <th>Street Name</th>
+                                                <th class="centerth">HAND HYGIENE</th>
+                                                <!-- use tds instead of th -->
+                                                <th class="centerth">SURFACE HYGIENE</th>
+                                                <th class="centerth NorightBordersHere">TOTAL</th>
+                                             </tr>
+                                             <tr class="bottomBordersHere" >
+                                                <th class="nobold">GH House</th>
+                                                <td align="left">2</td>
+                                                <!-- use align to align -->
+                                                <td>4</td>
+                                                <td class="NorightBordersHere">6</td>
+                                             </tr>
+                                             <tr class="bottomBordersHere" >
+                                                <th class="nobold">EF House</th>
+                                                <td>1</td>
+                                                <td>4</td>
+                                                <td class="NorightBordersHere">5</td>
+                                             </tr>
+                                             <tr class="bottomBordersHere" >
+                                                <th class="nobold">AL Mem. Care</th>
+                                                <td>2</td>
+                                                <td>3</td>
+                                                <td class="NorightBordersHere">5</td>
+                                             </tr>
+                                             <tr>
+                                                <th class="nobold">AL Classic</th>
+                                                <td>1</td>
+                                                <td>1</td>
+                                                <td class="NorightBordersHere">2</td>
+                                             </tr>
+                                          </table>
+                                       </td>
+                                       <td background="images/weekly_scores_right_bg.jpg" bgcolor="#bfbfbf" width="41" valign="top">
+                                          <!--[if gte mso 9]> 
+                                          <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:41px;">
+                                             <v:fill type="tile" src="images/weekly_scores_right_bg.jpg" color="#bfbfbf" />
+                                             <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
+                                                <![endif]--> 
+                                                <div>
+                                                   <img src="images/spacer.gif" width="41">
+                                                </div>
+                                                <!--[if gte mso 9]>
+                                             </v:textbox>
+                                          </v:rect>
+                                          <![endif]-->
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="6" valign="top" align="right">
+                                          <img src="images/scores_legend.jpg" width="600" height="132" alt="scores_legend">
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="6">
+                                          <div class="textbox1"><%=@base_column_two_text%></div>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="6">
+                                          <img src="images/monthly_standings_head.jpg" width="600" height="100" alt="monthly_standings_head">
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="2">
+                                          <img src="images/monthly_table_leader_bdg.jpg" width="50" height="241" alt="monthly_table_leader_bdg">
+                                       </td>
+                                       <td colspan="2">
+                                          <img src="images/monthly_table_02.jpg" width="508" height="241" alt="monthly_table">
+                                       </td>
+                                       <td colspan="2" bgcolor="#bfbfbf" width="42">
+                                          <img src="images/monthly_table_right_shdw.jpg" width="42" height="241" alt="monthly_table_right_shdw">
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="6">
+                                          <img src="images/space.jpg" width="600" height="35" alt="space">
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="6">
+                                          <div class="textbox2"><%=@base_column_three_text%><a href="<%=@base_column_three_email_url%>">HIP* Live</a><%=@base_column_three_text_2%></div>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="6" align="center">
+                                          <img src="images/hugs_logo.jpg" width="600" height="353" alt="hugs_logo">
+                                       </td>
+                                    </tr>
+                                    <tr bgcolor="#f99d25">
+                                       <td colspan="6">
+                                          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                             <tr bgcolor="#f99d25">
+                                                <td colspan="3" height="20">
+                                                   <img src="images/spacer.gif" width="1" height="20">
+                                                </td>
+                                             </tr>
+                                             <tr>
+                                                <td width="25">
+                                                   <img src="images/spacer.gif" width="25" height="1">
+                                                </td>
+                                                <td valign="top" align="left">
+                                                   <div class="textbox3">If you have any questions or need support,<br /> please contact <a href="mailto:Suzy@kcc.com" target="_blank">Suzy@kcc.com.</a><br /><br/> Thank You, <br/><br />Your Heros In Prevention*<br />support team</div>
+                                                   <div class="textbox4"><b>THIS IS AN AUTOMATED MESSAGE - PLEASE DO NOT REPLY DIRECTLY TO THIS EMAIL</b></div>
+                                                </td>
+                                                <td width="25">
+                                                   <img src="images/spacer.gif" width="25" height="1">
+                                                </td>
+                                             </tr>
+                                             <tr>
+                                             </tr>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="6">
+                                          <img src="images/kc_footer_logo.jpg" width="600" height="58" alt="kc_footer_logo">
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td>
+                                          <img src="images/spacer.gif" width="48" height="1" alt="">
+                                       </td>
+                                       <td>
+                                          <img src="images/spacer.gif" width="2" height="1" alt="">
+                                       </td>
+                                       <td>
+                                          <img src="images/spacer.gif" width="400" height="1" alt="">
+                                       </td>
+                                       <td>
+                                          <img src="images/spacer.gif" width="108" height="1" alt="">
+                                       </td>
+                                       <td>
+                                          <img src="images/spacer.gif" width="1" height="1" alt="">
+                                       </td>
+                                       <td>
+                                          <img src="images/spacer.gif" width="41" height="1" alt="">
+                                       </td>
+                                    </tr>
+                                 </table>
+                                 <!-- /columns -->
+                                 <!-- /main content -->
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
                   </tr>
-                </table>
-              </td>
-            </tr>
-          </table>
-        <!-- /600px container -->
-
-      </td>
-    </tr>
-  </table>
-  <!-- /100% background wrapper -->
-  </body>
+               </table>
+               <!-- /600px container -->
+            </td>
+         </tr>
+      </table>
+      <!-- /100% background wrapper -->
+   </body>
 </html>
