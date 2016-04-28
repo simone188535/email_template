@@ -2,44 +2,32 @@ view_online: 'Having trouble viewing this email? <a href="#">View online</a>'
 
 title: 'HIP Team Report'
 
+header_text: 'Header Text'
+
 intro_message: 'Two columns on desktop and one column on mobile:'
-
-column_header_text: 'HIP TEAM REPORT FOR WEEK ENDING MARCH 26, 2016'
-column_header_logo: 'images/header_logo_02.jpg'
-column_header_logo_url: 'http://www.kimberly-clark.com/'
-
-column_cta_hip: 'images/hip_ca.jpg'
-column_cta_hip_url: 'https://partners.heroesinprevention.com/'
 
 column_one_header: 'Column 1'
 column_one_text: 'Below is the overview of the weekly HIP* Team Challenge results <br />for your community last week. GH House led last week. In order <br />to improve hygiene behaviors, and minimize infections, <br/ >please review the results and recognize the neighborhoods <br />which did well, and support those with areas for improvement.'
 
-column_weekly_scores_header: 'images/weekly_scores_header.jpg'
-
-column_scores_legend: 'images/scores_legend.jpg'
 
 column_two_header: 'Column 2' 
 column_two_text: 'Below are the Heros In Prevention team challenge results <br />for this month to date. AL Memory Care leads so far this month.'
 
-
-column_monthly_standings_head: 'images/monthly_standings_head.jpg'
 
 column_three_header: 'Column 3'
 column_three_text: 'Attached are more details on each neighborhoods team <br />challenge results. Please ensure your teams log into '
 column_three_email_url: 'https://partners.heroesinprevention.com/'
 column_three_text_2: '<br /> to view and discuss this report, or print it out and share it with them.'
 
-column_hugs_logo: 'images/hugs_logo.jpg'
-
 column_four_header: 'Column 4'
 column_four_text: 'legend image'
 column_four_image_url: 'images/placeholder.jpg'
 column_four_image_alt: 'scores_legend'
 
-column_five_header: 'Average'
-column_five_text: '5.17'
+column_five_header: 'Column 5'
+column_five_text: 'LIVE TEXT BOX 2'
 column_five_image_url: 'images/placeholder.jpg'
-column_five_image_alt: 'textbox'
+column_five_image_alt: 'textbox2'
 
 column_six_header: 'Column 6'
 column_six_text: 'monthly_standings_head'
