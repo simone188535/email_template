@@ -1,5 +1,5 @@
 <% require 'active_support/all' %>
-<% instance_variable_set("@base_data_file", data.duanereade.dr_041816_Weekly.dr_041816_Weekly) %>
+<% instance_variable_set("@base_data_file", data.duanereade.flexible_template.flexible_template) %>
 <% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 
 <%= @base_pre_header_text %>
@@ -11,7 +11,7 @@
 <% end %>
 
 <% @base_data_file.articles.each do |f| %>
-<% if f["type"]=="product-right-image" || f["type"]=="product-left-image" %>
+<% if f["type"]=="product-right-image" || f["type"]=="product-left-image" || f["type"]=="story-image" || f["type"]=="story-image-no-text" %>
 <%= f["text_img_alt"] %>
 <%= f["promo_btn_url"] %>
 

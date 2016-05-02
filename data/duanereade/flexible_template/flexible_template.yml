@@ -1,4 +1,4 @@
-title: 'BLANK TEMPLATE'
+title: 'FLEXIBLE TEMPLATE'
 
 primary_color: '#ec532b'
 
@@ -6,7 +6,7 @@ logo_img_url: 'images/header-logo.jpg'
 logo_img_alt: 'DuanereadeTM by Walgreens'
 logo_img_link: '#'
 
-hero_img_url: 'images/hero.jpg'
+hero_img_url: 'http://placehold.it/600x300/333333/000000?text=HERO'
 hero_img_alt: "Sun's Out. 3 for the price of 2."
 hero_img_link: '#'
 hero_text: 'Stock up and <b>mix&amp;match</b> select brands of skin and suncare'
@@ -28,18 +28,39 @@ copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holding
 # Loop through articles
 
 articles:
-- img: "images/article-1.jpg"
-  img_alt: "Deal of the week! 2/$6 or 2.99 ea."
-  url: '#'
-- img: "images/article-2.jpg"
-  img_alt: "1.29 each"
-  url : "#"
-- img: "#"
-  img_alt: ''
-  url: '#'
-- img: "#"
-  img_alt: ''
-  url: '#'
+- type: "image"
+  url: "http://www.walgreens.com/topic/brand/boots-beauty.jsp"
+  img: "http://placehold.it/600x300/999999/000000?text=IMAGE"
+  img_alt: "The complete Skincare Set to help mom look and feel beautiful this Mother's Day"
+- type: "product-left-image"
+  text_img_url: "http://placehold.it/300x300/666666/000000?text=product-left-image"
+  text_img_alt: "Look youthful and fresh"
+  promo_text: "<strong>Roc Skin</strong>"
+  promo_btn_url: "http://www.walgreens.com/store/c/skin-care-products/ID=360323-tier2general?exp=A"
+  promo_btn_text: "Shop now &rsaquo;"
+  product_img_url: "http://placehold.it/300x360/333333/000000?text=IMAGE"
+  product_img_alt: "Stay protected from the sun"
+- type: "product-right-image"
+  text_img_url: "http://placehold.it/600x300/999999/000000?text=product-right-image"
+  text_img_alt: "Look youthful and fresh"
+  promo_text: "<strong>Coppertone or Bain de Soleil Sun Care</strong><br />Select varieties."
+  promo_btn_url: "http://www.walgreens.com/store/c/first-aid/ID=360533-tier2general?exp=A"
+  promo_btn_text: "Shop now &rsaquo;"
+  product_img_url: "http://placehold.it/300x360/666666/000000?text=IMAGE"
+  product_img_alt: "Coppertone or Bain de Soleil Sun Care"
+- type: "story-image"
+  img: "http://placehold.it/600x300/999999/000000?text=story-image"
+  img_alt: "Coppertone or Bain de Soleil Sun Care"
+  promo_btn_url: "http://www.walgreens.com/store/c/first-aid/ID=360533-tier2general?exp=A"
+  promo_btn_text: "Shop now &rsaquo;"
+  promo_text: "<strong>Roc Skin</strong>"
+  promo_btn_url: "http://www.walgreens.com/store/c/skin-care-products/ID=360323-tier2general?exp=A"
+  promo_btn_text: "Shop now &rsaquo;"
+- type: "story-image-no-text"
+  img: "http://placehold.it/600x300/333333/000000?text=story-image-no-text"
+  img_alt: "Coppertone or Bain de Soleil Sun Care"
+  promo_btn_url: "http://www.walgreens.com/store/c/first-aid/ID=360533-tier2general?exp=A"
+  promo_btn_text: "Shop now &rsaquo;"
 
 footernav:
 - text: "Beauty"
