@@ -14,6 +14,12 @@
       /* This style block will be inlined when running 'grunt build' and stripped from the header */
 
       /* Resets */
+	  .preHeader {
+		  display: none !important;
+		  color: #ffffff;
+		  background-color: #ffffff;
+	  }
+	  
         .ReadMsgBody {
           width: 100%;
           background-color: #ffffff;
@@ -426,7 +432,7 @@
             <tr>
             	<td valign="top" align="center">
                 <a href="<%=@base_logo_img_link%>">
-            		  <img src="<%=@base_logo_img_url%>" alt="<%=@base_logo_img_alt%>" class="responsive">
+            		  <img src="<%=@base_logo_img_url%>" alt="<%=@base_logo_img_alt%>" title="<%=@base_logo_img_alt%>" class="responsive">
                 </a>
             	</td>
             </tr>
@@ -437,7 +443,7 @@
             <tr bgcolor="<%=@base_primary_color%>">
             	<td valign="top" align="center" class="hero" bgcolor="<%=@base_primary_color%>">
                 <a href="<%=@base_hero_img_link%>">
-                  <img src="<%=@base_hero_img_url%>" alt="<%=@base_hero_img_alt%>" class="responsive">
+                  <img src="<%=@base_hero_img_url%>" alt="<%=@base_hero_img_alt%>" title="<%=@base_hero_img_alt%>" class="responsive">
                 </a>
             	</td>
             </tr>
@@ -453,7 +459,7 @@
                     <tr>
                       <td valign="top" align="left" width="300" class="article-text">
                         <a href="<%= f["promo_btn_url"] %>">
-                          <img src="<%= f["text_img_url"] %>" alt="<%= f["text_img_alt"] %>" class="responsive promo-text">
+                          <img src="<%= f["text_img_url"] %>" alt="<%= f["text_img_alt"] %>" title="<%= f["text_img_alt"] %>" class="responsive promo-text">
                         </a>
                         <div class="promo-text-wrap"><%= f["promo_text"] %></div>
                         <div style="height: 15px;">
@@ -485,7 +491,7 @@
                       </td>
                       <td valign="top" align="right" width="300" class="article-img">
                         <a href="<%= f["promo_btn_url"] %>">
-                          <img src="<%= f["product_img_url"] %>" alt="<%= f["product_img_alt"] %>" class="right-article-image" align="right" width="360">
+                          <img src="<%= f["product_img_url"] %>" alt="<%= f["product_img_alt"] %>" title="<%= f["product_img_alt"] %>" class="right-article-image" align="right" width="360">
                         </a>
                       </td>
                     </tr>
@@ -500,12 +506,12 @@
                     <tr>
                       <td valign="top" align="right" width="300" class="article-img">
                         <a href="<%= f["promo_btn_url"] %>">
-                          <img src="<%= f["product_img_url"] %>" alt="<%= f["product_img_alt"] %>" class="right-article-image" align="right" width="360">
+                          <img src="<%= f["product_img_url"] %>" alt="<%= f["product_img_alt"] %>" title="<%= f["product_img_alt"] %>" class="right-article-image" align="right" width="360">
                         </a>
                       </td>
                       <td valign="top" align="left" width="300" class="article-text">
                         <a href="<%= f["promo_btn_url"] %>">
-                          <img src="<%= f["text_img_url"] %>" alt="<%= f["text_img_alt"] %>" class="responsive promo-text">
+                          <img src="<%= f["text_img_url"] %>" alt="<%= f["text_img_alt"] %>" title="<%= f["text_img_alt"] %>" class="responsive promo-text">
                         </a>
                         <div class="promo-text-wrap"><%= f["promo_text"] %></div>
                         <div style="height: 15px;">
@@ -544,7 +550,7 @@
               <tr>
                 <td valign="top" align="center">
                   <a href="<%= f["promo_btn_url"] %>">
-                    <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" class="responsive">
+                    <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
                   </a>
                 </td>
               </tr>
@@ -628,7 +634,7 @@
               <tr>
                 <td valign="top" align="center">
                   <a href="<%= f["promo_btn_url"] %>">
-                    <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" class="responsive">
+                    <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
                   </a>
                 </td>
               </tr>
@@ -698,7 +704,7 @@
             <tr>
               <td valign="top" align="center">
                 <a href="<%= f["url"] %>">
-                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" class="responsive">
+                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
                 </a>
               </td>
             </tr>
@@ -708,10 +714,15 @@
 
             <!-- Call out -->
 			<% if @base_callout_img_url!='' %>
+              <tr>
+                <td height="10" class="cell-height">
+                  <img src="images/spacer.gif" alt="" height="10" width="1">
+                </td>
+              </tr>
             <tr>
               <td valign="top" class="callout">
                 <a href="<%=@base_callout_img_link%>">
-                  <img src="<%=@base_callout_img_url%>" alt="<%=@base_callout_img_alt%>" class="responsive">
+                  <img src="<%=@base_callout_img_url%>" alt="<%=@base_callout_img_alt%>" title="<%=@base_callout_img_alt%>" class="responsive">
                 </a>
               </td>
             </tr>
@@ -753,7 +764,7 @@
             <td valign="top" align="center" class="social-links">
               <% @base_data_file.socialnav.each do |f| %>
                 <a href="<%= f["link"] %>">
-                  <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" class="responsive">
+                  <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" class="responsive">
                 </a>
               <% end %>
             </td>
