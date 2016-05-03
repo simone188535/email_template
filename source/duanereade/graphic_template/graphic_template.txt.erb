@@ -1,12 +1,12 @@
 <% require 'active_support/all' %>
-<% data.duanereade.dr_042116_Pharmacy.dr_042116_Pharmacy.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<% data.duanereade.graphic_template.graphic_template.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 
 <%= @base_pre_header_text %>
 
 <%=@base_hero_img_alt%>
 <%=@base_hero_img_link%>
 
-<% data.duanereade.dr_042116_Pharmacy.dr_042116_Pharmacy.articles.each do |f| %>
+<% data.duanereade.graphic_template.graphic_template.articles.each do |f| %>
 <% if f["type"]=="product-right-image" || f["type"]=="product-left-image" %>
 <%= f["text_img_alt"] %>
 <%= f["promo_btn_url"] %>
