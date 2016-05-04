@@ -1,0 +1,71 @@
+title: 'Mother’s Day Breakfast In Bed'
+
+primary_color: '#'
+
+pre_header_text: ''
+
+#header images
+logo_img_1: 'images/BLD_MAY_wine_newsletter_VA_DEV_01_01.jpg'
+header_spacer: 'images/BLD_MAY_wine_newsletter_VA_DEV_01_02.jpg'
+header_spacer_2: 'images/BLD_MAY_wine_newsletter_VA_DEV_01_03.jpg'
+find_store_img: 'images/BLD_MAY_wine_newsletter_VA_DEV_01_04.jpg'
+logo_img_2: 'images/BLD_MAY_wine_newsletter_VA_DEV_01_05.jpg'
+my_balduccis_img: 'images/BLD_MAY_wine_newsletter_VA_DEV_01_06.jpg'
+catering_img: 'images/BLD_MAY_wine_newsletter_VA_DEV_01_07.jpg'
+chef_prepared_img: 'images/BLD_MAY_wine_newsletter_VA_DEV_01_08.jpg'
+
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/'
+logo_alt: 'Kings Food Markets'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings'
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/"
+footer_site_img: "images/BLD_MAY_wine_newsletter_VA_DEV_16.jpg"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "images/BLD_MAY_wine_newsletter_VA_DEV_17.jpg"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "images/BLD_MAY_wine_newsletter_VA_DEV_18.jpg"
+footer_twitter_alt: "twitter"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: ''
+  img: 'images/BLD_MAY_wine_newsletter_VA_DEV_09.jpg'
+  img_alt: ''
+- type: 'image'
+  url: ''
+  img: 'images/BLD_MAY_wine_newsletter_VA_DEV_10.jpg'
+  img_alt: ''
+- type: 'image'
+  url: ''
+  img: 'images/BLD_MAY_wine_newsletter_VA_DEV_11.jpg'
+  img_alt: ''
+- type: 'image'
+  url: ''
+  img: 'images/BLD_MAY_wine_newsletter_VA_DEV_12.jpg'
+  img_alt: ''
+- type: 'image'
+  url: ''
+  img: 'images/BLD_MAY_wine_newsletter_VA_DEV_13.jpg'
+  img_alt: ''
+- type: 'image'
+  url: ''
+  img: 'images/BLD_MAY_wine_newsletter_VA_DEV_14.jpg'
+  img_alt: ''
+- type: 'image'
+  url: ''
+  img: 'images/BLD_MAY_wine_newsletter_VA_DEV_15.jpg'
+  img_alt: ''
+
