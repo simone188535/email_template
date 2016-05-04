@@ -1,5 +1,5 @@
 <% require 'active_support/all' %>
-<% instance_variable_set("@base_data_file", data.balduccis.BLD_0504_Wine_Newsletter_Email.BLD_0504_Wine_Newsletter_Email_VA) %>
+<% instance_variable_set("@base_data_file", data.balduccis.BLD_0504_Wine_Newsletter_Email.BLD_0504_Wine_Newsletter_Email_MD) %>
 <% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
@@ -297,6 +297,7 @@
       /*  Media queries */
 
       /* Define all styles in media queries using attribute selectors in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
+
       #VWPLINK {
         background-color: <%=@base_background_color%> !important;
       }
@@ -515,9 +516,6 @@
 				                <a href="<%=@base_footer_site_link%>">
 				            		  <img src="<%=@base_footer_site_img%>" alt="<%=@base_footer_site_alt%>" title="<%=@base_footer_site_alt%>" class="responsive">
 				                </a>
-			            	</td>
-			            	<td valign="top" align="center">
-				                <img src="<%=@base_footer_spacer_img%>" alt="" title="" class="responsive">
 			            	</td>
 			            	<td valign="top" align="center">
 				                <a href="<%=@base_footer_facebook_link%>">
