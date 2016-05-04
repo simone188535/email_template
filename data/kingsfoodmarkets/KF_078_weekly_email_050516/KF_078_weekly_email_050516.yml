@@ -2,32 +2,42 @@ title: 'Mother’s Day Breakfast In Bed'
 
 primary_color: '#'
 
+background_color: '#eae6d6'
+
 pre_header_text: ''
 
 #header
 logo_link: 'http://kingsfoodmarkets.com/'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e97f7b72-ebd3-4fb0-874a-060673b4c8a9.jpg'
 logo_alt: 'Kings Food Markets'
+logo_img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/197e8f52-8d03-4905-a7c0-ba161645b29a.jpg'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7fd5217d-8d28-43fc-bba2-e1f9e92f6402.jpg'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/55eb20d8-1b27-4e22-87fc-374b9cafa84b.jpg'
 store_locator_link: 'http://kingsfoodmarkets.com/store-locator'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9d2f289c-842d-422b-b19f-f7abb3099fc1.jpg'
 store_locator_alt: 'FIND A STORE'
 weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c13a6f27-1c6e-4a9a-b213-0d141c480429.jpg'
 weekly_circular_alt: 'WEEKLY CIRCULAR'
 chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/98a0596b-23b9-4ade-8462-d265c0818010.jpg'
 chef_prepared_alt: 'CHEF PREPARED'
 catering_link: 'http://kingsfoodmarkets.com/catering-by-kings'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c3c3f5db-dbab-41f0-8b61-2225ab17bffe.jpg'
 catering_alt: 'CATERING'
 
 #footer
 footer_site_link: "http://kingsfoodmarkets.com/"
-footer_site_img: "images/KF_weekly_email_050516_R6_34.jpg"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fb76e21c-6519-4aa0-9708-f6dbc2960ae9.jpg"
 footer_site_alt: "www.kingsfoodmarkets.com"
 footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
-footer_facebook_img:  "images/KF_weekly_email_050516_R6_35.jpg"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/db8c3c03-a6f1-4c90-857a-74e3727f7254.jpg"
 footer_facebook_alt: "facebook"
 footer_twitter_link: "https://twitter.com/KingsFoodMkts"
-footer_twitter_img: "images/KF_weekly_email_050516_R6_36.jpg"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/afea9eea-ecc2-439e-bc7a-6868c3f780dd.jpg"
 footer_twitter_alt: "twitter"
 footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
-footer_youtube_img:  "images/KF_weekly_email_050516_R6_37.jpg"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/78017666-6430-4ff7-a500-c6c839acef72.jpg?"
 footer_youtube_alt: "youtube"
 
 
@@ -35,105 +45,102 @@ footer_youtube_alt: "youtube"
 articles:
 - type: "image"
   url: "http://kingsfoodmarkets.com"
-  img: "images/KF_weekly_email_050516_R6_06.jpg"
-  img_alt: "Every Mom is a Queen at Kings<br>Inspiring 80 Years of Making Mom Feel Special"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c562a7e8-91ea-4925-8382-54807a3edc7b.jpg"
+  img_alt: "Every Mom is a Queen at Kings Inspiring 80 Years of Making Mom Feel Special"
 - type: "image"
   url: "http://kingsfoodmarkets.com/unique-recipes"
-  img: "images/KF_weekly_email_050516_R6_10.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c5760fd5-3399-448f-ac4b-a7c3463a7b58.jpg"
   img_alt: "Breakfast In Bed | Kid-Friendly Mother's Day Recipes"
 - type: "image-2-columns"
   url: "http://kingsfoodmarkets.com/unique-recipes"
-  img: "images/KF_weekly_email_050516_R6_11.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b43eb491-ea17-4fb4-84ee-3d4dbe66b473.jpg"
   img_alt: "Maple Date Scones | View Recipe"
   url_2: "http://kingsfoodmarkets.com/unique-recipes"
-  img_2: "images/KF_weekly_email_050516_R6_12.jpg"
-  img_alt_2: "Kid-Friendly Fruit &amp; Yogurt Parfait | View Recipe"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/00c21e74-0cc4-4979-9f2f-3f5bc57ec952.jpg"
+  img_alt_2: "Kid-Friendly Fruit &amp; Yogurt Parfait"
 - type: "image"
   url: "http://www.staceysnacksonline.com/2016/03/maple-date-scones.html"
-  img: "images/KF_weekly_email_050516_R6_13.jpg"
-  img_alt: "Featured Foodie Recipe By Stacy<br>Summit, NJ<br>Kings Shopper and Food Blogger<br>View Blog"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b9fdda22-e11d-49d2-a325-b6786f21292e.jpg"
+  img_alt: "Featured Foodie Recipe By Stacy Summit, NJ Kings Shopper and Food Blogger View Blog"
 - type: "image"
   url: "http://kingsfoodmarkets.com/circular/all_stores/"
-  img: "images/KF_weekly_email_050516_R6_14.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ed7990f7-8cd2-4323-a162-d6e2336f78f8.jpg"
   img_alt: "Market Specials | Easy Breakfast Essentials"
 - type: "image-2-columns"
   url: "http://kingsfoodmarkets.com/circular/all_stores/"
-  img: "images/KF_weekly_email_050516_R6_15.jpg"
-  img_alt: "Kings Fresh Squeezed Orange Juice<br>5.99 EA."
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6ed83c13-bc83-41e6-81ba-ae88e93c581d.jpg"
+  img_alt: "Kings Fresh Squeezed Orange Juice 5.99 EA."
   url_2: "http://kingsfoodmarkets.com/circular/all_stores/"
-  img_2: "images/KF_weekly_email_050516_R6_16.jpg"
-  img_alt_2: "NYC Davidovich Bagels<br/>.89 EA."
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3f52d740-1974-40d0-a980-c79eb94e1b44.jpg"
+  img_alt_2: "NYC Davidovich Bagels .89 EA."
 - type: "image"
   url: "http://kingsfoodmarkets.com/circular/all_stores/"
-  img: "images/KF_weekly_email_050516_R6_17.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8f64af7a-1167-49bc-a9d6-8e65260a9a75.jpg"
   img_alt: "Muffin Of The Month Peach"
 - type: "image"
   url: "http://kingsfoodmarkets.com/circular/all_stores/"
-  img: "images/KF_weekly_email_050516_R6_18.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c619d4ac-5d77-4b1c-8a76-a8fa5a600382.jpg"
   img_alt: "View More Specials"
 - type: "image"
   url: "http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions"
-  img: "images/KF_weekly_email_050516_R6_19.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6b7e52e5-7002-439a-bfe7-bf35ccbad7c9.jpg"
   img_alt: "Chef Prepared | Easy Mother's Day Meal Ideas"
 - type: "image"
   url: http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions
-  img: "images/KF_weekly_email_050516_R6_20.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6b7e52e5-7002-439a-bfe7-bf35ccbad7c9.jpg"
   img_alt: "Our Chefs make Mother's Day brunch and dinner easy with delightful grab-n-go meals. Treat Mom to a Chef Prepared feast on her special day."
 - type: "image"
   url: "http://kingsfoodmarkets.com/circular/all_stores/"
-  img: "images/KF_weekly_email_050516_R6_21.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6b7e52e5-7002-439a-bfe7-bf35ccbad7c9.jpg"
   img_alt: "Classic Gifts | Indulgent Ideas Just For Mom"
 - type: "image-2-columns"
   url: "http://kingsfoodmarkets.com/circular/all_stores/"
-  img: "images/KF_weekly_email_050516_R6_22.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f73fc209-d091-4b0f-a108-7dc5109d7654.jpg"
   img_alt: "Mimosa Blossom Bouquet"
   url_2: "http://kingsfoodmarkets.com/circular/all_stores/"
-  img_2: "images/KF_weekly_email_050516_R6_23.jpg"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/500013a6-1c1b-4b01-ac20-8d329764cd94.jpg"
   img_alt_2: "Kings Chocolate Dipped Strawberries"
 - type: "image"
   url: "http://kingsfoodmarkets.com/circular/all_stores/"
-  img: "images/KF_weekly_email_050516_R6_24.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/500013a6-1c1b-4b01-ac20-8d329764cd94.jpg"
   img_alt: "View More"
 - type: "image"
   url: "http://www.kingsfoodmarkets.com"
-  img: "images/KF_weekly_email_050516_R6_25.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3c183850-1f32-4f55-b037-3deb40f210d4.jpg"
   img_alt: "Foodie Gifts | Perfect For a Culinary Queen"
 - type: "image"
   url: "http://kingsfoodmarkets.com/cooking-studio"
-  img: "images/KF_weekly_email_050516_R6_26.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1b238da7-e668-48ba-90cc-51de618b9031.jpg"
   img_alt: "Does your mom have a passion for cooking? Kings Cooking Studio gift certificates are perfect for learning new recipes and culinary tricks."
 - type: "image"
   url: "http://kingsfoodmarkets.com/in-store-promotions"
-  img: "images/KF_weekly_email_050516_R6_27.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1b238da7-e668-48ba-90cc-51de618b9031.jpg"
   img_alt: "Gift Cards | Kings makes it convenient to get mom a gift she will love. Pick up a gift card to mom's favorite retailer or restaurant."
 - type: "image"
   url: "http://kingsfoodmarkets.com/circular/all_stores/"
-  img: "images/KF_weekly_email_050516_R6_28.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1b238da7-e668-48ba-90cc-51de618b9031.jpg"
   img_alt: "Gluten-Free Goods | May is Celiac Awareness Month"
 - type: "image"
   url: "http://kingsfoodmarkets.com/circular/all_stores/"
-  img: "images/KF_weekly_email_050516_R6_29.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/69aa0268-2c51-4730-8ea5-3df62f689157.jpg"
   img_alt: "Kings makes it easier to follow a gluten-free lifestyle with our wide variety of high-quality gluten-free products."
 - type: "image"
   url: "http://kingsfoodmarkets.com/circular/all_stores/"
-  img: "images/KF_weekly_email_050516_R6_30.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/16cbb1ee-36f3-49f8-a964-acff6cd80068.jpg"
   img_alt: "View More"
 - type: "image"
   url: "http://kingsfoodmarkets.com"
-  img: "images/KF_weekly_email_050516_R6_31.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/16cbb1ee-36f3-49f8-a964-acff6cd80068.jpg"
   img_alt: "What's New In Store"
 - type: "image"
   url: "http://kingsfoodmarkets.com"
-  img: "images/KF_weekly_email_050516_R6_32.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/16cbb1ee-36f3-49f8-a964-acff6cd80068.jpg"
   img_alt: "Save $5 - National Apple Pie Day! | Join us in-store on May 13 as we celebrate National Apple Pie Day. Stop in for a free sample, and SAVE $5 on a delicious Kings Apple Pie!"
 - type: "image"
   url: "http://kingsfoodmarkets.com/circular/all_stores/"
-  img: "images/KF_weekly_email_050516_R6_33.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0f3ea79b-86f3-47d5-a422-e94c7b751740.jpg"
   img_alt: "Fresh Shrimp For The Grill | Perfect for grilling, our Fresh Shrimp Skewers feature colossal fresh water shrimp, full of flavor and ready to eat in minutes."
 - type: "image"
   url: "http://kingsfoodmarkets.com"
-  img: "images/KF_weekly_email_050516_R6_38.jpg"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/49472d46-3c9a-4c55-b13c-831b0480b088.jpg"
   img_alt: ""
-
-
-
