@@ -1,0 +1,83 @@
+title: 'Wine &amp; Dine Mom This Weekend!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header images
+logo_img_1: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5d747058-6fab-4d3f-8668-dd9dfa12a2de.jpg'
+header_spacer: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ef730917-53a8-4cca-916d-dfc41d8a8580.jpg'
+header_spacer_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8f274537-759a-4495-a033-a74d9345fb7b.jpg'
+find_store_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c424b4a4-8b7a-4e8a-a03c-557e9577a610.jpg'
+logo_img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ba4ff8a2-c2c0-4ae6-b1b2-27bd79fc5a5b.jpg'
+my_balduccis_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a2529378-0123-4c7a-a07d-0264eb6bc431.jpg'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/16416777-4213-4f38-bb38-18194cff1ef2.jpg'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ff84ac6a-7adf-4698-87fb-7b81902493d1.jpg'
+
+
+#header
+logo_link: 'http://balduccis.com/'
+logo_alt: 'Balducci&#39;s Food Lover&#39;s Market'
+store_locator_link: 'http://www.balduccis.com/locations'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.balduccis.com/catering/'
+weekly_circular_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://www.balduccis.com/rewards/overview'
+catering_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://balduccis.com/"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eb641594-82d7-42ae-84d0-828f0cd6d72f.jpg"
+footer_site_alt: "www.balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8c139cb2-ab8d-4fc2-bfb5-8e48762bcb36.jpg"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/76ff2ac1-b142-4e13-b6db-56facbc4a06f.jpg"
+footer_twitter_alt: "twitter"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b6897191-4dbd-42bd-b3b3-bec6f0e61b1a.jpg'
+  img_alt: 'WINE NEWSLETTER MAY 2016'
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/39ad7d2d-e568-4625-888a-99c8365457a8.jpg'
+  img_alt: 'May Wine & Food Event Spring Wines for Mother&#39;s Day Saturday May 7, 2016 Food Tasting: 12pm-5pm Wine Tasting: 2pm-5pm Featuring Spring Wines Ros&eacute; Wines Extreme Value Wines Save 25% - Mix & Match 12 Bottles or More. Must Have Wines. Spring has sprung! Looking forward to warmer days and evenings outside, our attentions turn to ros&eacute; wines—the oenophile&#39;s harbinger of spring...'
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ae6e91e-048d-4cd5-87eb-79048b7b452b.jpg'
+  img_alt: '"New Top Pick: Balducci&#39;s Ros&eacute; 2015 $14.99/btl Produced by Anton Bauer, this special bottling ros&eacute; was drawn from his best lots of the spectacular 2015 vintage. It is simply bursting with fresh fruit flavors of red berries and springtime.'
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8108fefa-c5fa-4830-9414-5af820ba0113.jpg'
+  img_alt: 'Whispering Angel Ros&eacute; 2015
+$24.99/BTL
+Save $5: $19.99 with Member Rewards 5/13 – 6/2
+An irresistible pink! Charming, refreshing, refined, and with plenty of enticing, strawberry and berry fruit. This ros&eacute; should be in everyone&#39;s cellars this spring and summer, without exception.'
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8edea0d-1981-4032-adc7-e0145d0d6db5.jpg'
+  img_alt: 'Cherrier Le Chailloux Ros&eacute; 2015
+$24.99/BTL
+This ros&eacute; of pinot noir displays zesty red fruit flavors of currants and raspberries, and pairs well with robust dishes such as seared tuna or other fish.
+-The Washington Post'
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2f14b62d-ec0a-4153-851a-b13eff5ba77b.jpg'
+  img_alt: 'Dragon Provence Ros&eacute; 2015
+$14.99/BTL
+This perennial favorite is a scintillating wine with strawberry, raspberry and herbal flavors. If you don&#39;t believe a pale ros&eacute; can be complex, try this one.
+-The Washington Post'
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/64d74015-a591-4b33-aca1-49ed6fa63c15.jpg'
+  img_alt: 'Le Petit Balthazar Cinsault Ros&eacute; 2014
+$9.99/BTL
+Our most popular ros&eacute; for the last two years, it offers notes of bracing cantaloupe and watermelon alongside aromatic herbs. Celebrate summer with this wine as if you were already at the beach.'
