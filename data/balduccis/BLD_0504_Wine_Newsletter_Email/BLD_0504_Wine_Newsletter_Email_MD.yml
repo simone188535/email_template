@@ -1,0 +1,71 @@
+title: 'Mother’s Day Breakfast In Bed'
+
+primary_color: '#'
+
+pre_header_text: ''
+
+#header images
+logo_img_1: 'images/BLD_MAY_wine_newsletter_MD_DEV_01.jpg'
+header_spacer: 'images/BLD_MAY_wine_newsletter_MD_DEV_02.jpg'
+header_spacer_2: 'images/BLD_MAY_wine_newsletter_MD_DEV_03.jpg'
+find_store_img: 'images/BLD_MAY_wine_newsletter_MD_DEV_04.jpg'
+logo_img_2: 'images/BLD_MAY_wine_newsletter_MD_DEV_05.jpg'
+my_balduccis_img: 'images/BLD_MAY_wine_newsletter_MD_DEV_06.jpg'
+catering_img: 'images/BLD_MAY_wine_newsletter_MD_DEV_07.jpg'
+chef_prepared_img: 'images/BLD_MAY_wine_newsletter_MD_DEV_08.jpg'
+
+
+#header
+logo_link: 'http://balduccis.com'
+logo_alt: 'Balduccis'
+store_locator_link: 'http://www.balduccis.com/locations'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.balduccis.com/rewards/overview'
+weekly_circular_alt: 'myBALDUCCI'S'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://www.balduccis.com/catering'
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://www.balduccis.com/"
+footer_site_img: "images/BLD_MAY_wine_newsletter_MD_DEV_16.jpg"
+footer_site_alt: "www.balduccis.com"
+footer_spacer_img: "images/BLD_MAY_wine_newsletter_MD_DEV_17.jpg"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "images/BLD_MAY_wine_newsletter_MD_DEV_18.jpg"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "images/BLD_MAY_wine_newsletter_MD_DEV_19.jpg"
+footer_twitter_alt: "twitter"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: ''
+  img: 'images/BLD_MAY_wine_newsletter_VA_DEV_09.jpg'
+  img_alt: ''
+- type: 'image'
+  url: ''
+  img: 'images/BLD_MAY_wine_newsletter_MD_DEV_10.jpg'
+  img_alt: ''
+- type: 'image'
+  url: ''
+  img: 'images/BLD_MAY_wine_newsletter_MD_DEV_11.jpg'
+  img_alt: ''
+- type: 'image'
+  url: ''
+  img: 'images/BLD_MAY_wine_newsletter_MD_DEV_12.jpg'
+  img_alt: ''
+- type: 'image'
+  url: ''
+  img: 'images/BLD_MAY_wine_newsletter_MD_DEV_13.jpg'
+  img_alt: ''
+- type: 'image'
+  url: ''
+  img: 'images/BLD_MAY_wine_newsletter_MD_DEV_14.jpg'
+  img_alt: ''
+- type: 'image'
+  url: ''
+  img: 'images/BLD_MAY_wine_newsletter_MD_DEV_15.jpg'
+  img_alt: ''
