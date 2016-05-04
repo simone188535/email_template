@@ -19,7 +19,7 @@
 		  color: #ffffff;
 		  background-color: #ffffff;
 	  }
-	  
+
         .ReadMsgBody {
           width: 100%;
           background-color: #ffffff;
@@ -298,6 +298,9 @@
 
       /* Define all styles in media queries using attribute selectors in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
 
+      #VWPLINK {
+        background-color: <%=@base_background_color%> !important;
+      }
 
       @media screen and (max-width: 599px) {
 
@@ -398,7 +401,7 @@
       }
     </style>
   </head>
-  <body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
+  <body bgcolor="<%=@base_background_color%>" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
       <!--
       Responsive framework: Antwort v1.0 - https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0)
 
@@ -410,7 +413,7 @@
     -->
 
      <!-- 100% background wrapper -->
-<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="<%=@base_background_color%>">
     <tr>
       <td>
         <!-- 600px container -->
@@ -489,7 +492,7 @@
 			                <a href="<%= f["url"] %>">
 			                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
 			                </a>
-						  	
+
 						  </td>
 						  <td>
 			                <a href="<%= f["url_2"] %>">
