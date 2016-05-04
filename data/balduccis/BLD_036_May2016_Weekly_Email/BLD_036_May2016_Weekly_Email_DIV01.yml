@@ -1,18 +1,20 @@
-title: 'Mother’s Day Breakfast In Bed'
+title: 'Bright and Bubbly Brunch Ideas'
 
 primary_color: '#'
+
+background_color: '#f6f5f3'
 
 pre_header_text: ''
 
 #header images
-logo_img_1: 'images/BLD_034_weekly_email_0506_DIV01_DEV_01.jpg'
-header_spacer: 'images/BLD_034_weekly_email_0506_DIV01_DEV_02.jpg'
-header_spacer_2: 'images/BLD_034_weekly_email_0506_DIV01_DEV_03.jpg'
-find_store_img: 'images/BLD_034_weekly_email_0506_DIV01_DEV_04.jpg'
-logo_img_2: 'images/BLD_034_weekly_email_0506_DIV01_DEV_05.jpg'
-my_balduccis_img: 'images/BLD_034_weekly_email_0506_DIV01_DEV_06.jpg'
-catering_img: 'images/BLD_034_weekly_email_0506_DIV01_DEV_07.jpg'
-chef_prepared_img: 'images/BLD_034_weekly_email_0506_DIV01_DEV_08.jpg'
+logo_img_1: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/29c38060-5d1a-4dae-b6bb-21bddc10c381.jpg'
+header_spacer: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a75ecd5b-4457-4706-b849-34721d1dfa26.jpg'
+header_spacer_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f091828c-94d2-4c5e-9b6d-f63b26671773.jpg'
+find_store_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2ef8a9a0-cca2-451b-ba32-5ca37a7555aa.jpg'
+logo_img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/67baab2b-df96-407d-bedb-47a25e12e32b.jpg'
+my_balduccis_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/21ee96a3-2a9a-4cb2-a5a4-dabaca425b7f.jpg'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/41597ee7-d6ce-44e9-871a-f695c670dae4.jpg'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b22f8e83-8ab7-410e-8ad0-a3fc202de8de.jpg'
 
 
 #header
@@ -44,13 +46,13 @@ articles:
 
 - type: 'image'
   url: 'http://balduccis.com'
-  img: 'images/BLD_034_weekly_email_0506_DIV01_DEV_09.jpg'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2320ee40-8c05-4032-9ffa-234c6682daa0.jpg?ver=1462379428000'
   img_alt: 'GOURMET REWARDS CLUB'
 
 - type: 'image'
   url: 'http://www.balduccis.com'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1f9d241f-a465-40a0-b6e6-c2292e7ad855.jpg'
-  img_alt: 'Pampering Picks for Mom Explore a world of inspiring ideas to pamper Mom on her special day'
+  img_alt: 'Pampering Picks for Mom Explore a world of inspiring ideas to pamper Mom on her special day. Pick Up In Store - Copenhagen Bouquet'
 
 - type: 'image'
   url: 'http://www.balduccis.com'
@@ -93,7 +95,7 @@ articles:
   img_alt: 'Chocolatier Gift Basket The ultimate chocolate lover&#39;s gift: a combination of little Baci kisses, Balducci&#39;s decadent chocolates and divine international chocolate delights. Order Now'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/catering/mothers_day/entrees'
+  url: 'http://www.balduccis.com/catering/mothers_day'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/04b083f1-137d-4a5a-b846-a05b2309988a.jpg'
   img_alt: 'Order Now | Catered Dinner & Dessert'
 
@@ -124,7 +126,7 @@ articles:
 - type: 'image'
   url: 'http://www.balduccis.com/news_events/wine_events'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1f0a58d7-4b22-421f-878a-b19a235ee31a.jpg'
-  img_alt: 'New! Balducci#39;s Ros&eacute; Our specially bottled Ros&eacute; is bursting with springtime floral notes and fresh fruits, including red berries.'
+  img_alt: 'New! Balducci#39;s Ros&eacute; Our specially bottled Ros&eacute; is bursting with springtime floral notes and fresh fruits, including red berries. New! Balducci#39;s Chenin Blanc Packed with upfront melon fruit, the nose charms with an abundance of guava and gooseberries as well as the signature hint of honey.'
 - type: 'image'
   url: 'http://www.balduccis.com/news_events/wine_events'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/167cf188-2f79-4712-993e-3c74bdd96e1a.jpg'
