@@ -4,15 +4,15 @@ primary_color: '#d30f8b'
 
 pre_header_text: 'Buy one sun care product; get another half-off at Duane Reade'
 
-logo_img_url: 'images/header-logo.jpg'
+logo_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/86261_DR_Week2_051016_Beauty_1B_01.jpg'
 logo_img_alt: 'DuanereadeTM by Walgreens'
 logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
 
-hero_img_url: 'images/86261_DR_Week2_051016_Beauty_1B_02.jpg'
-hero_img_alt: "Keep everyone proteted this summer"
+hero_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/86261_DR_Week2_051016_Beauty_1B_02.jpg'
+hero_img_alt: "Keep everyone protected this summer"
 hero_img_link: 'http://www.walgreens.com/suncare'
 
-callout_img_url: 'images/86261_DR_Week2_051016_Beauty_1B_06.jpg'
+callout_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/86261_DR_Week2_051016_Beauty_1B_06.jpg'
 callout_img_alt: 'Get the App'
 callout_img_link: 'http://walgreens.com/mobile'
 
@@ -29,14 +29,14 @@ copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holding
 
 articles:
 - type: "story-image"
-  img: "images/86261_DR_Week2_051016_Beauty_1B_03.jpg"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86261_DR_Week2_051016_Beauty_1B_03.jpg"
   img_alt: "Buy One Get One 50% off Sun Care"
   promo_btn_url: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
   promo_btn_text: "Shop ad &rsaquo;"
   promo_text: "<strong>with card Sun Care</strong> Selection may vary by store.  Excludes Sally Hansen Airbrush Legs."
 - type: "image"
   url: ""
-  img: "images/86261_DR_Week2_051016_Beauty_1B_05.jpg"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86261_DR_Week2_051016_Beauty_1B_05.jpg"
   img_alt: ""
 
 footernav:
@@ -54,12 +54,14 @@ footernav:
   sep: ""
 
 socialnav:
-- img: "images/fb-link.jpg"
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/051016_Beauty_fb-link.jpg"
   link: "https://www.facebook.com/duanereade"
   alt: "Facebook"
-- img: "images/tw-link.jpg"
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/051016_Beauty_tw-link.jpg"
   link: "https://twitter.com/DuaneReade"
   alt: "Twitter"
-- img: "images/site-link.jpg"
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/051016_Beauty_site-link.jpg"
   link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
   alt: "Duanereade"
+
+  spacer_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/051016_Beauty_spacer.gif'
