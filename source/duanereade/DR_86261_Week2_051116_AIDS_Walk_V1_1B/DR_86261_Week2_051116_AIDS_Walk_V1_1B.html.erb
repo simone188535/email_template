@@ -19,6 +19,10 @@
 		  color: #ffffff;
 		  background-color: #ffffff;
 	  }
+	  
+	  .nobackground {
+          background-color: #ffffff;
+	  }
 
         .ReadMsgBody {
           width: 100%;
@@ -419,36 +423,24 @@
 					<td valign="top" align="center" class="preheader-text">
             <table border="0" width="100%" cellpadding="0" cellspacing="0">
               <tr>
-                <td width="10"><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="10"></td>
-                <td valign="top" align="left" class="preheader-text">
+                <td width="10" class="nobackground"><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="10"></td>
+                <td valign="top" align="left" class="preheader-text" class="nobackground">
                   <span class="preHeader"><%= @base_pre_header_text %></span>
                 </td>
-                <td width="10"><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="10"></td>
+                <td width="10" class="nobackground"><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="10"></td>
               </tr>
             </table>
           </td>
 			</tr>
             <!-- Header logo -->
             <tr>
-            	<td valign="top" align="center">
+            	<td valign="top" align="center" class="nobackground">
                 <a href="<%=@base_logo_img_link%>">
             		  <img src="<%=@base_logo_img_url%>" alt="<%=@base_logo_img_alt%>" title="<%=@base_logo_img_alt%>" class="responsive">
                 </a>
             	</td>
             </tr>
             <!-- /Header logo -->
-
-            <!-- Hero -->
-			<% if @base_hero_img_url!=''%>
-            <tr bgcolor="<%=@base_primary_color%>">
-            	<td valign="top" align="center" class="hero" bgcolor="<%=@base_primary_color%>">
-                <a href="<%=@base_hero_img_link%>">
-                  <img src="<%=@base_hero_img_url%>" alt="<%=@base_hero_img_alt%>" title="<%=@base_hero_img_alt%>" class="responsive">
-                </a>
-            	</td>
-            </tr>
-			<% end %>
-            <!-- /Hero -->
 
             <!-- Articles -->
             <% @base_data_file.articles.each do |f| %>
@@ -702,7 +694,7 @@
             <% end %>
 			<% if f["type"]== "image" %>
             <tr>
-              <td valign="top" align="center">
+              <td valign="top" align="center" class="nobackground">
                 <a href="<%= f["url"] %>">
                   <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
                 </a>
