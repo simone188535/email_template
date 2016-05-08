@@ -440,8 +440,8 @@
 
             <!-- Hero -->
 			<% if @base_hero_img_url!=''%>
-            <tr bgcolor="<%=@base_primary_color%>">
-            	<td valign="top" align="center" class="hero" bgcolor="<%=@base_primary_color%>">
+            <tr bgcolor="#ffffff">
+            	<td valign="top" align="center" class="hero" bgcolor="#ffffff">
                 <a href="<%=@base_hero_img_link%>">
                   <img src="<%=@base_hero_img_url%>" alt="<%=@base_hero_img_alt%>" title="<%=@base_hero_img_alt%>" class="responsive">
                 </a>
@@ -588,9 +588,9 @@
 
                              <center>
                                 <div class="button-outer-wrap button-promo-wrap"><!--[if mso]>
-                                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
+                                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
                                     <w:anchorlock/>
-                                    <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%=@base_hero_btn_text%></center>
+                                    <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%= f["promo_btn_text"] %></center>
                                   </v:rect>
                                 <![endif]-->
                                 <!--[if !mso]><!-- -->
@@ -658,9 +658,9 @@
 
                              <center>
                                 <div class="button-outer-wrap button-promo-wrap"><!--[if mso]>
-                                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
+                                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
                                     <w:anchorlock/>
-                                    <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%=@base_hero_btn_text%></center>
+                                    <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%= f["promo_btn_text"] %></center>
                                   </v:rect>
                                 <![endif]-->
                                 <!--[if !mso]><!-- -->
@@ -683,8 +683,6 @@
                            </td>
                          </tr>
                        </table>
-                       <!--[if mso]></td></tr></table><![endif]-->
-
                     </td>
                     <td width="30">
                         <img src="<%=@base_spacer_img_url%>" alt="" height="1" width="30">
