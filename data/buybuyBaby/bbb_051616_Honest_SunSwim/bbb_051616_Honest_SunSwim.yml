@@ -1,0 +1,64 @@
+title: ''
+
+primary_color: '#ffffff'
+
+pre_header_text: ''
+
+header_instore_link: 'http://www.buybuybaby.com/store/static/reserveonline?mcid=EM_Promo_201605_Graco4ever_NoOffer'
+header_instore_img: "images/in_store.jpg"
+header_instore_alt: "in-store pick-up reserve online pay in-store learn more &#62;"
+
+header_logo_link: 'http://www.buybuybaby.com/store?mcid=EM_Promo_201605_Graco4ever_NoOffer'
+header_logo_img: "images/logo.jpg"
+header_logo_alt: "buybuy Baby Logo"
+
+header_registry_link: 'http://www.buybuybaby.com/store/page/BabyRegistry?mcid=EM_Promo_201605_Graco4ever_NoOffer'
+header_registry_img: "images/baby_reg.jpg"
+header_registry_alt: "baby registry logo"
+
+top_nav_whatsnew_link: "http://www.buybuybaby.com/store/category/whats-new/30008?mcid=EM_Promo_201605_Graco4ever_NoOffer"
+top_nav_whatsnew_img: "images/whats_new.jpg"
+top_nav_whatsnew_alt: "what&#39;s new"
+
+top_nav_shop_link: "http://www.buybuybaby.com/store/page/brands?mcid=EM_Promo_201605_Graco4ever_NoOffer"
+top_nav_shop_img: "images/shop_brand.jpg"
+top_nav_shop_alt: "shop by brand"
+
+top_nav_clearance_link: "http://www.buybuybaby.com/store/category/clearance/30010/?mcid=EM_Promo_201605_Graco4ever_NoOffer"
+top_nav_clearance_img: "images/clearance.jpg"
+top_nav_clearance_alt: "clearance"
+
+footer_text: '<sup>*</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any other offers.<br><br>Offers Good Sun. XX/XX - Sat. XX/XX/XX. <sup>**</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any  other offers. Excludes instant, collage prints and prints from film. Of Equal or lesser price, mix and match. Good Sun. XX/XX thru Sat. 02/13/16. &Dagger;Valid in select stores. See associate for details.<br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents")  are provided strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding any questions you may have about a medical condition. Reliance on any of the contents is solely at your own risk. Duane Reade does not guarantee the applicability or accuracy of any  information mentioned in the Contents.<br><br>'
+
+unsubscribe_link: '#'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: '#'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 1000'
+
+# Loop through articles
+
+articles:
+- type: "image"
+  url: "http://www.buybuybaby.com/store/static/ShippingPolicies?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+  img: "images/bbB_152_051616_Honest_Sun_&_Swim_v3_r6_DEV_03.jpg"
+  img_alt: "FREE SHIPPING on orders over $99. Limited time! view details > "
+
+
+socialnav:
+- link: "http://www.facebook.com/buybuyBABY?mcid=EM_Promo_201605_Graco4ever_NoOffer"
+  img: "images/facebook.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby?mcid=EM_Promo_201605_Graco4ever_NoOffer"
+  img: "images/twitter.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby?mcid=EM_Promo_201605_Graco4ever_NoOffer"
+  img: "images/pinterest.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby?mcid=EM_Promo_201605_Graco4ever_NoOffer"
+  img: "images/youtube.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby?mcid=EM_Promo_201605_Graco4ever_NoOffer"
+  img: "images/instagram.jpg"
+  alt: "Instagram logo"
