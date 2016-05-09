@@ -1,34 +1,34 @@
-title: ''
+title: 'Worry-free fun in the sun'
 
 primary_color: '#ffffff'
 
-pre_header_text: ''
+pre_header_text: 'Worry-free fun in the sun'
 
-header_instore_link: 'http://www.buybuybaby.com/store/static/reserveonline?mcid=EM_Promo_201605_Graco4ever_NoOffer'
+header_instore_link: 'http://www.buybuybaby.com/store/brand/chicco/436/1-48?mcid=EM_Promo_201605_HonestSwimSun_NoOffer'
 header_instore_img: "images/in_store.jpg"
-header_instore_alt: "in-store pick-up reserve online pay in-store learn more &#62;"
+header_instore_alt: "Worry-free fun in the sun"
 
-header_logo_link: 'http://www.buybuybaby.com/store?mcid=EM_Promo_201605_Graco4ever_NoOffer'
+header_logo_link: 'http://www.buybuybaby.com/store?mcid=EM_Promo_201605_HonestSwimSun_NoOffer'
 header_logo_img: "images/logo.jpg"
 header_logo_alt: "buybuy Baby Logo"
 
-header_registry_link: 'http://www.buybuybaby.com/store/page/BabyRegistry?mcid=EM_Promo_201605_Graco4ever_NoOffer'
+header_registry_link: 'http://www.buybuybaby.com/store/page/BabyRegistry?mcid=EM_Promo_201605_HonestSwimSun_NoOffer'
 header_registry_img: "images/baby_reg.jpg"
 header_registry_alt: "baby registry logo"
 
-top_nav_whatsnew_link: "http://www.buybuybaby.com/store/category/whats-new/30008?mcid=EM_Promo_201605_Graco4ever_NoOffer"
+top_nav_whatsnew_link: "http://www.buybuybaby.com/store/category/whats-new/30008/?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
 top_nav_whatsnew_img: "images/whats_new.jpg"
 top_nav_whatsnew_alt: "what&#39;s new"
 
-top_nav_shop_link: "http://www.buybuybaby.com/store/page/brands?mcid=EM_Promo_201605_Graco4ever_NoOffer"
+top_nav_shop_link: "http://www.buybuybaby.com/store/page/brands?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
 top_nav_shop_img: "images/shop_brand.jpg"
 top_nav_shop_alt: "shop by brand"
 
-top_nav_clearance_link: "http://www.buybuybaby.com/store/category/clearance/30010/?mcid=EM_Promo_201605_Graco4ever_NoOffer"
+top_nav_clearance_link: "http://www.buybuybaby.com/store/category/clearance/30010/?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
 top_nav_clearance_img: "images/clearance.jpg"
 top_nav_clearance_alt: "clearance"
 
-footer_text: '<sup>*</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any other offers.<br><br>Offers Good Sun. XX/XX - Sat. XX/XX/XX. <sup>**</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any  other offers. Excludes instant, collage prints and prints from film. Of Equal or lesser price, mix and match. Good Sun. XX/XX thru Sat. 02/13/16. &Dagger;Valid in select stores. See associate for details.<br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents")  are provided strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding any questions you may have about a medical condition. Reliance on any of the contents is solely at your own risk. Duane Reade does not guarantee the applicability or accuracy of any  information mentioned in the Contents.<br><br>'
+footer_text: ''
 
 unsubscribe_link: '#'
 unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
@@ -38,12 +38,66 @@ privacy_text: 'Privacy Policy'
 copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 1000'
 
 # Loop through articles
-
 articles:
 - type: "image"
+  img: "images/bbB_152_051616_Honest_Sun_Swim_v3_r6_DEV_02.jpg"
+  img_alt: "FREE SHIPPING on orders over $99. Limited time! view details >"
   url: "http://www.buybuybaby.com/store/static/ShippingPolicies?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
-  img: "images/bbB_152_051616_Honest_Sun_&_Swim_v3_r6_DEV_03.jpg"
-  img_alt: "FREE SHIPPING on orders over $99. Limited time! view details > "
+
+- type: "image"
+  img: "images/bbB_152_051616_Honest_Sun_Swim_v3_r6_DEV_03.jpg"
+  img_alt: "swim on! Honest® reusable swim diapers are the perfect fit. Ultra light design and premium fit get rid of bulky bottoms. Swim Diaper Available prints: Pink Splash, Blue Fish, Green Jungle, & White Starfish 13.99 each shop now >"
+  url: "http://www.buybuybaby.com/store/s/honest-swim-diaper?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+
+- type: "image"
+  img: "images/bbB_152_051616_Honest_Sun_Swim_v3_r6_DEV_04.gif"
+  img_alt: "hypoallergenic sun protection hydrates your baby's sensitive skin without leaving residue Mineral Sunscreen Lotion SPF 50 13.99"
+  url: ""
+
+- type: "image"
+  img: "images/bbB_152_051616_Honest_Sun_Swim_v3_r6_DEV_05.jpg"
+  img_alt: "unscented, compact-sized sunscreen stick is safe, gentle, & perfect for travel Mineral Sunscreen Stick 9.99 Spend need more stuff? $99 & get FREE SHIPPING"
+  url: ""
+
+- type: "image"
+  img: "images/bbB_152_051616_Honest_Sun_Swim_v3_r6_DEV_06.jpg"
+  img_alt: "shop all Honest®"
+  url: "http://www.buybuybaby.com/store/brand/the-honest-company/2084/1-48?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+
+- type: "image"
+  img: "images/bbB_152_051616_Honest_Sun_Swim_v3_r6_DEV_07.jpg"
+  img_alt: "You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find-store option for easy pick-up. Prices valid only in contiguous United States."
+  url: ""
+
+- type: "image"
+  img: "images/bbB_152_051616_Honest_Sun_Swim_v3_r6_DEV_08.jpg"
+  img_alt: more to shop from Honest®""
+  url: ""
+
+- type: "image-3-columns"
+  img: "images/bbB_152_051616_Honest_Sun_Swim_v3_r6_DEV_09.jpg"
+  img_alt: "bodywash & soap >"
+  url: "http://www.buybuybaby.com/store/category/bath-potty/body-hair-care/bodywash-soap/32555/32555-4294965885-4294783237/?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+  img_2: "images/bbB_152_051616_Honest_Sun_Swim_v3_r6_DEV_10.jpg"
+  img_alt_2: "laundry care >"
+  url_2: "http://www.buybuybaby.com/store/category/bath-potty/the-laundry-shop/laundry-detergent-accessories/32413/32413-4294965885-4294783237/?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+  img_3: "images/bbB_152_051616_Honest_Sun_Swim_v3_r6_DEV_11.jpg"
+  img_alt_3: "cleaning >"
+  url_3: "http://www.buybuybaby.com/store/category/health-safety/cleaning/32530/32530-4294965885-4294783237/1-48?pagSortOpt=DEFAULT-0&view=grid&refType=true?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+
+- type: "image"
+  img: "images/bbB_152_051616_Honest_Sun_Swim_v3_r6_DEV_12.jpg"
+  img_alt: "$buybuy BABY Gift Card with purchase of 15 Plum® Organics baby food pouches. shop now >"
+  url: "http://www.buybuybaby.com/store/brand/plum-organics/857/1-48?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+
+- type: "image-2-columns"
+  img: "images/bbB_152_051616_Honest_Sun_Swim_v3_r6_DEV_13.jpg"
+  img_alt: "add a personal touch start personalizing >"
+  url: "http://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/32754/?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+  img_2: "images/bbB_152_051616_Honest_Sun_Swim_v3_r6_DEV_14.jpg"
+  img_alt_2: "bring safety outdoors this spring shop now >"
+  url_2: "http://www.buybuybaby.com/store/category/health-safety/baby-gates/free-standing-gates/32488?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+
 
 
 socialnav:
