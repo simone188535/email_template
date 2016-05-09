@@ -1,6 +1,5 @@
 <% require 'active_support/all' %>
-<% instance_variable_set("@base_data_file", data.buybuyBaby.bbb_051616_Honest_SunSwim.bbb_051616_Honest_SunSwim)%>
-<% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<% data.buybuyBaby.bbb_051616_Honest_SunSwim.bbb_051616_Honest_SunSwim.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
   <head>
@@ -19,7 +18,6 @@
 		  color: #ffffff;
 		  background-color: #ffffff;
 	  }
-
         .ReadMsgBody {
           width: 100%;
           background-color: #ffffff;
@@ -415,28 +413,41 @@
       <td>
         <!-- 600px container -->
         <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
-			<tr>
-					<td valign="top" align="center" class="preheader-text">
-            <table border="0" width="100%" cellpadding="0" cellspacing="0">
-              <tr>
-                <td width="10"><img src="images/spacer.gif" alt="" height="1" width="10"></td>
-                <td valign="top" align="left" class="preheader-text">
-                  <span class="preHeader"><%= @base_pre_header_text %></span>
-                </td>
-                <td width="10"><img src="images/spacer.gif" alt="" height="1" width="10"></td>
-              </tr>
-            </table>
-          </td>
-			</tr>
+
+		</tr>
             <!-- Header logo -->
             <tr>
             	<td valign="top" align="center">
-                <a href="<%=@base_logo_img_link%>">
-            		  <img src="<%=@base_logo_img_url%>" alt="<%=@base_logo_img_alt%>" title="<%=@base_logo_img_alt%>" class="responsive">
-                </a>
+					 <table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+					        <tr>
+					                <td>
+					                        <a href="<%= @base_header_instore_link %>">
+					                                <img src="<%= @base_header_instore_img %>" class="responsive" alt="<%= @base_header_instore_alt %>"></a></td>
+					                <td>
+					                        <a href="<%= @base_header_logo_link %>">
+					                                <img src="<%= @base_header_logo_img %>" class="responsive" alt="<%= @base_header_logo_alt %>"></a></td>
+					                <td>
+					                        <a href="<%= @base_header_registry_link %>">
+					                                <img src="<%= @base_header_registry_img %>" class="responsive" alt="<%= @base_header_registry_alt %>"></a></td>
+					        </tr>
+                      </table>
+					  <table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
+					        <tr>
+					                <td>
+					                        <a href="<%= @base_top_nav_whatsnew_link %>">
+					                                <img src="<%= @base_top_nav_whatsnew_img %>" class="responsive" alt="<%= @base_top_nav_whatsnew_alt %>"></a></td>
+					                <td>
+					                        <a href="<%= @base_top_nav_shop_link %>">
+					                                <img src="<%= @base_top_nav_shop_img %>" class="responsive" alt="<%= @base_top_nav_shop_alt %>"></a></td>
+					                <td>
+					                        <a href="<%= @base_top_nav_clearance_link %>">
+					                                <img src="<%= @base_top_nav_clearance_img %>" class="responsive" alt="<%= @base_top_nav_clearance_alt %>"></a></td>
+					        </tr>
+					</table>
             	</td>
             </tr>
             <!-- /Header logo -->
+
 
             <!-- Hero -->
 			<% if @base_hero_img_url!=''%>
@@ -451,7 +462,7 @@
             <!-- /Hero -->
 
             <!-- Articles -->
-            <% @base_data_file.articles.each do |f| %>
+            <% data.buybuyBaby.bbb_051616_Honest_SunSwim.bbb_051616_Honest_SunSwim.articles.each do |f| %>
 			<% if f["type"]=="product-right-image" %>
               <tr>
                 <td valign="top" align="left">
@@ -738,7 +749,7 @@
           </tr>
           <tr bgcolor="#000000">
             <td valign="top" align="center" class="footer-nav" bgcolor="#000000">
-              <% @base_data_file.footernav.each do |f| %><a class="footer-nav-link" href="<%= f["link"] %>">
+              <% @data.buybuyBaby.bbb_051616_Honest_SunSwim.bbb_051616_Honest_SunSwim.footernav.each do |f| %><a class="footer-nav-link" href="<%= f["link"] %>">
                   <%= f["text"] %>
                   </a><span class="white">&nbsp;<%= f["sep"] %>&nbsp;</span>
               <% end %>
@@ -759,11 +770,19 @@
           <!-- Social links -->
           <tr>
             <td valign="top" align="center" class="social-links">
-              <% @base_data_file.socialnav.each do |f| %>
-                <a href="<%= f["link"] %>">
-                  <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" class="responsive">
-                </a>
-              <% end %>
+
+				<table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
+				        <tr>
+			                <% @base_data_file.socialnav.each do |f| %>
+				                <td>
+			                        <a href="<%= f["link"] %>">
+			                                <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" class="responsive">
+									</a>
+								</td>
+			                <% end %>
+				        </tr>
+				</table>
+
             </td>
           </tr>
 
@@ -772,6 +791,7 @@
               <img src="images/spacer.gif" alt="" height="5" width="1">
             </td>
           </tr>
+
 
           <!-- Footer -->
           <tr>
