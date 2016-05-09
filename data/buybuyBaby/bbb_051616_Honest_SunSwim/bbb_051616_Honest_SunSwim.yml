@@ -1,0 +1,102 @@
+title: 'Honest Sun&Swim'
+
+primary_color: '#999999'
+
+pre_header_text: 'And earn 5,000 bonus points at Duane Reade'
+
+logo_img_url: 'images/header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: '#'
+
+hero_img_url: 'http://placehold.it/600x300/999999/000000?text=HERO'
+hero_img_alt: "Sun's Out. 3 for the price of 2."
+hero_img_link: '#'
+hero_text: 'Stock up and <b>mix&amp;match</b> select brands of skin and suncare'
+hero_btn_text: 'Start shopping &rsaquo;'
+
+callout_img_url: 'https://placeholdit.imgix.net/~text?txtsize=41&bg=999999&txtclr=000000&txt=App+Callout&w=600&h=214&txttrack=0'
+callout_img_alt: 'Exclusive savings, shopping lists and reward tracking. Get the app >'
+callout_img_link: '#'
+
+footer_text: '<sup>*</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any other offers.<br><br>Offers Good Sun. XX/XX - Sat. XX/XX/XX. <sup>**</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any  other offers. Excludes instant, collage prints and prints from film. Of Equal or lesser price, mix and match. Good Sun. XX/XX thru Sat. 02/13/16. &Dagger;Valid in select stores. See associate for details.<br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents")  are provided strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding any questions you may have about a medical condition. Reliance on any of the contents is solely at your own risk. Duane Reade does not guarantee the applicability or accuracy of any  information mentioned in the Contents.<br><br>'
+
+unsubscribe_link: '#'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: '#'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 1000'
+
+# Loop through articles
+
+articles:
+- type: "image"
+  url: "http://www.buybuybaby.com/store/static/ShippingPolicies?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+  img: "images/bbB_152_051616_Honest_Sun_&_Swim_v3_r6_DEV_03.jpg"
+  img_alt: "FREE SHIPPING on orders over $99. Limited time! view details >"
+
+- type: "image"
+  url: "http://www.buybuybaby.com/store/s/honest-swim-diaper?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+  img: "images/bbB_152_051616_Honest_Sun_&_Swim_v3_r6_DEV_04.jpg"
+  img_alt: "swim on! Honest® reusable swim diapers are the perfect fit. Ultra light design and premium fit get rid of bulky bottoms. Swim Diaper Available prints: Pink Splash, Blue Fish, Green Jungle, & White Starfish 13.99 each shop now >"
+
+- type: "image"
+  url: ""
+  img: "images/bbB_152_051616_Honest_Sun_&_Swim_v3_r6_DEV_05.jpg"
+  img_alt: "hypoallergenic sun protection hydrates your baby's sensitive skin without leaving residue Mineral Sunscreen Lotion SPF 50 13.99"
+
+- type: "image"
+  url: ""
+  img: "images/bbB_152_051616_Honest_Sun_&_Swim_v3_r6_DEV_06.jpg"
+  img_alt: "unscented, compact-sized sunscreen stick is safe, gentle, & perfect for travel Mineral Sunscreen Stick 9.99 Spend need more stuff? $99 & get FREE SHIPPING"
+
+- type: "image"
+  url: ""
+  img: "images/bbB_152_051616_Honest_Sun_&_Swim_v3_r6_DEV_07.jpg"
+  img_alt: "pediatrically tested, baby-safe formula provides even coverage in those hard-to-reach places Mineral Sunscreen Spray In-Store Only 13.99"
+
+- type: "image"
+  url: ""
+  img: "images/bbB_152_051616_Honest_Sun_&_Swim_v3_r6_DEV_08.jpg"
+  img_alt: "You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find-store option for easy pick-up. Prices valid only in contiguous United States."
+
+- type: "image"
+  url: "http://www.buybuybaby.com/store/brand/the-honest-company/2084/1-48?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+  img: "images/bbB_152_051616_Honest_Sun_&_Swim_v3_r6_DEV_09.jpg"
+  img_alt: "more to shop from Honest® "
+
+- type: "image"
+  url: "http://www.buybuybaby.com/store/brand/plum-organics/857/1-48?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+  img: "images/bbB_152_051616_Honest_Sun_&_Swim_v3_r6_DEV_10.jpg"
+  img_alt: "$buybuy BABY Gift Card with purchase of 15 Plum® Organics baby food pouches. shop now >"
+
+
+
+
+footernav:
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Photo"
+  link: "http://photo.walgreens.com/walgreens/welcome"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+socialnav:
+- img: "images/fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
