@@ -747,14 +747,7 @@
               <img src="images/spacer.gif" alt="" height="5" width="1" class="go-away">
             </td>
           </tr>
-          <tr bgcolor="#000000">
-            <td valign="top" align="center" class="footer-nav" bgcolor="#000000">
-              <% @data.buybuyBaby.bbb_051616_Honest_SunSwim.bbb_051616_Honest_SunSwim.footernav.each do |f| %><a class="footer-nav-link" href="<%= f["link"] %>">
-                  <%= f["text"] %>
-                  </a><span class="white">&nbsp;<%= f["sep"] %>&nbsp;</span>
-              <% end %>
-            </td>
-          </tr>
+
           <tr bgcolor="#000000" class="go-away">
             <td class="cell-height" height="5" bgcolor="#000000" class="go-away">
               <img src="images/spacer.gif" alt="" height="5" width="1" class="go-away">
@@ -773,7 +766,7 @@
 
 				<table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
 				        <tr>
-			                <% @base_data_file.socialnav.each do |f| %>
+			                <% data.buybuyBaby.bbb_051616_Honest_SunSwim.bbb_051616_Honest_SunSwim.socialnav.each do |f| %>
 				                <td>
 			                        <a href="<%= f["link"] %>">
 			                                <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" class="responsive">

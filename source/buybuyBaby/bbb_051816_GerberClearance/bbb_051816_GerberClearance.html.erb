@@ -1,6 +1,5 @@
 <% require 'active_support/all' %>
-<% data.kingsfoodmarkets.KF_078_weekly_email_051216.KF_078_weekly_email_051216.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
-
+<% data.buybuyBaby.bbb_051816_GerberClearance.bbb_051816_GerberClearance.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
   <head>
@@ -19,7 +18,6 @@
 		  color: #ffffff;
 		  background-color: #ffffff;
 	  }
-
         .ReadMsgBody {
           width: 100%;
           background-color: #ffffff;
@@ -46,6 +44,9 @@
           border-collapse:collapse;
           mso-table-lspace: 0pt;
           mso-table-rspace: 0pt;
+        }
+        table, td, tr {
+          padding: 0;
         }
         table td {border-collapse:collapse;}
         table, tr, td {text-align: left;}
@@ -95,9 +96,9 @@
           }
 
           sup {
-            font-size:14px;
+            font-size:10px;
             line-height:0;
-            vertical-align: 0;
+            vertical-align: 1;
           }
 
           .view-online {
@@ -197,28 +198,25 @@
           .footer-text {
             color: #8b8b8b;
             font-size: 14px;
-            line-height: 16px;
+            line-height: 18px;
           }
 
           .footer-text a,
           .footer-text a:hover,
           .footer-text a:active,
           .footer-text a:visited {
-            color: #000000 !important;
+            color: #33bbf3 !important;
             text-decoration: underline;
           }
 
           .footer-text .footer-end-links, .copyright {
-            font-size: 18px;
-            text-align: center;
-            color: #000000;
+            font-size: 14px;
+            color: #666666;
           }
           .footer-end-links {
             line-height: 24px;
           }
-          .copyright {
-            font-size: 14px;
-          }
+
 
          /* .button-outer-wrap,
           .button-inner-wrap,
@@ -297,12 +295,6 @@
       /*  Media queries */
 
       /* Define all styles in media queries using attribute selectors in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
-
-      /* View webpage link background color for Constant Contact */
-
-      #VWPLINK {
-        background-color: <%=@base_background_color%> !important;
-      }
 
 
       @media screen and (max-width: 599px) {
@@ -404,7 +396,7 @@
       }
     </style>
   </head>
-  <body bgcolor="<%=@base_background_color%>" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
+  <body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
       <!--
       Responsive framework: Antwort v1.0 - https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0)
 
@@ -416,67 +408,89 @@
     -->
 
      <!-- 100% background wrapper -->
-<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="<%=@base_background_color%>">
+<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
     <tr>
       <td>
         <!-- 600px container -->
         <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
 
+
             <!-- Header logo -->
-			<tr>
-				<td>
-					<table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
-			            <tr>
-			            	<td valign="top" align="center">
-				                <a href="<%=@base_logo_link%>">
-				            		  <img src="<%=@base_logo_img%>" alt="<%=@base_logo_alt%>" title="<%=@base_logo_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            	<td valign="top" align="center">
-				                <a href="<%=@base_logo_link%>">
-				            		  <img src="<%=@base_logo_img_space%>" alt="<%=@base_logo_alt%>" title="<%=@base_logo_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            	<td valign="top" align="center">
-				                <a href="<%=@base_logo_link%>">
-				            		  <img src="<%=@base_logo_img_space_2%>" alt="<%=@base_logo_alt%>" title="<%=@base_logo_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            	<td valign="top" align="center">
-				                <a href="<%=@base_store_locator_link%>">
-				            		  <img src="<%=@base_store_locator_img%>" alt="<%=@base_store_locator_alt%>" title="<%=@base_store_locator_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            </tr>
-			            <tr>
-			            	<td valign="top" align="center">
-				                <a href="<%=@base_logo_link%>">
-				            		  <img src="<%=@base_logo_img_2%>" alt="<%=@base_logo_img_alt%>" title="<%=@base_logo_img_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            	<td valign="top" align="center">
-				                <a href="<%=@base_weekly_circular_link%>">
-				            		  <img src="<%=@base_weekly_circular_img%>" alt="<%=@base_weekly_circular_alt%>" title="<%=@base_weekly_circular_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            	<td valign="top" align="center">
-				                <a href="<%=@base_chef_prepared_link%>">
-				            		  <img src="<%=@base_chef_prepared_img%>" alt="<%=@base_chef_prepared_alt%>" title="<%=@base_chef_prepared_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            	<td valign="top" align="center">
-				                <a href="<%=@base_catering_link%>">
-				            		  <img src="<%=@base_catering_img%>" alt="<%=@base_catering_alt%>" title="<%=@base_catering_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            </tr>
+            <tr>
+            	<td valign="top" align="center">
+					 <table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+					        <tr>
+					                <td>
+					                        <a href="<%= @base_header_instore_link %>">
+					                                <img src="<%= @base_header_instore_img %>" class="responsive" alt="<%= @base_header_instore_alt %>"></a></td>
+					                <td>
+					                        <a href="<%= @base_header_logo_link %>">
+					                                <img src="<%= @base_header_logo_img %>" class="responsive" alt="<%= @base_header_logo_alt %>"></a></td>
+					                <td>
+					                        <a href="<%= @base_header_registry_link %>">
+					                                <img src="<%= @base_header_registry_img %>" class="responsive" alt="<%= @base_header_registry_alt %>"></a></td>
+					        </tr>
+                      </table>
+					  <table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
+					        <tr>
+					                <td>
+					                        <a href="<%= @base_top_nav_whatsnew_link %>">
+					                                <img src="<%= @base_top_nav_whatsnew_img %>" class="responsive" alt="<%= @base_top_nav_whatsnew_alt %>"></a></td>
+					                <td>
+					                        <a href="<%= @base_top_nav_shop_link %>">
+					                                <img src="<%= @base_top_nav_shop_img %>" class="responsive" alt="<%= @base_top_nav_shop_alt %>"></a></td>
+					                <td>
+					                        <a href="<%= @base_top_nav_clearance_link %>">
+					                                <img src="<%= @base_top_nav_clearance_img %>" class="responsive" alt="<%= @base_top_nav_clearance_alt %>"></a></td>
+					        </tr>
 					</table>
-				</td>
-			</tr>
+            	</td>
+            </tr>
             <!-- /Header logo -->
 
+
+            <!-- Hero -->
+			<% if @base_hero_img_url!=''%>
+            <tr bgcolor="#ffffff">
+            	<td valign="top" align="center" class="hero" bgcolor="#ffffff">
+                <a href="<%=@base_hero_img_link%>">
+                  <img src="<%=@base_hero_img_url%>" alt="<%=@base_hero_img_alt%>" title="<%=@base_hero_img_alt%>" class="responsive">
+                </a>
+            	</td>
+            </tr>
+			<% end %>
+            <!-- /Hero -->
+
+            <tr>
+              <td align="left" height="15" class="cell-height">
+                  <img src="images/spacer.gif" alt="" height="15" width="1">
+              </td>
+            </tr>
+
             <!-- Articles -->
-            <% data.kingsfoodmarkets.KF_078_weekly_email_051216.KF_078_weekly_email_051216.articles.each do |f| %>
+            <% data.buybuyBaby.bbb_051816_GerberClearance.bbb_051816_GerberClearance.articles.each do |f| %>
+			<% if f["type"]=="image-2-column" %>
+              <tr>
+                <td valign="<%= f["valign"] %>" align="left" height="<%= f["height"] %>">
+                  <table border="0" width="100%" cellpadding="0" cellspacing="0" <%= f["valign"] %>>
+                    <tr>
+                      <td valign="<%= f["valign"] %>" align="right" width="300" class="article-img" height="<%= f["height"] %>">
+                        <a href="<%= f["url"] %>">
+                          <img height="<%= f["height"] %>" src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="right-article-image" align="right">
+                        </a>
+                      </td>
+                      <td valign="<%= f["valign"] %>" align="left" width="300" class="article-text" height="351">
+                        <a href="<%= f["url_2"] %>">
+                          <img height="<%= f["height"] %>" src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["text_img_alt"] %>" class="promo-text">
+                        </a>
+
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            <% end %>
+
 			<% if f["type"]== "image" %>
             <tr>
               <td valign="top" align="center">
@@ -486,60 +500,96 @@
               </td>
             </tr>
             <% end %>
-			<% if f["type"]== "image-2-columns" %>
-            <tr>
-              <td valign="top" align="center">
-				  <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
-					  <tr>
-						  <td>
-			                <a href="<%= f["url"] %>">
-			                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
-			                </a>
 
-						  </td>
-						  <td>
-			                <a href="<%= f["url_2"] %>">
-			                  <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
-			                </a>
-						  </td>
-					  </tr>
-				  </table>
+            <% end %>
+
+            <!-- Call out -->
+			<% if @base_callout_img_url!='' %>
+              <tr>
+                <td height="10" class="cell-height">
+                  <img src="images/spacer.gif" alt="" height="10" width="1">
+                </td>
+              </tr>
+            <tr>
+              <td valign="top" class="callout">
+                <a href="<%=@base_callout_img_link%>">
+                  <img src="<%=@base_callout_img_url%>" alt="<%=@base_callout_img_alt%>" title="<%=@base_callout_img_alt%>" class="responsive">
+                </a>
               </td>
             </tr>
-            <% end %>
+            <tr>
+              <td class="cell-height" height="5">
+                <img src="images/spacer.gif" alt="" height="10" width="1">
+              </td>
+            </tr>
+			<% end %>
 
-            <% end %>
+          <!-- Footer nav -->
+          <tr bgcolor="#000000" class="go-away">
+            <td class="cell-height go-away" height="5" bgcolor="#000000">
+              <img src="images/spacer.gif" alt="" height="5" width="1" class="go-away">
+            </td>
+          </tr>
 
-            <!-- Footer logo -->
-			<tr>
-				<td>
-					<table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
-			            <tr>
-			            	<td valign="top" align="center">
-				                <a href="<%=@base_footer_site_link%>">
-				            		  <img src="<%=@base_footer_site_img%>" alt="<%=@base_footer_site_alt%>" title="<%=@base_footer_site_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            	<td valign="top" align="center">
-				                <a href="<%=@base_footer_facebook_link%>">
-				            		  <img src="<%=@base_footer_facebook_img%>" alt="<%=@base_footer_facebook_alt%>" title="<%=@base_footer_facebook_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            	<td valign="top" align="center">
-				                <a href="<%=@base_footer_twitter_link%>">
-				            		  <img src="<%=@base_footer_twitter_img%>" alt="<%=@base_footer_twitter_alt%>" title="<%=@base_footer_twitter_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            	<td valign="top" align="center">
-				                <a href="<%=@base_footer_youtube_link%>">
-				            		  <img src="<%=@base_footer_youtube_img%>" alt="<%=@base_footer_youtube_alt%>" title="<%=@base_footer_youtube_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            </tr>
-					</table>
-				</td>
-			</tr>
-            <!-- /Footer logo -->
+          <tr bgcolor="#000000" class="go-away">
+            <td class="cell-height go-away" height="5" bgcolor="#000000">
+              <img src="images/spacer.gif" alt="" height="5" width="1" class="go-away">
+            </td>
+          </tr>
+
+          <tr>
+            <td class="cell-height" height="10">
+              <img src="images/spacer.gif" alt="" height="10" width="1">
+            </td>
+          </tr>
+
+          <!-- Social links -->
+          <tr>
+            <td valign="top" align="center" class="social-links">
+
+				<table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
+				        <tr>
+			                <% data.buybuyBaby.bbb_051816_GerberClearance.bbb_051816_GerberClearance.socialnav.each do |f| %>
+				                <td>
+			                        <a href="<%= f["link"] %>">
+			                                <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" class="responsive">
+									</a>
+								</td>
+			                <% end %>
+				        </tr>
+				</table>
+
+            </td>
+          </tr>
+
+          <tr>
+            <td class="cell-height" height="5">
+              <img src="images/spacer.gif" alt="" height="5" width="1">
+            </td>
+          </tr>
+
+
+          <!-- Footer -->
+          <tr>
+            <td align="left" valign="top">
+              <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="15">
+                    <img src="images/spacer.gif" alt="" height="1" width="15">
+                  </td>
+                   <td class="footer-text" align="left" valign="top">
+                     <div class="copyright">
+                        <br>
+                       <%=@base_disclaimer%>
+                     </div>
+                  </td>
+                  <td width="15">
+                    <img src="images/spacer.gif" alt="" height="1" width="15">
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
 
         </table>
           <!-- /600px container -->
