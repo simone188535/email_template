@@ -1,0 +1,115 @@
+title: 'Bright and Bubbly Brunch Ideas'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+logo_alt: ''
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e6ed1854-d338-4143-9731-8b627bd5f4a3.jpg"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9c640cc0-44d1-455a-a29c-8ed4953febc1.jpg"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b557eddc-8481-4f1b-a1ec-125ebe753115.jpg"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  img_alt: 'GOURMET REWARDS CLUB'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1dbf124c-d9bf-4b4a-8d77-a9f358f2a597.jpg?ver=1462851406000'
+
+- type: 'image'
+  img_alt: 'Get Spiralized! Brighten your palate with the flavors of spring | Recipe Spiralized Zucchini Pesto Pizza | Watch Video'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e481c51d-d292-4784-82e6-bfe31eac9a04.jpg?ver=1462851407000'
+
+- type: 'image'
+  img_alt: 'Prepared In-Store | Ready-to-Go'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5dea111f-919c-45f5-8cda-c0363ec63302.jpg?ver=1462851406000'
+
+- type: 'image'
+  img_alt: 'Spiralized Zucchini & Squash Noodles'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/700c7873-aa0e-4fde-9aad-d34c15de687e.jpg?ver=1462851407000'
+
+- type: 'image'
+  img_alt: 'Grilled Vegetable or Cherry Tomato Kebobs'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3fd8d67f-00e2-4216-a5da-0df0f8a33b3e.jpg?ver=1462851408000'
+
+- type: 'image'
+  img_alt: 'Sweet Potato Planks'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5fc3b6c8-b22f-4278-bda5-8e73f96f893f.jpg?ver=1462851408000'
+
+- type: 'image'
+  img_alt: 'Cauliflower or Broccoli Rice'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/79b3ec9b-6b75-4fb7-a551-1b10093ff88e.jpg?ver=1462851408000'
+
+- type: 'image'
+  img_alt: 'Fresh Tastes | Spring-Inspired Meals'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/07bc0bb9-770c-4780-863b-4462ed7cec76.jpg?ver=1462851408000'
+
+- type: 'image'
+  img_alt: 'Tri Color Balsamic Salad'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/023553df-0a2f-48b2-995a-3082ecd51dc8.jpg?ver=1462851409000'
+
+- type: 'image'
+  img_alt: 'Sesame Ginger Skewered Shrimp'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/aced37da-923e-4440-8f91-ad043aea58f2.jpg?ver=1462851409000'
+
+- type: 'image'
+  img_alt: 'Balsamic Chicken Kebabs'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cb6226ed-89ec-4d23-8006-bfb38f9911ca.jpg?ver=1462851409000'
+
+- type: 'image'
+  img_alt: 'Mini Sweet Peppers'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/47262cef-c77e-4d0e-a8fe-bb90e6a1c890.jpg?ver=1462851410000'
+
+- type: 'image'
+  img_alt: 'View More'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/87f33f2a-10c5-4038-997c-2901fc363ca4.jpg?ver=1462851409000'
+
+- type: 'image'
+  img_alt: 'Savory Side of Spring | Elephant Trunk Scallops'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cbfa9a8c-7b91-48b9-b29c-a40b5d876545.jpg?ver=1462851410000'
+
+- type: 'image'
+  img_alt: 'Tio Soups'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b9629b7d-0ce9-4b28-9550-b2f2c03aa6a5.jpg?ver=1462851410000'
+
+
+
+

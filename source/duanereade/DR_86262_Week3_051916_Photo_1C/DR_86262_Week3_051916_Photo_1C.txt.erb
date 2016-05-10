@@ -11,7 +11,7 @@
 <% end %>
 
 <% @base_data_file.articles.each do |f| %>
-<% if f["type"]=="product-right-image" || f["type"]=="product-left-image" || f["type"]=="story-image" || f["type"]=="story-image-no-text" %>
+<% if f["type"]=="product-right-image" || f["type"]=="product-left-image" || f["type"]=="story-image" || f["type"]=="story-image-no-text"  || f["type"]=="story-image-center-text" %>
 <%= f["text_img_alt"] %>
 <%= f["promo_btn_url"] %>
 

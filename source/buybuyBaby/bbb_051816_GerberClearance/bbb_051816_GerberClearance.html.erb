@@ -1,5 +1,10 @@
 <% require 'active_support/all' %>
+<<<<<<< HEAD
 <% data.buybuyBaby.bbb_051816_GerberClearance.bbb_051816_GerberClearance.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+=======
+<% instance_variable_set("@base_data_file", data.buybuyBaby.bbb_051816_GerberClearance.bbb_051816_GerberClearance) %>
+<% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
   <head>
@@ -9,6 +14,10 @@
     <meta name="format-detection" content="telephone=no">
     <!-- disable auto telephone linking in iOS -->
     <title><%=@base_title%></title>
+<<<<<<< HEAD
+=======
+	<!-- Ronnie -->
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
     <style type="text/css">
       /* This style block will be inlined when running 'grunt build' and stripped from the header */
 
@@ -18,6 +27,10 @@
 		  color: #ffffff;
 		  background-color: #ffffff;
 	  }
+<<<<<<< HEAD
+=======
+	  
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
         .ReadMsgBody {
           width: 100%;
           background-color: #ffffff;
@@ -45,9 +58,12 @@
           mso-table-lspace: 0pt;
           mso-table-rspace: 0pt;
         }
+<<<<<<< HEAD
         table, td, tr {
           padding: 0;
         }
+=======
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
         table td {border-collapse:collapse;}
         table, tr, td {text-align: left;}
         img{
@@ -96,9 +112,15 @@
           }
 
           sup {
+<<<<<<< HEAD
             font-size:10px;
             line-height:0;
             vertical-align: 1;
+=======
+            font-size:14px;
+            line-height:0;
+            vertical-align: 0;
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
           }
 
           .view-online {
@@ -198,25 +220,45 @@
           .footer-text {
             color: #8b8b8b;
             font-size: 14px;
+<<<<<<< HEAD
             line-height: 18px;
+=======
+            line-height: 16px;
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
           }
 
           .footer-text a,
           .footer-text a:hover,
           .footer-text a:active,
           .footer-text a:visited {
+<<<<<<< HEAD
             color: #33bbf3 !important;
+=======
+            color: #000000 !important;
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
             text-decoration: underline;
           }
 
           .footer-text .footer-end-links, .copyright {
+<<<<<<< HEAD
             font-size: 14px;
             color: #666666;
+=======
+            font-size: 18px;
+            text-align: center;
+            color: #000000;
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
           }
           .footer-end-links {
             line-height: 24px;
           }
+<<<<<<< HEAD
 
+=======
+          .copyright {
+            font-size: 14px;
+          }
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
 
          /* .button-outer-wrap,
           .button-inner-wrap,
@@ -413,8 +455,12 @@
       <td>
         <!-- 600px container -->
         <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+<<<<<<< HEAD
 
 
+=======
+		</tr>
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
             <!-- Header logo -->
             <tr>
             	<td valign="top" align="center">
@@ -448,6 +494,7 @@
             </tr>
             <!-- /Header logo -->
 
+<<<<<<< HEAD
 
             <!-- Hero -->
             <tr>
@@ -641,6 +688,75 @@
               </table>
             </td>
           </tr>
+=======
+            <!-- Articles -->
+            <% @base_data_file.articles.each do |f| %>
+			<% if f["type"]== "image" %>
+            <tr>
+              <td valign="top" align="center">
+					  <table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
+					        <tr>
+					                <td>
+						                <a href="<%= f["url"] %>">
+						                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+						                </a>
+									</td>
+					        </tr>
+					</table>
+              </td>
+            </tr>
+            <% end %>
+			<% if f["type"]== "image-2-columns" %>
+            <tr>
+              <td valign="top" align="center">
+				  <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+					  <tr>
+						  <td>
+			                <a href="<%= f["url"] %>">
+			                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+			                </a>
+
+						  </td>
+						  <td>
+			                <a href="<%= f["url_2"] %>">
+			                  <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
+			                </a>
+						  </td>
+					  </tr>
+				  </table>
+              </td>
+            </tr>
+            <% end %>
+			<% if f["type"]== "image-3-columns" %>
+            <tr>
+              <td valign="top" align="center">
+				  <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+					  <tr>
+						  <td>
+			                <a href="<%= f["url"] %>">
+			                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+			                </a>
+
+						  </td>
+						  <td>
+			                <a href="<%= f["url_2"] %>">
+			                  <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
+			                </a>
+						  </td>
+						  <td>
+			                <a href="<%= f["url_3"] %>">
+			                  <img src="<%= f["img_3"] %>" alt="<%= f["img_alt_3"] %>" title="<%= f["img_alt_3"] %>" class="responsive">
+			                </a>
+						  </td>
+					  </tr>
+				  </table>
+              </td>
+            </tr>
+            <% end %>
+
+            <% end %>
+
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
 
         </table>
           <!-- /600px container -->

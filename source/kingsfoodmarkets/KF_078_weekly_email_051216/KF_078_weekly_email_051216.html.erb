@@ -1,6 +1,11 @@
 <% require 'active_support/all' %>
+<<<<<<< HEAD
 <% data.kingsfoodmarkets.KF_078_weekly_email_051216.KF_078_weekly_email_051216.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 
+=======
+<% instance_variable_set("@base_data_file", data.kingsfoodmarkets.KF_078_weekly_email_051216.KF_078_weekly_email_051216) %>
+<% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
   <head>
@@ -425,6 +430,7 @@
             <!-- Header logo -->
 			<tr>
 				<td>
+<<<<<<< HEAD
 					<table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
 			            <tr>
 			            	<td valign="top" align="center">
@@ -433,16 +439,57 @@
 				                </a>
 			            	</td>
 			            	<td valign="top" align="center">
+=======
+					<table width="600"  border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#7a934f">
+				        <tr>
+				                <td style="border-collapse:collapse;" valign="top" rowspan="2">
+				                        <a href="<%=@base_logo_link%>">
+				                                <img class="responsive" alt="<%=@base_logo_alt%>" title="<%=@base_logo_alt%>"  src="https://mlsvc01-prod.s3.amazonaws.com/6a147818101/65c53f8d-5b4b-4896-8b51-d8314fed98d6.jpg?ver=1461697289000" width="269" height="120" border="0"></a></td>
+				                <td style="border-collapse:collapse;" valign="top" colspan="2" rowspan="2">
+				                        <a href="<%=@base_weekly_circular_link%>">
+				                                <img class="responsive" alt="<%=@base_weekly_circular_alt%>" title="<%=@base_weekly_circular_alt%>" src="https://mlsvc01-prod.s3.amazonaws.com/6a147818101/757a2a9d-ca04-46e7-b392-6f7be364493c.jpg?ver=1461697289000" width="105" height="120" border="0"></a></td>
+				                <td style="border-collapse:collapse;" valign="top" colspan="2" rowspan="2">
+				                        <a href="<%=@base_chef_prepared_link%>">
+				                                <img class="responsive" alt="<%=@base_chef_prepared_alt%>" title="<%=@base_chef_prepared_alt%>" src="https://mlsvc01-prod.s3.amazonaws.com/6a147818101/498e1bb4-d2ae-4cb1-99d3-72417d22833d.jpg?ver=1461697290000" width="100" height="120" border="0"></a></td>
+				                <td style="border-collapse:collapse;" valign="top" colspan="2">
+				                        <a href="<%=@base_store_locator_link%>">
+				                                <img class="responsive" alt="<%=@base_store_locator_alt%>" title="<%=@base_store_locator_alt%>" src="https://mlsvc01-prod.s3.amazonaws.com/6a147818101/998fe85c-fc79-4c03-9db1-48d30d816d06.jpg?ver=1461697290000" width="126" height="60" border="0"></a></td>
+				        </tr>
+
+				        <tr>
+				                <td style="border-collapse:collapse;" valign="top" colspan="2">
+				                        <a href="<%=@base_catering_link%>">
+				                                <img class="responsive" alt="<%=@base_catering_alt%>" title="<%=@base_catering_alt%>" src="https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7a36eba9-f37f-4058-9326-e012ce71e692.jpg?ver=1461697290000" width="126" height="60" border="0"></a></td>
+				        </tr>
+			        </table>
+
+					<!-- table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+			            <tr>
+			            	<td valign="bottom" align="center">
+				                <a href="">
+				            		  <img src="<%=@base_logo_img%>" alt="<%=@base_logo_alt%>" title="<%=@base_logo_alt%>" class="responsive">
+				                </a>
+			            	</td>
+			            	<td valign="bottom" align="center">
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
 				                <a href="<%=@base_logo_link%>">
 				            		  <img src="<%=@base_logo_img_space%>" alt="<%=@base_logo_alt%>" title="<%=@base_logo_alt%>" class="responsive">
 				                </a>
 			            	</td>
+<<<<<<< HEAD
 			            	<td valign="top" align="center">
+=======
+			            	<td valign="bottom" align="center">
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
 				                <a href="<%=@base_logo_link%>">
 				            		  <img src="<%=@base_logo_img_space_2%>" alt="<%=@base_logo_alt%>" title="<%=@base_logo_alt%>" class="responsive">
 				                </a>
 			            	</td>
+<<<<<<< HEAD
 			            	<td valign="top" align="center">
+=======
+			            	<td valign="bottom" align="center">
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
 				                <a href="<%=@base_store_locator_link%>">
 				            		  <img src="<%=@base_store_locator_img%>" alt="<%=@base_store_locator_alt%>" title="<%=@base_store_locator_alt%>" class="responsive">
 				                </a>
@@ -470,13 +517,21 @@
 				                </a>
 			            	</td>
 			            </tr>
+<<<<<<< HEAD
 					</table>
+=======
+					</table -->
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
 				</td>
 			</tr>
             <!-- /Header logo -->
 
             <!-- Articles -->
+<<<<<<< HEAD
             <% data.kingsfoodmarkets.KF_078_weekly_email_051216.KF_078_weekly_email_051216.articles.each do |f| %>
+=======
+            <% @base_data_file.articles.each do |f| %>
+>>>>>>> 420cc379e3ee00bbe6f599414651f980ce843e30
 			<% if f["type"]== "image" %>
             <tr>
               <td valign="top" align="center">

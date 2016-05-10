@@ -27,16 +27,19 @@ articles:
   url: ""
   img: "http://f.duanereadedrugstore.com/i/44/2087955237/86262_DR_Week3_051916_Photo_1C_03.jpg"
   img_alt: ""
+
 - type: "image"
   url: "http://www.walgreens.com/photo"
   img: "http://f.duanereadedrugstore.com/i/44/2087955237/86262_DR_Week3_051916_Photo_1C_04.jpg"
   img_alt: "Make gradutation memories last a lifetime with 15-cent print"
-- type: "story-image"
+
+- type: "story-image-center-text"
   img: "http://f.duanereadedrugstore.com/i/44/2087955237/86262_DR_Week3_051916_Photo_1C_05.jpg"
   img_alt: "30% off Posters, Banners & Photo Cards"
   promo_btn_url: "http://www.walgreens.com/photo"
   promo_btn_text: "Shop now &rsaquo;"
   promo_text: "Use promo code: <strong style='color: #e61131;'>GETGRADREADY</strong>"
+
 - type: "image"
   url: "http://photo2.walgreens.com/walgreens/pdpsdpitems/type=passport_photos?tab=photo_printsHDD-Passports"
   img: "http://f.duanereadedrugstore.com/i/44/2087955237/86262_DR_Week3_051916_Photo_1C_07.jpg"
