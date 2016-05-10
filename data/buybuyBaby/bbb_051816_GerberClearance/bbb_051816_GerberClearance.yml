@@ -42,10 +42,12 @@ This promotional email was sent to you by buybuy BABY<sup>®</sup>. <br>If you r
 copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 1000'
 
 find_store_img: "images/bbB_152_051816_GerberClear_v1_r3_DEV_04.jpg"
+find_store_img_2: "images/bbB_152_051816_GerberClear_v1_r3_DEV_26.jpg"
 find_store_alt: "find a store >"
 find_store_url: "http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true?mcid=EM_Promo_201605_GerberClearance_NoOffer"
 
 shop_now_img: 'images/bbB_152_051816_GerberClear_v1_r3_DEV_05.jpg'
+shop_now_img_2: "images/bbB_152_051816_GerberClear_v1_r3_DEV_27.jpg"
 shop_now_alt: "shop now >"
 shop_now_url: "http://www.buybuybaby.com/store/s/clearancegerber16?mcid=EM_Promo_201605_GerberClearance_NoOffer"
 
@@ -151,15 +153,6 @@ articles:
   img_alt_2: "4-Pack Fannel Blanket Blankets was 9.99 | now 7.99"
   valign: "top"
   height: "351"
-- type: "image-2-column"
-  img: "images/bbB_152_051816_GerberClear_v1_r3_DEV_26.jpg"
-  img_alt: "find a store >"
-  url: "http://www.buybuybaby.com/store/s/clearancegerber16?mcid=EM_Promo_201605_GerberClearance_NoOffer"
-  url_2: "http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true?mcid=EM_Promo_201605_GerberClearance_NoOffer"
-  img_2: "images/bbB_152_051816_GerberClear_v1_r3_DEV_27.jpg"
-  img_alt_2: "shop now >"
-  valign: "top"
-  height: "29"
 - type: "image"
   img: "images/bbB_152_051816_GerberClear_v1_r3_DEV_28.jpg"
   img_alt: "You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in the contiguouse United States."
