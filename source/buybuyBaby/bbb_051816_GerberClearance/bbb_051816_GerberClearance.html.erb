@@ -456,33 +456,33 @@
 
             <!-- Hero -->
             <tr>
-              <td align="center" valign="top">
+              <td align="center" valign="top" width="600">
                 <a href="<%=@base_shipping_url%>">
-                <img src="<%=@base_shipping_img%>" alt="<%=@base_shipping_alt%>">
+                <img src="<%=@base_shipping_img%>" alt="<%=@base_shipping_alt%>" width="600">
                 </a>
               </td>
             </tr>
 			<% if @base_hero_img_url!=''%>
             <tr bgcolor="#ffffff">
-            	<td valign="top" align="center" class="hero" bgcolor="#ffffff">
+            	<td valign="top" align="center" class="hero" bgcolor="#ffffff" width="600">
                 <a href="<%=@base_hero_img_link%>">
-                  <img src="<%=@base_hero_img_url%>" alt="<%=@base_hero_img_alt%>" title="<%=@base_hero_img_alt%>" class="responsive">
+                  <img src="<%=@base_hero_img_url%>" alt="<%=@base_hero_img_alt%>" title="<%=@base_hero_img_alt%>" width="600">
                 </a>
             	</td>
             </tr>
-            <tr bgcolor="#ffffff">
-              <td valign="top" align="center">
+			<% end %>
+      <tr bgcolor="#ffffff">
+              <td valign="top" align="center" width="600">
                 <a href="<%=@base_event_url%>">
-                <img src="<%=@base_event_img%>" alt="<%=@base_event_alt%>" title="<%@base_event_alt%>" class="responsive">
+                <img src="<%=@base_event_img%>" alt="<%=@base_event_alt%>" title="<%@base_event_alt%>" width="600">
                 </a>
               </td>
             </tr>
-			<% end %>
             <!-- /Hero -->
             <!-- top buttons -->
             <tr>
               <td align="left" height="29" valign="top">
-                 <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                 <table border="0" width="600" cellpadding="0" cellspacing="0">
                    <tr>
                      <td valign="top" align="right" height="29" width="300">
                       <a href="<%=@base_find_store_url%>">
@@ -511,9 +511,9 @@
  <% data.buybuyBaby.bbb_051816_GerberClearance.bbb_051816_GerberClearance.articles.each do |f| %>
 			<% if f["type"]== "image" %>
             <tr>
-              <td valign="top" align="center">
+              <td valign="top" align="center" width="600">
                 <a href="<%= f["url"] %>">
-                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" width="600">
                 </a>
               </td>
             </tr>
@@ -523,7 +523,7 @@
 <!-- /Articles -->
  <tr>
   <td align="left" height="29" valign="top">
-     <table border="0" width="100%" cellpadding="0" cellspacing="0">
+     <table border="0" width="600" cellpadding="0" cellspacing="0">
        <tr>
          <td valign="top" align="right" height="29" width="300">
           <a href="<%=@base_find_store_url%>">
@@ -540,21 +540,21 @@
   </td>
 </tr>
             <tr>
-              <td valign="top" align="center">
-                <img src="<%=@base_details_img%>" alt="<%=@base_details_alt%>">
+              <td valign="top" align="center" width="600">
+                <img width="600" src="<%=@base_details_img%>" alt="<%=@base_details_alt%>">
               </td>
             </tr>
             <tr>
-              <td valign="top" align="center">
+              <td valign="top" align="center" width="600">
                 <a href="<%=@base_callout_img_1_url%>">
-                  <img src="<%=@base_callout_img_1%>" alt="<%=@base_callout_img_1_alt%>">
+                  <img width="600" src="<%=@base_callout_img_1%>" alt="<%=@base_callout_img_1_alt%>">
                 </a>
               </td>
             </tr>
             <tr>
-              <td valign="top" align="center">
+              <td valign="top" width="600" align="center">
                 <a href="<%=@base_callout_img_2_url%>">
-                  <img src="<%=@base_callout_img_2%>" alt="<%=@base_callout_img_2_alt%>">
+                  <img width="600" src="<%=@base_callout_img_2%>" alt="<%=@base_callout_img_2_alt%>">
                 </a>
               </td>
             </tr>
@@ -581,23 +581,7 @@
 			<% end %>
 
           <!-- Footer nav -->
-          <tr bgcolor="#000000" class="go-away">
-            <td class="cell-height go-away" height="5" bgcolor="#000000">
-              <img src="images/spacer.gif" alt="" height="5" width="1" class="go-away">
-            </td>
-          </tr>
 
-          <tr bgcolor="#000000" class="go-away">
-            <td class="cell-height go-away" height="5" bgcolor="#000000">
-              <img src="images/spacer.gif" alt="" height="5" width="1" class="go-away">
-            </td>
-          </tr>
-
-          <tr>
-            <td class="cell-height" height="10">
-              <img src="images/spacer.gif" alt="" height="10" width="1">
-            </td>
-          </tr>
 
           <!-- Social links -->
           <tr>
