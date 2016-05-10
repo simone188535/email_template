@@ -504,8 +504,10 @@
             <% data.buybuyBaby.bbb_051816_GerberClearance.bbb_051816_GerberClearance.articles.each do |f| %>
 			<% if f["type"]=="image-2-column" %>
               <tr>
-                <td valign="<%= f["valign"] %>" align="center" height="<%= f["height"] %>">
-
+                <td valign="top" align="center" height="<%= f["height"] %>">
+                  <a href="<%= f["url"] %>">
+                    <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                  </a>
                 </td>
               </tr>
             <% end %>
@@ -540,7 +542,7 @@
             <% end %>
 
             <% end %>
-          
+
 
             <!-- Call out -->
 			<% if @base_callout_img_url!='' %>
