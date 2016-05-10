@@ -450,6 +450,13 @@
 
 
             <!-- Hero -->
+            <tr>
+              <td align="center" valign="top">
+                <a href="<%=@base_shipping_url%>">
+                <img src="<%=@base_shipping_img%>" alt="<%=@base_shipping_alt%>">
+                </a>
+              </td>
+            </tr>
 			<% if @base_hero_img_url!=''%>
             <tr bgcolor="#ffffff">
             	<td valign="top" align="center" class="hero" bgcolor="#ffffff">
@@ -468,11 +475,30 @@
 			<% end %>
             <!-- /Hero -->
 
+            
+              <td align="left" height="29" valign="top">
+                 <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                   <tr>
+                     <td valign="top" align="right" height="29" width="300">
+                      <a href="<%=@base_find_store_url%>">
+                       <img src="<%=@base_find_store_img%>" alt="<%=@base_find_store_alt%>" height="29" width="300">
+                      </a>
+                     </td>
+                     <td valign="top" align="left" height="29" width="300">
+                      <a href="<%=@base_shop_now_url%>">
+                       <img src="<%=@base_shop_now_img%>" alt="<%=@base_shop_now_alt%>" height="29" width="300">
+                      </a>
+                     </td>
+                   </tr>
+                 </table>
+              </td>
+            </tr>
             <tr>
               <td align="left" height="15" class="cell-height">
                   <img src="images/spacer.gif" alt="" height="15" width="1">
               </td>
             </tr>
+            <tr>
 
             <!-- Articles -->
             <% data.buybuyBaby.bbb_051816_GerberClearance.bbb_051816_GerberClearance.articles.each do |f| %>
