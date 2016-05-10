@@ -478,22 +478,8 @@
             <% data.buybuyBaby.bbb_051816_GerberClearance.bbb_051816_GerberClearance.articles.each do |f| %>
 			<% if f["type"]=="image-2-column" %>
               <tr>
-                <td valign="<%= f["valign"] %>" align="left" height="<%= f["height"] %>">
-                  <table border="0" width="100%" cellpadding="0" cellspacing="0" <%= f["valign"] %>>
-                    <tr>
-                      <td valign="<%= f["valign"] %>" align="right" width="300" class="article-img" height="<%= f["height"] %>">
-                        <a href="<%= f["url"] %>">
-                          <img height="<%= f["height"] %>" src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="right-article-image" align="right">
-                        </a>
-                      </td>
-                      <td valign="<%= f["valign"] %>" align="left" width="300" class="article-text" height="351">
-                        <a href="<%= f["url_2"] %>">
-                          <img height="<%= f["height"] %>" src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["text_img_alt"] %>" class="promo-text">
-                        </a>
-
-                      </td>
-                    </tr>
-                  </table>
+                <td valign="<%= f["valign"] %>" align="center" height="<%= f["height"] %>">
+                  
                 </td>
               </tr>
             <% end %>
