@@ -474,7 +474,7 @@
             </tr>
 			<% end %>
             <!-- /Hero -->
-
+            <!-- top buttons -->
             <tr>
               <td align="left" height="29" valign="top">
                  <table border="0" width="100%" cellpadding="0" cellspacing="0">
@@ -493,6 +493,7 @@
                  </table>
               </td>
             </tr>
+            <!-- /top buttons -->
             <tr>
               <td align="left" height="15" class="cell-height">
                   <img src="images/spacer.gif" alt="" height="15" width="1">
@@ -501,33 +502,8 @@
             <tr>
 
             <!-- Articles -->
-            <% data.buybuyBaby.bbb_051816_GerberClearance.bbb_051816_GerberClearance.articles.each do |f| %>
-			<% if f["type"]=="image-2-column" %>
-              <tr>
-                <td valign="<%= f["valign"] %>" align="center" height="<%= f["height"] %>">
-
-                </td>
-              </tr>
-            <% end %>
-            <% end %>
-            <tr>
-              <td align="left" height="29" valign="top">
-                 <table border="0" width="100%" cellpadding="0" cellspacing="0">
-                   <tr>
-                     <td valign="top" align="right" height="29" width="300">
-                      <a href="<%=@base_find_store_url%>">
-                       <img src="<%=@base_find_store_img_2%>" alt="<%=@base_find_store_alt%>" height="29" width="300">
-                      </a>
-                     </td>
-                     <td valign="top" align="left" height="29" width="300">
-                      <a href="<%=@base_shop_now_url%>">
-                       <img src="<%=@base_shop_now_img_2%>" alt="<%=@base_shop_now_alt%>" height="29" width="300">
-                      </a>
-                     </td>
-                   </tr>
-                 </table>
-              </td>
-            </tr>
+           
+           
  <% data.buybuyBaby.bbb_051816_GerberClearance.bbb_051816_GerberClearance.articles.each do |f| %>
 			<% if f["type"]== "image" %>
             <tr>
@@ -540,7 +516,44 @@
             <% end %>
 
             <% end %>
-          
+<!-- /Articles -->
+ <tr>
+  <td align="left" height="29" valign="top">
+     <table border="0" width="100%" cellpadding="0" cellspacing="0">
+       <tr>
+         <td valign="top" align="right" height="29" width="300">
+          <a href="<%=@base_find_store_url%>">
+           <img src="<%=@base_find_store_img_2%>" alt="<%=@base_find_store_alt%>" height="29" width="300">
+          </a>
+         </td>
+         <td valign="top" align="left" height="29" width="300">
+          <a href="<%=@base_shop_now_url%>">
+           <img src="<%=@base_shop_now_img_2%>" alt="<%=@base_shop_now_alt%>" height="29" width="300">
+          </a>
+         </td>
+       </tr>
+     </table>
+  </td>
+</tr>
+            <tr>
+              <td valign="top" align="center">
+                <img src="<%=@base_details_img%>" alt="<%=@base_details_alt%>">
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="center">
+                <a href="<%=@base_callout_img_1_url%>">
+                  <img src="<%=@base_callout_img_1%>" alt="<%=@base_callout_img_1_alt%>">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="center">
+                <a href="<%=@base_callout_img_2_url%>">
+                  <img src="<%=@base_callout_img_2%>" alt="<%=@base_callout_img_2_alt%>">
+                </a>
+              </td>
+            </tr>
 
             <!-- Call out -->
 			<% if @base_callout_img_url!='' %>

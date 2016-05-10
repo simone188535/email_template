@@ -117,20 +117,17 @@ articles:
   url: "http://www.buybuybaby.com/store/s/clearancegerber16?mcid=EM_Promo_201605_GerberClearance_NoOffer"
   valign: "bottom"
   height: "700"
-- type: "image"
-  img: "images/bbB_152_051816_GerberClear_v1_r3_DEV_28.jpg"
-  img_alt: "You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in the contiguouse United States."
-  url: ""
-- type: "image"
-  img: "images/bbB_152_051816_GerberClear_v1_r3_DEV_29.jpg"
-  img_alt: "summertime essentials shop now>"
-  url: "http://www.buybuybaby.com/store/s/bugandsun?mcid=EM_Promo_201605_GerberClearance_NoOffer"
-- type: "image"
-  img: "images/bbB_152_051816_GerberClear_v1_r3_DEV_30.jpg"
-  img_alt: "add a personal touch Customized for your little one. Start personalizing>"
-  url: "http://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/32754/?mcid=EM_Promo_201605_GerberClearance_NoOffer"
 
+callout_img_1: "images/bbB_152_051816_GerberClear_v1_r3_DEV_29.jpg"
+callout_img_1_alt: "summertime essentials shop now>"
+callout_img_1_url: "http://www.buybuybaby.com/store/s/bugandsun?mcid=EM_Promo_201605_GerberClearance_NoOffer"
 
+callout_img_2: "images/bbB_152_051816_GerberClear_v1_r3_DEV_30.jpg"
+callout_img_2_alt: "add a personal touch Customized for your little one. Start personalizing>"
+callout_img_2_url: "http://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/32754/?mcid=EM_Promo_201605_GerberClearance_NoOffer"
+
+details_img: 'images/bbB_152_051816_GerberClear_v1_r3_DEV_28.jpg'
+details_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in the contiguouse United States.'
 
 
 socialnav:
