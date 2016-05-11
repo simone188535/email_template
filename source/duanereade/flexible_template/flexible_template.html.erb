@@ -419,11 +419,11 @@
 					<td valign="top" align="center" class="preheader-text">
             <table border="0" width="100%" cellpadding="0" cellspacing="0">
               <tr>
-                <td width="10"><img src="images/spacer.gif" alt="" height="1" width="10"></td>
+                <td width="10"><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="10"></td>
                 <td valign="top" align="left" class="preheader-text">
                   <span class="preHeader"><%= @base_pre_header_text %></span>
                 </td>
-                <td width="10"><img src="images/spacer.gif" alt="" height="1" width="10"></td>
+                <td width="10"><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="10"></td>
               </tr>
             </table>
           </td>
@@ -463,7 +463,7 @@
                         </a>
                         <div class="promo-text-wrap"><%= f["promo_text"] %></div>
                         <div style="height: 15px;">
-                          <img src="images/spacer.gif" alt="" height="15" width="1">
+                          <img src="<%=@base_spacer_img_url%>" alt="" height="15" width="1">
                         </div>
                           <div class="button-outer-wrap"><!--[if mso]>
                            <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
@@ -515,7 +515,7 @@
                         </a>
                         <div class="promo-text-wrap"><%= f["promo_text"] %></div>
                         <div style="height: 15px;">
-                          <img src="images/spacer.gif" alt="" height="15" width="1">
+                          <img src="<%=@base_spacer_img_url%>" alt="" height="15" width="1">
                         </div>
                           <div class="button-outer-wrap"><!--[if mso]>
                            <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
@@ -556,7 +556,7 @@
               </tr>
               <tr>
                 <td class="cell-height" height="10">
-                  <img src="images/spacer.gif" alt="" height="10" width="1">
+                  <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
                 </td>
               </tr>
               <tr>
@@ -565,7 +565,7 @@
                  <table border="0" width="100%" cellpadding="0" cellspacing="0">
                   <tr>
                     <td width="30">
-                        <img src="images/spacer.gif" alt="" height="1" width="30">
+                        <img src="<%=@base_spacer_img_url%>" alt="" height="1" width="30">
                     </td>
                     <td valign="top" align="left" class="container">
                       <!--[if mso]>
@@ -577,7 +577,7 @@
                             <%= f["promo_text"] %>
                           </td>
                           <td width="25" class="go-away">
-                            <img src="images/spacer.gif" alt="" height="1" width="25" class="go-away">
+                            <img src="<%=@base_spacer_img_url%>" alt="" height="1" width="25" class="go-away">
                           </td>
                         </tr>
                       </table>
@@ -612,10 +612,10 @@
                            </td>
                          </tr>
                        </table>
-
+                       <!--[if mso]></td></tr></table><![endif]-->
                     </td>
                     <td width="30">
-                        <img src="images/spacer.gif" alt="" height="1" width="30">
+                        <img src="<%=@base_spacer_img_url%>" alt="" height="1" width="30">
                     </td>
                   </tr>
                  </table>
@@ -624,7 +624,7 @@
               </tr>
               <tr>
                 <td height="15" class="cell-height">
-                  <img src="images/spacer.gif" alt="" height="15" width="1">
+                  <img src="<%=@base_spacer_img_url%>" alt="" height="15" width="1">
                 </td>
               </tr>
             <% end %>
@@ -638,25 +638,25 @@
               </tr>
               <tr>
                 <td class="cell-height" height="10">
-                  <img src="images/spacer.gif" alt="" height="10" width="1">
+                  <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
                 </td>
               </tr>
               <tr>
-                <td valign="top" align="left">
+                <td valign="top" align="center">
 
                  <table border="0" width="100%" cellpadding="0" cellspacing="0">
                   <tr>
-                    <td width="30">
-                        <img src="images/spacer.gif" alt="" height="1" width="30">
-                    </td>
                     <td valign="top" align="center" class="container">
+                      <!--[if mso]>
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr><td width="350" valign="top"><![endif]-->
                        <table border="0" cellpadding="0" cellspacing="0" width="180" align="center" class="force-row">
                          <tr>
                            <td valign="middle" align="center" class="text-center">
                             
                              <center>
                                 <div class="button-outer-wrap button-promo-wrap"><!--[if mso]>
-                                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
+                                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
                                     <w:anchorlock/>
                                     <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%= f["promo_btn_text"] %></center>
                                   </v:rect>
@@ -681,10 +681,7 @@
                            </td>
                          </tr>
                        </table>
-
-                    </td>
-                    <td width="30">
-                        <img src="images/spacer.gif" alt="" height="1" width="30">
+                       <!--[if mso]></td></tr></table><![endif]-->
                     </td>
                   </tr>
                  </table>
@@ -693,7 +690,7 @@
               </tr>
               <tr>
                 <td height="15" class="cell-height">
-                  <img src="images/spacer.gif" alt="" height="15" width="1">
+                  <img src="<%=@base_spacer_img_url%>" alt="" height="15" width="1">
                 </td>
               </tr>
             <% end %>
@@ -707,37 +704,30 @@
               </tr>
               <tr>
                 <td class="cell-height" height="10">
-                  <img src="images/spacer.gif" alt="" height="10" width="1">
+                  <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
                 </td>
               </tr>
               <tr>
-                <td valign="top" align="left">
-					<center>
-						<%= f["promo_text"] %>
-					</center>
-                </td>
-              </tr>
-              <tr>
-                <td height="10" class="cell-height">
-                  <img src="images/spacer.gif" alt="" height="10" width="1">
-                </td>
-              </tr>
-              <tr>
-                <td valign="top" align="left">
+                <td valign="top" align="center">
 
                  <table border="0" width="100%" cellpadding="0" cellspacing="0">
                   <tr>
-                    <td width="30">
-                        <img src="images/spacer.gif" alt="" height="1" width="30">
-                    </td>
                     <td valign="top" align="center" class="container">
+						<%= f["promo_text"] %>
+					</td>
+				  </tr>
+                  <tr>
+                    <td valign="top" align="center" class="container">
+                      <!--[if mso]>
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tr><td width="350" valign="top"><![endif]-->
                        <table border="0" cellpadding="0" cellspacing="0" width="180" align="center" class="force-row">
                          <tr>
                            <td valign="middle" align="center" class="text-center">
                             
                              <center>
                                 <div class="button-outer-wrap button-promo-wrap"><!--[if mso]>
-                                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
+                                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
                                     <w:anchorlock/>
                                     <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%= f["promo_btn_text"] %></center>
                                   </v:rect>
@@ -762,10 +752,7 @@
                            </td>
                          </tr>
                        </table>
-
-                    </td>
-                    <td width="30">
-                        <img src="images/spacer.gif" alt="" height="1" width="30">
+                       <!--[if mso]></td></tr></table><![endif]-->
                     </td>
                   </tr>
                  </table>
@@ -774,7 +761,7 @@
               </tr>
               <tr>
                 <td height="15" class="cell-height">
-                  <img src="images/spacer.gif" alt="" height="15" width="1">
+                  <img src="<%=@base_spacer_img_url%>" alt="" height="15" width="1">
                 </td>
               </tr>
             <% end %>
@@ -794,7 +781,7 @@
 			<% if @base_callout_img_url!='' %>
               <tr>
                 <td height="10" class="cell-height">
-                  <img src="images/spacer.gif" alt="" height="10" width="1">
+                  <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
                 </td>
               </tr>
             <tr>
@@ -806,7 +793,7 @@
             </tr>
             <tr>
               <td class="cell-height" height="5">
-                <img src="images/spacer.gif" alt="" height="10" width="1">
+                <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
               </td>
             </tr>
 			<% end %>
@@ -814,7 +801,7 @@
           <!-- Footer nav -->
           <tr bgcolor="#000000" class="go-away">
             <td class="cell-height" height="5" bgcolor="#000000" class="go-away">
-              <img src="images/spacer.gif" alt="" height="5" width="1" class="go-away">
+              <img src="<%=@base_spacer_img_url%>" alt="" height="5" width="1" class="go-away">
             </td>
           </tr>
           <tr bgcolor="#000000">
@@ -827,13 +814,13 @@
           </tr>
           <tr bgcolor="#000000" class="go-away">
             <td class="cell-height" height="5" bgcolor="#000000" class="go-away">
-              <img src="images/spacer.gif" alt="" height="5" width="1" class="go-away">
+              <img src="<%=@base_spacer_img_url%>" alt="" height="5" width="1" class="go-away">
             </td>
           </tr>
 
           <tr>
             <td class="cell-height" height="10">
-              <img src="images/spacer.gif" alt="" height="10" width="1">
+              <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
             </td>
           </tr>
 
@@ -850,7 +837,7 @@
 
           <tr>
             <td class="cell-height" height="5">
-              <img src="images/spacer.gif" alt="" height="5" width="1">
+              <img src="<%=@base_spacer_img_url%>" alt="" height="5" width="1">
             </td>
           </tr>
 
@@ -860,7 +847,7 @@
               <table border="0" width="100%" cellpadding="0" cellspacing="0">
                 <tr>
                   <td width="15">
-                    <img src="images/spacer.gif" alt="" height="1" width="15">
+                    <img src="<%=@base_spacer_img_url%>" alt="" height="1" width="15">
                   </td>
                    <td class="footer-text" align="left" valign="top">
                      <%=@base_footer_text%>
@@ -878,7 +865,7 @@
                      </div>
                   </td>
                   <td width="15">
-                    <img src="images/spacer.gif" alt="" height="1" width="15">
+                    <img src="<%=@base_spacer_img_url%>" alt="" height="1" width="15">
                   </td>
                 </tr>
               </table>
