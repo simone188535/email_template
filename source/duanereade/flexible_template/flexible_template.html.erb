@@ -49,6 +49,7 @@
         }
         table td {border-collapse:collapse;}
         table, tr, td {text-align: left;}
+        td.container.center {text-align: center;}
         img{
             display: block;
             border:none;
@@ -712,10 +713,15 @@
 
                  <table border="0" width="100%" cellpadding="0" cellspacing="0">
                   <tr>
-                    <td valign="top" align="center" class="container">
+                    <td valign="top" align="center" class="container center">
 						<%= f["promo_text"] %>
 					</td>
 				  </tr>
+	              <tr>
+	                <td class="cell-height" height="5">
+	                  <img src="<%=@base_spacer_img_url%>" alt="" height="5" width="1">
+	                </td>
+	              </tr>
                   <tr>
                     <td valign="top" align="center" class="container">
                       <!--[if mso]>
