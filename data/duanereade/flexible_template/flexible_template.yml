@@ -72,6 +72,21 @@ articles:
   url: ""
   img: "http://placehold.it/600x300/999999/000000?text=IMAGE"
   img_alt: "The complete Skincare Set to help mom look and feel beautiful this Mother's Day"
+  
+- type: 'image-2-columns'
+  url: ''
+  img: 'http://placehold.it/300x300/666666/000000?text=image-2-column'
+  img_alt: 'left image'
+  url_2: ''
+  img_2: 'http://placehold.it/300x300/333333/000000?text=image-2-column'
+  img_alt_2: 'right image'
+
+- type: "image"
+  url: ""
+  img: "http://placehold.it/600x300/999999/000000?text=IMAGE"
+  img_alt: "The complete Skincare Set to help mom look and feel beautiful this Mother's Day"
+  
+
 
 footernav:
 - text: "Weekly Ad"

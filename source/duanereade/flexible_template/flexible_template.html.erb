@@ -780,6 +780,27 @@
               </td>
             </tr>
             <% end %>
+			<% if f["type"]== "image-2-columns" %>
+            <tr>
+              <td valign="top" align="center">
+				  <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+					  <tr>
+						  <td>
+			                <a href="<%= f["url"] %>">
+			                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+			                </a>
+
+						  </td>
+						  <td>
+			                <a href="<%= f["url_2"] %>">
+			                  <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
+			                </a>
+						  </td>
+					  </tr>
+				  </table>
+              </td>
+            </tr>
+            <% end %>
 
             <% end %>
 
