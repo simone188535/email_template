@@ -6,6 +6,4 @@ gem "middleman", "~>3.4.1"
 gem "activesupport"
 gem "pry"
 
-
-gem "middleman-livereload", "3.4.4"
 gem "fuelsdk"

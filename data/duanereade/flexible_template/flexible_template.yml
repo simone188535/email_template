@@ -34,35 +34,59 @@ articles:
   text_img_url: "http://placehold.it/300x300/666666/000000?text=product-left-image"
   text_img_alt: "Look youthful and fresh"
   promo_text: "<strong>Roc Skin</strong>"
-  promo_btn_url: "http://www.walgreens.com/store/c/skin-care-products/ID=360323-tier2general?exp=A"
+  promo_btn_url: ""
   promo_btn_text: "Shop now &rsaquo;"
   product_img_url: "http://placehold.it/300x360/333333/000000?text=IMAGE"
   product_img_alt: "Stay protected from the sun"
+
 - type: "product-right-image"
   text_img_url: "http://placehold.it/600x300/999999/000000?text=product-right-image"
   text_img_alt: "Look youthful and fresh"
   promo_text: "<strong>Coppertone or Bain de Soleil Sun Care</strong><br />Select varieties."
-  promo_btn_url: "http://www.walgreens.com/store/c/first-aid/ID=360533-tier2general?exp=A"
+  promo_btn_url: ""
   promo_btn_text: "Shop now &rsaquo;"
   product_img_url: "http://placehold.it/300x360/666666/000000?text=IMAGE"
   product_img_alt: "Coppertone or Bain de Soleil Sun Care"
+
+- type: "story-image-center-text"
+  img: "http://placehold.it/600x300/999999/000000?text=story-image-center-text"
+  img_alt: "Coppertone or Bain de Soleil Sun Care"
+  promo_btn_url: ""
+  promo_btn_text: "Shop now &rsaquo;"
+  promo_text: "Use promo code: <strong style='color: #e61131;'>GETGRADREADY</strong>"
+
 - type: "story-image"
   img: "http://placehold.it/600x300/999999/000000?text=story-image"
   img_alt: "Coppertone or Bain de Soleil Sun Care"
-  promo_btn_url: "http://www.walgreens.com/store/c/first-aid/ID=360533-tier2general?exp=A"
+  promo_btn_url: ""
   promo_btn_text: "Shop now &rsaquo;"
   promo_text: "<strong>Roc Skin</strong>"
-  promo_btn_url: "http://www.walgreens.com/store/c/skin-care-products/ID=360323-tier2general?exp=A"
-  promo_btn_text: "Shop now &rsaquo;"
+
 - type: "story-image-no-text"
   img: "http://placehold.it/600x300/333333/000000?text=story-image-no-text"
   img_alt: "Coppertone or Bain de Soleil Sun Care"
-  promo_btn_url: "http://www.walgreens.com/store/c/first-aid/ID=360533-tier2general?exp=A"
+  promo_btn_url: ""
   promo_btn_text: "Shop now &rsaquo;"
+
 - type: "image"
-  url: "http://www.walgreens.com/topic/brand/boots-beauty.jsp"
+  url: ""
   img: "http://placehold.it/600x300/999999/000000?text=IMAGE"
   img_alt: "The complete Skincare Set to help mom look and feel beautiful this Mother's Day"
+  
+- type: 'image-2-columns'
+  url: ''
+  img: 'http://placehold.it/300x300/666666/000000?text=image-2-column'
+  img_alt: 'left image'
+  url_2: ''
+  img_2: 'http://placehold.it/300x300/333333/000000?text=image-2-column'
+  img_alt_2: 'right image'
+
+- type: "image"
+  url: ""
+  img: "http://placehold.it/600x300/999999/000000?text=IMAGE"
+  img_alt: "The complete Skincare Set to help mom look and feel beautiful this Mother's Day"
+  
+
 
 footernav:
 - text: "Weekly Ad"
@@ -90,4 +114,6 @@ socialnav:
   alt: "Twitter"
 - img: "images/site-link.jpg"
   link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
-  alt: "Duanereade"
+  alt: "Duane Reade"
+
+spacer_img_url: 'images/spacer.gif'

@@ -1,0 +1,136 @@
+title: 'Let’s Get Ready To Party!'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail'
+
+logo_img: ''
+logo_alt: 'Kings Food Markets'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7878a77-91ba-4798-8909-c9a383785b5f.jpg?ver=1462839230000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d1a8a42-7b19-4797-8374-7f2b4b7f22c9.jpg?ver=1462839230000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd97367a-001e-4325-9638-f7dfd81ffc02.jpg?ver=1462839230000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/04d49274-f15e-4085-b715-c3063127e9dc.jpg?ver=1462839230000"
+footer_youtube_alt: "youtube"
+
+# Loop through articles
+articles:
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d9bf4847-02c5-425c-87c9-60a2eb67695a.jpg?ver=1462849806000"
+  img_alt: "Let the Party Begin! Master spring entertaining with Kings full-service catering."
+  url: "http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2b2f2503-4e3b-4b1b-87ea-8a8c56fc690f.jpg?ver=1462849707000"
+  img_alt: "Party Platters | Perfect for Summer Occasions"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/24d6dd62-c86b-4eca-ac22-317f9120e3c8.jpg?ver=1462849707000"
+  img_alt: "Caprese Platter"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/328060cd-fccc-4211-9957-8c7759081106.jpg?ver=1462849707000"
+  img_alt_2: "Mezze Platter"
+  url_2: "http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a5653d30-df6f-4638-9def-c88f6302b349.jpg?ver=1462849707000"
+  img_alt: "View More"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6ddf5b75-d662-4e3c-96e1-84db7389fb0b.jpg?ver=1462849708000"
+  img_alt: "Happy Apple Pie Day | Taste and Save One Day Only"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bf69077e-b17d-4c0b-a2a3-3340eb607b65.jpg?ver=1462849708000"
+  img_alt: "Kings Fresh Baked Apple Pie | Join us Friday, May 13 as we celebrate National Apple Pie Day. Stop in for a free sample from 10am-2pm, and SAVE $5 on a fresh pie to take homeÑone day only! Learn More"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b7afabd0-02dd-4603-9c67-ec5c1d07b3ef.jpg?ver=1462849707000"
+  img_alt: "Kings Catering | Full-Service Experience with a Personal Touch"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2d452b9c-d07d-4554-91a8-7c26677c79f4.jpg?ver=1462849708000"
+  img_alt: "Event Planning | Servers, chefs and bartenders | Linens, silverware, china and glassware | Table, chair, tent, dance floor and generator rentals | Entertainment vendor recommendations"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/149544d2-1890-4316-a86b-38ac6d6ad9ee.jpg?ver=1462849708000"
+  img_alt: "Brilliant Blooms | We offer a variety of floral options, from custom bouquets and centerpieces to beautiful corsages and boutonnieres."
+  url: "http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f619ebfa-7b5c-41b1-b5d4-4afdf9ac454b.jpg?ver=1462849708000"
+  img_alt_2: "Chef Inspired Catering | We offer a wide selection of delicious meal options, all beautifully presented and ready to serve."
+  url_2: "http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f78435b7-d0c2-469c-b7ba-ae8b1117e15a.jpg?ver=1462849708000"
+  img_alt: "Serving Guidelines | Main Dish: 1.5 servings/guest | Fruits & Veggies: 2 large platters/25 guests | Appetizers: 6 pieces/guest | Drinks: 4 gallons/25 guests"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d80e3d26-cb72-477c-8ae9-412bd27bca5c.jpg?ver=1462849708000"
+  img_alt: "Learn More"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fbb910ff-12f9-4a07-ad73-302e958f09da.jpg?ver=1462849708000"
+  img_alt: "Fresh and First of the Season"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8ff7b612-aab5-44fc-9e67-902228e89405.jpg?ver=1462849708000"
+  img_alt: "First of the Season Cherries"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ab8af268-6dd5-4e83-8494-08c1ea99660d.jpg?ver=1462849709000"
+  img_alt_2: "Cherry Salsa | View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/cherry-salsa?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1b975c06-e1c2-4779-b089-c0de37666b29.jpg?ver=1462849709000"
+  img_alt: "Market Specials"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57207ca3-0009-44bd-8834-dc30bef2acf1.jpg?ver=1462849710000"
+  img_alt: "Kings Signature Salmon Burgers - Great on the Grill! 5.99 EA."
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/208fdb17-5ba7-4a42-9086-2ac938231ccf.jpg?ver=1462849710000"
+  img_alt_2: "New! Cinnamon Cruffins 2 Pack 2.99 EA."
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c6cb30db-e284-45fa-9954-6a9a841cdd46.jpg?ver=1462849710000"
+  img_alt: "View More Specials"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
