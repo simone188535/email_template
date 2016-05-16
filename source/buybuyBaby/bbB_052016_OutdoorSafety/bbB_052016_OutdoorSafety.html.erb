@@ -187,9 +187,9 @@
             color: #000000 !important;
           }
 
-          .social-links img {
+         /* .social-links img {
             display: inline-block !important;
-          }
+          }*/
 
           .callout, .callout td {
             color: #ffffff;
@@ -524,8 +524,8 @@
             <!-- Footer nav -->
 
             <tr>
-              <td height="10" class="cell-height">
-                <img src="images/spacer.gif" height="10" width="1" alt="">
+              <td height="20" class="cell-height">
+                <img src="images/spacer.gif" height="20" width="1" alt="">
               </td>
             </tr>
 
@@ -535,7 +535,7 @@
 
                 <table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
                   <tr>
-                    <td width="157" headers="33"><img src="images/spacer.gif" height="33" width="171" alt=""></td>
+                    <td width="157" height="33"><img src="images/spacer.gif" height="33" width="157" alt=""></td>
                       <% @base_data_file.socialnav.each do |f| %>
                         <td valign="top" width="57" height="33">
                             <a href="<%= f["link"] %>">
@@ -543,7 +543,7 @@
                             </a>
                         </td>
                       <% end %>
-                    <td width="158" headers="33"><img src="images/spacer.gif" height="33" width="171" alt=""></td>
+                    <td width="158" height="33"><img src="images/spacer.gif" height="33" width="158" alt=""></td>
                   </tr>
                 </table>
 
