@@ -1,9 +1,10 @@
-title: 'Make your registry public'
+title: 'Outdoor Safety'
 
 primary_color: '#ffffff'
 
-pre_header_text: 'Make your registry public'
+pre_header_text: ''
 
+<<<<<<< HEAD
 header_instore_link: 'http://www.buybuybaby.com/store/static/reserveonline?mcid=EM_Promo_Rolling_PrivateReg_NoOffer'
 header_instore_img: "https://mlsvc01-prod.s3.amazonaws.com/5e0c4c3b401/76eb56f2-5997-4afd-b1f7-2f0c900c28b3.jpg?ver=1463163186000"
 header_instore_alt: "in-store pick-up reserve online pay in-store learn more &#62"
@@ -26,6 +27,31 @@ top_nav_shop_alt: "shop by brand"
 
 top_nav_clearance_link: "http://www.buybuybaby.com/store/category/clearance/30010/?mcid=EM_Promo_Rolling_PrivateReg_NoOffer"
 top_nav_clearance_img: "https://mlsvc01-prod.s3.amazonaws.com/5e0c4c3b401/279de642-efa5-436f-af7d-1c6238c45e1b.jpg?ver=1463163186000"
+=======
+header_instore_link: 'http://www.buybuybaby.com/store/static/reserveonline?mcid=EM_Promo_201605_OutdoorSafety_NoOffer'
+header_instore_img: "images/in_store.jpg"
+header_instore_alt: "in-store pick-up reserve online pay in-store learn more >"
+
+header_logo_link: 'http://www.buybuybaby.com/store?mcid=EM_Promo_201605_OutdoorSafety_NoOffer'
+header_logo_img: "images/logo.jpg"
+header_logo_alt: "buybuy Baby Logo"
+
+
+header_registry_link: 'http://www.buybuybaby.com/store/page/BabyRegistry?mcid=EM_Promo_201605_OutdoorSafety_NoOffer'
+header_registry_img: "images/baby_reg.jpg"
+header_registry_alt: "baby registry logo"
+
+top_nav_whatsnew_link: "http://www.buybuybaby.com/store/category/whats-new/30008/?mcid=EM_Promo_201605_OutdoorSafety_NoOffer "
+top_nav_whatsnew_img: "images/whats_new.jpg"
+top_nav_whatsnew_alt: "what&#39;s new"
+
+top_nav_shop_link: "http://www.buybuybaby.com/store/page/brands?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+top_nav_shop_img: "images/shop_brand.jpg"
+top_nav_shop_alt: "shop by brand"
+
+top_nav_clearance_link: "http://www.buybuybaby.com/store/category/clearance/30010/?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+top_nav_clearance_img: "images/clearance.jpg"
+>>>>>>> 59372d25454ce5a6c091a65d9600000a1dcbffa9
 top_nav_clearance_alt: "clearance"
 
 
@@ -41,11 +67,17 @@ copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holding
 # Loop through articles
 articles:
 - type: 'image'
+<<<<<<< HEAD
   img: 'https://mlsvc01-prod.s3.amazonaws.com/5e0c4c3b401/d805f943-4f3b-462e-96ce-e7223765d05f.jpg?ver=1463163183000'
   img_alt: "FREE SHIPPING on orders over $99. Limited time! view details &#62"
+=======
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_01.jpg'
+  img_alt: "FREE SHIPPING on orders over $99. Limited time! view details >"
+>>>>>>> 59372d25454ce5a6c091a65d9600000a1dcbffa9
   url: "http://www.buybuybaby.com/store/static/ShippingPolicies?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
-
+  height: "81"
 - type: 'image'
+<<<<<<< HEAD
   img: 'https://mlsvc01-prod.s3.amazonaws.com/5e0c4c3b401/555dc56f-515a-43e7-ac25-856cfc2a5f27.jpg?ver=1463163183000'
   img_alt: "top safety picks visit our safety headquarters &#62"
   url: "http://www.buybuybaby.com/store/static/safetyheadquarters/?icid=healthsafety_Promoarea3-healthsafety?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
@@ -132,10 +164,118 @@ articles:
   url: "http://www.buybuybaby.com/store/brand/babyganics/651/1-48?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
   img_2: 'https://mlsvc01-prod.s3.amazonaws.com/5e0c4c3b401/976282c2-5962-4071-908a-5c007dfb630c.jpg?ver=1463163186000'
   img_alt_2: "$5 buybuy BABY Gift Card with a purchase of 15 Plum® Organics baby food pouches. shop now &#62"
+=======
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_02.jpg'
+  img_alt: "top safety picks visit our safety headquarters >"
+  url: "http://www.buybuybaby.com/store/static/safetyheadquarters/?icid=healthsafety_Promoarea3-healthsafety?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "324"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_03.jpg'
+  img_alt: "shop safety >"
+  url: "http://www.buybuybaby.com/store/category/health-safety/30004/?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "69"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_04.jpg'
+  img_alt: "outdoor & travel safety "
+  url: "#"
+  height: "92"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_05.jpg'
+  img_alt: "Superyard Colorplay Ultimate Playard by North States 89.99"
+  url: "http://www.buybuybaby.com/store/product/north-states-superyard-colorplay-ultimate-playard/3259696?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "348"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_06.jpg'
+  img_alt: "fourth of july friendly! earBanZ Kids Hearing Protection Headphones by Baby BanZ 29.99"
+  url: "http://www.buybuybaby.com/store/product/baby-banz-earbanz-kids-hearing-protection-headphones/3282407?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "340"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_07.jpg'
+  img_alt: "Child Safety Silicone Wristband by Buddy Tag™ 37.99 SMART INNOVATION"
+  url: "http://www.buybuybaby.com/store/product/buddytag-trade-child-safety-silicone-wristband/3268095?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "446"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_08.jpg'
+  img_alt: "Classic Toddler Sunglasses by Babiators® Shown in Black Ops 19.99"
+  url: "http://www.buybuybaby.com/store/product/babiators-reg-classic-babiators-toddler-sunglasses-in-black-ops/1042894889?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "289"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_09.jpg'
+  img_alt: "Kids Fly Safe™ Airplane Safety Harness by Cares® 74.99"
+  url: "http://www.buybuybaby.com/store/product/cares-reg-kids-fly-safe-airplane-safety-harness/1042525790?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "369"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_10.jpg'
+  img_alt: "KidAlert & Pup Visual Warning Buddies by Step2® 29.99 need more stuff? Spend $99 & get FREE SHIPPING!"
+  url: "http://www.buybuybaby.com/store/product/step2-kidalert-pup-visual-warning-buddies/1043730063?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "473"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_11.jpg'
+  img_alt: "indoor safety"
+  url: "#"
+  height: "52"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_12.jpg'
+  img_alt: "Home Safe Custom Fit Gate by Summer Infant® 99.99 FREE SHIPPING"
+  url: "http://www.buybuybaby.com/store/product/home-safe-by-summer-infant-reg-custom-fit-gate-in-grey/1045371844?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "365"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_13.jpg'
+  img_alt: "MBP38S-2 Digital Video Baby Monitor by Motorola® 259.99 FREE SHIPPING"
+  url: "http://www.buybuybaby.com/store/product/motorola-reg-mbp38s-2-digital-video-baby-monitor-with-2-cameras/1045994692?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "274"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_14.jpg'
+  img_alt: "Snuza® Hero SE Baby Movement Monitor by Snuza® 119.99 FREE SHIPPING"
+  url: "http://www.buybuybaby.com/store/product/snuza-reg-hero-se-baby-movement-monitor/1045903830?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "364"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_15.jpg'
+  img_alt: "46pc Safety Essential Set by Safety 1st®  8.99"
+  url: "http://www.buybuybaby.com/store/product/safety-1st-reg-46-piece-safety-essential-set-in-cream/1044981778?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "289"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_16.jpg'
+  img_alt: "shop safety >"
+  url: "http://www.buybuybaby.com/store/category/health-safety/30004/?subCatPlp=true&mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "54"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_17.jpg'
+  img_alt: "You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find-store option for easy pick-up. Prices valid only in contiguous United States."
+  url: "#"
+  height: "72"
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_18.jpg'
+  img_alt: "more to shop"
+  url: "#"
+  height: "65"
+- type: 'image-2-columns'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_19-new.jpg'
+  img_alt: "cart covers >"
+  url: "http://www.buybuybaby.com/store/category/health-safety/travel-safety/cart-covers/32495/?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "250"
+  img_2: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_20-new.jpg'
+  img_alt_2: "first aid kits >"
+  url_2: "http://www.buybuybaby.com/store/product/first-aid-only-trade-soft-pack-131-piece-first-aid-kit/1013345430?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+
+- type: 'image'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_21.jpg'
+  img_alt: "summertime essentials shop now >"
+  url: "http://www.buybuybaby.com/store/s/bugandsun?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "222"
+- type: 'image-2-columns'
+  img: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_22.jpg'
+  img_alt: "$5 buybuy BABY gift card with purchase of $25 or more on Babyganics® items. shop now >"
+  url: "http://www.buybuybaby.com/store/brand/babyganics/651/1-48?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  height: "347"
+  img_2: 'images/bbB_152_052016_OutdoorSafety_v1_r10_DEV_23.jpg'
+  img_alt_2: "$5 buybuy BABY Gift Card with purchase of 15 Plum® Organics baby food pouches. shop now >"
+>>>>>>> 59372d25454ce5a6c091a65d9600000a1dcbffa9
   url_2: "http://www.buybuybaby.com/store/brand/plum-organics/857/1-48?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
 
 socialnav:
 - link: "http://www.facebook.com/buybuyBABY?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+<<<<<<< HEAD
   img: "https://mlsvc01-prod.s3.amazonaws.com/5e0c4c3b401/2a2e2d3c-ba7c-4802-908b-04e3b9f25379.jpg?ver=1463163186000"
   alt: "Facebook logo"
 - link: "https://twitter.com/buybuybaby?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
@@ -149,4 +289,29 @@ socialnav:
   alt: "YouTube logo"
 - link: "http://instagram.com/buybuybaby?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
   img: "https://mlsvc01-prod.s3.amazonaws.com/5e0c4c3b401/d383e18f-2fd3-4be3-95be-9e08369afea6.jpg?ver=1463163186000"
+=======
+  img: "images/facebook.jpg"
+  alt: "Facebook logo"
+  width: "205"
+  height: "75"
+- link: "https://twitter.com/buybuybaby?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  img: "images/twitter.jpg"
+  alt: "Twitter logo"
+  width: "68"
+  height: "75"
+- link: "http://www.pinterest.com/buybuybaby?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  img: "images/pinterest.jpg"
+  alt: "Pinterest logo"
+  width: "52"
+  height: "75"
+- link: "http://www.youtube.com/user/buybuybaby?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  img: "images/youtube.jpg"
+  alt: "YouTube logo"
+  width: "61"
+  height: "75"
+- link: "http://instagram.com/buybuybaby?mcid=EM_Promo_201605_OutdoorSafety_NoOffer"
+  img: "images/instagram.jpg"
+>>>>>>> 59372d25454ce5a6c091a65d9600000a1dcbffa9
   alt: "Instagram logo"
+  width: "171"
+  height: "75"
