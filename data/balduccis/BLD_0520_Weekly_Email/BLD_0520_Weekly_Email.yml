@@ -1,0 +1,118 @@
+title: 'Bright and Bubbly Brunch Ideas'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header images
+logo_img_1: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/29c38060-5d1a-4dae-b6bb-21bddc10c381.jpg'
+header_spacer: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a75ecd5b-4457-4706-b849-34721d1dfa26.jpg'
+header_spacer_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f091828c-94d2-4c5e-9b6d-f63b26671773.jpg'
+find_store_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2ef8a9a0-cca2-451b-ba32-5ca37a7555aa.jpg'
+logo_img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/67baab2b-df96-407d-bedb-47a25e12e32b.jpg'
+my_balduccis_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/21ee96a3-2a9a-4cb2-a5a4-dabaca425b7f.jpg'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/41597ee7-d6ce-44e9-871a-f695c670dae4.jpg'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b22f8e83-8ab7-410e-8ad0-a3fc202de8de.jpg'
+
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+weekly_circular_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+catering_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e6ed1854-d338-4143-9731-8b627bd5f4a3.jpg"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9c640cc0-44d1-455a-a29c-8ed4953febc1.jpg"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b557eddc-8481-4f1b-a1ec-125ebe753115.jpg"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4c57b09f-0172-4f72-b948-0dd78eccb8e1.jpg?ver=1463493303000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de6203f6-59bd-4149-b275-d98ce044ca31.jpg?ver=1463493303000'
+  img_alt: "Summer Kick-Off Celebrate with the season\'s best flavors"
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/08f6d448-c3c1-4d7f-9053-887907cf4e9f.jpg?ver=1463493303000'
+  img_alt: 'Fresh Ideas | Summer Sensations'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/28b5e224-51b6-4a76-9209-0b29fabf5d58.jpg?ver=1463493303000'
+  img_alt: "Balducci's Marinades Made with the finest and freshest ingredients. Choose from Chipotle Lime, Ginger Plum, Citrus Basil, Provencal, and Thai."
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cb1316bb-7881-419d-999d-7cc65335338a.jpg?ver=1463493304000'
+  img_alt: "Balducci's Staff Pick: WTRMLN WTR Watermelon Water Deliciously hydrating cold-pressed watermelon water with a hint of fresh lemon."
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6cedb406-901f-4dad-8bdd-7e6e263f93cf.jpg?ver=1463493304000'
+  img_alt: "Greek Pasta Salad Entertain with ease with our Chef Prepared salads, perfect for a grab-and-go dinner!"
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d1cf06e1-b36b-437d-b60a-4f82c3f0ba34.jpg?ver=1463493304000'
+  img_alt: "Stonewall Citrus Teriyaki or Sesame Ginger Teriyaki Sauce A blend of bright citrus flavors and tangy teriyaki that's perfect for marinating meat, slathering over seafood, or dipping grilled vegetables."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8c3af0d0-5289-4a5c-aa8f-da56d4b0ec94.jpg?ver=1463493304000'
+  img_alt: 'Member Exclusive | Fresh Specials'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6fbe4653-e435-4ca5-8594-bbbc4fab4051.jpg?ver=1463493304000'
+  img_alt: "Balducci's Staff Pick: Stilton with Mango & Ginger Member Exclusive: 17.99/LB Reg 21.99"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/416314d9-d224-410d-99ed-0aee5d8c6fb2.jpg?ver=1463493304000'
+  img_alt: "Made Fresh In-Store: Natural Italian-Style Pork Sausage Member Exclusive: 5.99/LB Reg 7.99"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eda9a027-9358-45b2-9f63-ba56d2617f08.jpg?ver=1463493304000'
+  img_alt: 'Cool Off | Summer Cocktails'
+
+- type: "image-2-columns"
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ac240b0d-521a-4876-a273-8d3f61daa59a.jpg?ver=1463493305000'
+  img_alt: "Rosemary Tangerine Cocktail View Recipe"
+  url_2: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ac2e811a-9eff-4b71-826b-d53191f19c83.jpg?ver=1463493305000'
+  img_alt_2: "Stone Fruit Sangria View Recipe"
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ed6aba9c-8254-450d-889c-dfe1d1a4f487.jpg?ver=1463493305000'
+  img_alt: "What's New | At Balducci's"
+
+- type: "image"
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/38ed5997-cf35-4591-a0c1-2731e3ed5023.jpg?ver=1463493305000'
+  img_alt: "New! Vegetable Skewers Stop by and pick up our new vegetable skewers - made in-store with the freshest produce, ready to marinate and throw on the grill."
