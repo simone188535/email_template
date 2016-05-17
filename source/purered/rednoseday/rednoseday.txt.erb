@@ -2,25 +2,3 @@
 <% instance_variable_set("@base_data_file", data.purered.rednoseday.rednoseday) %>
 <% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 
-<%= @base_pre_header_text %>
-
-
-<% @base_data_file.footernav.each do |f| %>
-<%= f["text"] %>
-<%= f["link"] %>
-
-<% end %>
-
-<% @base_data_file.socialnav.each do |f| %>
-<%= f["alt"] %>
-<%= f["link"] %>
-
-<% end %>
-
-<%=@base_unsubscribe_text%>
-<%=@base_unsubscribe_link%>
-
-<%=@base_privacy_text%>
-<%=@base_privacy_link%>
-
-<%=@base_copyright%>

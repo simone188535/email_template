@@ -60,6 +60,11 @@
         img.desktop-responsive {
           width: 600px !important;
         }
+        img.responsive {
+          width: auto !important;
+          height: auto !important;
+          max-width: 100%;
+        }
         a img {
           border:none;
         }
@@ -289,10 +294,35 @@
 		  }
 		  .container td {
         display: block !important;
-	          width: 600px !important;
+	          width: 600px;
 	          max-width: 600px !important;
 		  }
-		  
+      .container td.spacer {
+        width: 15px !important;
+      }
+		  .footer-text, .footer-subtext {
+        color: #ffffff;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 30px;
+        text-align: center;
+        line-height: 34px;
+      }
+      .footer-text span {
+        font-size: 40px;
+      }
+
+      .footer-subtext {
+        font-size: 14px;
+        line-height: 18px;
+      }
+
+      .footer-logo {
+        display: inline-block !important;
+      }
+
+      img.inline {
+        display: inline-block !important;
+      }
 
     </style>
 
@@ -319,12 +349,20 @@
             display: table-cell !important;
 		  }
 
-      td[class="container"] td, td {
+      td {
         display: table-cell !important;
         width: auto !important;
-        max-width: 100% !important;
+        width: 300px !important;
         /*width: 100% !important;
         max-width: 100% !important;*/
+      }
+
+      td[class="spacer"] {
+        width: 15px !important;
+      }
+
+      td[class="footer-text"] span {
+        display: block;
       }
 
         table[class="force-row"],
@@ -505,8 +543,8 @@
 -->
 						 <td width="100%" class="desktopStack">
 							  <table  border="0" cellpadding="0" cellspacing="0" align="center">
-								  <tr rowspan="2">
-									  <td>
+								  <tr>
+									  <td rowspan="2">
 						                <a href="<%= @base_img05_url %>">
 						                  <img src="<%= @base_img05_img %>" alt="<%= @base_img05_img_alt %>" title="<%= @base_img05_img_alt %>" class="desktop-responsive">
 						                </a>
@@ -557,8 +595,8 @@
 						 </td>
 						 <td width="100%" class="desktopStack">
 							  <table  border="0" cellpadding="0" cellspacing="0" align="center">
-								  <tr rowspan="2">
-									  <td>
+								  <tr>
+									  <td rowspan="2">
 						                <a href="<%= @base_img10_url %>">
 						                  <img src="<%= @base_img10_img %>" alt="<%= @base_img10_img_alt %>" title="<%= @base_img10_img_alt %>" class="desktop-responsive">
 						                </a>
@@ -567,10 +605,7 @@
 								  </tr>
 							  </table>
 						  </td>
-<!--
-				    </tr>
-					<tr>
--->
+
 						  <td width="100%" class="desktopStack">
 							  <table  border="0" cellpadding="0" cellspacing="0" align="center">
 								  <tr>
@@ -590,21 +625,33 @@
 								  </tr>
 							  </table>
 						 </td>
-						 <td width="100%" class="desktopStack">
+						 <td width="100%" class="desktopStack" valign="top">
 							  <table  border="0" cellpadding="0" cellspacing="0" align="center">
 								  <tr>
-									  <td>
-						                <a href="<%= @base_img13_url %>">
-						                  <img src="<%= @base_img13_img %>" alt="<%= @base_img13_img_alt %>" title="<%= @base_img13_img_alt %>" class="desktop-responsive">
-						                </a>
-
+									  <td align="center">
+                      <table  border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                          <td width="15" class="spacer">
+                            <img src="images/spacer.gif" alt="" height="1" width="15">
+                          </td>
+                          <td class="footer-text">
+                            <br><br>
+						                <b><%= @base_footer_text %></b><br><br>
+                          </td>
+                          <td width="15" class="spacer">
+                            <img src="images/spacer.gif" alt="" height="1" width="15">
+                          </td>
+                        </tr>
+                      </table>
 									  </td>
 								  </tr>
 								  <tr>
-									  <td>
+									  <td class="text-center footer-subtext" align="center">
 						                <a href="<%= @base_img14_url %>">
-						                  <img src="<%= @base_img14_img %>" alt="<%= @base_img14_img_alt %>" title="<%= @base_img14_img_alt %>" class="desktop-responsive">
-						                </a>
+						                  <img src="<%= @base_img14_img %>" alt="<%= @base_img14_img_alt %>" title="<%= @base_img14_img_alt %>" class="responsive inline footer-logo">
+						                </a><br><br>
+                              <b><%= @base_footer_subtext %></b><br>
+                              
 									  </td>
 								  </tr>
 							  </table>
@@ -618,83 +665,10 @@
 
 
 
-          <!-- Footer nav -->
-          <!-- tr bgcolor="#000000" class="go-away">
-            <td class="cell-height" height="5" bgcolor="#000000" class="go-away">
-              <img src="<%=@base_spacer_img_url%>" alt="" height="5" width="1" class="go-away">
-            </td>
-          </tr>
-          <tr bgcolor="#000000">
-            <td valign="top" align="center" class="footer-nav" bgcolor="#000000">
-              <% @base_data_file.footernav.each do |f| %><a class="footer-nav-link" href="<%= f["link"] %>" title="<%= f["text"] %>">
-                  <%= f["text"] %>
-                  </a><span class="white">&nbsp;<%= f["sep"] %>&nbsp;</span>
-              <% end %>
-            </td>
-          </tr>
-          <tr bgcolor="#000000" class="go-away">
-            <td class="cell-height" height="5" bgcolor="#000000" class="go-away">
-              <img src="<%=@base_spacer_img_url%>" alt="" height="5" width="1" class="go-away">
-            </td>
-          </tr>
-
-          <tr>
-            <td class="cell-height" height="10">
-              <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
-            </td>
-          </tr -->
-
-          <!-- Social links -->
-          <!-- tr>
-            <td valign="top" align="center" class="social-links">
-              <% @base_data_file.socialnav.each do |f| %>
-                <a href="<%= f["link"] %>">
-                  <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" class="responsive">
-                </a>
-              <% end %>
-            </td>
-          </tr>
-
-          <tr>
-            <td class="cell-height" height="5">
-              <img src="<%=@base_spacer_img_url%>" alt="" height="5" width="1">
-            </td>
-          </tr -->
-
-          <!-- Footer -->
-          <!-- tr>
-            <td align="left" valign="top">
-              <table border="0" width="100%" cellpadding="0" cellspacing="0">
-                <tr>
-                  <td width="15">
-                    <img src="<%=@base_spacer_img_url%>" alt="" height="1" width="15">
-                  </td>
-                   <td class="footer-text" align="left" valign="top">
-                     <%=@base_footer_text%>
-                     <div class="footer-end-links text-underline">
-                       <a href="<%=@base_unsubscribe_link%>" title="<%=@base_unsubscribe_text%>">
-                        <%=@base_unsubscribe_text%>
-                       </a> |
-                       <a href="<%=@base_privacy_link%>" title="<%=@base_privacy_text%>">
-                        <%=@base_privacy_text%>
-                      </a>
-                     </div>
-                     <div class="copyright">
-                        <br>
-                       <%=@base_copyright%>
-                     </div>
-                  </td>
-                  <td width="15">
-                    <img src="<%=@base_spacer_img_url%>" alt="" height="1" width="15">
-                  </td>
-                </tr>
-              </table>
-            </td>
-          </tr -->
+         
 
         </table>
           <!-- /600px container -->
-          <br><br>
       </td>
     </tr>
 </table>
