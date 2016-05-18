@@ -1,0 +1,133 @@
+title: 'Gourmet rewards club'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header images
+logo_img_1: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/29c38060-5d1a-4dae-b6bb-21bddc10c381.jpg'
+header_spacer: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a75ecd5b-4457-4706-b849-34721d1dfa26.jpg'
+header_spacer_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f091828c-94d2-4c5e-9b6d-f63b26671773.jpg'
+find_store_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2ef8a9a0-cca2-451b-ba32-5ca37a7555aa.jpg'
+logo_img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/67baab2b-df96-407d-bedb-47a25e12e32b.jpg'
+my_balduccis_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/21ee96a3-2a9a-4cb2-a5a4-dabaca425b7f.jpg'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/41597ee7-d6ce-44e9-871a-f695c670dae4.jpg'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b22f8e83-8ab7-410e-8ad0-a3fc202de8de.jpg'
+
+
+#header
+logo_link: 'http://balduccis.com'
+logo_alt: 'Balducci&#39;s'
+store_locator_link: 'http://www.balduccis.com/locations'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.balduccis.com/catering'
+weekly_circular_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://www.balduccis.com/rewards/overview'
+catering_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e6ed1854-d338-4143-9731-8b627bd5f4a3.jpg"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9c640cc0-44d1-455a-a29c-8ed4953febc1.jpg"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b557eddc-8481-4f1b-a1ec-125ebe753115.jpg"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: ''
+  img: 'images/BLD_036_weekly_email_0520_DIV01_02_DEV_10.jpg'
+  img_alt: '"Summer Kick-Off Celebrate with the season's best flavors"'
+
+- type: ''
+  url: ''
+  img: ''
+  img_alt: ''
+
+- type: ''
+  url: ''
+  img: ''
+  img_alt: ''
+
+- type: ''
+  url: ''
+  img: ''
+  img_alt: ''
+
+- type: ''
+  url: ''
+  img: ''
+  img_alt: ''
+
+- type: ''
+  url: ''
+  img: ''
+  img_alt: ''
+
+- type: ''
+  url: ''
+  img: ''
+  img_alt: ''
+
+- type: ''
+  url: ''
+  img: ''
+  img_alt: ''
+
+- type: ''
+  url: ''
+  img: ''
+  img_alt: ''
+
+- type: ''
+  url: ''
+  img: ''
+  img_alt: ''
+
+- type: ''
+  url: ''
+  img: ''
+  img_alt: ''
+
+- type: ""
+  url: ''
+  img: ''
+  img_alt: ''
+  url_2: ''
+  img_2: ''
+  img_alt_2: ''
+
+- type: ""
+  url: ''
+  img: ''
+  img_alt: ''
+  url_2: ''
+  img_2: ''
+  img_alt_2: ''
+
+- type: ''
+  url: ''
+  img: ''
+  img_alt: ''
+- type: ''
+  url: ''
+  img: ''
+  img_alt: ''
+- type: 'image'
+  url: ''
+  img: ''
+  img_alt: ''
+- type: ''
+  url: ''
+  img: ''
+  img_alt: ''

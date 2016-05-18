@@ -1,0 +1,22 @@
+title: '5/22 FWTS Coupons Inc'
+
+background_color: '#ffffff'
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://www.dollargeneral.com/home/index.jsp?&WT.tsrc=Email&WT.mc_id=FWTS2016&WT.z_campdate=May22'
+  img: 'http://www2.dollargeneral.com/Ads-and-Promos/Coupons/Pages/emails/images/052216_email_01.jpg'
+  img_alt: 'DG logo'
+- type: 'image'
+  url: 'https://dg.coupons.com/signup/&WT.tsrc=Email&WT.mc_id=FWTS2016&WT.z_campdate=May22'
+  img: 'http://www2.dollargeneral.com/Ads-and-Promos/Coupons/Pages/emails/images/052216_email_02.jpg'
+  img_alt: 'Sign Up Today'
+- type: 'image'
+  url: 'https://dg.coupons.com/dashboard/?categoryId=51185026&WT.tsrc=FWTS2016&WT.mc_id=DefaultCampaign&WT.z_campdate=May22'
+  img: 'http://www2.dollargeneral.com/Ads-and-Promos/Coupons/Pages/emails/images/052216_email_03.jpg'
+  img_alt: 'Offers'
+- type: 'image'
+  url: 'http://www2.dollargeneral.com/Seasonal/Pages/Summer.aspx?WT.z_tsrc=Email&WT.mc_id=FWTS2016&WT.z_campdate=May22'
+  img: 'http://www2.dollargeneral.com/Ads-and-Promos/Coupons/Pages/emails/images/052216_email_04.jpg'
+  img_alt: 'Summer'

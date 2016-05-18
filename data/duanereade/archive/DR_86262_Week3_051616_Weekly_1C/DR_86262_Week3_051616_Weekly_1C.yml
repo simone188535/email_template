@@ -1,0 +1,74 @@
+title: '5x is a charm'
+
+primary_color: '#d9447c'
+
+pre_header_text: 'Earn 5x Everyday Points all week long!'
+
+
+logo_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/86262_DR_Week3_051616_Weekly_1C_01.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+hero_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/86262_DR_Week3_051616_Weekly_1C_02.jpg'
+hero_img_alt: "5x Everyday Points on eligible orders over $10"
+hero_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+
+callout_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/86262_DR_Week3_051616_Weekly_1C_08.jpg'
+callout_img_alt: 'Get the app'
+callout_img_link: 'http://walgreens.com/mobile'
+
+footer_text: 'Offers valid 5/15-5/21/16<br><br><sup>*</sup>‭Offer valid 5/15-5/28/16. Points good on next purchase. Purchase requirement is before taxes, after discounts, and in a single transaction. Excludes prescriptions, alcohol; dairy; tobacco; ‭stamps; phone/prepaid/gift cards; money orders/transfers; transportation passes; lottery; donations; pseudoephedrine; ephedrine; clinic services; and ‭bonus point offers. For full terms, see store or Walgreens.com/Balance. Cannot combine or double. Coupon can also be clipped to your Balance Reward card or activated at Walgreens.com/Balance to be used in store or online.<br><br>&dagger;Between April 3, 2016 and June 4, 2016, Walgreens will donate to Comic Relief Inc.’s Red Nose Day Fund, $0.50 for each Red Nose purchased and 10% of the purchase price for every Red Flair item purchased (beads, bow ties, headbands, sunglasses, pens, mugs, cups and hats). The Red Nose Day Fund helps lift children out of poverty in the U.S. and overseas. For more information about the Red Nose Day Fund, visit rednoseday.org. For details on Red Nose Day Proud Supporters, see Walgreens.com/RedNoseDay. No portion of purchase is tax deductible.<br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade  does not guarantee the applicability or accuracy of any information mentioned in the Contents.<br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=hBXB7lnB8c6slB9MRfCAAAAAAAe&email'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 10005'
+
+# Loop through articles
+
+articles:
+- type: "story-image-no-text"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86262_DR_Week3_051616_Weekly_1C_03.jpg"
+  img_alt: "Save on these items and much more!"
+  promo_btn_url: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  promo_btn_text: "Weekly ad &rsaquo;"
+- type: "image"
+  url: "http://www.walgreens.com/store/store/category/productlist.jsp?N=519416"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86262_DR_Week3_051616_Weekly_1C_05.jpg"
+  img_alt: "Only 10 days 'til Red Nose Day"
+- type: "image"
+  url: "http://www.walgreens.com/store/store/category/productlist.jsp?N=519416"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86262_DR_Week3_051616_Weekly_1C_06.jpg"
+  img_alt: "Only 10 days 'til Red Nose Day"
+
+
+
+footernav:
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Photo"
+  link: "http://photo.walgreens.com/walgreens/welcome/"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+socialnav:
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/86262_DR_Week3_051616_Weekly_1C_fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/86262_DR_Week3_051616_Weekly_1C_tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/86262_DR_Week3_051616_Weekly_1C_site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/86262_DR_Week3_051616_Weekly_1C_spacer.gif'

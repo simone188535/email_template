@@ -833,7 +833,7 @@
           </tr>
           <tr bgcolor="#000000">
             <td valign="top" align="center" class="footer-nav" bgcolor="#000000">
-              <% @base_data_file.footernav.each do |f| %><a class="footer-nav-link" href="<%= f["link"] %>">
+              <% @base_data_file.footernav.each do |f| %><a class="footer-nav-link" href="<%= f["link"] %>" title="<%= f["text"] %>">
                   <%= f["text"] %>
                   </a><span class="white">&nbsp;<%= f["sep"] %>&nbsp;</span>
               <% end %>
@@ -879,10 +879,10 @@
                    <td class="footer-text" align="left" valign="top">
                      <%=@base_footer_text%>
                      <div class="footer-end-links text-underline">
-                       <a href="<%=@base_unsubscribe_link%>">
+                       <a href="<%=@base_unsubscribe_link%>" title="<%=@base_unsubscribe_text%>">
                         <%=@base_unsubscribe_text%>
                        </a> |
-                       <a href="<%=@base_privacy_link%>">
+                       <a href="<%=@base_privacy_link%>" title="<%=@base_privacy_text%>">
                         <%=@base_privacy_text%>
                       </a>
                      </div>
