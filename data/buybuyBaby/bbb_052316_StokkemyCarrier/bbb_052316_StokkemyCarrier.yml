@@ -1,0 +1,118 @@
+title: 'Worry-free fun in the sun'
+
+primary_color: '#ffffff'
+
+pre_header_text: 'New MyCarrier'
+
+header_instore_link: 'http://www.buybuybaby.com/store/static/reserveonline?mcid=EM_Promo_201605_HonestSwimSun_NoOffer'
+header_instore_img: "images/in_store.jpg"
+header_instore_alt: "in-store pick-up reserve online pay in-store learn more >"
+
+header_logo_link: 'http://www.buybuybaby.com/store?mcid=EM_Promo_201605_HonestSwimSun_NoOffer'
+header_logo_img: "images/logo.jpg"
+header_logo_alt: "buybuy Baby Logo"
+
+header_registry_link: 'http://www.buybuybaby.com/store/page/BabyRegistry?mcid=EM_Promo_201605_HonestSwimSun_NoOffer'
+header_registry_img: "images/baby_reg.jpg"
+header_registry_alt: "baby registry logo"
+
+top_nav_whatsnew_link: "http://www.buybuybaby.com/store/category/whats-new/30008/?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+top_nav_whatsnew_img: "images/whats_new.jpg"
+top_nav_whatsnew_alt: "what&#39;s new"
+
+top_nav_shop_link: "http://www.buybuybaby.com/store/page/brands?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+top_nav_shop_img: "images/shop_brand.jpg"
+top_nav_shop_alt: "shop by brand"
+
+top_nav_clearance_link: "http://www.buybuybaby.com/store/category/clearance/30010/?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+top_nav_clearance_img: "images/clearance.jpg"
+top_nav_clearance_alt: "clearance"
+
+footer_text: ''
+
+
+unsubscribe_link: '#'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: '#'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 1000'
+
+# Loop through articles
+
+articles:
+- type: "image"
+  img: "images/bbB_152_052316_StokkeMyCarrier-02.gif"
+  img_alt: "STOKKE® new front and back MyCarrier™ From infant to toddler, your growing baby is always supported whether inward facing, outward facing, or in the back carrying position. shop now"
+  url: "http://www.buybuybaby.com/store/s/stokke-mycarrier-front-and-back-baby-carrier?mcid=EM_Promo_201605_StokkeCarrier_NoOffer"
+  height: "364"
+  width: "600"
+
+- type: "image"
+  img: "images/bbB_152_052316_StokkeMyCarrier-03.gif"
+  img_alt: "MyCarrier™ Front and Back Baby Carrier | 199.99 FREE SHIPPING Grows with your baby up to 3 years Made of soft cotton fabric Additional colors available"
+  url: "http://www.buybuybaby.com/store/s/stokke-mycarrier-front-and-back-baby-carrier?mcid=EM_Promo_201605_StokkeCarrier_NoOffer"
+  height: "281"
+  width: "600"
+
+- type: "image"
+  img: "images/bbB_152_052316_StokkeMyCarrier-04.gif"
+  img_alt: "MyCarrier™ Front Baby Carrier | 149.99 FREE SHIPPING 2-in-1 front carrying positions for your newborn & toddler Additional colors available"
+  url: "http://www.buybuybaby.com/store/s/stokke-mycarrier-front-and-back-baby-carrier?mcid=EM_Promo_201605_StokkeCarrier_NoOffer"
+  height: "527"
+  width: "600"
+
+- type: "image-2-columns"
+  img: "images/bbB_152_052316_StokkeMyCarrier-05.gif"
+  img_alt: "Scoot™ | 599.99 FREE SHIPPING Urban compact stroller makes for smooth rides around the city Shown in Black Melange"
+  url: "http://www.buybuybaby.com/store/product/stokke-reg-scoot-trade-stroller-in-black-melange/1042980216?mcid=EM_Promo_201605_StokkeCarrier_NoOffer"
+  height: "567"
+  width: "300"
+  img_2: "images/bbB_152_052316_StokkeMyCarrier-06.gif"
+  img_alt_2: "Tripp Trapp® High Chair Complete | 329.99 FREE SHIPPING Sleek, durable & stylish high chair, perfect for any growing family "
+  url_2: "http://www.buybuybaby.com/store/product/stokke-reg-tripp-trapp-reg-high-chair-complete-bundle-in-walnut/1041587867?categoryId=32065?mcid=EM_Promo_201605_StokkeCarrier_NoOffer"
+
+- type: "image"
+  img: "images/bbB_152_052316_StokkeMyCarrier-07.gif"
+  img_alt: "Shop All Stokke"
+  url: "http://www.buybuybaby.com/store/brand/stokke/489/1-48?mcid=EM_Promo_201605_StokkeCarrier_NoOffer"
+  height: "140"
+  width: "600"
+
+- type: "image"
+  img: "images/bbB_152_052316_StokkeMyCarrier-08.gif"
+  img_alt: "$5 buybuyBABY Gift Card with purchase of 15 Plum® Organics baby food pouches. shop now"
+  url: "http://www.buybuybaby.com/store/brand/plum-organics/857/1-48?mcid=EM_Promo_201605_StokkeCarrier_NoOffer"
+  height: "226"
+  width: "600"
+
+- type: "image-2-columns"
+  img: "images/bbB_152_052316_StokkeMyCarrier-09.gif"
+  img_alt: "summertime essentials shop now"
+  url: "http://www.buybuybaby.com/store/s/bugandsun?mcid=EM_Promo_201605_StokkeCarrier_NoOffer"
+  height: "247"
+  width: "300"
+  img_2: "images/bbB_152_052316_StokkeMyCarrier-10.gif"
+  img_alt_2: "outdoor summer fun shop now"
+  url_2: "http://www.buybuybaby.com/store/category/toys-learning/outdoor-play/30528/?mcid=EM_Promo_201605_StokkeCarrier_NoOffer"
+  width_2: "300"
+  height_2: "247"
+
+
+
+socialnav:
+- link: "http://www.facebook.com/buybuyBABY?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+  img: "images/facebook.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+  img: "images/twitter.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+  img: "images/pinterest.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+  img: "images/youtube.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby?mcid=EM_Promo_201605_HonestSwimSun_NoOffer"
+  img: "images/instagram.jpg"
+  alt: "Instagram logo"
