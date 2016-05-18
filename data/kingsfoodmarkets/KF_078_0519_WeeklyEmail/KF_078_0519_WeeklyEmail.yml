@@ -1,0 +1,144 @@
+title: 'Get Spiralized for Summer!'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_Weekly_Email'
+
+logo_img: ''
+logo_alt: 'Kings Food Markets'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail"
+
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7878a77-91ba-4798-8909-c9a383785b5f.jpg?ver=1462839230000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d1a8a42-7b19-4797-8374-7f2b4b7f22c9.jpg?ver=1462839230000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd97367a-001e-4325-9638-f7dfd81ffc02.jpg?ver=1462839230000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/04d49274-f15e-4085-b715-c3063127e9dc.jpg?ver=1462839230000"
+footer_youtube_alt: "youtube"
+
+# Loop through articles
+articles:
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_09.jpg'
+  img_alt: 'Hello Summer! Discover fresh, light, and healthy options to start the season right.'
+  url: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_Weekly_Email'
+  
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_10.jpg'
+  img_alt: 'Recipe Idea: Spiralized Zucchini Pesto Pizza | Watch Video >'
+  url: 'https://www.youtube.com/user/KingsFoodMarkets'
+  
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_11.jpg'
+  img_alt: ''
+  url: ''
+  
+- type: 'image-2-columns'
+  img: 'images/KF_weekly_email_051916_R5_12.jpg'
+  img_alt: ''
+  url: ''
+  img_2: 'images/KF_weekly_email_051916_R5_13.jpg'
+  img_alt_2: ''
+  url_2: ''
+  
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_14.jpg'
+  img_alt: ''
+  url: ''
+  
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_15.jpg'
+  img_alt: ''
+  url: ''
+  
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_16.jpg'
+  img_alt: ''
+  url: ''
+  
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_17.jpg'
+  img_alt: ''
+  url: ''
+  
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_18.jpg'
+  img_alt: ''
+  url: ''
+  
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_19.jpg'
+  img_alt: ''
+  url: ''
+  
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_20.jpg'
+  img_alt: ''
+  url: ''
+  
+- type: 'image-2-columns'
+  img: 'images/KF_weekly_email_051916_R5_21.jpg'
+  img_alt: ''
+  url: ''
+  img_2: 'images/KF_weekly_email_051916_R5_22.jpg'
+  img_alt_2: ''
+  url_2: ''
+  
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_23.jpg'
+  img_alt: ''
+  url: ''
+  
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_24.jpg'
+  img_alt: ''
+  url: ''
+  
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_25.jpg'
+  img_alt: ''
+  url: ''
+  
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_26.jpg'
+  img_alt: ''
+  url: ''
+  
+- type: 'image-2-columns'
+  img: 'images/KF_weekly_email_051916_R5_27.jpg'
+  img_alt: ''
+  url: ''
+  img_2: 'images/KF_weekly_email_051916_R5_28_29_30.jpg'
+  img_alt_2: ''
+  url_2: ''
+  
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_31.jpg'
+  img_alt: ''
+  url: ''
+  
