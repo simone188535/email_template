@@ -1,0 +1,47 @@
+<% require 'active_support/all' %>
+<% instance_variable_set("@base_data_file", data.kingsfoodmarkets.KF_078_weeklyemail_051716.KF_078_weekly_email_051716) %>
+<% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<%=@base_title%>
+
+<%=@base_logo_alt%>
+<%=@base_logo_link%>
+
+<%=@base_store_locator_alt%>
+<%=@base_store_locator_link%>
+
+<%=@base_weekly_circular_alt%>
+<%=@base_weekly_circular_link%>
+
+<%=@base_chef_prepared_alt%>
+<%=@base_chef_prepared_link%>
+
+<%=@base_catering_alt%>
+<%=@base_catering_link%>
+
+<% @base_data_file.articles.each do |f| %>
+<% if f["type"]== "image" %>
+<%= f["img_alt"] %>
+<%= f["url"] %>
+
+<% end %>
+<% if f["type"]== "image-2-columns" %>
+<%= f["img_alt"] %>
+<%= f["url"] %>
+
+<%= f["img_alt_2"] %>
+<%= f["url_2"] %>
+<% end %>
+
+<% end %>
+
+<%=@base_footer_site_alt%>
+<%=@base_footer_site_link%>
+
+<%=@base_footer_facebook_img%>
+<%=@base_footer_facebook_link%>
+
+<%=@base_footer_twitter_alt%>
+<%=@base_footer_twitter_link%>
+
+<%=@base_footer_youtube_alt%>
+<%=@base_footer_youtube_link%>
