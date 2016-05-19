@@ -1,0 +1,56 @@
+title: 'Shop Maplewood'
+primary_color: '#'
+background_color: '#eae6d6'
+pre_header_text: ''
+
+# Loop through articles
+articles:
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f0f69257-1ea0-4401-ad9e-c23622fa2f3a.jpg?ver=1463663396000'
+  img_alt: ''
+  url: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0523_MaplewoodSolo'
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e525f806-9d6b-4994-affc-4c4c3d9dcdab.jpg?ver=1463663396000'
+  img_alt: 'Shop Kings Maplewood!'
+  url: 'http://kingsfoodmarkets.com/store-locator/maplewood?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0523_MaplewoodSolo'
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9e1d2b95-4609-42b5-ae9a-889e65fd1e29.jpg?ver=1463663397000'
+  img_alt: 'Enjoy This Weeks Savings Pass'
+  url: 'http://kingsfoodmarkets.com/store-locator/maplewood?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0523_MaplewoodSolo'
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3d3c2fcd-e492-4825-9dce-0b362250f550.jpg?ver=1463663396000'
+  img_alt: '10% Off Your Total Purchase. Valid on all purchases from Monday, May 23 - Sunday, May 29, 2016 Excludes Milk, Tobacco, Alcohol and Gift Cards. Cannot be combined with other offers. VALID AT KINGS MAPLEWOOD ONLY.'
+  url: 'http://kingsfoodmarkets.com/store-locator/maplewood?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0523_MaplewoodSolo'
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0cb1b15-bc8e-4974-b9a4-eba16903f522.jpg?ver=1463663396000'
+  img_alt: 'Maplewood Village Free Parking Map. Important Notes and Tips During Construction: Remember, while there will be some reduction in parking around the construction site, circulation and most shopper parking remains unchanged.'
+  url: 'http://kingsfoodmarkets.com/store-locator/maplewood?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0523_MaplewoodSolo'
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/043d9c77-b1ec-4974-af3d-db6b2ef31bce.jpg?ver=1463663396000'
+  img_alt: '159 Maplewood Avenue  Maplewood, NJ 07040  (973) 761 - 4092'
+  url: 'http://kingsfoodmarkets.com/store-locator/maplewood?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0523_MaplewoodSolo'
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/626ca725-dfb0-47b4-9994-fc505c1bec7f.jpg?ver=1463663397000'
+  img_alt: ''
+  url: ''
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0523_MaplewoodSolo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8463036d-6c1c-4719-afb1-492477ff44cb.jpg?ver=1463663397000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/838a3809-8ad8-4f3d-b7d0-c3876c265a95.jpg?ver=1463663396000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/30403ca6-6ac7-40fe-b745-527a931399e6.jpg?ver=1463663397000"
+footer_twitter_alt: "twitter"
+footer_site_link_2: ""
+footer_site_img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0c07e0ff-76a6-41ca-99e8-e8b3cb373fc2.jpg?ver=1463663397000"
+footer_site_alt_2: ""
