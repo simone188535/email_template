@@ -1,0 +1,172 @@
+title: 'Memorial Day - Burgers & Grilling'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+
+logo_img: ''
+logo_alt: 'Kings Food Markets'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7878a77-91ba-4798-8909-c9a383785b5f.jpg?ver=1462839230000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d1a8a42-7b19-4797-8374-7f2b4b7f22c9.jpg?ver=1462839230000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd97367a-001e-4325-9638-f7dfd81ffc02.jpg?ver=1462839230000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc27d618-b46e-4c60-a65c-9cd3581de40b.jpg?ver=1463508268000"
+footer_youtube_alt: "youtube"
+
+# Loop through articles
+articles:
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9e8a9cf0-fa1b-47d4-a449-da04376ca392.jpg?ver=1463766523000"
+  img_alt: "Memorial Day Grilling Starts at Kings. Kick-off Summer with Gourmet Inspirations."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6353f1f7-6beb-42ab-b61d-0a7491b66c02.jpg?ver=1463766523000"
+  img_alt: "Recipe Idea"
+  url: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/70a4e33e-abd2-44a2-b9a0-a0a5ec284cb4.jpg?ver=1463766524000"
+  img_alt: "Available in the Seafood Department: Kings Signature Store-Made Salmon Burger. Watch Video > Made Fresh In-Store, and Perfect for the Grill. Choose from"
+  url: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image-4-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d70b33ef-341b-4592-8e8d-c7770daa251e.jpg?ver=1463766523000"
+  img_alt: "Lemon Herb"
+  url: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8ff9f456-9c10-49e7-bf7a-95e5e99bf030.jpg?ver=1463766523000"
+  img_alt_2: "Sriracha"
+  url_2: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/52127a5b-1f7a-4b1a-9bd8-7add42fa97af.jpg?ver=1463766523000"
+  img_alt_3: "Yakiniku"
+  url_3: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+  img_4: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/41a0ab22-8b2e-476f-857f-ebc1478290cf.jpg?ver=1463766523000"
+  img_alt_4: "Pesto"
+  url_4: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e02164ef-071f-4af5-b6e5-00c8d469dfb5.jpg?ver=1463766524000"
+  img_alt: "Ground Fresh | Perfect Patties to Build a Burger"
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a6fb518-38f9-4f18-a60b-507e0a53bb22.jpg?ver=1463766524000"
+  img_alt: "Ground Fresh Today Guaranteed: Just Look For Our Ground. At Kings, we grind our beef, veal, pork and lamb fresh every day. We guarantee that each meal you make for your family is always full of freshness and flavor."
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4ddddd56-7ebe-4ac9-b649-24e7efcb66b5.jpg?ver=1463766524000"
+  img_alt: "Kings USDA Prime Aged Certified Angus 90% Lean Ground Beef 5.99 LB."
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/658f2497-b322-4945-90a6-35b2fb0b0112.jpg?ver=1463766524000"
+  img_alt_2: "Potato Hamburger Buns 8-Pack 3.99"
+  url_2: "http://www.kingsfoodmarkets.com/circular/all_stores/"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f4fdbad4-6cde-40db-b873-7d1daff59a11.jpg?ver=1463766524000"
+  img_alt: "Kings Marinades"
+  url: "http://kingsfoodmarkets.com/kings-own-brand/marinades"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/aeff84fe-fb8f-4ae9-b7a7-5a01cd4f874b.jpg?ver=1463766524000"
+  img_alt_2: "Kings Cheese"
+  url_2: "http://kingsfoodmarkets.com/kings-own-brand/kings-cheese"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25187d29-a254-4525-9c59-d7d0868f2e7f.jpg?ver=1463766524000"
+  img_alt: "View More Specials"
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9d72a0d4-87e1-4345-ab90-ac0002bb9135.jpg?ver=1463766524000"
+  img_alt: "Top This | Create Your Favorite Burger Toppings"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91353abc-a36f-4c9e-8d3f-a07319e828c4.jpg?ver=1463766524000"
+  img_alt: "Spicy Pickled Onions View Recipe >"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1958de61-2f0f-4551-910a-b1e675283370.jpg?ver=1463766524000"
+  img_alt: "Bleu Cheese & Sliced Mushrooms View Recipe >"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6ed63807-04b5-43bd-85bf-de2c58a5aecc.jpg?ver=1463766524000"
+  img_alt_2: "Grilled Pineapple & Scallions View Recipe >"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12cc2608-0961-4083-8a61-d58c80f3b3c8.jpg?ver=1463766524000"
+  img_alt: "Pro Tips | How to Prep the Perfect Burger. Make sure your meat is well chilled. Season your meat before forming into patties. Never press or flatten your burgers during cooking. Allow the burgers to rest for 5 minutes before serving."
+  url: "http://kingsfoodmarkets.com/unique-recipes/tips-to-prepare-the-perfect-burger?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/24c0848c-b692-49ec-b76a-ede15a13d6c9.jpg?ver=1463766524000"
+  img_alt: "Learn More >"
+  url: "http://kingsfoodmarkets.com/unique-recipes/tips-to-prepare-the-perfect-burger?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/440e06d7-cd65-4d90-a9b7-765aa52e3e93.jpg?ver=1463766524000"
+  img_alt: "What's New At Kings"
+  url: "http://kingsfoodmarkets.com/kings-own-brand/kings-sparkling-lemonades?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ff830c32-08e2-4b75-85e3-6a42d89ac2c0.jpg?ver=1463766525000"
+  img_alt: "Kings Sparkling Lemonade Kings Sparkling Lemonades are bright, refreshing beverages imported from France. Serve chilled with a garnish of lemon and fresh mint. Learn More >"
+  url: "http://kingsfoodmarkets.com/kings-own-brand/kings-sparkling-lemonades?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/99740fc6-db19-499d-8889-ae428f779d0c.jpg?ver=1463508268000"
+  img_alt: "Savory Sides | Chef Prepared Grab-N-Go Cookout Side Dishes"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/544e8e84-023f-4726-85d6-d2d2fe8ac21d.jpg?ver=1463766525000"
+  img_alt: "Chipotle Bacon Potato Salad"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/172596a0-385d-4a0e-bfb0-a69b3c9807ed.jpg?ver=1463766525000"
+  img_alt_2: "White Mac 'N Cheese"
+  url_2: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f839d23c-a97b-480f-9eff-df4ea0174633.jpg?ver=1463766525000"
+  img_alt: "View More Chef Prepared"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/418ef3af-9754-45af-9ec3-43a45dfd2e7d.jpg?ver=1463766525000"
+  img_alt: "Finishing Touches | Close Your Cookout With Grilled Desserts"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/82d56d04-8812-49ea-98e7-47dd888b683e.jpg?ver=1463766525000"
+  img_alt: "Grilled Angel Food Cake View Recipe >"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bf377347-a140-4829-9f6e-9300517b62a1.jpg?ver=1463766525000"
+  img_alt_2: "Grilled Fruit Kabobs with Citrus Mint Glaze View Recipe >"
+  url_2: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email"
