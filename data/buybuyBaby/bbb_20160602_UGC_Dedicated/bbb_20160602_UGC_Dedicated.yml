@@ -1,0 +1,93 @@
+title: 'Share & Inspire'
+
+primary_color: '#ffffff'
+
+pre_header_text: 'Share & Inspire'
+
+header_instore_link: 'http://www.buybuybaby.com/store/static/reserveonline?mcid=EM_Promo_201606_UGCProduct_NoOffer'
+header_instore_img: "images/in_store.jpg"
+header_instore_alt: "in-store pick-up reserve online pay in-store learn more >"
+
+header_logo_link: 'http://www.buybuybaby.com/store?mcid=EM_Promo_201606_UGCProduct_NoOffer'
+header_logo_img: "images/logo.jpg"
+header_logo_alt: "buybuy Baby Logo"
+
+header_registry_link: 'http://www.buybuybaby.com/store/page/BabyRegistry?mcid=EM_Promo_201606_UGCProduct_NoOffer'
+header_registry_img: "images/baby_reg.jpg"
+header_registry_alt: "baby registry logo"
+
+top_nav_whatsnew_link: "http://www.buybuybaby.com/store/category/whats-new/30008/?mcid=EM_Promo_201606_UGCProduct_NoOffer"
+top_nav_whatsnew_img: "images/whats_new.jpg"
+top_nav_whatsnew_alt: "what&#39;s new"
+
+top_nav_shop_link: "http://www.buybuybaby.com/store/page/brands?mcid=EM_Promo_201606_UGCProduct_NoOffer"
+top_nav_shop_img: "images/shop_brand.jpg"
+top_nav_shop_alt: "shop by brand"
+
+top_nav_clearance_link: "http://www.buybuybaby.com/store/category/clearance-savings/30010/?mcid=EM_Promo_201606_UGCProduct_NoOffer"
+top_nav_clearance_img: "images/clearance.jpg"
+top_nav_clearance_alt: "clearance"
+
+footer_text: ''
+
+
+#unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+#privacy_link: 'http://www.buybuybaby.com/store/static/PrivacyPolicy?mcid=EM_Promo_201606_UGCProduct_NoOffer'
+#privacy_text: 'Privacy Policy'
+
+#copyright: '&copy2016 Buy Buy Baby, Inc. All rights reserved. Corporate Headquarters – 650 Liberty Avenue. Union, NJ 07083'
+
+# Loop through articles
+
+articles:
+- type: "image"
+  img: "images/bbB_060216_UGC_Dedicated_animated.gif"
+  img_alt: "share & inspire view gallery >"
+  url: "http://www.buybuybaby.com/store/images/Gallery?mcid=EM_Promo_201606_UGCProduct_NoOffer "
+  height: "524"
+  width: "600"
+
+- type: "image"
+  img: "images/bbB_154_060216_UGC_Dedicated_02.jpg"
+  img_alt: "Share your photos for a chance to be featured on our site and help other parents find their baby style. #buybuybaby"
+  url: "http://www.buybuybaby.com/store/images/Gallery?mcid=EM_Promo_201606_UGCProduct_NoOffer "
+  height: "302"
+  width: "600"
+
+- type: "image"
+  img: "images/bbB_154_060216_UGC_Dedicated_03.jpg"
+  img_alt: "add a personal touch embroider, engrave, or add a photo start personalizing >"
+  url: "http://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/32754/?mcid=EM_Promo_201606_UGCProduct_NoOffer"
+  height: "219"
+  width: "600"
+
+- type: "image"
+  img: "images/bbB_154_060216_UGC_Dedicated_04.jpg"
+  img_alt: "mobile offers 20% off First-time subscribers get a one single item mobile offer for in-store or online use on a future purchase. text OFFER2 to 42229 view details > Message and data rates may apply. Mobile internet access required. Up to 8 msg/month. Text STOP to 42229 to cancel. Terms, Conditions, and Privacy."
+  url: "http://www.buybuybaby.com/store/static/tcp?mcid=EM_Promo_201606_UGCProduct_NoOffer "
+  height: "240"
+  width: "600"
+
+
+socialnav:
+- link: "http://www.facebook.com/buybuyBABY?mcid=EM_Promo_201605_UGCProduct_NoOffer"
+  img: "images/bbB_154_060216_UGC_Dedicated_05.jpg"
+  alt: "Facebook logo"
+- link: "http://www.facebook.com/buybuyBABY?mcid=EM_Promo_201605_UGCProduct_NoOffer"
+  img: "images/facebook.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby?mcid=EM_Promo_201605_UGCProduct_NoOffer"
+  img: "images/twitter.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby?mcid=EM_Promo_201605_UGCProduct_NoOffer"
+  img: "images/pinterest.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby?mcid=EM_Promo_201605_UGCProduct_NoOffer"
+  img: "images/youtube.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby?mcid=EM_Promo_201605_UGCProduct_NoOffer"
+  img: "images/instagram.jpg"
+  alt: "Instagram logo"
+- link: "http://instagram.com/buybuybaby?mcid=EM_Promo_201605_UGCProduct_NoOffer"
+  img: "images/bbB_154_060216_UGC_Dedicated_11.jpg"
+  alt: "Instagram logo"
