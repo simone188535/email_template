@@ -1,0 +1,645 @@
+<% require 'active_support/all' %>
+<% instance_variable_set("@base_data_file", data.purered.rednoseday.rednoseday) %>
+<% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="initial-scale=1.0">
+        <!-- So that mobile webkit will display zoomed in -->
+        <meta name="format-detection" content="telephone=no">
+        <!-- disable auto telephone linking in iOS -->
+        <title><%=@base_title%></title>
+        <style type="text/css">
+            /* This style block will be inlined when running 'grunt build' and stripped from the header */
+
+            /* Resets */
+            .preHeader {
+                display: none !important;
+                color: #ffffff;
+                background-color: #ffffff;
+            }
+
+            .ReadMsgBody {
+                width: 100%;
+                background-color: #ffffff;
+            }
+            .ExternalClass {
+                width: 100%;
+                background-color: #ffffff;
+            }
+            .ExternalClass,
+            .ExternalClass div,
+            .ExternalClass font,
+            .ExternalClass p,
+            .ExternalClass span,
+            .ExternalClass td {
+                line-height: 100%;
+            }
+            .yshortcuts a {
+                border-bottom: none !important;
+            }
+
+            body {
+                -webkit-text-size-adjust: none;
+                -ms-text-size-adjust: none;
+                margin: 0;
+                padding: 0;
+            }
+            table {
+                border-spacing: 0;
+                border-collapse: collapse;
+                mso-table-lspace: 0;
+                mso-table-rspace: 0;
+            }
+            table td {
+                border-collapse: collapse;
+            }
+            table,
+            td,
+            tr {
+                text-align: left;
+            }
+            td.container.center {
+                text-align: center;
+            }
+            img {
+                display: block;
+                border: none;
+                outline: none;
+                -ms-interpolation-mode: bicubic;
+
+            }
+
+            img.responsive {
+                width: auto !important;
+                height: auto !important;
+                max-width: 100%;
+            }
+            a img {
+                border: none;
+            }
+
+            .nose-img {
+                margin: 0 auto;
+            }
+
+            /* Wrap phone numbers and addresses to prevent them showing up as links on mobile */
+            .apple-link-black {
+                color: #000000;
+                !important;
+                text-decoration: none !important;
+            }
+            .apple-link-white {
+                color: #ffffff;
+                !important;
+                text-decoration: none !important;
+            }
+
+            .container {
+                width: 600px;
+                max-width: 600px;
+            }
+
+            /* Typography */
+            .header,
+            .text,
+            body,
+            p,
+            td {
+                text-align: left;
+            }
+            .container,
+            .header,
+            .text,
+            body,
+            p,
+            td {
+                color: #000000;
+                font-family: Helvetica, Arial, sans-serif;
+                font-weight: normal;
+
+            }
+            .container,
+            .text,
+            body,
+            p,
+            td {
+                font-size: 20px;
+                line-height: 24px;
+            }
+
+            sup {
+                font-size: 14px;
+                line-height: 0;
+                vertical-align: 0;
+            }
+
+            .view-online {
+                font-size: 12px;
+                line-height: 14px;
+                text-align: center;
+            }
+            .view-online a {
+                text-decoration: underline !important;
+            }
+
+            a {
+                color: <%=@base_primary_color%>!important;
+                text-decoration: none;
+            }
+            a:active,
+            a:hover,
+            a:visited {
+                color: <%=@base_primary_color%>;
+            }
+
+            .text-underline {
+                text-decoration: underline;
+            }
+
+            .text-left {
+                text-align: left !important;
+            }
+
+            .text-center {
+                text-align: center !important;
+            }
+
+            .text-right {
+                text-align: right !important;
+            }
+
+            /* Visibility Classes - Fixes Gmail bug of not supporting display:none. See media query override for mobile. This class must be used on the element as well as the element's parent. http://www.campaignmonitor.com/blog/post/3948/hiding-content-in-both-desktop-and-web-email-clients */
+            .footer.show-for-small,
+            .hide-for-desktop,
+            .show-for-small {
+                display: none;
+                max-height: 0;
+                font-size: 0;
+                width: 0;
+                mso-hide: all;
+            }
+
+            .orange {
+                color: <%=@base_primary_color%>!important;
+            }
+
+            .white {
+                color: #ffffff !important;
+            }
+
+            .cell-height {
+                line-height: 1px;
+                font-size: 1px;
+            }
+
+            .small-text {
+                font-size: 12px;
+            }
+
+            .callout,
+            .hero {}
+            .footer-nav,
+            a.footer-nav-link,
+            a.footer-nav-link:active,
+            a.footer-nav-link:hover,
+            a.footer-nav-link:visited {
+                color: #ffffff !important;
+            }
+            .social-links a,
+            .social-links a:active,
+            .social-links a:hover,
+            .social-links a:visited {
+                color: #000000 !important;
+            }
+
+            .social-links img {
+                display: inline-block !important;
+            }
+
+            .callout,
+            .callout td {
+                color: #ffffff;
+            }
+
+            .footer-nav,
+            .social-links {
+                text-align: center;
+                font-size: 18px;
+            }
+            .footer-text a,
+            .footer-text a:active,
+            .footer-text a:hover,
+            .footer-text a:visited {
+                color: #000000 !important;
+                text-decoration: underline;
+            }
+
+            .copyright,
+            .footer-text .footer-end-links {
+                font-size: 18px;
+                text-align: center;
+                color: #000000;
+            }
+            .footer-end-links {
+                line-height: 24px;
+            }
+            .copyright {
+                font-size: 14px;
+            }
+
+            /* .button-outer-wrap,
+          .button-inner-wrap,
+          .button-table {
+            margin: 0 auto;
+          } */
+
+            .button-cell,
+            .button-inner-wrap,
+            .button-table {
+                mso-hide: all;
+            }
+
+            .button-cell,
+            .button-link,
+            .button-table {
+                text-align: center;
+            }
+
+            .button-cell {
+                vertical-align: middle;
+                display: block;
+            }
+
+            .button-link {
+                -webkit-text-size-adjust: none;
+                font-family: Helvetica, Arial, sans-serif;
+                text-decoration: none;
+                line-height: 45px;
+                display: inline-block;
+            }
+
+            .promo-button-cell {
+                background-color: <%=@base_primary_color%>;
+            }
+            .promo-button-cell,
+            a.promo-button-link,
+            a.promo-button-link span,
+            a.promo-button-link:active,
+            a.promo-button-link:hover,
+            a.promo-button-link:visited {
+                color: #ffffff !important;
+            }
+            .promo-button-link {
+                font-size: 20px;
+                width: 200px;
+            }
+
+            .promo-text-wrap {
+                width: 215px;
+                -webkit-text-size-adjust: none;
+                font-family: Helvetica, Arial, sans-serif;
+                font-size: 15pt;
+                text-decoration: none;
+                line-height: 18pt;
+                display: inline-block;
+                color: #515151;
+            }
+
+            .article-img a {
+                text-align: right;
+            }
+            .article-img img {}
+            .preheader-text {
+                color: #515151;
+                font-size: 18px;
+            }
+            .footer-subtext,
+            .footer-text {
+                color: #ffffff;
+                font-family: Helvetica, Arial, sans-serif;
+                font-size: 30px;
+                text-align: center;
+                line-height: 40px;
+            }
+            .header-text {
+                color: #ffffff;
+                font-family: Helvetica, Arial, sans-serif;
+                text-transform: uppercase;
+                font-size: 24px;
+                line-height: 29px;
+                text-align: center;
+            }
+            .footer-text span {
+                font-size: 40px;
+            }
+
+            .footer-subtext {
+                font-size: 14px;
+                line-height: 18px;
+            }
+
+            .footer-logo {
+                display: inline-block !important;
+            }
+
+            img.inline {
+                display: inline-block !important;
+            }
+
+        </style>
+
+        <style type="text/css" data-embed="true">
+            /* This style block will be ignored for inlining when running 'grunt build' and will not be stripped from the header */
+
+            /*  Media queries */
+
+            /* Define all styles in media queries using attribute selectors in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
+            @media screen and (max-width: 599px) {
+
+               /* img[class="desktop-responsive"] {
+                    width: 320px !important;
+                    height: auto !important;
+                }
+
+                td[class="desktopStack"] {
+                    width: 100% !important;
+                    max-width: 100% !important;
+                    display: table-cell !important;
+                }
+
+                td {
+                    display: table-cell !important;
+                    width: 320px !important;
+                } */
+
+
+                td[class="footer-text"] span {
+                    display: block;
+                }
+
+                a[class*="button-link"],
+                table[class*="button-table"],
+                table[class="container"],
+                table[class="force-row"],
+                td[class*="button-cell"] {
+                    width: 100% !important;
+                    max-width: 100% !important;
+                }
+
+                table[class="force-row"] {
+                    float: none !important;
+                    margin-bottom: 10px;
+                }
+
+                /* Visibility */
+                div[class*="go-away"],
+                img[class*="go-away"],
+                table[class*="go-away"],
+                td[class*="go-away"],
+                td[class*="go-away"] img,
+                tr[class*="go-away"],
+                tr[class*="go-away"] img,
+                tr[class*="go-away"] td {
+                    display: none !important;
+                }
+                table[class*="container"] .hide-for-desktop,
+                table[class*="container"] .show-for-small {
+                    max-height: none !important;
+                    font-size: 14px !important;
+                    display: block !important;
+                    width: auto !important;
+                }
+
+                td[class="article-text"] {
+                    font-size: 16px;
+                }
+                td[class="article-text"] img.promo-text {
+                    width: 75% !important;
+                }
+
+                td[class="social-links"] {
+                    padding-left: 15px;
+                    padding-right: 15px;
+                }
+
+                td[class="social-links"] img {
+                    height: 44px !important;
+                }
+
+                a[class="footer-nav-link"],
+                td[class="footer-nav"] a,
+                td[class="footer-nav"] span {
+                    font-size: 15px !important;
+                }
+
+                div[class="promo-text-wrap"] {
+                    padding-left: 10px;
+                    width: 100% !important;
+                    max-width: 172px;
+                }
+
+                div[class="button-outer-wrap"] {
+                    margin-left: 10px;
+                }
+
+                td[class="article-text"] img {
+                    margin-left: 5px;
+                }
+
+                td[class="article-text"] {
+                    width: 48% !important;
+                }
+                td[class="article-img"] {
+                    width: 52% !important;
+                }
+                td[class="footer-nav"] {
+                    padding-top: 5px;
+                    padding-bottom: 5px;
+                }
+                img[class="right-article-image"] {
+                    width: auto !important;
+                    height: auto !important;
+                    max-width: 100%;
+                }
+                div[class*="promo-text-wrap"] {
+                    font-size: 15px;
+                    line-height: 18px;
+                }
+                td[class*="promo-button-cell"] {
+                    margin-bottom: 20px;
+                }
+                td[class="preheader-text"] {
+                    font-size: 14px;
+                }
+            }
+
+        </style>
+    </head>
+    <body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;">
+        <!--
+      Responsive framework: Antwort v1.0 - https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0)
+
+      * Force 100% width on aligned tables
+      * Use multiple aligned tables for columns
+      * Tables must have a fixed pixel width
+      * 'force-row' class forces the tables into rows on mobile
+      * Include an Outlook only wrapper table
+    -->
+
+        <!-- 100% background wrapper -->
+        <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+            <tr>
+                <td>
+                    <!-- 600px container -->
+                    <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+
+                        <!-- Content -->
+                        <tr>
+                            <td valign="top" align="center">
+                                <table border="0" bgcolor="#ac0e1f" width="100%" cellpadding="0" cellspacing="0" class="container" align="center">
+                                    <tr>
+                                        <td width="100%" class="desktopStack">
+                                            <table border="0" cellpadding="0" cellspacing="0" align="center">
+                                                <tr>
+                                                    <td align="center">
+                                                        <table border="0" cellpadding="0" cellspacing="0" align="center">
+                                                            <tr>
+                                                                <td width="15" class="spacer">
+                                                                    <img src="images/spacer.gif" alt="" height="1" width="15">
+                                                                </td>
+                                                                <td class="header-text">
+                                                                    <br>
+                                                                    <b><%= @base_header_text %></b><br><br>
+                                                                </td>
+                                                                <td width="15" class="spacer">
+                                                                    <img src="images/spacer.gif" alt="" height="1" width="15">
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td valign="top" align="center" class="text-center">
+                                                        <a href="<%= @base_img02_url %>">
+                                                            <img src="<%= @base_img02_img %>" alt="<%= @base_img02_img_alt %>" title="<%= @base_img02_img_alt %>" class="nose-img responsive inline">
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="100%" class="desktopStack">
+                                            <table border="0" cellpadding="0" cellspacing="0" align="center">
+                                                <tr>
+                                                    <td width="50%" align="left" class="w50">
+                                                        <a href="<%= @base_img03_url %>">
+                                                            <img src="<%= @base_img03_img %>" alt="<%= @base_img03_img_alt %>" title="<%= @base_img03_img_alt %>" class="responsive">
+                                                        </a>
+
+                                                        <a href="<%= @base_img04_url %>">
+                                                            <img src="<%= @base_img04_img %>" class="responsive" alt="<%= @base_img04_img_alt %>" title="<%= @base_img04_img_alt %>">
+                                                        </a>
+                                                    </td>
+                                                    <td width="50%" align="right" class="w50">
+                                                        <a href="<%= @base_img05_url %>">
+                                                            <img src="<%= @base_img05_img %>" alt="<%= @base_img05_img_alt %>" title="<%= @base_img05_img_alt %>" class="desktop-responsive">
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="100%" class="desktopStack">
+                                            <table border="0" cellpadding="0" cellspacing="0" align="center">
+                                                <tr>
+                                                    <td width="50%" align="left" class="w50">
+                                                        <a href="<%= @base_img06_url %>">
+                                                            <img src="<%= @base_img06_img %>" alt="<%= @base_img06_img_alt %>" title="<%= @base_img06_img_alt %>" class="desktop-responsive">
+                                                        </a>
+                                                        <a href="<%= @base_img07_url %>">
+                                                            <img src="<%= @base_img07_img %>" alt="<%= @base_img07_img_alt %>" title="<%= @base_img07_img_alt %>" class="desktop-responsive">
+                                                        </a>
+                                                    </td>
+                                                    <td width="50%" align="right" class="w50">
+                                                        <a href="<%= @base_img08_url %>">
+                                                            <img src="<%= @base_img08_img %>" alt="<%= @base_img08_img_alt %>" title="<%= @base_img08_img_alt %>" class="desktop-responsive">
+                                                        </a>
+                                                        <a href="<%= @base_img09_url %>">
+                                                            <img src="<%= @base_img09_img %>" alt="<%= @base_img09_img_alt %>" title="<%= @base_img09_img_alt %>" class="desktop-responsive">
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="100%" class="desktopStack">
+                                            <table border="0" cellpadding="0" cellspacing="0" align="center">
+                                                <tr>
+                                                    <td width="50%" align="right" class="w50">
+                                                        <a href="<%= @base_img10_url %>">
+                                                            <img src="<%= @base_img10_img %>" alt="<%= @base_img10_img_alt %>" title="<%= @base_img10_img_alt %>" class="desktop-responsive">
+                                                        </a>
+
+                                                    </td>
+                                                    <td width="50%" align="right" class="w50">
+                                                        <a href="<%= @base_img11_url %>">
+                                                            <img src="<%= @base_img11_img %>" alt="<%= @base_img11_img_alt %>" title="<%= @base_img11_img_alt %>" class="desktop-responsive">
+                                                        </a>
+                                                        <a href="<%= @base_img12_url %>">
+                                                            <img src="<%= @base_img12_img %>" alt="<%= @base_img12_img_alt %>" title="<%= @base_img12_img_alt %>" class="desktop-responsive">
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="100%" class="desktopStack" valign="top">
+                                            <table border="0" cellpadding="0" cellspacing="0" align="center">
+                                                <tr>
+                                                    <td align="center">
+                                                        <table border="0" cellpadding="0" cellspacing="0" align="center">
+                                                            <tr>
+                                                                <td width="15" class="spacer">
+                                                                    <img src="images/spacer.gif" alt="" height="1" width="15">
+                                                                </td>
+                                                                <td class="footer-text">
+                                                                    <br>
+                                                                    <b><%= @base_footer_text %></b><br><br>
+                                                                </td>
+                                                                <td width="15" class="spacer">
+                                                                    <img src="images/spacer.gif" alt="" height="1" width="15">
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="text-center footer-subtext" align="center">
+                                                        <a href="<%= @base_img14_url %>">
+                                                            <img src="<%= @base_img14_img %>" alt="<%= @base_img14_img_alt %>" title="<%= @base_img14_img_alt %>" class="responsive inline footer-logo">
+                                                        </a><br><br>
+                                                        <b><%= @base_footer_subtext %></b><br>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <!-- /Content -->
+
+                    </table>
+                    <!-- /600px container -->
+                </td>
+            </tr>
+        </table>
+        <!-- /100% background wrapper -->
+    </body>
+</html>
