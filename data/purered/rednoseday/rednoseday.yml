@@ -4,6 +4,9 @@ primary_color: '#999999'
 
 pre_header_text: 'PureRED supports Red Nose Day'
 
+footer_text: "But that's not all&#8230;We raised over <span>$3,000</span> to help the kids."
+footer_subtext: "We're proud to give our continued support. <br>We look forward to the big event on the 26th.<br><br>"
+
 
 # Loop through articles
 
@@ -19,7 +22,7 @@ img03_img: 'images/03_atl.gif'
 img03_img_alt: ''
 img03_url: ''
 
-img04_img: 'images/04_kevin.gif'
+img04_img: 'images/12_chi.gif'
 img04_img_alt: ''
 img04_url: ''
 
@@ -51,7 +54,7 @@ img11_img: 'images/11_peekaboo.gif'
 img11_img_alt: ''
 img11_url: ''
 
-img12_img: 'images/12_chi.gif'
+img12_img: 'images/04_kevin.gif'
 img12_img_alt: ''
 img12_url: ''
 
@@ -62,35 +65,5 @@ img13_url: ''
 img14_img: 'images/logo.jpg'
 img14_img_alt: ''
 img14_url: ''
-
-
-
-footernav:
-- text: "Weekly Ad"
-  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
-  sep: "|"
-- text: "Rx"
-  link: "http://www.walgreens.com/pharmacy/"
-  sep: "|"
-- text: "Photo"
-  link: "http://photo.walgreens.com/walgreens/welcome"
-  sep: "|"
-- text: "Beauty"
-  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
-  sep: "|"
-- text: "Find Store"
-  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
-  sep: ""
-
-socialnav:
-- img: "images/fb-link.jpg"
-  link: "https://www.facebook.com/duanereade"
-  alt: "Facebook"
-- img: "images/tw-link.jpg"
-  link: "https://twitter.com/DuaneReade"
-  alt: "Twitter"
-- img: "images/site-link.jpg"
-  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
-  alt: "Duane Reade"
 
 spacer_img_url: 'images/spacer.gif'
