@@ -57,8 +57,11 @@
             -ms-interpolation-mode: bicubic;
 
           }
-        img.desktop-responsive {
+        /*img.desktop-responsive {
           width: 600px !important;
+        }*/
+        .w50 {
+          display: table-cell !important;
         }
         img.responsive {
           width: auto !important;
@@ -293,7 +296,7 @@
 			  font-size: 18px;
 		  }
 		  .container td {
-        display: block !important;
+        display: block;
 	          width: 600px;
 	          max-width: 600px !important;
 		  }
@@ -523,19 +526,21 @@
 						 <td width="100%" class="desktopStack">
 							  <table  border="0" cellpadding="0" cellspacing="0" align="center">
 								  <tr>
-									  <td>
+									  <td width="50%" align="left" class="w50">
 						                <a href="<%= @base_img03_url %>">
 						                  <img src="<%= @base_img03_img %>" alt="<%= @base_img03_img_alt %>" title="<%= @base_img03_img_alt %>" class="desktop-responsive">
 						                </a>
 
-									  </td>
-								  </tr>
-								  <tr>
-									  <td>
+
 						                <a href="<%= @base_img04_url %>">
 						                  <img src="<%= @base_img04_img %>" class="desktop-responsive" alt="<%= @base_img04_img_alt %>" title="<%= @base_img04_img_alt %>">
 						                </a>
 									  </td>
+                    <td width="50%" align="right" class="w50">
+                      <a href="<%= @base_img05_url %>">
+                        <img src="<%= @base_img05_img %>" alt="<%= @base_img05_img_alt %>" title="<%= @base_img05_img_alt %>" class="desktop-responsive">
+                      </a>
+                    </td>
 								  </tr>
 							  </table>
 						  </td>
@@ -543,18 +548,6 @@
      				</tr>
 					<tr>
 -->
-						 <td width="100%" class="desktopStack">
-							  <table  border="0" cellpadding="0" cellspacing="0" align="center">
-								  <tr>
-									  <td rowspan="2">
-						                <a href="<%= @base_img05_url %>">
-						                  <img src="<%= @base_img05_img %>" alt="<%= @base_img05_img_alt %>" title="<%= @base_img05_img_alt %>" class="desktop-responsive">
-						                </a>
-
-									  </td>
-								  </tr>
-							  </table>
-						  </td>
 						 <td width="100%" class="desktopStack">
 							  <table  border="0" cellpadding="0" cellspacing="0" align="center">
 								  <tr>
