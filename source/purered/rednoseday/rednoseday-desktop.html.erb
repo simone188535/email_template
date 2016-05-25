@@ -59,6 +59,10 @@
             td,
             tr {
                 text-align: left;
+                padding-left:0;
+                padding-right: 0;
+                padding-bottom: 0;
+                padding-top: 0;
             }
             td.container.center {
                 text-align: center;
@@ -323,21 +327,22 @@
                 text-align: center;
                 line-height: 40px;
             }
-            .header-text {
+            .header-text, .footer-text {
                 color: #ffffff;
                 font-family: Helvetica, Arial, sans-serif;
                 text-transform: uppercase;
-                font-size: 24px;
-                line-height: 29px;
+                font-size: 42px;
+                line-height: 44px;
                 text-align: center;
             }
-            .footer-text span {
-                font-size: 40px;
+            .footer-text {
+                font-size: 30px;
+                line-height: 40px;
             }
 
             .footer-subtext {
-                font-size: 14px;
-                line-height: 18px;
+                font-size: 16px;
+                line-height: 22px;
             }
 
             .footer-logo {
@@ -347,6 +352,17 @@
             img.inline {
                 display: inline-block !important;
             }
+
+            .cell-height {
+            line-height:1px;
+            font-size:1px;
+          }
+
+          .border-bottom {
+            border-bottom-color: #ac0e1f;
+            border-bottom-width: 4px;
+            border-bottom-style: solid;
+          }
 
         </style>
 
@@ -497,137 +513,163 @@
 
                         <!-- Content -->
                         <tr>
-                            <td valign="top" align="center">
-                                <table border="0" bgcolor="#ac0e1f" width="100%" cellpadding="0" cellspacing="0" class="container" align="center">
+                            <td valign="top" width="600" bgcolor="#ac0e1f">
+                                <table border="0" width="600" cellpadding="0" cellspacing="0">
                                     <tr>
-                                        <td width="100%" class="desktopStack">
-                                            <table border="0" cellpadding="0" cellspacing="0" align="center">
+                                        <td width="4">
+                                           <img src="images/spacer.gif" height="1" width="4">
+                                        </td>
+                                        <td width="592" valign="top" class="header-text border-bottom">
+                                            <!--header -->
+                                            <br>
+                                            <b><%= @base_header_text %></b>
+                                            <!-- header -->
+
+                                             <table border="0" width="592" cellpadding="0" cellspacing="0">
                                                 <tr>
-                                                    <td align="center">
-                                                        <table border="0" cellpadding="0" cellspacing="0" align="center">
+                                                    <td colspan="3" height="25" class="cell-height">
+                                                        <img src="images/spacer.gif" height="25" width="1">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="3" valign="top" align="center" class="text-center">
+                                                         <img src="<%= @base_img02_img %>" alt="" width="320" height="253" class="inline">
+                                                    </td>
+                                                </tr>
+                                                <!-- grid 1 -->
+                                                <tr>
+                                                    <td valign="top" width="294">
+                                                        <table border="0" width="294" cellpadding="0" cellspacing="0">
                                                             <tr>
-                                                                <td width="15" class="spacer">
-                                                                    <img src="images/spacer.gif" alt="" height="1" width="15">
+                                                                <td valign="top" width="294" class="border-bottom">
+                                                                    <img src="<%=@base_img03_img%>" width="294" height="235">
                                                                 </td>
-                                                                <td class="header-text">
-                                                                    <br>
-                                                                    <b><%= @base_header_text %></b><br><br>
+                                                            </tr>
+                                                            <tr>
+                                                                <td valign="top" width="294">
+                                                                    <img src="<%=@base_img04_img%>" width="294" height="235">
                                                                 </td>
-                                                                <td width="15" class="spacer">
-                                                                    <img src="images/spacer.gif" alt="" height="1" width="15">
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                    <td width="4">
+                                                        <img src="images/spacer.gif" height="1" width="4">
+                                                    </td>
+                                                    <td valign="top" width="294">
+                                                        <img src="<%=@base_img05_img%>" width="294" height="474">
+                                                    </td>
+                                                </tr>
+                                             </table>
+                                            <!-- /grid 1 -->
+                                        </td>
+                                        <td width="4">
+                                           <img src="images/spacer.gif" height="1" width="4">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="4">
+                                           <img src="images/spacer.gif" height="1" width="4">
+                                        </td>
+                                        <!-- grid 2 -->
+                                        <td width="592" valign="top">
+                                            <table border="0" width="592" cellpadding="0" cellspacing="0">
+                                                <tr>
+                                                    <td valign="top" width="592">
+                                                        <table border="0" width="592" cellpadding="0" cellspacing="0">
+                                                            <tr>
+                                                                <td valign="top" width="294" class="border-bottom">
+                                                                    <img src="<%=@base_img06_img%>" width="294" height="235">
+                                                                </td>
+                                                                <td width="4">
+                                                                    <img src="images/spacer.gif" width="4" height="1">
+                                                                </td>
+                                                                <td width="294" valign="top" class="border-bottom">
+                                                                     <img src="<%=@base_img07_img%>" width="294" height="235">
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td valign="top" width="294" class="border-bottom">
+                                                                    <img src="<%=@base_img08_img%>" width="294" height="235">
+                                                                </td>
+                                                                <td width="4">
+                                                                    <img src="images/spacer.gif" width="4" height="1">
+                                                                </td>
+                                                                <td width="294" valign="top" class="border-bottom">
+                                                                     <img src="<%=@base_img09_img%>" width="294" height="235">
                                                                 </td>
                                                             </tr>
                                                         </table>
                                                     </td>
                                                 </tr>
-                                                <tr>
-                                                    <td valign="top" align="center" class="text-center">
-                                                        <a href="<%= @base_img02_url %>">
-                                                            <img src="<%= @base_img02_img %>" alt="<%= @base_img02_img_alt %>" title="<%= @base_img02_img_alt %>" class="nose-img responsive inline">
-                                                        </a>
-                                                    </td>
-                                                </tr>
-                                            </table>
+                                             </table>
+                                        </td>
+                                        <!-- /grid 2 -->
+                                        <td width="4">
+                                           <img src="images/spacer.gif" height="1" width="4">
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td width="100%" class="desktopStack">
-                                            <table border="0" cellpadding="0" cellspacing="0" align="center">
-                                                <tr>
-                                                    <td width="50%" align="left" class="w50">
-                                                        <a href="<%= @base_img03_url %>">
-                                                            <img src="<%= @base_img03_img %>" alt="<%= @base_img03_img_alt %>" title="<%= @base_img03_img_alt %>" class="responsive">
-                                                        </a>
-
-                                                        <a href="<%= @base_img04_url %>">
-                                                            <img src="<%= @base_img04_img %>" class="responsive" alt="<%= @base_img04_img_alt %>" title="<%= @base_img04_img_alt %>">
-                                                        </a>
-                                                    </td>
-                                                    <td width="50%" align="right" class="w50">
-                                                        <a href="<%= @base_img05_url %>">
-                                                            <img src="<%= @base_img05_img %>" alt="<%= @base_img05_img_alt %>" title="<%= @base_img05_img_alt %>" class="desktop-responsive">
-                                                        </a>
-                                                    </td>
-                                                </tr>
-                                            </table>
+                                        <td width="4">
+                                           <img src="images/spacer.gif" height="1" width="4">
                                         </td>
-                                    </tr>
-                                    <tr>
-                                        <td width="100%" class="desktopStack">
-                                            <table border="0" cellpadding="0" cellspacing="0" align="center">
+                                        <!-- grid 3 -->
+                                        <td width="592" valign="top">
+                                             <table border="0" width="592" cellpadding="0" cellspacing="0">
                                                 <tr>
-                                                    <td width="50%" align="left" class="w50">
-                                                        <a href="<%= @base_img06_url %>">
-                                                            <img src="<%= @base_img06_img %>" alt="<%= @base_img06_img_alt %>" title="<%= @base_img06_img_alt %>" class="desktop-responsive">
-                                                        </a>
-                                                        <a href="<%= @base_img07_url %>">
-                                                            <img src="<%= @base_img07_img %>" alt="<%= @base_img07_img_alt %>" title="<%= @base_img07_img_alt %>" class="desktop-responsive">
-                                                        </a>
+                                                    <td valign="top" width="294">
+                                                         <img src="<%=@base_img10_img%>" width="294" height="474">
                                                     </td>
-                                                    <td width="50%" align="right" class="w50">
-                                                        <a href="<%= @base_img08_url %>">
-                                                            <img src="<%= @base_img08_img %>" alt="<%= @base_img08_img_alt %>" title="<%= @base_img08_img_alt %>" class="desktop-responsive">
-                                                        </a>
-                                                        <a href="<%= @base_img09_url %>">
-                                                            <img src="<%= @base_img09_img %>" alt="<%= @base_img09_img_alt %>" title="<%= @base_img09_img_alt %>" class="desktop-responsive">
-                                                        </a>
+                                                    <td width="4">
+                                                        <img src="images/spacer.gif" height="1" width="4">
                                                     </td>
-                                                </tr>
-                                            </table>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td width="100%" class="desktopStack">
-                                            <table border="0" cellpadding="0" cellspacing="0" align="center">
-                                                <tr>
-                                                    <td width="50%" align="right" class="w50">
-                                                        <a href="<%= @base_img10_url %>">
-                                                            <img src="<%= @base_img10_img %>" alt="<%= @base_img10_img_alt %>" title="<%= @base_img10_img_alt %>" class="desktop-responsive">
-                                                        </a>
-
-                                                    </td>
-                                                    <td width="50%" align="right" class="w50">
-                                                        <a href="<%= @base_img11_url %>">
-                                                            <img src="<%= @base_img11_img %>" alt="<%= @base_img11_img_alt %>" title="<%= @base_img11_img_alt %>" class="desktop-responsive">
-                                                        </a>
-                                                        <a href="<%= @base_img12_url %>">
-                                                            <img src="<%= @base_img12_img %>" alt="<%= @base_img12_img_alt %>" title="<%= @base_img12_img_alt %>" class="desktop-responsive">
-                                                        </a>
-                                                    </td>
-                                                </tr>
-                                            </table>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td width="100%" class="desktopStack" valign="top">
-                                            <table border="0" cellpadding="0" cellspacing="0" align="center">
-                                                <tr>
-                                                    <td align="center">
-                                                        <table border="0" cellpadding="0" cellspacing="0" align="center">
+                                                    <td width="294">
+                                                        <table border="0" width="294" cellpadding="0" cellspacing="0">
                                                             <tr>
-                                                                <td width="15" class="spacer">
-                                                                    <img src="images/spacer.gif" alt="" height="1" width="15">
+                                                                <td valign="top" width="294" class="border-bottom">
+                                                                    <img src="<%=@base_img11_img%>" width="294" height="235">
                                                                 </td>
-                                                                <td class="footer-text">
-                                                                    <br>
-                                                                    <b><%= @base_footer_text %></b><br><br>
-                                                                </td>
-                                                                <td width="15" class="spacer">
-                                                                    <img src="images/spacer.gif" alt="" height="1" width="15">
+                                                            </tr>
+                                                            <tr>
+                                                                <td valign="top" width="294">
+                                                                    <img src="<%=@base_img12_img%>" width="294" height="235">
                                                                 </td>
                                                             </tr>
                                                         </table>
                                                     </td>
                                                 </tr>
-                                                <tr>
-                                                    <td class="text-center footer-subtext" align="center">
-                                                        <a href="<%= @base_img14_url %>">
-                                                            <img src="<%= @base_img14_img %>" alt="<%= @base_img14_img_alt %>" title="<%= @base_img14_img_alt %>" class="responsive inline footer-logo">
-                                                        </a><br><br>
-                                                        <b><%= @base_footer_subtext %></b><br>
-                                                    </td>
-                                                </tr>
-                                            </table>
+                                             </table>
+                                        </td>
+                                        <!-- /grid 3 -->
+                                        <td width="4">
+                                           <img src="images/spacer.gif" height="1" width="4">
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td valign="top" width="600" bgcolor="#ac0e1f">
+                                <table border="0" width="600" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                        <td colspan="3" height="40" class="cell-height">
+                                             <img src="images/spacer.gif" width="1" height="40">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="80">
+                                            <img src="images/spacer.gif" width="80" height="1">
+                                        </td>
+                                        <td width="440" class="text-center">
+                                            <div class="footer-text">
+                                                <b><%= @base_footer_text %></b>
+                                            </div>
+                                            <img src="<%=@base_img14_img%>" width="440" height="175" class="inline">
+                                            <div class="footer-subtext">
+                                                <%=@base_footer_subtext%>
+                                            </div>
+                                        </td>
+                                        <td width="80">
+                                            <img src="images/spacer.gif" width="80" height="1">
                                         </td>
                                     </tr>
                                 </table>
