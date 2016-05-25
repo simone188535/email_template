@@ -1,0 +1,143 @@
+title: 'Get Spiralized for Summer!'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail'
+
+logo_img: ''
+logo_alt: 'Kings Food Markets'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0512_WeeklyEmail"
+
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7878a77-91ba-4798-8909-c9a383785b5f.jpg?ver=1462839230000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d1a8a42-7b19-4797-8374-7f2b4b7f22c9.jpg?ver=1462839230000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd97367a-001e-4325-9638-f7dfd81ffc02.jpg?ver=1462839230000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/04d49274-f15e-4085-b715-c3063127e9dc.jpg?ver=1462839230000"
+footer_youtube_alt: "youtube"
+
+# Loop through articles
+articles:
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dd9ae492-5e5d-4dbb-a19a-ccde9ca11922.jpg?ver=1463508266000"
+  img_alt: "Hello Summer! Discover fresh, light, and healthy options to start the season right."
+  url: "http://kingsfoodmarkets.com"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ca70ef31-644d-4784-a2b0-f781564966bf.jpg?ver=1463508266000"
+  img_alt: "Recipe Idea: Spiralized Zucchini Pesto Pizza"
+  url: "https://www.youtube.com/user/KingsFoodMarkets"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e5b1c8f7-62b8-4398-a38a-3dcdc8768ef4.jpg?ver=1463508266000"
+  img_alt: "New at Kings"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/98b5e4bd-ec43-4729-acc8-7aae8e786dcb.jpg?ver=1463508266000"
+  img_alt: "Spiralized Zucchini & Squash Noodles"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/779a17ec-6fa8-4272-b14b-a9d2c3c5ee3a.jpg?ver=1463508271000"
+  img_alt_2: "Broccoli Rice"
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0f7d2f9a-5ca9-4eda-81ef-5d34d8decdb8.jpg?ver=1463508266000"
+  img_alt: "Go Gluten-Free | May is Celiac Awareness Month"
+  url: "http://kingsfoodmarkets.com/cooking-studio"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/44f144b6-8c6a-4177-8c0e-db85f08bde44.jpg?ver=1463508266000"
+  img_alt: "Make Mine Gluten-Free Join us June 8 for a cooking class for children ages 8-12, and learn how to make delicious gluten-free recipes."
+  url: "http://kingsfoodmarkets.com/cooking-studio"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/16e36773-58fd-4767-9d49-8d23205a2bd2.jpg?ver=1463508266000"
+  img_alt: "Nut Allergy? Don't Go Nuts! This nut-free brand offers bars, spreads and dips that are gluten-free, non-GMO, organic and kosher-dairy!"
+  url: "http://kingsfoodmarkets.com/unique-recipes/gluten-guilt-allergen-free-elvis-cookies"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/00836b74-f8a8-467f-bac6-638a84e5b8ac.jpg?ver=1463508267000"
+  img_alt: "Recipe Idea: Gluten/Guilt/Allergen-Free Elvis Cookies"
+  url: "http://kingsfoodmarkets.com/unique-recipes/gluten-guilt-allergen-free-elvis-cookies"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/58b081f7-64c5-4a9a-b1cd-dfadcd5dc4b3.jpg?ver=1463508267000"
+  img_alt: "Jersey Fresh | Asparagus Is Now In Season"
+  url: "http://kingsfoodmarkets.com/farm-fresh"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1c7c1690-5655-443f-be15-b47216dbdbdb.jpg?ver=1463508267000"
+  img_alt: "Fresh, local and delicious, this low calorie, fat-free veggie is packed with nutrients. Try with a sprinkle of olive oil, salt and pepper, then grilled or roasted to perfection. 2.99 LB."
+  url: "http://kingsfoodmarkets.com/farm-fresh"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a2d15161-ed6f-4ca3-92d8-19e50455092d.jpg?ver=1463508267000"
+  img_alt: "Chef Prepared | Savory Summer Specialties"
+  url: "http://kingsfoodmarkets.com/prepared-foods"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e956d951-52d4-47f1-b94a-2638c578530d.jpg?ver=1463508267000"
+  img_alt: "Inspired Pairing: Kings Gazpacho Soup"
+  url: "http://kingsfoodmarkets.com/prepared-foods"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fd440171-c6b2-4104-8709-0f7a8c24e4bb.jpg?ver=1463508267000"
+  img_alt_2: "Kings Chef Inspired Sweet & Spicy Grilled Salmon"
+  url_2: "http://kingsfoodmarkets.com/prepared-foods"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2ac2229e-ef63-45af-98c7-eeed5bab62c3.jpg?ver=1463508267000"
+  img_alt: "View More Chef Prepared >"
+  url: "http://kingsfoodmarkets.com/prepared-foods"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2a1c9f48-9297-497a-951f-8bd709ad23a9.jpg?ver=1463508267000"
+  img_alt: "Unique Recipe | Summer Flavors"
+  url: "http://kingsfoodmarkets.com/unique-recipes/kings-fish-tacos"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/83982bb7-2823-4581-9e78-627ec0bf02ba.jpg?ver=1463508267000"
+  img_alt: "Kings Fish Tacos View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes/kings-fish-tacos"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3728e855-bf50-49c8-8983-767015722d90.jpg?ver=1463508267000"
+  img_alt: "Market Specials | Fresh Eats Great For Grilling"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4b456044-967d-4878-91b7-c5ae18acf5bc.jpg?ver=1463508268000"
+  img_alt: "Kings Fresh Beef, Chicken or Pork Kabobs Regular or Marinated with Vegetables 5.99 LB."
+  url: "http://kingsfoodmarkets.com/circular/all_stores/"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fa8b7f47-f445-4791-a05e-a127518b8471.jpg?ver=1463511472000"
+  img_alt_2: "Fresh Tilapia Fillet 6.99 LB."
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/99740fc6-db19-499d-8889-ae428f779d0c.jpg?ver=1463508268000"
+  img_alt: "View More Specials"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/"
