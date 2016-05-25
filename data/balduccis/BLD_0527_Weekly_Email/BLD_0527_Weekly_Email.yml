@@ -8,7 +8,7 @@ pre_header_text: ''
 
 #header
 logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
-logo_alt: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+logo_alt: ''
 catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
 catering_alt: 'CATERING'
 chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
@@ -20,16 +20,16 @@ my_balduccis_alt: 'myBALDUCCI&#39;S'
 
 
 #header
-logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
-logo_alt: 'Balducci&#39;s'
-store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
-store_locator_alt: 'FIND A STORE'
-weekly_circular_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
-weekly_circular_alt: 'CATERING'
-chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
-chef_prepared_alt: 'CHEF PREPARED'
-catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
-catering_alt: 'CATERING'
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+#logo_alt: 'Balducci&#39;s'
+#store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+#store_locator_alt: 'FIND A STORE'
+#weekly_circular_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+#weekly_circular_alt: 'CATERING'
+#chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+#chef_prepared_alt: 'CHEF PREPARED'
+#catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+#catering_alt: 'CATERING'
 
 #footer
 footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email"
@@ -114,7 +114,7 @@ articles:
   img_2: 'images/BLD_036_weekly_email_0527_DIV01_DEV_24.jpg'
   img_alt_2: "Chipotle BBQ Turkey Burger"
 
-- type: 'image'
+- type: 'image' 
   url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
   img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_25.jpg'
   img_alt: 'Great Grilling | Cookout Essentials'
