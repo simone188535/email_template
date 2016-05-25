@@ -399,6 +399,13 @@
         }
       }
     </style>
+
+    [if gte mso 9]><xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml><![endif]
   </head>
   <body bgcolor="<%=@base_background_color%>" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
       <!--
@@ -463,13 +470,13 @@
               <td valign="top" align="center">
       				  <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
       					  <tr>
-      						  <td>
+      						  <td valign="top">
       			                <a href="<%= f["url"] %>">
       			                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
       			                </a>
 
       						  </td>
-      						  <td>
+      						  <td valign="top">
       			                <a href="<%= f["url_2"] %>">
       			                  <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
       			                </a>
@@ -485,19 +492,19 @@
               <td valign="top" align="center">
                 <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
                   <tr>
-                    <td>
+                    <td valign="top">
                             <a href="<%= f["url"] %>">
                               <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
                             </a>
 
                     </td>
-                    <td>
+                    <td valign="top">
                             <a href="<%= f["url_2"] %>">
                               <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
                             </a>
                     </td>
 
-                    <td>
+                    <td valign="top">
                             <a href="<%= f["url_3"] %>">
                               <img src="<%= f["img_3"] %>" alt="<%= f["img_alt_3"] %>" title="<%= f["img_alt_3"] %>" class="responsive">
                             </a>
@@ -513,25 +520,25 @@
               <td valign="top" align="center">
                 <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
                   <tr>
-                    <td>
+                    <td valign="top">
                             <a href="<%= f["url"] %>">
                               <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
                             </a>
 
                     </td>
-                    <td>
+                    <td valign="top">
                             <a href="<%= f["url_2"] %>">
                               <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
                             </a>
-                    </td>
-                                  <td>
+                    </td valign="top">
+                                  <td valign="top">
                             <a href="<%= f["url_3"] %>">
                               <img src="<%= f["img_3"] %>" alt="<%= f["img_alt_3"] %>" title="<%= f["img_alt_3"] %>" class="responsive">
                             </a>
 
                     </td>
 
-                                  <td>
+                                  <td valign="top">
                             <a href="<%= f["url_4"] %>">
                               <img src="<%= f["img_4"] %>" alt="<%= f["img_alt_4"] %>" title="<%= f["img_alt_4"] %>" class="responsive">
                             </a>
