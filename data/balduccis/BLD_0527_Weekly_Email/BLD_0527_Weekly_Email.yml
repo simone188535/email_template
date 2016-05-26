@@ -1,0 +1,154 @@
+title: 'Did Salmon Say Burgers for Dinner?'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+logo_alt: ''
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+weekly_circular_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email"
+footer_site_img: "images/BLD_036_weekly_email_0527_DIV01_DEV_32.jpg"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "images/BLD_036_weekly_email_0527_DIV01_DEV_33.jpg"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "images/BLD_036_weekly_email_0527_DIV01_DEV_34.jpg"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_09.jpg'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_10.jpg'
+  img_alt: "Fire Up the Grill Kick off Memorial Day with juicy burgers, sweet treats and savory sides."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_11.jpg'
+  img_alt: "Available in the Seafood Department Recipe Idea: Sriracha Salmon Burger with Bahn Mi Slaw Watch Video >"
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_12.jpg'
+  img_alt: "Fresh Made Salmon Burgers Made fresh in-store, and perfect for the grill. Try these delicious varieties."
+
+- type: "image-3-columns"
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_13.jpg'
+  img_alt: "Rosemary Tangerine Cocktail View Recipe"
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img_2: 'images/BLD_036_weekly_email_0527_DIV01_DEV_14.jpg'
+  img_alt_2: "Stone Fruit Sangria View Recipe"
+  url_3: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img_3: 'images/BLD_036_weekly_email_0527_DIV01_DEV_15.jpg'
+  img_alt_3: "Rosemary Tangerine Cocktail View Recipe"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_16.jpg'
+  img_alt: "Made Fresh | Custom Burgers"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_17.jpg'
+  img_alt: "Our Finest Meats Ground Fresh Today. USDA Prime Meat Burgers. Having a cookout? Try our custom USDA Prime Meat Burgers, ground fresh in-store daily, and made from 100% USDA prime certified Angus grass-fed beef."
+
+- type: "image-4-columns"
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_18.jpg'
+  img_alt: "Cheddar Cheese & Bacon"
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img_2: 'images/BLD_036_weekly_email_0527_DIV01_DEV_19.jpg'
+  img_alt_2: "Peter Lugar Steak Sauce & Green Onions "
+  url_3: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img_3: 'images/BLD_036_weekly_email_0527_DIV01_DEV_20.jpg'
+  img_alt_3: "Crumbled Bleu Cheese"
+  url_4: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img_4: 'images/BLD_036_weekly_email_0527_DIV01_DEV_21.jpg'
+  img_alt_4: "Swiss Cheese & Mushrooms"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_22.jpg'
+  img_alt: "Recipes | Beef-Free Burgers"
+
+- type: "image-2-columns"
+  url: 'http://www.balduccis.com/recipes/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_23.jpg'
+  img_alt: "Beet, Quinoa & Black Bean Burger View Recipe >"
+  url_2: 'http://www.balduccis.com/recipes/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img_2: 'images/BLD_036_weekly_email_0527_DIV01_DEV_24.jpg'
+  img_alt_2: "Chipotle BBQ Turkey Burger"
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_25.jpg'
+  img_alt: 'Great Grilling | Cookout Essentials'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_26.jpg'
+  img_alt: 'USDA Prime Certified Angus Beef Less than 1.5% of beef is elite enough to meet the Certified Angus Beef&reg; brand Prime standards and earn its premium name.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_27.jpg'
+  img_alt: 'Stonewall Texas Rub Kit Get an authentic taste of the Lone Star State! This Texas Rub is a combination of brown sugar, molasses and spices that creates a sweet-smoky flavor combo for beef, pork or seafood.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_28.jpg'
+  img_alt: "Balducci&#39;s Fresh Fruit Tart Shortbread crust filled with almond-flavored pastry cream, topped with fresh fruits and finished with apricot glaze."
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_29.jpg'
+  img_alt: 'Balducci&#39;s Apple Pie Balducci&#39;s fruit pies are defined as "Natural Juice Pies" because we add no water or pre-cooked thickening to the filling. As the pie bakes, the fruit cooks in its own juice.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_30.jpg'
+  img_alt: "Member Exclusive | Grab & Go Side Dish"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+  img: 'images/BLD_036_weekly_email_0527_DIV01_DEV_31.jpg'
+  img_alt: "Redskin Potato Salad Member Exclusive: 6.49/LB Reg 7.49"
+
+
+
+
