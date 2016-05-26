@@ -1,0 +1,105 @@
+title: 'buybuy Baby'
+
+instore_img_url: 'images/header-logo.jpg'
+instore_img_alt: 'DuanereadeTM by Walgreens'
+instore_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+instore_img_width: ''
+instore_img_height: ''
+
+logo_img_url: 'images/header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+logo_img_width: ''
+logo_img_height: ''
+
+babyreg_img_url: 'images/header-logo.jpg'
+babyreg_img_alt: 'DuanereadeTM by Walgreens'
+babyreg_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+babyreg_img_width: ''
+babyreg_img_height: ''
+
+whatsnew_nav_url: 'images/header-logo.jpg'
+whatsnew_nav_alt: 'DuanereadeTM by Walgreens'
+whatsnew_nav_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+whatsnew_nav_width: ''
+whatsnew_nav_height: ''
+
+shop_nav_url: 'images/header-logo.jpg'
+shop_nav_alt: 'DuanereadeTM by Walgreens'
+shop_nav_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+shop_nav_width: ''
+shop_nav_height: ''
+
+clearance_nav_url: 'images/header-logo.jpg'
+clearance_nav_alt: 'DuanereadeTM by Walgreens'
+clearance_nav_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+clearance_nav_width: ''
+clearance_nav_height: ''
+
+
+# Loop through articles
+
+articles:
+- type: "image"
+  url: ""
+  img: ""
+  img_alt: ""
+
+- type: "images-2-columns"
+  image_first_link: ""
+  image_first_url: "http://placehold.it/300x300/666666/000000?text=image-2-column"
+  image_first_alt: "left image"
+  image_first_width: ""
+  image_first_height: ""
+  image_second_link: ""
+  image_second_url: "http://placehold.it/300x300/333333/000000?text=image-2-column"
+  image_second_alt: "right image"
+  image_second_width: ""
+  image_second_height: ""
+
+- type: "images-3-columns"
+  image_first_link: ""
+  image_first_url: "http://placehold.it/300x300/666666/000000?text=image-2-column"
+  image_first_alt: "left image"
+  image_first_width: ""
+  image_first_height: ""
+  image_second_link: ""
+  image_second_url: "http://placehold.it/300x300/333333/000000?text=image-2-column"
+  image_second_alt: "right image"
+  image_second_width: ""
+  image_second_height: ""
+  image_third_link: ""
+  image_third_url: "http://placehold.it/300x300/333333/000000?text=image-2-column"
+  image_third_alt: "right image"
+  image_third_width: ""
+  image_third_height: ""
+
+facebook_url: 'images/header-logo.jpg'
+facebook_alt: 'DuanereadeTM by Walgreens'
+facebook_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+facebook_width: ''
+facebook_height: ''
+
+twitter_url: 'images/header-logo.jpg'
+twitter_alt: 'DuanereadeTM by Walgreens'
+twitter_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+twitter_width: ''
+twitter_height: ''
+
+pinterest_url: 'images/header-logo.jpg'
+pinterest_alt: 'DuanereadeTM by Walgreens'
+pinterest_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+pinterest_width: ''
+pinterest_height: ''
+
+youtube_url: 'images/header-logo.jpg'
+youtube_alt: 'DuanereadeTM by Walgreens'
+youtube_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+youtube_width: ''
+youtube_height: ''
+
+instagram_url: 'images/header-logo.jpg'
+instagram_alt: 'DuanereadeTM by Walgreens'
+instagram_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+instagram_width: ''
+instagram_height: ''
