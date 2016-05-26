@@ -1,5 +1,5 @@
 <% require 'active_support/all' %>
-<% instance_variable_set("@base_data_file", data.duanereade.flexible_template.flexible_template) %>
+<% instance_variable_set("@base_data_file", data.buybuyBaby.bbb_600_template.bbb_600_template) %>
 <% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 
 <%= @base_pre_header_text %>
@@ -27,18 +27,6 @@
 <% if @base_callout_img_alt!='' %>
 <%= @base_callout_img_alt %>
 <%=@base_callout_img_link%>
-
-<% end %>
-
-<% @base_data_file.footernav.each do |f| %>
-<%= f["text"] %>
-<%= f["link"] %>
-
-<% end %>
-
-<% @base_data_file.socialnav.each do |f| %>
-<%= f["alt"] %>
-<%= f["link"] %>
 
 <% end %>
 

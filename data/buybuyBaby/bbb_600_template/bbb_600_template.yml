@@ -41,9 +41,9 @@ clearance_nav_height: ''
 
 articles:
 - type: "image"
-  url: ""
-  img: ""
-  img_alt: ""
+  url: "#"
+  img: "https://placeholdit.imgix.net/~text?txtsize=33&txt=image%20placeholder&w=600&h=150"
+  img_alt: "alt text"
 
 - type: "images-2-columns"
   image_first_link: ""
