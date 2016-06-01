@@ -1,0 +1,60 @@
+title: 'Your 10% Off Coupons Are Here!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2fc782ea-ef65-49b7-ba53-8fdf51ce22d6.jpg?ver=1464754016000'
+logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+my_balduccis_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0527_BLD_Weekly_Email'
+my_balduccis_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_Loyalty_Email_Div1"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ef668213-7f1b-4abe-9f4e-91ac66305101.jpg?ver=1464754031000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/808c656b-b5bd-4399-bb99-02d0e61ede01.jpg?ver=1464754033000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d40a0f6b-f46b-4a0b-ac8d-52dd320efbf2.jpg?ver=1464777626000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_Loyalty_Email_Div1'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cdedd041-7834-4411-b2ac-30b60d2f43b9.jpg?ver=1464754017000'
+  img_alt: "Just for you! Shop Balducci&#39;s and celebrate Dads & Grads this month! We also included a 10% Off Total coupon for you to enjoy on your next purchase or Catering order, and two additional 10% Off coupons for your Prepared Foods or Fresh Meat orders."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_Loyalty_Email_Div1'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d08d51f1-b740-4db0-8361-334b9be54ba7.jpg?ver=1464754026000'
+  img_alt: "Your Balducci's Store Team Any Questions? Contact myBalducci#39;s at 1.844.884.9809 or customerservice@mybalduccis.com"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_Loyalty_Email_Div1'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e9415576-b6be-4b8e-b9bc-ccb0c3d393b9.jpg?ver=1464754026000'
+  img_alt: "June Savings Coupons MUST be printed and provided to cashier at time of purchase. Coupon valid for one time use only and one per household."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_Loyalty_Email_Div1'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a8289ed2-e001-4000-9a7a-22edc6ac01fc.jpg?ver=1464754026000'
+  img_alt: "Balducci#39;s Coupon: 10% OFF your total purchase Valid through 6/30/16 Terms & Conditions Apply."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_Loyalty_Email_Div1'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd73d549-1a69-46fd-839a-0a03dcfd5096.jpg?ver=1464754026000'
+  img_alt: "Balducci#39;s Coupon: 10% OFF any prepared foods department purchase Valid through 6/30/16 Terms & Conditions Apply."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_Loyalty_Email_Div1'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7c4b6e3d-6375-4883-bae8-9df627ce2a94.jpg?ver=1464754026000'
+  img_alt: "Balducci#39s Coupon: 10% OFF any fresh meat department purchase Valid through 6/30/16 Terms & Conditions Apply."
+
