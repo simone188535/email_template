@@ -7,9 +7,9 @@ background_color: '#f6f5f3'
 pre_header_text: ''
 
 #header
-logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_Loyalty_Email_Div1'
-logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2fc782ea-ef65-49b7-ba53-8fdf51ce22d6.jpg?ver=1464754016000'
-logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_Loyalty_Email_Div1'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2fc782ea-ef65-49b7-ba53-8fdf51ce22d6.jpg?ver=1464754016000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
 
 
 #footer
@@ -26,6 +26,11 @@ footer_twitter_alt: "twitter"
 
 # Loop through articles
 articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_Loyalty_Email_Div1'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2fc782ea-ef65-49b7-ba53-8fdf51ce22d6.jpg?ver=1464754016000'
+  img_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
 
 - type: 'image'
   url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_Loyalty_Email_Div1'
