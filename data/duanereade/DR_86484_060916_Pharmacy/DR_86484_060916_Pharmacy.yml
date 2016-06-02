@@ -1,0 +1,74 @@
+title: 'When was your last immunization?'
+
+primary_color: '#'
+
+pre_header_text: 'If you&#39;re an adult, you&#39;re most likely due for one!'
+
+logo_img_url: 'images/86484_DR_Week2_060916_Pharmacy_V2_1B_header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+hero_img_url: 'images/86484_DR_Week2_060916_Pharmacy_V2_1B_02.jpg'
+hero_img_alt: "Get vaccinated today. When you get vaccinated, you protect yourself from shingles, pneumonia and more. "
+hero_img_link: 'https://www.walgreens.com/pharmacy/immunization/immunization_index.jsp'
+
+callout_img_url: 'images/86484_DR_Week2_060916_Pharmacy_V2_1B_07.jpg'
+callout_img_alt: 'Get the App'
+callout_img_link: 'http://walgreens.com/mobile'
+
+footer_text: '<sup>*</sup>From July 1, 2015 to August 31, 2016 for every immunization administered, Walgreens with donate $0.18 to the United Nations Foundation, up to a maximum donation of $2,000,000. Vaccines subject to availability. State-, age-, and health-related restrictions apply.<br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade does not guarantee the applicability or accuracy of any information mentioned in the Contents.<br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=hBXB7lnB8c6slB9MRfCAAAAAAAe&email'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 10005'
+
+# Loop through articles
+
+articles:
+- type: "image"
+  url: "https://www.walgreens.com/pharmacy/enterprisescheduler/scheduler_location_search_form.jsp#appt-scheduler-patients-loc"
+  img: "images/86484_DR_Week2_060916_Pharmacy_V2_1B_03.jpg"
+  img_alt: "Schedule an appointment online."
+
+- type: "image"
+  url: "https://www.walgreens.com/images/pdfs/IN-2225/WAG_VAR_Form_EDIT_10172013_v1.pdf"
+  img: "images/86484_DR_Week2_060916_Pharmacy_V2_1B_04.jpg"
+  img_alt: "Fill out a consent form."
+
+- type: "image"
+  url: "https://www.walgreens.com/pharmacy/immunization/all_immunizations.jsp"
+  img: "images/86484_DR_Week2_060916_Pharmacy_V2_1B_05.jpg"
+  img_alt: "Arrive ten minutes early."
+
+
+
+
+footernav:
+- text: "Photo"
+  link: "http://photo.walgreens.com/walgreens/welcome"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+socialnav:
+- img: "images/86484_DR_Week2_060916_Pharmacy_V2_1B_fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/86484_DR_Week2_060916_Pharmacy_V2_1B_tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/86484_DR_Week2_060916_Pharmacy_V2_1B_site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'images/86484_DR_Week2_060916_Pharmacy_V2_1B_spacer.gif'

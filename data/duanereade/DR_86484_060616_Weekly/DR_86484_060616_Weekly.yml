@@ -1,0 +1,59 @@
+title: 'Hot Summer Deals are heating up!'
+
+primary_color: '#cb007c'
+
+pre_header_text: 'All the items you love, at prices you’ll love even more'
+
+logo_img_url: 'images/86484_DR_Week2_060616_Weekly_1D_header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+callout_img_url: 'images/86484_DR_Week2_060616_Weekly_1D_03.jpg'
+callout_img_alt: 'Get the App'
+callout_img_link: 'http://walgreens.com/mobile'
+
+footer_text: 'Offers valid 6/5-6/11/16<br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade  does not guarantee the applicability or accuracy of any information mentioned in the Contents.<br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=hBXB7lnB8c6slB9MRfCAAAAAAAe&email'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 10005'
+
+# Loop through articles
+
+articles:
+- type: "image"
+  url: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  img: "images/86484_DR_Week2_060616_Weekly_1D_02.jpg"
+  img_alt: "Hot Summer Deals on all your favorite sips, snacks and sweets."
+  
+
+
+footernav:
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Photo"
+  link: "http://photo.walgreens.com/walgreens/welcome"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+socialnav:
+- img: "images/86484_DR_Week2_060616_Weekly_1D_fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/86484_DR_Week2_060616_Weekly_1D_tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/86484_DR_Week2_060616_Weekly_1D_site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'images/86484_DR_Week2_060616_Weekly_1D_spacer.gif'
