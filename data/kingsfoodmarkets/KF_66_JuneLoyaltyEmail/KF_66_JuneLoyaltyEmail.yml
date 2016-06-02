@@ -41,7 +41,7 @@ pre_header_text: ''
 # Loop through articles
 articles:
 
-- type: "image"1
+- type: "image"
   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/69f640af-9616-4867-abd4-f53484d7263c.jpg?ver=1464826060000"
   img_alt: "Kings Rewards June Member Offers"
   url: "http://kingsfoodmarkets.com/media/files/59_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_66_JuneLoyaltyEmail"
@@ -51,7 +51,7 @@ articles:
   img_alt: "Account Update Your points will expire June 30th 2016 REMEMBER! Collect 300 points by June 30th to receive your $5.00 REWARD.All Points will return to 0 on 7/1/16, for the next promotional period starting 7/1/16 through 9/30/16"
   url: "http://kingsfoodmarkets.com/media/files/66_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_66_JuneLoyaltyEmail"
 
-- type: "image"3
+- type: "image"
   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/98ed2d4c-27a2-495a-b8c6-ebffba0db363.jpg?ver=1464826060000"
   img_alt: "New! Dietz & Watson Originals! Save 2.00"
   url: "http://kingsfoodmarkets.com/media/files/66_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_66_JuneLoyaltyEmail"
@@ -61,7 +61,7 @@ articles:
   img_alt: "Bumble Bee Salmon - Valid 6/3 - 6/16/16 9.4 oz., With Garden Pesto Save 2.00"
   url: "http://kingsfoodmarkets.com/media/files/66_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_66_JuneLoyaltyEmail"
 
-- type: "image"5
+- type: "image"
   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ae9ad09a-df1d-4feb-a1b7-00baddc25e44.jpg?ver=1464826061000"
   img_alt: "Chef Prepared Antioxidant Salad - Valid 6/24 - 6/30/16 Save 1.00"
   url: "http://kingsfoodmarkets.com/media/files/66_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_66_JuneLoyaltyEmail"
@@ -71,7 +71,7 @@ articles:
   img_alt: "Wagyu-Kobe Frozen Beef Burgers 160 oz. Save 1.00"
   url: "http://kingsfoodmarkets.com/media/files/66_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_66_JuneLoyaltyEmail"
 
-- type: "image"7
+- type: "image"
   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5ceffe2e-1fcd-4dff-a2a4-7a47c70d468a.jpg?ver=1464826061000"
   img_alt: "Lemon Meringue Pie - Valid 6/17 - 6/30/16 27 oz., Zesty Lemon Flavor Save 1.00"
   url: "http://kingsfoodmarkets.com/media/files/66_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_66_JuneLoyaltyEmail"
@@ -81,7 +81,7 @@ articles:
   img_alt: "Pricing is valid 6/3/16 to 6/30/16 unless otherwise noted."
   url: "http://kingsfoodmarkets.com/media/files/66_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_66_JuneLoyaltyEmail"
 
-- type: "image"9
+- type: "image"
   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1dfe8b04-90a9-4529-900e-bb8f6405dfbb.jpg?ver=1464826061000"
   img_alt: "Shopping at Kings is Now More Rewarding than Ever"
   url: "http://kingsfoodmarkets.com/media/files/66_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_66_JuneLoyaltyEmail"
