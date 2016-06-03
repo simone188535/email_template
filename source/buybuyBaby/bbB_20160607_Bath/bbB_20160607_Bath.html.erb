@@ -423,34 +423,34 @@
         <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
             <!-- Header logo -->
             <tr>
-            	<td valign="top" align="center">
-					 <table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
-					        <tr>
-					                <td>
-					                        <a href="<%= @base_header_instore_link %>">
-					                                <img src="<%= @base_header_instore_img %>" class="responsive" alt="<%= @base_header_instore_alt %>"></a></td>
-					                <td>
-					                        <a href="<%= @base_header_logo_link %>">
-					                                <img src="<%= @base_header_logo_img %>" class="responsive" alt="<%= @base_header_logo_alt %>"></a></td>
-					                <td>
-					                        <a href="<%= @base_header_registry_link %>">
-					                                <img src="<%= @base_header_registry_img %>" class="responsive" alt="<%= @base_header_registry_alt %>"></a></td>
-					        </tr>
+              <td valign="top" align="center">
+           <table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+                  <tr>
+                          <td  width="205" height="124">
+                                  <a href="<%= @base_header_instore_link %>">
+                                          <img src="<%= @base_header_instore_img %>" class="responsive" alt="<%= @base_header_instore_alt %>"  width="219" height="126"></a></td>
+                          <td width="209" height="124">
+                                  <a href="<%= @base_header_logo_link %>">
+                                          <img src="<%= @base_header_logo_img %>" class="responsive" alt="<%= @base_header_logo_alt %>" width="170" height="126"></a></td>
+                          <td width="186" height="124">
+                                  <a href="<%= @base_header_registry_link %>">
+                                          <img src="<%= @base_header_registry_img %>" class="responsive" alt="<%= @base_header_registry_alt %>" width="211" height="126"></a></td>
+                  </tr>
                       </table>
-					  <table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
-					        <tr>
-					                <td>
-					                        <a href="<%= @base_top_nav_whatsnew_link %>">
-					                                <img src="<%= @base_top_nav_whatsnew_img %>" class="responsive" alt="<%= @base_top_nav_whatsnew_alt %>"></a></td>
-					                <td>
-					                        <a href="<%= @base_top_nav_shop_link %>">
-					                                <img src="<%= @base_top_nav_shop_img %>" class="responsive" alt="<%= @base_top_nav_shop_alt %>"></a></td>
-					                <td>
-					                        <a href="<%= @base_top_nav_clearance_link %>">
-					                                <img src="<%= @base_top_nav_clearance_img %>" class="responsive" alt="<%= @base_top_nav_clearance_alt %>"></a></td>
-					        </tr>
-					</table>
-            	</td>
+            <table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
+                  <tr>
+                          <td>
+                                  <a href="<%= @base_top_nav_whatsnew_link %>">
+                                          <img src="<%= @base_top_nav_whatsnew_img %>" class="responsive" alt="<%= @base_top_nav_whatsnew_alt %>"></a></td>
+                          <td>
+                                  <a href="<%= @base_top_nav_shop_link %>">
+                                          <img src="<%= @base_top_nav_shop_img %>" class="responsive" alt="<%= @base_top_nav_shop_alt %>"></a></td>
+                          <td>
+                                  <a href="<%= @base_top_nav_clearance_link %>">
+                                          <img src="<%= @base_top_nav_clearance_img %>" class="responsive" alt="<%= @base_top_nav_clearance_alt %>"></a></td>
+                  </tr>
+          </table>
+              </td>
             </tr>
             <!-- /Header logo -->
 
@@ -536,11 +536,11 @@
                 <table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
                   <tr>
 
-                    <td width="157" height="33"><img src="images/spacer.gif" height="33" width="157" alt=""></td>
+                    <td width="158" height="33"><img src="images/spacer.gif" height="33" width="158" alt=""></td>
                       <% @base_data_file.socialnav.each do |f| %>
-                        <td valign="top" width="57" height="33">
+                        <td valign="top">
                             <a href="<%= f["link"] %>">
-                                <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" width="57" height="33">
+                                <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>">
                             </a>
                         </td>
                       <% end %>
