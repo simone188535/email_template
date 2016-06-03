@@ -110,33 +110,32 @@
 					<% end %>
 				<% end %>
 				<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
-				    <tr>
-				        <td>
-				            <a href="<%=@base_facebook_link%>">
-				                <img src="<%=@base_facebook_url%>" alt="<%=@base_facebook_alt%>" title="<%=@base_facebook_alt%>" border="0" width="<%=@base_facebook_width%>" height="<%=@base_facebook_height%>">
-				            </a>
-				        </td>
-				        <td>
-				            <a href="<%=@base_twitter_link%>">
-				                <img src="<%=@base_twitter_url%>" alt="<%=@base_twitter_alt%>" title="<%=@base_twitter_alt%>" border="0" width="<%=@base_twitter_width%>" height="<%=@base_twitter_height%>">
-				            </a>
-				        </td>
-				        <td>
-				            <a href="<%=@base_pinterest_link%>">
-				                <img src="<%=@base_pinterest_url%>" alt="<%=@base_pinterest_alt%>" title="<%=@base_pinterest_alt%>" border="0" width="<%=@base_pinterest_width%>" height="<%=@base_pinterest_height%>">
-				            </a>
-				        </td>
-				        <td>
-				            <a href="<%=@base_youtube_link%>">
-				                <img src="<%=@base_youtube_url%>" alt="<%=@base_youtube_alt%>" title="<%=@base_youtube_alt%>" border="0" width="<%=@base_youtube_width%>" height="<%=@base_youtube_height%>">
-				            </a>
-				        </td>
-				        <td>
-				            <a href="<%=@base_instgram_link%>">
-				                <img src="<%=@base_instgram_url%>" alt="<%=@base_instgram_alt%>" title="<%=@base_instgram_alt%>" border="0" width="<%=@base_instgram_width%>" height="<%=@base_instgram_height%>">
-				            </a>
-				        </td>
-				    </tr>
+			          <!-- Footer nav -->
+
+			          <tr>
+			            <td class="cell-height" height="10">
+			              <img src="images/spacer.gif" alt="" height="10" width="1">
+			            </td>
+			          </tr>
+
+			          <!-- Social links -->
+			          <tr>
+			            <td valign="top" align="center" class="social-links">
+
+							<table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
+							        <tr>
+						                  <% @base_data_file.socialnav.each do |f| %>
+							                <td>
+						                        <a href="<%= f["link"] %>">
+						                                <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" >
+												</a>
+											</td>
+						                <% end %>
+							        </tr>
+							</table>
+
+			            </td>
+			          </tr>
 				</table>
 				<!-- Zeta Footer -->
 				<!-- <table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
