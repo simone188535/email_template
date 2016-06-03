@@ -90,17 +90,17 @@
 					<% if f["type"]=="images-3-columns" %>
 					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
 					    <tr>
-					        <td>
+					        <td width="<%= f["image_first_width"] %>" height="<%= f["image_first_height"] %>">
 					            <a href="<%= f["image_first_link"] %>">
 					                <img src="<%= f["image_first_url"] %>" alt="<%= f["image_first_alt"] %>" title="<%= f["image_first_alt"] %>" border="0" width="<%= f["image_first_width"] %>" height="<%= f["image_first_height"] %>">
 					            </a>
 					        </td>
-					        <td>
+					        <td width="<%= f["image_second_width"] %>" height="<%= f["image_second_height"] %>">
 					            <a href="<%= f["image_second_link"] %>">
 					                <img src="<%= f["image_second_url"] %>" alt="<%= f["image_second_alt"] %>" title="<%= f["image_second_alt"] %>" border="0" width="<%= f["image_second_width"] %>" height="<%= f["image_second_height"] %>">
 					            </a>
 					        </td>
-					        <td>
+					        <td width="<%= f["image_third_width"] %>" height="<%= f["image_third_height"] %>">
 					            <a href="<%= f["image_third_link"] %>">
 					                <img src="<%= f["image_third_url"] %>" alt="<%= f["image_third_alt"] %>" title="<%= f["image_third_alt"] %>" border="0" width="<%= f["image_third_width"] %>" height="<%= f["image_third_height"] %>">
 					            </a>
@@ -113,8 +113,8 @@
 			          <!-- Footer nav -->
 
 			          <tr>
-			            <td class="cell-height" height="10">
-			              <img src="images/spacer.gif" alt="" height="10" width="1">
+			            <td class="cell-height" height="5">
+			              <img src="images/spacer.gif" alt="" height="5" width="1">
 			            </td>
 			          </tr>
 
