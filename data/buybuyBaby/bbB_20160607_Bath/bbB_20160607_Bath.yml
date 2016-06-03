@@ -36,7 +36,7 @@ unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
 privacy_link: '#'
 privacy_text: 'Privacy Policy'
 
-copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 1000'
+#copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 1000'
 
 # Loop through articles
 
@@ -76,21 +76,57 @@ articles:
   width_2: "302"
 
 - type: "image-2-columns"
-  img: "images/"
-  img_alt: ""
-  url: ""
-  height: ""
-  width: ""
-  img_2: "images/"
-  img_alt_2: ""
-  url_2: ""
+  img: "images/bbB_154_060716_Bath&Potty_v1_r9_DEV_12.jpg"
+  img_alt: "Toilet Trainer by BABYJORN® 34.99"
+  url: "http://www.buybuybaby.com/store/product/babybjorn-reg-toilet-trainer-in-black/1014993258?mcid=EM_Promo_201606_BathPotty_NoOffer "
+  height: "402"
+  width: "298"
+  img_2: "images/bbB_154_060716_Bath&Potty_v1_r9_DEV_13.jpg"
+  img_alt_2: "Paw Patrol 3-in-1 Potty System by The First Years™ 29.99"
+  url_2: "http://www.buybuybaby.com/store/product/nickelodeon-trade-paw-patrol-3-in-1-potty-training-system-with-sound/1046360526?mcid=EM_Promo_201606_BathPotty_NoOffer "
+  height_2: "402"
+  width_2: "302"
 
 - type: "image"
-  img: "images/"
-  img_alt: ""
-  url: ""
-  height: ""
-  width: ""
+  img: "images/bbB_154_060716_Bath&Potty_v1_r9_DEV_14.jpg"
+  img_alt: "Transitions Step Stool by Graco® Shown in Pewter Grey 16.99 potty training tip encourage your child with small rewards, such as stickers, every time they use the potty"
+  url: "http://www.buybuybaby.com/store/product/graco-reg-transitions-step-stool-in-pewter-grey/1041520444?mcid=EM_Promo_201606_BathPotty_NoOffer "
+  height: "297"
+  width: "600"
+
+- type: "image-2-columns"
+  img: "images/bbB_154_060716_Bath&Potty_v1_r9_DEV_15.jpg"
+  img_alt: "Diaper Pail by Ubbi® Additional colors available 69.99-79.99"
+  url: "http://www.buybuybaby.com/store/product/ubbi-reg-diaper-pail-in-grey/3243643?mcid=EM_Promo_201606_BathPotty_NoOffer"
+  height: "511"
+  width: "298"
+  img_2: "images/bbB_154_060716_Bath&Potty_v1_r9_DEV_16.jpg"
+  img_alt_2: "EVO Wipes Warmer by Prince Lionheart® 39.99"
+  url_2: "http://www.buybuybaby.com/store/product/prince-lionheart-evo-wipes-warmer-in-white-f/1045413438?mcid=EM_Promo_201606_BathPotty_NoOffer"
+  height_2: "511"
+  width_2: "302"
+
+- type: "image-2-columns"
+  img: "images/bbB_154_060716_Bath&Potty_v1_r9_DEV_17.jpg"
+  img_alt: "Toilet Trainer by BABYJORN® 34.99"
+  url: "http://www.buybuybaby.com/store/product/babybjorn-reg-toilet-trainer-in-black/1014993258?mcid=EM_Promo_201606_BathPotty_NoOffer "
+  height: "483"
+  width: "298"
+  img_2: "images/bbB_154_060716_Bath&Potty_v1_r9_DEV_18.jpg"
+  img_alt_2: "Paw Patrol 3-in-1 Potty System by The First Years™ 29.99"
+  url_2: "http://www.buybuybaby.com/store/product/nickelodeon-trade-paw-patrol-3-in-1-potty-training-system-with-sound/1046360526?mcid=EM_Promo_201606_BathPotty_NoOffer "
+  height_2: "483"
+  width_2: "302"
+
+- type: "image"
+  img: "images/bbB_154_060716_Bath&Potty_v1_r9_DEV_19.jpg"
+  img_alt: "Transitions Step Stool by Graco® Shown in Pewter Grey 16.99 potty training tip encourage your child with small rewards, such as stickers, every time they use the potty"
+  url: "http://www.buybuybaby.com/store/product/graco-reg-transitions-step-stool-in-pewter-grey/1041520444?mcid=EM_Promo_201606_BathPotty_NoOffer "
+  height: "359"
+  width: "600"
+
+
+
 
 
 

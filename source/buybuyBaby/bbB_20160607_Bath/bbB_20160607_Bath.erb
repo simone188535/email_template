@@ -9,7 +9,7 @@
     <!-- So that mobile webkit will display zoomed in -->
     <meta name="format-detection" content="telephone=no">
     <!-- disable auto telephone linking in iOS -->
-    <title>NEW MyCarrier</title>
+    <title><%=@base_title%></title>
     <style type="text/css">
       /* This style block will be inlined when running 'grunt build' and stripped from the header */
 
@@ -19,6 +19,7 @@
 		  color: #ffffff;
 		  background-color: #ffffff;
 	  }
+
         .ReadMsgBody {
           width: 100%;
           background-color: #ffffff;
@@ -47,7 +48,13 @@
           mso-table-rspace: 0pt;
         }
         table td {border-collapse:collapse;}
-        table, tr, td {text-align: left;}
+        table, tr, td {
+          text-align: left;
+          padding-left: 0;
+          padding-top: 0;
+          padding-right: 0;
+          padding-bottom: 0;
+        }
         img{
             display: block;
             border:none;
@@ -180,9 +187,9 @@
             color: #000000 !important;
           }
 
-          .social-links img {
+         /* .social-links img {
             display: inline-block !important;
-          }
+          }*/
 
           .callout, .callout td {
             color: #ffffff;
@@ -421,411 +428,135 @@
 					        <tr>
 					                <td>
 					                        <a href="<%= @base_header_instore_link %>">
-					                                <img src="<%= @base_header_instore_img %>"  alt="<%= @base_header_instore_alt %>"></a></td>
+					                                <img src="<%= @base_header_instore_img %>" class="responsive" alt="<%= @base_header_instore_alt %>"></a></td>
 					                <td>
 					                        <a href="<%= @base_header_logo_link %>">
-					                                <img src="<%= @base_header_logo_img %>"  alt="<%= @base_header_logo_alt %>"></a></td>
+					                                <img src="<%= @base_header_logo_img %>" class="responsive" alt="<%= @base_header_logo_alt %>"></a></td>
 					                <td>
 					                        <a href="<%= @base_header_registry_link %>">
-					                                <img src="<%= @base_header_registry_img %>"  alt="<%= @base_header_registry_alt %>"></a></td>
+					                                <img src="<%= @base_header_registry_img %>" class="responsive" alt="<%= @base_header_registry_alt %>"></a></td>
 					        </tr>
                       </table>
 					  <table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
 					        <tr>
 					                <td>
 					                        <a href="<%= @base_top_nav_whatsnew_link %>">
-					                                <img src="<%= @base_top_nav_whatsnew_img %>"  alt="<%= @base_top_nav_whatsnew_alt %>"></a></td>
+					                                <img src="<%= @base_top_nav_whatsnew_img %>" class="responsive" alt="<%= @base_top_nav_whatsnew_alt %>"></a></td>
 					                <td>
 					                        <a href="<%= @base_top_nav_shop_link %>">
-					                                <img src="<%= @base_top_nav_shop_img %>"  alt="<%= @base_top_nav_shop_alt %>"></a></td>
+					                                <img src="<%= @base_top_nav_shop_img %>" class="responsive" alt="<%= @base_top_nav_shop_alt %>"></a></td>
 					                <td>
 					                        <a href="<%= @base_top_nav_clearance_link %>">
-					                                <img src="<%= @base_top_nav_clearance_img %>"  alt="<%= @base_top_nav_clearance_alt %>"></a></td>
+					                                <img src="<%= @base_top_nav_clearance_img %>" class="responsive" alt="<%= @base_top_nav_clearance_alt %>"></a></td>
 					        </tr>
 					</table>
             	</td>
             </tr>
             <!-- /Header logo -->
 
-
-            <!-- Hero -->
-			<% if @base_hero_img_url!=''%>
-            <tr bgcolor="#ffffff">
-            	<td valign="top" align="center" class="hero" bgcolor="#ffffff">
-                <a href="<%=@base_hero_img_link%>">
-                  <img src="<%=@base_hero_img_url%>" alt="<%=@base_hero_img_alt%>" title="<%=@base_hero_img_alt%>" >
-                </a>
-            	</td>
-            </tr>
-			<% end %>
-            <!-- /Hero -->
-
             <!-- Articles -->
-        <% @base_data_file.articles.each do |f| %>
-  			<% if f["type"]=="product-right-image" %>
-                <tr>
-                  <td valign="top" align="left">
-                    <table border="0" width="100%" cellpadding="0" cellspacing="0">
-                      <tr>
-                        <td valign="top" align="left" width="300" class="article-text">
-                          <a href="<%= f["promo_btn_url"] %>">
-                            <img src="<%= f["text_img_url"] %>" alt="<%= f["text_img_alt"] %>" title="<%= f["text_img_alt"] %>" class="promo-text">
-                          </a>
-                          <div class="promo-text-wrap"><%= f["promo_text"] %></div>
-                          <div style="height: 15px;">
-                            <img src="images/spacer.gif" alt="" height="15" width="1">
-                          </div>
-                            <div class="button-outer-wrap"><!--[if mso]>
-                             <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
-                                <w:anchorlock/>
-                                <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%= f["promo_btn_text"] %></center>
-                              </v:rect>
-                            <![endif]-->
-                            <!--[if !mso]><!-- -->
-                              <div class="button-inner-wrap">
-                                <table align="left" cellpadding="0" cellspacing="0" height="45" width="200" class="button-table">
-                                  <tbody>
-                                    <tr>
-                                      <td align="center" valign="middle" bgcolor="<%=@base_primary_color%>" height="45" class="button-cell promo-button-cell" width="200">
-                                        <a href="<%= f["promo_btn_url"] %>" class="button-link promo-button-link" title="<%= f["btn_text"] %>">
-                                          <%= f["promo_btn_text"] %>
-                                        </a>
-                                      </td>
-                                    </tr>
-                                  </tbody>
-                                </table>
-                              </div>
-                              <!--<![endif]-->
+            <% @base_data_file.articles.each do |f| %>
+			<% if f["type"]== "image" %>
+            <tr>
+              <td valign="top" align="center">
+					  <table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
+					        <tr>
+					                <td valign="top">
+						                <a href="<%= f["url"] %>">
+						                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" width="600" height="<%= f["height"] %>">
+						                </a>
+									</td>
+					        </tr>
+					</table>
+              </td>
+            </tr>
+            <% end %>
+			<% if f["type"]== "image-2-columns" %>
+            <tr>
+              <td valign="top" align="center">
+				  <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+					  <tr>
+						  <td valign="top" align="right">
+			                <a href="<%= f["url"] %>">
+			                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" width="300" height="<%= f["height"] %>">
+			                </a>
 
-                            </div>
+						  </td>
+						  <td valign="top" align="left">
+			                <a href="<%= f["url_2"] %>">
+			                  <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" width="300" height="<%= f["height"] %>">
+			                </a>
+						  </td>
+					  </tr>
+				  </table>
+              </td>
+            </tr>
+            <% end %>
+			<% if f["type"]== "image-3-columns" %>
+            <tr>
+              <td valign="top" align="center">
+				  <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+					  <tr>
+						  <td>
+			                <a href="<%= f["url"] %>">
+			                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+			                </a>
+
+						  </td>
+						  <td>
+			                <a href="<%= f["url_2"] %>">
+			                  <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
+			                </a>
+						  </td>
+						  <td>
+			                <a href="<%= f["url_3"] %>">
+			                  <img src="<%= f["img_3"] %>" alt="<%= f["img_alt_3"] %>" title="<%= f["img_alt_3"] %>" class="responsive">
+			                </a>
+						  </td>
+					  </tr>
+				  </table>
+              </td>
+            </tr>
+            <% end %>
+
+            <% end %>
+
+
+
+            <tr>
+              <td height="20" class="cell-height">
+                <img src="images/spacer.gif" height="20" width="1" alt="">
+              </td>
+            </tr>
+
+            <!-- Social links -->
+            <tr>
+              <td valign="top" align="center" class="social-links">
+
+                <table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
+                  <tr>
+
+                    <td width="157" height="33"><img src="images/spacer.gif" height="33" width="157" alt=""></td>
+                      <% @base_data_file.socialnav.each do |f| %>
+                        <td valign="top" width="57" height="33">
+                            <a href="<%= f["link"] %>">
+                                <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" width="57" height="33">
+                            </a>
                         </td>
-                        <td valign="top" align="right" width="300" class="article-img">
-                          <a href="<%= f["promo_btn_url"] %>">
-                            <img src="<%= f["product_img_url"] %>" alt="<%= f["product_img_alt"] %>" title="<%= f["product_img_alt"] %>" class="right-article-image" align="right" width="360">
-                          </a>
-                        </td>
-                      </tr>
-                    </table>
-                  </td>
-                </tr>
-              <% end %>
-  			<% if f["type"]=="product-left-image" %>
-                <tr>
-                  <td valign="top" align="left">
-                    <table border="0" width="100%" cellpadding="0" cellspacing="0">
-                      <tr>
-                        <td valign="top" align="right" width="300" class="article-img">
-                          <a href="<%= f["promo_btn_url"] %>">
-                            <img src="<%= f["product_img_url"] %>" alt="<%= f["product_img_alt"] %>" title="<%= f["product_img_alt"] %>" class="right-article-image" align="right" width="360">
-                          </a>
-                        </td>
-                        <td valign="top" align="left" width="300" class="article-text">
-                          <a href="<%= f["promo_btn_url"] %>">
-                            <img src="<%= f["text_img_url"] %>" alt="<%= f["text_img_alt"] %>" title="<%= f["text_img_alt"] %>" class="promo-text">
-                          </a>
-                          <div class="promo-text-wrap"><%= f["promo_text"] %></div>
-                          <div style="height: 15px;">
-                            <img src="images/spacer.gif" alt="" height="15" width="1">
-                          </div>
-                            <div class="button-outer-wrap"><!--[if mso]>
-                             <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
-                                <w:anchorlock/>
-                                <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%= f["promo_btn_text"] %></center>
-                              </v:rect>
-                            <![endif]-->
-                            <!--[if !mso]><!-- -->
-                              <div class="button-inner-wrap">
-                                <table align="left" cellpadding="0" cellspacing="0" height="45" width="200" class="button-table">
-                                  <tbody>
-                                    <tr>
-                                      <td align="center" valign="middle" bgcolor="<%=@base_primary_color%>" height="45" class="button-cell promo-button-cell" width="200">
-                                        <a href="<%= f["promo_btn_url"] %>" class="button-link promo-button-link" title="<%= f["btn_text"] %>">
-                                          <%= f["promo_btn_text"] %>
-                                        </a>
-                                      </td>
-                                    </tr>
-                                  </tbody>
-                                </table>
-                              </div>
-                              <!--<![endif]-->
+                      <% end %>
+                    <td width="158" height="33"><img src="images/spacer.gif" height="33" width="158" alt=""></td>
+                  </tr>
+                </table>
 
-                            </div>
-                        </td>
-                      </tr>
-                    </table>
-                  </td>
-                </tr>
-              <% end %>
-  			<% if f["type"]=="story-image" %>
-                <tr>
-                  <td valign="top" align="center">
-                    <a href="<%= f["promo_btn_url"] %>">
-                      <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" >
-                    </a>
-                  </td>
-                </tr>
-                <tr>
-                  <td class="cell-height" height="10">
-                    <img src="images/spacer.gif" alt="" height="10" width="1">
-                  </td>
-                </tr>
-                <tr>
-                  <td valign="top" align="left">
-
-                   <table border="0" width="100%" cellpadding="0" cellspacing="0">
-                    <tr>
-                      <td width="30">
-                          <img src="images/spacer.gif" alt="" height="1" width="30">
-                      </td>
-                      <td valign="top" align="left" class="container">
-                        <!--[if mso]>
-                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                        <tr><td width="350" valign="top"><![endif]-->
-                        <table border="0" cellpadding="0" cellspacing="0" width="350" align="left" class="force-row">
-                          <tr>
-                            <td valign="top" align="left" class="article-text-padding">
-                              <%= f["promo_text"] %>
-                            </td>
-                            <td width="25" class="go-away">
-                              <img src="images/spacer.gif" alt="" height="1" width="25" class="go-away">
-                            </td>
-                          </tr>
-                        </table>
-                         <table border="0" cellpadding="0" cellspacing="0" width="180" align="right" class="force-row">
-                           <tr>
-                             <td valign="middle" align="center" class="text-center">
-
-                               <center>
-                                  <div class="button-outer-wrap button-promo-wrap"><!--[if mso]>
-                                   <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
-                                      <w:anchorlock/>
-                                      <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%= f["promo_btn_text"] %></center>
-                                    </v:rect>
-                                  <![endif]-->
-                                  <!--[if !mso]><!-- -->
-                                    <div class="button-inner-wrap">
-                                      <table align="center" cellpadding="0" cellspacing="0" height="45" width="180" class="button-table">
-                                        <tbody>
-                                          <tr>
-                                            <td align="center" bgcolor="<%=@base_primary_color%>" height="45" class="button-cell promo-button-cell" width="180">
-                                              <a href="<%= f["promo_btn_url"] %>" class="button-link promo-button-link" title="<%= f["promo_btn_text"] %>">
-                                                <span><%= f["promo_btn_text"] %></span>
-                                              </a>
-                                            </td>
-                                          </tr>
-                                        </tbody>
-                                      </table>
-                                    </div>
-                                    <!--<![endif]-->
-                                  </div>
-                                </center>
-                             </td>
-                           </tr>
-                         </table>
-
-                      </td>
-                      <td width="30">
-                          <img src="images/spacer.gif" alt="" height="1" width="30">
-                      </td>
-                    </tr>
-                   </table>
-
-                  </td>
-                </tr>
-                <tr>
-                  <td height="15" class="cell-height">
-                    <img src="images/spacer.gif" alt="" height="15" width="1">
-                  </td>
-                </tr>
-              <% end %>
-  			<% if f["type"]=="story-image-no-text" %>
-                <tr>
-                  <td valign="top" align="center">
-                    <a href="<%= f["promo_btn_url"] %>">
-                      <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" >
-                    </a>
-                  </td>
-                </tr>
-                <tr>
-                  <td class="cell-height" height="10">
-                    <img src="images/spacer.gif" alt="" height="10" width="1">
-                  </td>
-                </tr>
-                <tr>
-                  <td valign="top" align="left">
-
-                   <table border="0" width="100%" cellpadding="0" cellspacing="0">
-                    <tr>
-                      <td width="30">
-                          <img src="images/spacer.gif" alt="" height="1" width="30">
-                      </td>
-                      <td valign="top" align="center" class="container">
-                         <table border="0" cellpadding="0" cellspacing="0" width="180" align="center" class="force-row">
-                           <tr>
-                             <td valign="middle" align="center" class="text-center">
-
-                               <center>
-                                  <div class="button-outer-wrap button-promo-wrap"><!--[if mso]>
-                                   <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<<%= f["promo_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="<%=@base_primary_color%>" fill="t">
-                                      <w:anchorlock/>
-                                      <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%= f["promo_btn_text"] %></center>
-                                    </v:rect>
-                                  <![endif]-->
-                                  <!--[if !mso]><!-- -->
-                                    <div class="button-inner-wrap">
-                                      <table align="center" cellpadding="0" cellspacing="0" height="45" width="180" class="button-table">
-                                        <tbody>
-                                          <tr>
-                                            <td align="center" bgcolor="<%=@base_primary_color%>" height="45" class="button-cell promo-button-cell" width="180">
-                                              <a href="<%= f["promo_btn_url"] %>" class="button-link promo-button-link" title="<%= f["promo_btn_text"] %>">
-                                                <span><%= f["promo_btn_text"] %></span>
-                                              </a>
-                                            </td>
-                                          </tr>
-                                        </tbody>
-                                      </table>
-                                    </div>
-                                    <!--<![endif]-->
-                                  </div>
-                                </center>
-                             </td>
-                           </tr>
-                         </table>
-
-                      </td>
-                      <td width="30">
-                          <img src="images/spacer.gif" alt="" height="1" width="30">
-                      </td>
-                    </tr>
-                   </table>
-
-                  </td>
-                </tr>
-                <tr>
-                  <td height="15" class="cell-height">
-                    <img src="images/spacer.gif" alt="" height="15" width="1">
-                  </td>
-                </tr>
-              <% end %>
-        <% if f["type"]=="image-2-columns" %>
-          <tr>
-            <td valign="top" align="center">
-               <table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
-                 <tr>
-                   <td valign="top" align="right" height="<%= f["height"] %>" width="<%= f["width"] %>">
-                     <a href="<%= f["url"] %>">
-                       <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" height="<%= f["height"] %>" width="<%= f["width"] %>">
-                     </a>
-                   </td>
-                   <td valign="top" align="left" height="<%= f["height"] %>" width="<%= f["width"] %>">
-                     <a href="<%= f["url_2"] %>">
-                       <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" height="<%= f["height"] %>" width="<%= f["width"] %>">
-                     </a>
-                   </td>
-                 </tr>
-               </table>
-            </td>
-          </tr>
-        <% end %>
-        <% if f["type"]== "image" %>
-              <tr>
-                <td valign="bottom" align="center">
-                  <a href="<%= f["url"] %>">
-                    <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" >
-                  </a>
-                </td>
-              </tr>
-              <% end %>
-
-              <% if f["type"]== "" %>
-                    <tr>
-                      <td valign="top" align="center">
-                        <a href="<%= f["url"] %>">
-                          <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" >
-                        </a>
-                      </td>
-                      <td valign="top" align="center">
-                        <a href="<%= f["url_2"] %>">
-                          <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" >
-                        </a>
-                      </td>
-                    </tr>
-                    <% end %>
-
-
-
-              <!-- Call out -->
-  			<% if @base_callout_img_url!='' %>
-              <tr>
-                <td valign="top" class="callout">
-                  <a href="<%=@base_callout_img_link%>">
-                    <img src="<%=@base_callout_img_url%>" alt="<%=@base_callout_img_alt%>" title="<%=@base_callout_img_alt%>" >
-                  </a>
-                </td>
-              </tr>
-  			<% end %>
-      <%end %>
-
-          <!-- Footer nav -->
-
-          <tr>
-            <td class="cell-height" height="10">
-              <img src="images/spacer.gif" alt="" height="10" width="1">
-            </td>
-          </tr>
-
-          <!-- Social links -->
-          <tr>
-            <td valign="top" align="center" class="social-links">
-
-				<table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
-				        <tr>
-			                  <% @base_data_file.socialnav.each do |f| %>
-				                <td>
-			                        <a href="<%= f["link"] %>">
-			                                <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" >
-									</a>
-								</td>
-			                <% end %>
-				        </tr>
-				</table>
-
-            </td>
-          </tr>
+              </td>
+            </tr>
 
 
 
 
-          <!-- Footer -->
-          <tr>
-            <td align="left" valign="top">
-              <table border="0" width="100%" cellpadding="0" cellspacing="0">
-                <tr>
-                  <td width="15">
-                    <img src="images/spacer.gif" alt="" height="1" width="15">
-                  </td>
-                   <td class="footer-text" align="left" valign="top">
-                     <%=@base_footer_text%>
-                     <div class="footer-end-links text-underline">
-                       <a href="<%=@base_unsubscribe_link%>">
-                        <%=@base_unsubscribe_text%>
-                       </a> |
-                       <a href="<%=@base_privacy_link%>">
-                        <%=@base_privacy_text%>
-                      </a>
-                     </div>
-                     <div class="copyright">
-                        <br>
-                       <%=@base_copyright%>
-                     </div>
-                  </td>
-                  <td width="15">
-                    <img src="images/spacer.gif" alt="" height="1" width="15">
-                  </td>
-                </tr>
-              </table>
-            </td>
-          </tr>
+
+
+
 
         </table>
           <!-- /600px container -->
