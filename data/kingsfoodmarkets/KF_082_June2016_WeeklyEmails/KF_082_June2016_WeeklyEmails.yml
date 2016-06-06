@@ -7,22 +7,22 @@ background_color: '#eae6d6'
 pre_header_text: ''
 
 #header
-logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_Weekly_Email'
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
 
 logo_img: ''
 logo_alt: 'Kings Food Markets'
 logo_img_space: ''
 logo_img_space_2: ''
-store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
 store_locator_img: ''
 store_locator_alt: 'FIND A STORE'
-weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
 weekly_circular_img: ''
 weekly_circular_alt: 'WEEKLY CIRCULAR'
-chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
 chef_prepared_img: ''
 chef_prepared_alt: 'CHEF PREPARED'
-catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
 catering_img: ''
 catering_alt: 'CATERING'
 
@@ -89,6 +89,86 @@ articles:
   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f4b7662d-4864-461a-a5a7-1a7310fe588e.jpg?ver=1465215788000'
   img_alt: 'Kings E-Cookbook Join us as we celebrate 80 years of inspirational recipes, and visit our NEW E-Cookbook to see our favorites throughout the decades. View E-Cookbook'
   url: 'http://kingsfoodmarkets.com/ecookbook/index.html?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2a256b99-642e-4a88-a165-b927b1501f58.jpg?ver=1465215788000'
+  img_alt: 'Kings Fresh Herbs | Perfect for Summer Drinks'
+  url: 'http://kingsfoodmarkets.com/kings-own-brand/fresh-herbs?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/01bd3bcd-4582-4e01-b750-41b5e010122f.jpg?ver=1465215789000'
+  img_alt: 'Summer In a Glass Ignite the flavors of summer with fresh herbs, a perfect addition for refreshing poolside sips. View More >'
+  url: 'http://kingsfoodmarkets.com/kings-own-brand/fresh-herbs?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0d0c77a-7f91-42ac-8a89-263c85b076d9.jpg?ver=1465215789000'
+  img_alt: 'Market Specials | Fresh Fruit for Your Cocktail'
+  url: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
+
+- type: 'image-2-columns'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/829ea6d7-96cf-4bef-8c5f-2216eb48176a.jpg?ver=1465215789000'
+  img_alt: 'Organic Driscoll&#39;s Raspberries 6 OZ. 3.99 EA.'
+  url: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e1a852ef-937b-4184-82df-1c9a0da9dfa9.jpg?ver=1465215789000'
+  img_alt_2: 'Brandt Farms Peaches 2.99 LB.'
+  url_2: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fe70fdbe-99ec-4d51-badf-e78a63a53eeb.jpg?ver=1465215789000'
+  img_alt: 'View More Specials'
+  url: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c2cba567-3637-48ab-8884-2bb6a3f40bfc.jpg?ver=1465215789000'
+  img_alt: 'Fresh Ideas | Jazz Up your Summer Drinks'
+  url: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/056f4111-a00a-48e7-8b6a-c9e433ec4705.jpg?ver=1465215789000'
+  img_alt: '• Drop lemon juice infused ice cubes into a glass of tea or water • Melt even more refreshing flavor into your drink with coffee or cream ice cubes • Wow your guests with fresh fruit, herb or edible floral infused ice cubes'
+  url: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/442df8e2-81f7-4a5c-a89a-8c8933a5af5d.jpg?ver=1465215789000'
+  img_alt: 'Learn More >'
+  url: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b7d99b4a-f54f-40b0-a750-2e983855ab0f.jpg?ver=1465215789000'
+  img_alt: 'Let Us Do the Work | Kings Catering'
+  url: 'http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
+  
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7b0ea0c5-ae27-4db7-b88a-d0cff93e999d.jpg?ver=1465215790000'
+  img_alt: 'Tell Dad Thanks! Sit back, relax and let Kings Catering handle all your needs for Father&#39;s Day. Order up Chef Prepared foods to celebrate dad&#39;s day in a special way. View Menu >'
+  url: 'http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
