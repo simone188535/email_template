@@ -423,16 +423,16 @@
 					        <tr>
 					                <td>
 					                        <a href="<%= @base_header_logo_link %>">
-					                                <img src="<%= @base_header_logo_img %>" class="responsive" alt="<%= @base_header_logo_alt %>"></a></td>
+					                                <img src="<%= @base_header_logo_img %>" class="responsive" alt="<%= @base_header_logo_alt %>" title="<%= @base_header_logo_alt %>" border="0" ></a></td>
 					                <td>
 					                        <a href="<%= @base_header_Arrivals_link %>">
-					                                <img src="<%= @base_header_Arrivals_img %>" class="responsive" alt="<%= @base_header_Arrivals_alt %>"></a></td>
+					                                <img src="<%= @base_header_Arrivals_img %>" class="responsive" alt="<%= @base_header_Arrivals_alt %>" title="<%= @base_header_Arrivals_alt %>" border="0" ></a></td>
 					                <td>
 					                        <a href="<%= @base_header_outdoor_link %>">
-					                                <img src="<%= @base_header_outdoor_img %>" class="responsive" alt="<%= @base_header_outdoor_alt %>"></a></td>
+					                                <img src="<%= @base_header_outdoor_img %>" class="responsive" alt="<%= @base_header_outdoor_alt %>" title="<%= @base_header_outdoor_alt %>" border="0" ></a></td>
                           <td>
                 					  <a href="<%= @base_header_clearance_link %>">
-                					  <img src="<%= @base_header_clearance_img %>" class="responsive" alt="<%= @base_header_clearance_alt %>"></a></td>
+                					  <img src="<%= @base_header_clearance_img %>" class="responsive" alt="<%= @base_header_clearance_alt %>" title="<%= @base_header_clearance_alt %>" border="0" ></a></td>
 					        </tr>
                       </table>
             	</td>
@@ -448,7 +448,7 @@
 					        <tr>
 					                <td>
 						                <a href="<%= f["url"] %>">
-						                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+						                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive" border="0" >
 						                </a>
 									</td>
 					        </tr>
@@ -463,13 +463,13 @@
 					  <tr>
 						  <td align="right">
 			                <a href="<%= f["url"] %>">
-			                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" align="right" title="<%= f["img_alt"] %>" class="responsive">
+			                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" align="right" title="<%= f["img_alt"] %>" class="responsive" border="0" >
 			                </a>
 
 						  </td>
 						  <td align="left">
 			                <a href="<%= f["url_2"] %>">
-			                  <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" align="left" title="<%= f["img_alt_2"] %>" class="responsive">
+			                  <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" align="left" title="<%= f["img_alt_2"] %>" class="responsive" border="0" >
 			                </a>
 						  </td>
 					  </tr>
@@ -480,22 +480,22 @@
 			<% if f["type"]== "image-3-columns" %>
             <tr>
               <td valign="top" align="center">
-				  <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+				  <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center" border="0" >
 					  <tr>
 						  <td>
 			                <a href="<%= f["url"] %>">
-			                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+			                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive" border="0" >
 			                </a>
 
 						  </td>
 						  <td>
 			                <a href="<%= f["url_2"] %>">
-			                  <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
+			                  <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive" border="0" >
 			                </a>
 						  </td>
 						  <td>
 			                <a href="<%= f["url_3"] %>">
-			                  <img src="<%= f["img_3"] %>" alt="<%= f["img_alt_3"] %>" title="<%= f["img_alt_3"] %>" class="responsive">
+			                  <img src="<%= f["img_3"] %>" alt="<%= f["img_alt_3"] %>" title="<%= f["img_alt_3"] %>" class="responsive" border="0" >
 			                </a>
 						  </td>
 					  </tr>
@@ -518,7 +518,7 @@
                         <% @base_data_file.socialnav.each do |f| %>
                           <td>
                                 <a href="<%= f["link"] %>">
-                                        <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" class="responsive">
+                                        <img border="0" src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" class="responsive">
                     </a>
                   </td>
                         <% end %>
