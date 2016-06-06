@@ -1,0 +1,69 @@
+title: 'Add a Little Sparkle…'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_Weekly_Email'
+
+logo_img: ''
+logo_alt: 'Kings Food Markets'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email"
+
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8991bcc9-96a3-428b-8f6f-7743fc5426fa.jpg?ver=1465215790000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8991bcc9-96a3-428b-8f6f-7743fc5426fa.jpg?ver=1465215790000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9636ad72-c739-46db-a572-114d1d0368dc.jpg?ver=1465215790000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_Weekly_Email"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b1304076-8ff9-4b44-aae8-5afbfa4b898e.jpg?ver=1465215790000"
+footer_youtube_alt: "youtube"
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4553adfd-261a-423c-a04e-a5b843285e65.jpg?ver=1465215788000'
+  img_alt: 'Beat the Heat with Cool Summer Drinks Fresh ideas for sparkling sips, smoothies and more.'
+  url: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_Weekly_Email'
+
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_10.jpg'
+  img_alt: 'Recipe Idea: Spiralized Zucchini Pesto Pizza | Watch Video >'
+  url: 'https://www.youtube.com/user/KingsFoodMarkets'
+
+- type: 'image'
+  img: 'images/KF_weekly_email_051916_R5_11.jpg'
+  img_alt: 'New at Kings | Fresh Veggies Made In-Store'
+  url: 'http://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_Weekly_Email'
+
+- type: 'image-2-columns'
+  img: 'images/KF_weekly_email_051916_R5_12.jpg'
+  img_alt: 'Spiralized Zucchini & Squash Noodles'
+  url: 'http://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_Weekly_Email'
+  img_2: 'images/KF_weekly_email_051916_R5_13.jpg'
+  img_alt_2: 'Broccoli Rice'
+  url_2: 'http://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_Weekly_Email'
+
