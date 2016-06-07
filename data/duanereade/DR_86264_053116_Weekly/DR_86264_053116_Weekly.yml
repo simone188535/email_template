@@ -1,0 +1,86 @@
+title: '$5 Register Rewards abound this week!'
+
+primary_color: '#d40e8c'
+
+pre_header_text: 'Huge rewards on the items you love most'
+
+logo_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/DR_86264_053116_Weekly_header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+hero_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/86264_DR_Week1_053116_Weekly_2B_02.jpg'
+hero_img_alt: "$5 in Register Rewards on participating products below."
+hero_img_link: 'https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp'
+
+callout_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/86264_DR_Week1_053116_Weekly_2B_10.jpg'
+callout_img_alt: 'Get the App'
+callout_img_link: 'http://walgreens.com/mobile'
+
+footer_text: 'Offers valid 5/29-6/4/16<br><br><sup>*</sup>Good on next purchase. If offer has purchase requirement, it must be met in a single transaction, before taxes and after discounts. Points are not earned if store credit or redemption dollars are used in a transaction and cannot be redeemed on some items. Complete details at Walgreens.com/Balance.<br><br><sup>&dagger;</sup>Between April 3, 2016 and June 4, 2016, Walgreens will donate to Comic Relief Inc.’s Red Nose Day Fund, $0.50 for each Red Nose purchased and 10% of the purchase price for every Red Flair item purchased (beads, bow ties, headbands, sunglasses, pens, mugs, cups and hats). The Red Nose Day Fund helps lift children out of poverty in the U.S. and overseas. For more information about the Red Nose Day Fund, visit rednoseday.org. For details on Red Nose Day Proud Supporters, see Walgreens.com/RedNoseDay. No portion of purchase is tax deductible.<br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade  does not guarantee the applicability or accuracy of any information mentioned in the Contents.<br><br><br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=hBXB7lnB8c6slB9MRfCAAAAAAAe&email'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 10005'
+
+# Loop through articles
+
+articles:
+- type: "image"
+  url: "http://www.walgreens.com/storelocator/find.jsp"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86264_DR_Week1_053116_Weekly_2B_03.jpg"
+  img_alt: "Spend $15 to $20 on participating products and get a $5 reward at checkout to use on your next in-store purchase."
+  
+- type: "image"
+  url: "http://www.walgreens.com/storelocator/find.jsp"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86264_DR_Week1_053116_Weekly_2B_04.jpg"
+  img_alt: "Spend $15 to $20 on participating products and get a $5 reward at checkout to use on your next in-store purchase."
+  
+- type: "story-image-no-text"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86264_DR_Week1_053116_Weekly_2B_05.jpg"
+  img_alt: "Spend $15 to $20 on participating products and get a $5 reward at checkout to use on your next in-store purchase."
+  promo_btn_url: "http://www.walgreens.com/storelocator/find.jsp"
+  promo_btn_text: "Find a store &rsaquo;"
+  promo_btn_color: '#d40e8c'
+
+- type: "story-image-no-text"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86264_DR_Week1_053116_Weekly_2B_07.jpg"
+  img_alt: "It's not too late to donate!"
+  promo_btn_url: "http://www.walgreens.com/store/store/category/productlist.jsp?N=519416"
+  promo_btn_text: "Find flair &rsaquo;"
+  promo_btn_color: '#e51937'
+
+- type: "image"
+  url: "http://www.walgreens.com/store/store/category/productlist.jsp?N=519416"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86264_DR_Week1_053116_Weekly_2B_09.jpg"
+  img_alt: "It's not too late to donate!"
+
+
+footernav:
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Photo"
+  link: "http://photo.walgreens.com/walgreens/welcome"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+socialnav:
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/DR_86264_053116_Weekly_fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/DR_86264_053116_Weekly_tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/DR_86264_053116_Weekly_site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/DR_86264_053116_Weekly_spacer.gif'

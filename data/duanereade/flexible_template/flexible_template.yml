@@ -54,6 +54,7 @@ articles:
   promo_btn_url: ""
   promo_btn_text: "Shop now &rsaquo;"
   promo_text: "Use promo code: <strong style='color: #e61131;'>GETGRADREADY</strong>"
+  promo_btn_color: "#333333"
 
 - type: "story-image"
   img: "http://placehold.it/600x300/999999/000000?text=story-image"
@@ -61,12 +62,22 @@ articles:
   promo_btn_url: ""
   promo_btn_text: "Shop now &rsaquo;"
   promo_text: "<strong>Roc Skin</strong>"
+  promo_btn_color: "#333333"
+
+- type: "story-image-left-button"
+  img: "http://placehold.it/600x300/999999/000000?text=story-image"
+  img_alt: "Coppertone or Bain de Soleil Sun Care"
+  promo_btn_url: ""
+  promo_btn_text: "Shop now &rsaquo;"
+  promo_text: "<strong>Roc Skin</strong>"
+  promo_btn_color: "#333333"
 
 - type: "story-image-no-text"
   img: "http://placehold.it/600x300/333333/000000?text=story-image-no-text"
   img_alt: "Coppertone or Bain de Soleil Sun Care"
   promo_btn_url: ""
   promo_btn_text: "Shop now &rsaquo;"
+  promo_btn_color: "#333333"
 
 - type: "image"
   url: ""

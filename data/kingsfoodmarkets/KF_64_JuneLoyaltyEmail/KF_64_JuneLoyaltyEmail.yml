@@ -1,0 +1,91 @@
+title: 'June Offers & Account Update'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+
+#logo_img: ''
+#logo_alt: 'Kings Food Markets'
+#logo_img_space: ''
+#logo_img_space_2: ''
+#store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#store_locator_img: ''
+#store_locator_alt: 'FIND A STORE'
+#weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#weekly_circular_img: ''
+#weekly_circular_alt: 'WEEKLY CIRCULAR'
+#chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#chef_prepared_img: ''
+#chef_prepared_alt: 'CHEF PREPARED'
+#catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#catering_img: ''
+#catering_alt: 'CATERING'
+
+#footer
+#footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_59_JuneLoyaltyEmail"
+#footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7878a77-91ba-4798-8909-c9a383785b5f.jpg?ver=1462839230000"
+#footer_site_alt: "www.kingsfoodmarkets.com"
+#footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+#footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d1a8a42-7b19-4797-8374-7f2b4b7f22c9.jpg?ver=1462839230000"
+#footer_facebook_alt: "facebook"
+#footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+#footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd97367a-001e-4325-9638-f7dfd81ffc02.jpg?ver=1462839230000"
+#footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/69f640af-9616-4867-abd4-f53484d7263c.jpg?ver=1464826060000"
+  img_alt: "Kings Rewards June Member Offers"
+  url: "http://kingsfoodmarkets.com/media/files/64_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_64_JuneLoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a8b57f54-eee3-442d-96f6-4f6b8655dfbe.jpg?ver=1464826060000"
+  img_alt: "Account Update Your points will expire June 30th 2016 REMEMBER! Collect 300 points by June 30th to receive your $5.00 REWARD.All Points will return to 0 on 7/1/16, for the next promotional period starting 7/1/16 through 9/30/16"
+  url: "http://kingsfoodmarkets.com/media/files/64_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_64_JuneLoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/98ed2d4c-27a2-495a-b8c6-ebffba0db363.jpg?ver=1464826060000"
+  img_alt: "New! Dietz & Watson Originals! Save 2.00"
+  url: "http://kingsfoodmarkets.com/media/files/64_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_64_JuneLoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12bb1dce-22d8-4af7-84ab-99e99580e040.jpg?ver=1464826061000"
+  img_alt: "Bumble Bee Salmon - Valid 6/3 - 6/16/16 9.4 oz., With Garden Pesto Save 2.00"
+  url: "http://kingsfoodmarkets.com/media/files/64_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_64_JuneLoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ae9ad09a-df1d-4feb-a1b7-00baddc25e44.jpg?ver=1464826061000"
+  img_alt: "Chef Prepared Antioxidant Salad - Valid 6/24 - 6/30/16 Save 1.00"
+  url: "http://kingsfoodmarkets.com/media/files/64_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_64_JuneLoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/037921c4-8b77-4ef6-906c-81f70194b483.jpg?ver=1464826096000"
+  img_alt: "Wagyu-Kobe Frozen Beef Burgers 160 oz. Save 1.00"
+  url: "http://kingsfoodmarkets.com/media/files/64_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_64_JuneLoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5ceffe2e-1fcd-4dff-a2a4-7a47c70d468a.jpg?ver=1464826061000"
+  img_alt: "Lemon Meringue Pie - Valid 6/17 - 6/30/16 27 oz., Zesty Lemon Flavor Save 1.00"
+  url: "http://kingsfoodmarkets.com/media/files/64_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_64_JuneLoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/611c149f-9f44-4401-9ea9-5a2f6f2d027a.jpg?ver=1464826061000"
+  img_alt: "Pricing is valid 6/3/16 to 6/30/16 unless otherwise noted."
+  url: "http://kingsfoodmarkets.com/media/files/64_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_64_JuneLoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1dfe8b04-90a9-4529-900e-bb8f6405dfbb.jpg?ver=1464826061000"
+  img_alt: "Shopping at Kings is Now More Rewarding than Ever"
+  url: "http://kingsfoodmarkets.com/media/files/64_June_Member_Offers.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_64_JuneLoyaltyEmail"
+
+
+
+
