@@ -1,0 +1,496 @@
+<% require 'active_support/all' %>
+<% data.balduccis.catering.catering_delivery_confirmation.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+    <!-- So that mobile webkit will display zoomed in -->
+    <meta name="format-detection" content="telephone=no">
+    <!-- disable auto telephone linking in iOS -->
+    <title><%=@base_title%></title>
+    <style type="text/css">
+      /* This style block will be inlined when running 'grunt build' and stripped from the header */
+
+      /* Resets */
+        .ReadMsgBody {
+          width: 100%;
+          background-color: #e7e7e7;
+        }
+        .ExternalClass {
+          width: 100%;
+          background-color: #e7e7e7;
+        }
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {line-height:100%;}
+        .yshortcuts a {border-bottom: none !important;}
+
+        body {
+          -webkit-text-size-adjust:none;
+          -ms-text-size-adjust:none;
+          margin:0;
+          padding:0;}
+        table {
+          border-spacing:0;
+          border-collapse:collapse;
+          mso-table-lspace: 0pt;
+          mso-table-rspace: 0pt;
+        }
+        table td {border-collapse:collapse;}
+        table, tr, td {text-align: left;}
+        img {
+            
+            display: block;
+            border:none;
+            outline:none;
+            -ms-interpolation-mode: bicubic;
+          }
+        img.responsive {
+            width: auto !important;
+            height: auto !important;
+            max-width: 100%;
+          }
+        a img {border:none;}
+
+        img.inline-block {
+          display: inline-block !important;
+        }
+
+        /* Wrap phone numbers and addresses to prevent them showing up as links on mobile */
+        .apple-link-black {
+          color: #000000; !important;
+          text-decoration: none !important;
+          }
+          .apple-link-white {
+          color: #ffffff; !important;
+          text-decoration: none !important;
+          }
+
+        .container {
+            width: 600px;
+            max-width: 600px;
+        }
+
+          /* Typography */
+          body, .text, .header, td, p {
+            text-align: left;
+          }
+          body, .container, .text, .header, td, p {
+            color: #2a2a2a;
+            font-family: Helvetica, Arial, sans-serif;
+            font-weight: normal;
+
+          }
+          body, .container, .text, td, p {
+            font-size: 16px;
+            line-height: 24px;
+          }
+
+          .header {
+            font-size: 24px;
+            line-height: 28px;
+          }
+
+          .sub-header {
+            font-size: 20px;
+            line-height: 24px;
+          }
+
+          sup {
+            font-size:8px;
+            line-height:0;
+            vertical-align:4px;
+          }
+
+          .view-online {
+            font-size: 12px;
+            line-height: 14px;
+            text-align: center;
+          }
+          .view-online a {
+            text-decoration: underline !important;
+          }
+
+          a {
+          color: #f3901d !important;
+          text-decoration: none;
+          }
+
+          .text-underline {
+          	text-decoration: underline;
+          }
+
+          a:hover {
+            color: #f3901d !important;
+          }
+
+          a:active {
+            color: #f3901d !important;
+          }
+
+          a:visited {
+            color: #f3901d !important;
+          }
+
+          .text-left {
+            text-align: left !important;
+          }
+
+          .text-center {
+            text-align: center !important;
+          }
+
+          .text-right {
+            text-align: right !important;
+          }
+
+           /* Visibility Classes - Fixes Gmail bug of not supporting display:none. See media query override for mobile. This class must be used on the element as well as the element's parent. http://www.campaignmonitor.com/blog/post/3948/hiding-content-in-both-desktop-and-web-email-clients */
+          .show-for-small, .footer.show-for-small,
+          .hide-for-desktop {
+            display: none;
+            max-height: 0px;
+            font-size: 0;
+            width: 0;
+            mso-hide: all;
+          }
+
+          .orange {
+          	color: #f3901d;
+          }
+
+          .cell-height {
+          	line-height:1px;
+          	font-size:1px;
+          }
+
+          .small-text {
+          	font-size: 12px;
+          }
+
+          .header td,
+          .header {
+          	background-color: #000000;
+          	color: #ffffff;
+          }
+
+          .orange-border-bottom {
+          	border-bottom-width: 4px;
+          	border-bottom-style: solid;
+          	border-bottom-color: #f3901d;
+          }
+
+          .order-summary {
+          	border-bottom-width: 2px;
+          	border-bottom-style: solid;
+          	border-bottom-color: #f3901d;
+          }
+
+          .content-wrap .container {
+            border-bottom-style: solid;
+            border-bottom-color: #d9d9d9;
+            border-bottom-width: 2px;
+            border-right-style: solid;
+            border-right-color: #d9d9d9;
+            border-right-width: 2px;
+          }
+         
+    </style>
+
+
+    <style type="text/css" data-embed>
+      /* This style block will be ignored for inlining when running 'grunt build' and will not be stripped from the header */
+
+      /*  Media queries */
+
+      /* Define all styles in media queries using attribute selectors in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
+
+
+      @media screen and (max-width: 599px) {
+        table[class="force-row"],
+        table[class*="container"] {
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+
+        table[class="force-row"] {
+          margin-bottom: 10px;
+        }
+
+        /* Visibility */
+        table[class*="go-away"],
+        td[class*="go-away"],
+        td[class*="go-away"] img,
+        tr[class*="go-away"] img,
+        tr[class*="go-away"],
+        tr[class*="go-away"] td,
+        img[class*="go-away"],
+        div[class*="go-away"] {
+          display: none !important;
+        }
+        table[class*="container"] .show-for-small,
+        table[class*="container"] .hide-for-desktop {
+          max-height: none !important;
+          font-size: 14px !important;
+          display: block !important;
+          width: auto !important;
+          }
+
+        td[class="container"] {
+          padding-left: 14px;
+          padding-right: 14px;
+        }
+
+        td[class="col"] {
+          padding: 10px;
+        }
+
+        div[class="header"], div[class="sub-header"] {
+          text-align: center;
+        }
+
+        td[class="header-top-row"] img,
+        td[class="header-bottom-row"] img,
+        td[class="footer-row"] img {
+          width: auto !important;
+          height: auto !important;
+          max-width: 100%;
+        }
+      }
+    </style>
+  </head>
+  <body  bgcolor="#e7e7e7" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
+      <!--
+      Responsive framework: Antwort v1.0 - https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0)
+
+      * Force 100% width on aligned tables
+      * Use multiple aligned tables for columns
+      * Tables must have a fixed pixel width
+      * 'force-row' class forces the tables into rows on mobile
+      * Include an Outlook only wrapper table
+    -->
+
+     <!-- 100% background wrapper -->
+<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#e7e7e7">
+    <tr>
+      <td>
+        <!-- 600px container -->
+        <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+            <!-- Header top row -->
+            <tr class="go-away" bgcolor="#000000">
+              <td class="go-away header" valign="top">
+                <table width="600" cellpadding="0" cellspacing="0" border="0" class="go-away">
+                  <tr class="go-away">
+                    <td valign="top" align="left" width="380">
+                      <a href="<%=@base_logo_link%>">
+                        <img src="<%=@base_logo_link_img%>" alt="<%=@base_logo_link_text%>" width="380" height="82">
+                      </a>
+                    </td>
+                    <td valign="top" align="left" width="220">
+                      <a href="<%=@base_find_store_link%>">
+                        <img src="<%=@base_find_store_link_img%>" alt="<%=@base_find_store_link_text%>" width="220" height="82">
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- /Header top row -->
+
+            <!-- Header bottom row -->
+            <tr bgcolor="#000000">
+              <td valign="top" class="header orange-border-bottom">
+                <table width="600" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td valign="top" align="left" width="189">
+                      <a href="<%=@base_catering_link%>">
+                        <img src="<%=@base_catering_link_img%>" width="189" height="54" alt="<%=@base_catering_link_text%>">
+                      </a>
+                    </td>
+                    <td valign="top" align="left" width="168">
+                      <a href="<%=@base_chef_prep_link%>">
+                        <img src="<%=@base_chef_prep_link_img%>" width="168" height="54" alt="<%=@base_chef_prep_link_text%>">
+                      </a>
+                    </td>
+                    <td valign="top" align="left" width="243">
+                      <a href="<%=@base_mybalduccis_link%>">
+                        <img src="<%=@base_mybalduccis_link_img%>" width="243" height="54" alt="<%=@base_mybalduccis_link_text%>">
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- /Header bottom row -->
+            <tr>
+            	<td height="20" valign="top">
+            		<img src="images/spacer.gif" width="1" height="20" alt="">
+            	</td>
+            </tr>
+            <tr>
+            	<td valign="top" align="center">
+            		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+            			<tr>
+	            			<td width="20">
+				            	<img src="images/spacer.gif" width="20" height="1" alt="">
+				            </td>
+				            <td width="560" valign="top" align="center">
+                      <center>
+				            	 <img src="<%=@base_hero_img%>" alt="<%=@base_hero_text%>" align="center" class="responsive">
+                      </center>
+				            </td>
+				            <td width="20">
+				            	<img src="images/spacer.gif" width="20" height="1" alt="">
+				            </td>
+			            </tr>
+			            <tr>
+            				<td height="15" colspan="3" class="cell-height">
+            					<img src="images/spacer.gif" width="1" height="15" alt="">
+            				</td>
+			            </tr>
+            		</table>
+            	</td>
+            </tr>
+            <tr>
+            	<td valign="top">
+            		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+            			<tr>
+            				<td width="20">
+			            		<img src="images/spacer.gif" width="20" height="1" alt="">
+			            	</td>
+			            	<td valign="top" align="left" width="558">
+			            		<table border="0" cellpadding="0" cellspacing="0" width="100%" class="content-wrap">
+			            			<tr>
+			            				<td valign="top" align="left" bgcolor="#ffffff" class="container">
+			            					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			            						<tr>
+			            							<td width="20">
+									            		<img src="images/spacer.gif" width="20" height="1" alt="">
+									            	</td>
+									            	<td valign="top" align="left">
+									            		<table border="0" cellpadding="0" cellspacing="0" width="100%" height="20">
+									            			<tr>
+									            				<td height="20">
+									            					<img src="images/spacer.gif" width="1" height="20" alt="">
+									            				</td>
+									            			</tr>
+									            		</table>
+									            		<%=@base_greeting%><br><br>
+									            		<%=@base_message_body%><br><br>
+
+									            		<table border="0" cellpadding="0" cellspacing="0" width="100%" class="order-summary">
+									            			<tr>
+									            				<td height="5" class="cell-height">
+									            					<img src="images/spacer.gif" width="1" height="5" alt="">
+									            				</td>
+									            			</tr>
+									            			<tr>
+									            				<td class="summary-header orange">
+									            					<b><%=@base_order_summary_header%></b>
+									            				</td>
+									            			</tr>
+									            			<tr>
+									            				<td height="8" class="cell-height">
+									            					<img src="images/spacer.gif" width="1" height="8" alt="">
+									            				</td>
+									            			</tr>
+									            		</table>
+
+									            		<table border="0" cellpadding="0" cellspacing="0" width="100%" height="20">
+									            			<tr>
+									            				<td height="20">
+									            					<img src="images/spacer.gif" width="1" height="20" alt="">
+									            				</td>
+									            			</tr>
+									            		</table>
+
+									            		<%=@base_order_number%><br><br>
+									            		<%=@base_order_date%><br><br>
+                                  {{if order.getEmailCustomerNote()}}
+									            		 <%=@base_special_instructions%><br><br>
+                                  {{/if}}
+									            		<%=@base_sold_to%><br><br>
+                                  <%=@base_deliver_to%><br><br>
+                                  <%=@base_delivery_date%><br><br>
+									            		<%=@base_order_details%><br><br>
+									            		<%=@base_subtotal%><br>
+									            		<span class="small-text">
+									            			<%=@base_subtotal_note%>
+									            		</span>
+
+									            		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tr>
+                                      <td valign="top" class="cell-height" height="15">
+                                        <img src="images/spacer.gif" width="1" height="15" alt="">
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td valign="top" align="right" class="text-right">
+                                        <img class="inline-block" src="<%=@base_signoff_img%>" alt="<%=@base_signoff_alt%>">
+                                      </td>
+                                    </tr>
+									            			<tr>
+									            				<td height="20" class="cell-height">
+									            					<img src="images/spacer.gif" width="1" height="20" alt="">
+									            				</td>
+									            			</tr>
+									            		</table>
+									            	</td>
+									            	<td width="20" class="cell-height">
+										        		<img src="images/spacer.gif" width="20" height="1" alt="">
+										        	</td>
+			            						</tr>
+			            					</table>
+			            				</td>
+			            			</tr>
+				              </table>
+				          </td>
+    							<td width="20" valign="top" class="cell-height">
+    								<img src="images/spacer.gif" width="20" height="1" alt="">
+    							</td>
+            		</tr>
+            	</table>
+            </td>
+	        </tr>
+	        <tr>
+	        	<td valign="top" align="left">
+	        		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	        			<tr>
+	        				<td height="15" class="cell-height">
+	        					<img src="images/spacer.gif" width="1" height="15" alt="">
+	        				</td>
+	        			</tr>
+	        			<tr bgcolor="#000000">
+	        				<td valign="top" align="left" class="footer-row footer-logo">
+	        					<a href="#">
+	        						<img src="<%=@base_footer_logo_img%>" alt="<%=@base_footer_logo_text%>" class="responsive">
+	        					</a>
+	        				</td>
+	        				<td valign="top" align="left" class="footer-row footer-mid-bg">
+	        						<img src="<%=@base_footer_mid_img%>" alt="" class="responsive">
+	        				</td>
+	        				<td valign="top" align="left" class="footer-row footer-fb">
+	        					<a href="#">
+	        						<img src="<%=@base_footer_fb_img%>" alt="<%=@base_footer_fb_text%>" class="responsive">
+	        					</a>
+	        				</td>
+	        				<td valign="top" align="left" class="footer-row footer-tw">
+	        					<a href="#">
+	        						<img src="<%=@base_footer_tw_img%>" alt="<%=@base_footer_tw_text%>" class="responsive">
+	        					</a>
+	        				</td>
+	        			</tr>
+	        		</table>
+	        	</td>
+	        </tr>
+        </table>
+          <!-- /600px container -->
+      </td>
+    </tr>
+</table>
+  <!-- /100% background wrapper -->
+  </body>
+</html>
