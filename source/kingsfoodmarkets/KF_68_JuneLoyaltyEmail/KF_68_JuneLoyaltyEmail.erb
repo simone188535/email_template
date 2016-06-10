@@ -1,5 +1,5 @@
 <% require 'active_support/all' %>
-<% instance_variable_set("@base_data_file", data.cts.CTS_041_061316_Dory.CTS_041_061316_Dory) %>
+<% instance_variable_set("@base_data_file", data.kingsfoodmarkets.KF_68_JuneLoyaltyEmail.KF_68_JuneLoyaltyEmail) %>
 <% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
@@ -12,36 +12,17 @@
     <title><%=@base_title%></title>
     <style type="text/css">
       /* This style block will be inlined when running 'grunt build' and stripped from the header */
-		  .footerPaddingBox {
-			  padding: 20px;
-	  	
-		  }
-		.footerSep {
-			color: #ffffff;
-			background-color: #e2b003;
-			left-padding: 20px;
-			right-padding: 20px;
-		}
-		.footer, a.footer {
-			color: #ffffff;
-			background-color: #e2b003;
-			font: 8pt arial;
-			padding-top: 0px;
-			padding-left: 20px;
-			padding-right: 20px;
-			padding-bottom: 20px;
-		}
 
       /* Resets */
-	  .preHeader {
-		  display: none !important;
-		  color: #ffffff;
-		  background-color: #ffffff;
-	  }
+    	  .preHeader {
+    		  display: none !important;
+    		  color: <%=@base_background_color%>;
+    		  background-color: #<%=@base_background_color%>;
+    	  }
 
         .ReadMsgBody {
           width: 100%;
-          background-color: #ffffff;
+          background-color: #<%=@base_background_color%>;
         }
         .ExternalClass {
           width: 100%;
@@ -59,7 +40,9 @@
           -webkit-text-size-adjust:none;
           -ms-text-size-adjust:none;
           margin:0;
-          padding:0;}
+          padding:0;
+		  background-color: <%=@base_background_color%>;
+	    }
         table {
           border-spacing:0;
           border-collapse:collapse;
@@ -97,6 +80,8 @@
             width: 600px;
             max-width: 600px;
         }
+
+
 
           /* Typography */
           body, .text, .header, td, p {
@@ -317,6 +302,9 @@
 
       /* Define all styles in media queries using attribute selectors in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
 
+      #VWPLINK {
+        background-color: <%=@base_background_color%> !important;
+      }
 
       @media screen and (max-width: 599px) {
 
@@ -417,7 +405,7 @@
       }
     </style>
   </head>
-  <body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
+  <body  bgcolor="<%=@base_background_color%>" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
       <!--
       Responsive framework: Antwort v1.0 - https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0)
 
@@ -429,108 +417,129 @@
     -->
 
      <!-- 100% background wrapper -->
-<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-	<tr>
-		<td>
-			<!-- 600px container -->
-			<table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
-				<!-- Header logo -->
-				<tr>
-					<td valign="top" align="center">
-						<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
-							<tr>
-								<td height="<%= @base_header_logo_height %>" width="<%= @base_header_logo_width %>"><a href="<%= @base_header_logo_link %>"><img src="<%= @base_header_logo_img %>" class="responsive" alt="<%= @base_header_logo_alt %>" title="<%= @base_header_logo_alt %>" height="<%= @base_header_logo_height %>" width="<%= @base_header_logo_width %>" border="0" ></a></td>
-								<td height="<%= @base_header_Arrivals_height %>" width="<%= @base_header_Arrivals_width %>"><a href="<%= @base_header_Arrivals_link %>"><img src="<%= @base_header_Arrivals_img %>" class="responsive" alt="<%= @base_header_Arrivals_alt %>" title="<%= @base_header_Arrivals_alt %>" height="<%= @base_header_Arrivals_height %>" width="<%= @base_header_Arrivals_width %>" border="0" ></a></td>
-								<td height="<%= @base_header_outdoor_height %>" width="<%= @base_header_outdoor_width %>"><a href="<%= @base_header_outdoor_link %>"><img src="<%= @base_header_outdoor_img %>" class="responsive" alt="<%= @base_header_outdoor_alt %>" title="<%= @base_header_outdoor_alt %>" height="<%= @base_header_outdoor_height %>" width="<%= @base_header_outdoor_width %>" border="0" ></a></td>
-								<td height="<%= @base_header_clearance_height %>" width="<%= @base_header_clearance_width %>"><a href="<%= @base_header_clearance_link %>"><img src="<%= @base_header_clearance_img %>" class="responsive" alt="<%= @base_header_clearance_alt %>" title="<%= @base_header_clearance_alt %>" height="<%= @base_header_clearance_height %>" width="<%= @base_header_clearance_width %>" border="0" ></a></td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-				<!-- /Header logo -->
-				
-				<!-- Articles -->
-				<% @base_data_file.articles.each do |f| %>
-					<% if f["type"]== "image" %>
-						<tr>
-							<td valign="top" align="center">
-								<table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
-									<tr>
-										<td valign="top">
-											<a href="<%= f["url"] %>"><img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" width="600" height="<%= f["height"] %>" border="0" ></a></td>
-									</tr>
-								</table>
-							</td>
-						</tr>
-					<% end %>
-					<% if f["type"]== "image-2-columns" %>
-						<tr>
-							<td valign="top" align="center">
-								<table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
-									<tr>
-										<td valign="top" align="right" width="<%= f["width"] %>" height="<%= f["height"] %>">
-											<a href="<%= f["url"] %>"><img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" width="<%= f["width"] %>" height="<%= f["height"] %>" border="0" ></a></td>
-										<td valign="top" align="left" width="<%= f["width_2"] %>" height="<%= f["height_2"] %>">
-											<a href="<%= f["url_2"] %>"><img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" width="<%= f["width_2"] %>" height="<%= f["height_2"] %>" border="0" ></a></td>
-									</tr>
-								</table>
-							</td>
-						</tr>
-					<% end %>
-					<% if f["type"]== "image-3-columns" %>
-						<tr>
-							<td valign="top" align="center">
-								<table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
-									<tr>
-										<td width="<%= f["width"] %>" height="<%= f["height"] %>">
-											<a href="<%= f["url"] %>"><img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive" width="<%= f["width"] %>" height="<%= f["height"] %>" border="0" ></a></td>
-										<td width="<%= f["width_2"] %>" height="<%= f["height_2"] %>">
-											<a href="<%= f["url_2"] %>"><img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive" width="<%= f["width_2"] %>" height="<%= f["height_2"] %>" border="0" ></a></td>
-										<td width="<%= f["width_3"] %>" height="<%= f["height_3"] %>">
-											<a href="<%= f["url_3"] %>"><img src="<%= f["img_3"] %>" alt="<%= f["img_alt_3"] %>" title="<%= f["img_alt_3"] %>" class="responsive" width="<%= f["width_3"] %>" height="<%= f["height_3"] %>" border="0" ></a></td>
-									</tr>
-								</table>
-							</td>
-						</tr>
-					<% end %>
-				
-				<% end %>
-				
-				<!-- Social links -->
-				<tr>
-					<td valign="top" align="center">
-						<table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center" class="container" >
-							<tr>
-								<% @base_data_file.socialnav.each do |f| %>
-									<td width="<%= f["width"] %>" height="<%= f["height"] %>">
-										<a href="<%= f["link"] %>" style="border:none;"><img border="0" src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" width="<%= f["width"] %>" height="<%= f["height"] %>" class="responsive"></a></td>
-								<% end %>
-							</tr>
-						</table>
-					</td>
-				</tr>
-				
-				<tr>
-					<td>
-						<table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center" class="container" >
-							<tr>
-								<td class="footer">
-									<hr noshade="noshade" style="color: #ffffff !important;background-color: #ffffff;height: 1px;border: 0px none;">
-							
-									<br/>ZETA FOOTER GOES HERE
-									<br/>
-								</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-				
-			</table>
-			<!-- /600px container -->
-		</td>
-	</tr>
-</table>
-<!-- /100% background wrapper -->
+<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="<%=@base_background_color%>">
+    <tr>
+      <td>
 
+        <!-- 600px container -->
+        <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+            <!-- Articles -->
+            <% @base_data_file.articles.each do |f| %>
+			<% if f["type"]== "image" %>
+            <tr>
+              <td valign="top" align="center">
+                <a href="<%= f["url"] %>">
+                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                </a>
+              </td>
+            </tr>
+            <% end %>
+
+            <% if f["type"]== "image-2-columns" %>
+                  <tr>
+                    <td valign="top" align="center">
+                <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+                  <tr>
+                    <td>
+                            <a href="<%= f["url"] %>">
+                              <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                            </a>
+
+                    </td>
+                    <td>
+                            <a href="<%= f["url_2"] %>">
+                              <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
+                            </a>
+                    </td>
+                  </tr>
+                </table>
+                    </td>
+                  </tr>
+                  <% end %>
+
+                  <% if f["type"]== "image-4-columns" %>
+                        <tr>
+                          <td valign="top" align="center">
+                      <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+                        <tr>
+                          <td>
+                                  <a href="<%= f["url"] %>">
+                                    <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                                  </a>
+
+                          </td>
+                          <td>
+                                  <a href="<%= f["url_2"] %>">
+                                    <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
+                                  </a>
+                          </td>
+
+                          <td>
+                                  <a href="<%= f["url_3"] %>">
+                                    <img src="<%= f["img_3"] %>" alt="<%= f["img_alt_3"] %>" title="<%= f["img_alt_3"] %>" class="responsive">
+                                  </a>
+                          </td>
+
+                          <td>
+                                  <a href="<%= f["url_4"] %>">
+                                    <img src="<%= f["img_4"] %>" alt="<%= f["img_alt_4"] %>" title="<%= f["img_alt_4"] %>" class="responsive">
+                                  </a>
+                          </td>
+                        </tr>
+                      </table>
+                          </td>
+                        </tr>
+                        <% end %>
+
+            <% end %>
+
+        </table>
+          <!-- /600px container -->
+      </td>
+    </tr>
+      <!-- Footer logo -->
+    <tr>
+        <td>
+            <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+                <tr>
+                    <td valign="top" align="center">
+                        <a href="<%=@base_footer_site_link%>">
+                            <img src="<%=@base_footer_site_img%>" alt="<%=@base_footer_site_alt%>" title="<%=@base_footer_site_alt%>" class="responsive">
+                        </a>
+                    </td>
+                    <td valign="top" align="center">
+                        <a href="<%=@base_footer_facebook_link%>">
+                            <img src="<%=@base_footer_facebook_img%>" alt="<%=@base_footer_facebook_alt%>" title="<%=@base_footer_facebook_alt%>" class="responsive">
+                        </a>
+                    </td>
+                    <td valign="top" align="center">
+                        <a href="<%=@base_footer_twitter_link%>">
+                            <img src="<%=@base_footer_twitter_img%>" alt="<%=@base_footer_twitter_alt%>" title="<%=@base_footer_twitter_alt%>" class="responsive">
+                        </a>
+                    </td>
+                    <td valign="top" align="center">
+                        <a href="<%=@base_footer_youtube_link%>">
+                            <img src="<%=@base_footer_youtube_img%>" alt="<%=@base_footer_youtube_alt%>" title="<%=@base_footer_youtube_alt%>" class="responsive">
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+                <tr>
+                    <td valign="top" align="center">
+                        <a href="<%=@base_footer_site_link_2%>">
+                            <img src="<%=@base_footer_site_img_2%>" alt="<%=@base_footer_site_alt_2%>" title="<%=@base_footer_site_alt_2%>" class="responsive">
+                        </a>
+                    </td>
+                </tr>
+            </table>
+            </tr>
+    <!-- /Footer logo -->
+</table>
+  <!-- /100% background wrapper -->
   </body>
 </html>

@@ -1,0 +1,136 @@
+title: ' It&#39;s BBQ&A Time!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+logo_alt: ''
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_0513_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+
+#header
+#logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+#logo_alt: 'Balducci&#39;s'
+#store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+#store_locator_alt: 'FIND A STORE'
+#weekly_circular_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+#weekly_circular_alt: 'CATERING'
+#chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+#chef_prepared_alt: 'CHEF PREPARED'
+#catering_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+#catering_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e6ed1854-d338-4143-9731-8b627bd5f4a3.jpg"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9c640cc0-44d1-455a-a29c-8ed4953febc1.jpg"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b557eddc-8481-4f1b-a1ec-125ebe753115.jpg"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e9652dbc-4b78-4128-ac73-5e55a1184755.jpg?ver=1465242557000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/98bb4f65-7271-48c0-8ca2-92492d2c1944.jpg?ver=1465242558000'
+  img_alt: "Get Fired Up! Summer BBQ season is here."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/pork?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a312a65b-e210-43bb-8b67-14de9a0a1d7e.jpg?ver=1465242558000'
+  img_alt: 'Recipe of the season: Drunken Honey BBQ Ribs View Recipe >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/310840bc-2688-4c50-a7c0-d48fd787a399.jpg?ver=1465242558000'
+  img_alt: 'BBQ&A | With Chef Jason Miller'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/af749007-3a08-4156-abee-9d5aa5463e1e.jpg?ver=1465242558000'
+  img_alt: 'Q: Which side of a piece of meat should I grill first? A: Start grilling on the presentation side down…and only flip once. Q: How do I create the perfect &#34;grill marks&#34;? A: Thinking of your grill like a clock, place the meat at 2 o&#39;clock first, then at 8 o&#39;clock. Q: What type of grill produces a smokier, richer flavor? A: Charcoal grills. I recommend using additive-free lump charcoal, which is charred wood. Q: What does &#34;resting the meat&#34; mean? A: Let finished meats rest on a clean platter, tented with foil, for about 10 minutes before carving, so juices can redistribute evenly.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/016fea24-ef76-4e3a-8892-c5276004e212.jpg?ver=1465242558000'
+  img_alt: 'Chef Prepared | Great Grilling Sides'
+
+
+- type: "image-2-columns"
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/080cfc00-213b-4b79-871c-61dc0fd3c60d.jpg?ver=1465242558000'
+  img_alt: "Crab & Mango Stuffed Avocado"
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/01ceca74-2186-4452-8ced-60fbef9bab62.jpg?ver=1465242558000'
+  img_alt_2: "Bluegrass Slaw"
+
+- type: "image-2-columns"
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d4675c29-303e-4dec-a005-297f861209ab.jpg?ver=1465242558000'
+  img_alt: "Protein Packed Garden Salad"
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bbba636a-0b93-4ad2-b8c6-8973c52319ea.jpg?ver=1465242559000'
+  img_alt_2: "Classic Roasted Ratatouille"
+
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9b447d6e-8f27-4c65-89d1-8b3bcdaf6944.jpg?ver=1465242558000'
+  img_alt: 'View More'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f4327b06-6905-45e7-8e9d-4596781e86b1.jpg?ver=1465242559000'
+  img_alt: 'Member Exclusive | Sweet & Savory'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b5cfd2c2-0c68-4c7b-a243-802ff0d8e9bd.jpg?ver=1465242559000'
+  img_alt: 'Yellowfin Tuna Member Exclusive: 19.99/LB Reg 21.99'
+
+
+- type: "image-2-columns"
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/30236b9c-1ddc-417a-b9b1-756b53106a27.jpg?ver=1465242559000'
+  img_alt: 'Balducci&#39;s Staff Pick: Sweet Lady Jane&#39;s Lemon Bars Member Exclusive: 6.99/EA Reg 7.99'
+  url_2: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f25b1b78-f42b-453a-8d1b-9a98e5e4aa8f.jpg?ver=1465242559000'
+  img_alt_2: 'Moorenkos Ice Cream Member Exclusive: 7.99/EAReg 8.99'
+
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/01582301-93a4-417c-83b6-4111d3840c76.jpg?ver=1465242559000'
+  img_alt: 'What&#39;s New At Balducci&#39;s'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3c731143-2f86-492c-a5bd-7feef829c2e2.jpg?ver=1465242559000'
+  img_alt: 'BBQ Catering Menu Our BBQ catering menu is now available. Let us provide top of the line service and food for your next event. View Menu > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0610_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8b5f8b59-b95a-4234-b61d-b94c71e8b780.jpg?ver=1465242560000'
+  img_alt: 'CHEERS TO DAD! Join us Father&#39;s Day weekend for a special wine tasting event. Saturday, June 18th Food Samplings…12 noon-5pm Wine Samplings…2-5pm More Info >'
+
