@@ -1,0 +1,91 @@
+title: 'Be Dad&#39;s favorite kid this year'
+
+primary_color: '#999999'
+
+pre_header_text: 'Give him the most thoughtful gift with Photo Prints!'
+
+logo_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+callout_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/86485_DR_Week3_061516_Photo_2A_09.jpg"'
+callout_img_alt: 'Get the App>'
+callout_img_link: 'http://walgreens.com/mobile'
+
+
+footer_text: 'Offers valid 6/12-6/18/16 <br><br> <sup>*</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Excludes collage, instant prints and prints from film. Not to be combined with any other offers. <br><br> &#8224;Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Excludes instant prints. Not to be combined with any other offers. <br><br> <sup>**</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Select templates not available in app. Not to be combined with any other offers. <br><br> &#8225;Valid in select stores. See associate for details. <br><br> The contents of this email and health related information and resources on the Duane Reade website (&#34;Contents&#34;) are provided strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade does not guarantee the applicability or accuracy of any information mentioned in the Contents. The contents of this email and health related information and resources on the Duane Reade website (&#34;Contents&#34;) are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade does not guarantee the applicability or accuracy of any information mentioned in the Contents.<br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=hBXB7lnB8c6slB9MRfCAAAAAAAe&email'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 10005'
+
+# Loop through articles
+
+articles:
+
+- type: "image"
+  url: "http://www.walgreens.com/photo"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86485_DR_Week3_061516_Photo_2A_02.jpg"
+  img_alt: "Print Dad a personalized photo gift, and pick it up the same day."
+
+- type: "image"
+  url: "http://photo.walgreens.com/walgreens/storepage/storePageId=Print"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86485_DR_Week3_061516_Photo_2A_03.jpg"
+  img_alt: "4x6 Digital Prints – 13 cents each"
+
+- type: "image"
+  url: "http://photo.walgreens.com/walgreens/storepage/storePageId=Print"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86485_DR_Week3_061516_Photo_2A_04.jpg"
+  img_alt: ""
+
+- type: "image"
+  url: "http://photo.walgreens.com/walgreens/storepage/storePageId=Wall-Decor"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86485_DR_Week3_061516_Photo_2A_05.jpg"
+  img_alt: "30% off Enlargements, Wood Panels and Posters"
+
+- type: "image"
+  url: "http://photo.walgreens.com/walgreens/storepage/storePageId=Wall-Decor"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86485_DR_Week3_061516_Photo_2A_06.jpg"
+  img_alt: ""
+
+- type: "image"
+  url: "http://photo.walgreens.com/walgreens/storepage/storePageId=MemoryBooks"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86485_DR_Week3_061516_Photo_2A_07.jpg"
+  img_alt: "25% off Photo Books, Cards, and Canvas Prints"
+
+- type: "image"
+  url: "http://photo.walgreens.com/walgreens/storepage/storePageId=MemoryBooks"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/86485_DR_Week3_061516_Photo_2A_08.jpg"
+  img_alt: ""
+
+
+footernav:
+
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+socialnav:
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/spacer.gif'
