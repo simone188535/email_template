@@ -1,0 +1,101 @@
+title: 'Supreme Sips for Father&#39;s Day'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+logo_alt: ''
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+
+#header
+#logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+#logo_alt: 'Balducci&#39;s'
+#store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+#store_locator_alt: 'FIND A STORE'
+#weekly_circular_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+#weekly_circular_alt: 'CATERING'
+#chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+#chef_prepared_alt: 'CHEF PREPARED'
+#catering_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0520_BLD_Weekly_Email'
+#catering_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e6ed1854-d338-4143-9731-8b627bd5f4a3.jpg"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9c640cc0-44d1-455a-a29c-8ed4953febc1.jpg"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b557eddc-8481-4f1b-a1ec-125ebe753115.jpg"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5dd0d6da-4df3-4c57-985d-6187b633d665.jpg?ver=1465567766000'
+  img_alt: 'WINE NEWSLETTER JUNE 2016'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ad9e4cf0-a697-43c2-88a3-7a0ec9b5f6e4.jpg?ver=1465567766000'
+  img_alt: "June Wine & Food Event Summer Wines for Father&#39;s Day Saturday, June 18, 2016 Food Tasting&#58; 12pm–5pm Wine Tasting&#58; 2pm–5pmFeaturing&#58; • Father&#39;s Day Wines • Wines for the Patio, Beach and Poolside • Rosé Wines • Extreme Value Wines Save 25% – mix & match 12 or more bottles"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d9ae067d-1808-4922-9809-c4d4cd8d1e8a.jpg?ver=1465567766000'
+  img_alt: 'Top Pick For Summer'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/30a1489b-ff6f-4f9a-8eb9-52ae0538fbff.jpg?ver=1465567766000'
+  img_alt: 'Let&#39;s talk Cinsault Rosé! - John Coleman, Balducci#39;s Wine Merchant Summer fare is made for Rosé wines. The Rosé version of Cinsault, a grape varietal, is simply beautiful and refreshing, showcasing a range of color from light salmon to dark raspberry red with aromas and flavors of cherry, watermelon and strawberry. This versatile wine is a perfect match for cooked shellfish and grilled meats.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6ed1dffd-3e83-4950-acbb-2a468bef3b12.jpg?ver=1465567766000'
+  img_alt: 'Top Pick: Le Petit Balthazar Cinsault Rosé 2015 9.99/BTL &#34;This label has represented tremendous value in Rosé for several vintages, and it does not disappoint in 2015. Look for flavors of watermelon and strawberry, with a hint of mint or rosemary. Then bask in the sun.&#34; -The Washington Post'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3ee93895-08e3-4276-8148-9b993960e975.jpg?ver=1465567766000'
+  img_alt: 'Must Have Wines'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c479d756-aca5-4e24-ab50-b271987484d3.jpg?ver=1465567766000'
+  img_alt: 'Balducci&#39;s Old Vine Garnacha 2012 $16.99/BTL 100% old-vine Garnacha (from vines planted between 1925 and 1945) made from yields of less than one ton of fruit per acre, this is a full-bodied, pure, lavishly rich, intense Spanish red. - Pair With Steaks Off the Grill'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3bfc792b-c9ad-4dc2-9acd-c9f725591033.jpg?ver=1465567766000'
+  img_alt: 'Novellum Chardonnay 2015 $15.99/BTL &#34;Tasting like it cost three times the price, it offers lots of orchard fruits, white peach, honeysuckle and a hint of vanilla to go with a crisp, yet still textured and mouth-filling style on the palate.&#34; -Robert Parker 90 pts - Pair With Cured Meats and Cheeses'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1cb6e301-d4c3-4850-916e-f20cd6edabcc.jpg?ver=1465567766000'
+  img_alt: 'Balducci&#39;s Cabernet Sauvignon Napa Valley 2012 $24.99/BTL Our flagship wine, this stunning Cabernet is sourced from some of the best vineyards in Napa Valley. Wonderfully ripe and layered, with a dense color and palate rich in cassis, cherry, spice, chocolate and oak flavors. - This One&#39;s For Dad!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d945cd0a-0205-441f-88d4-17d38ec2b8bc.jpg?ver=1465567766000'
+  img_alt: 'Quinta de Cabriz Tinto 2014 $10.99/BTL &#34;A crisp and minerally red, with concentrated flavors of dark cherry, roasted plum and dried raspberry, layered with rich, spicy notes. White chocolate details show on the finish, accented by hints of pepper.&#34;-Wine Spectator 90 pts - Pair With Your Best Burger'
+
+
+
+
