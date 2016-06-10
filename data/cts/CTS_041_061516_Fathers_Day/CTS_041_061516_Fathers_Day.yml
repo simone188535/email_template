@@ -1,76 +1,111 @@
 title: ''
 
-primary_color: '#ffffff'
-
 pre_header_text: ''
 
+primary_color: '#ffffff'
+
 header_logo_link: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="HEADER - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
-header_logo_img: 'images/CTS_20160615_Fathers_Day_ASF_01.jpg'
-header_logo_alt: 'Christmas Tree Shops® and That!™'
+header_logo_img: "images/CTS_20160615_Fathers_Day_ASF_01.jpg"
+header_logo_alt: "Christmas Tree Shops&reg; and That!&trade;"
+header_logo_height: "59"
+header_logo_width: "263"
 
 
 header_Arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\"reportname=\"TOP NAV - NEW ARRIVALS\"urlId=\"64083\"target=\"_blank\"frontuid=\"127521'
-header_Arrivals_img: 'images/CTS_20160615_Fathers_Day_ASF_02.jpg'
-header_Arrivals_alt: 'NEW ARRIVALS'
+header_Arrivals_img: "images/CTS_20160615_Fathers_Day_ASF_02.jpg"
+header_Arrivals_alt: "NEW ARRIVALS"
+header_Arrivals_height: "59"
+header_Arrivals_width: "111"
 
 header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\"reportname=\"TOP NAV - OUTDOOR\"urlId=\"64083\"target=\"_blank\"frontuid=\"127521'
-header_outdoor_img: 'images/CTS_20160615_Fathers_Day_ASF_03.jpg'
-header_outdoor_alt: 'OUTDOOR'
+header_outdoor_img: "images/CTS_20160615_Fathers_Day_ASF_03.jpg"
+header_outdoor_alt: "OUTDOOR"
+header_outdoor_height: "59"
+header_outdoor_width: "130"
 
 header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\" reportname=\"TOP NAV - CLEARANCE\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521'
-header_clearance_img: 'images/CTS_20160615_Fathers_Day_ASF_04.jpg'
-header_clearance_alt: 'CLEARANCE'
-
-
-
-
-footer_text: ''
-
-unsubscribe_link: '#'
-unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
-privacy_link: '#'
-privacy_text: 'Privacy Policy'
-
-copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 1000'
-
-# Loop through articles
-articles:
-- type: 'image'
-  img: 'images/CTS_20160615_Fathers_Day_ASF_05'
-  img_alt: 'JUNE 15-18, 2016 TOP 5 GIFTS for Dad IN-STORE & ONLINE 7.99 EACH ELECTRONIC BBQ FORKS Backlit screen, 4 taste settings, 6 meat settings. Require 2 AAA batteries. Batteries not included. 14.99 EACH Orig. $19.99  BBQ CUTTING BOARDS Solid Acacia. Include 2 ceramic ramekins and a juice trench. 1.'
-  url: 'http://www.christmastreeshops.com/category/outdoor/entertaining.do'
-- type: 'image-2-columns'
-  img: 'images/CTS_20160615_Fathers_Day_ASF_06.jpg'
-  img_alt: '24.99 EACH MARGARITAVILLE® HAMMOCK CHAIRS With beverage holder, cooler and carry bag. 2.'
-  url: 'http://www.christmastreeshops.com/category/seasonal/summer/beach+%26+pool.do'
-  img_2: 'images/CTS_20160615_Fathers_Day_ASF_07.jpg'
-  img_alt_2: '3. 2.99 EACH BEER GLASSES Also available: Multi Beer 6-Pc. Sets $12.99 set. Made in America.'
-  url_2: 'http://www.christmastreeshops.com/category/kitchen-dining/drinkware.do'
-- type: 'image'
-  img: 'images/CTS_20160615_Fathers_Day_ASF_08.jpg'
-  img_alt: '4. OUTDOOR GAMES 19.99 SET TOP TOSS OR BADMINTON/VOLLEYBALL/HORSESHOE COMBINATION SET 16.99 SET LADDER TOSS 12.99 SET BEAN BAG TOSS OR FRISBEE SLAM DUNK 17.99 SET BOCCE'
-  url: 'http://www.christmastreeshops.com/category/seasonal/summer/beach+%26+pool.do'
-- type: 'image'
-  img: 'images/CTS_20160615_Fathers_Day_ASF_09.jpg'
-  img_alt: '5. 49.99 EACH FOLDING CEDAR WOOD ADIRONDACK CHAIRS 18"l x 31"d x 36"h. Assembly required. Also shown: Folding Adirondack Tables $14.99 ea.'
-  url: 'http://www.christmastreeshops.com/product/folding+adirondack+chair.do'
-- type: 'image'
-  img: 'images/CTS_20160615_Fathers_Day_ASF_10.jpg'
-  img_alt: 'THE THRILL OF THE HUNT SHOP US ONLINE!>'
-  url: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
-
+header_clearance_img: "images/CTS_20160615_Fathers_Day_ASF_04.jpg"
+header_clearance_alt: "CLEARANCE"
+header_clearance_height: "59"
+header_clearance_width: "96"
 
 
 socialnav:
-- link: 'https://www.facebook.com/ChristmasTreeShops?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\"reportname=\"FOOTER - FACEBOOK\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/5e0c4c3b401/d927794c-95cc-40fe-a8c3-e4bb1db30083.jpg?ver=1463404508000'
-  alt: 'Facebook'
-- link: 'https://www.pinterest.com/CTSandThat/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\" reportname=\"FOOTER - PINTEREST\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/5e0c4c3b401/3ac3d451-f44e-429b-a03d-88547aa80851.jpg?ver=1463404509000'
-  alt: 'Pinterest'
-- link: 'https://instagram.com/christmastreeshops/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\" reportname=\"FOOTER - INSTAGRAM\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/5e0c4c3b401/ca5a7219-94d3-4760-833e-9d2e3ad2a189.jpg?ver=1463404509000'
-  alt: 'Instagram'
-- link: 'http://www.christmastreeshops.com/store-locator/landing.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\" reportname=\"FOOTER - FIND A STORE\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/5e0c4c3b401/b4b8e475-1d5d-41f7-b309-d472a869bc4e.jpg?ver=1463404509000'
-  alt: 'Find a store near you &#62'
+- img: "images/CTS_20160615_Fathers_Day_ASF_11.jpg"
+  alt: " "
+  link: "#"
+  width: '146'
+  height: '56'
+
+- img: "images/CTS_20160615_Fathers_Day_ASF_12.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - FACEBOOK" urlId="64083" target="_blank" frontuid="127521'
+  width: '48'
+  height: '56'
+
+- img: "images/CTS_20160615_Fathers_Day_ASF_13.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - PINTEREST" urlId="64083" target="_blank" frontuid="127521'
+  width: '44'
+  height: '56'
+
+- img: "images/CTS_20160615_Fathers_Day_ASF_14.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - INSTAGRAM" urlId="64083" target="_blank" frontuid="127521'
+  width: '41'
+  height: '56'
+
+- img: "images/CTS_20160615_Fathers_Day_ASF_15.jpg"
+  alt: "Find a store near you >"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - FIND A STORE" urlId="64083" target="_blank" frontuid="127521'
+  width: '172'
+  height: '56'
+
+- img: "images/CTS_20160615_Fathers_Day_ASF_16.jpg"
+  alt: " "
+  link: "#"
+  width: '149'
+  height: '56'
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/CTS_20160615_Fathers_Day_ASF_05.jpg"
+    img_alt: 'JUNE 15-18, 2016 TOP 5 GIFTS for Dad IN-STORE & ONLINE 7.99 EACH ELECTRONIC BBQ FORKS Backlit screen, 4 taste settings, 6 meat settings. Require 2 AAA batteries. Batteries not included. 14.99 EACH Orig. $19.99  BBQ CUTTING BOARDS Solid Acacia. Include 2 ceramic ramekins and a juice trench. 1.'
+    url: 'http://www.christmastreeshops.com/category/outdoor/entertaining.do'
+    width: '600'
+    height: '468'  
+  
+  - type: "image-2-columns"
+    img: "images/CTS_20160615_Fathers_Day_ASF_06.jpg"
+    img_alt: '24.99 EACH MARGARITAVILLE® HAMMOCK CHAIRS With beverage holder, cooler and carry bag. 2.'
+    url: 'http://www.christmastreeshops.com/category/seasonal/summer/beach+%26+pool.do'
+    width: '320'
+    height: '418'
+    img_2: "images/CTS_20160615_Fathers_Day_ASF_07.jpg"
+    img_alt_2: '3. 2.99 EACH BEER GLASSES Also available: Multi Beer 6-Pc. Sets $12.99 set. Made in America.'
+    url_2: 'http://www.christmastreeshops.com/category/kitchen-dining/drinkware.do'
+    width_2: '280'
+    height_2: '418'
+  
+  - type: "image"
+    img: "images/CTS_20160615_Fathers_Day_ASF_08.jpg"
+    img_alt: '4. OUTDOOR GAMES 19.99 SET TOP TOSS OR BADMINTON/VOLLEYBALL/HORSESHOE COMBINATION SET 16.99 SET LADDER TOSS 12.99 SET BEAN BAG TOSS OR FRISBEE SLAM DUNK 17.99 SET BOCCE'
+    url: 'http://www.christmastreeshops.com/category/seasonal/summer/beach+%26+pool.do'
+    width: '600'
+    height: '374'
+
+  - type: "image"
+    img: "images/CTS_20160615_Fathers_Day_ASF_09.jpg"
+    img_alt: '5. 49.99 EACH FOLDING CEDAR WOOD ADIRONDACK CHAIRS 18"l x 31"d x 36"h. Assembly required. Also shown: Folding Adirondack Tables $14.99 ea.'
+    url: 'http://www.christmastreeshops.com/product/folding+adirondack+chair.do'
+    width: '600'
+    height: '380'    
+  
+  - type: "image"
+    img: "images/CTS_20160615_Fathers_Day_ASF_10.jpg"
+    img_alt: 'THE THRILL OF THE HUNT SHOP US ONLINE!>'
+    url: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width: '600'
+    height: '112'
+
