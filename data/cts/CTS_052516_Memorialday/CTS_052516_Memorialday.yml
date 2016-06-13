@@ -1,0 +1,87 @@
+title: ''
+
+primary_color: '#ffffff'
+
+pre_header_text: ''
+
+header_logo_link: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\"reportname="BODY-CHRISTMAS TREE SHOPS\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521'
+header_logo_img: "images/CTS_logo.jpg"
+header_logo_alt: "Christmas Tree Shops® and That!™"
+
+
+header_Arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\"reportname="BODY-CHRISTMAS TREE SHOPS\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521'
+header_Arrivals_img: "images/NewArrivals.jpg"
+header_Arrivals_alt: "NEW ARRIVALS"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\"reportname="BODY-CHRISTMAS TREE SHOPS\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521'
+header_outdoor_img: "images/Outdoor.jpg"
+header_outdoor_alt: "OUTDOOR"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\"reportname="BODY-CHRISTMAS TREE SHOPS\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521'
+header_clearance_img: "images/Clearence.jpg"
+header_clearance_alt: "CLEARANCE"
+
+
+
+
+footer_text: ''
+
+unsubscribe_link: '#'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: '#'
+privacy_text: 'Privacy Policy'
+
+copyright: ''
+
+# Loop through articles
+articles:
+- type: 'image'
+  img: 'images/CTS_039_052516_Memorial_Day_05.jpg'
+  img_alt: "MAY 25-28, 2016 Backyard Party $9.99 EACH Beverage Dispensers 1.5 gal. With stand that doubles as an ice bucket."
+  url: 'https://instagram.com/christmastreeshops/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\"reportname="BODY-CHRISTMAS TREE SHOPS\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521'
+
+- type: 'image'
+  img: 'images/CTS_039_052516_Memorial_Day_06.jpg'
+  img_alt: "IN-STORE & ONLINE SHOP NOW > $7.99 & UNDER Americana Entertaining Baskets Styles will vary by store."
+  url: 'http://www.christmastreeshops.com/category/seasonal/americana.do'
+
+- type: 'image-2-columns'
+  img: 'images/CTS_039_052516_Memorial_Day_07.jpg'
+  img_alt: "$19.88 EACH The Amazing Wubble™ Bubble Balls IN-STORE & ONLINE SHOP NOW > Inflates up to 3 feet in 3 minutes!"
+  url: 'http://www.christmastreeshops.com/product/as+seen+on+tv+wubble%26reg-+bubble+ball.do'
+  img_2: 'images/CTS_039_052516_Memorial_08.jpg'
+  img_alt_2: '$3.99 EACH Swamp Gator Outdoor Mosquito Foggers 16 oz. Comp. Value: $8.99'
+  url_2: 'http://www.christmastreeshops.com/product/solar+umbrella+string+lights.do'
+
+- type: 'image-2-columns'
+  img: 'images/CTS_039_052516_Memorial_09.jpg'
+  img_alt: "$9.99 EACH Solar Umbrella String Lights SHOP NOW >"
+  url: 'http://www.christmastreeshops.com/product/solar+umbrella+string+lights.do'
+  img_2: 'images/CTS_039_052516_Memorial_Day_10.jpg'
+  img_alt_2: '$169.99 SET 7-Pc. Norfolk Patio Sets Include: 44 inch sq. boat-style table, 4 sling chairs, 8 inch crank/tilt market umbrella, umbrella base. Assembly required.'
+  url_2: 'https://instagram.com/christmastreeshops/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\"reportname="BODY-CHRISTMAS TREE SHOPS\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521'
+
+- type: 'image'
+  img: 'images/CTS_039_052516_Memorial_11.jpg'
+  img_alt: "$169.99 SET 7-Pc. Norfolk Patio Sets Include: 44 inch sq. boat-style table, 4 sling chairs, 8 inch crank/tilt market umbrella, umbrella base. Assembly required."
+  url: 'https://instagram.com/christmastreeshops/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\"reportname="BODY-CHRISTMAS TREE SHOPS\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521'
+
+- type: 'image'
+  img: 'images/CTS_039_052516_Memorial_12.jpg'
+  img_alt: "$19.88 EACH GOTHAM® STEEL NON-STICK NON-SCRATCH COOKWARE 9.5 inch. Made with titanium & ceramic. Stronger than ever!"
+  url: 'https://instagram.com/christmastreeshops/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521"'
+
+
+socialnav:
+- link: 'https://www.facebook.com/ChristmasTreeShops?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\"reportname=\"FOOTER - FACEBOOK\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521"'
+  img: "images/Facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/CTSandThat/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\" reportname=\"FOOTER - PINTEREST\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521"
+  img: "images/Pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://instagram.com/christmastreeshops/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\" reportname=\"FOOTER - INSTAGRAM\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521"
+  img: "images/Instagram.jpg"
+  alt: "Instagram"
+- link: "http://www.christmastreeshops.com/store-locator/landing.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\" reportname=\"FOOTER - FIND A STORE\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521"
+  img: "images/Store_Near_You.jpg"
+  alt: "Find a store near you &#62"
