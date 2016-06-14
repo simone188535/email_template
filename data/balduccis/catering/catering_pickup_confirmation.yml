@@ -25,7 +25,7 @@ hero_text: 'Thank You for Your Catering Order'
 
 greeting: 'Dear {{var order.getCustomerName()}},'
 message_body: |
-  TThank you for placing your catering order with Balducci's. Your order will be available for pickup on <b>{{var order.getBalduccisDeliveryTime()}}</b>.<br><br>Your order total will be finalized on the day of pickup and your credit card will be charged at that time. Please note that the subtotal displayed is an estimate only and does not include tax or coupons applied.<br><br>If you have questions or need to make any changes to your order, please email <a class="text-underline" href="mailto:catering@balduccis.com">catering@balduccis.com</a> or call <span class="orange">1-866-278-8866</span>. Please submit any changes to your order no later than 24 hours before your pickup date.
+  TThank you for placing your catering order with Balducci's. Your order will be available for pickup on <b>{{var order.getBalduccisDeliveryTime()}}</b>.<br><br>Your order total will be finalized on the day of pickup and your credit card will be charged at that time. Please note that the subtotal displayed is an estimate only and does not include tax or coupons applied.<br><br>If you have questions or need to make any changes to your order, please email <a class="text-underline" href="mailto:catering@balduccis.com">catering@balduccis.com</a> or call <span style="color: #000000 !important;">1-866-278-8866</span>. Please submit any changes to your order no later than 24 hours before your pickup date.
 
 order_summary_header: 'CATERING ORDER SUMMARY'
 
