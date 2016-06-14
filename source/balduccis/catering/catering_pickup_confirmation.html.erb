@@ -1,5 +1,5 @@
 <% require 'active_support/all' %>
-<% data.balduccis.registration.registration.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<% data.balduccis.catering.catering_pickup_confirmation.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
   <head>
@@ -121,7 +121,7 @@
           }
 
           .text-underline {
-            text-decoration: underline;
+          	text-decoration: underline;
           }
 
           a:hover {
@@ -159,34 +159,34 @@
           }
 
           .orange {
-            color: #f3901d;
+          	color: #f3901d;
           }
 
           .cell-height {
-            line-height:1px;
-            font-size:1px;
+          	line-height:1px;
+          	font-size:1px;
           }
 
           .small-text {
-            font-size: 12px;
+          	font-size: 12px;
           }
 
           .header td,
           .header {
-            background-color: #000000;
-            color: #ffffff;
+          	background-color: #000000;
+          	color: #ffffff;
           }
 
           .orange-border-bottom {
-            border-bottom-width: 4px;
-            border-bottom-style: solid;
-            border-bottom-color: #f3901d;
+          	border-bottom-width: 4px;
+          	border-bottom-style: solid;
+          	border-bottom-color: #f3901d;
           }
 
           .order-summary {
-            border-bottom-width: 2px;
-            border-bottom-style: solid;
-            border-bottom-color: #f3901d;
+          	border-bottom-width: 2px;
+          	border-bottom-style: solid;
+          	border-bottom-color: #f3901d;
           }
 
           .content-wrap .container {
@@ -200,54 +200,6 @@
 
           #main-container {
             margin: 0 auto !important;
-          }
-
-          .top-header, .top-header td,
-          .top-header-top-row, .top-header-top-row td {
-          	background-color: #000000;
-          	color: #ffffff;
-          }
-
-          .top-header {
-          	border-bottom-width: 4px;
-          	border-bottom-style: solid;
-          	border-bottom-color: #f3901d;
-          }
-
-          .welcome-header {
-          	border-bottom-width: 1px;
-          	border-bottom-style: solid;
-          	border-bottom-color: #f3901d;
-          }
-
-          .header {
-            font-size: 18px;
-            font-weight: bold;
-          }
-
-
-          .login-link {
-            text-decoration: underline;
-          }
-
-          .login-email {
-            color: #000000 !important;
-            text-decoration: none !important;
-          }
-
-          .login-info {
-            border-bottom-style: solid;
-            border-bottom-color: #cdcdcd;
-            border-bottom-width: 1px;
-            border-right-style: solid;
-            border-right-color: #cdcdcd;
-            border-right-width: 1px;
-            border-left-style: solid;
-            border-left-color: #cdcdcd;
-            border-left-width: 1px;
-            border-top-style: solid;
-            border-top-color: #cdcdcd;
-            border-top-width: 1px;
           }
          
     </style>
@@ -328,10 +280,10 @@
      <!-- 100% background wrapper -->
 <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#e7e7e7">
     <tr>
-      <td>
+      <td align="center">
         <!-- 600px container -->
-        <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center" id="main-container">
-           <!-- Header top row -->
+        <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+            <!-- Header top row -->
             <tr class="go-away" bgcolor="#000000">
               <td class="go-away header" valign="top">
                 <table width="600" cellpadding="0" cellspacing="0" border="0" class="go-away">
@@ -379,7 +331,7 @@
             <!-- /Header bottom row -->
             <tr>
             	<td height="20" valign="top">
-            		<img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="1" height="20" alt="">
+            		<img src="images/spacer.gif" width="1" height="20" alt="">
             	</td>
             </tr>
             <tr>
@@ -387,7 +339,7 @@
             		<table border="0" cellpadding="0" cellspacing="0" width="100%">
             			<tr>
 	            			<td width="20">
-				            	<img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="20" height="1" alt="">
+				            	<img src="images/spacer.gif" width="20" height="1" alt="">
 				            </td>
 				            <td width="560" valign="top" align="center">
                       <center>
@@ -395,12 +347,12 @@
                       </center>
 				            </td>
 				            <td width="20">
-				            	<img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="20" height="1" alt="">
+				            	<img src="images/spacer.gif" width="20" height="1" alt="">
 				            </td>
 			            </tr>
 			            <tr>
             				<td height="15" colspan="3" class="cell-height">
-            					<img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="1" height="15" alt="">
+            					<img src="images/spacer.gif" width="1" height="15" alt="">
             				</td>
 			            </tr>
             		</table>
@@ -411,7 +363,7 @@
             		<table border="0" cellpadding="0" cellspacing="0" width="100%">
             			<tr>
             				<td width="20">
-			            		<img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="20" height="1" alt="">
+			            		<img src="images/spacer.gif" width="20" height="1" alt="">
 			            	</td>
 			            	<td valign="top" align="left" width="558">
 			            		<table border="0" cellpadding="0" cellspacing="0" width="100%" class="content-wrap">
@@ -420,109 +372,33 @@
 			            					<table border="0" cellpadding="0" cellspacing="0" width="100%">
 			            						<tr>
 			            							<td width="20">
-									            		<img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="20" height="1" alt="">
+									            		<img src="images/spacer.gif" width="20" height="1" alt="">
 									            	</td>
 									            	<td valign="top" align="left">
 									            		<table border="0" cellpadding="0" cellspacing="0" width="100%" height="20">
 									            			<tr>
 									            				<td height="20">
-									            					<img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="1" height="20" alt="">
+									            					<img src="images/spacer.gif" width="1" height="20" alt="">
 									            				</td>
 									            			</tr>
 									            		</table>
-                                  <table border="0" cellpadding="0" cellspacing="0" width="100%" class="welcome-header">
-                                    <tr>
-                                      <td height="5" class="cell-height">
-                                        <img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="1" height="5" alt="">
-                                      </td>
-                                    </tr>
-                                    <tr>
-                                      <td class="header orange">
-                                        <b><%=@base_header_text%></b>
-                                      </td>
-                                    </tr>
-                                    <tr>
-                                      <td height="5" class="cell-height">
-                                        <img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="1" height="5" alt="">
-                                      </td>
-                                    </tr>
-                                  </table>
-                                  <table class="cell-height" height="20" border="0" cellspacing="0" cellpadding="0" width="100%">
-                                    <tr>
-                                      <td class="cell-height" height="20">
-                                        <img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="1" height="20" alt="">
-                                      </td>
-                                    </tr>
-                                  </table>
+									            		<%=@base_greeting%><br><br>
 									            		<%=@base_message_body%><br><br>
 
-                                  <table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#e7e7e7" class="login-info">
-                                    <tr>
-                                      <td valign="top" align="left" bgcolor="#e7e7e7">
-                                        <table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#e7e7e7" class="login-info">
-                                          <tr>
-                                            <td colspan="3" class="cell-height" height="12">
-                                              <img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="1" height="12" alt="">
-                                            </td>
-                                          </tr>
-                                          <tr>
-                                            <td width="12"><img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="12" height="1" alt=""></td>
-                                            <td valign="top" align="left">
-                                              <%=@base_login_info%>
-                                            </td>
-                                            <td width="12"><img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="12" height="1" alt=""></td>
-                                          </tr>
-                                          <tr>
-                                            <td colspan="3" class="cell-height" height="12">
-                                              <img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="1" height="12" alt="">
-                                            </td>
-                                          </tr>
-                                        </table>
-                                      </td>
-                                    </tr>
-                                  </table>
-
-                                   <table border="0" cellspacing="0" cellpadding="0" width="100%">
-                                    <tr>
-                                      <td valign="top" height="30" class="cell-height">
-                                        <img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="1" height="30" alt="">
-                                      </td>
-                                    </tr>
-                                     <tr>
-                                       <td valign="top" align="left">
-                                         <%=@base_feature_header%>
-                                       </td>
-                                     </tr>
-                                     <tr>
-                                       <td valign="top" align="left">
-                                        <table border="0" cellspacing="0" cellpadding="0" width="100%">
-                                          <% data.balduccis.registration.registration.feature_list.each do |f| %>
-                                          <tr>
-                                            <td width="30" valign="top" class="list-padding">
-                                              <img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="30" height="1" alt="" class="list-padding">
-                                            </td>
-                                            <td width="10" valign="top" align="left" class="list-bullet">&bull;</td>
-                                            <td class="list-text" valign="top" align="left">
-                                              <%= f["text"] %>
-                                            </td>
-                                          </tr>
-                                          <% end %>
-
-                                         </table>
-                                       </td>
-                                     </tr>
-                                     <tr>
-                                      <td valign="top" height="30" class="cell-height">
-                                        <img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="1" height="30" alt="">
-                                      </td>
-                                    </tr>
-                                   </table>
-                                   <%=@base_contact_info%>
-
-									            		<table border="0" cellpadding="0" cellspacing="0" width="100%" height="20">
+									            		<table border="0" cellpadding="0" cellspacing="0" width="100%" class="order-summary">
 									            			<tr>
-									            				<td height="20">
-									            					<img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="1" height="20" alt="">
+									            				<td height="5" class="cell-height">
+									            					<img src="images/spacer.gif" width="1" height="5" alt="">
+									            				</td>
+									            			</tr>
+									            			<tr>
+									            				<td class="summary-header orange">
+									            					<b><%=@base_order_summary_header%></b>
+									            				</td>
+									            			</tr>
+									            			<tr>
+									            				<td height="8" class="cell-height">
+									            					<img src="images/spacer.gif" width="1" height="8" alt="">
 									            				</td>
 									            			</tr>
 									            		</table>
@@ -530,13 +406,44 @@
 									            		<table border="0" cellpadding="0" cellspacing="0" width="100%" height="20">
 									            			<tr>
 									            				<td height="20">
-									            					<img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="1" height="20" alt="">
+									            					<img src="images/spacer.gif" width="1" height="20" alt="">
+									            				</td>
+									            			</tr>
+									            		</table>
+
+									            		<%=@base_order_number%><br><br>
+									            		<%=@base_order_date%><br><br>
+                                  <%=@base_pickup_store%><br><br>
+                                  <%=@base_pickup_date%><br><br>
+                                  {{if order.getEmailCustomerNote()}}
+                                   <%=@base_special_instructions%><br><br>
+                                  {{/if}}
+                                  <%=@base_sold_to%><br><br>
+									            		<%=@base_order_details%><br><br>
+									            		<span class="small-text">
+									            			<%=@base_subtotal_note%>
+									            		</span>
+
+									            		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tr>
+                                      <td valign="top" class="cell-height" height="15">
+                                        <img src="images/spacer.gif" width="1" height="15" alt="">
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td valign="top" align="right" class="text-right">
+                                        <img class="inline-block" src="<%=@base_signoff_img%>" alt="<%=@base_signoff_alt%>">
+                                      </td>
+                                    </tr>
+									            			<tr>
+									            				<td height="20" class="cell-height">
+									            					<img src="images/spacer.gif" width="1" height="20" alt="">
 									            				</td>
 									            			</tr>
 									            		</table>
 									            	</td>
-									            	<td width="20">
-										        		<img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="20" height="1" alt="">
+									            	<td width="20" class="cell-height">
+										        		<img src="images/spacer.gif" width="20" height="1" alt="">
 										        	</td>
 			            						</tr>
 			            					</table>
@@ -544,8 +451,8 @@
 			            			</tr>
 				              </table>
 				          </td>
-    							<td width="20" valign="top">
-    								<img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="20" height="1" alt="">
+    							<td width="20" valign="top" class="cell-height">
+    								<img src="images/spacer.gif" width="20" height="1" alt="">
     							</td>
             		</tr>
             	</table>
@@ -556,7 +463,7 @@
 	        		<table border="0" cellpadding="0" cellspacing="0" width="100%">
 	        			<tr>
 	        				<td height="15" class="cell-height">
-	        					<img src="https://s3.amazonaws.com/balduccis-dev/media/email/spacer.gif" width="1" height="15" alt="">
+	        					<img src="images/spacer.gif" width="1" height="15" alt="">
 	        				</td>
 	        			</tr>
 	        			<tr bgcolor="#000000">
@@ -582,6 +489,8 @@
 	        		</table>
 	        	</td>
 	        </tr>
+
+
         </table>
           <!-- /600px container -->
       </td>

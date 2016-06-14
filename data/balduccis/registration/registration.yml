@@ -1,43 +1,43 @@
 title: "Welcome to Balducci's"
 
-shadow_right_bg_img: 'images/right-shadow.jpg'
-shadow_bottom_bg_img: 'images/bottom-shadow.jpg'
-shadow_top_bg_img: 'images/top-shadow.jpg'
+shadow_right_bg_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/right-shadow.jpg'
+shadow_bottom_bg_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/bottom-shadow.jpg'
+shadow_top_bg_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/top-shadow.jpg'
 
-header_top_mid_bg_spacing_img: 'images/header-top-row-mid-bg.jpg'
-header_bottom_left_bg_spacing_img: 'images/header-bottom-row-left-bg.jpg'
-header_bottom_right_bg_spacing_img: 'images/header-bottom-row-right-bg.jpg'
+header_top_mid_bg_spacing_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/header-top-row-mid-bg.jpg'
+header_bottom_left_bg_spacing_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/header-bottom-row-left-bg.jpg'
+header_bottom_right_bg_spacing_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/header-bottom-row-right-bg.jpg'
 
 logo_link: ''
 logo_link_text: 'Balduccis Food Lovers Market TM'
-logo_link_img: 'images/header-logo.jpg'
+logo_link_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/header-logo.jpg'
 
 find_store_link: ''
 find_store_link_text: 'FIND A STORE'
-find_store_link_img: 'images/find-store-link.jpg'
+find_store_link_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/find-store-link.jpg'
 
 catering_link: ''
 catering_link_text: 'CATERING'
-catering_link_img: 'images/header-catering-link.jpg'
+catering_link_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/header-catering-link.jpg'
 
 chef_prep_link: ''
 chef_prep_link_text: 'CHEF PREPARED'
-chef_prep_link_img: 'images/header-chef-prep-link.jpg'
+chef_prep_link_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/header-chef-prep-link.jpg'
 
 mybalduccis_link: ''
 mybalduccis_link_text: 'myBALDUCCIS'
-mybalduccis_link_img: 'images/header-my-bld-link.jpg'
+mybalduccis_link_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/header-my-bld-link.jpg'
 
-hero_img: 'images/hero.jpg'
+hero_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/hero.jpg'
 hero_text: 'Thank You for Your Catering Order'
 
 message_body: |
-  Thank you for creating a profile with Balducci's. To log-in click <a href="#" class="login-link">Login</a> at the top of any page, then enter your email address and password.
+  Thank you for creating a profile with Balducci's. To log-in click <a href="{{store url='customer/account/'}}" class="login-link">Login</a> at the top of any page, then enter your email address and password.
 
 header_text: "WELCOME TO BALDUCCI'S"
 
 login_info: |
-  Here is your log-in information: <br><b>Email:</b> <a a href="mailto:DEV@purered.net" class="login-email"><span class="apple-link-black">DEV@purered.net</span></a><br><b>Password:</b> Enter the password you created when registering
+  Here is your log-in information: <br><b>Email:</b> <a href="mailto:{{var customer.email}}" class="login-email"><span class="apple-link-black">{{var customer.email}}</span></a><br><b>Password:</b> Enter the password you created when registering
 
 feature_header: 'When you log in to your account, you will be able to do the following:'
 
@@ -51,14 +51,14 @@ feature_list:
 contact_info: |
   If you have questions, please email <a href="mailto:catering@balduccis.com">catering@balduccis.com</a> or call <span class="apple-link-black">1-866-278-8866.</span>
 
-footer_logo_link: 'http://www.balduccis.com'
+footer_logo_link: 'https://www.balduccis.com'
 footer_logo_text: 'www.balduccis.com'
-footer_logo_img: 'images/footer-logo.jpg'
+footer_logo_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/footer-logo.jpg'
 footer_fb_link: '#'
 footer_fb_text: 'Facebook'
-footer_fb_img: 'images/footer-fb.jpg'
+footer_fb_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/footer-fb.jpg'
 footer_tw_link: '#'
-footer_tw_img: 'images/footer-tw.jpg'
+footer_tw_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/footer-tw.jpg'
 footer_tw_text: 'Twitter'
-footer_mid_img: 'images/footer-middle.jpg'
+footer_mid_img: 'https://s3.amazonaws.com/balduccis-dev/media/email/footer-middle.jpg'
 

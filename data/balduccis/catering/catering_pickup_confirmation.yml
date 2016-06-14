@@ -1,0 +1,55 @@
+title: 'Thank You for Your Catering Order'
+
+logo_link: 'https://balduccis.com'
+logo_link_text: 'Balduccis Food Lovers Market TM'
+logo_link_img: 'images/header-logo.jpg'
+
+find_store_link: ''
+find_store_link_text: 'FIND A STORE'
+find_store_link_img: 'images/header-find-store-link.jpg'
+
+catering_link: ''
+catering_link_text: 'CATERING'
+catering_link_img: 'images/header-catering-link.jpg'
+
+chef_prep_link: ''
+chef_prep_link_text: 'CHEF PREPARED'
+chef_prep_link_img: 'images/header-chef-link.jpg'
+
+mybalduccis_link: ''
+mybalduccis_link_text: 'myBALDUCCIS'
+mybalduccis_link_img: 'images/header-mybalduccis-link.jpg'
+
+hero_img: 'images/catering-delivery-hero.jpg'
+hero_text: 'Thank You for Your Catering Order'
+
+greeting: 'Dear {{var order.getCustomerName()}},'
+message_body: |
+  TThank you for placing your catering order with Balducci's. Your order will be available for pickup on <b>{{var order.getBalduccisDeliveryTime()}}</b>.<br><br>Your order total will be finalized on the day of pickup and your credit card will be charged at that time. Please note that the subtotal displayed is an estimate only and does not include tax or coupons applied.<br><br>If you have questions or need to make any changes to your order, please email <a class="text-underline" href="mailto:catering@balduccis.com">catering@balduccis.com</a> or call <span class="orange">1-866-278-8866</span>. Please submit any changes to your order no later than 24 hours before your pickup date.
+
+order_summary_header: 'CATERING ORDER SUMMARY'
+
+order_number: '<b>Order Number:</b> {{var order.increment_id}}'
+order_date: "<b>Order Date:</b> {{var order.getCreatedAtFormated('long')}}"
+pickup_store: '<b>Pickup Store:</b> {{var order.getStoreName()}}'
+pickup_date: '<b>Delivery Date:</b> {{var order.getBalduccisEventDate()}} at {{var order.getBalduccisDeliveryTime()}}'
+special_instructions: '<b>Special Instructions:</b> {{var order.getEmailCustomerNote()}}'
+sold_to: "<b>Ordered By:</b><br> {{var order.getBillingAddress().format('html')}}"
+order_details: '<b>Order Details:</b><br>{{layout handle="sales_email_order_items" order=$order}}'
+subtotal: '<b>SUBTOTAL: $40.99*</b>'
+subtotal_note: '*Please note that this is an estimation. Total does not include tax or coupons (if applicable).'
+
+signoff_img: 'images/signoff.jpg'
+singoff_alt: "Boun Appetito! Balducci's Food Lover's Market"
+
+footer_logo_link: 'http://www.balduccis.com'
+footer_logo_text: 'www.balduccis.com'
+footer_logo_img: 'images/footer-logo.jpg'
+footer_fb_link: '#'
+footer_fb_text: 'Facebook'
+footer_fb_img: 'images/footer-fb.jpg'
+footer_tw_link: '#'
+footer_tw_img: 'images/footer-tw.jpg'
+footer_tw_text: 'Twitter'
+footer_mid_img: 'images/footer-middle.jpg'
+
