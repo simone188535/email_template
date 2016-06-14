@@ -1,0 +1,123 @@
+title: 'Hello Summer...Hello Savings!'
+
+pre_header_text: ''
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="HEADER - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+header_logo_img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_01.jpg"
+header_logo_alt: "Christmas Tree Shops&reg; and That!&trade;"
+header_logo_height: "60"
+header_logo_width: "267"
+
+
+header_Arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="TOP NAV - NEW ARRIVALS" urlId="64083" target="_blank" frontuid="127521'
+header_Arrivals_img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_02.jpg"
+header_Arrivals_alt: "NEW ARRIVALS"
+header_Arrivals_height: "60"
+header_Arrivals_width: "122"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="TOP NAV - OUTDOOR" urlId="64083" target="_blank" frontuid="127521'
+header_outdoor_img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_03.jpg"
+header_outdoor_alt: "OUTDOOR"
+header_outdoor_height: "60"
+header_outdoor_width: "106"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="TOP NAV - CLEARANCE" urlId="64083" target="_blank" frontuid="127521'
+header_clearance_img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_04.jpg"
+header_clearance_alt: "CLEARANCE"
+header_clearance_height: "60"
+header_clearance_width: "105"
+
+
+socialnav:
+- img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_13.jpg"
+  alt: ""
+  link: "#"
+  width: '136'
+  height: '69'
+
+- img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_14.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - FACEBOOK" urlId="64083" target="_blank" frontuid="127521'
+  width: '64'
+  height: '69'
+
+- img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_15.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - PINTEREST" urlId="64083" target="_blank" frontuid="127521'
+  width: '39'
+  height: '69'
+
+- img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_16.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - INSTAGRAM" urlId="64083" target="_blank" frontuid="127521'
+  width: '45'
+  height: '69'
+
+- img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_17.jpg"
+  alt: "Find a store near you >"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - FIND A STORE" urlId="64083" target="_blank" frontuid="127521'
+  width: '168'
+  height: '69'
+
+- img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_18.jpg"
+  alt: " "
+  link: "#"
+  width: '148'
+  height: '69'
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_05.jpg"
+    img_alt: 'JUNE 21-24, 2016 FIRST DAY OF Summer FUN! $9.99 EACH Appliqué Cotton Beach Towels 34&#34; x 64&#34;. IN-STORE & ONLINE! SHOP NOW '
+    url: 'http://www.christmastreeshops.com/category/seasonal/summer/beach+%26+pool.do'
+    width: '600'
+    height: '415'  
+  
+  - type: "image-2-columns"
+    img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_06.jpg"
+    img_alt: 'IN-STORE & ONLINE! SHOP NOW $49.99 EACH Fire Pits With grate and poker. 29&#34;d x 18&#34;h. Also shown: Jumbo Marshmallow Roasting Sticks 12 pk. $1 ea. Campfire Marshmallows 16 oz. $1.69 pkg. '
+    url: 'http://www.christmastreeshops.com/product/black+metal+outdoor+fire+pit+with+cover.do'
+    width: '300'
+    height: '309'
+    img_2: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_07.jpg"
+    img_alt_2: '$12.99 EACH Mason Jar Dispensers Also available: Mason Jars $.89-1.99 ea.'
+    url_2: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width_2: '300'
+    height_2: '309'
+
+  - type: "image"
+    img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_08.jpg"
+    img_alt: 'Splashing Fun! IN-STORE & ONLINE! SHOP NOW $19.99 EACH Deluxe Family Pools 120&#34;x 72&#34;.'
+    url: 'http://www.christmastreeshops.com/product/deluxe+rectangular+inflatable+family+pool.do'
+    width: '600'
+    height: '297'  
+  
+  - type: "image-2-columns"
+    img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_09.jpg"
+    img_alt: '$4.99 EACH Waving Flags Plays 2 patriotic songs!'
+    url: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width: '300'
+    height: '304'
+    img_2: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_10.jpg"
+    img_alt_2: 'AS SEEN ON TV $9.88 EACH Rocket Copters Launch like a rocket, up to 120 feet, and fly like a helicopter. '
+    url_2: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width_2: '300'
+    height_2: '304'
+
+  - type: "image"
+    img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_11.jpg"
+    img_alt: '$99.99 SET 6-Pc. Bimini Patio Sets 35&#34;sq. table 4 folding chairs. 60&#34;l x 48&#34;w umbrella. Assembly required. Relaxation Retreat!'
+    url: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width: '600'
+    height: '454'  
+
+  - type: "image"
+    img: "images/CTS_041_062116_1stDaySummer_v1_r3_DEV_12.jpg"
+    img_alt: 'FOLLOW US & SHARE YOUR FAVORITE CTS FINDS with the hashtag #CTSBargainHunters'
+    url: 'https://instagram.com/christmastreeshops/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width: '600'
+    height: '125'  
+
