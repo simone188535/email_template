@@ -1,0 +1,70 @@
+title: 'Smoother skin is around the corner'
+
+primary_color: '#999999'
+
+pre_header_text: 'Soak up these bargains on your favorite skin care brands'
+
+logo_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week4_062216_Beauty_header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+callout_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week4_062216_Beauty_05.jpg'
+callout_img_alt: 'Get the app'
+callout_img_link: 'http://walgreens.com/mobile'
+
+footer_text: 'Offers valid 6/19-6/25/16 <br><br> <sup>*</sup>Of equal or lesser price. Exclusions apply. Subject to availability. Excludes bath soap, bath gel, sun care, hair removal in grooming, first aid, Burt&#39;s Bees lip and analgesics. &#8224;Good on next purchase. If offer has purchase requirement, it must be met in a single transaction, before taxes, after discounts, store credit and redemption dollars are applied. Due to state and federal laws, points cannot be earned or redeemed on some items. Complete details at Walgreens.com/Balance. <br><br><sup>**</sup>Of equal or lesser price. <br><br> The contents of this email and health related information and resources on the Duane Reade website (""Contents"") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade does not guarantee the applicability or accuracy of any information mentioned in the Contents. <br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=hBXB7lnB8c6slB9MRfCAAAAAAAe&email'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 10005'
+
+# Loop through articles
+
+articles:
+- type: "image"
+  url: "http://walgreens.com/skincare"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week4_062216_Beauty_02.jpg"
+  img_alt: "Skin Care Mix and Match - Buy 2 get 3rd FREE<sup>*</sup>"
+  
+- type: "image"
+  url: "http://www.walgreens.com/store/c/productlist/N=360333-181"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week4_062216_Beauty_03.jpg"
+  img_alt: "Banana Boat Sun Care - Buy 1 Get 1 50% off<sup>**</sup>"
+
+- type: "image"
+  url: "http://www.walgreens.com/store/c/shaving-and-grooming-products/ID=360521-tier2general"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week4_062216_Beauty_04.jpg"
+  img_alt: "Schick, Edge or Skintimate - Buy 1 Get 1 50% off<sup>**</sup>"
+  
+
+
+footernav:
+
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Photo"
+  link: "http://photo.walgreens.com/walgreens/welcome"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+socialnav:
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week4_062216_Beauty_fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week4_062216_Beauty_tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week4_062216_Beauty_site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week4_062216_Beauty_spacer.gif'

@@ -1,0 +1,34 @@
+title: 'Account Update Reminder'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4c6904ed-38b0-47d1-bfce-566f1d017f9c.jpg?ver=1466013109000"
+  img_alt: "Kings Rewards"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0620_June_Kings_LoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/48a3715b-347c-484f-ade8-885436704ee6.jpg?ver=1466013109000"
+  img_alt: "Account Update Your points will expire June 30th 2016 REMEMBER! Collect 300 points by June 30th to receive your $5.00 REWARD. All Points will return to 0 on 7/1/16, for the next promotional period starting 7/1/16 through 9/30/16"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0620_June_Kings_LoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c462eff1-8b0b-476c-a79e-58b97df6d373.jpg?ver=1466013110000"
+  img_alt: "Shopping at Kings is Now More Rewarding than Ever"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0620_June_Kings_LoyaltyEmail"
+
+
+
+
+
+
