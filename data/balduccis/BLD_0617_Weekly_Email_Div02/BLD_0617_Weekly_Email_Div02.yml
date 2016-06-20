@@ -1,0 +1,110 @@
+title: 'Meat & Brews for the Best Dad&#39;s Day'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+logo_alt: ''
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/366042dc-669a-4847-a1e7-7f075cd2bef6.jpg?ver=1466001928000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/846b818f-f9da-48aa-97f8-018525713f98.jpg?ver=1466001928000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/060d71c2-de04-4670-bf5a-61331cc6b12d.jpg?ver=1466001928000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/95cd2ead-4d8b-4d19-87ed-ca859fd8deb6.jpg?ver=1466001926000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b818f798-481b-420d-9273-e4ffe1ad10fb.jpg?ver=1466001926000'
+  img_alt: 'Celebrate Dad With Grilled Meats & Bold Brews How to Prepare Cowboy Steak View Tips >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/efb9f9a2-f511-4473-a548-e88529e2c749.jpg?ver=1466001926000'
+  img_alt: 'Staff Picks | Meat Lovers Unite'
+
+- type: "image-2-columns"
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5924d099-eb2f-4b4e-92f6-80b90a883695.jpg?ver=1466001926000'
+  img_alt: "Balducci's Staff Picks: Steaks We offer top quality USDA Prime Certified Angus."
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/364eecd3-a430-4941-aad0-0a3a3e27ff87.jpg?ver=1466001926000'
+  img_alt_2: "Pork Try our house-made sausage in mild and spicy varieties."
+
+- type: "image-2-columns"
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3f59e67f-747b-411b-bf97-08a7958ebd74.jpg?ver=1466001926000'
+  img_alt: "Ground Beef We grind our beef the day you buy it, so you know it's going to be fresh and delicious."
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/90f2c7b9-0f36-44b2-b0dd-745ae5f588f1.jpg?ver=1466001926000'
+  img_alt_2: "Chicken We're proud to offer Bell & Evans air-chilled chicken, which is organic and raised without antibiotics."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/238e4fc2-d295-409b-9430-63c49d0a6198.jpg?ver=1466001926000'
+  img_alt: 'Recipe + Video | Member Exclusive '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/92ac8bf3-ae6a-4094-b627-55c0d45033d1.jpg?ver=1466001928000'
+  img_alt: 'Store-made Salmon Burgers Member Exclusive: Reg'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/292dd4ae-a765-4cef-b0ab-04ec45aee663.jpg?ver=1466001927000'
+  img_alt: 'Sriracha Salmon Burger with Bahn Mi Slaw Make it! Watch Video > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2604d648-6259-4f83-91fc-5c4d6d78ef20.jpg?ver=1466001927000'
+  img_alt: 'Grilling Sides | Bold Additions'
+
+- type: "image-2-columns"
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/386f24e7-5e5b-4f18-8c38-3587a728d094.jpg?ver=1466001927000'
+  img_alt: 'Big T Crab Dip made with 100% real blue crabmeat, cheddar and cream cheeses'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5bbffbf6-499b-425e-803a-907bac15da04.jpg?ver=1466001927000'
+  img_alt_2: 'Burts Guinness Chips flavored with a unique blend of roasted barley and hops'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/46c9d20f-b612-4ae8-9ce1-841af3742d4f.jpg?ver=1466001927000'
+  img_alt: 'Bold Brews | Father&#39;s Day Beer Picks'
+
+- type: "image-3-columns"
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/718bf576-8949-457b-9237-07512743804c.jpg?ver=1466001928000'
+  img_alt: 'Port City Monumental IPA • Intensely hoppy • Complex aroma and flavor'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/07663be1-0474-4743-a6c8-8bd897d98d0b.jpg?ver=1466001928000'
+  img_alt_2: 'Stone IPA • Citrusy and piney hop flavors • Balanced with a subtle malt character'
+  url_3: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div02'
+  img_3: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/08d9e6a9-34ff-4c17-a572-eacff6d70f3c.jpg?ver=1466001928000'
+  img_alt_3: 'Dogfish Head 60 Min IPA • Classic IPA • Brewed with Northwest hops'
+

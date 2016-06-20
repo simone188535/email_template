@@ -1,0 +1,157 @@
+title: 'Treat Dad to the Best of Land & Sea'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_Weekly_Email'
+
+logo_img: ''
+logo_alt: 'Kings Food Markets'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0186868e-3e11-4f35-b707-4f396b4bc41b.jpg?ver=1465824924000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4cd138b8-f64c-4f2c-8cea-b9ad70ea7684.jpg?ver=1465824924000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/006806bf-f0ae-4699-87e2-42fa268d5ce8.jpg?ver=1465824924000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_0519_WeeklyEmail'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/66027e05-3974-402c-aa23-a9e5ded55eed.jpg?ver=1465824924000'
+catering_alt: 'CATERING'
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7878a77-91ba-4798-8909-c9a383785b5f.jpg?ver=1462839230000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d1a8a42-7b19-4797-8374-7f2b4b7f22c9.jpg?ver=1462839230000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd97367a-001e-4325-9638-f7dfd81ffc02.jpg?ver=1462839230000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc27d618-b46e-4c60-a65c-9cd3581de40b.jpg?ver=1463508268000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3ab7426d-0b42-4534-9f4c-e464887cd162.jpg?ver=1465824924000"
+  img_alt: "Inspiring 80 Years of Grilling with Dad"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/92de5168-b016-42f5-b28b-d5e6cafe210a.jpg?ver=1465824924000"
+  img_alt: "Recipes | Surf &#39;N Turf Delights"
+  url: "kingsfoodmarkets.com/unique-recipes/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a6666114-23e2-458c-b067-2caae678ba58.jpg?ver=1465824924000"
+  img_alt: "Surf &#39;N Turf Kebobs View Recipe"
+  url: "kingsfoodmarkets.com/unique-recipes/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/af6799be-7e12-4963-bdcf-cbb95be083e9.jpg?ver=1465824924000"
+  img_alt_2: "Surf &#39;N Turf Tacos View Recipe"
+  url_2: "kingsfoodmarkets.com/unique-recipes/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/43d48543-3d7c-4d80-aaac-54dbe2a44e70.jpg?ver=1465824926000"
+  img_alt: "Elevate Your Skills | Grilling Tips"
+  url: "http://kingsfoodmarkets.com/unique-recipes/grilling-tips?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e57d7e00-0b21-4f26-bbc7-44de7f7c67f7.jpg?ver=1465824925000"
+  img_alt: "STEAKS&#58; • Use high fat content cuts of beef • Season meat prior to grilling • When grilling, do not touch until it's time to flip"
+  url: "http://kingsfoodmarkets.com/unique-recipes/grilling-tips?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cca2061b-2382-4135-8d09-4156cfd1ff92.jpg?ver=1465824925000"
+  img_alt: "SEAFOOD&#58; • Use firm, meaty fish • Opt for steaks rather than fillets • Use cuts no thinner than 1-inch thick"
+  url: "http://kingsfoodmarkets.com/unique-recipes/grilling-tips?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f92cf43a-07aa-4e90-b35d-07d2be063974.jpg?ver=1465824925000"
+  img_alt: "More Grilling Tips >"
+  url: "http://kingsfoodmarkets.com/unique-recipes/grilling-tips?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a57292c6-f740-4c1e-8496-bb60ba64444b.jpg?ver=1465824925000"
+  img_alt: "Market Specials | Grilling Greats"
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/40d48cca-22c5-43a6-bd3b-6b255fbfd78c.jpg?ver=1465824925000"
+  img_alt: "Wild Caught Lobster Tails 5 OZ. 9.99 EA."
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/30efe80d-3844-488f-837a-13b796ee25e3.jpg?ver=1465824925000"
+  img_alt_2: "Kings USDA Choice Beef Rib Steaks 9.99 LB."
+  url_2: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7c3c0a78-3f15-4e36-9d05-0d87fe1ff144.jpg?ver=1465824925000"
+  img_alt: "New! Made In Store Sweet Potato Planks 6.99 LB."
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b4eb4707-3fd8-4222-a6a8-072d6dbd04fb.jpg?ver=1465824926000"
+  img_alt_2: "New! Made In Store Vegetable & Cherry Tomato Kabobs 6.99 LB."
+  url_2: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f6ea6528-f33d-44f9-be0b-8b4721a61bd8.jpg?ver=1465824925000"
+  img_alt: "View Weekly Specials >"
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5d42baa9-f781-47d4-a6ef-12644da11268.jpg?ver=1465824925000"
+  img_alt: ""
+  url: ""
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bcf8e470-3a53-4819-b0cf-72dbd07d17d0.jpg?ver=1465824926000"
+  img_alt: "Father&#39;s Day Entertaining Made Easy Choose from Lemon Garlic Shrimp Skewers, Lioni Hand Wrapped Mozzarella, Kings Pico de Guaco, Southwestern or Mango Salsa, Kings Patisserie French Chocolate Mousse Cake and more!"
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a9baf3c6-ac8e-482b-939d-34fdefd7ee2d.jpg?ver=1465824926000"
+  img_alt: "What&#39;s New At Kings"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9fffad81-e459-4139-808c-469623469a3b.jpg?ver=1465824926000"
+  img_alt: "View E-Cookbook >"
+  url: "http://kingsfoodmarkets.com/ecookbook?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1315ac9d-ba2e-4ca8-8e3e-ac9ca0f3a3ef.jpg?ver=1465824926000"
+  img_alt: "Recipes through the decades—2010s Peach & Blueberry Galette > "
+  url: "http://kingsfoodmarkets.com/unique-recipes/peach-blueberry-galette?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/79795e92-c591-4482-ab8d-2ff4297d0cf0.jpg?ver=1465824926000"
+  img_alt: "A Guilt-Free Snack Enjoy a gluten-free chip with the perfect crunch! Delight in 4 delicious popchip flavors: Salted, Cheddar & Sour Cream, Tangy BBQ and Chili Cheese."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_Weekly_Email"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
