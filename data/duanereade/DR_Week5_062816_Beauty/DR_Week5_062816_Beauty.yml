@@ -1,0 +1,55 @@
+title: 'Here comes the sun…'
+
+primary_color: '#999999'
+
+pre_header_text: 'And there’s never been a better time for these top-rated sunscreens'
+
+logo_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week5_062816_Beauty_header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+
+footer_text: 'The contents of this email and health related information and resources on the Duane Reade website ("Contents") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade  does not guarantee the applicability or accuracy of any information mentioned in the Contents.<br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=hBXB7lnB8c6slB9MRfCAAAAAAAe&email'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 10005'
+
+# Loop through articles
+
+articles:
+- type: "image"
+  url: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  img: "http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week5_062816_Beauty_02.jpg"
+  img_alt: "Discover dermatologist recommended sun care solutions from Europe’s leading skincare brands at your local Duane Reade Look Boutique or Skin Care Wellness Center."
+
+
+footernav:
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Photo"
+  link: "http://photo.walgreens.com/walgreens/welcome"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+socialnav:
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week5_062816_Beauty_fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week5_062816_Beauty_tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week5_062816_Beauty_site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'http://f.duanereadedrugstore.com/i/44/2087955237/DR_Week5_062816_Beauty_spacer.gif'
