@@ -1,0 +1,140 @@
+title: 'Savory & Sweet Side of Summer'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+logo_alt: ''
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d824b14e-f5e3-4e65-bb0b-66783ba1c37d.jpg?ver=1465938139000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/261be3d9-3e40-4675-8c36-cbff9fbe8e04.jpg?ver=1465938140000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b68f792f-6c6f-42e7-bb4f-1a9663b2d64f.jpg?ver=1465938139000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e19fa903-b826-43ed-aebe-b9bbed364993.jpg?ver=1466531142000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/appetizers?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a375c07d-a67a-4c7d-8dfb-9f246a455307.jpg?ver=1466531143000'
+  img_alt: "Where Sweet & Savory Shine Savor the season with fresh summer fruit and decadent gourmet cheese. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/appetizers?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/66f2af03-ca9b-471e-b100-378db78ed496.jpg?ver=1466531143000'
+  img_alt: "Make it Grilled Pineapple Skewers with Citrus Mint Glaze View Recipe > "
+
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e68663ac-5cdc-432c-aed6-f8fd8addb5d7.jpg?ver=1466531143000'
+  img_alt: "Store-Made | Summer Fruit"
+
+- type: "image-2-columns"
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f18c1bec-9f67-488f-96c7-62d9b5ad2c64.jpg?ver=1466531143000'
+  img_alt: 'Pineapple Skewers'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0617_BLD_Weekly_Email_Div01'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9f96e53e-0ccd-4400-a644-ad53adf2573f.jpg?ver=1466531143000'
+  img_alt_2: 'Fresh-Cut Mango'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f6d6dfe0-9d18-4df6-8d53-5621285e5bbc.jpg?ver=1466531143000'
+  img_alt: 'Savory Additions | Gourmet Cheese'
+
+- type: "image-2-columns"
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a384910d-e617-46da-a049-86e25ee607ce.jpg?ver=1466531144000'
+  img_alt: "Campo de Montalban • Blend of cow, sheep and goat's milk • Sweet, warm, nutty flavor" 
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5f39e2bc-e6ef-4e0e-b638-3b8b94505a8b.jpg?ver=1466531144000'
+  img_alt_2: Caña de Cabra • Soft ripened goat cheese • Creamy with hints of citrus in the finish"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/salads?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c6727041-a951-4bf7-90a3-1ee939ccb271.jpg?ver=1466531144000'
+  img_alt: 'Summer Recipes| Sweet & Savory Bites'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/salads?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8d72a3a5-0f79-4e0f-8ff8-6ed98b33bd82.jpg?ver=1466531144000'
+  img_alt: "Prosciutto, Cantaloupe & Burrata Bruschetta View Recipe > "
+
+- type: "image-2-columns"
+  url: 'http://www.balduccis.com/recipes/salads?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0d13911c-6f02-45f8-bda3-d61d5db4b28f.jpg?ver=1466531144000'
+  img_alt: "Pear, Goat Cheese & Pomegranate Salad View Recipe > " 
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0df65ce8-ee04-4462-9139-2af72f97f67e.jpg?ver=1466531144000'
+  img_alt_2: "Tomato, Watermelon & Feta Salad View Recipe > "
+
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d2d11064-33b4-407d-a6f7-d35ddfbd73df.jpg?ver=1466531144000'
+  img_alt: 'Fresh Ideas | Veggies with a Twist '
+
+- type: "image-2-columns"
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dddd32c1-53a5-449b-a5af-dbb2d918d991.jpg?ver=1466531144000'
+  img_alt: 'Veggie Kabobs & Sweet Potato Planks '
+  url_2: 'http://www.balduccis.com/recipes/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a81ec99-99bb-4dec-94ea-36642ea467be.jpg?ver=1466531145000'
+  img_alt_2: 'Zucchini & Squash Noodles '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9cf80255-dd9f-4bf8-aa9c-28cbb9ecafdb.jpg?ver=1466531145000'
+  img_alt: "Recipe Idea: Spiralized Zucchini Pesto Pizza Watch Video >"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/82105ad7-2dbc-4203-a1e1-39d61638898c.jpg?ver=1466531145000'
+  img_alt: "What's New | At Balducci's "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9216766c-eaeb-4c93-aa7c-f3d8db6824db.jpg?ver=1466531145000'
+  img_alt: "New Tempura Chicken Sushi Rolls A new way to eat sushi! Tempura battered chicken and fresh vegetables make for a fun and delicious meal that's also high in protein. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4305e634-84a6-453a-b831-64b5ab349842.jpg?ver=1466531146000'
+  img_alt: "New Fresh Norwegian Salmon Fillets Typically considered a delicacy, salmon from the fjords of Norway is the highest quality, premium and responsibly sourced salmon. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0624_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/74e682bd-817b-420a-9f1c-c2bbd21a1cba.jpg?ver=1466531145000'
+  img_alt: "Last-Minute 4th of July Catering Treat your guests to authentic BBQ prepared by Balducci's chefs. Our BBQ menu is filled with mouthwatering entrées and sides that are sure to please. Order Now > "
+
+
+
+
+
+
+
