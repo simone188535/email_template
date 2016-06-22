@@ -1,0 +1,117 @@
+title: ''
+
+pre_header_text: ''
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="HEADER - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+header_logo_img: "images/CTS_041_062916_Beach_01.jpg"
+header_logo_alt: "Christmas Tree Shops&reg; and That!&trade;"
+header_logo_height: "60"
+header_logo_width: "264"
+
+
+header_Arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\"reportname=\"TOP NAV - NEW ARRIVALS\"urlId=\"64083\"target=\"_blank\"frontuid=\"127521'
+header_Arrivals_img: "images/CTS_041_062916_Beach_02.jpg"
+header_Arrivals_alt: "NEW ARRIVALS"
+header_Arrivals_height: "60"
+header_Arrivals_width: "109"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/seasonal.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="TOP NAV - SEASONAL&GIFTS" urlId="64083" target="_blank" frontuid="127521'
+header_outdoor_img: "images/CTS_041_062916_Beach_03.jpg"
+header_outdoor_alt: "SEASONAL & GIFTS"
+header_outdoor_height: "60"
+header_outdoor_width: "133"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__\" reportname=\"TOP NAV - CLEARANCE\" urlId=\"64083\" target=\"_blank\" frontuid=\"127521'
+header_clearance_img: "images/CTS_041_062916_Beach_04.jpg"
+header_clearance_alt: "CLEARANCE"
+header_clearance_height: "60"
+header_clearance_width: "94"
+
+
+socialnav:
+- img: "images/CTS_041_062916_Beach_12.jpg"
+  alt: " "
+  link: "#"
+  width: '143'
+  height: '73'
+
+- img: "images/CTS_041_062916_Beach_13.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - FACEBOOK" urlId="64083" target="_blank" frontuid="127521'
+  width: '52'
+  height: '73'
+
+- img: "images/CTS_041_062916_Beach_14.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - PINTEREST" urlId="64083" target="_blank" frontuid="127521'
+  width: '43'
+  height: '73'
+
+- img: "images/CTS_041_062916_Beach_15.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - INSTAGRAM" urlId="64083" target="_blank" frontuid="127521'
+  width: '47'
+  height: '73'
+
+- img: "images/CTS_041_062916_Beach_16.jpg"
+  alt: "Find a store near you >"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - FIND A STORE" urlId="64083" target="_blank" frontuid="127521'
+  width: '165'
+  height: '73'
+
+- img: "images/CTS_041_062916_Beach_17.jpg"
+  alt: " "
+  link: "#"
+  width: '150'
+  height: '73'
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/CTS_041_062916_Beach_05.jpg"
+    img_alt: 'JUNE 29 - JULY 2, 2016 Sand, Sun & BEACH FUN IN-STORE & ONLINE 19.99 EACH SAND CHAIRS 3-position high seat or 5-position lie flat styles. Additional styles available $12.99-29.99. Selections will vary by store.'
+    url: 'http://www.christmastreeshops.com/category/seasonal/summer/beach+%26+pool.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width: '600'
+    height: '626' 
+
+  - type: "image-2-columns"
+    img: "images/CTS_041_062916_Beach_06.jpg"
+    img_alt: '39.99 EACH EASY-FOLD BEACH AND POOL BUGGIES Includes dual swivel wheels, pvc bag and umbrella holder. 25&#34;w x 30&#34;l x 37&#34;h.'
+    url: 'http://www.christmastreeshops.com/product/blue+cargo-carrying+beach+buggy.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width: '324'
+    height: '544'
+    img_2: "images/CTS_041_062916_Beach_07.jpg"
+    img_alt_2: '2.49 EACH NOVELTY TOWEL CLIPS & 2-PK SOLID COLOR CLIPS'
+    url_2: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width_2: '276'
+    height_2: '544' 
+
+  - type: "image"
+    img: "images/CTS_041_062916_Beach_08.jpg"
+    img_alt: '39.99 EACH RAPID RIDER II 2-PERSON TUBES Also available: Swim Comfort Lounges $19.99 ea.'
+    url: 'http://www.christmastreeshops.com/product/rapid+rider+2-person+tube.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width: '600'
+    height: '363'
+
+  - type: "image-2-columns"
+    img: "images/CTS_041_062916_Beach_09.jpg"
+    img_alt: '19.99 EACH 8&#39; BEACH UMBRELLAS WITH ADJUSTABLE POLE Also available: 7&#34; beach umbrellas with crank tilt. $14.99 ea. Styles may vary by store.'
+    url: 'http://www.christmastreeshops.com/category/seasonal/summer/beach+%26+pool.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width: '299'
+    height: '518'
+    img_2: "images/CTS_041_062916_Beach_10.jpg"
+    img_alt_2: '39.99 EACH MARGARITAVILLE® BACKPACK BEACH CHAIRS'
+    url_2: 'http://www.christmastreeshops.com/product/margaritaville%26reg-+3-position+backpack+chair+with+cooler.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width_2: '301'
+    height_2: '518'
+
+  - type: "image"
+    img: "images/CTS_041_062916_Beach_11.jpg"
+    img_alt: '12.99 EACH SPORTS TEAM BEACH TOWLES 28&#34; x 58&#34;. Teams vary by store.'
+    url: 'http://www.christmastreeshops.com/category/seasonal/summer/beach+%26+pool.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width: '600'
+    height: '418'
+
+
