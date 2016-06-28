@@ -1,0 +1,140 @@
+title: 'Time for a Red, White and Blue BBQ'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email'
+
+logo_img: ''
+logo_alt: 'Kings Food Markets'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d10a1acb-5412-4a5f-be2e-ef1bbf1579cf.jpg?ver=1467032462000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/18373120-4c98-4a14-af0b-c3929affe549.jpg?ver=1467032462000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/63ea7f16-0c99-4bf2-adf6-d848a729d07d.jpg?ver=1467032462000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8a41884b-4dd3-4073-b21a-84cc3c323b3f.jpg?ver=1467032462000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5c9a3bf9-64ec-42de-a2ad-4cb2d0ba2227.jpg?ver=1467032458000"
+  img_alt: "Inspiring 80 Years of Red, White, Blue & BBQ Fresh ideas for a festive 4th of July."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/788b932c-c595-4421-9e96-712a8b8834a1.jpg?ver=1467032459000"
+  img_alt: "Patriotic Pies | All-American Dessert Sale"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b0467123-c036-4b45-ad67-bed96e83fd1c.jpg?ver=1467032459000"
+  img_alt: "Kings Fresh Baked Apple, Blueberry or Cherry Pie 32 OZ. 11.99 EA."
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3eed5858-4b64-49d1-9877-364bd1a304d8.jpg?ver=1467032459000"
+  img_alt: "View More &#62;"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6fd5723e-2ea0-49d4-a9df-b049d5cd0a2a.jpg?ver=1467032460000"
+  img_alt: "Market Specials | Get Your Grill On"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8906d2d-e372-4485-a814-4f48d4a5ef9d.jpg?ver=1467032460000"
+  img_alt: "Kings Fresh Beef or Chicken Kabobs 5.99 LB."
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f89a6aa3-f0a4-4dca-94bd-6c0f701430ca.jpg?ver=1467032460000"
+  img_alt_2: "Kings USDA Prime Aged Certified Angus 90% Lean Beef Burgers 5.99 LB."
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f2d72869-ad3a-45e7-9140-c31696fef75a.jpg?ver=1467032461000"
+  img_alt: "KINGS Marinades & Sauces"
+  url: "http://kingsfoodmarkets.com/kings-own-brand/marinades?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f8298b68-354c-4947-84f1-fc3831611a50.jpg?ver=1467032461000"
+  img_alt_2: "KINGS Cheese"
+  url_2: "http://kingsfoodmarkets.com/kings-own-brand/kings-cheese?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/15590470-044b-4aed-962d-0ee6d06f035a.jpg?ver=1467032461000"
+  img_alt: "View Weekly Specials &#62;"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/98d2755a-a528-4e73-9225-8f00693eeecd.jpg?ver=1467032461000"
+  img_alt: "Recipes for the 4th | Red, White & Blue Eats"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/882b19a0-453d-49ad-b52d-eedc41752240.jpg?ver=1467032461000"
+  img_alt: "Patriotic Kings Berry Kabobs View Recipe &#62;"
+  url: "http://kingsfoodmarkets.com/unique-recipes/patriotic-kings-berry-kabobs-served-with-raspberry-puree?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4199a77b-35f7-4177-a0e2-da19938e1a92.jpg?ver=1467032461000"
+  img_alt_2: "Red, White & Blueberry-Strawberry Shortcake Jars View Recipe &#62;"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/red-white-blueberry-strawberry-shortcake-jars?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b1ec7002-e18c-4707-b9e6-a76a6b16f637.jpg?ver=1467032461000"
+  img_alt: "July 4th Catering | Let Us Do the Work Enjoy your family and friends while Kings Catering serves up classic grilling eats for your 4th of July celebration."
+  url: "http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1aea7ba6-b2d6-4d48-b8b7-987e61a86ad4.jpg?ver=1467032462000"
+  img_alt: "BBQ Pork Spare Ribs"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2a64f4ba-b40b-498f-8753-49d04e42fd20.jpg?ver=1467032462000"
+  img_alt_2: "Chipotle Bacon Potato Salad"
+  url_2: "http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bcdab589-b041-4423-b98b-17c8463588c0.jpg?ver=1467032461000"
+  img_alt: "View More &#62;"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/spring-and-summer-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b132e8d5-318c-46fe-a189-c6ac0f0eb539.jpg?ver=1467032462000"
+  img_alt: "What&#39;s New In Store"
+  url: "http://www.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e3a2e875-668d-45f3-9722-0cc59caecf39.jpg?ver=1467032462000"
+  img_alt: "Joey&#39;s Patriotic Cookies A decadent Black & White Cookie in Red/White and Blue/White. Perfect fulfillment when your sweet tooth starts to call."
+  url: "http://www.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
+- type: "image" 
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1a9d46d1-9864-4a6f-937c-88321fbf01ab.jpg?ver=1467032462000"
+  img_alt: "Quinoa Pops Get a fiber boost with NEW Quinoa Pops. This natural snack packs protein, fiber PLUS healthy fats and carbohydrates. Try all three flavors: Vanilla, Chocolate and Cinnamon!"
+  url: "http://www.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_Weekly_Email"
+
