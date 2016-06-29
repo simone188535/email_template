@@ -1,0 +1,81 @@
+title: 'Everything&#39s Coming Up Rosés!'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_ShortHills'
+
+logo_img: ''
+logo_alt: 'Kings Food Markets'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_ShortHills'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_ShortHills'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_ShortHills'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_ShortHills'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_ShortHills"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/816bb721-6ade-4fa1-b328-3bb718b8c07d.jpg?ver=1467215277000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/34b972e8-fb4a-4d46-b9ce-b9a7642361e5.jpg?ver=1467215278000 "
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7d41eea1-0432-4389-b94f-5d7ad01d2470.jpg?ver=1467215277000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c5683f4c-f6cc-4c8a-a19d-9b9a13b719ed.jpg?ver=1467215278000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ac8b65aa-cecb-48ba-8703-1e25c29f6868.jpg?ver=1467215277000"
+  img_alt: "Celebrating 80 Years Inspiration since 1936 "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_ShortHills"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c97d64b2-b3a7-4646-b008-3fe0969dd1db.jpg?ver=1467215277000"
+  img_alt: "RIDGEWOOD&#39S &#34Everything&#39s Coming Up Rosés&#34 Tasting Event Join us for a tasting of our favorite summer dry rosé wines - perfect when served chilled on a hot summer&#39s day. PLUS: • Meet Renowned Tastemakers • Sample Decadent Cheese"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_ShortHills"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/66973b7b-009f-4303-b052-f7a012250bcd.jpg?ver=1467215277000"
+  img_alt: "RIDGEWOOD&#39S &#34Everything&#39s Coming Up Rosés&#34 Tasting Event Join us for a tasting of our favorite summer dry rosé wines - perfect when served chilled on a hot summer&#39s day. PLUS: • Meet Renowned Tastemakers • Sample Decadent Cheese"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_ShortHills"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/40c504ab-e612-4c1f-8901-97cd21b628b3.jpg?ver=1467215277000"
+  img_alt: "Kings Short Hills • 778 Morris Turnpike • 973.258.4000"
+  url: "http://kingsfoodmarkets.com/store-locator/short-hills?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_ShortHills"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
