@@ -1,0 +1,81 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_Ridgewood'
+
+logo_img: ''
+logo_alt: 'Kings Food Markets'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_Ridgewood'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_Ridgewood'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_Ridgewood'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_Ridgewood'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_Ridgewood"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b8392d49-1637-4d72-aa1e-9573cdbe1c13.jpg?ver=1467213201000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5309c6b4-53c7-4a06-b042-3cf3699aa737.jpg?ver=1467213201000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/97cb1d4d-0bc8-4a4c-b85d-1d126d9eae21.jpg?ver=1467213201000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f135d922-4aab-4320-9ac3-8867c1a0146b.jpg?ver=1467213201000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/66ec618d-6fa5-440b-91fd-125c7026b2dc.jpg?ver=1467213201000"
+  img_alt: "Celebrating 80 Years Inspiration since 1936 "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_Ridgewood"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/55366c74-fb85-4a9a-84df-a6c3ed15f5c7.jpg?ver=1467213201000"
+  img_alt: "RIDGEWOOD&#39S &#34Everything&#39s Coming Up Rosés&#34 Tasting Event Join us for a tasting of our favorite summer dry rosé wines - perfect when served chilled on a hot summer&#39s day. PLUS: • Meet Renowned Tastemakers • Sample Decadent Cheese"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_Ridgewood"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b77e9b5f-4741-44e6-9b56-5faa854494e9.jpg?ver=1467213201000"
+  img_alt: ""
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_Ridgewood"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/00725e89-feba-4b60-bca8-1288b41b0b10.jpg?ver=1467213201000"
+  img_alt: "Kings Ridgewood • 112 N. Maple Avenue • 201.493.4924"
+  url: "http://kingsfoodmarkets.com/store-locator/ridgewood?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WineSolo_Ridgewood"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
