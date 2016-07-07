@@ -1,0 +1,48 @@
+title: 'Your 10% Off Coupons Are Here!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0984ff9-8445-4e08-bca8-220f45be5821.jpg?ver=1467292845000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ef668213-7f1b-4abe-9f4e-91ac66305101.jpg?ver=1464754031000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e1bf8ae6-9671-4f9d-a301-c66769dc7580.jpg?ver=1467292845000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/78d3d035-81db-4928-ad20-4ff70d40d001.jpg?ver=1467292846000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0984ff9-8445-4e08-bca8-220f45be5821.jpg?ver=1467292845000'
+  img_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/01bacdc9-0a9e-4d89-82fc-79706e3bd68f.jpg?ver=1467292845000'
+  img_alt: "Just for you! Make your summertime outings easier with delicious Chef Prepared dishes  to pick up and pop into your cooler. Keep your cool and impress your guests with our BBQ catering menu for effortless ease with any event! We also included a 10% off Total coupon for you to enjoy on your next purchase or Catering order, and two additional 10% off coupons for your Prepared Foods or Fresh Meat orders. Your Balducci&#39;s Store TeamAny Questions? Contact myBalducci&#39;s at 1.844.884.9809 or customerservice@mybalduccis.com"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6707b281-401e-4e9e-9a87-1f7849d04fdc.jpg?ver=1467292845000'
+  img_alt: "July Savings Coupons MUST be printed and provided to cashier at time of purchase. Coupon valid for one time use only and one per household."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/09d76ab7-7eff-47f0-85e5-c9a201958e8d.jpg?ver=1467292845000'
+  img_alt: "Balducci&#39;s Coupon: 10% OFF your total purchase Valid through 7/31/2016 073866901521 Terms & Conditions Apply. Balducci&#39;s Coupon: 10% OFF any prepared foods department purchaseValid through 7/31/2016 073866901507 Terms & Conditions Apply. Balducci&#39;s Coupon: 10% OFF any fresh meat department purchaseValid through 7/31/2016 073866901514 Terms & Conditions Apply."

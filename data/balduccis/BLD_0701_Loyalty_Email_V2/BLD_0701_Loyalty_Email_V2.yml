@@ -1,0 +1,48 @@
+title: 'Your 10% Off Coupons Are Here!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div2'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9e33ed29-43da-4698-9711-28bdab994907.jpg?ver=1467295510000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div2"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ef668213-7f1b-4abe-9f4e-91ac66305101.jpg?ver=1464754031000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7ca1eb42-9647-4700-93b6-c91ad0c66ba0.jpg?ver=1467295510000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/592c34d0-923f-47ef-b458-c3589fbfcd8a.jpg?ver=1467295510000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div2'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9e33ed29-43da-4698-9711-28bdab994907.jpg?ver=1467295510000'
+  img_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div2'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f499cb57-f478-452b-928e-395f80dade99.jpg?ver=1467295509000'
+  img_alt: "Just for you! 10% OFF Your Total Purchase & 10% OFF Fresh Meat"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div2'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e2037566-6783-401f-9f38-b6dffd9e498a.jpg?ver=1467295510000'
+  img_alt: "Just for you! Your 10% OFF Coupons are loaded on your card. Valid through 7/31/16. NO NEED TO CARRY COUPONS. Summer’s Heating Up! Make your summertime outings easier with delicious Chef Prepared dishes to pick up and pop into your cooler. Keep your cool and impress your guests  with our BBQ catering menu for effortless ease with any event! Your Balducci&#39;s Store Team Any Questions? Contact myBalducci&#39;s at 1.844.884.9809 or customerservice@mybalduccis.com COUPON TERMS & CONDITIONS: 10% off Total Purchase: Offer valid at all stores, except our airport locations. Must provide Balducci’s Rewards  Card or phone number. Limit one offer per customer per visit. Limit one offer per catering order and must mention  coupon when placing an order. Coupon cannot be combined with any other coupon or used on alcohol purchases. No cash refunds. Not valid on purchase of gift cards and online purchases. 10% Off Fresh Meat: Offer valid at all stores, except our airport locations. Must provide Balducci&#39;s Rewards Card or phone  number. Limit one offer per customer per visit. Not valid on catering or grocery items. Coupon cannot be combined with  any other coupon or used on alcohol purchases. No cash refunds. Not valid on purchase of gift cards or online purchases."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div2'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c49cf6f6-2cd0-4081-a9ec-9b9f2068709b.jpg?ver=1467295510000'
+  img_alt: "Just for you! Your 10% OFF Coupons are loaded on your card. Valid through 7/31/16. NO NEED TO CARRY COUPONS. Summer’s Heating Up! Make your summertime outings easier with delicious Chef Prepared dishes to pick up and pop into your cooler. Keep your cool and impress your guests  with our BBQ catering menu for effortless ease with any event! Your Balducci&#39;s Store Team Any Questions? Contact myBalducci&#39;s at 1.844.884.9809 or customerservice@mybalduccis.com COUPON TERMS & CONDITIONS: 10% off Total Purchase: Offer valid at all stores, except our airport locations. Must provide Balducci’s Rewards  Card or phone number. Limit one offer per customer per visit. Limit one offer per catering order and must mention  coupon when placing an order. Coupon cannot be combined with any other coupon or used on alcohol purchases. No cash refunds. Not valid on purchase of gift cards and online purchases. 10% Off Fresh Meat: Offer valid at all stores, except our airport locations. Must provide Balducci&#39;s Rewards Card or phone  number. Limit one offer per customer per visit. Not valid on catering or grocery items. Coupon cannot be combined with  any other coupon or used on alcohol purchases. No cash refunds. Not valid on purchase of gift cards or online purchases."

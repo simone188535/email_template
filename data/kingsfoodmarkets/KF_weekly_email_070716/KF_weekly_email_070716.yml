@@ -1,0 +1,158 @@
+title: 'Shop Local. Eat Local.'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email'
+
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0c9f6583-e898-454b-882c-3e1f5f44a5b8.jpg?ver=1467730070000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8fb58b01-7f71-43f6-8f0c-d6dab70dce7f.jpg?ver=1467730070000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c3719753-1c30-4ba2-89f5-4a95d84fa2bd.jpg?ver=1467730071000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/04aeba5b-1e7f-4523-aebd-b698353107f3.jpg?ver=1467730071000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b53fa2e5-fa6b-4de1-a85d-89d28fcf46b7.jpg?ver=1467730067000"
+  img_alt: "Celebrating 80 Years Inspiration Since 1936 Celebrating 80 Years Of Farm Fresh Flavor"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9767aa2f-cdd8-46f7-a1e9-6cb53b00d054.jpg?ver=1467730067000"
+  img_alt: "Local Farms | Meet Our Local Farmers"
+  url: "http://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4bb84d19-ed56-4eec-a963-aa3e9d6cb0ca.jpg?ver=1467730068000"
+  img_alt: "Hepworth Farms Milton, New York • Over 400 varieties of organic vegetables • Crops include tomatoes, peppers, eggplant, zucchini, cucumbers and a variety of greens"
+  url: "http://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0d0d4094-8ac5-4c3e-aa67-ff0cfb80a860.jpg?ver=1467730067000"
+  img_alt: "Cassaday Farms Monroeville, New Jersey • Over 1,500 acres of non-GMO produce • Crops include corn, summer squash, broccoli and strawberries"
+  url: "http://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e9b8972e-b2b2-46cc-bfbf-870f07ffabf1.jpg?ver=1467730070000"
+  img_alt: "Jersey Legacy Farms Cedarville, New Jersey • Strong focus on crop rotation and soil quality• Crops include tomatoes, peppers, cucumbers, squash, lettuce, sweet corn and eggplant"
+  url: "http://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e53cc6e0-c96a-447a-a577-923bdf3a05d9.jpg?ver=1467730069000"
+  img_alt: "Sheppard Farms Cedarville, New Jersey • 1,500 acres in rotational production• Crops include asparagus, cucumbers, lettuce and bell peppers"
+  url: "http://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e42ee1cf-8611-4d82-9a87-7c607512182f.jpg?ver=1467730068000"
+  img_alt: "Local and Fresh | Jersey Farms"
+  url: "http://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ee851654-3896-4fe5-acf1-3d14f190faaa.jpg?ver=1467730071000"
+  img_alt: "Locally Grown Eggplant"
+  url: "http://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/389cbc60-6d3b-423d-a070-cba8fc0e5909.jpg?ver=1467730072000"
+  img_alt_2: "Locally Grown Green & Yellow Squash"
+  url_2: "http://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7c991db6-0c29-468b-8b10-c7d83f10a227.jpg?ver=1467730068000"
+  img_alt: "Storage Tips | How to Store Fresh, Seasonal Produce"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e98a56e5-e279-4b8a-bf2d-85fc900851cf.jpg?ver=1467730068000"
+  img_alt: Strawberries Store in the fridge. Refrigerate 5-7 days"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/13fa00b3-0cb8-4c9e-a19e-5b912c22a754.jpg?ver=1467730072000"
+  img_alt_2: "Cherries Store on the counter until ripe. Refrigerate up to 5 days"
+  url_2: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b19c2033-0c5b-4615-9026-b959ad2783d5.jpg?ver=1467730069000"
+  img_alt: "Peaches Store on the counter until ripe. Refrigerate up to 7 days"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9466e16d-83f4-4a0e-86e6-6fc197b655fb.jpg?ver=1467730071000"
+  img_alt_2: "Red, Yellow or Orange Peppers Store in the fridge. Refrigerate 3-4 days"
+  url_2: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d2f787bc-7afd-4a7c-ab2f-939184481d5c.jpg?ver=1467730069000"
+  img_alt: "View More Produce Tips &#62;"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3fa74dcf-be2a-4e59-a5ce-0b5b7e95e495.jpg?ver=1467730069000"
+  img_alt: "Fresh Recipes | Inspired Ideas for Seasonal Produce"
+  url: "http://kingsfoodmarkets.com/unique-recipes/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ae9ac18d-4deb-47f2-88a9-2f110ffc7161.jpg?ver=1467730070000"
+  img_alt: "Baby Greens with Jumbo Oranges, Grapefruit & Pistachios View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes/organic-baby-greens-or-spinach-with-orange-grapefruit-pistachios-and-citrus?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d3f06e7d-d0cd-4f48-9475-a5d61e1aaf54.jpg?ver=1467730070000"
+  img_alt_2: "Watermelon, Blueberry & Feta Salad View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/watermelon-blueberry-feta-salad?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ea3166d1-5a11-490f-9c16-c2bfc8dc02fb.jpg?ver=1467730071000"
+  img_alt: "Chef Prepared | Fresh Farm-Inspired Eats"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a1ce3b49-f9bb-45cd-8b5b-3da5d0f02711.jpg?ver=1467730070000"
+  img_alt: "Portobello Mushroom Tower"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22bd52fd-3075-400b-89eb-6dec7f472d38.jpg?ver=1467730070000"
+  img_alt_2: "Chef Inspired Superfood Salad"
+  url_2: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9f0bfc1f-187f-4545-889c-b891706f65a5.jpg?ver=1467730070000"
+  img_alt: "View More Chef Prepared &#62;"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/72dabd66-f978-430e-84f5-2f9f90182e9a.jpg?ver=1467730071000"
+  img_alt: "What's New In Store"
+  url: "http://www.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
+- type: "image" 
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4db05649-8b8d-4c5d-b94f-2f6b08a2705b.jpg?ver=1467730070000"
+  img_alt: "Introducing Morristown Outdoor Eatery Head outdoors to enjoy a Chef Prepared meal in the beautiful weather. The outdoor dining area opens this weekend."
+  url: "http://www.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_Weekly_Email"
+
