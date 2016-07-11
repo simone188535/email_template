@@ -1,0 +1,76 @@
+title: 'FLEXIBLE TEMPLATE'
+
+primary_color: '#999999'
+
+pre_header_text: 'And earn 5,000 bonus points at Duane Reade'
+
+#header
+
+header_logo_img: 'images/logo.jpg'
+header_logo_link: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="HEADER - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521"'
+header_logo_alt: 'Christmas Tree Shops® and That!™'
+header_arrival_img: 'images/newarrivals.jpg'
+header_arrival_link: http://www.christmastreeshops.com/category/new-arrivals.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="TOP NAV - NEW ARRIVALS" urlId="64083" target="_blank" frontuid="127521"'
+header_arrival_alt: 'New Arrivals'
+header_outdoor_img: 'images/outdoor.jpg'
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="TOP NAV - OUTDOOR" urlId="64083" target="_blank" frontuid="127521"'
+header_outdoor_alt: 'Outdoor'
+header_clearance_img: 'images/clearence.jpg'
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="TOP NAV - CLEARANCE" urlId="64083" target="_blank" frontuid="127521"'
+header_clearance_alt: 'Clearance'
+
+
+# Loop through articles
+
+articles:
+
+- type: 'image-2-columns'
+  url: '#zeta'
+  img: 'images/CTS_052716_Memorial-Day_BBQ_05.jpg'
+  img_alt: 'Buy More, Save More! $10 OFF ANY PURCHASE OF $50 OR MORE VALID THROUGH MAY 30, 2016 See coupon for complete details. CLICK HERE TO GET COUPON SHOP ONLINE! Use this promo code to save MEMORIAL10OFF'
+  url_2: '#Zeta'
+  img_2: 'images/CTS_052716_Memorial-Day_BBQ_06.jpg'
+  img_alt_2: '$20 OFF ANY PURCHASE OF $100 OR MORE VALID THROUGH MAY 16, 2016 See coupon for complete details. CLICK HERE TO GET COUPON SHOP ONLINE! Use this promo code to save MEMORIAL20OFF OFFERS CANNOT BE COMBINED. SPREAD THE SAVINGS! SHARE WITH YOUR FAMILY & FRIENDS CLICK HERE TO SHARE'
+
+- type: 'image-2-columns'
+  url: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="HEADER - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+  img: 'images/CTS_052716_Memorial-Day_BBQ_07.jpg'
+  img_alt: 'DOOR BUSTER DEAL! WHILE SUPPLIES LAST! $1.49 EACH Reg. $2.99 ea. Pam® Cooking Sprays Original, Baking and Grilling. 5-6 oz. 50% OFF '
+  url_2: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="HEADER - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+  img_2: 'images/CTS_052716_Memorial-Day_BBQ_08.jpg'
+  img_alt_2: "GET Grillin' $2.99 EACH Pork Barrel BBQ Sauces 14 oz. Also available: Wet-naps Lemon Scented 54-ct. $2.49 pkg."
+
+- type: 'image-2-columns'
+  url: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="HEADER - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+  img: 'images/CTS_052716_Memorial-Day_BBQ_09.jpg'
+  img_alt: '$1PKG. Paper Goods  Party Décor $1.99 & Under.'
+  url_2: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="HEADER - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+  img_2: 'images/CTS_052716_Memorial-Day_BBQ_10.jpg'
+  img_alt_2: "$2.99 & UNDER Plastic Partyware"
+
+- type: 'image-2-columns'
+  url: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="HEADER - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+  img: 'images/CTS_052716_Memorial-Day_BBQ_11.jpg'
+  img_alt: '$149.99 EACH Thermos® by Char-Broil® 4-Burner Grills 48,000 BTU porcelain-stamped steel grates. Electric ignition. Also available: Grilling Accessories $19.99 & Under; BBQ Grill Set, GrillBasket and Divided Grill Basket.'
+  url_2: 'http://www.christmastreeshops.com/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="HEADER - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+  img_2: 'images/CTS_052716_Memorial-Day_BBQ_12.jpg'
+  img_alt_2: "$16.99 EACH Resin Adirondack Chairs EACH Available in 5 colors: Blue, Green, Coral, Violet and Antique White."
+
+- type: "image"
+  url: "images/CTS_052716_Memorial-Day_BBQ_13.jpg"
+  img: "http://www.christmastreeshops.com/category/code/have-a-seat.do"
+  img_alt: "IN-STORE & ONLINE! WHILE SUPPLIES LAST! INDOOR/OUTDOOR CUSHIONS "
+
+socialnav:
+- img: "images/facebook.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/pinterest.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Pinterest"
+- img: "images/instagram.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Instagram"
+- img: "images/store.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
