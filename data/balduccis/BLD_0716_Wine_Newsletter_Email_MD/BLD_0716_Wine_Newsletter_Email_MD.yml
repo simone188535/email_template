@@ -1,0 +1,80 @@
+title: 'Summer Wines & the Livin’ is Easy'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD'
+logo_alt: 'Balducci&#39;s Food Lover&#39;s Market'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6264b095-27e6-4bfa-8935-cf7f78bcd99b.jpg?ver=1468435545000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/89964d52-bc9a-4e66-83d7-ca4687b23943.jpg?ver=1468435545000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/daae88b6-cd12-45f9-b913-cc3c6c8c7b74.jpg?ver=1468435546000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/824b10c2-1a47-4799-9196-1a76cc899f79.jpg?ver=1468435545000'
+  img_alt: 'Wine Newsletter July 2016'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9a305cb8-f487-4e28-a87a-2cd0f99512d9.jpg?ver=1468435545000'
+  img_alt: 'July Wine Event Summer Wines Saturday, July 16, 2016 Food Tasting: 12pm-5pm Wine Tasting: 2pm-5pm Featuring • Wines for the Patio, Beach and Poolside • California Chardonnays • Extreme Value Wines Save 25% Mix & Match 12 Bottles Or More'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3eb22409-6d74-4e52-bfad-63c7329856a4.jpg?ver=1468435545000'
+  img_alt: 'Must Have Wines Chardonnay, the most planted white wine grape in the world, offers an enormous range of flavors and styles. Embrace the heart of summer with some of our favorite California Chardonnays…'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8a1dff1e-2b6e-458a-8825-6c83a1cd520a.jpg?ver=1468435545000'
+  img_alt: 'Balducci’s Chardonnay 2013 14.99/BTL A luscious wine offering intense pineapple, tropical fruit, citrus and pear, framed by caramel and creamy vanilla notes. Complex touches of butterscotch balance a zesty acidity and a long oaky and buttery finish.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/31781c48-2c1b-4f84-b465-8103303dd7ee.jpg?ver=1468435551000'
+  img_alt: 'MacRostie Chardonnay Sonoma Coast 2014 29.99/BTL 24.99 with Member Rewards 7/22 – 7/28 &#34;Features a delicious core of vibrant grapefruit and lemon-laced tangerine and white peach notes. Those who value zesty acidity will love this, as the acidity keeps the flavors fresh and jumping.&#34; -Wine Spectator 90pts.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ea5b0e88-c681-4e1f-8fb4-908d3b1ad7df.jpg?ver=1468435550000'
+  img_alt: 'Paul Hobbs Crossbarn Chardonnay Sonoma Coast 2014 31.99/BTL &#34;Crisp acidity, notes of apple blossom, tangerine oil and honeyed lemons in an extroverted, beautifully pure and natural style. This is delicious, and a terrific value in Chardonnay to drink over the next few years.&#34; -Robert Parker 92pts.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/34695fba-5100-4846-9911-bca0826f9144.jpg?ver=1468433849000'
+  img_alt: 'Alloy Chardonnay Central Coast 2014 9.99/BTL Perfect for the boat or beach, pool or patio, offering notes of vanilla, lemon, pears, almonds and pie crust in this classic California chardonnay...finally in a can!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c6ef3c0d-cce1-499e-bf2a-3feda404ab7e.jpg?ver=1468435545000'
+  img_alt: 'Summer Must Have | Peach Bellini White Peach Summer Bellini VIEW RECIPE It’s Bellini Season John Coleman, Balducci’s Wine Merchant When it’s this hot outside you know one thing- we’re in the heart of stone fruit season. Peaches, nectarines, cherries and plums are the best part of summer.  A must try this summer is the White Peach Summer Bellini- pairing the juicy flavors of ripe peaches with the toasty, creamy nuances of Prosecco.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0716_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c143722e-e969-4bd9-8b23-f1012fb85377.jpg?ver=1468435551000'
+  img_alt: 'Balducci’s Prosecco 14.99/BTL Hailing from the famous Gasparini estate near the town of Venegazzu, our Prosecco is lively, toasty and creamy with hints of hazelnut and candied fruits and a long, refreshing finish.'
+
+
