@@ -1,0 +1,126 @@
+title: 'It&#39;s a Blueberry Bonanza!'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email'
+
+logo_img: ''
+logo_alt: 'Kings Food Markets'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6aac8083-911c-45ec-9294-8c9073b49643.jpg?ver=1468851901000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/04dfeabd-074d-4e80-b459-a3f688ad021a.jpg?ver=1468851901000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c5b32e70-7c22-4878-b2e1-337a5e48ce5f.jpg?ver=1468851901000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e73287e6-c9c1-4836-9431-9cb4ced5e436.jpg?ver=1468851901000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b205a8f2-65ae-4759-9012-1bd439f3d568.jpg?ver=1468851899000"
+  img_alt: "Blueberry Bonanza Celebrate National Blueberry Month with these fresh ideas for this versatile (and healthy) summer fruit."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0077eeb5-b61f-4360-adfb-e1dd5cc6fc47.jpg?ver=1468851899000"
+  img_alt: "Fresh & In Season |  Celebrate With Summer’s Best Blueberries"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2619b69b-d1a6-4dd9-aa78-6fb11d0e6c26.jpg?ver=1468851899000"
+  img_alt: "Pick up the season's freshest blueberries at Kings and indulge in berry bliss. Organic Driscoll&#39;s Blueberries Pint 4.99 EA."
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3fe69f5f-19a4-4d86-8de8-0ffba4c65e62.jpg?ver=1468851899000"
+  img_alt: "View More Specials &#62;"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/79690b75-33a5-48f1-9623-3184300180e5.jpg?ver=1468851899000"
+  img_alt: "Blueberry Basics |  Get The Facts From Kings' Nutritionist"
+  url: "kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/02dc57ec-8ebf-40e6-b344-bcddbcbff9ab.jpg?ver=1468851899000"
+  img_alt: "Get the berry breakdown on the healthy benefits of this fantastic summer fruit. • Blueberries are a great source of vitamin C and can play a vital role in the growth of your tissues and healing wounds. • Looking for a good source of fiber? Blueberries are an excellent choice, plus they are low in calories—only 80 calories per cup. • This powerful berry is high in antioxidants and may help heart and brain health, as well as reducing the risk of cancer."
+  url: "kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d8dbc443-937b-43fa-8314-5cd7c40b2dbf.jpg?ver=1468851900000"
+  img_alt: "Recipes | Fresh Takes On Blueberries"
+  url: "kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e734d057-a6e7-43a7-981c-4d76cd502adb.jpg?ver=1468851899000"
+  img_alt: "Blueberry Banana Smoothie Pops View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes/blueberry-banana-smoothie-pops?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a48910bc-883a-4c8e-b263-fb1dc40558ce.jpg?ver=1468851900000"
+  img_alt_2: "Orange Basil Butter Chicken with Blueberry Herb Sauce View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/orange-basil-butter-chicken-with-blueberry-herb-sauce?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c2db5ebe-4226-4f50-a8af-d1b00ca85633.jpg?ver=1468851900000"
+  img_alt: "Blueberry Eats | Featured Blueberry Products"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/697b2412-705e-44e1-96e8-4f2ec8ba2232.jpg?ver=1468851900000"
+  img_alt: "Stonewall Blueberry Pancake & Waffle Mix"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/303cdbd2-ad27-4901-863b-5fb24a0b3aa1.jpg?ver=1468851900000"
+  img_alt: "Stonewall Wild Maine Blueberry Jam"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bb1482d5-de7f-4ff0-92d4-6861b5c8dc41.jpg?ver=1468851900000"
+  img_alt: "Rothschild Blueberry Lemon Ginger Dip"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e1cf9f11-242e-4e05-be71-7bc8b6c241d6.jpg?ver=1468851901000"
+  img_alt: "Thomas Blueberry Bagels"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0db95452-ff3b-404f-83ed-909568237c36.jpg?ver=1468851901000"
+  img_alt: "What&#39;s New In Store"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b0149d66-16e8-4352-9cda-96e6af60dddd.jpg?ver=1468851901000"
+  img_alt: "Taste the crunch! Late July organic, non-GMO tortilla chips are amazingly delicious, and just the right size for scooping your favorite salsa or guacamole. Choose from a variety of flavors for the perfect summer snack."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_Weekly_Email"
+
