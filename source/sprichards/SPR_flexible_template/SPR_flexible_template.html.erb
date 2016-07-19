@@ -1,5 +1,5 @@
 <% require 'active_support/all' %>
-<% instance_variable_set("@base_data_file", data.sprichards.flexible_template.flexible_template) %>
+<% instance_variable_set("@base_data_file", data.sprichards.SPR_flexible_template.SPR_flexible_template) %>
 <% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
  <head>
@@ -13,6 +13,38 @@
       /* This style block will be inlined when running 'grunt build' and stripped from the header */
 
       /* Resets */
+
+      .group-title {
+
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        font-weight: bold;
+        color: #000000;
+
+      }
+
+      .product_skus {
+
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        font-weight: bold;
+        color: #000000;
+      }
+
+
+      .product_link {
+
+        text-decoration: none;
+        color: #000000;
+
+
+
+      }
+
+
+
+
+
     .preHeader {
       display: none !important;
       color: #ffffff;
@@ -245,7 +277,8 @@
 
           .button-link {
             -webkit-text-size-adjust:none;
-            font-family: Helvetica, Arial, sans-serif;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
             text-decoration: none;
             line-height: 45px;
             display:inline-block;
@@ -400,6 +433,7 @@
         }
         td[class*="promo-button-cell"] {
           margin-bottom: 20px;
+          vertical-align: bottom;
         }
         td[class="preheader-text"] {
           font-size: 14px;
@@ -416,6 +450,9 @@
     
     
   </head>
+
+
+  <body>
       <!--
       Responsive framework: Antwort v1.0 - https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0)
 
@@ -469,23 +506,31 @@
                       <table>
                         <tr>
                           <td>
-                            <a href="<%= f["right_side_image_url"] %>"> 
+                          <table>
+                            <tr>
+                              <td valign="top" align="center" class=""><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="20">
+                              <td>
+                                <a class="product_link" href="<%= f["prod1_btn_url"] %>"> 
                               <div class ="group_title">
                                 <%= f["group_title"] %>
                               </div>
                               <br>
-                              <div class ="group_desc">
+                              <div style="font-size:10px; font-family:Arial" class ="group_desc">
                                 <%= f["group_desc"] %>
                               </div>
                             </a>
+                              </td>
+                            </tr>
+                          </table>                          
+                            
                           </td>
                         </tr>
                         <tr>
                           <td>
                             <table> <!-- red table> -->
                               <tr>
-                                <td><!-- // blank space -->
-
+                                <!-- // blank space -->
+                                <td valign="top" align="center" class=""><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="20">
                                 </td><!-- // end blank space -->
                                 <td><!-- prod1 info -->
                                   <table>
@@ -499,7 +544,7 @@
                                     <tr>
                                       <td>
                                         <div class ="product_skus">
-                                          <%= f["prod1_list_price"] %>
+                                          List Price: <%= f["prod1_list_price"] %>
                                         </div>
                                       </td>
                                     </tr>
@@ -517,7 +562,6 @@
                                       <td>
                                         <table border="0" width="100%" cellpadding="0" cellspacing="0">
                                           <tr>
-                                            <td valign="top" align="center" class=""><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="20"></td>
                                             <td valign="top" align="center" class="container">
                                             <!--[if mso]>
                                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -539,7 +583,7 @@
                                                           <table align="center" cellpadding="0" cellspacing="0" height="45" width="180" class="button-table">
                                                             <tbody>
                                                               <tr>
-                                                                <td align="center" bgcolor="<%= f["prod1_btn_color"] %>" height="45" class="button-cell prod1-button-cell-no-color" width="180">
+                                                                <td align="center" valign="bottom" bgcolor="<%= f["prod1_btn_color"] %>" height="45" class="button-cell prod1-button-cell-no-color" width="180">
                                                                   <a style="color:<%= f["prod1_btn_text_color"] %>" href="<%= f["prod1_btn_url"] %>" class="button-link prod1-button-link" title="<%= f["prod1_btn_text"] %>">
                                                                     <span><%= f["prod1_btn_text"] %></span>
                                                                   </a>
@@ -595,7 +639,6 @@
                                       <td>
                                         <table border="0" width="100%" cellpadding="0" cellspacing="0">
                                           <tr>
-                                            <td valign="top" align="center" class=""><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="20"></td>
                                             <td valign="top" align="center" class="container">
                                             <!--[if mso]>
                                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -651,8 +694,8 @@
               </td><!-- end info td -->
               <td><!-- image td -->
                 <!-- right image here -->
-                <a href="<%= f["right_side_image"] %>">
-                  <img src="<%= f["right_side_url"] %>" alt="<%= f["product_img_alt"] %>" title="<%= f["product_img_alt"] %>" class="right-article-image" align="right" width="360">
+                <a href="<%= f["right_side_url"] %>">
+                  <img src="<%= f["right_side_image"] %>" alt="<%= f["product_img_alt"] %>" title="<%= f["product_img_alt"] %>" class="right-article-image" align="right" width="<%= f["right_side_image_width"] %>" height="<%= f["right_side_image_height"] %>">
                 </a>
               </td><!-- end image td -->
             </tr>
@@ -673,4 +716,6 @@
     </tr>
 </table>
   <!-- /100% background wrapper -->
+
+</body>
 
