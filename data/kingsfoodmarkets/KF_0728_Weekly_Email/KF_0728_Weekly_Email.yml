@@ -1,0 +1,141 @@
+title: 'You Can Grill That?'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email'
+
+logo_img: ''
+logo_alt: 'Kings Food Markets'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85586541-549e-4780-99f1-02f5e0743f99.jpg?ver=1469192802000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/17c8dd6e-e349-4008-9664-e34953ff5182.jpg?ver=1469192800000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/14b341f1-1e81-4e8a-92db-0fe9c1f147e4.jpg?ver=1469192802000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6f045733-4109-4f9e-b4c7-32e32743ffa5.jpg?ver=1469192800000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/73049f69-e6da-4e7d-a137-f10fcddd4f2e.jpg?ver=1469192803000"
+  img_alt: "I didn't know I could grill that! Unique and oh-so-tasty grilling eats that can take the heat."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e9525415-5310-4576-991f-840213b9682a.jpg?ver=1469192798000"
+  img_alt: "Recipe Video | Try It Grilled"
+  url: "https://www.youtube.com/watch?v=ScPwTNrxraA?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/80688fa1-9d53-4927-bf08-ebf3891ea00b.jpg?ver=1469192802000"
+  img_alt: "Spiralized Zucchini Pesto Pizza Watch Video &#62;"
+  url: "https://www.youtube.com/watch?v=ScPwTNrxraA?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/033d5d38-454f-405b-b607-fc0a3cef146d.jpg?ver=1469192798000"
+  img_alt: "Why Grill It? Bring Out the Savory Flavor"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e0f0c083-cdff-458d-80cf-5aa7d368970d.jpg?ver=1469192803000"
+  img_alt: "Try: Fresh Fruits & Vegetables Why? Grilling is the perfect catalyst for bringing out the natural sugars in fruits & vegetables, inspiring smoky-sweet desserts."
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9b18a86f-2c1c-40b0-a60d-9195c12fd4be.jpg?ver=1469192798000"
+  img_alt: "Try: Fresh Herbs Why? Grilling adds smokiness to fresh herbs and releases aromatic natural fragrances."
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2649f869-afb6-4ea3-b14a-a2ec76eb88ef.jpg?ver=1469192798000"
+  img_alt: "Try: Bread Why? Bread is surprisingly awesome to grill for the caramelization and crispiness the heat brings. Grill it up to enjoy an inviting texture and satisfying crunch in every bite."
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e40eb509-0e18-4143-bde2-e9322203e918.jpg?ver=1469192803000"
+  img_alt: "Grilled Recipes | Unique Ideas That Are Great On the Grill"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8a09b066-dc46-4cc1-aa43-1c95238f6232.jpg?ver=1469192798000"
+  img_alt: "Grilled Romaine Salad with Flank Steak & Prawns View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes/grilled-romaine-salad-with-flank-steak-prawns?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6cea83cd-d092-4507-9940-0899673cf692.jpg?ver=1469192799000"
+  img_alt_2: "Grilled Fruit Kabobs with Citrus Mint Glaze View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/grilled-summer-fruit-kabobs-with-citrus-mint-glaze?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0f33f2f8-f1ec-4dda-9d45-aa53db48504a.jpg?ver=1469192799000"
+  img_alt: "Linguine with Grilled Little Neck Clams, Pancetta & Tomatoes View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes/kings-fresh-linguine-with-grilled-little-neck-clams-pancetta-tomatoes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/00b500ed-20bb-4723-a47a-fb33674ecd27.jpg?ver=1469192799000"
+  img_alt: "Market Specials | Grill It Up"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e0672a14-e410-440f-b173-3a86678e7bbc.jpg?ver=1469192803000"
+  img_alt: "Kings USDA Choice Beef Bone-In Rib Steaks 9.99 LB."
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3741318b-0fb0-4a6e-8873-cf4eb88c869a.jpg?ver=1469192799000"
+  img_alt_2: "Wild Caught Colossal Mexican Raw White Tail-On Shrimp 19.99 LB."
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c7204c70-7184-4922-ab4f-855a4854f0e5.jpg?ver=1469192803000"
+  img_alt: "Summer Tree Fruits 2.99 LB."
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cfd7bd5e-89f7-4662-95b7-1586bfb8d393.jpg?ver=1469192799000"
+  img_alt_2: "Organic Driscoll's Strawberries 16 OZ. 4.99 EA."
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/177a2f44-3df0-48c1-a5ee-e426dcd8d732.jpg?ver=1469192803000"
+  img_alt: "View More Specials &#62;"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc8d213c-f3b8-45d0-b127-35eff9d75829.jpg?ver=1469192799000"
+  img_alt: "What’s New In Store"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c8a80a61-9779-4e00-b1d7-8f34eacf10da.jpg?ver=1469192803000"
+  img_alt: "1/2 Off for Chocolate Chip Cookie Day! Stop by on Thursday, August 4th, and indulge with special cookie tastings from the bakery and 1/2 off David's Chocolate Chunk Cookies."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6bd2ed60-15fc-4f10-a2b6-9cbb35f8683a.jpg?ver=1469192803000"
+  img_alt: "Kings Cooking Studio Cooking Classes Enjoy the ultimate culinary experience as you learn how to prepare unique seasonal dishes. Sign up for your professional session! View Classes &#62;"
+  url: "http://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_Weekly_Email"
