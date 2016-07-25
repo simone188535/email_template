@@ -1,34 +1,44 @@
 <html>
 <head>
 	
-	<style>
-	  ul, li {list-style: none;}
-	  ul {margin: 0 0 1em 0; padding:0 0 0 0.5em;}
-	  li {margin: 0 0 0.2em 0; padding:0 0 0 0.3em;}
-	  h1,h2,h3,h4,h5,h6 {margin-bottom:0;}
-	  .welcome {color: #333;}
-	  h2 {color:#555; margin: 0.2em 0 0 0; font-size:18px;}
-	  p {margin:0;}
-	</style>
-	
+	<style type="text/css" data-embed="data-embed">
+
+    .container {
+      display: table;
+      }
+
+    .row  {
+      display: table-row;
+      }
+
+    .left, .right, .middle {
+      display: table-cell;
+      }
+	  
+	  .filePath {
+		  font-family: "Courier New", Monospace;
+		  font-size: 75%;
+	  }
+	</style>	
 </head>
  <body>
- <div class="welcome">
-<h1>Email Proofs</h1>
  
 <br/>
 <hr/>
 <%  directories = Dir.entries("./build") 
-    directories.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template|\.|\.\.|images|index\.html|javascripts|stylesheets/i }
+    directories.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template|\.|\.\.|images|index\.html|javascripts|stylesheets|\*|\*\*/i }
     directories.each do |directory_name| 
 %>
-<h2><%= directory_name %></h2>
-<br/>
-    <ul>
+<h2><%= directory_name %></h2></br></br>
+
+<div class="container">
+
+
     <%     
         files_html = Dir.glob("./build/"+directory_name+"/**/*.html")
         files_txt = Dir.glob("./build/"+directory_name+"/**/*.txt")
-		
+%>
+<%		
         files_html.reject! {|item| item =~ /\.\/build\/index.html|snippets|examples|content_template/i }
         files_html.each do |file_name| 
 	        file_contents = IO.read(file_name)
@@ -42,19 +52,30 @@
 				file_title = file_title[2]
 			end
 	    %>
-	        <li><%= file_title %> - <a href="<%= file_name[('./build/').length,file_name.length] %>">HTML</a> - 
-		<%
-			if has_text==true
-		%>
-		<a href="<%= txt_file_name[('./build/').length,txt_file_name.length] %>">TXT</a>
-		<%
-			end
-		%>
-			</li>
-    <% end %>
-    </ul>
+			<div class="row">
+				<div class="left">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				</div>
+				<div class="middle">
+					<h4>
+						<%= file_title %>
+					</h4>
+					&nbsp;&nbsp;
+				</div>
+				<div class="middle">
+					<span class="filePath">[<%= file_name[('./build/'+directory_name+'/').length,file_name.rindex('/')-('./build/'+directory_name+'/').length] %>]</span>
+					&nbsp;&nbsp;
+				</div>
+				<div class="right">
+					<h4>
+						<a href="<%= file_name[('./build/').length,file_name.length] %>">HTML</a><% if has_text==true %> - <a href="<%= txt_file_name[('./build/').length,txt_file_name.length] %>">TXT</a><% end %>
+					</h4>
+				</div>
+			</div>
+    	<% end %>
+</div>
 <hr/>
 <br/>
  <% end %>
- </div><!-- .welcome -->
+
 </body>
