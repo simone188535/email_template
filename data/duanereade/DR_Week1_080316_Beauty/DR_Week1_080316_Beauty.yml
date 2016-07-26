@@ -8,16 +8,6 @@ logo_img_url: 'images/header-logo.jpg'
 logo_img_alt: 'DuanereadeTM by Walgreens'
 logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
 
-hero_img_url: 'http://placehold.it/600x300/999999/000000?text=HERO'
-hero_img_alt: "Sun's Out. 3 for the price of 2."
-hero_img_link: '#'
-hero_text: 'Stock up and <b>mix&amp;match</b> select brands of skin and suncare'
-hero_btn_text: 'Start shopping &rsaquo;'
-
-callout_img_url: 'https://placeholdit.imgix.net/~text?txtsize=41&bg=999999&txtclr=000000&txt=App+Callout&w=600&h=214&txttrack=0'
-callout_img_alt: 'Exclusive savings, shopping lists and reward tracking. Get the app >'
-callout_img_link: '#'
-
 footer_text: '<sup>*</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any other offers.<br><br>Offers Good Sun. XX/XX - Sat. XX/XX/XX. <sup>**</sup>Card not required for online or mobile checkout. Valid at in-store, online, or mobile checkout. Not to be combined with any  other offers. Excludes instant, collage prints and prints from film. Of Equal or lesser price, mix and match. Good Sun. XX/XX thru Sat. 02/13/16. &Dagger;Valid in select stores. See associate for details.<br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents")  are provided strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding any questions you may have about a medical condition. Reliance on any of the contents is solely at your own risk. Duane Reade does not guarantee the applicability or accuracy of any  information mentioned in the Contents.<br><br>'
 
 unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=%%t%%&email=%%email%%'
@@ -30,73 +20,15 @@ copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holding
 # Loop through articles
 
 articles:
-- type: "product-left-image"
-  text_img_url: "http://placehold.it/300x300/666666/000000?text=product-left-image"
-  text_img_alt: "Look youthful and fresh"
-  promo_text: "<strong>Roc Skin</strong>"
-  promo_btn_url: ""
-  promo_btn_text: "Shop now &rsaquo;"
-  product_img_url: "http://placehold.it/300x360/333333/000000?text=IMAGE"
-  product_img_alt: "Stay protected from the sun"
-
-- type: "product-right-image"
-  text_img_url: "http://placehold.it/600x300/999999/000000?text=product-right-image"
-  text_img_alt: "Look youthful and fresh"
-  promo_text: "<strong>Coppertone or Bain de Soleil Sun Care</strong><br />Select varieties."
-  promo_btn_url: ""
-  promo_btn_text: "Shop now &rsaquo;"
-  product_img_url: "http://placehold.it/300x360/666666/000000?text=IMAGE"
-  product_img_alt: "Coppertone or Bain de Soleil Sun Care"
-
-- type: "story-image-center-text"
-  img: "http://placehold.it/600x300/999999/000000?text=story-image-center-text"
-  img_alt: "Coppertone or Bain de Soleil Sun Care"
-  promo_btn_url: ""
-  promo_btn_text: "Shop now &rsaquo;"
-  promo_text: "Use promo code: <strong style='color: #e61131;'>GETGRADREADY</strong>"
-  promo_btn_color: "#333333"
-
-- type: "story-image"
+- type: "story-image-button-text"
   img: "http://placehold.it/600x300/999999/000000?text=story-image"
   img_alt: "Coppertone or Bain de Soleil Sun Care"
-  promo_btn_url: ""
+  promo_btn_top_text_color: "#998999"
+  promo_btn_top_text: "Loreal Beauty"
+  promo_btn_url: "www.google.com"
   promo_btn_text: "Shop now &rsaquo;"
-  promo_text: "<strong>Roc Skin</strong>"
-  promo_btn_color: "#333333"
-
-- type: "story-image-left-button"
-  img: "http://placehold.it/600x300/999999/000000?text=story-image"
-  img_alt: "Coppertone or Bain de Soleil Sun Care"
-  promo_btn_url: ""
-  promo_btn_text: "Shop now &rsaquo;"
-  promo_text: "<strong>Roc Skin</strong>"
-  promo_btn_color: "#333333"
-
-- type: "story-image-no-text"
-  img: "http://placehold.it/600x300/333333/000000?text=story-image-no-text"
-  img_alt: "Coppertone or Bain de Soleil Sun Care"
-  promo_btn_url: ""
-  promo_btn_text: "Shop now &rsaquo;"
-  promo_btn_color: "#333333"
-
-- type: "image"
-  url: ""
-  img: "http://placehold.it/600x300/999999/000000?text=IMAGE"
-  img_alt: "The complete Skincare Set to help mom look and feel beautiful this Mother's Day"
-  
-- type: 'image-2-columns'
-  url: ''
-  img: 'http://placehold.it/300x300/666666/000000?text=image-2-column'
-  img_alt: 'left image'
-  url_2: ''
-  img_2: 'http://placehold.it/300x300/333333/000000?text=image-2-column'
-  img_alt_2: 'right image'
-
-- type: "image"
-  url: ""
-  img: "http://placehold.it/600x300/999999/000000?text=IMAGE"
-  img_alt: "The complete Skincare Set to help mom look and feel beautiful this Mother's Day"
-  
+  promo_text: "Buy 1 get 1 50% off"
+  promo_btn_color: "#333333"  
 
 
 footernav:
