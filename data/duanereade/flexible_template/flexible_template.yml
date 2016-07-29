@@ -56,6 +56,17 @@ articles:
   promo_text: "Use promo code: <strong style='color: #e61131;'>GETGRADREADY</strong>"
   promo_btn_color: "#333333"
 
+- type: "story-image-button-text"
+  img: "http://placehold.it/600x300/999999/000000?text=story-image-button-text"
+  img_alt: "L'Oreal Cosmetics - Buy 1 Get 1 50% off*"
+  promo_btn_top_text_color: "#999999"
+  promo_btn_top_text: "<strong>L&#39;Oréal Cosmetics </strong><br> Excludes Nail."
+  promo_btn_url: ""
+  promo_btn_text: "Shop now &rsaquo;"
+  promo_img: "http://placehold.it/350x200/999999/000000?"
+  promo_btn_color: "#999999"
+
+
 - type: "story-image"
   img: "http://placehold.it/600x300/999999/000000?text=story-image"
   img_alt: "Coppertone or Bain de Soleil Sun Care"
