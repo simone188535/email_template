@@ -831,23 +831,23 @@
 
             <!-- Call out -->
 			<% if @base_callout_img_url!='' %>
-              <tr>
+            <!-- Extra spaces not need anymore  <tr>
                 <td height="10" class="cell-height">
                   <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
                 </td>
               </tr>
-            <tr>
+            <tr> -->
               <td valign="top" class="callout">
                 <a href="<%=@base_callout_img_link%>">
                   <img src="<%=@base_callout_img_url%>" alt="<%=@base_callout_img_alt%>" title="<%=@base_callout_img_alt%>" class="responsive">
                 </a>
               </td>
             </tr>
-            <tr>
+            <!-- Extra spaces not needed anymore <tr>
               <td class="cell-height" height="5">
                 <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
               </td>
-            </tr>
+            </tr> -->
 			<% end %>
 
           <!-- Footer nav -->
