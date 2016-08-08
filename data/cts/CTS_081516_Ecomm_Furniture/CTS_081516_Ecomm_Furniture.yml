@@ -1,0 +1,102 @@
+title: 'Get Set for Savings! Online Only! While Supplies Last!'
+
+pre_header_text: ''
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com/?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="TOP NAV - NEW ARRIVALS" urlId="64083" target="_blank" frontuid="127521'
+header_logo_img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_01.jpg"
+header_logo_alt: "Christmas Tree Shops&#174; and That&#8482;"
+header_logo_height: "65"
+header_logo_width: "600"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="TOP NAV - NEW ARRIVALS" urlId="64083" target="_blank" frontuid="127521'
+header_arrivals_img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_02.jpg"
+header_arrivals_alt: "NEW ARRIVALS"
+header_arrivals_height: "34"
+header_arrivals_width: "157"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="TOP NAV - SEASONAL & GIFTS" urlId="64083" target="_blank" frontuid="127521'
+header_seasonal_img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_03.jpg"
+header_seasonal_alt: "SEASONAL &#38; GIFTS"
+header_seasonal_height: "34"
+header_seasonal_width: "127"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="TOP NAV - FURNITURE" urlId="64083" target="_blank" frontuid="127521'
+header_furniture_img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_04.jpg"
+header_furniture_alt: "FURNITURE"
+header_furniture_height: "34"
+header_furniture_width: "90"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="TOP NAV - OUTDOOR" urlId="64083" target="_blank" frontuid="127521'
+header_outdoor_img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_05.jpg"
+header_outdoor_alt: "OUTDOOR"
+header_outdoor_height: "34"
+header_outdoor_width: "85"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?sortby=ourPicks?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="TOP NAV - CLEARANCE" urlId="64083" target="_blank" frontuid="127521'
+header_clearance_img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_06.jpg"
+header_clearance_alt: "CLEARANCE"
+header_clearance_height: "34"
+header_clearance_width: "141"
+
+
+socialnav:
+- img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_10.jpg"
+  alt: " "
+  link: "#"
+  width: '148'
+  height: '81'
+
+- img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_11.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - FACEBOOK" urlId="64083" target="_blank" frontuid="127521'
+  width: '47'
+  height: '81'
+
+- img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_12.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - PINTEREST" urlId="64083" target="_blank" frontuid="127521'
+  width: '44'
+  height: '81'
+
+- img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_13.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - INSTAGRAM" urlId="64083" target="_blank" frontuid="127521'
+  width: '45'
+  height: '81'
+
+- img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_14.jpg"
+  alt: "Find a store near you >"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="FOOTER - FIND A STORE" urlId="64083" target="_blank" frontuid="127521'
+  width: '166'
+  height: '81'
+
+- img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_15.jpg"
+  alt: ""
+  link: ''
+  width: '150'
+  height: '81'  
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_07.jpg"
+    img_alt: 'SEMI-ANNUAL ONLINE CLEARANCE EVENT while supplies last! FURNITURE up to 40% off! selected styles'
+    url: 'http://www.christmastreeshops.com/category/code/furniture-sale.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width: '600'
+    height: '722'
+
+  - type: "image"
+    img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_08.jpg"
+    img_alt: 'RUGS up to 50% off! Selected styles'
+    url: 'http://www.christmastreeshops.com/category/code/furniture-sale.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width: '600'
+    height: '503'
+
+  - type: "image"
+    img: "images/CTS_043_081516_Ecomm_Furniture_Clearance_v1_r15_DEV_09.jpg"
+    img_alt: 'HUNDREDS OF ADDITIONAL CLEARANCE ITEMS AVAILABLE ONLINE. SHOP NOW &#62; SELECTED ITEMS ONLY. LIMITED QUANTITIES.'
+    url: 'http://www.christmastreeshops.com/category/code/furniture-sale.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BODY - CHRISTMAS TREE SHOPS" urlId="64083" target="_blank" frontuid="127521'
+    width: '600'
+    height: '101'
