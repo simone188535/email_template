@@ -1,0 +1,109 @@
+title: 'Get En Fuego with Our Fire Pit Faves'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s Food Lover&#39;s Market'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/483f35b5-8c36-43e2-a405-966f09921f7f.jpg?ver=1470666624000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/52bb8cbb-7151-44b6-b075-74ef94899a4b.jpg?ver=1470666604000'
+  img_alt: 'Rub It In! Give your meals a punch of flavor with gourmet spice rubs and savory sides.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3856809a-212a-4068-819d-76d72dceb96b.jpg?ver=1470666624000'
+  img_alt: 'Balducci&#39;s Spices | Gourmet Spice Rubs'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7a74bfaa-f825-4a20-b531-ab2965c37519.jpg?ver=1470666604000'
+  img_alt: 'USDA Choice Natural Beef NY Strip Steaks + Pair With: Turmeric, Ginger &amp; Spice Rub View Recipe &#62;'
+  url_2: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25cf0419-439a-4ac1-8a4a-ce5ede6eddce.jpg?ver=1470666623000'
+  img_alt_2: 'Bone-in Tailless Loin Veal Chops  + Pair With: Cinnamon, Coriander & Spice Rub  View Recipe &#62;'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/pork?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/96fe5416-9d52-4852-8de8-0bc3c733f0a3.jpg?ver=1470666625000'
+  img_alt: 'Bone-in USDA Choice Loin Lamb Chops + Pair With: Moroccan & Spice Rub  View Recipe &#62; '
+  url_2: 'http://www.balduccis.com/recipes/pork?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c264a27a-d75b-44f9-9d39-55ffd4dae80d.jpg?ver=1470666624000'
+  img_alt_2: 'Natural Fresh Pork Tenderloins + Pair With: Cocoa Chili & Spice Rub View Recipe &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/84455f61-60f7-49a3-a2c4-452b518ab4c1.jpg?ver=1470666605000'
+  img_alt: 'Spicy Sauce | Must-Try Marinade'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f30d243d-ec0b-4ef2-8645-1f9ef7cd710d.jpg?ver=1470666606000'
+  img_alt: 'We Rub You Original & Spicy Korean BBQ Marinade Tangy, sweet, savory and spicy, We Rub You does amazing things for chicken, beef and pork. It&#39;s tasty in vegetarian dishes too!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d3f3d625-b903-44bc-b245-ccccbe493600.jpg?ver=1470666624000'
+  img_alt: 'Member Exclusive | Fresh Seafood'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7f987955-0cf7-4ba1-96a1-13d7d0726e1c.jpg?ver=1470666624000'
+  img_alt: '1 LB Jumbo Cooked Shrimp 26 -30 Count. Member Exclusive: 9.99 EA Reg: 19.99 EA'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c109d9c2-f081-41b4-82db-9f593ff33748.jpg?ver=1470666607000'
+  img_alt: 'RChef Prepared | Savory Sides'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/95ccd42c-2a83-4116-8465-54489a3202dd.jpg?ver=1470666623000'
+  img_alt: 'Grilled Mexican Corn On the Cob'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0805_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/81b09057-5745-48e1-81d5-3f02fc56e5f5.jpg?ver=1470666624000'
+  img_alt: 'Watermelon, Feta & Lentil Salad'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1de86271-42d6-4429-8bdb-da1896036346.jpg?ver=1470666607000'
+  img_alt: 'What&#39;s New | At Balducci&#39;s'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/51328c2b-610a-49b9-94c1-a402a77bb2de.jpg?ver=1470666608000'
+  img_alt: 'Purely Elizabeth Granola Delicious and healthy granola made with quinoa, chia, hemp, coconut oil and coconut sugar, it&#39;s certified gluten-free, vegan, organic and non-GMO.'
