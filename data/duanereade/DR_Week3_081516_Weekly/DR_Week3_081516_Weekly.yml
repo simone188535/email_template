@@ -36,14 +36,16 @@ articles:
   img: "images/DR_Week3_081516_Weekly_03.jpg"
   img_alt: "Earn on back-to-school supplies for all ages and much more!"
   promo_btn_url: "http://www.walgreens.com/backtoschool.jsp"
-  promo_btn_text: "Get coupons &rsaquo;"
+  promo_btn_text: "Shop now &rsaquo;"
   promo_text: "Earn on back-to-school supplies for <br> all ages and much more!"
   promo_btn_color: "#97ca46"
 
-- type: "image"
-  url: "https://www.walgreens.com/offers/offers.jsp"
+- type: "story-image-no-text"
   img: "images/DR_Week3_081516_Weekly_04.jpg"
   img_alt: "Find additional online savings and coupons!"
+  promo_btn_url: "https://www.walgreens.com/offers/offers.jsp"
+  promo_btn_text: "Get coupons &rsaquo;"
+  promo_btn_color: "#97ca46"  
 
 footernav:
 - text: "Rx"
