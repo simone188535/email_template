@@ -1,0 +1,46 @@
+socialnav:
+- img: "images/CTS_Footer_forOracle_01.jpg"
+  alt: " "
+  link: "#"
+  width: '143'
+  height: '74'
+
+- img: "images/CTS_Footer_forOracle_02.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__'
+  width: '50'
+  height: '74'
+
+- img: "images/CTS_Footer_forOracle_03.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__'
+  width: '47'
+  height: '74'
+
+- img: "images/CTS_Footer_forOracle_04.jpg"
+  alt: "Instagram"
+  link: 'https://www.instagram.com/christmastreeshops/?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__'
+  width: '41'
+  height: '74'
+
+- img: "images/CTS_Footer_forOracle_05.jpg"
+  alt: "Find a store near you >"
+  link: "http://www.christmastreeshops.com/store-locator/landing.do?utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__"
+  width: '219'
+  height: '74'
+
+- img: "images/CTS_Footer_forOracle_06.jpg"
+  alt: " "
+  link: ''
+  width: '100'
+  height: '74'  
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: ""
+    img_alt: ''
+    url: ''
+    width: ''
+    height: ''
+

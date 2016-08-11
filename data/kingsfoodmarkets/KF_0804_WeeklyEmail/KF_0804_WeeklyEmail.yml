@@ -1,0 +1,125 @@
+title: 'Shhh..Secrets For Using Your Grill As a Smoker'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email'
+
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/427fe6e2-1e96-492a-8068-bea3b13859ec.jpg?ver=1470157727000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7112a4d8-d0f8-41fa-9ac1-51b0feae8b8c.jpg?ver=1470157723000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dd7b4350-67e7-4f0b-b931-2841b09cc576.jpg?ver=1470157723000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/66fa072e-b57d-467d-9fd0-394e9176b4df.jpg?ver=1470157727000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d0b0ae4-9838-487c-ad62-7b337420b1e1.jpg?ver=1470157719000"
+  img_alt: "Backyard Smokin&#39; Turn your grill into a smoker and enjoy these sensational smoked recipes."
+  url: "http://kingsfoodmarkets.com/unique-recipes/cherry-wood-smoked-swordfish-with-white-clam-herb?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Emai"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7beeca50-e317-461d-9436-44cb12b850a2.jpg?ver=1470157719000"
+  img_alt: Create Cherry Wood Smoked Swordfish with White Clam Herb Sauce Learn More"
+  url: "http://kingsfoodmarkets.com/unique-recipes/cherry-wood-smoked-swordfish-with-white-clam-herb?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Emai"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/627931ca-2432-4e59-9f48-0c85765905e8.jpg?ver=1470157720000"
+  img_alt: "Recipes | Smoke Your Favorites"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0ac53aab-3098-486e-8c91-98f9df98d55b.jpg?ver=1470157720000"
+  img_alt: "Sweet, Smoky Pork Ribs View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes/sweet-smoky-pork-ribs?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a4b7b7ce-e3a8-4892-ac18-52d383063292.jpg?ver=1470157720000"
+  img_alt_2: Slow Smoked Tomatoes and Garlic View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/slow-smoked-tomatoes-and-garlic?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e87b6829-93f6-4747-ba23-2ec2036a33ea.jpg?ver=1470157720000"
+  img_alt: "How To Turn Your Grill Into a Smoker"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e1287911-47d8-4d00-95bb-4687cae00ee9.jpg?ver=1470157720000"
+  img_alt: "Hack Your Grill Two simple methods to turn your grill into a smoker, perfect for tasty meats, fish and vegetables infused with smoky flavors. 1. Foil Pack Method 2. Tin Can Method Learn How &#62;"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/66fc0211-98c2-48e9-bbf4-26c7d66a7097.jpg?ver=1470157720000"
+  img_alt: "Market Specials | Get Smokin&#39;"
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/80f1b3be-2a88-4721-a13e-e16345e8ac1e.jpg?ver=1470157730000"
+  img_alt: "Fresh Wild Caught Swordfish Steak 17.99 LB."
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/27152200-429f-4a60-bd2f-9c7ebd98f73b.jpg?ver=1470157721000"
+  img_alt_2: "Locally Grown Sweet Cocktail Cherry Tomatoes 3.99 LB."
+  url_2: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e581b849-794a-4ae8-a522-f8969c580878.jpg?ver=1470157721000"
+  img_alt: "View More Specials &#62;"
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4605ed25-ae91-4ad5-b105-5d1fb09ccd90.jpg?ver=1470157730000"
+  img_alt: "S&#39;mores Day is 8/10 | Sweet or Savory Treats"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9c5c65ff-6be1-448a-ad68-3979a7f031a8.jpg?ver=1470157722000"
+  img_alt: "Bacon S&#39;mores Dark chocolate, graham cracker, marshmallow and bacon Create using Kings Chocolate"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cf473747-3f7e-42c4-a2c7-307323237a16.jpg?ver=1470157722000"
+  img_alt_2: "Roasted Berry S&#39;mores Pizzelle, chocolate, roasted berries and marshmallow Create using Pizzelle from the bakery"
+  url_2: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a34d3e63-6972-4664-9904-9f040275a113.jpg?ver=1470157727000"
+  img_alt: "What&#39;s New In Store"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/27458a03-0cc2-4d6e-921c-791393b98c18.jpg?ver=1470157722000"
+  img_alt: "Meet Mickey Rivers & Sample Luvo Meals Stop by Kings Boonton on August 6th from 12pm - 2pm to sample Luvo™ meals and meet Mickey Rivers—former Yankees player."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e2dd7f10-cd8e-49ac-b476-2cdadca012ed.jpg?ver=1470157727000"
+  img_alt: "BBQ Pulled Pork Polenta Cake Enjoy this perfect twist on a BBQ favorite—savorypulled pork, cheddar cheese and chives atop a wonderfully creamy and hearty polenta cake. View More &#62;"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_Weekly_Email"

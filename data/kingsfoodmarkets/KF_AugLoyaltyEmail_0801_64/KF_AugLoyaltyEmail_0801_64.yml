@@ -1,0 +1,79 @@
+title: 'August Member Offers '
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+
+#logo_img: ''
+#logo_alt: 'Kings Food Markets'
+#logo_img_space: ''
+#logo_img_space_2: ''
+#store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#store_locator_img: ''
+#store_locator_alt: 'FIND A STORE'
+#weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#weekly_circular_img: ''
+#weekly_circular_alt: 'WEEKLY CIRCULAR'
+#chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#chef_prepared_img: ''
+#chef_prepared_alt: 'CHEF PREPARED'
+#catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#catering_img: ''
+#catering_alt: 'CATERING'
+
+#footer
+#footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_59_JuneLoyaltyEmail"
+#footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7878a77-91ba-4798-8909-c9a383785b5f.jpg?ver=1462839230000"
+#footer_site_alt: "www.kingsfoodmarkets.com"
+#footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+#footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d1a8a42-7b19-4797-8374-7f2b4b7f22c9.jpg?ver=1462839230000"
+#footer_facebook_alt: "facebook"
+#footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+#footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd97367a-001e-4325-9638-f7dfd81ffc02.jpg?ver=1462839230000"
+#footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1a74448d-92f1-43cd-8cd1-a3c52857f648.jpg?ver=1469545368000"
+  img_alt: "Kings Rewards August Member Offers View Flyer"
+  url: "http://kingsfoodmarkets.com/media/files/Aug_Loyalty_Offers_64.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0801_KF_AugLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a76bfc93-4e1f-4b9b-80ce-a7c1f97aa194.jpg?ver=1469545368000"
+  img_alt: "Premier Protein Wagyu-Kobe Beef Burgers 16 oz., Frozen Save 2.00 Valid 8/5 - 8/18/16"
+  url: "http://kingsfoodmarkets.com/media/files/Aug_Loyalty_Offers_64.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0801_KF_AugLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3bd55e36-32fc-4c67-bcbf-aa23b8238f93.jpg?ver=1469545369000"
+  img_alt: "Kings Potato Hamburger and Hot Dog Rolls 16 oz., 8 Pack Save 1.00 Valid 8/5 - 9/1/16"
+  url: "http://kingsfoodmarkets.com/media/files/Aug_Loyalty_Offers_64.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0801_KF_AugLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/db54bd0b-2275-4fc9-b018-af3ddbc08fb3.jpg?ver=1469545369000"
+  img_alt: "Tri-Color Salad with Balsamic Vinaigrette 8.5 oz., Made Fresh Everyday! Save 1.00 Valid 8/5 - 8/25/16"
+  url: "http://kingsfoodmarkets.com/media/files/Aug_Loyalty_Offers_64.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0801_KF_AugLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/66b7192e-882f-438b-9de3-62045512935f.jpg?ver=1469545369000"
+  img_alt: "Clementines 3 lb. Bag Save 1.00 Valid 8/19 - 8/25/16"
+  url: "http://kingsfoodmarkets.com/media/files/Aug_Loyalty_Offers_64.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0801_KF_AugLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4ea9a626-9346-49f7-9d84-f8cb87c6eae5.jpg?ver=1469545370000"
+  img_alt: "KINGS Gelato Imported From Italy 16 fl. oz. Save 1.00 Valid 7/29 - 9/1/16"
+  url: "http://kingsfoodmarkets.com/media/files/Aug_Loyalty_Offers_64.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0801_KF_AugLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f3784c6b-a0cb-4592-88de-5ad457aabfdc.jpg?ver=1469545371000"
+  img_alt: "Shopping at Kings is Now More Rewarding than Ever"
+  url: "http://kingsfoodmarkets.com/media/files/Aug_Loyalty_Offers_64.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0801_KF_AugLoyaltyEmail_64"
+
+

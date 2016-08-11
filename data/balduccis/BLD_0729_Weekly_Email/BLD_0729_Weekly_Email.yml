@@ -1,0 +1,138 @@
+title: 'Superior Summer Soirées'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/99566b77-24cb-48ee-8289-7076c50a3636.jpg?ver=1468596753000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ed965d02-db23-411f-97aa-68b18ec978b0.jpg?ver=1468596753000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0ef90be2-50f0-429c-be15-5571b4179191.jpg?ver=1468596753000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/082e0d36-1df2-4135-b827-241722157f7a.jpg?ver=1469451614000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d4dfc471-a37a-4a14-9d49-c9c53bf81a1b.jpg?ver=1469451615000'
+  img_alt: 'Party Perfect Bright cocktails and catering ideas for a classy summer soirée. Peach, Rosemary, Chardonnay Fizz Cocktail View Recipe &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/18d5e782-711e-41ce-ae04-013aec57084d.jpg?ver=1469451615000'
+  img_alt: 'Chardonnay | In a New Light'
+
+- type: 'image-3-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5f2a7af6-f2fb-4be5-b532-e7cc49462219.jpg?ver=1469451615000'
+  img_alt: 'Balducci&#39;s Chardonnay The sweet, sour goodness of pineapple and tropical fruit combine with the light acidity of citrus and pear to create this luscious wine.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d060358a-c2d6-4358-a86c-50cb7d2025f6.jpg?ver=1469451615000'
+  img_alt_2: 'Balducci&#39;s Chardonnay The sweet, sour goodness of pineapple and tropical fruit combine with the light acidity of citrus and pear to create this luscious wine.'
+  url_3: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img_3: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6293b990-2047-4c31-b909-266fa1b5e2a1.jpg?ver=1469451615000'
+  img_alt_3: 'Novellum Chardonnay 2015 Fill your palate with subtle flavors of orchard fruit, white peach, and honeysuckle, with a sweet surprise of vanilla to seal the deal—perfect for your summer event. *Only available at Alexandria, Bethesda, Greenwich and McLean'
+
+- type: 'image-3-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/60f6f897-d959-44bd-b969-1a710e03dc66.jpg?ver=1469451615000'
+  img_alt: 'Balducci&#39;s Chardonnay The sweet, sour goodness of pineapple and tropical fruit combine with the light acidity of citrus and pear to create this luscious wine.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a050a6d7-049f-4d24-91ee-b365dee787bb.jpg?ver=1469451616000'
+  img_alt_2: 'Novellum Chardonnay 2015 Fill your palate with subtle flavors of orchard fruit, white peach, and honeysuckle, with a sweet surprise of vanilla to seal the deal—perfect for your summer event. *Only available at Alexandria, Bethesda, Greenwich and McLean'
+  url_3: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img_3: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6c540ec7-69d6-4d6a-b030-0cf6802eac9c.jpg?ver=1469451616000'
+  img_alt_3: 'Novellum Chardonnay 2015 Fill your palate with subtle flavors of orchard fruit, white peach, and honeysuckle, with a sweet surprise of vanilla to seal the deal—perfect for your summer event. *Only available at Alexandria, Bethesda, Greenwich and McLean'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1895eab2-d76c-482a-9330-a337b28440c4.jpg?ver=1469451616000'
+  img_alt: 'Catering | Pick Up Or On-Site Service'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/summer_bbq/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c06f9bb1-913c-4650-9101-ac9a997a10cd.jpg?ver=1469451617000'
+  img_alt: 'Balducci&#39;s BBQ Beef Brisket'
+  url_2: 'http://www.balduccis.com/catering/summer_bbq/bakery?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6d2f50ca-5ea7-4a1e-a1b5-03a122c40ac3.jpg?ver=1469451617000'
+  img_alt_2: 'Balducci&#39;s Mousse Cakes'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5b660ff5-abb3-45ae-814c-cade6ea330db.jpg?ver=1469451617000'
+  img_alt: 'View Menu &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ca5373ac-45bb-475d-9229-3cb8e9e5790e.jpg?ver=1469451617000'
+  img_alt: 'Set the Table | Custom Floral'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dfc6d0ef-7f53-4506-b357-9102ad41b7f9.jpg?ver=1469451617000'
+  img_alt: 'Brighten up your table with custom floral arrangements from our floral arrangements from our floral design experts. Choose from a variety of fresh, seasonal blooms, perfect for any occasion.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7e7852e-f55e-45a7-b0b0-ee0784eb1cc4.jpg?ver=1469451617000'
+  img_alt: 'Grab & Go | Chef Prepared Favorites'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1072677d-fc6f-4208-af0b-d8c8afd98e73.jpg?ver=1469451618000'
+  img_alt: 'BBQ Chicken Salad'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2cb12ea0-fdfd-490c-929e-b9017aa08350.jpg?ver=1469451618000'
+  img_alt_2: 'Rovagnati Porchetta'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3a26ceee-cfc0-453c-b5a7-d724f490cc0d.jpg?ver=1469451618000'
+  img_alt: 'Exclusive | Anniversary Goods'
+
+- type: 'image-3-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/76eec82f-bd39-4e9e-a8c8-75e391f80ab6.jpg?ver=1469451618000'
+  img_alt: 'Balducci&#39;s Anniversary Coffee 12 OZ. Member Exclusive: $2 Off'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bed3deb5-2a1d-4939-a69c-4fce33c52ef7.jpg?ver=1469451618000'
+  img_alt_2: 'Balducci&#39;s Anniversary Coffee 12 OZ. Member Exclusive: $2 Off'
+  url_3: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img_3: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a69ffde1-10c6-4eed-88ad-9a6e0ed3e7a9.jpg?ver=1469451618000'
+  img_alt_3: 'Balducci&#39;s Anniversary Rainbow Marzipan Cookies'
+
+- type: 'image-3-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0bd56d68-f17b-462a-9e5e-c70300a120fd.jpg?ver=1469451619000'
+  img_alt: 'Balducci&#39;s Anniversary Coffee 12 OZ. Member Exclusive: $2 Off'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/72d993df-082c-4dd2-a61a-34dc5b38b2c7.jpg?ver=1469451619000'
+  img_alt_2: 'Balducci&#39;s Anniversary Rainbow Marzipan Cookies'
+  url_3: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0729_BLD_Weekly_Email'
+  img_3: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3d5c4bd0-a177-4163-a3d4-29dc2a830740.jpg?ver=1469451619000'
+  img_alt_3: 'Balducci&#39;s Anniversary Rainbow Marzipan Cookies'

@@ -1,0 +1,65 @@
+title: ''
+
+logo_img_url: ""
+logo_img_alt: ""
+logo_img_link: ""
+logo_img_width: ""
+logo_img_height: ""
+
+freeshipping_img_url: ""
+freeshipping_img_alt: ""
+freeshipping_img_link: ""
+freeshipping_img_width: ""
+freeshipping_img_height: ""
+
+babyreg_img_url: ""
+babyreg_img_alt: ""
+babyreg_img_link: ""
+babyreg_img_width: ""
+babyreg_img_height: ""
+
+nav1_url: ""
+nav1_alt: ""
+nav1_link: ""
+nav1_width: ""
+nav1_height: ""
+
+nav2_url: ""
+nav2_alt: ""
+nav2_link: ""
+nav2_width: ""
+nav2_height: ""
+
+nav3_url: ""
+nav3_alt: ""
+nav3_link: ""
+nav3_width: ""
+nav3_height: ""
+
+preheader_text: ''
+preheader_link: ''
+viewaswebpage_text: ''
+viewaswebpage_link: ''
+
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: ''
+  image_alt: ''
+  image_link: ''
+  image_height: ''
+  image_width: ''
+
+socialnav:
+- link: "#"
+  img: ""
+  alt: ""
+
+
+
+footer_ViewMap: ''
+footer_FindAnotherLocation: ''
+footer_subscribehere: ''
+footer_updateyouremailpreferences: ''
+footer_contactushere: ''
+footer_PrivacyPolicy: ''
