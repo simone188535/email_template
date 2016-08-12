@@ -8,14 +8,14 @@ pre_header_text: ''
 
 #header
 logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
-logo_alt: 'Balducci&#39;s Food Lover&#39;s Market'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
 catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
 catering_alt: 'CATERING'
 chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
 chef_prepared_alt: 'CHEF PREPARED'
 store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
 store_locator_alt: 'FIND A STORE'
-my_balduccis_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
 my_balduccis_alt: 'myBALDUCCI&#39;S'
 
 #footer
@@ -53,12 +53,12 @@ articles:
   img_alt: 'USDA Choice Natural Beef NY Strip Steaks + Pair With: Turmeric, Ginger &amp; Spice Rub View Recipe &#62;'
   url_2: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
   img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25cf0419-439a-4ac1-8a4a-ce5ede6eddce.jpg?ver=1470666623000'
-  img_alt_2: 'Bone-in Tailless Loin Veal Chops  + Pair With: Cinnamon, Coriander & Spice Rub  View Recipe &#62;'
+  img_alt_2: 'Bone-in Tailless Loin Veal Chops + Pair With: Cinnamon, Coriander & Spice Rub View Recipe &#62;'
 
 - type: 'image-2-columns'
   url: 'http://www.balduccis.com/recipes/pork?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/96fe5416-9d52-4852-8de8-0bc3c733f0a3.jpg?ver=1470666625000'
-  img_alt: 'Bone-in USDA Choice Loin Lamb Chops + Pair With: Moroccan & Spice Rub  View Recipe &#62; '
+  img_alt: 'Bone-in USDA Choice Loin Lamb Chops + Pair With: Moroccan & Spice Rub View Recipe &#62;'
   url_2: 'http://www.balduccis.com/recipes/pork?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
   img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c264a27a-d75b-44f9-9d39-55ffd4dae80d.jpg?ver=1470666624000'
   img_alt_2: 'Natural Fresh Pork Tenderloins + Pair With: Cocoa Chili & Spice Rub View Recipe &#62;'
@@ -71,7 +71,7 @@ articles:
 - type: 'image'
   url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f30d243d-ec0b-4ef2-8645-1f9ef7cd710d.jpg?ver=1470666606000'
-  img_alt: 'We Rub You Original & Spicy Korean BBQ Marinade Tangy, sweet, savory and spicy, We Rub You does amazing things for chicken, beef and pork. It&#39;s tasty in vegetarian dishes too!'
+  img_alt: 'We Rub You Original & Spicy Korean BBQ Marinade Tangy, sweet, savory and spicy, We Rub You does amazing things for chicken, beef and pork. It&#39;s tasty in vegetarian dishes, too!'
 
 - type: 'image'
   url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
@@ -81,12 +81,12 @@ articles:
 - type: 'image'
   url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7f987955-0cf7-4ba1-96a1-13d7d0726e1c.jpg?ver=1470666624000'
-  img_alt: '1 LB Jumbo Cooked Shrimp 26 -30 Count. Member Exclusive: 9.99 EA Reg: 19.99 EA'
+  img_alt: '1 LB Jumbo Cooked Shrimp 26-30 Count. Member Exclusive: 9.99 EA Reg: 19.99 EA'
 
 - type: 'image'
   url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c109d9c2-f081-41b4-82db-9f593ff33748.jpg?ver=1470666607000'
-  img_alt: 'RChef Prepared | Savory Sides'
+  img_alt: 'Chef Prepared | Savory Sides'
 
 - type: 'image'
   url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
@@ -94,7 +94,7 @@ articles:
   img_alt: 'Grilled Mexican Corn On the Cob'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0805_BLD_Weekly_Email'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0812_BLD_Weekly_Email'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/81b09057-5745-48e1-81d5-3f02fc56e5f5.jpg?ver=1470666624000'
   img_alt: 'Watermelon, Feta & Lentil Salad'
 
