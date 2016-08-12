@@ -4,9 +4,15 @@ primary_color: '#999999'
 
 pre_header_text: 'Save on everything from chewable vitamins to first-aid!'
 
-logo_img_url: 'images/DR_Week3_081816_Pharmacy_01.jpg'
+logo_img_url: 'images/DR_Week3_081516_Weekly_header-logo.jpg'
 logo_img_alt: 'DuanereadeTM by Walgreens'
 logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+hero_img_url: 'images/DR_Week3_081816_Pharmacy_02.jpg'
+hero_img_alt: "Go Back Happy and Healthy"
+hero_img_link: 'https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp'
+hero_text: ''
+hero_btn_text: ''
 
 callout_img_url: 'images/DR_Week3_081816_Pharmacy_10.jpg'
 callout_img_alt: 'Get the app'
@@ -24,11 +30,6 @@ copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holding
 # Loop through articles
 
 articles:
-
-- type: "image"
-  url: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
-  img: "images/DR_Week3_081816_Pharmacy_02.jpg"
-  img_alt: "Go Back Happy and Healthy"
   
 - type: "story-image"
   img: "images/DR_Week3_081816_Pharmacy_03.jpg"
