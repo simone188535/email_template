@@ -1,5 +1,5 @@
 <% require 'active_support/all' %>
-<% instance_variable_set("@base_data_file", data.duanereade.flexible_template.flexible_template) %>
+<% instance_variable_set("@base_data_file", data.duanereade.DR_Week3_081816_Pharmacy.DR_Week3_081816_Pharmacy) %>
 <% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
@@ -918,23 +918,23 @@
 
             <!-- Call out -->
 			<% if @base_callout_img_url!='' %>
-            <!-- Extra spaces not need anymore  <tr>
+              <tr>
                 <td height="10" class="cell-height">
                   <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
                 </td>
               </tr>
-            <tr> -->
+            <tr>
               <td valign="top" class="callout">
                 <a href="<%=@base_callout_img_link%>">
                   <img src="<%=@base_callout_img_url%>" alt="<%=@base_callout_img_alt%>" title="<%=@base_callout_img_alt%>" class="responsive">
                 </a>
               </td>
             </tr>
-            <!-- Extra spaces not needed anymore <tr>
+            <tr>
               <td class="cell-height" height="5">
                 <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
               </td>
-            </tr> -->
+            </tr>
 			<% end %>
 
           <!-- Footer nav -->
