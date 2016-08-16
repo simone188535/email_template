@@ -1,0 +1,151 @@
+title: 'Cool Ideas for Summer Fruits & Veggies'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s Food Lover&#39;s Market'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cbc067ae-ab30-46c9-a77a-784859327bd9.jpg?ver=1471285864000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a67d9edf-4cd3-406b-b134-6c200c75c2e6.jpg?ver=1471285864000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6dc8d587-2c25-44a3-96bd-895f344c039b.jpg?ver=1471285864000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/74af9f4b-3b7e-41ab-8560-1ce452bc4ddd.jpg?ver=1471285861000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/soup?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/88a4af8b-a760-42a8-a75d-3bc40a3dafd4.jpg?ver=1471285862000'
+  img_alt: 'Cool Summer Soups Create Watermelon Gazpacho View Recipe > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/soup?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/41cdcc79-cccf-4145-9520-8a3a3610e880.jpg?ver=1470149037000'
+  img_alt: 'DIY Treats &#124; Celebrate S&#39;mores Day 8/10'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/soup?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5e283d59-87ce-4448-bd01-4a1e4319b787.jpg?ver=1471285862000'
+  img_alt: 'Cantaloupe Gazpacho View Recipe > Create with Fresh Cantaloupe '
+  url_2: 'http://www.balduccis.com/recipes/soup?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c23b3041-b4fd-4d3b-a21a-383045c7cdfa.jpg?ver=1471285862000'
+  img_alt_2: 'Tomato Strawberry Gazpacho View Recipe > Create with Driscoll&#39;s Strawberries '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/29f3de49-dff6-4594-a6af-8cce028b3b48.jpg?ver=1471285862000'
+  img_alt: 'In a Pickle? | Try These Tips & Tricks'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a5088b98-0dd0-4ea7-b5bd-24abe4705aa2.jpg?ver=1471285862000'
+  img_alt: 'Pickling doesn’t have to be an all-day science project. Easy refrigerator pickles give you all of the taste with none of the fuss. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6517c023-6e19-4c56-84cd-16b1689b3594.jpg?ver=1471285862000'
+  img_alt: '1. Begin With the Brine Combine equal parts of water and vinegar with one-fourth part salt. Add one-fourth part sugar to make sweet pickles. Bring the brine to a boil, allowing the salt and sugar to dissolve. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/187a2cc1-556d-43be-a1bd-30a2575fc3c8.jpg?ver=1471285862000'
+  img_alt: '2. Pack Up the Produce While the water is boiling, pack cut produce into jars, and add herbs, spices, peppers, or onions for knockout flavor.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8d793b3b-5d65-4d7c-8e64-138f5555c3fa.jpg?ver=1471285863000'
+  img_alt: '3. Fill & Chill Fill the containers with the hot brine,  let cool to room temperature, cover and chill thoroughly before enjoying.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b16c2af8-0263-4212-8adc-6cbbf82e1e16.jpg?ver=1471285863000'
+  img_alt: 'Finesse Your Flavors Experiment with different types of vinegars and spices to create unique flavors. A few to try: allspice, dried chili peppers, whole cloves and ginger.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a92796f-0ddb-4e14-b845-fe99cc77af46.jpg?ver=1471285863000'
+  img_alt: 'It&#39;s Not Just For Cucumbers Cucumbers are perfect for pickling, but try these unique produce ideas: green beans, carrots, squash, peaches and watermelon.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fbc93cb5-30b4-4ae3-9e48-b182c4cf2831.jpg?ver=1471285863000'
+  img_alt: 'Member Exclusive | Specials'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/777c38b4-a74e-4292-900c-b96d8acfa322.jpg?ver=1471285863000'
+  img_alt: 'Steakhouse Elite Grass-Fed Beef Burgers Member Exclusive: $2 OFF '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f4cbb55d-8fbe-4104-917d-0bce2527e079.jpg?ver=1471285863000'
+  img_alt: 'Chef Prepared Lemon Caper Shrimp Member Exclusive: $5 OFF/LB '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d18f989a-cd5f-4003-ad3f-4abb3fb6f949.jpg?ver=1471285863000'
+  img_alt: 'Gourmet Cheese | Savory Selections '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/257e0b49-76f4-4442-96da-7865ec151e69.jpg?ver=1471285864000'
+  img_alt: 'Pomella Buffalo Mozzarella '
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6d345cf3-42ab-426a-9931-30810e3cb80e.jpg?ver=1471285864000'
+  img_alt_2: 'Lioni Whole Milk Fresh Ricotta Member Exclusive: $1 OFF'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e6b00ba8-225e-4857-a99a-662a1a60f510.jpg?ver=1471285864000'
+  img_alt: 'What&#39;s New | At Balducci&#39;s'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0819_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c8134abd-8347-4ca7-aeed-2f4bf3e9b155.jpg?ver=1471285864000'
+  img_alt: 'KIND Healthy Grains® Popped Bites Snackable granola in a poppable sweet and salty treat. Made with 100% whole grains plus popcorn, in two tantalizing flavors: Dark Chocolate with Sea Salt and Salted Caramel.'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
