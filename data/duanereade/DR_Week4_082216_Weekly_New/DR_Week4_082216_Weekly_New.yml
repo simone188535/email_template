@@ -1,0 +1,71 @@
+title: 'Kids going back to school?'
+
+primary_color: '#999999'
+
+pre_header_text: 'Time&nbsp;to&nbsp;clean&nbsp;up&nbsp;all&nbsp;that&nbsp;summer&nbsp;fun&nbsp;&&nbsp;save&nbsp;BIG!'
+
+logo_img_url: 'images/DR_Week4_082216_Weekly_New_header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+hero_img_url: ''
+hero_img_alt: ""
+hero_img_link: ''
+hero_text: ''
+hero_btn_text: ''
+
+callout_img_url: 'images/DR_Week4_082216_Weekly_New_1B_04.jpg'
+callout_img_alt: 'Get the app'
+callout_img_link: 'http://walgreens.com/mobile'
+
+footer_text: 'Offers valid 8/21-8/27/16<br><br>The contents of this email and health related information and resources on the Duane Reade website (&#34;Contents&#34;) are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding  any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade  does not guarantee the applicability or accuracy of any information mentioned in the Contents.<br> <br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=%%t%%&email=%%email%%'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+# Loop through articles
+
+articles:
+- type: "image"
+  url: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  img: "images/DR_Week4_082216_Weekly_New_1B_02.jpg"
+  img_alt: "Summer made simple"
+- type: "image"
+  url: "http://www.walgreens.com/backtoschool"
+  img: "images/DR_Week4_082216_Weekly_New_1B_03.jpg"
+  img_alt: "Snack it up for summer! 2 for $5 Frito-Lay Cool down with drink deals! 2 for $3 2-Liter Soda Be safe in the sun! Buy 1 get 1 50% off Banana Boat or Hawaiian Tropic Sun Care"
+  
+
+
+footernav:
+
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+socialnav:
+- img: "images/DR_Week4_082216_Weekly_New_fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/DR_Week4_082216_Weekly_New_tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/DR_Week4_082216_Weekly_New_site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'images/DR_Week4_082216_Weekly_New_spacer.gif'
+
+
+http://f.duanereadedrugstore.com/i/44/2087955237/
