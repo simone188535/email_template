@@ -1,0 +1,154 @@
+title: 'A Sweet End To Summer'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/483f35b5-8c36-43e2-a405-966f09921f7f.jpg?ver=1470666624000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/08ab5c5e-8cc7-465d-9495-49b9d965cca5.jpg?ver=1471721542000'
+  img_alt: 'Sweet End to Summer Round out your summer with delightful drinks and desserts. Catered Dessert Tropical Mango Mousse Cake View Menu >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8cb4039a-53e2-45d5-ad4a-d538cedcb491.jpg?ver=1471721542000'
+  img_alt: 'Fiesta On a Stick &#124; Sangria Popsicles'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/58ce6ba5-651a-4d5e-8bc9-3bacb8947e9e.jpg?ver=1471721542000'
+  img_alt: 'Start with Sauvignon Blanc Make these sweet and fruity popsicles with Balducci&#39;s Sauvignon Blanc, a light summer wine with tangy citrus and green apple flavors, and a refreshing snap on the finish. &#42;Only available at Balducci&#39;s Alexandria, Bethesda, Greenwich and McLean.'
+  url_2: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/47dbef1a-29ae-4280-9515-e614a478815f.jpg?ver=1471721543000'
+  img_alt_2: 'Peach, Mango & Strawberry Sangria Popsicles View Recipe > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ddd3759d-93cd-4c8e-9c8e-28c3a9a0a4fa.jpg?ver=1471721542000'
+  img_alt: 'How To &#124; Make a Summer Fruit Galette'
+
+- type: 'image-2-columns'
+  url: 'https://vimeo.com/158399784?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4eecc68a-2d61-4373-b98e-f8b319eda66a.jpg?ver=1471721543000'
+  img_alt: 'Elegant Galettes Showcase the season&#39;s harvest in gorgeous galettes. Our sensational Savory Pie Crust video will help you get started! Video Recipe Idea Savory Sour Cream Pie Crust >'
+  url_2: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/291399c8-be04-430e-a61f-d452bcd54918.jpg?ver=1471721543000'
+  img_alt_2: 'Peach & Blueberry Galette View Recipe >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b9e3702d-69ca-4c36-bea2-5cf0af87dcca.jpg?ver=1471721544000'
+  img_alt: 'From the Bakery &#124; Delicious Desserts'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8a18ec62-80bd-4a83-b8a0-2c8797b640a6.jpg?ver=1471721544000'
+  img_alt: 'Balducci&#39;s Brownie Platter'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f0cbbdf8-3e7d-4ea6-baf5-3e1d56fed6cd.jpg?ver=1471721544000'
+  img_alt_2: 'Fresh Fruit Tart'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57f7b9e7-9b9b-414e-8073-2c89fb6fa8a3.jpg?ver=1471721545000'
+  img_alt: 'Satisfy Your Sweet Tooth'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4124143d-1e2b-42f3-abad-54a09b4247d3.jpg?ver=1471721544000'
+  img_alt: 'Balducci&#39;s Apple Pie Member Exclusive 14.99/EA Reg 16.99'
+  
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d1ee495f-0b20-42a6-8251-93565e1a8dc6.jpg?ver=1471721544000'
+  img_alt: 'Dang Coconut Chips Member Exclusive 2.99/EA Reg 4.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4bc24efa-25ed-438e-bb71-61343f4ce20b.jpg?ver=1471721544000'
+  img_alt: 'Catering &#124; Gourmet Cakes & Pies'  
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5e9ed8c8-f412-412c-9aab-dcec9ee1ed23.jpg?ver=1471721545000'
+  img_alt: 'Balducci&#39;s Mousse Cakes'
+  url_2: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7981e43b-d49a-4542-8143-45f72386d7d2.jpg?ver=1471721545000'
+  img_alt_2: 'Lemon Meringue Pie'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/82a5269e-3761-41a4-b789-f70734892874.jpg?ver=1471721545000'
+  img_alt: 'View Menu >'  
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a58cc70-083e-43a1-bbe8-438522c0fee9.jpg?ver=1471721545000'
+  img_alt: 'Mark Your Calendar'  
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0826_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/885d5677-7c2f-4556-af3e-b67d7cbdd8a8.jpg?ver=1471721545000'
+  img_alt: 'Hatch Chile Event Join us for a hatch chile roast and tasting, and sample this limited time taste of fall. 10:00am - 2:00pm Balducci&#39;s Alexandria Friday, September 2nd Balducci&#39;s McLean Saturday, September 3rd Balducci&#39;s Bethesda Sunday, September 4th'  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
