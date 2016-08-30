@@ -1,0 +1,61 @@
+title: 'Your 10% Off Coupons Are Here!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0984ff9-8445-4e08-bca8-220f45be5821.jpg?ver=1467292845000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Loyalty_Email_Div2"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0080c5c7-b3a7-4b71-bc22-41005c90274c.jpg?ver=1469645916000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cc4cf8cb-a799-4aee-9596-6aaeac2769ba.jpg?ver=1469645916000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2b641c42-6a60-45f0-a463-b2e08a8d2b93.jpg?ver=1469645916000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Loyalty_Email_Div2'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bed4a2d5-5e35-4259-874b-f789c51111c0.jpg?ver=1472574932000'
+  img_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Loyalty_Email_Div2'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1179dc45-2dfd-42e9-a0b8-18e5f71d8a4b.jpg?ver=1472574933000'
+  img_alt: "Just for you! "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Loyalty_Email_Div2'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3fdb6dea-2c47-4582-a091-c02bdeab1bc5.jpg?ver=1472574933000'
+  img_alt: "10% OFF Your Total Purchase & 10% OFF Fresh Meat"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Loyalty_Email_Div2'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fba8e08d-a4af-49cc-83c5-d7f7ba2e68a0.jpg?ver=1472574933000'
+  img_alt: "Just for you! Your 10% OFF Coupons are loaded on your card. Valid through 9/30/16. NO NEED TO CARRY COUPONS.Warm Up To Fall&#39;s Flavors!September is Family Meals Month. Take time from busy schedules to plan fun family meals. Try our recipe for chilaquiles, or take the night off and let everyone create their own Bistro Meal from our Chef Prepared selections. Your Balducci&#39;s Store TeamAny Questions? Contact myBalducci's at 1.844.884.9809 or customerservice@mybalduccis.com"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Loyalty_Email_Div2'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/895a1636-99ba-4162-bc20-90e2e774ae84.jpg?ver=1472574934000'
+  img_alt: "COUPON TERMS & CONDITIONS: 10% off Total Purchase: Offer valid at all stores, except our airport locations. Must provide Balducci’s Rewards  Card or phone number. Limit one offer per customer per visit. Limit one offer per catering order and must mention  coupon when placing an order. Coupon cannot be combined with any other coupon or used on alcohol purchases. No cash refunds. Not valid on purchase of gift cards and online purchases.10% Off Fresh Meat: Offer valid at all stores, except our airport locations. Must provide Balducci’s Rewards Card or phone  number. Limit one offer per customer per visit. Not valid on catering or grocery items. Coupon cannot be combined with  any other coupon or used on alcohol purchases. No cash refunds. Not valid on purchase of gift cards or online purchases."
+
+
+
+
+
+
+
+
