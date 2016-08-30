@@ -1,0 +1,99 @@
+title: 'A Fiery Farewell to Summer'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/483f35b5-8c36-43e2-a405-966f09921f7f.jpg?ver=1470666624000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2f26a1dd-9d07-4ff1-aab9-fa74f5cdbfc8.jpg?ver=1472565693000'
+  img_alt: 'A Fiery Farewell to Summer Close out the season with a spiced-up chile recipe, pantry must-haves, game day favorites and more.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c12a3d1c-cb3a-44a4-ba4b-bcdd734bf4a6.jpg?ver=1472565693000'
+  img_alt: 'Limited Time! Hatch Chile Our New Mexico grown Hatch chiles are in season now, and ready to add their signature heat and earthiness to your fall dishes. Grab them while you can!'
+  url_2: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6de4f262-7a7a-4262-bcfa-6ed57dec2900.jpg?ver=1472565693000'
+  img_alt_2: 'Recipe Idea Bleu Cheese & Hatch Chile Sliders View Recipe &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6d6f6161-6cdc-4ae0-adde-2bf45ef69cd7.jpg?ver=1472565693000'
+  img_alt: 'Pantry Essentials | Stock Up For Fall'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6f68726b-9338-4de1-92bf-9472e6c94b27.jpg?ver=1472565693000'
+  img_alt: 'New! Morelli Pasta The Morelli family has been creating pasta since 1860. Today, the fifth generation of Morellis select the best semolina to produce their legendary pasta.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91dfe537-0a16-4f1c-9b0a-7bc5e0a6cda6.jpg?ver=1472565693000'
+  img_alt: 'New! Amerigo 1934 Tomato Sauce Amerigo 1934 sauces bring the traditional flavors of the Bolognese countryside to your table. Choose from classic Bolognese, Prosciutto & Onion or Sausage & Onion.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/783f2072-613e-4b33-b204-285c2813a703.jpg?ver=1472565694000'
+  img_alt: 'New! Forager Chips Crisp fall days call for crunchy snacks! Our new organic vegetable chips are the perfect choice in Beets, Greens and Roots flavors.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/08c2465f-e5bb-44ad-b72f-a7d1fac51fff.jpg?ver=1472565694000'
+  img_alt: 'Scyavuru Jams Made in the Scyavuru family tradition, these jams contain 65% fruit. Scyavuru chooses only the best of the local, unique citrus fruits for their jams.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b1903604-ea5d-4c5c-adff-9ce969ff560a.jpg?ver=1472565694000'
+  img_alt: 'Member Exclusive | Premium Selections'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/87c042b4-08bb-44b3-b0e2-576b89c4461b.jpg?ver=1472565694000'
+  img_alt: 'Organic Grass Fed Beef New York Strip Steak Boneless Member Exclusive 24.99/LB Reg 27.99'
+  url_2: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/46d2f2c8-08ee-434c-a0e4-339c9c7694ff.jpg?ver=1472565694000'
+  img_alt_2: 'Chef Prepared Parmesan Artichokes Member Exclusive 11.99/LB Reg 12.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2ac7fea7-11b8-428c-89e7-40b3fb50d289.jpg?ver=1472565695000'
+  img_alt: 'Mark Your Calendar'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c625afda-bcfc-4f2f-a429-f1116db779ed.jpg?ver=1472565696000'
+  img_alt: 'Exclusive Wine & Food Tasting Join us for a fall wine and food tasting, and get inspired for your fall festivities. Saturday, September 10th Balducci&#34;s Alexandria, Bethesda and McLean More Info &#62;'  
