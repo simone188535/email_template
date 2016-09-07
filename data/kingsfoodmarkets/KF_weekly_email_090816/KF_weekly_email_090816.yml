@@ -1,0 +1,146 @@
+title: 'Game Day Goodies!'
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_Weekly_Email'
+
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71b164a7-3069-4738-956b-8b2117e99de0.jpg?ver=1468246669000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eb3efd35-9d8b-49af-833f-11faa5679351.jpg?ver=1468246666000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/592b4972-267b-4a84-a3cb-dcbc9901efbe.jpg?ver=1468246666000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2b03719-5c2d-4e97-87fa-7741acd11156.jpg?ver=1468246666000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2db62192-0aba-4860-80fa-9fee2341af0c.jpg?ver=1473203381000"
+  img_alt: "Game Day Goodies Kick off football season with these fan favorite game day eats."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/00137672-7a5f-460a-8d51-79268d2566b3.jpg?ver=1473203381000"
+  img_alt: "Family Meals Month | Celebrate with Family-Friendly Game Day Meal Ideas"
+  url: "kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9a70192b-0fa8-47eb-868c-ad5268f313af.jpg?ver=1473203381000"
+  img_alt: "September is National Family Meals Month™. Celebrate game day with your family and friends and let us do the work with our Chef Prepared catering. Pick up a menu at your neighborhood Kings or view online."
+  url: "kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3d3b0f7e-5286-4e98-94ff-5a5e90f15d5e.jpg?ver=1473203381000"
+  img_alt: "Game Day Catering | Pick The Starting Lineup For Your Football Feast"
+  url: "kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7aa78074-1d06-4c90-8b2f-2f05b4eaa76c.jpg?ver=1473203381000"
+  img_alt: "Buffalo Chicken Wings"
+  url: "kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bc514954-a5a9-4010-b2dd-83193dad429c.jpg?ver=1473203382000"
+  img_alt_2: "Tex Mex Dip Platter"
+  url_2: "kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7c597175-630b-47b8-8c31-9549b4fbc2f1.jpg?ver=1473203381000"
+  img_alt: "View Menu"
+  url: "kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/21960f23-af8f-40e4-8d99-8e168b01aab8.jpg?ver=1473203381000"
+  img_alt: "Kick Off | Game Day Cocktails"
+  url: "kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6b19d31e-b6b7-47bf-8f8d-d7f840ab3614.jpg?ver=1473203381000"
+  img_alt: "Kick-Off Cocktail View Recipe"
+  url: "kingsfoodmarkets.com/unique-recipes/kick-off-cocktail?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/62571507-d140-49c9-90eb-96d9361e9055.jpg?ver=1473203381000"
+  img_alt_2: "Tequila Touchdown View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/tequila-touchdown?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6e8344d0-e8a9-4511-a007-2b1b5eceb6af.jpg?ver=1473203382000"
+  img_alt: "Market Specials | Featured Selections From Our Butcher"
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a4e47a76-2c1e-4ed1-9761-51c8d5ae1f68.jpg?ver=1473203382000"
+  img_alt: "Kings USDA Choice Natural 90% Lean Ground Beef 6.99 LB."
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e1568427-1473-437b-978a-ec15c42666f8.jpg?ver=1473203382000"
+  img_alt_2: "Local Kings Italian Style Pure Pork Sausage Links 32 OZ. 3.99 EA."
+  url_2: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0370c07a-7b37-4aea-8b18-d2be94bf5727.jpg?ver=1473203382000"
+  img_alt: "View More Specials &#62;"
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2c23102e-3f94-4167-8630-2a73510b176d.jpg?ver=1473203382000"
+  img_alt: "Game Day Snacks | Kings Own Football Favorites"
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a4a50202-8ae8-47c6-80e1-6913fea41375.jpg?ver=1473203382000"
+  img_alt: "KINGS Organic Potato Chips"
+  url: "http://kingsfoodmarkets.com/kings-own-brand/salty-snacks?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5edef125-60f1-4115-9ec7-e0657bc001a1.jpg?ver=1473203382000"
+  img_alt_2: "Kings Mini Cookies"
+  url_2: "http://kingsfoodmarkets.com/kings-own-brand/kings-mini-cookies?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/88d63c0e-53e2-472c-ab4c-def81514115a.jpg?ver=1473203382000"
+  img_alt: "View More &#62;"
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/418b1589-fb49-42f7-a974-3ac2b689980f.jpg?ver=1473203382000"
+  img_alt: "What's New In Store"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/504b752b-6718-451e-acdf-f23d56a0bb18.jpg?ver=1473203383000"
+  img_alt: "Introducing Joni Juice Stop by select Kings stores September 2nd - 15th for a buy one get one free special on Joni Juice. These cold-pressed juices are super healthy, taste great and are made from the finest produce. More Info &#62;"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+  
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f02bd5f7-71ad-4d72-8ff2-22917c5b712d.jpg?ver=1473203383000"
+  img_alt: "Celebrate Rosh Hashanah Get inspired with family recipes from Kings&#39; Jewish calendar! Create Roasted Butterflied Chicken View Recipe &#62;"
+  url: "http://kingsfoodmarkets.com/jewishcalendarrecipes.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_KF_Weekly_Email"
+
+
