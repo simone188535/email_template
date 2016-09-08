@@ -49,6 +49,13 @@ viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_
 
 # Loop through articles
 articles:
+- type: 'image'
+  image_url: 'images/bbB_092116_OshKosh_08.jpg'
+  image_alt: 'OshKosh B&#39;gosh&#174; totally cool. Totally fall. Create adorable outfits with OskKosh B&#39;gosh&#174; mix & match fall fashions. All clothes are available in sizes 3-24M. shop now >'
+  image_link: 'http://www.buybuybaby.com/store/brand/oshkosh-baby-b-39-gosh/4082?mcid=EM_Promo_201609_OshKosh_NoOffer'
+  image_height: '368'
+  image_width: '600'
+
 - type: 'images-2-columns'
   image_first_url: 'images/bbB_092116_OshKosh_09.jpg'
   image_first_alt: 'Grey Fair Isle Cardigan 24.99'
@@ -140,7 +147,7 @@ articles:
 
 - type: 'image'
   image_url: 'images/bbB_092116_OshKosh_24.jpg'
-  image_alt: 'shop OshKoshB&#39;gosh® >'
+  image_alt: 'shop OshKosh B&#39;gosh&#174;>'
   image_link: 'http://www.buybuybaby.com/store/brand/oshkosh-baby-b-39-gosh/4082?mcid=EM_Promo_201609_OshKosh_NoOffer'
   image_height: '69'
   image_width: '600'
@@ -161,17 +168,17 @@ articles:
 
 - type: 'images-3-columns'
   image_first_url: 'images/bbB_092116_OshKosh_27.jpg'
-  image_first_alt: 'shoes'
+  image_first_alt: 'shoes >'
   image_first_link: 'http://www.buybuybaby.com/store/category/clothing-accessories/shoes-accessories/32369/32369-4294965885/1-48?pagSortOpt=DEFAULT-0&subCatPlp=true&a=1&view=grid?mcid=EM_Promo_201609_OshKosh_NoOffer'
   image_first_height: '226'
   image_first_width: '196'
   image_second_url: 'images/bbB_092116_OshKosh_28.jpg'
-  image_second_alt: 'sleepwear'
+  image_second_alt: 'sleepwear >'
   image_second_link: 'http://www.buybuybaby.com/store/category/clothing-accessories/sleepwear/32365/?mcid=EM_Promo_201609_OshKosh_NoOffer'
   image_second_height: '226'
   image_second_width: '200'
   image_third_url: 'images/bbB_092116_OshKosh_29.jpg'
-  image_third_alt: 'diaperbags'
+  image_third_alt: 'diaperbags >'
   image_third_link: 'http://www.buybuybaby.com/store/category/gear-travel/diaper-bags/30507/?mcid=EM_Promo_201609_OshKosh_NoOffer'
   image_third_height: '226'
   image_third_width: '204'
@@ -179,7 +186,7 @@ articles:
 - type: 'image'
   image_url: 'images/bbB_092116_OshKosh_30.jpg'
   image_alt: 'new MAXI-COSI® Adorra Travel System shop Maxi-Cosi®>'
-  image_link: 'http://www.buybuybaby.com/store/brand/oshkosh-baby-b-39-gosh/4082?mcid=EM_Promo_201609_OshKosh_NoOffer'
+  image_link: 'http://www.buybuybaby.com/store/brand/maxi-cosi/513?mcid=EM_Promo_201609_OshKosh_NoOffer'
   image_height: '268'
   image_width: '600'
 
