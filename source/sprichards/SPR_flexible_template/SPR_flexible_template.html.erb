@@ -475,22 +475,30 @@
           </td>
         </tr>
       </table>
+    </td>
+  </tr>
 
             <!-- Articles -->
             <% @base_data_file.articles.each do |f| %>
 			<% if f["type"]=="top-image" %>
               
   <tr>
+    <td>
     <table align="center" bgcolor="#FFFFFF" width="580" border="0" cellpadding="0" cellspacing="0">
+      <tr>
         <td style="border-collapse:collapse;" valign="top">
-            <tr>
+            
                         <a href="<%= f["image_url"] %>">
                           <img style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block; border: 0; margin: 0;" src="<%= f["text_img_url"] %>" alt="<%= f["text_img_alt"] %>" title="<%= f["text_img_alt"] %>" width="<%= f["image_width"] %>" height="<%= f["image_height"] %>">
                         </a>
                         </td>
                       </tr>
+      </table>
+    </td>
+  </tr>
       
             <% end %>
+
 			<% if f["type"]=="right-side-image" %>
 
 
@@ -705,6 +713,363 @@
       <!-- End Right side image -->
 
             <% end %>
+
+<% if f["type"]=="left-side-image" %>
+
+      <!-- Left side image -->
+      <tr>
+        <td>
+          <table align="center" bgcolor="#FFFFFF" width="580" border="0" cellpadding="0" cellspacing="0"><!-- green table -->
+            <tr>
+              <td><!-- image td -->
+                <!-- left image here -->
+                <a href="<%= f["left_side_url"] %>">
+                  <img src="<%= f["left_side_image"] %>" alt="<%= f["product_img_alt"] %>" title="<%= f["product_img_alt"] %>" class="left-article-image" align="left" width="<%= f["left_side_image_width"] %>" height="<%= f["left_side_image_height"] %>">
+                </a>
+              </td><!-- end image td -->
+              <td style="border-collapse:collapse;" valign="top"><!-- info td -->
+                <table>
+                  <tr>
+                    <td>
+                      <table>
+                        <tr>
+                          <td>
+                          <table>
+                            <tr>
+                              <td valign="top" align="center" class=""><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="20">
+                              <td>
+                                <a class="product_link" href="<%= f["prod1_btn_url"] %>"> 
+                              <div class ="group_title">
+                                <%= f["group_title"] %>
+                              </div>
+                              <br>
+                              <div style="font-size:10px; font-family:Arial" class ="group_desc">
+                                <%= f["group_desc"] %>
+                              </div>
+                            </a>
+                              </td>
+                            </tr>
+                          </table>                          
+                            
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <table> <!-- red table> -->
+                              <tr>
+                                <!-- // blank space -->
+                                <td valign="top" align="center" class=""><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="20">
+                                </td><!-- // end blank space -->
+                                <td><!-- prod1 info -->
+                                  <table>
+                                    <tr>
+                                      <td>
+                                        <div class ="product_skus">
+                                          <%= f["prod1_skus"] %>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <div class ="product_skus">
+                                          List Price: <%= f["prod1_list_price"] %>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <div class ="product_specialprice">
+                                          Special Price:
+                                        </div>                                
+                                        <div class ="product_price">
+                                          <%= f["prod1_price"] %>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                                          <tr>
+                                            <td valign="top" align="center" class="container">
+                                            <!--[if mso]>
+                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                              <tr><td width="350" valign="top">
+                                            <![endif]-->
+                                               <table border="0" cellpadding="0" cellspacing="0" width="180" align="center" class="force-row">
+                                                 <tr>
+                                                   <td valign="middle" align="center" class="text-center">
+
+                                                     <center>
+                                                      <div class="button-outer-wrap button-promo-wrap"><!--[if mso]>
+                                                       <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["prod1_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="<%= f["prod1_btn_color"] %>">" fill="t">
+                                                          <w:anchorlock/>
+                                                          <center style="color:<%= f["prod1_btn_text_color"] %>;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%= f["prod1_btn_text"] %></center>
+                                                        </v:rect>
+                                                        <![endif]-->
+                                                        <!--[if !mso]><!-- -->
+                                                        <div class="button-inner-wrap">
+                                                          <table align="center" cellpadding="0" cellspacing="0" height="45" width="180" class="button-table">
+                                                            <tbody>
+                                                              <tr>
+                                                                <td align="center" valign="bottom" bgcolor="<%= f["prod1_btn_color"] %>" height="45" class="button-cell prod1-button-cell-no-color" width="180">
+                                                                  <a style="color:<%= f["prod1_btn_text_color"] %>" href="<%= f["prod1_btn_url"] %>" class="button-link prod1-button-link" title="<%= f["prod1_btn_text"] %>">
+                                                                    <span><%= f["prod1_btn_text"] %></span>
+                                                                  </a>
+                                                                </td>
+                                                              </tr>
+                                                            </tbody>
+                                                          </table>
+                                                        </div>
+                                                        <!--<![endif]-->
+                                                      </div>
+                                                    </center>
+                                                  </td>
+                                                </tr>
+                                              </table>
+                                              <!--[if mso]></td></tr></table><![endif]-->
+                                            </td>
+                                            <td valign="top" align="center" class=""><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="20"></td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td><!-- end prod1 info -->
+                                <td valign="top" align="center" class=""><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="20"><!-- // blank space -->
+                                            </td><!-- // end blank space -->
+                                <td><!-- // prod2 info -->
+                                  <table>
+                                    <tr>
+                                      <td>
+                                        <div class ="product_skus">
+                                          <%= f["prod2_skus"] %>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <div class ="product_skus">
+                                          <%= f["prod2_list_price"] %>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <div class ="product_specialprice">
+                                          Special Price:
+                                        </div>                                
+                                        <div class ="product_price">
+                                          <%= f["prod2_price"] %>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                                          <tr>
+                                            <td valign="top" align="center" class="container">
+                                            <!--[if mso]>
+                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                              <tr><td width="350" valign="top">
+                                            <![endif]-->
+                                               <table border="0" cellpadding="0" cellspacing="0" width="180" align="center" class="force-row">
+                                                 <tr>
+                                                   <td valign="middle" align="center" class="text-center">
+
+                                                     <center>
+                                                      <div class="button-outer-wrap button-promo-wrap"><!--[if mso]>
+                                                       <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["prod2_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="<%= f["prod2_btn_color"] %>">" fill="t">
+                                                          <w:anchorlock/>
+                                                          <center style="color:<%= f["prod2_btn_text_color"] %>;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%= f["prod2_btn_text"] %></center>
+                                                        </v:rect>
+                                                        <![endif]-->
+                                                        <!--[if !mso]><!-- -->
+                                                        <div class="button-inner-wrap">
+                                                          <table align="center" cellpadding="0" cellspacing="0" height="45" width="180" class="button-table">
+                                                            <tbody>
+                                                              <tr>
+                                                                <td align="center" bgcolor="<%= f["prod2_btn_color"] %>" height="45" class="button-cell prod2-button-cell-no-color" width="180">
+                                                                  <a style="color:<%= f["prod2_btn_text_color"] %>" href="<%= f["prod2_btn_url"] %>" class="button-link prod2-button-link" title="<%= f["prod2_btn_text"] %>">
+                                                                    <span><%= f["prod2_btn_text"] %></span>
+                                                                  </a>
+                                                                </td>
+                                                              </tr>
+                                                            </tbody>
+                                                          </table>
+                                                        </div>
+                                                        <!--<![endif]-->
+                                                      </div>
+                                                    </center>
+                                                  </td>
+                                                </tr>
+                                              </table>
+                                              <!--[if mso]></td></tr></table><![endif]-->
+                                            </td>
+                                            <td valign="top" align="center" class=""><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="20"></td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </table>                                </td><!-- // end prod2 info -->
+                              </tr>
+                            </table> <!-- end red table> -->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td><!-- end info td -->
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <!-- End left side image -->
+
+            <% end %>
+
+
+
+<% if f["type"]=="single-left-side-image" %>
+
+              <!-- Single Left side image -->
+      <tr>
+        <td>
+          <table align="center" bgcolor="#FFFFFF" width="580" border="0" cellpadding="0" cellspacing="0"><!-- green table -->
+            <tr>
+              <td><!-- image td -->
+                <!-- left image here -->
+                <a href="<%= f["left_side_url"] %>">
+                  <img src="<%= f["left_side_image"] %>" alt="<%= f["product_img_alt"] %>" title="<%= f["product_img_alt"] %>" class="left-article-image" align="left" width="<%= f["left_side_image_width"] %>" height="<%= f["left_side_image_height"] %>">
+                </a>
+              </td><!-- end image td -->
+              <td style="border-collapse:collapse;" valign="top"><!-- info td -->
+                <table>
+                  <tr>
+                    <td>
+                      <table>
+                        <tr>
+                          <td>
+                          <table>
+                            <tr>
+                              <td valign="top" align="center" class=""><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="20">
+                              <td>
+                                <a class="product_link" href="<%= f["prod1_btn_url"] %>"> 
+                              <div class ="group_title">
+                                <%= f["group_title"] %>
+                              </div>
+                              <br>
+                              <div style="font-size:10px; font-family:Arial" class ="group_desc">
+                                <%= f["group_desc"] %>
+                              </div>
+                            </a>
+                              </td>
+                            </tr>
+                          </table>                          
+                            
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <table> <!-- red table> -->
+                              <tr>
+                                <!-- // blank space -->
+                                <td valign="top" align="center" class=""><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="20">
+                                </td><!-- // end blank space -->
+                                <td><!-- prod1 info -->
+                                  <table>
+                                    <tr>
+                                      <td>
+                                        <div class ="product_skus">
+                                          <%= f["prod1_skus"] %>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <div class ="product_skus">
+                                          List Price: <%= f["prod1_list_price"] %>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <div class ="product_specialprice">
+                                          Special Price:
+                                        </div>                                
+                                        <div class ="product_price">
+                                          <%= f["prod1_price"] %>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                                          <tr>
+                                            <td valign="top" align="center" class="container">
+                                            <!--[if mso]>
+                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                              <tr><td width="350" valign="top">
+                                            <![endif]-->
+                                               <table border="0" cellpadding="0" cellspacing="0" width="180" align="center" class="force-row">
+                                                 <tr>
+                                                   <td valign="middle" align="center" class="text-center">
+
+                                                     <center>
+                                                      <div class="button-outer-wrap button-promo-wrap"><!--[if mso]>
+                                                       <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<%= f["prod1_btn_url"] %>" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="<%= f["prod1_btn_color"] %>">" fill="t">
+                                                          <w:anchorlock/>
+                                                          <center style="color:<%= f["prod1_btn_text_color"] %>;font-family: Helvetica, Arial, sans-serif;font-size:20px;"><%= f["prod1_btn_text"] %></center>
+                                                        </v:rect>
+                                                        <![endif]-->
+                                                        <!--[if !mso]><!-- -->
+                                                        <div class="button-inner-wrap">
+                                                          <table align="center" cellpadding="0" cellspacing="0" height="45" width="180" class="button-table">
+                                                            <tbody>
+                                                              <tr>
+                                                                <td align="center" valign="bottom" bgcolor="<%= f["prod1_btn_color"] %>" height="45" class="button-cell prod1-button-cell-no-color" width="180">
+                                                                  <a style="color:<%= f["prod1_btn_text_color"] %>" href="<%= f["prod1_btn_url"] %>" class="button-link prod1-button-link" title="<%= f["prod1_btn_text"] %>">
+                                                                    <span><%= f["prod1_btn_text"] %></span>
+                                                                  </a>
+                                                                </td>
+                                                              </tr>
+                                                            </tbody>
+                                                          </table>
+                                                        </div>
+                                                        <!--<![endif]-->
+                                                      </div>
+                                                    </center>
+                                                  </td>
+                                                </tr>
+                                              </table>
+                                              <!--[if mso]></td></tr></table><![endif]-->
+                                            </td>
+                                            <td valign="top" align="center" class=""><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="20"></td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td><!-- end prod1 info -->
+                                <td valign="top" align="center" class=""><img src="<%=@base_spacer_img_url%>" alt="" height="1" width="20"><!-- // blank space -->
+                                            </td><!-- // end blank space -->
+                              </tr>
+                            </table> <!-- end red table> -->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td><!-- end info td -->
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <!-- End Single  left side image -->
+
+            <% end %>
+
 
             <% end %>
 
