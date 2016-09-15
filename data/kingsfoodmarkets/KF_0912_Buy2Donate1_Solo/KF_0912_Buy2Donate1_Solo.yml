@@ -1,0 +1,93 @@
+title: 'Donate &amp; Save with KINGS Own '
+
+primary_color: '#'
+
+background_color: '#FFFFFF'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo'
+
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71b164a7-3069-4738-956b-8b2117e99de0.jpg?ver=1468246669000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eb3efd35-9d8b-49af-833f-11faa5679351.jpg?ver=1468246666000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/592b4972-267b-4a84-a3cb-dcbc9901efbe.jpg?ver=1468246666000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2b03719-5c2d-4e97-87fa-7741acd11156.jpg?ver=1468246666000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/04524d74-3d3e-4bab-b1af-7419f5b4164f.jpg?ver=1473966006000"
+  img_alt: "Kings Buy Two Donate One help end hunger! Receive special savings on select KINGS Own products, and donate one to a Local Community Food Bank to help end hunger. Donation bins will be available in-store through Sept. 29. 9/16 thru 9/29"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e7ab47b4-cbe6-48b2-95d2-b3aa14e971e5.jpg?ver=1473966003000"
+  img_alt: "Find a Store &#62;"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f59be614-0107-45c8-9aa7-4e9f27b148c5.jpg?ver=1473966005000"
+  img_alt: "Through our Act Against Hunger initiative, Kings has donated over 100,000 pounds of food to those in need. It’s part of our continuing effort to end hunger in the communities we serve."
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bb077ac6-d308-432c-ab93-e6a70568a291.jpg?ver=1473966003000"
+  img_alt: "Plus enter to win KINGS Own products + a $100 Kings gift card 9/16 – 9/29 Enter In-Store"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/70b88366-658f-4baf-bfa6-4e4b64ba98f3.jpg?ver=1473966012000"
+  img_alt: "Learn More &#62;"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ffaf0339-410f-4948-a0a7-b1f82e088c0c.jpg?ver=1473966003000"
+  img_alt: "Buy Two, Donate One"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b650144e-e8aa-4725-886d-812db87a995a.jpg?ver=1473966004000"
+  img_alt: "Kings Pretzels 2/3.00"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b50672dc-958b-4f67-a4bb-be5de38f647e.jpg?ver=1473966003000"
+  img_alt_2: "Kings Spring Water8 fl oz. 12 pk. 2/5.00"
+  url_2: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a1c7d776-ea27-4b73-98a6-58eeaf511d9f.jpg?ver=1473966004000"
+  img_alt: "Kings Organic Canned Beans 5/5.00"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b6e7333a-68d5-433e-8a82-ec66a2921490.jpg?ver=1473966004000"
+  img_alt_2: "Kings Organic Teas 16 fl oz. 5/5.00"
+  url_2: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0912_KF_Buy2Donate1_Solo"
