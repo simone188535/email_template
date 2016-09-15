@@ -1,0 +1,158 @@
+title: 'You Can Grill That?'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email'
+
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/499e9ea3-8eb0-4d28-8986-f114e9316814.jpg?ver=1473793354000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f69cb294-9720-429d-af3c-d31e8b875abd.jpg?ver=1473793354000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e4f091b5-f49c-4e11-a459-67cef4e142c0.jpg?ver=1473793354000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e1138748-5821-4591-aee2-1ac0fcd4d77a.jpg?ver=1473793354000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c7b9481a-6b1d-497a-8dc8-ffd42974e6b4.jpg?ver=1473793348000"
+  img_alt: "Brilliant Meal Prep Ideas Celebrate National Family Meals Month™ with easy plan-ahead meal ideas and a special way to save and donate with KINGS Own."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3b987d8f-1fc0-4379-a68c-9d3372d3e3a1.jpg?ver=1473793349000"
+  img_alt: "Five P's of Prep"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email" 
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ed24789a-40bc-4e1a-9ca9-bf70db0e04b2.jpg?ver=1473793348000"
+  img_alt: "Plan Portion Pair Prep Pack "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"   
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6d3b514b-aeff-4be5-9294-99dc9117c281.jpg?ver=1473793349000"
+  img_alt: "More Info &#62; "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8f9acb6a-416c-4565-b871-282c18e64015.jpg?ver=1473793349000"
+  img_alt: "Help End Hunger | Buy 2 Donate 1 With KINGS Own"
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d95d184f-0838-4f76-8678-76adfcaba459.jpg?ver=1473793350000"
+  img_alt: "Receive special savings on select KINGS Own products and then donate one to a Local Community Food Bank using the donation bins located in store through September 29th. See store for details."
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/86b80360-e977-4c7f-94db-8fe7d807f223.jpg?ver=1473793350000"
+  img_alt: "KINGS Organic Pasta 12 OZ. 2/$5 "
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/69728d30-9b4b-4a79-b884-9d2ea0b5fce3.jpg?ver=1473793350000"
+  img_alt_2: "KINGS Pasta Sauce 24 OZ. 2/$10 "
+  url_2: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22ccbec6-58ab-497b-865b-0c234ab53cae.jpg?ver=1473793350000"
+  img_alt: "View More &#62;"
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e43eefba-49a5-40bb-bb20-53c8a1560722.jpg?ver=1473793350000"
+  img_alt: "Plan Ahead Recipes | Mouthwatering Family Meals "
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7d0a45d5-62fc-4434-8d17-6270c270bd3d.jpg?ver=1473793351000"
+  img_alt: "Chicken Breast Stuffed with Brie and Roasted Apples View Recipe "
+  url: "http://kingsfoodmarkets.com/unique-recipes/chicken-stuffed-with-brie?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/33ef522b-f709-419b-a12a-efc9d8fdb007.jpg?ver=1473793351000"
+  img_alt: "Sautéed Brussels Sprouts with Pancetta View Recipe "
+  url: "http://kingsfoodmarkets.com/unique-recipes/sauteed-brussels-sprouts-with-pancetta?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7cd7ee8a-92ab-443f-b8fc-f954824a7013.jpg?ver=1473793351000"
+  img_alt_2: "Roasted Spiced Organic Yams View Recipe "
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/roasted-spiced-louisiana-yams?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0b7c4b65-f31f-4306-907f-2390cf6d3039.jpg?ver=1473793352000"
+  img_alt: "Dinner Essentials | Meal Prep Basics "
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7bf19e3a-19f1-46b7-8494-bb6e56550cbe.jpg?ver=1473793352000"
+  img_alt: "Kings Chairman's Reserve USDA Choice Beef Bottom Round or Boneless Chuck Roast 3.99 LB. "
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4b52aefb-26c3-4cdf-9df3-f7dfd3eb6595.jpg?ver=1473793352000"
+  img_alt_2: "New! Organic Freebird Fresh Boneless Skinless Chicken Breasts 7.99 LB."
+  url_2: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"  
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ebc10160-905e-4125-b986-407e4a10ce6a.jpg?ver=1473793353000"
+  img_alt: "View More Specials &#62;"
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c3a4d594-4bbf-42ba-bed7-6ed2476242b8.jpg?ver=1473793353000"
+  img_alt: "Chef Prepared | Grab-and-Go Veggie Creations "
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/39afb11e-f08a-47a0-b094-3c14fd8c4714.jpg?ver=1473793353000"
+  img_alt: "Crunchy Wheatberry Salad "
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cd141d3f-3150-48c5-af0b-dea8bab30020.jpg?ver=1473793353000"
+  img_alt_2: "Crunchy Vegetable Salad "
+  url_2: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"   
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3f0441f1-82a6-4da6-a840-014f2f840d0e.jpg?ver=1473793354000"
+  img_alt: "View More &#62;"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/682afe70-f90b-4f6a-be7d-1ef4a1de8c3b.jpg?ver=1473793354000"
+  img_alt: "What's New In Store"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f2bb7709-e900-42a5-943d-2504b0d417d8.jpg?ver=1473793354000"
+  img_alt: "Rosh Hashanah Catering Host an elegant Rosh Hashanah gathering and let us prepare a memorable feast for your family. Enjoy our traditional catering with a modern touch. View Menu &#62; "
+  url: "http://kingsfoodmarkets.com/catering-by-kings/rosh-hashanah?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email" 
+  
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7a0dc5e2-5b3a-40bc-bc6d-eccfcf0560c3.jpg?ver=1473793354000"
+  img_alt: "Festive Foods to Celebrate Find delight in Jewish recipes, traditional foods and more. Pick up Kings' Jewish Calendar in store! Create Honey Challah with Figs and Walnuts View Recipe &#62; "
+  url: "http://kingsfoodmarkets.com/jewishcalendarrecipes.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"      
