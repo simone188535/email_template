@@ -1,0 +1,117 @@
+title: 'Online Only! Ugly Halloween Sweaters…Put One On…We Dare You!  '
+
+pre_header_text: ''
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com'
+header_logo_img: "images/Ugly_Halloween_Sweaters_01.jpg"
+header_logo_alt: "Christmas Tree Shops&#174; and That&#8482;"
+header_logo_height: "65"
+header_logo_width: "600"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+header_arrivals_img: "images/Ugly_Halloween_Sweaters_02.jpg"
+header_arrivals_alt: "NEW ARRIVALS"
+header_arrivals_height: "30"
+header_arrivals_width: "152"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+header_seasonal_img: "images/Ugly_Halloween_Sweaters_03.jpg"
+header_seasonal_alt: "SEASONAL &#38; GIFTS"
+header_seasonal_height: "30"
+header_seasonal_width: "131"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+header_furniture_img: "images/Ugly_Halloween_Sweaters_04.jpg"
+header_furniture_alt: "FURNITURE"
+header_furniture_height: "30"
+header_furniture_width: "90"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?mobile=off'
+header_outdoor_img: "images/Ugly_Halloween_Sweaters_05.jpg"
+header_outdoor_alt: "OUTDOOR"
+header_outdoor_height: "30"
+header_outdoor_width: "89"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do'
+header_clearance_img: "images/Ugly_Halloween_Sweaters_06.jpg"
+header_clearance_alt: "CLEARANCE"
+header_clearance_height: "30"
+header_clearance_width: "138"
+
+
+socialnav:
+- img: "images/Ugly_Halloween_Sweaters_13.jpg"
+  alt: " "
+  link: "#"
+  width: '135'
+  height: '70'
+
+- img: "images/Ugly_Halloween_Sweaters_14.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops'
+  width: '59'
+  height: '70'
+
+- img: "images/Ugly_Halloween_Sweaters_15.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat'
+  width: '43'
+  height: '70'
+
+- img: "images/Ugly_Halloween_Sweaters_16.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops'
+  width: '44'
+  height: '70'
+
+- img: "images/Ugly_Halloween_Sweaters_17.jpg"
+  alt: "Find a store near you &#62;"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do'
+  width: '169'
+  height: '70'
+
+- img: "images/Ugly_Halloween_Sweaters_18.jpg"
+  alt: " "
+  link: ""
+  width: '150'
+  height: '70'
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/Ugly_Halloween_Sweaters_07.jpg"
+    img_alt: 'Online Only! While Supplies Last! 19.99 each LED Halloween Sweaters'
+    url: 'http://www.christmastreeshops.com/product/ugly-halloween-sweaters.do'
+    width: '600'
+    height: '636'
+
+  - type: "image-4-columns"
+    img: "images/Ugly_Halloween_Sweaters_08.jpg"
+    img_alt: 'New Arrivals'
+    url: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+    width: '150'
+    height: '95'
+    img_2: "images/Ugly_Halloween_Sweaters_09.jpg"
+    img_alt_2: 'Seasonal & Gifts'
+    url_2: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+    width_2: '150'
+    height_2: '95'
+    img_3: "images/Ugly_Halloween_Sweaters_10.jpg"
+    img_alt_3: 'Kitchen & Dining'
+    url_3: 'http://www.christmastreeshops.com/category/kitchen-dining.do?mobile=off'
+    width_3: '150'
+    height_3: '95'
+    img_4: "images/Ugly_Halloween_Sweaters_11.jpg"
+    img_alt_4: 'Home & Décor'
+    url_4: 'http://www.christmastreeshops.com/category/home-decorating.do?mobile=off'
+    width_4: '150'
+    height_4: '95'
+
+  - type: "image"
+    img: "images/Ugly_Halloween_Sweaters_12.jpg"
+    img_alt: 'Clearance'
+    url: 'http://www.christmastreeshops.com/category/clearance.do'
+    width: '600'
+    height: '348'
