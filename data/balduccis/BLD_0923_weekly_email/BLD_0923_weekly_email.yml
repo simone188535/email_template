@@ -1,0 +1,152 @@
+title: 'Host an Elegant Rosh Hashanah'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f8050b15-2444-447f-bb4a-162bac79e0e1.jpg?ver=1474380811000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7004b75e-c6e0-48a2-a93d-501f30f721b1.jpg?ver=1474380811000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/29ad804e-6d8f-4871-aafa-d4a2793160d0.jpg?ver=1474380811000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8b7e4acb-782c-42c5-b8fb-3dd4ef34063b.jpg?ver=1474380796000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cdc17aac-35ff-4c83-af0c-cdf688e0048b.jpg?ver=1474380798000'
+  img_alt: 'All the Ingredients for a Sweet New Year Celebrate Rosh Hashanah with festive recipe ideas and elegant gourmet catering. Create Apple & Almond Cream Tart View Recipe > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/529f673b-5c37-4bc7-84cb-07ce2cb9fa4b.jpg?ver=1474380798000'
+  img_alt: 'Catering | Celebrate Rosh Hashanah'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/938343cc-35d7-47d3-8d17-7b83a8a8b99e.jpg?ver=1474380799000'
+  img_alt: 'Traditional Beef Brisket with Slow Roasted Vegetables'
+  url_2: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3ae22c0c-97a1-4678-82bf-44dbf0f99639.jpg?ver=1474380800000'
+  img_alt_2: 'Apple Glazed Roast Chicken'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/24e46fea-f6dc-45dc-a3ff-00cbdf80b3ce.jpg?ver=1474397175000'
+  img_alt: 'Whole Honey Roasted Apples'
+  url_2: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6639464c-f47c-468a-995a-47c1cf0b2d46.jpg?ver=1474380801000'
+  img_alt_2: 'Potato Latkes'  
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/78ae1f76-47a7-4973-8083-7768ad57ac73.jpg?ver=1474380802000'
+  img_alt: 'View Menu >'
+
+- type: 'image'
+  url: 'https://vimeo.com/balduccis'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/73be458e-67b5-4d7e-bb84-694225816858.jpg?ver=1474380803000'
+  img_alt: 'How To Videos | Holiday Recipes'
+
+- type: 'image'
+  url: 'https://vimeo.com/181937761'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1c5b6f98-db35-40b4-a1e4-d50c1300245b.jpg?ver=1474380804000'
+  img_alt: '> Recipe Gremolata Rubbed Brisket'
+
+- type: 'image'
+  url: 'https://vimeo.com/161853111'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6f56f986-5991-445a-9fb1-02de7a4062e9.jpg?ver=1474380805000'
+  img_alt: '> How To 3 Easy Gremolata Recipes'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/552313b7-e90f-44b5-81b9-270b509136f5.jpg?ver=1474380806000'
+  img_alt: 'Honey Do&#39;s | Perfect Pairings'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/55c474d1-e647-4570-b7da-e83ba7db36f0.jpg?ver=1474380807000'
+  img_alt: 'Balducci&#39;s Organic Honey Our honey comes from family owned beekeepers who carefully select the highest quality 100% pure, all-natural honey. It&#39;s also True Source Verified—certified ethical, sustainable and with transparent sourcing from hive to bottle.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/165f2d51-7ad6-4e45-99a9-06150cf1609f.jpg?ver=1474380808000'
+  img_alt: 'Siggi&#39;s Pumpkin Spice Yogurt This Icelandic-style yogurt has 2-3 times the protein of standard yogurt, and the seasonal pumpkin & spice flavor is terrific, too! Pair with Balducci&#39;s True Source Verified Raw Honey '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c05ad82d-0eaf-4736-8419-3c9306e891c7.jpg?ver=1474380809000'
+  img_alt: 'Saint Angel Triple Cream This creamy cheese contains more calcium, phosphorus and milk protein than regular soft ripened cheeses, making it a healthy treat! Pair with Balducci&#39;s True Source Verified Orange Blossom Honey'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/70ff0e79-764d-4513-a7a4-1eb338d29498.jpg?ver=1474380810000'
+  img_alt: 'Fresh From the Bakery | Sweet Treats'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8b296403-0ecb-4f57-a82c-299d7ce0d989.jpg?ver=1474380810000'
+  img_alt: 'Apple Walnut Tart '
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/647a6330-0f9c-48a5-94f9-1921c912427b.jpg?ver=1474380810000'
+  img_alt_2: 'Apple Doughnuts'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e89c8777-d28e-41a8-b5fc-47a4acebd980.jpg?ver=1474380811000'
+  img_alt: 'What&#39;s New In Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0923_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e32c10fe-2d26-44c7-bf3a-62a465bbc989.jpg?ver=1474380811000'
+  img_alt: 'Rosh Hashanah In-Store Tastings Stop by and sample Chef Prepared Rosh Hashanah favorites! • Friday, 9/23 5pm-7:30pm • Sunday, 9/25 12 noon-5pm, 5pm-7:30pm • Tuesday, 9/27 5pm-7:30pm • Thursday, 9/29 5pm-7:30pm '
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
