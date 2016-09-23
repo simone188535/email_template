@@ -1,0 +1,127 @@
+title: 'A Window of Opportunity! Online Only! While Supplies Last!'
+
+pre_header_text: ''
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com/?utm_source=e&utm_m1'
+header_logo_img: "images/CTS_100216_EcomLighting_01.jpg"
+header_logo_alt: "Christmas Tree Shops®"
+header_logo_height: "65"
+header_logo_width: "600"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+header_arrivals_img: "images/CTS_100216_EcomLighting_02.jpg"
+header_arrivals_alt: "New Arrivals"
+header_arrivals_height: "31"
+header_arrivals_width: "154"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+header_seasonal_img: "images/CTS_100216_EcomLighting_03.jpg"
+header_seasonal_alt: "Seasonal"
+header_seasonal_height: "31"
+header_seasonal_width: "127"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+header_furniture_img: "images/CTS_100216_EcomLighting_04.jpg"
+header_furniture_alt: "Furniture"
+header_furniture_height: "31"
+header_furniture_width: "90"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?mobile=off'
+header_outdoor_img: "images/CTS_100216_EcomLighting_05.jpg"
+header_outdoor_alt: "Outdoor"
+header_outdoor_height: "31"
+header_outdoor_width: "86"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?skipmobile=true'
+header_clearance_img: "images/CTS_100216_EcomLighting_06.jpg"
+header_clearance_alt: "Clearance"
+header_clearance_height: "31"
+header_clearance_width: "143"
+
+
+socialnav:
+- img: "images/CTS_100216_EcomLighting_14.jpg"
+  alt: " "
+  link: "#"
+  width: '136'
+  height: '71'
+
+- img: "images/CTS_100216_EcomLighting_15.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops'
+  width: '58'
+  height: '71'
+
+- img: "images/CTS_100216_EcomLighting_16.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat'
+  width: '44'
+  height: '71'
+
+- img: "images/CTS_100216_EcomLighting_17.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops'
+  width: '43'
+  height: '71'
+
+- img: "images/CTS_100216_EcomLighting_18.jpg"
+  alt: "Find a store near you &#62;"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do'
+  width: '181'
+  height: '71'
+
+- img: "images/CTS_100216_EcomLighting_19.jpg"
+  alt: " "
+  link: ""
+  width: '138'
+  height: '71'
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/CTS_100216_EcomLighting_07.jpg"
+    img_alt: 'OCTOBER 2, 2016 ONLINE ONLY! While supplies last!'
+    url: ' '
+    width: '600'
+    height: '152'
+
+  - type: "image"
+    img: "images/CTS_100216_EcomLighting_08.jpg"
+    img_alt: '29.99-49.99 Fashion Lamps Also available: 24/25&#34; Crystal Column Table Lamps $59.99 ea.'
+    url: 'http://www.christmastreeshops.com/product/fashion-lamps.do'
+    width: '600'
+    height: '619'
+
+  - type: "image-4-columns"
+    img: "images/CTS_100216_EcomLighting_09.jpg"
+    img_alt: 'New Arrivals'
+    url: 'http://www.christmastreeshops.com/category/new-arrivals.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BOTTOM NAV - NEW ARRIVALS" urlId="64083" target="_blank" frontuid="127521'
+    width: '150'
+    height: '94'
+    img_2: "images/CTS_100216_EcomLighting_10.jpg"
+    img_alt_2: 'Curtains & Rugs'
+    url_2: 'http://www.christmastreeshops.com/category/windows-rugs.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BOTTOM NAV - CURTAINS & RUGS" urlId="64083" target="_blank" frontuid="127521'
+    width_2: '150'
+    height_2: '94'
+    img_3: "images/CTS_100216_EcomLighting_11.jpg"
+    img_alt_3: 'Furniture'
+    url_3: 'http://www.christmastreeshops.com/category/furniture.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BOTTOM NAV - FURNITURE" urlId="64083" target="_blank" frontuid="127521'
+    width_3: '150'
+    height_3: '94'
+    img_4: "images/CTS_100216_EcomLighting_12.jpg"
+    img_alt_4: 'Home & Décor'
+    url_4: 'http://www.christmastreeshops.com/category/home-decorating.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BOTTOM NAV - HOME DECOR" urlId="64083" target="_blank" frontuid="127521'
+    width_4: '150'
+    height_4: '94'
+
+  - type: "image"
+    img: "images/CTS_100216_EcomLighting_13.jpg"
+    img_alt: 'FREE SHIPPING SITEWIDE ONLINE ONLY! TODAY ONLY! ON ALL ORDERS OF $65 OR MORE! USE CODE AT CHECKOUT: LIGHTING65 See website for complete details.'
+    url: 'http://www.christmastreeshops.com'
+    width: '600'
+    height: '195'
+
+
+
