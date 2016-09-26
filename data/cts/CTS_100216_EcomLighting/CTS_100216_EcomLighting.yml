@@ -4,7 +4,7 @@ pre_header_text: ''
 
 primary_color: '#ffffff'
 
-header_logo_link: 'http://www.christmastreeshops.com/?utm_source=e&utm_m1'
+header_logo_link: 'http://www.christmastreeshops.com'
 header_logo_img: "images/CTS_100216_EcomLighting_01.jpg"
 header_logo_alt: "Christmas Tree Shops®"
 header_logo_height: "65"
@@ -83,7 +83,7 @@ articles:
   - type: "image"
     img: "images/CTS_100216_EcomLighting_07.jpg"
     img_alt: 'OCTOBER 2, 2016 ONLINE ONLY! While supplies last!'
-    url: ' '
+    url: 'http://www.christmastreeshops.com'
     width: '600'
     height: '152'
 
@@ -97,22 +97,22 @@ articles:
   - type: "image-4-columns"
     img: "images/CTS_100216_EcomLighting_09.jpg"
     img_alt: 'New Arrivals'
-    url: 'http://www.christmastreeshops.com/category/new-arrivals.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BOTTOM NAV - NEW ARRIVALS" urlId="64083" target="_blank" frontuid="127521'
+    url: 'http://www.christmastreeshops.com/category/new-arrivals.do'
     width: '150'
     height: '94'
     img_2: "images/CTS_100216_EcomLighting_10.jpg"
     img_alt_2: 'Curtains & Rugs'
-    url_2: 'http://www.christmastreeshops.com/category/windows-rugs.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BOTTOM NAV - CURTAINS & RUGS" urlId="64083" target="_blank" frontuid="127521'
+    url_2: 'http://www.christmastreeshops.com/category/windows-rugs.do?mobile=off'
     width_2: '150'
     height_2: '94'
     img_3: "images/CTS_100216_EcomLighting_11.jpg"
     img_alt_3: 'Furniture'
-    url_3: 'http://www.christmastreeshops.com/category/furniture.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BOTTOM NAV - FURNITURE" urlId="64083" target="_blank" frontuid="127521'
+    url_3: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
     width_3: '150'
     height_3: '94'
     img_4: "images/CTS_100216_EcomLighting_12.jpg"
     img_alt_4: 'Home & Décor'
-    url_4: 'http://www.christmastreeshops.com/category/home-decorating.do?nType=1&utm_source=e&utm_medium=e&utm_content=headerfooter&utm_campaign=_CAMPAIGNCODE__" reportname="BOTTOM NAV - HOME DECOR" urlId="64083" target="_blank" frontuid="127521'
+    url_4: 'http://www.christmastreeshops.com/category/home-decorating.do?mobile=off'
     width_4: '150'
     height_4: '94'
 
