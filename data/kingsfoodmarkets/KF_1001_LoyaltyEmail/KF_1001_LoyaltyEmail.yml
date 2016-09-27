@@ -1,0 +1,72 @@
+title: 'Account Update Reminder'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+# logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email'
+
+# logo_img: ''
+# logo_alt: 'KINGS'
+# logo_img_space: ''
+# logo_img_space_2: ''
+# store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email'
+# store_locator_img: ''
+# store_locator_alt: 'FIND A STORE'
+# weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email'
+# weekly_circular_img: ''
+# weekly_circular_alt: 'WEEKLY CIRCULAR'
+# chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email'
+# chef_prepared_img: ''
+# chef_prepared_alt: 'CHEF PREPARED'
+# catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email'
+# catering_img: ''
+# catering_alt: 'CATERING'
+
+
+
+#footer
+# footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_KF_Weekly_Email"
+# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/499e9ea3-8eb0-4d28-8986-f114e9316814.jpg?ver=1473793354000"
+# footer_site_alt: "www.kingsfoodmarkets.com"
+# footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f69cb294-9720-429d-af3c-d31e8b875abd.jpg?ver=1473793354000"
+# footer_facebook_alt: "facebook"
+# footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e4f091b5-f49c-4e11-a459-67cef4e142c0.jpg?ver=1473793354000"
+# footer_twitter_alt: "twitter"
+# footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+# footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e1138748-5821-4591-aee2-1ac0fcd4d77a.jpg?ver=1473793354000"
+# footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e4ac0cde-20a0-400f-af6f-c3ac1287932f.jpg?ver=1474990403000"
+  img_alt: "Kings Rewards Not A Member? Sign Up At Any Register Today!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1001_KF_LoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/288675ad-6b7c-45dc-b60a-104b5405a205.jpg?ver=1474990403000"
+  img_alt: "October Exclusive Member Offers Enjoy Double Points on KINGS Own Brand Kings Dried Pasta 12 - 16 oz. Kings Oils & Vinegars 8.45 - 34 oz. Kings Pasta Sauces 24 oz. Kings Naturally Fresh Apple Cider 64 oz., 128 oz. Kings Frozen Fruit 10 - 16 oz. Kings Organic Dried Fruit & Nuts 4.5 - 11 oz. Kings Italian Cookies 16 - 32 oz. Kings Cannoli Platter 32 oz. Kings Biscotti 7 - 8.5 oz."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1001_KF_LoyaltyEmail" 
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c6668b28-8c6a-4ddd-89ec-bba2ef4a0a6c.jpg?ver=1474990403000"
+  img_alt: "Plus! Introducing Our New Soup Club!"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1001_KF_LoyaltyEmail"   
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/549189da-9739-4ec9-803c-ea1299193251.jpg?ver=1474990404000"
+  img_alt: "Buy 5 Kings Hot Soups Get the 6th Free!* (*) The Free hot soup will automatically be subtracted from the total. Free value cannot be applied to another item or received as cash. "
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1001_KF_LoyaltyEmail"   
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9c5e2f25-bf7a-42cf-af48-83a6dd6e34f7.jpg?ver=1474990404000"
+  img_alt: "Remember! Use Your Card Or Phone Number Each Time You Shop To Receive All Your Benefits!"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1001_KF_LoyaltyEmail"      
+
