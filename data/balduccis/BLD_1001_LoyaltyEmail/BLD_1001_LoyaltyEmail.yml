@@ -1,0 +1,43 @@
+title: 'Your 10% Off Coupons Are Here!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0984ff9-8445-4e08-bca8-220f45be5821.jpg?ver=1467292845000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Loyalty_Email_Div2"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0080c5c7-b3a7-4b71-bc22-41005c90274c.jpg?ver=1469645916000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cc4cf8cb-a799-4aee-9596-6aaeac2769ba.jpg?ver=1469645916000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2b641c42-6a60-45f0-a463-b2e08a8d2b93.jpg?ver=1469645916000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1001_BLD_Loyalty_Email_Div2'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/09674c1e-e7f2-4b42-af70-97fc8200b305.jpg?ver=1475241436000'
+  img_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1001_BLD_Loyalty_Email_Div2'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7bdbd977-6cf4-4e0a-a21b-46b8590f569d.jpg?ver=1475241437000'
+  img_alt: "Just for you! 10&#37; OFF Your Total Purchase &amp; 10&#37; OFF Fresh Meat Your 10&#37; OFF Coupons are loaded on your card. Valid through 10&#47;31&#47;16. NO NEED TO CARRY COUPONS. Buon Giorno! Join Us For A Taste Of Italy! For 100 years, Balducci&#39;s has been bringing you the best in food, and that tradition continues in October, as we showcase all the best of Italy. From great recipes to try at home, to superior packaged foods to our restaurant-quality Chef Prepared foods, it&#39;s a celebration of all things Italian. Your Balducci&#39;s Store Team Any Questions? Contact myBalducci&#39;s at 1&#46;844&#46;884&#46;9809 or customerservice@mybalduccis.com"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1001_BLD_Loyalty_Email_Div2'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c55be36f-942f-4444-bee9-b8af3ff1c795.jpg?ver=1475241437000'
+  img_alt: "COUPON TERMS &amp; CONDITIONS: 10&#37; off Total Purchase: Offer valid at all stores, except our airport locations. Must provide Balducci’s Rewards  Card or phone number. Limit one offer per customer per visit. Limit one offer per catering order and must mention  coupon when placing an order. Coupon cannot be combined with any other coupon or used on alcohol purchases. No cash refunds. Not valid on purchase of gift cards and online purchases. 10&#37; Off Fresh Meat: Offer valid at all stores, except our airport locations. Must provide Balducci’s Rewards Card or phone  number. Limit one offer per customer per visit. Not valid on catering or grocery items. Coupon cannot be combined with  any other coupon or used on alcohol purchases. No cash refunds. Not valid on purchase of gift cards or online purchases."

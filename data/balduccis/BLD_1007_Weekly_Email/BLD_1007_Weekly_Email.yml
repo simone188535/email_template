@@ -1,0 +1,98 @@
+title: 'Our Rich Italian Heritage'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'hhttp://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/483f35b5-8c36-43e2-a405-966f09921f7f.jpg?ver=1470666624000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b9bd1edd-df60-4d1b-81a3-5467d7cc048c.jpg?ver=1475518985000'
+  img_alt: 'Ciao Italia! Celebrate Italian cuisine with our superior selection of authentic imported foods and fresh favorites. Create Spiralized Butternut Squash with Italian Sausage Ragu Watch Video &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6a80d1c3-e3d9-4aaa-8ed3-3bdaa4cf36f4.jpg?ver=1475518984000'
+  img_alt: 'Our History | A Rich Italian Heritage'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5191de44-bb4b-439a-96fd-98d202c5d63e.jpg?ver=1475518984000'
+  img_alt: 'Mom &amp; Pop Balducci In 1916, Mom and Pop Balducci opened a produce stand bringing the best of Italian flavors to their customers. It was a success and grew to become Balducci&#39;s Food Lover&#39;s Market. In October, we celebrate our Italian Heritage with Old World traditions and new taste sensations that would make Mom and Pop proud.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b5b074b9-ea87-42cf-9188-c78edf87f7ba.jpg?ver=1475518984000'
+  img_alt: 'Staff Picks | Italian Imports'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d175c910-6545-443b-847c-a9f769d09045.jpg?ver=1475518985000'
+  img_alt: 'Balducci&#39;s Staff Picks Dalla Terra Truffle Oils Made with only the finest truffles, Dalla Terra Truffle Oils add the rich, decadent flavor of truffles to meats, pastas, potatoes, and even popcorn!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0e42f1b6-c883-4f2a-a020-0b2b56d50adf.jpg?ver=1475518985000'
+  img_alt: 'Monari Federzoni Balsamic Glaze Put a finishing touch on meats, cheeses, salads or even ice cream and fruit for a perfect balance of savory and sweet.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4985fcb0-fe74-4b10-a82a-9b843a8a3ae3.jpg?ver=1475518985000'
+  img_alt: 'Filotea Pasta Filotea pasta is made from the finest flour, durum wheat semolina, and fresh eggs, so it tastes like fresh homemade pasta, but it&#39;s dried and ready-to-cook and enjoy anytime.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/26f1c728-bc45-489b-a492-93a1778f4822.jpg?ver=1475518985000'
+  img_alt: 'Cucina Antica Pasta Sauce Made with imported Italian San Marzano tomatoes, arguably the best plum tomatoes in the world, Cucina Antica uses the freshest quality ingredients to create sauces in the Italian tradition.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e621f9e5-450d-4fdf-8643-da4579dbd5a9.jpg?ver=1475518985000'
+  img_alt: 'Member Exclusive | From the Butcher'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a81eedb-5436-4b62-aa70-a1674cee5589.jpg?ver=1475518985000'
+  img_alt: 'Loin Veal Chops Member Exclusive 14.99&#47;LB Reg 17.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9f76d5e1-1e7b-4e9f-94d8-21373a46b934.jpg?ver=1475518985000'
+  img_alt: 'What&#39;s New In Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur?utm_source=weeklyemail&utm_medium=email&utm_campaign=1007_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a4487ab5-0bb1-482f-9ce1-d463c18e3142.jpg?ver=1475518985000'
+  img_alt: 'Break the Fast with Yom Kippur Catering Let Balducci&#39;s do the work! Enjoy Chef Prepared custom food with a gourmet twist. Order Online &#62;'
