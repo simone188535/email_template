@@ -1,0 +1,91 @@
+title: 'Eeeeek! Halloween’s sneaking up on you!'
+
+primary_color: '#999999'
+
+pre_header_text: 'Don’t be scared—we’ve got costume & candy deals'
+
+logo_img_url: 'images/DR_Week3_101716_Weekly_header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+hero_img_url: 'images/DR_Week3_101716_Weekly_02.jpg'
+hero_img_alt: "2 Weeks 'til Halloween!"
+hero_img_link: 'https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp'
+hero_text: ''
+hero_btn_text: ''
+
+callout_img_url: 'images/DR_Week3_101716_Weekly_10.jpg'
+callout_img_alt: 'Get the app'
+callout_img_link: 'http://walgreens.com/mobile'
+
+footer_text: '*Selection may vary by store. <br><br> To ensure delivery to your inbox, please add DuaneReade@duanereadedrugstore.com to your address book. <br><br> This message was sent to %%email%% <br><br> C2216 CX-81485 <br><br> Copyright 2016 Walgreen Co., 200 Wilmot Road, Deerfield, IL 58015-4620. All rights reserved. <br><br> Available at select Duane Reade and Walgreens stores and www.Walgreens.com while supplies last. Weekly Ad and coupon prices good 10/16/16 through 10/22/16 except when otherwise noted. Not all products and prices available in all stores in the following markets: U.S. Virgin Islands, Puerto Rico, Hawaii, Alaska, San Francisco, New Jersey, New York Boroughs: Manhattan, Brooklyn, Bronx, Queens and Staten Island. Void where prohibited by law. Unless stated otherwise, all coupons have no cash value. Terms of promotion subject to change. This message contains advertising. <br><br> If you received this email as a forward, we invite you to subscribe. <br><br> Please do not reply to this message.  This is a system-generated email.  Replies will not be read or forwarded for handling. <br><br> This email was sent by: Duane Reade Holdings, Inc., 40 Wall Street, New York, NY 10005 <br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=%%t%%&email=%%email%%'
+unsubscribe_text: 'Unsubscribe/Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+
+# Loop through articles
+
+articles:
+- type: "story-image"
+  img: "images/DR_Week3_101716_Weekly_03.jpg"
+  img_alt: "Trick out your treat bowl!"
+  promo_btn_url: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  promo_btn_text: "Find a store &rsaquo;"
+  promo_text: "<strong>Hershey's or Mars Mini,<br> Fun or Snack Size Jumbo <br>Bag Candy 13.9 to 34.3 oz.,</strong><br> Select Varieties."
+  promo_btn_color: "#f36c21"
+
+- type: "story-image"
+  img: "images/DR_Week3_101716_Weekly_05.jpg"
+  img_alt: "2/$6 or 3.19 ea. - Select Candy or Gum"
+  promo_btn_url: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  promo_btn_text: "Find a store &rsaquo;"
+  promo_text: "<strong>Candy or Gum</strong><br> Selection may vary by store."
+  promo_btn_color: "#f36c21"
+
+- type: "image"
+  img: "images/DR_Week3_101716_Weekly_07.jpg"
+  img_alt: "25% off* Halloween Accessories"
+  url: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+
+
+- type: "story-image-center-text"
+  img: "images/DR_Week3_101716_Weekly_08.jpg"
+  img_alt: "Get a flu shot today."
+  promo_btn_url: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  promo_btn_text: "Find a store &rsaquo;"
+  promo_text: "<font style=&#34;color: 873795;&#34;>Get a flu shot today.</font>"
+  promo_btn_color: "#f36c21"   
+
+
+  
+
+
+footernav:
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+socialnav:
+- img: "images/DR_Week3_101716_Weekly_fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/DR_Week3_101716_Weekly_tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/DR_Week3_101716_Weekly_site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'images/DR_Week3_101716_Weekly_spacer.gif'
