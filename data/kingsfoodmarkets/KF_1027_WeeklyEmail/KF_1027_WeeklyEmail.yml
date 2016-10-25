@@ -1,0 +1,149 @@
+title: ''
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71b164a7-3069-4738-956b-8b2117e99de0.jpg?ver=1468246669000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eb3efd35-9d8b-49af-833f-11faa5679351.jpg?ver=1468246666000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/592b4972-267b-4a84-a3cb-dcbc9901efbe.jpg?ver=1468246666000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2b03719-5c2d-4e97-87fa-7741acd11156.jpg?ver=1468246666000"
+footer_youtube_alt: "youtube"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/86ff982a-dd86-40f0-80cd-e5f1fe996e05.jpg?ver=1477402120000"
+  img_alt: "Host A Halloween Bash Plan this year's spookiest party with easy appetizer options from Kings Catering."
+  url: "http://kingsfoodmarkets.com/unique-recipes/witches-finger-cookies?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fca843df-e5ce-4a2e-a561-f88d706f13de.jpg?ver=1477402120000"
+  img_alt: "Festive Recipe Witches Finger cookies View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes/witches-finger-cookies?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e0911504-4c79-4056-854d-5afe5a77b2e1.jpg?ver=1477402120000"
+  img_alt: "Fiendish Drinks | Haunted Halloween Recipes"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d5d0a4e7-018a-43b4-a2b5-7a4c3f7fdb9f.jpg?ver=1477402120000"
+  img_alt: "Dark Night Of The Soul View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d38eae24-1d6a-42d4-ab2f-5381df0906b7.jpg?ver=1477402120000"
+  img_alt_2: "The Headless Horseman View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/978e471a-35f4-4b14-8ba1-9319b042aae7.jpg?ver=1477402121000"
+  img_alt: "Entertaining | Halloween Party Platters"
+  url: "https://www.youtube.com/user/KingsFoodMarkets"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e40b7969-f3b3-4e64-95c6-d62b8438779c.jpg?ver=1477402121000"
+  img_alt: "Signature Sandwich Platter"
+  url: "https://www.youtube.com/user/KingsFoodMarkets"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bbd3b8cd-22b6-48c9-8f13-01a3e8f98e70.jpg?ver=1477402121000"
+  img_alt_2: "Antipasto Platter"
+  url_2: "https://www.youtube.com/user/KingsFoodMarkets"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3e26b90f-3d10-46c6-aa90-7829a38c638c.jpg?ver=1477402121000"
+  img_alt: "Chef Prepared Fresh Sushi Platter $5 OFF"
+  url: "https://www.youtube.com/user/KingsFoodMarkets"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/488df50a-8643-470e-ba76-d15f753bc43a.jpg?ver=1477402121000"
+  img_alt_2: "Kings Assorted 2 Lb. Cookie Platter"
+  url_2: "https://www.youtube.com/user/KingsFoodMarkets"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec613441-19c3-45a9-a6e0-89dc278bc4d0.jpg?ver=1477402121000"
+  img_alt: "View More &#62;"
+  url: "https://www.youtube.com/user/KingsFoodMarkets"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e1533711-d2a5-4467-b5db-ff688f87e950.jpg?ver=1477402121000"
+  img_alt: "Candy Faves | Sweet Halloween Treats"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/08759fdb-34a3-4054-a243-1f90a77547e2.jpg?ver=1477402121000"
+  img_alt: "Long Grove Day Of The Dead Crispie Pop 1.50 OZ. 1.99 EA."
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/36863ec2-793b-4a42-aeaf-7259a2b460c3.jpg?ver=1477402121000"
+  img_alt_2: "Kings Halloween Candy Corn 9 OZ. 2.99 EA."
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2663d4cc-b3a1-4a69-ba29-651de940aea4.jpg?ver=1477402121000"
+  img_alt: "Justin&#39;s Organic Chocolate Mini Peanut Butter Cups 4.7 OZ. 5.49 EA."
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/82870278-c77f-4381-93de-2842717dfe0c.jpg?ver=1477402121000"
+  img_alt_2: "LongGrove Dark Chocolate Mini Autumn Nonpareils 5 OZ. 4.99 EA."
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3ab241a8-f5db-439d-9e22-af7840c16421.jpg?ver=1477402121000"
+  img_alt: "View Weekly Specials &#62;"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/26f7f273-c635-4bb3-b77c-f493529947a5.jpg?ver=1477402121000"
+  img_alt: "Seasonal Decor | Fresh Fall Floral"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2f068a0f-f752-48e4-9276-36ea83ac8fc1.jpg?ver=1477402122000"
+  img_alt: "Fall Mum Bunch Selections Vary By Store"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/34876606-567e-4d7b-b449-0ac27209980a.jpg?ver=1477402122000"
+  img_alt_2: "Vineyard Bouquet Selections Vary By Store"
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/963c22b9-039a-44cb-8efa-edc95158f957.jpg?ver=1477402121000"
+  img_alt: "Market Specials | Premium Meat & Fish"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dba8a865-6c46-4aea-874a-f9166ff2dc56.jpg?ver=1477402122000"
+  img_alt: "Kings USDA Choice Beef Rib Roasts Or Steaks 9.99 LB."
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c80c1932-b201-4003-a31b-702855b50853.jpg?ver=1477402122000"
+  img_alt_2: "Norwegian Salmon Portions 6 OZ. 8.49 EA."
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f8033c6e-7519-4068-b230-6bed310b1fa9.jpg?ver=1477402122000"
+  img_alt: "View Specials &#62;"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_KF_Weekly_Email"
