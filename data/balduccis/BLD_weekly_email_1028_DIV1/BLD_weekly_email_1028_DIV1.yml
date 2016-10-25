@@ -1,0 +1,147 @@
+title: 'Grown-ups&#39; Halloween survival guide—wine & candy!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/448abcdd-3932-4de6-a6fb-a5f8a264e3ca.jpg?ver=1477411490000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://vimeo.com/184757506'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2d7b841a-3014-42f9-b53c-d79c257575c9.jpg?ver=1477411491000'
+  img_alt: 'Hot Ideas For Halloween Entertaining Spice up Halloween night with these devilishly delicious treats. Create Caramel Gelato Affogato With Pumpkin Spice Coffee Watch Video > Make With Balducci&#39;s Pumpkin Spice Coffee'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7d28aa26-6a9b-4557-b887-5703b75a9110.jpg?ver=1477411490000'
+  img_alt: 'Spooky Sweet | Cocktail Recipes'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/138f48bc-aa47-4a69-a312-4c4403f17dac.jpg?ver=1477411490000'
+  img_alt: 'The Headless Horseman View Recipe >'
+  url_2: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f4f14f99-4ded-426a-9d78-1ccac2d93f81.jpg?ver=1477411491000'
+  img_alt_2: 'Dark Night Of The SoulView Recipe >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4b9fefe2-4cf3-4e6d-a91a-756ef6318648.jpg?ver=1477411491000'
+  img_alt: 'Halloween Pairings | Treat Yourself'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5a67bf06-3a9f-4349-8af0-ce5a8ab5cd80.jpg?ver=1477411490000'
+  img_alt: 'Candy and wine? You bet! Try these perfect pairing ideas for a ghoulishly gourmet Halloween tasting experience.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/71ba246a-21e4-4ab3-8971-a579018560be.jpg?ver=1477411491000'
+  img_alt: 'Enjoy Halloween Pumpkin Lollypop The vanilla and chocolate coating makes a pretty pair with the aromatic and lightly sweet sparkling reds. Pair With Sparkling Red Wine'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/753e603a-adf3-41c6-b4c1-75c4170fd666.jpg?ver=1477411491000'
+  img_alt: 'Long Grove Day Of The Dead Crispie Pop Gooey and sweet marshmallows demand a wine with both acidity and some sweetness, making Riesling the obvious choice. Pair With Reisling'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/011c20b8-f243-4568-972e-22827ec30d4c.jpg?ver=1477411492000'
+  img_alt: 'Lake Champlain Halloween Coin Bag Milk chocolate is sweeter than dark chocolate, so we have to &#34;up the sugar&#34; in the wine, too.  Ruby Ports are the sweetest family of port wines. Pair With Ruby Port'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f72a0e19-99d5-4c1f-9bb8-6efd5f471772.jpg?ver=1477416425000'
+  img_alt: 'Taste the Best of Italian Wines Stop by on Saturday, October 29th for a special Italian wine tasting.  Our wine and food events are free and open to the public. Food Samplings..........12 noon-5pm Wine Samplings.......................2-5pm More Info >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/home_office_menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5fc93912-340e-4b8f-be59-621c86f0034f.jpg?ver=1477411492000'
+  img_alt: 'Catering | Perfect Party Platters'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/home_office_menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/64ed48d2-9b91-43c2-a66c-8967a5ea19ed.jpg?ver=1477411492000'
+  img_alt: 'Artisanal Cheese Sampler'
+  url_2: 'http://www.balduccis.com/catering/home_office_menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b78600f3-f1d0-4ff9-b35b-5f983d84df43.jpg?ver=1477411492000'
+  img_alt_2: 'Antipasto Platter'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/home_office_menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/60d5f8e6-aa3d-4b2a-88a8-43d2b19fd6f7.jpg?ver=1477411493000'
+  img_alt: 'Clever Confections Dessert Platter Order Online >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ba3c2548-b373-4817-b0e5-c3fb961bd1b4.jpg?ver=1477411493000'
+  img_alt: 'Member Exclusive | From the Butcher'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5ebe2f14-7209-4d4a-b9c6-6e82680e90c3.jpg?ver=1477411493000'
+  img_alt: 'Natural Fresh Pork Tenderloins Member Exclusive 6.99/LB Reg 9.99/LB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/51767697-da3f-4b50-b0fb-17043a474be3.jpg?ver=1477411493000'
+  img_alt: 'What&#39;s New In-Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1028_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8c787b1e-4d74-4650-9623-748f231c8e8f.jpg?ver=1477416427000'
+  img_alt: 'Join Us For Cheesetopia Experience the ultimate in gourmet cheese at our annual Cheesetopia Tasting Event.  Get great tips from our cheesemongers and get inspired by our chefs while sampling cheese from around the world Saturday, November 19th 12 noon-5pm Alexandria, VA McLean, VA Bethesda, MD More Info >'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
