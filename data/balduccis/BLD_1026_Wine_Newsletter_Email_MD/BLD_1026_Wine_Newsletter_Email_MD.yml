@@ -7,19 +7,19 @@ background_color: '#f6f5f3'
 pre_header_text: ''
 
 #header
-logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
 logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
-catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
 catering_alt: 'CATERING'
-chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
 chef_prepared_alt: 'CHEF PREPARED'
-store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
 store_locator_alt: 'FIND A STORE'
-my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+my_balduccis_link: 'hhttp://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
 my_balduccis_alt: 'myBALDUCCI&#39;S'
 
 #footer
-footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD"
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA"
 footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3b57c3bf-82ba-465e-a6ff-ad1de8dd6292.jpg?ver=1477351129000"
 footer_site_alt: "balduccis.com"
 footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
@@ -33,56 +33,56 @@ footer_twitter_alt: "twitter"
 # Loop through articles
 articles:
 - type: 'image'
-  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1efe63ed-8d8f-4c57-9828-a66d78236b7d.jpg?ver=1477351126000'
   img_alt: 'Wine Newsletter September 2016'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/98692dfe-db6a-4d2d-a18a-12c236ed88a9.jpg?ver=1477351126000'
   img_alt: 'October Wine Event Wine & Food Event Cin Cin!  Here&#39;s To Italian Vino. Saturday, October 29th Food Tasting: 12pm-5pm Wine Tasting: 2pm-5pm FEATURING *NEW releases from Italy *Special wines from Piedmont and Tuscany Save 25% Mix & Match 12 Bottles Or More'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0a4b36f7-9911-4a57-8fee-e622e1129d6c.jpg?ver=1477351128000'
   img_alt: 'Must Have Wines'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7417ad0f-0af4-422d-a492-1dcc6c82c9d4.jpg?ver=1477351128000'
   img_alt: 'A traditional Italian toast, &#34;cin cin!&#34; means &#34;all things good for you&#34;, and Balducci&#39;s brings you our best with exclusive Chianti and Pinot Grigio wines that are just the thing to enhance Italian cuisine and more.  Mix them and match them with pizza, pasta, and all your favorite foods!'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6ca05c3f-2eb1-450f-966a-d690e32da9bf.jpg?ver=1477351128000'
   img_alt: 'Balducci&#39;s Organic Chianti 2014 100% Sangiovese grapes certified organic by Agricultura Biologica, this rustic Chianti offers classic old world charm. 16.99/BTL 14.99 with Member Rewards through 10/27'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d5951d4e-8c85-49da-a9d7-3669ce79eee1.jpg?ver=1477351128000'
-  img_alt: 'Balducci&#39;s Pinot Grigio 2015 Made especially for us by famed enologist Franco Bernabei at Dell Venecia outside Verona. Fresh, floral, apple-scented fruit and a soft-yet-full finish are the trademarks of this classic white. 10.99/BTL 9.99 with Member Rewards through 10/27'
+  img_alt: 'Balducci&#39;s Pinot Grigio 2015 Made especially for us by famed enologist Franco Bernabei at Dell Venecia outside Verona. Fresh, floral, apple-scented fruit and a soft-yet-full finish are the trademarks of this classic white. 9.99/BTL 8.99 with Member Rewards through 10/27'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8cd1102d-4089-4457-96f5-2bedc934bb42.jpg?ver=1477351128000'
-  img_alt: 'Jermann Pinot Grigio 2015 &#34A bright, clean white with lemon, lime and mineral character.  Kiwifruit, too.  Full-body, crisp acidity and a long, flavorful finish.  Crisp, lively pinot grigio.  Drink or hold.&#34 -James Suckling 92pts. 31.99/BTL 27.99 with Member Rewards through 10/27'
+  img_alt: 'Jermann Pinot Grigio 2015 &#34;A bright, clean white with lemon, lime and mineral character.  Kiwifruit, too.  Full-body, crisp acidity and a long, flavorful finish.  Crisp, lively pinot grigio.  Drink or hold.&#34; -James Suckling 92pts. 24.99/BTL 21.99 with Member Rewards through 10/27'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4eda5d90-ef45-424e-96e9-d530d352b84b.jpg?ver=1477351129000'
-  img_alt: 'Tommasi Amarone 2010 &#34A red with dried fruits such as raisins and sultanas.  Full-bodied, round and fruity.  Soft, velvety tannins and a flavorful finish.  Very classic style of Amarone.  Drink now.&#34 -James Suckling 93pts. 85.00/BTL'
+  img_alt: 'Tommasi Amarone 2010 &#34;A red with dried fruits such as raisins and sultanas.  Full-bodied, round and fruity.  Soft, velvety tannins and a flavorful finish.  Very classic style of Amarone.  Drink now.&#34; -James Suckling 93pts. 75.00/BTL'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ed76db05-c119-46e0-aab0-a6498cd7526a.jpg?ver=1477351128000'
   img_alt: 'Nebbiolo | A Sense Of Place'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5c33d5cd-c8bc-4fe2-9560-acef8f66a44f.jpg?ver=1477351128000'
   img_alt: 'The Noble Vines of Italy -Tim Healy, Balducci&#39;s Wine & Cheese Manager, Alexandria, VA Nebbiolo, the noble red grape of Piedmont in the north of Italy, produces world renowned wines.  This varietal had adapted to the unique soils and climate of the Piedmont region and only seems to shine on its home turf.  Nebbiolo wines have distinctive aromas and flavors of roses, red fruits, leather and tar, and are also known for their full tannins and long age-ability.'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_MD'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Wine_Newsletter_Email_VA'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ce866def-bbfc-4231-88a3-6ab52b6fd5f6.jpg?ver=1477351129000'
-  img_alt: 'Vajra Nebbiolo Langhe Vajra&#39;s Langhe Nebbiolo is a pure expression of the grape variety.  This is a racy and delicious Nebbiolo that showcases the grape&#39;s ethereal side - the floral and spicy cherry, but also the tannin and power that we love. 29.99/BTL'
+  img_alt: 'Vajra Nebbiolo Langhe Vajra&#39;s Langhe Nebbiolo is a pure expression of the grape variety.  This is a racy and delicious Nebbiolo that showcases the grape&#39;s ethereal side - the floral and spicy cherry, but also the tannin and power that we love. 24.99/BTL'
