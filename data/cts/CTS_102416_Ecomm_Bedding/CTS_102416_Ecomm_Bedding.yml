@@ -1,0 +1,111 @@
+title: ''
+
+pre_header_text: ''
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com'
+header_logo_img: "images/CTS_102416_Ecomm_Bedding_01.jpg"
+header_logo_alt: "Christmas Tree Shops&#174; and That&#8482;"
+header_logo_height: "61"
+header_logo_width: "600"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+header_arrivals_img: "images/CTS_102416_Ecomm_Bedding_02.jpg"
+header_arrivals_alt: "NEW ARRIVALS"
+header_arrivals_height: "35"
+header_arrivals_width: "156"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+header_seasonal_img: "images/CTS_102416_Ecomm_Bedding_03.jpg"
+header_seasonal_alt: "SEASONAL &#38; GIFTS"
+header_seasonal_height: "35"
+header_seasonal_width: "128"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+header_furniture_img: "images/CTS_102416_Ecomm_Bedding_04.jpg"
+header_furniture_alt: "FURNITURE"
+header_furniture_height: "35"
+header_furniture_width: "90"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?mobile=off'
+header_outdoor_img: "images/CTS_102416_Ecomm_Bedding_05.jpg"
+header_outdoor_alt: "OUTDOOR"
+header_outdoor_height: "35"
+header_outdoor_width: "86"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?skipmobile=true'
+header_clearance_img: "images/CTS_102416_Ecomm_Bedding_06.jpg"
+header_clearance_alt: "CLEARANCE"
+header_clearance_height: "35"
+header_clearance_width: "140"
+
+
+socialnav:
+- img: "images/CTS_102416_Ecomm_Bedding_11.jpg"
+  alt: " "
+  link: "#"
+  width: '138'
+  height: '63'
+
+- img: "images/CTS_102416_Ecomm_Bedding_12.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops'
+  width: '56'
+  height: '63'
+
+- img: "images/CTS_102416_Ecomm_Bedding_13.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat'
+  width: '44'
+  height: '63'
+
+- img: "images/CTS_102416_Ecomm_Bedding_14.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops'
+  width: '45'
+  height: '63'
+
+- img: "images/CTS_102416_Ecomm_Bedding_15.jpg"
+  alt: "Find a store near you &#62;"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do'
+  width: '189'
+  height: '63'
+
+- img: "images/CTS_102416_Ecomm_Bedding_16.jpg"
+  alt: " "
+  link: ""
+  width: '128'
+  height: '63'
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/CTS_102416_Ecomm_Bedding_07.jpg"
+    img_alt: 'Free Shipping Sitewide Online Only! Today Only! On all orders of $65 or more! Use Code FS65CTS4 at checkout'
+    url: 'http://www.christmastreeshops.com'
+    width: '600'
+    height: '196'
+
+  - type: "image"
+    img: "images/CTS_102416_Ecomm_Bedding_08.jpg"
+    img_alt: '49.99 Set 5-PC Comforter Sets'
+    url: 'http://www.christmastreeshops.com/product/comfortersetsandsheetsets.do'
+    width: '600'
+    height: '712'
+
+  - type: "image"
+    img: "images/CTS_102416_Ecomm_Bedding_09.jpg"
+    img_alt: '29.99 Set Martex 300 Thread Count Cotton Rich Sheet Sets'
+    url: 'http://www.christmastreeshops.com/product/comfortersetsandsheetsets.do'
+    width: '600'
+    height: '320'
+
+  - type: "image"
+    img: "images/CTS_102416_Ecomm_Bedding_10.jpg"
+    img_alt: 'Huge Online Clearance Shop Now! Up to 50% off Sitewide'
+    url: 'http://www.christmastreeshops.com/category/clearance.do?skipmobile=true'
+    width: '600'
+    height: '345'  
+
+
