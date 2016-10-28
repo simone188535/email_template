@@ -1,0 +1,79 @@
+title: 'Say no to cold season!'
+
+primary_color: '#999999'
+
+pre_header_text: 'Protect yourself with great deals on vitamins and more'
+
+logo_img_url: 'images/header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+hero_img_url: 'images/DR_Week1_110316_Pharmacy_2A_02.jpg'
+hero_img_alt: "Cold Season Must Haves"
+hero_img_link: 'https://www.walgreens.com/store/c/productlist/N=359441-4294896499/1/OnSale=359441'
+
+callout_img_url: 'images/DR_Week1_110316_Pharmacy_2A_15.jpg'
+callout_img_alt: 'Get the App'
+callout_img_link: 'http://walgreens.com/mobile'
+
+footer_text: '*Of equal or lesser price on same brand. <br><br>**$1 copays apply to Tier 1 generics. <br><br>To ensure delivery to your inbox, please add DuaneReade@duanereadedrugstore.com to your address book. <br><br>This message was sent to <br><br>C2216 CX-81485<br><br>Copyright 2016 Walgreen Co., 200 Wilmot Road, Deerfield, IL 58015-4620. All rights reserved. <br><br>Available at select Duane Reade and Walgreens stores and www.Walgreens.com while supplies last. Weekly Ad and coupon prices good 10/30/16 through 11/05/16 except when otherwise noted. Not all products and prices available in all stores in the following markets: U.S. Virgin Islands, Puerto Rico, Hawaii, Alaska, San Francisco, New Jersey, New York Boroughs: Manhattan, Brooklyn, Bronx, Queens and Staten Island. Void where prohibited by law. Unless stated otherwise, all coupons have no cash value. Terms of promotion subject to change. This message contains advertising. <br><br>If you received this email as a forward, we invite you to subscribe. <br><br>Please do not reply to this message.  This is a system-generated email.  Replies will not be read or forwarded for handling. <br><br>This email was sent by: Duane Reade Holdings, Inc., 40 Wall Street, New York, NY 10005<br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=%%t%%&email=%%email%%'
+unsubscribe_text: 'Unsubscribe/Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+
+# Loop through articles
+
+articles:
+- type: "story-image-center-text"
+  img: "images/DR_Week1_110316_Pharmacy_2A_03.jpg"
+  img_alt: "Buy One Get One Free* - Walgreens Vitamins and Supplements"
+  promo_btn_url: "https://www.walgreens.com/store/c/productlist/Walgreens-Vitamins%20&%20Supplements/N=359441-118"
+  promo_btn_text: "Shop now &rsaquo;"
+  promo_text: "<strong style='color: #58595b;'>Vitamins and Supplements</strong><br>Walgreens, select varieties."
+  promo_btn_color: "#00ab4e"
+
+- type: "story-image-center-text"
+  img: "images/DR_Week1_110316_Pharmacy_2A_07.jpg"
+  img_alt: "Buy One Get One 50% off* - Emergen-C"
+  promo_btn_url: "https://www.walgreens.com/store/c/productlist/emergen-c-immune-support-supplements/N=361449-304407"
+  promo_btn_text: "Shop now &rsaquo;"
+  promo_text: "<strong style='color: #58595b;'>Emergen-C or Emergen-Zzzz Powder Packets</strong><br>24 or 30 pk. Select varieties."
+  promo_btn_color: "#00ab4e"
+
+- type: "story-image-center-text"
+  img: "images/DR_Week1_110316_Pharmacy_2A_11.jpg"
+  img_alt: "Seize the savings on Medicare Part D"
+  promo_btn_url: "https://www.walgreens.com/topic/pharmacy/medicarepartd-info.jsp"
+  promo_btn_text: "Learn more &rsaquo;"
+  promo_text: "As low as $1 copays on select plans**"
+  promo_btn_color: "#00ab4e"
+
+footernav:
+- text: "Photo"
+  link: "http://photo.walgreens.com/walgreens/welcome"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp"
+  sep: ""
+
+socialnav:
+- img: "images/fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'images/spacer.gif'
