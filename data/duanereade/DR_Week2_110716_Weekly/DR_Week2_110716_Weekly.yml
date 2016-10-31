@@ -1,0 +1,68 @@
+title: '5x the Reasons to Shop This Week'
+
+primary_color: '#999999'
+
+pre_header_text: 'Earn 5x BONUS Balance Rewards Points When You Spend $10'
+
+logo_img_url: 'images/header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+hero_img_url: 'images/DR_Week2_110716_Weekly_02.jpg'
+hero_img_alt: "5x Everyday Points when you spend $10 or more in store or at Walgreens.com**"
+hero_img_link: 'https://www.walgreens.com/offers/offers.jsp'
+
+
+callout_img_url: 'images/DR_Week2_110716_Weekly_05.jpg'
+callout_img_alt: 'Get the App'
+callout_img_link: 'http://walgreens.com/mobile'
+
+footer_text: '*Offer good thru 12/3/16. Card required for promotional pricing. Third item free, of equal or lesser price. Excludes prescriptions, baby skin care, bath gels, bath wash, bath soap, Neutrogena Electronic devices, Burt’s Bees lip, sun care, gift sets and travel/trial size. Subject to availability. Complete details at Walgreens.com/skincare. <br><br>**Limit 1 coupon per transaction. Must scan coupon at checkout, or clip to your card to use offer in store and online. Once activated, offer valid for up to 3 transactions per account through December 28, 2016 when you use Balance® Rewards at checkout. For Walgreens.com offers, customer must be logged in at the time of checkout. Points will be applied to Balance® Rewards account after entire order is shipped. Points good on next purchase. Purchase requirement must be met in a single transaction, before taxes and shipping, and after discounts, store credit and redemption dollars are applied. Excludes photo orders not picked up in store, alcohol, dairy, tobacco, stamps, phone/prepaid/gift cards, money orders/transfers, transportation passes, lottery tickets, charitable donations, pseudoephedrine or ephedrine products, clinic services, pharmacy items, sales tax, and the Prescription Savings Club membership fee. Offer not valid on bonus points/featured products. Not valid on bulk orders, backordered and out of stock items. Walgreens reserves the right to make changes to or terminate this offer at any time. Complete details in-store or at Walgreens.com/Balance. <br><br>To ensure delivery to your inbox, please add DuaneReade@duanereadedrugstore.com to your address book. <br><br>This message was sent to <br><br>C2216 CX-81485<br><br>Copyright 2016 Walgreen Co., 200 Wilmot Road, Deerfield, IL 58015-4620. All rights reserved.<br><br>Available at select Duane Reade and Walgreens stores and www.Walgreens.com while supplies last. Weekly Ad and coupon prices good 11/06/16 through 11/12/16 except when otherwise noted. Not all products and prices available in all stores in the following markets: U.S. Virgin Islands, Puerto Rico, Hawaii, Alaska, San Francisco, New Jersey, New York Boroughs: Manhattan, Brooklyn, Bronx, Queens and Staten Island. Void where prohibited by law. Unless stated otherwise, all coupons have no cash value. Terms of promotion subject to change. This message contains advertising.<br><br>If you received this email as a forward, we invite you to subscribe.<br><br>Please do not reply to this message.  This is a system-generated email.  Replies will not be read or forwarded for handling.<br><br>This email was sent by: Duane Reade Holdings, Inc., 40 Wall Street, New York, NY 10005  <br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=%%t%%&email=%%email%%'
+unsubscribe_text: 'Unsubscribe/Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+
+# Loop through articles
+
+articles:
+- type: "image"
+  url: "https://www.walgreens.com/store/c/skin-care-products/ID=360323-tier2general"
+  img: "images/DR_Week2_110716_Weekly_03.jpg"
+  img_alt: "Buy 2 get 3rd FREE* skin care"
+
+- type: "image"
+  url: "http://bebeautiful.walgreens.com/post/134526960997/holiday-beauty-winter-skin-wonders"
+  img: "images/DR_Week2_110716_Weekly_04.jpg"
+  img_alt: "Skin-sational winter moisturizing tips await!"
+
+  
+
+footernav:
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Find Store"
+  link: "https://www.walgreens.com/storelocator/find.jsp?tab=store%20locator&requestType=locator"
+  sep: ""
+
+socialnav:
+- img: "images/fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/site-link.jpg"
+  link: "https://www.walgreens.com/storelocator/find.jsp?tab=store%20locator&requestType=locator"
+  alt: "Duane Reade"
+
+spacer_img_url: 'images/spacer.gif'
