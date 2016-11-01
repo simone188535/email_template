@@ -1,0 +1,115 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/448abcdd-3932-4de6-a6fb-a5f8a264e3ca.jpg?ver=1477411490000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/81d48232-b792-4eb4-8635-5c03d79ccb9d.jpg?ver=1478011267000'
+  img_alt: 'Enjoy a Chef Prepared Thanksgiving Feast Plan your holiday menu early with a little help from our chefs.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ba1dd7b6-1567-4b0d-b042-00f040df501d.jpg?ver=1478011267000'
+  img_alt: 'Catering | A Gourmet Feast'
+
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7589f965-d470-4282-9547-2bc91ad8549e.jpg?ver=1478011267000'
+  img_alt: 'Chef Prepared Thanksgiving Dinners Let our chefs prepare an elegant and delicious Thanksgiving dinner for you and your family. Simply select a turkey entrée, 3 holiday sides and 2 freshly prepared extras for a customized feast to go! View Menu &#62;'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ad7cd769-d7bb-45b9-8626-4d25e5f791d8.jpg?ver=1478011267000'
+  img_alt: 'Roasted Butternut Squash Soup Puréed until smooth with a touch of cream.'
+  url_2: 'http://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e4ac5448-d9a2-42e0-81db-a0dff1d44f24.jpg?ver=1478011267000'
+  img_alt_2: 'Roasted Brussels Sprouts Choucroute Tossed with cabbage and smoky bacon.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/496d47b7-8828-433f-b6b6-4f86f93d12fb.jpg?ver=1478011267000'
+  img_alt: 'New! Pre-Cooked Organic Turkey Kit Includes a fully cooked organic turkey (ready to heat), roasting pan, mirepoix, herbs and reheating instructions. *While Supplies Last'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1c1abc39-94c9-45a2-9782-a97e52929d9f.jpg?ver=1478011267000'
+  img_alt: 'Gourmet Starters | 5 Star Apps'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e0e53302-141c-46ac-b4c9-1553660e5ba4.jpg?ver=1478011268000'
+  img_alt: 'Yankee Trader Scallops and Bacon'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/eb9eacf3-8c75-47e9-bc12-92022706ba03.jpg?ver=1478011268000'
+  img_alt_2: 'Balducci&#39;s Signature Extra Jumbo Cooked Shrimp'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/44ee74cb-e8b9-43e0-91de-edabc87b2ed8.jpg?ver=1478011268000'
+  img_alt: 'East Coast Blue Point Oysters in the Shell'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dfb1a48a-f4e0-4e2f-986d-27cdea6bdc16.jpg?ver=1478011268000'
+  img_alt: 'Member Exclusive | Organic Beef'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d0eece1f-4e5e-47d9-b28c-24e11d1cc631.jpg?ver=1478011268000'
+  img_alt: 'Organic Grass Fed Boneless Beef Rib Eye Steaks Member Exclusive 24.99/LB Reg 29.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/103cf38c-16b5-439a-90f5-68da4bdfaec0.jpg?ver=1478011268000'
+  img_alt: 'What&#39;s New In-Store'
+
+- type: 'image'
+  url: 'https://www.facebook.com/balduccisfoodloversmarket/?fref=ts'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4e6b3dcd-c834-44d6-a6b9-89813152f3c8.jpg?ver=1478011268000'
+  img_alt: 'Side Dish Showdown What is your favorite Thanksgiving side dish? Vote now through November 14th and follow along on Facebook to see the winner! Vote Now &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e09b3bbb-6c10-4c92-9c41-f4d48cdd6b06.jpg?ver=1478011269000'
+  img_alt: 'Check Out Hunger® Join us this season of giving to help provide Food, Help and Hope to families in need. As a founding Check Out Hunger® partner, Balducci&#39;s and our shoppers have donated almost $2 million to the Community Food Bank. Donate in-store at checkout during your next visit.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1104_BLD_Weekly_Email_DIV01'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3b0bfd00-1a45-42f8-8cfa-e3c6c101388f.jpg?ver=1478011268000'
+  img_alt: 'Take a Journey to Cheesetopia Join us at our annual Ultimate Cheese Tasting Event. Get great tips from our Balducci&#39;s Cheesemongers and be inspired by our chefs—taste cheese from around the world.  Saturday, November 12th 12 noon-5pm More Info &#62;'
