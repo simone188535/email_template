@@ -1,0 +1,102 @@
+title: 'Deck Your Halls with Style! Plus...Free Shipping!'
+
+pre_header_text: ''
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com'
+header_logo_img: "images/CTS_11016_XmasTrendAnima_01.jpg"
+header_logo_alt: "Christmas Tree Shops&#174; and That&#8482;"
+header_logo_height: "66"
+header_logo_width: "600"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+header_arrivals_img: "images/CTS_11016_XmasTrendAnima_02.jpg"
+header_arrivals_alt: "New Arrivals"
+header_arrivals_height: "36"
+header_arrivals_width: "153"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+header_seasonal_img: "images/CTS_11016_XmasTrendAnima_03.jpg"
+header_seasonal_alt: "Seasonal"
+header_seasonal_height: "36"
+header_seasonal_width: "128"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+header_furniture_img: "images/CTS_11016_XmasTrendAnima_04.jpg"
+header_furniture_alt: "Furniture"
+header_furniture_height: "36"
+header_furniture_width: "89"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?mobile=off'
+header_outdoor_img: "images/CTS_11016_XmasTrendAnima_05.jpg"
+header_outdoor_alt: "Outdoor"
+header_outdoor_height: "36"
+header_outdoor_width: "92"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?skipmobile=true'
+header_clearance_img: "images/CTS_11016_XmasTrendAnima_06.jpg"
+header_clearance_alt: "Clearance"
+header_clearance_height: "36"
+header_clearance_width: "138"
+
+
+socialnav:
+- img: "images/CTS_11016_XmasTrendAnima_10.jpg"
+  alt: " "
+  link: "#"
+  width: '143'
+  height: '67'
+
+- img: "images/CTS_11016_XmasTrendAnima_11.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops'
+  width: '52'
+  height: '67'
+
+- img: "images/CTS_11016_XmasTrendAnima_12.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat'
+  width: '46'
+  height: '67'
+
+- img: "images/CTS_11016_XmasTrendAnima_13.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops'
+  width: '43'
+  height: '67'
+
+- img: "images/CTS_11016_XmasTrendAnima_14.jpg"
+  alt: "Find a Store"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do'
+  width: '172'
+  height: '67'
+
+- img: "images/CTS_11016_XmasTrendAnima_15.jpg"
+  alt: " "
+  link: ""
+  width: '144'
+  height: '67'
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/CTS_11016_XmasTrendAnima_07.jpg"
+    img_alt: 'Wonderland of Savings! Our 16-Page Catalog! Shop Now'
+    url: 'http://www.christmastreeshops.com/flyer'
+    width: '600'
+    height: '174'
+
+  - type: "image"
+    img: "images/CTS_11016_XmasTrendAnima_08.gif"
+    img_alt: 'We&#39;ve got your holiday style! In-store & Online'
+    url: 'http://www.christmastreeshops.com'
+    width: '600'
+    height: '551'
+
+  - type: "image"
+    img: "images/CTS_11016_XmasTrendAnima_09.jpg"
+    img_alt: 'Free Shipping Sitewide! Online Only! Ends Today Nov. 5th! On all orders of $65 or more! Use Code NOVFS65 at checkout.'
+    url: 'http://www.christmastreeshops.com'
+    width: '600'
+    height: '194'
