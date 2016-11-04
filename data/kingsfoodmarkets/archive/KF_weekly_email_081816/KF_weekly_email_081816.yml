@@ -1,0 +1,196 @@
+title: 'Fresh Fruit - There it Is!'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email'
+
+logo_img: ''
+logo_alt: 'Kings Food Markets'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71b164a7-3069-4738-956b-8b2117e99de0.jpg?ver=1468246669000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eb3efd35-9d8b-49af-833f-11faa5679351.jpg?ver=1468246666000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/592b4972-267b-4a84-a3cb-dcbc9901efbe.jpg?ver=1468246666000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2b03719-5c2d-4e97-87fa-7741acd11156.jpg?ver=1468246666000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/616e5ff0-1572-419a-a841-a18411f2ec8e.jpg?ver=1471221481000"
+  img_alt: "FRUIT INFUSION Fresh ideas for summer fruit."
+  url: "http://kingsfoodmarkets.com/unique-recipes/fruity-nutty-tortilla-pizza?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e12c2465-2116-407e-8db5-d7ad4272ca8b.jpg?ver=1471221482000"
+  img_alt: "Create Fruity Nutty Tortilla Pizza Learn More >"
+  url: "http://kingsfoodmarkets.com/unique-recipes/fruity-nutty-tortilla-pizza?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/04cfb3ae-f577-496c-a6d7-005771e1d6a9.jpg?ver=1471221482000"
+  img_alt: "Fresh Recipes &#124; Fantastic Summer Fruit Creations"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a15325e9-046f-4a3f-98c3-c1adb959df31.jpg?ver=1471221483000"
+  img_alt: "Honeydew, Cucumber & Elderflower Sorbet View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes/honeydew-cucumber-and-elderflower-sorbet?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f264772f-1b21-4c78-a4ee-5102ef0bd86b.jpg?ver=1471221483000"
+  img_alt_2: "Watermelon Salsa View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/watermelon-salsa?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d3cb94bc-0240-4f39-8f22-1f99470d48b7.jpg?ver=1471221484000"
+  img_alt: "Chef Prepared &#124; Fruit-infused Summer Treats"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec061764-c593-4d26-b187-98ef2b47222b.jpg?ver=1471221484000"
+  img_alt: "Tropical Fruit &#38; Kale Salad with Pineapple Vinaigrette"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9aa1ed1e-92f9-45c0-9a81-6d6bb46fbefe.jpg?ver=1471221485000"
+  img_alt_2: "Curry Chicken Salad with Grapes &#38; Walnuts"
+  url_2: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7944488a-f4fa-42b5-bfe8-1e73675f45b5.jpg?ver=1471221485000"
+  img_alt: "View More Chef Prepared >"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d06b1f78-00e9-45c9-a3de-529b360123ac.jpg?ver=1471221485000"
+  img_alt: "Summer Smoothie &#124; Create A Smoothie Pack With Kings Own Fruit"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/13605503-4994-494c-bec2-7b0432ac4cbc.jpg?ver=1471221487000"
+  img_alt: "Start with KINGS Frozen Fruit Choose your favorite fruits to start building your smoothie pack-blueberries, strawberries, mangos and more!"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cf42bce2-20de-4226-a9a1-2df0ce6348cd.jpg?ver=1471221487000"
+  img_alt: "Combine &#38; Save • Combine the ingredients for each smoothie in a freezer bag. No liquids, just the fruit. • Place bags in the freezer."
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dd3362ae-6e08-413c-abbb-6b166e373139.jpg?ver=1471221489000"
+  img_alt: "How to Prep • Add 1 cup of liquid of your choosing to a blender, then add the smoothie pack contents. • Blend until smooth. Serve and Enjoy!"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dd1b3cba-5f70-4221-995a-1856cf2790c8.jpg?ver=1471221490000"
+  img_alt: "DIY &#124; Fresh Fruit Skincare Ideas"
+  url: "http://kingsfoodmarkets.com/unique-recipes/homemade-watermelon-face-mask?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f9c4c2be-b925-4542-bffd-0d3a9f53315d.jpg?ver=1471221490000"
+  img_alt: "Packed with vitamins and minerals, melons are a sweet treat that&#39;s also great for DIY skincare."
+  url: "http://kingsfoodmarkets.com/unique-recipes/homemade-watermelon-face-mask?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ff4cf78d-1384-40e9-9ae6-1c7b35d79493.jpg?ver=1471221490000"
+  img_alt: "DIY Homemade Watermelon Face Mask&#58; Watermelon&#39;s combination of water plus vitamins A, B6 and C, minerals and antioxidants make it naturally hydrating and nourishing for your skin. Learn How >"
+  url: "http://kingsfoodmarkets.com/unique-recipes/homemade-watermelon-face-mask?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"  
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25ac4b9f-b32b-4ac8-b224-7b2bf3c53a83.jpg?ver=1471221490000"
+  img_alt: "DIY Honeydew Body Scrub&#58; Mix honeydew, mint and oats to make your own refreshing, exfoliating scrub. The honeydew adds a dose of vitamin C to aid in skin repair, and the mint gives it an exhilarating fresh scent. Learn How > "
+  url: "http://kingsfoodmarkets.com/unique-recipes/homemade-honeydew-body-scrub?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"  
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3c6d06e8-5062-4926-b780-da909cc9642c.jpg?ver=1471221491000"
+  img_alt: "Market Specials"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f6f4f65a-5787-47be-8d20-c5d595c40260.jpg?ver=1471221491000"
+  img_alt: "Kings USDA Choice Trimmed Whole Beef Tenderloin Custom cut to order 9.99 LB."
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8244dd8f-b973-4c9b-bce1-374a773be056.jpg?ver=1471221491000"
+  img_alt_2: "Kings Chairman&#39;s Reserve Center Cut Pork Chops or Roast Bone-in 3.99 LB."
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ecad17dc-133a-408e-bdb4-c505c00f956a.jpg?ver=1471221491000"
+  img_alt: "View More Specials >"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bedc0450-1ff2-425a-a76b-c3938a5b37d3.jpg?ver=1471221491000"
+  img_alt: "What&#39;s New In Store"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"  
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/be8911fc-114a-4399-a225-d0f75e0b4a6a.jpg?ver=1471221492000"
+  img_alt: "New! Kings Fresh Baked 6-Inch Pies Enjoy the flavors of summer fruit with a fresh baked 6-inch pie from the bakery. Choose from#58; apple, cherry, blueberry and blackberry."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"  
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1fd4317d-d1e8-4e33-9d16-8d8ec02651ec.jpg?ver=1471221492000"
+  img_alt: "Mocha Ice Cream Soda Featured Foodie Recipe by Cathy Roma Verona & Maplewood Kings Shopper View Recipe >"
+  url: "http://kingsfoodmarkets.com/unique-recipes/mocha-ice-cream-soda?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_Weekly_Email"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

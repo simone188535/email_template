@@ -1,0 +1,154 @@
+title: 'Summer&#39;s Grand Finale!'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email'
+
+logo_img: ''
+logo_alt: 'Kings Food Markets'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71b164a7-3069-4738-956b-8b2117e99de0.jpg?ver=1468246669000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eb3efd35-9d8b-49af-833f-11faa5679351.jpg?ver=1468246666000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/592b4972-267b-4a84-a3cb-dcbc9901efbe.jpg?ver=1468246666000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2b03719-5c2d-4e97-87fa-7741acd11156.jpg?ver=1468246666000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/49d5010a-88a4-4f31-ab69-13c6d648c0fe.jpg?ver=1472513067000"
+  img_alt: "Happy Labor Day Summer&#39;s Grand Finale Celebrate summer&#39;s end with grilling greats, party platters for your special event, and fun recipes."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/80a1667a-0598-491e-9536-fb04cb9013e5.jpg?ver=1472513067000"
+  img_alt: "Market Specials &#124; Grilling Greats for Labor Day"
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6e0f1f91-0c63-4f1a-89ec-95677bf9efe9.jpg?ver=1472513067000"
+  img_alt: "Butchers Best Chicken or Pork Marinated Kabobs on Skewers 5.99 EA."
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/341f5451-4d6f-4807-99a4-f364feedf2eb.jpg?ver=1472513068000"
+  img_alt_2: "Locally Grown Fresh Bi-Color Corn on the Cob 6/$3"
+  url_2: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cb3fefcd-05a1-4911-9213-e42deb384b76.jpg?ver=1472513068000"
+  img_alt: "Kings Chairman&#39;s Reserve USDA Choice Porterhouse, T-Bone or NY Strip Steak 9.99 LB."
+  url: "http://kingsfoodmarkets.com/unique-recipes/fiery-grilled-corn-on-the-cob?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/08411463-face-4d37-9bd0-54fb8af39b90.jpg?ver=1472513068000"
+  img_alt_2: "Windmill Franks 32 OZ. 12.99 EA."
+  url_2: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9f0c8559-3f91-43ce-84e1-6d85e7ffa675.jpg?ver=1472513068000"
+  img_alt: "View More Specials >"
+  url: "http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e755f565-cd8c-4e54-ba16-a721d6fb9508.jpg?ver=1472513068000"
+  img_alt: "Recipe Video &#124; Make Sriracha Salmon Burgers"
+  url: "https://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1453a277-dd94-4407-b9a2-2daa800d1533.jpg?ver=1472513068000"
+  img_alt: "How To Sriracha Salmon Burgers with Bahn Mi Slaw Watch Video >"
+  url: "https://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3438de30-213b-4dcd-95ac-7eca4a5b1d7f.jpg?ver=1472513068000"
+  img_alt: "Party Platters &#124; Take the Work Out of Labor Day"
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/123e4c78-5daa-4340-92a6-08841869a7b8.jpg?ver=1472513068000"
+  img_alt: "Mezze Platter"
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5b3ba171-469a-4ce6-a3ba-77de99f2e7d0.jpg?ver=1472513068000"
+  img_alt_2: "Antipasto Platter"
+  url_2: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5b5fddbd-fc52-4aee-9c9c-ae3976d9561b.jpg?ver=1472513068000"
+  img_alt: "View More >"
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0ef8be28-d7a8-431b-b19d-b5b18c968faf.jpg?ver=1472513068000"
+  img_alt: "Pie In a Jar &#124; Try These Unique Recipes"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b615e9cd-edcb-40d3-b5ad-4b2666173d4d.jpg?ver=1472513068000"
+  img_alt: "Cherry & Bourbon Pie In a Jar with Vanilla Sugar View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes/cherry-bourbon-pie-in-a-jar-with-vanilla-sugar?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7ac8302a-8ae8-4af9-9659-115dfe8a2957.jpg?ver=1472513069000"
+  img_alt_2: "Plum & Almond Crostata in a Jar with Sweet Mascarpone View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/plum-almond-crostata-in-a-jar-with-sweet-mascarpone?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cf92caa0-f7d9-41b3-b9de-098e00f52873.jpg?ver=1472513069000"
+  img_alt: "What&#39;s New At Kings"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ffc68505-b280-47a9-8a94-e19522cf446e.jpg?ver=1472513069000"
+  img_alt: "Game Time Catering Relax and enjoy the game! Let Kings cater your game day get-togethers, and you&#39;ll have an all-star spread that&#39;s sure to please. View Menu"
+  url: "kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/610e4c4d-19f4-444d-80e8-2a5530826cad.jpg?ver=1472513069000"
+  img_alt: "September is National Family Meals Month We&#39;re celebrating by providing the best meal ideas to bring you back to the table to share one more meal at home per week."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3e37e3f8-3542-4040-9967-2757d7c5c22e.jpg?ver=1472513069000"
+  img_alt: "Forager Organic Chips Nothing goes to waste with a Forager Vegetable chip. Take delight in the right flavor and delicious crunchiness of this 100% organic, non-GMO, and gluten free vegan snack."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_Weekly_Email"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

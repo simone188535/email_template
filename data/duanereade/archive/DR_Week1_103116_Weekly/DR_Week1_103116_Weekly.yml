@@ -1,0 +1,64 @@
+title: 'Tomorrow only: 20% off for seniors!'
+
+primary_color: '#999999'
+
+pre_header_text: 'Tuesday 11/1 is Seniors Day at Duane Reade – Come in & save!'
+
+logo_img_url: 'images/header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+hero_img_url: 'images/DR_Week1_103116_Weekly_02.jpg'
+hero_img_alt: "20% off* Senior Day - Tuesday, November 1st"
+hero_img_link: 'http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1'
+
+callout_img_url: 'images/DR_Week1_103116_Weekly_05.jpg'
+callout_img_alt: 'Get the App'
+callout_img_link: 'http://walgreens.com/mobile'
+
+footer_text: '*Offer only valid 11/01/2016 with Balance® Rewards card to members 55 years of age or older and all AARP members. Proof of age may be required. Discount not valid on alcohol, dairy, tobacco, stamps, phone/prepaid/gift cards, newspapers, magazines, money orders/transfers, transportation passes, lottery tickets, charitable donations, pseudoephedrine or ephedrine products, clinic services, pharmacy items or services, sales tax, Prescription Savings Club membership fee, and items or services submitted to insurance for reimbursement or where otherwise limited by law. Offer does not apply to bulk orders, backordered items, and out of stock items. Void where prohibited. Complete details in store or at Walgreens.com/SeniorDay. <br><br>††Offer valid 10/30/16 through 11/05/16. Good on next purchase. Purchase requirement must be met in a single transaction, before taxes and after discounts, store credit and redemption dollars are applied. Due to state and federal laws, points cannot be earned or redeemed on some items. Complete details at Walgreens.com/Balance.<br><br>To ensure delivery to your inbox, please add DuaneReade@duanereadedrugstore.com to your address book.<br><br>This message was sent to <br><br>C2216 CX-81485<br><br>Copyright 2016 Walgreen Co., 200 Wilmot Road, Deerfield, IL 58015-4620. All rights reserved.<br><br>Available at select Duane Reade and Walgreens stores and www.Walgreens.com while supplies last. Weekly Ad and coupon prices good 10/30/16 through 11/05/16 except when otherwise noted. Not all products and prices available in all stores in the following markets: U.S. Virgin Islands, Puerto Rico, Hawaii, Alaska, San Francisco, New Jersey, New York Boroughs: Manhattan, Brooklyn, Bronx, Queens and Staten Island. Void where prohibited by law. Unless stated otherwise, all coupons have no cash value. Terms of promotion subject to change. This message contains advertising. <br><br>If you received this email as a forward, we invite you to subscribe.  <br><br>Please do not reply to this message.  This is a system-generated email.  Replies will not be read or forwarded for handling. <br><br>This email was sent by: Duane Reade Holdings, Inc., 40 Wall Street, New York, NY 10005<br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=%%t%%&email=%%email%%'
+unsubscribe_text: 'Unsubscribe/Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+
+# Loop through articles
+
+articles:
+- type: "story-image-no-text"
+  img: "images/DR_Week1_103116_Weekly_03.jpg"
+  img_alt: "Plus, earn 5000 Bonus Points on participating products.††"
+  promo_btn_url: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  promo_btn_text: "Weekly ad &rsaquo;"
+  promo_btn_color: "#97ca45"
+
+
+
+footernav:
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+socialnav:
+- img: "images/fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/tw-link.jpg"
+  link: https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'images/spacer.gif'

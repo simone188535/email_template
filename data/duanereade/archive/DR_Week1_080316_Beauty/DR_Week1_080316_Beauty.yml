@@ -1,0 +1,77 @@
+title: 'Buy One Get One 50% Off Beauty Must-haves '
+
+primary_color: '#999999'
+
+pre_header_text: 'Plus, Axe hair, body and personal care for 50% off too!'
+
+logo_img_url: 'images/DR_Week1_080316_Beauty_header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+callout_img_url: 'images/DR_Week1_080316_Beauty_08.jpg'
+callout_img_alt: 'Get the app'
+callout_img_link: 'http://walgreens.com/mobile'
+
+footer_text: 'Offers valid 7/31-8/6/16 <br><br>*Of equal or lesser price.  <br><br>The contents of this email and health related information and resources on the Duane Reade website ("Contents") are provided  strictly for informational purposes only. Always seek the advice of your physician or other qualified healthcare provider regarding any questions you may have about a medical condition. Reliance on any of the Contents is solely at your own risk. Duane Reade does not guarantee the applicability or accuracy of any information mentioned in the Contents. <br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=%%t%%&email=%%email%%'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 10005'
+
+# Loop through articles
+
+articles:
+- type: "image"
+  url: " http://www.walgreens.com/store/c/beauty-products/ID=359434-tier1?experience=B"
+  img: "images/DR_Week1_080316_Beauty_02.jpg"
+  img_alt: "Don't miss these 50% off deals!"
+
+- type: "story-image-button-text"
+  img: "images/DR_Week1_080316_Beauty_03.jpg"
+  img_alt: "L'Oreal Cosmetics - Buy 1 Get 1 50% off*"
+  promo_btn_top_text_color: "#999999"
+  promo_btn_top_text: "<strong>L&#39;Oréal Cosmetics </strong><br> Excludes Nail."
+  promo_btn_url: " http://www.walgreens.com/store/c/productlist/N=360337-359425"
+  promo_btn_text: "Shop now &rsaquo;"
+  promo_img: "images/DR_Week1_080316_Beauty_04.jpg"
+  promo_btn_color: "#ef5389"
+
+- type: "story-image"
+  img: "images/DR_Week1_080316_Beauty_06.jpg"
+  img_alt: "Axe Hair, Bath or Personal Care - Buy 1 Get 1 50% off*"
+  promo_btn_url: " http://www.walgreens.com/store/c/productlist/N=360341-3910"
+  promo_btn_text: "Shop now &rsaquo;"
+  promo_text: "<strong>Axe</strong> Hair, Bath or Personal<br>Care. Select varieties."
+  promo_btn_color: "#00ac9f"    
+
+
+footernav:
+
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Photo"
+  link: "http://photo.walgreens.com/walgreens/welcome"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+socialnav:
+- img: "images/DR_Week1_080316_Beauty_fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/DR_Week1_080316_Beauty_tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/DR_Week1_080316_Beauty_site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'images/DR_Week1_080316_Beauty_spacer.gif'

@@ -1,0 +1,112 @@
+title: 'An Italian Seafood Feast!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/483f35b5-8c36-43e2-a405-966f09921f7f.jpg?ver=1470666624000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/918a8c9e-0b85-4a5a-be48-400d72d3224f.jpg?ver=1476108344000'
+  img_alt: 'Mangia! Enjoy fabulous Italian flavors from the land and sea. Create Shrimp Fra Diavolo View Recipe &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c865bd6e-5230-45ed-8638-c6d99415606a.jpg?ver=1476108345000'
+  img_alt: 'Italian Seafood | Best of the Sea'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/417f5332-ca63-492d-9a9d-8ef2e81a24b3.jpg?ver=1476108346000'
+  img_alt: 'Organic PEI Mussels'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/87bc1f1c-bff6-41a1-b9cd-d0417526d7d2.jpg?ver=1476108346000'
+  img_alt_2: 'Italian Seafood Sausage'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0aa77dca-f17b-4227-b32e-0a682471712c.jpg?ver=1476110852000'
+  img_alt: 'Fresh Bronzini'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7767d7f0-7b5b-48b7-a659-bae0f1427b2a.jpg?ver=1476110853000'
+  img_alt: 'Create Whole Bronzini Stuffed with Lemons and Herbs View Recipe &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d7124792-b17a-4753-bac4-de17a324acca.jpg?ver=1476108346000'
+  img_alt: 'Chef Prepared | Grab & Go Italian'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0aaa34b1-3672-4850-a769-d582b52e6126.jpg?ver=1476108346000'
+  img_alt: 'Tomato & Artichoke Braised Chicken'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/56d2162b-2144-46ff-b571-ea22a28f4634.jpg?ver=1476108347000'
+  img_alt_2: 'Spicy Sautéed Cauliflower'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2b1e10aa-9868-4d94-b213-f6ba437ff2a4.jpg?ver=1476108347000'
+  img_alt: 'Sautéed Broccoli Rabe'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/32e304a9-ced2-444e-bdc0-cd0cc14c4c8f.jpg?ver=1476108347000'
+  img_alt_2: 'Tomato, Basil & Mozzarella Quiche'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ce3fdab9-8f98-4373-b3ce-0dee1fa6cf02.jpg?ver=1476108347000'
+  img_alt: 'Member Exclusive | Organic Meats'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7fae069a-90ae-465c-9aba-cedc00c912fb.jpg?ver=1476108347000'
+  img_alt: 'Organic Grass Fed Beef Rib Eye Steaks Member Exclusive $5 OFF/LB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7531008c-0646-44a6-aa64-85828c33c582.jpg?ver=1476108348000'
+  img_alt: 'What&#39;s New In-Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a998691c-45d8-4232-909a-014f7037c51c.jpg?ver=1476108348000'
+  img_alt: 'Wine & Food Event Cin cin! Here&#39;s to Italian vino. Join us in-store for a wine and food tasting! Saturday, October 29th Food Samplings…12 noon-5pm Wine Samplings…2-5pm More Info &#62;' 
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=1014_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/47b096e2-64aa-42e3-896d-039ec6eec499.jpg?ver=1476108348000'
+  img_alt: 'Make Your Game Day Gathering Great! Enjoy game day goodies, specially prepared by our Balducci&#39;s catering team. Sit back, relax, and let us do the work. Order Online &#62;'   

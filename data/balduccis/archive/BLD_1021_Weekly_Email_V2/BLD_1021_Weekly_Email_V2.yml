@@ -1,0 +1,120 @@
+title: 'Sicily, Rome & More! Explore Italian Flavors!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/75cfe40d-eb38-43cc-89e8-618b4408b38a.jpg?ver=1476714788000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6e706db9-3f03-4b6a-b26b-4a7cf8d803e9.jpg?ver=1476714788000'
+  img_alt: 'Buon Appetito! Savor the warm, rich flavors of Italy, and join us for an authentic culinary tour. Create Veal Osso Buco View Recipe &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ba9a004a-ac95-4051-a067-5dc57e64f0a6.jpg?ver=1476714788000'
+  img_alt: 'Member Exclusive | Featured Cut'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/18b0befb-9ac2-4264-ac79-fd5f529e23f8.jpg?ver=1476714788000'
+  img_alt: 'Veal Osso Buco Cuts Member Exclusive 16.99/LB Reg 19.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/157bdff4-00c7-466b-8130-3f8053f69903.jpg?ver=1476714788000'
+  img_alt: 'A Taste of Italy | Authentic Eats'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4025e751-a749-4e9c-bd4f-a6a123fdfca0.jpg?ver=1476714788000'
+  img_alt: 'Lombardy Region: Antica Riseria Vignola Arborio Rice • Hails from the Po River Valley in Lombardy • Perfect for risotto, rice salads and puddings'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2b660fa-909f-4bc9-9ab2-986ddd300c1e.jpg?ver=1476714789000'
+  img_alt: 'Veneto Region: Sottocenere Cheese • Made with raw cow’s milk and slices of truffles • Translated from Italian, Sottocenere means &#34;under ash&#34; due to the rub of herbs and spices in the cheese'
+
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e2c619c5-4e59-4ca5-86a5-1f50a536a444.jpg?ver=1476714789000'
+  img_alt: 'Lazio Region: Mondo di Laura Biscotti • Handmade in Rome, certified Kosher/Parve and free of preservatives'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5a4ae820-c75e-4ff9-a05b-f013388f203c.jpg?ver=1476714789000'
+  img_alt_2: 'Lazio Region: Pecorino Romano Fulvi Cheese • Made of 100% sheep’s milk, this tangy, hard cheese is aged 10 to 12 months'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6789c2f2-735b-4811-af11-9c4c1470faf7.jpg?ver=1476714789000'
+  img_alt: 'Sicily Region:  Lemon Ricotta Cheesecake • Soft, creamy fresh-tasting ricotta cake with a refreshing  lemon flavor'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f3c441b7-c390-4b1f-a8e6-f18e1b26a858.jpg?ver=1476714789000'
+  img_alt: 'Sicily Region:  Vincente Sicilian Creams • Available in Pistachio, Hazelnut and Almond flavors • Dress up everyday toast or waffles or add to your favorite dessert recipes'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/72acd77e-df7c-42fc-a3cc-597ee47bfdb8.jpg?ver=1476714789000'
+  img_alt: 'Abruzzo Region: De Cecco Pasta • Since 1886, the De Cecco family has made premium quality pasta  • Produces the highest quality pasta using the old tradition'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2225616c-1470-43e5-af71-4fa069b7f17a.jpg?ver=1476714790000'
+  img_alt: 'Cin Cin! | Vino Esclusivo'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2442a629-ec5d-4d24-8459-1c850ac57400.jpg?ver=1476729512000'
+  img_alt: 'Balducci&#39;s Organic Chianti Our exclusive organic Chianti is made with  100% Sangiovese grapes  that have been certified organic by Agricultura Biologica. It’s a rustic Chianti that offers classic old world charm.'
+  url_2: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6d2cbfcc-bf8d-43e7-9864-efc0d9051afb.jpg?ver=1476729513000'
+  img_alt_2: 'Balducci&#39;s Pinot Grigio Made especially for Balducci&#39;s by famed enologist Franco Bernabei at del Venezia outside Verona, this classic Italian white features fresh, floral apple-scented fruit, and a soft, full finish.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05fabcfc-a0b9-41c9-8dd0-56c350903932.jpg?ver=1476729513000'
+  img_alt: 'Wine & Food Event Join us for an exclusive fall wine and food tasting event! Saturday, October 29th Food Samplings..........12 noon-5pm Wine Samplings.......................2-5pm More Info &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e3e32df4-4ef5-4c7e-bcad-f3c3aa511db9.jpg?ver=1476714789000'
+  img_alt: 'What&#39;s New In-Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_BLD_Weekly_Email_DIV02'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/684dea7a-a7a6-4f9c-af76-4efb034cb2fd.jpg?ver=1476714790000'
+  img_alt: 'Halloween Party Catering Let our Balducci’s catering team prepare a ghoulish gourmet feast for your family and friends. Try our festive party platters—perfect for entertaining. Order Online &#62;'

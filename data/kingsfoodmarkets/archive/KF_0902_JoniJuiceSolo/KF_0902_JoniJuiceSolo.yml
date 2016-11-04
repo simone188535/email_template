@@ -1,0 +1,87 @@
+title: 'BOGO On Joni Juice!'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0902_KF_JoniJuiceSolo'
+
+logo_img: ''
+logo_alt: 'Kings Food Markets'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0902_KF_JoniJuiceSolo'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0902_KF_JoniJuiceSolo'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0902_KF_JoniJuiceSolo'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0902_KF_JoniJuiceSolo'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+# bogo_store_link: "http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0902_KF_JoniJuiceSolo"
+# bogo_store_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8d51d107-8fc7-45ef-8092-2da7e0878b0b.jpg?ver=1472739814000"
+# bogo_store_alt: "BOGO OFFER available in these Kings stores: Cresskill, Hoboken North, Short Hills, Garwood, Montclair, Hillsdale, Morristown, Bedminster, Old Breenwich, Boonton, Mendham, Livingston, Bernardsville, Midland Park, Florham Park"
+#footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0902_KF_JoniJuiceSolo"
+# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5635dc74-7fb4-4dc8-9421-a5fab02cd47e.jpg?ver=1472739814000"
+# footer_site_alt: "www.kingsfoodmarkets.com"
+# footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b3d2a137-753a-4bd7-b42c-d358eb4e1233.jpg?ver=1472739814000"
+# footer_facebook_alt: "facebook"
+# footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1609de63-ce54-4b40-b20b-a19dc0a94019.jpg?ver=1472739814000"
+# footer_twitter_alt: "twitter"
+# footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+# footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/216cba0a-5219-4a26-837d-a8e94aa8c665.jpg?ver=1472739814000"
+# footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2132f5a6-af67-4ac7-88dd-5bf7828ae1ac.jpg?ver=1472763396000"
+  img_alt: "Introducing Joni Juice Buy One Get One Free! September 2nd - 15th, 2016 Created by Bergen County&#39;s own nutritionist, Cindy Kasindorf developed a line of cold-pressed juices, cleanses and organic protein blends that are handcrafted and produced locally in small batches. They are super healthy, taste great and made from the finest whole fruits, vegetables and superfoods."
+  url: "http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0902_KF_JoniJuiceSolo"
+
+- type: "image-5-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8d51d107-8fc7-45ef-8092-2da7e0878b0b.jpg?ver=1472739814000"
+  img_alt: "BOGO OFFER available in these Kings stores: Cresskill, Hoboken North, Short Hills, Garwood, Montclair, Hillsdale, Morristown, Bedminster, Old Breenwich, Boonton, Mendham, Livingston, Bernardsville, Midland Park, Florham Park"
+  url: "http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0902_KF_JoniJuiceSolo"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5635dc74-7fb4-4dc8-9421-a5fab02cd47e.jpg?ver=1472739814000"
+  img_alt_2: "www.kingsfoodmarkets.com"
+  url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0902_KF_JoniJuiceSolo"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b3d2a137-753a-4bd7-b42c-d358eb4e1233.jpg?ver=1472739814000"
+  img_alt_3: "facebook"
+  url_3: "https://www.facebook.com/KingsFoodMarkets"
+  img_4: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1609de63-ce54-4b40-b20b-a19dc0a94019.jpg?ver=1472739814000"
+  img_alt_4: "twitter"
+  url_4: "https://twitter.com/KingsFoodMkts"
+  img_5: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/216cba0a-5219-4a26-837d-a8e94aa8c665.jpg?ver=1472739814000"
+  img_alt_5: "youtube"
+  url_5: "https://www.youtube.com/user/KingsFoodMarkets"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

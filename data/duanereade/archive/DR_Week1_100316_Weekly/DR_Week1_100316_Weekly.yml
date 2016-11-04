@@ -1,0 +1,73 @@
+title: 'It’s officially Halloween Season!'
+
+primary_color: '#999999'
+
+pre_header_text: 'And earn 5,000 bonus points at Duane Reade'
+
+logo_img_url: 'images/DR_Week1_100316_Weekly_header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+hero_img_url: 'images/DR_Week1_100316_Weekly_02.jpg'
+hero_img_alt: "Time to get spooky! "
+hero_img_link: 'https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp'
+hero_text: ''
+hero_btn_text: ''
+
+callout_img_url: 'images/DR_Week1_100316_Weekly_06.jpg'
+callout_img_alt: 'Get the app'
+callout_img_link: 'http://walgreens.com/mobile'
+
+footer_text: '††Good on next purchase.  If offer has purchase requirement, it must be met in a single transaction, before taxes, after discounts, store credit and redemption dollars are applied. Due to state and federal laws, points cannot be earned or redeemed on some items. Complete details at Walgreens.com/Balance. <br><br> To ensure delivery to your inbox, please add DuaneReade@duanereadedrugstore.com to your address book. <br><br> This message was sent to %%email%% <br><br> C2216 CX-81485 <br><br> Copyright 2016 Walgreen Co., 200 Wilmot Road, Deerfield, IL 58015-4620. All rights reserved. <br><br> Available at select Duane Reade and Walgreens stores and www.Walgreens.com while supplies last. Weekly Ad and coupon prices good 10/02/16 through 10/08/16 except when otherwise noted. Not all products and prices available in all stores in the following markets: U.S. Virgin Islands, Puerto Rico, Hawaii, Alaska, San Francisco, New Jersey, New York Boroughs: Manhattan, Brooklyn, Bronx, Queens and Staten Island. Void where prohibited by law. Unless stated otherwise, all coupons have no cash value. Terms of promotion subject to change. This message contains advertising. <br><br> If you received this email as a forward, we invite you to subscribe.<br><br> Please do not reply to this message.  This is a system-generated email.  Replies will not be read or forwarded for handling.<br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=%%t%%&email=%%email%%'
+unsubscribe_text: 'Unsubscribe or Change Your Email Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+copyright: '&copy; 2016 Duane Reade. All rights reserved.<br>Duane Reade Holdings, Inc.,<br>40 Wall Street, New York, NY 10005'
+
+# Loop through articles
+
+articles:
+- type: "story-image-center-text"
+  img: "images/DR_Week1_100316_Weekly_03.jpg"
+  img_alt: "Stock up on candy early!"
+  promo_btn_url: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  promo_btn_text: "Shop now &rsaquo;"
+  promo_text: "<strong>Hershey's, Mars or Mary Jane</strong><br> Select Varieties."
+  promo_btn_color: "#f36c21"
+
+- type: "image"
+  url: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  img: "images/DR_Week1_100316_Weekly_05.jpg"
+  img_alt: "Get a flu shot today."
+  
+
+
+footernav:
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"  
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+socialnav:
+- img: "images/DR_Week1_100316_Weekly_fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/DR_Week1_100316_Weekly_tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/DR_Week1_100316_Weekly_site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'images/DR_Week1_100316_Weekly_spacer.gif'

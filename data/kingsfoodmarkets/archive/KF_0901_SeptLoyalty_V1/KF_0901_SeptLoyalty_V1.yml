@@ -1,0 +1,92 @@
+title: 'Account Update Reminder'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+
+#logo_img: ''
+#logo_alt: 'Kings Food Markets'
+#logo_img_space: ''
+#logo_img_space_2: ''
+#store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#store_locator_img: ''
+#store_locator_alt: 'FIND A STORE'
+#weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#weekly_circular_img: ''
+#weekly_circular_alt: 'WEEKLY CIRCULAR'
+#chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#chef_prepared_img: ''
+#chef_prepared_alt: 'CHEF PREPARED'
+#catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#catering_img: ''
+#catering_alt: 'CATERING'
+
+#footer
+#footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_59_JuneLoyaltyEmail"
+#footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7878a77-91ba-4798-8909-c9a383785b5f.jpg?ver=1462839230000"
+#footer_site_alt: "www.kingsfoodmarkets.com"
+#footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+#footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d1a8a42-7b19-4797-8374-7f2b4b7f22c9.jpg?ver=1462839230000"
+#footer_facebook_alt: "facebook"
+#footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+#footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd97367a-001e-4325-9638-f7dfd81ffc02.jpg?ver=1462839230000"
+#footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f7b538cd-087e-453f-ba4e-eb3f5508c08e.jpg?ver=1472567724000"
+  img_alt: "Kings Rewards"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_SeptLoyaltyBenefit_59_64_66"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7165dfaf-10c7-4467-8501-1a1bd31f2fb1.jpg?ver=1472567724000"
+  img_alt: "New! Member Exclusive Offers!"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_SeptLoyaltyBenefit_59_64_66"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/44ceadc2-0208-427d-8140-4f71bc992267.jpg?ver=1472567724000"
+  img_alt: "Receive double points on select KINGS Own brand products throughout the store from September 1st through September 30th See store for more details"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_SeptLoyaltyBenefit_59_64_66"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/da58cf5f-4144-4139-9a99-21f68b29740e.jpg?ver=1472567724000"
+  img_alt: "Kings Own Earn double points on select products"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_SeptLoyaltyBenefit_59_64_66"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/07bb615f-b6da-41d3-8314-53ac5dddd99a.jpg?ver=1472567724000"
+  img_alt: "Plus we are introducing a new sandwich club"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_SeptLoyaltyBenefit_59_64_66"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1fb9fde6-009c-448b-ad95-ee62b8a67b89.jpg?ver=1472567724000"
+  img_alt: "Buy 5 Kings pre-packed sandwiches, get the 6th free* (*) The Free sandwich ($7.99 value) will automatically be subtracted from the total. Free value cannot be applied to another item or received as cash."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_SeptLoyaltyBenefit_59_64_66"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f525fabc-2ef0-4653-83de-eba2f6df98f1.jpg?ver=1472567725000"
+  img_alt: ""
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_SeptLoyaltyBenefit_59_64_66"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/96597e45-54c1-4c1c-a3fb-2e376744ac9d.jpg?ver=1472567725000"
+  img_alt: "Account Update Reminder your points will expire September 30th 2016"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_SeptLoyaltyBenefit_59_64_66"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/47bf3114-03ea-4953-befe-ead8a2e61b4c.jpg?ver=1472567725000"
+  img_alt: "REMEMBER Collect 300 points by September 30th to receive your $5.00 REWARD. All points will returned to 0 on 10/1/16, for the next promotional period starting 10/1/16 through 12/31/16"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_SeptLoyaltyBenefit_59_64_66"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5514d5d3-c821-4758-86e1-8da75ff891d5.jpg?ver=1472567726000"
+  img_alt: "Remember! Use your card or phone number each time you shop to receive all your benefits!"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_SeptLoyaltyBenefit_59_64_66"

@@ -1,0 +1,80 @@
+title: 'The Flu Shot You Need if You&#39;re Over 65'
+
+primary_color: '#999999'
+
+pre_header_text: 'Learn about a specially formulated flu shot for seniors'
+
+logo_img_url: 'images/header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+hero_img_url: 'images/DR_Week3_102016_Pharmacy_2A_02.jpg'
+hero_img_alt: "Flu shots formulated just for seniors."
+hero_img_link: 'http://staywell.walgreens.com/post/149847559195/seniors-and-the-flu-shot'
+
+callout_img_url: 'images/DR_Week3_102016_Pharmacy_2A_12.jpg'
+callout_img_alt: 'Get the App'
+callout_img_link: 'https://www.walgreens.com/mobile'
+
+footer_text: '*Of equal or lesser price. <br><br>**No commissions are paid to Walgreens. <br><br>To ensure delivery to your inbox, please add DuaneReade@duanereadedrugstore.com to your address book. <br><br>This message was sent to <br><br>C2216 CX-81485<br><br>Copyright 2016 Walgreen Co., 200 Wilmot Road, Deerfield, IL 58015-4620. All rights reserved. <br><br> Available at select Duane Reade and Walgreens stores and www.Walgreens.com while supplies last. Weekly Ad and coupon prices good 9/11/16 through 9/17/16 except when otherwise noted. Not all products and prices available in all stores in the following markets: U.S. Virgin Islands, Puerto Rico, Hawaii, Alaska, San Francisco, New Jersey, New York Boroughs: Manhattan, Brooklyn, Bronx, Queens and Staten Island. Void where prohibited by law. Unless stated otherwise, all coupons have no cash value. Terms of promotion subject to change. This message contains advertising. <br><br> If you received this email as a forward, we invite you to subscribe. <br><br> Please do not reply to this message.  This is a system-generated email.  Replies will not be read or forwarded for handling. <br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=%%t%%&email=%%email%%'
+unsubscribe_text: 'Unsubscribe/Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+
+# Loop through articles
+
+articles:
+- type: "story-image-center-text"
+  img: "images/DR_Week3_102016_Pharmacy_2A_03.jpg"
+  img_alt: "Buy One Get One 50% off* - Alka-Seltzer Plus or Afrin Nasal Spray"
+  promo_btn_url: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  promo_btn_text: "See ad &rsaquo;"
+  promo_text: "<strong style='color: #5b5c5e;'>Alka-Seltzer Plus or Afrin Nasal Spray</strong><br>Select varieties and sizes."
+  promo_btn_color: "#67d2ed"
+
+- type: "story-image-center-text"
+  img: "images/DR_Week3_102016_Pharmacy_2A_06.jpg"
+  img_alt: "Buy One Get One 50% off* - Walgreens Cold & Flu, Sinus, Mucus or Cough Relief"
+  promo_btn_url: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  promo_btn_text: "See ad &rsaquo;"
+  promo_text: "<strong style='color: #5b5c5e;'>Cold & Flu, Sinus, Mucus or Cough Relief </strong><br>Walgreens. Select varieties."
+  promo_btn_color: "#67d2ed"
+
+- type: "story-image-center-text"
+  img: "images/DR_Week3_102016_Pharmacy_2A_09.jpg"
+  img_alt: "Looking to save with Medicare Part D?"
+  promo_btn_url: "https://www.walgreens.com/topic/pharmacy/medicarepartd-info.jsp"
+  promo_btn_text: "Learn more &rsaquo;"
+  promo_text: "We&#39;ve teamed up with a Medicare plan advisor to help<br> you enroll in a plan that could save you money.** Call a <br>free, licensed indepdendent broker today at: <br><strong style='color: #5b5c5e;'>844-268-7441 </strong>"
+  promo_btn_color: "#67d2ed"
+
+
+footernav:
+- text: "Photo"
+  link: "http://photo.walgreens.com/walgreens/welcome"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp"
+  sep: ""
+
+socialnav:
+- img: "images/fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'images/spacer.gif'

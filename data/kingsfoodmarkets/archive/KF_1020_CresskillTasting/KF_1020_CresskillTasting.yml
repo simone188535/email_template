@@ -1,0 +1,116 @@
+title: 'Savor the Flavors of Fall-Special Tasting Event!'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+# #header
+# logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0922_KF_Weekly_Email'
+
+# logo_img: ''
+# logo_alt: 'KINGS'
+# logo_img_space: ''
+# logo_img_space_2: ''
+# store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0922_KF_Weekly_Email'
+# store_locator_img: ''
+# store_locator_alt: 'FIND A STORE'
+# weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0922_KF_Weekly_Email'
+# weekly_circular_img: ''
+# weekly_circular_alt: 'WEEKLY CIRCULAR'
+# chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0922_KF_Weekly_Email'
+# chef_prepared_img: ''
+# chef_prepared_alt: 'CHEF PREPARED'
+# catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0922_KF_Weekly_Email'
+# catering_img: ''
+# catering_alt: 'CATERING'
+
+
+
+# footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1021_KF_CookingStudioExpo"
+# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71b164a7-3069-4738-956b-8b2117e99de0.jpg?ver=1468246669000"
+# footer_site_alt: "www.kingsfoodmarkets.com"
+# footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eb3efd35-9d8b-49af-833f-11faa5679351.jpg?ver=1468246666000"
+# footer_facebook_alt: "facebook"
+# footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/592b4972-267b-4a84-a3cb-dcbc9901efbe.jpg?ver=1468246666000"
+# footer_twitter_alt: "twitter"
+# footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+# footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2b03719-5c2d-4e97-87fa-7741acd11156.jpg?ver=1468246666000"
+# footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8e48edbd-1291-4173-a574-def610401874.jpg?ver=1476800129000"
+  img_alt: "KINGS WHERE INSPIRATION STRIKES"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_KF_CresskillTasting"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/32227d54-5b43-4fab-9607-98867571b35e.jpg?ver=1476800129000"
+  img_alt: "Cresskill, NJ Savor the Flavors of Fall Friday, October 21 - Sunday, October 23 Celebrating 80 Years Inspiration Since 1936"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_KF_CresskillTasting"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dda6391e-985b-41e0-8f17-75dce0afd1b2.jpg?ver=1476800129000"
+  img_alt: "Cresskill, NJ Savor the Flavors of FallFriday, October 21 - Sunday, October 23 Celebrating 80 Years Inspiration Since 1936"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_KF_CresskillTasting"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/df75cf19-105d-4d4e-a6f2-0bfde6c07320.jpg?ver=1476800129000"
+  img_alt: "Join us in Kings Cresskill for our Fall Flavors Tasting Event! All Weekend long, from 11am-3pm, you can enjoy delicious  Food Demos, Kings Nutritionist Shari Boockvar, M.S., R.D., and a chance to win a Fall Flavor Inspired Basket!"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_KF_CresskillTasting"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/70f10122-d691-4586-984f-5a5a17576150.jpg?ver=1476800130000"
+  img_alt: "TASTE Enjoy Fall Flavors Throughout Our Store! Sample our delicious fall offerings including Colavita Extra Virgin Olive Oil, Cirio Crushed Tomatoes,  Niasca Limonata and Chocolate Soufflé and Crème Brûlée."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_KF_CresskillTasting"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d6479384-b6c6-409b-a69e-f277dcac316c.jpg?ver=1476140910000"
+  img_alt: "LEARN Kings&#39; Nutritionist Shari Boockvar, M.S., R.D. Meet Shari and get answers to your nutrition questions. She&#39;ll also be  leading store tours and teaching  shoppers how to read nutritional labels. Friday, October 21–Saturday, October 22, 11am-2pm."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_KF_CresskillTasting"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/75f6a824-a844-4077-ac37-3e2bd724faf0.jpg?ver=1476800130000"
+  img_alt: "EXPLORE Discover the latest and greatest tastes  and trends, all crafted with the Kings quality and Fall Flavors you love! Kings Own Fall Flavors are the  perfect complement to the season.  Choose from seasonal favorites including: Pumpkin Spice Coffee,  Pumpkin Bars, Apple Cider  Donuts and Pumpkin Donuts."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_KF_CresskillTasting"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c444b605-720d-45cf-b776-18eb7ec7e792.jpg?ver=1476800130000"
+  img_alt: "WIN Enter For A Chance To Win A Kings Own Basket Filled with our Kings Own Products  plus a $100 Kings Gift card. Enter To Win All Weekend!"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_KF_CresskillTasting"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,102 @@
+title: ''
+
+pre_header_text: ''
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com'
+header_logo_img: "images/CTS_045_091616_Reblast_v2_r13_DEV_01.png"
+header_logo_alt: "Christmas Tree Shops&#174; and That&#8482;"
+header_logo_height: "63"
+header_logo_width: "600"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+header_arrivals_img: "images/BLD_0527_Weekly_Email_02.jpg"
+header_arrivals_alt: "NEW ARRIVALS"
+header_arrivals_height: "31"
+header_arrivals_width: "155"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+header_seasonal_img: "images/BLD_0527_Weekly_Email_03.jpg"
+header_seasonal_alt: "SEASONAL &#38; GIFTS"
+header_seasonal_height: "31"
+header_seasonal_width: "126"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+header_furniture_img: "images/BLD_0527_Weekly_Email_04.jpg"
+header_furniture_alt: "FURNITURE"
+header_furniture_height: "31"
+header_furniture_width: "91"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?mobile=off'
+header_outdoor_img: "images/BLD_0527_Weekly_Email_05.jpg"
+header_outdoor_alt: "OUTDOOR"
+header_outdoor_height: "31"
+header_outdoor_width: "87"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do'
+header_clearance_img: "images/BLD_0527_Weekly_Email_06.jpg"
+header_clearance_alt: "CLEARANCE"
+header_clearance_height: "31"
+header_clearance_width: "141"
+
+
+socialnav:
+- img: "images/BLD_0527_Weekly_Email_13.jpg"
+  alt: " "
+  link: "#"
+  width: '144'
+  height: '71'
+
+- img: "images/BLD_0527_Weekly_Email_14.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops'
+  width: '45'
+  height: '71'
+
+- img: "images/BLD_0527_Weekly_Email_15.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat'
+  width: '54'
+  height: '71'
+
+- img: "images/BLD_0527_Weekly_Email_16.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops'
+  width: '41'
+  height: '71'
+
+- img: "images/BLD_0527_Weekly_Email_17.jpg"
+  alt: "Find a store near you &#62;"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do'
+  width: '167'
+  height: '71'
+
+- img: "images/BLD_0527_Weekly_Email_18.jpg"
+  alt: " "
+  link: ""
+  width: '149'
+  height: '71'
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/CTS_045_091616_Reblast_v2_r13_DEV_03.png"
+    img_alt: 'limited time only! TAKE AN ADDITIONAL 50% OFF CLEARANCE SAVINGS UP TO 75% IN-STORE ONLY!'
+    url: 'http://www.christmastreeshops.com/category/clearance.do'
+    width: '600'
+    height: '348'
+
+  - type: "image"
+    img: "images/CTS_045_091616_Reblast_v2_r13_DEV_04.png"
+    img_alt: 'don&#39;t miss our LATEST FLYER!'
+    url: 'http://www.christmastreeshops.com/flyer'
+    width: '600'
+    height: '171'
+
+  - type: "image"
+    img: "images/CTS_045_091616_Reblast_v2_r13_DEV_05.png"
+    img_alt: '1.99 EACH ZACHARY® HALLOWEEN CANDY TUBS 16 OZ  5.99 & UNDER WILTON® HALLOWEEN BAKING ESSENTIALS 79.99 EACH BEADBOARD KITCHEN ISLANDS'
+    url: 'http://www.christmastreeshops.com'
+    width: '600'
+    height: '823'

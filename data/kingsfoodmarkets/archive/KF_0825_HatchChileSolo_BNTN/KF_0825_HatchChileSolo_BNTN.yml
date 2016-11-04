@@ -1,0 +1,57 @@
+title: 'Join Us For a Hatch Chile Roast!'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0825_KF_HatchChileSolo_BNTN'
+
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b26d51e5-52a6-436f-b48e-7d58bd52f2fb.jpg?ver=1471983244000'
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: ''
+store_locator_img: ''
+store_locator_alt: ''
+weekly_circular_link: ''
+weekly_circular_img: ''
+weekly_circular_alt: ''
+chef_prepared_link: ''
+chef_prepared_img: ''
+chef_prepared_alt: ''
+catering_link: ''
+catering_img: ''
+catering_alt: ''
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0825_KF_HatchChileSolo_BNTN"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/66b9fca3-0ac0-465e-b5e8-35aa710683b4.jpg?ver=1471983244000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cf935c7f-8cd2-4178-8c8f-3d4f475d3bd7.jpg?ver=1471983244000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1965b1ce-57e0-42b2-88f3-359cc814a17d.jpg?ver=1471983244000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/611ec762-6aef-498e-bd85-1346eeb8f4b5.jpg?ver=1471983244000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d8fe7076-e20c-49ab-970c-142f252a9f1d.jpg?ver=1471983244000"
+  img_alt: "Hatch Chile Fest! It's going to be a Hatch chile roast!"
+  url: "http://kingsfoodmarkets.com/store-locator/boonton?utm_source=weeklyemail&utm_medium=email&utm_campaign=0825_KF_HatchChileSolo_BNTN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e4c1ab61-d0b1-409f-a0f4-538386ccaa93.jpg?ver=1471983244000"
+  img_alt: "Join Us For A Hatch Chile Roasting And Special Hatch Chile Products Only Available For A Limited Time. Great In Burgers, Burritos, Chili, Salsa & Margaritas! Get Your Hatch Chile Fix With Us! Saturday, August 27th 10:00AM - 2:00PM Kings Boonton 115 Hawkins Place, Boonton NJ 07005 (973) 257 - 4899 "
+  url: "http://kingsfoodmarkets.com/store-locator/boonton?utm_source=weeklyemail&utm_medium=email&utm_campaign=0825_KF_HatchChileSolo_BNTN"
