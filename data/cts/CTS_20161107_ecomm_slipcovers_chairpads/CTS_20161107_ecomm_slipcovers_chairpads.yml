@@ -1,0 +1,111 @@
+title: '20% Off & Free Shipping! Plus Amazing Online Only Deals!'
+
+pre_header_text: 'Christmas Tree Shops®'
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com'
+header_logo_img: "images/Ecomm_Chairpads_Slipcovers_01.jpg"
+header_logo_alt: "Christmas Tree Shops&#174;"
+header_logo_height: "65"
+header_logo_width: "600"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+header_arrivals_img: "images/Ecomm_Chairpads_Slipcovers_02.jpg"
+header_arrivals_alt: "New Arrivals"
+header_arrivals_height: "30"
+header_arrivals_width: "155"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+header_seasonal_img: "images/Ecomm_Chairpads_Slipcovers_03.jpg"
+header_seasonal_alt: "Seasonal"
+header_seasonal_height: "30"
+header_seasonal_width: "128"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+header_furniture_img: "images/Ecomm_Chairpads_Slipcovers_04.jpg"
+header_furniture_alt: "Furniture"
+header_furniture_height: "30"
+header_furniture_width: "90"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?mobile=off'
+header_outdoor_img: "images/Ecomm_Chairpads_Slipcovers_05.jpg"
+header_outdoor_alt: "Outdoor"
+header_outdoor_height: "30"
+header_outdoor_width: "87"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?skipmobile=true'
+header_clearance_img: "images/Ecomm_Chairpads_Slipcovers_06.jpg"
+header_clearance_alt: "Clearance"
+header_clearance_height: "30"
+header_clearance_width: "140"
+
+
+socialnav:
+- img: "images/Ecomm_Chairpads_Slipcovers_11.jpg"
+  alt: " "
+  link: "#"
+  width: '142'
+  height: '74'
+
+- img: "images/Ecomm_Chairpads_Slipcovers_12.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops'
+  width: '58'
+  height: '74'
+
+- img: "images/Ecomm_Chairpads_Slipcovers_13.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat'
+  width: '44'
+  height: '74'
+
+- img: "images/Ecomm_Chairpads_Slipcovers_14.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops'
+  width: '39'
+  height: '74'
+
+- img: "images/Ecomm_Chairpads_Slipcovers_15.jpg"
+  alt: "Find a Store"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do'
+  width: '158'
+  height: '74'
+
+- img: "images/Ecomm_Chairpads_Slipcovers_16.jpg"
+  alt: " "
+  link: ""
+  width: '159'
+  height: '74'
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/Ecomm_Chairpads_Slipcovers_07.jpg"
+    img_alt: '20% off your purchase & Free Shipping Sitewide! Online Only! Today Only! On All Orders of $65 or more! Use code NOVFANDF2065 at checkout.'
+    url: 'http://www.christmastreeshops.com'
+    width: '600'
+    height: '195'
+
+  - type: "image"
+    img: "images/Ecomm_Chairpads_Slipcovers_08.jpg"
+    img_alt: 'Online Only! While Supplies Last! 9.99 Set 2-Pack Non-Slip Solid Chair Pads'
+    url: 'http://www.christmastreeshops.com/product/surefitslipcoversandchairpads.do'
+    width: '600'
+    height: '622'
+
+  - type: "image"
+    img: "images/Ecomm_Chairpads_Slipcovers_09.jpg"
+    img_alt: 'Online Only! While Supplies Last! 29.99 each SUREFIT Stretch Slipcovers Sofa or loveseat. Available in 2 colors.'
+    url: 'http://www.christmastreeshops.com/product/surefitslipcoversandchairpads.do'
+    width: '600'
+    height: '442'
+
+  - type: "image"
+    img: "images/v1.jpg"
+    img_alt: '2016 Friends & Family Early Access for Email Subscribers ends today! 20% off Your Total Purchase'
+    url: ''
+    width: '600'
+    height: '355'
+
+
