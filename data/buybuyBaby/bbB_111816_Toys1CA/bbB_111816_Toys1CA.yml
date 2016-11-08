@@ -12,11 +12,11 @@ freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies?
 freeshipping_img_width: "117"
 freeshipping_img_height: "113"
 
-instorepickup_img_url: "images/bbB_111816_Toys1CA_03.jpg"
-instorepickup_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
-instorepickup_img_link: "https://www.buybuybaby.com/store/static/reserveonline?mcid=EM_Promo_201611_StokkeHC_NoOffer"
-instorepickup_img_width: "165"
-instorepickup_img_height: "113"
+instore_img_url: "images/bbB_111816_Toys1CA_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "https://www.buybuybaby.com/store/static/reserveonline?mcid=EM_Promo_201611_StokkeHC_NoOffer"
+instore_img_width: "165"
+instore_img_height: "113"
 
 babyreg_img_url: "images/bbB_111816_Toys1CA_04.jpg"
 babyreg_img_alt: "baby registry logo"
@@ -76,7 +76,7 @@ articles:
   image_first_link: 'https://www.buybuybaby.com/store/product/infantino-reg-foot-rattles-trade-in-tiger-zebra/1043136155?mcid=EM_promobbBCAN_201611_Toys_NoOffer'
   image_first_height: '304'
   image_first_width: '303'
-  image_second_url: 'images/bbB_111816_Toys1CA_11.jpg'
+  image_second_url: 'images/bbB_111816_Toys1CA_12.jpg'
   image_second_alt: 'Mary Meyer Sherbet Lamb Character Blanket by Taggies™ 29.99'
   image_second_link: 'https://www.buybuybaby.com/store/product/taggies-trade-mary-meyer-sherbet-lamb-character-blanket/1045763342?mcid=EM_promobbBCAN_201611_Toys_NoOffer'
   image_second_height: '304'
@@ -84,12 +84,12 @@ articles:
  
 
 - type: 'images-2-columns'
-  image_first_url: 'images/bbB_111816_Toys1CA_12.jpg'
+  image_first_url: 'images/bbB_111816_Toys1CA_13.jpg'
   image_first_alt: 'Textured Multi Ball Set™ by Infantino® 14.99'
   image_first_link: 'http://www.bedbathandbeyond.ca/store/product/infantino-reg-textured-multi-ball-set-trade/1041526019?categoryId=22957?mcid=EM_promobbBCAN_201611_Toys_NoOffer'
   image_first_height: '372'
   image_first_width: '369'
-  image_second_url: 'images/bbB_111816_Toys1CA_13.jpg'
+  image_second_url: 'images/bbB_111816_Toys1CA_14.jpg'
   image_second_alt: 'Sophie la girafe® Teething Toy by Vulli® 29.99'
   image_second_link: 'http://www.bedbathandbeyond.ca/store/product/vulli-reg-sophie-la-girafe-reg-teething-toy/1017110357?categoryId=22961?mcid=EM_promobbBCAN_201611_Toys_NoOffer'
   image_second_height: '372'
@@ -97,14 +97,14 @@ articles:
 
 
 - type: 'image'
-  image_url: 'images/bbB_111816_Toys1CA_09.jpg'
+  image_url: 'images/bbB_111816_Toys1CA_15.jpg'
   image_alt: 'toys for toddlers'
   image_link: ''
   image_height: '82'
   image_width: '600'
 
 - type: 'image'
-  image_url: 'images/bbB_111816_Toys1CA_09.jpg'
+  image_url: 'images/bbB_111816_Toys1CA_16.jpg'
   image_alt: 'Ring and Learn Cash Register™ by Vtech® 29.99Sit-to-Stand Learning Walker by Vtech® 49.99'
   image_link: 'https://www.buybuybaby.com/store/product/vtech-ring-and-learn-cash-register/1046622563?mcid=EM_promobbBCAN_201611_Toys_NoOffer'
   image_height: '323'
@@ -112,21 +112,21 @@ articles:
 
 
 - type: 'image'
-  image_url: 'images/bbB_111816_Toys1CA_09.jpg'
+  image_url: 'images/bbB_111816_Toys1CA_17.jpg'
   image_alt: 'Sit-and-Stand Learning Walker by Vtech®'
   image_link: 'http://www.bedbathandbeyond.ca/store/product/vtech-reg-sit-to-stand-learning-walker-trade/1015948205?mcid=EM_promobbBCAN_201611_Toys_NoOffer'
   image_height: '384'
   image_width: '600'    
 
 - type: 'image'
-  image_url: 'images/bbB_111816_Toys1CA_09.jpg'
+  image_url: 'images/bbB_111816_Toys1CA_18.jpg'
   image_alt: 'toys for big kids'
   image_link: ''
   image_height: '112'
   image_width: '600'
 
 - type: 'image'
-  image_url: 'images/bbB_111816_Toys1CA_18.jpg'
+  image_url: 'images/bbB_111816_Toys1CA_19.jpg'
   image_alt: 'Call & Chat Learning Phone by Vtech® 15.99'
   image_link: 'https://www.bedbathandbeyond.ca/store/product/vtech-reg-text-and-go-learning-phone/1044346072?categoryId=22966'
   image_height: '306'
@@ -134,14 +134,14 @@ articles:
 
 
 - type: 'image'
-  image_url: 'images/bbB_111816_Toys1CA_19.jpg'
+  image_url: 'images/bbB_111816_Toys1CA_20.jpg'
   image_alt: 'Scout&#39;s Learning Lights Remote by LeapFrog® 14.99'
   image_link: 'http://www.bedbathandbeyond.ca/store/product/leapfrog-reg-scout-39-s-learning-lights-remote/1043830299?categoryId=22966?mcid=EM_promobbBCAN_201611_Toys_NoOffer'
   image_height: '350'
   image_width: '600'
 
 - type: 'image'
-  image_url: 'images/bbB_111816_Toys1CA_20.jpg'
+  image_url: 'images/bbB_111816_Toys1CA_21.jpg'
   image_alt: 'A books for all ages A &#34;Your Baby&#39;s First Word Will Be DADA&#34; Board Book by Jimmy Fallon and Miguel Ordonez B Love You Forever Book | 14.95 C Old McDonald: A Hand-Puppet Board Book | 14.99'
   image_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/infant-toys-ages-0-3-years/books-media/22962/?mcid=EM_promobbBCAN_201611_Toys_NoOffer'
   image_height: '531'
@@ -149,7 +149,7 @@ articles:
 
 
 - type: 'image'
-  image_url: 'images/bbB_111816_Toys1CA_20_02.jpg'
+  image_url: 'images/bbB_111816_Toys1CA_22.jpg'
   image_alt: 'stuffed animals'
   image_link: ''
   image_height: '120'
@@ -157,7 +157,7 @@ articles:
 
 
 - type: 'image'
-  image_url: 'images/bbB_111816_Toys1CA_21.jpg'
+  image_url: 'images/bbB_111816_Toys1CA_23.jpg'
   image_alt: 'Winnie the Pooh Classic Stuffed Animals by Disney Baby® 16.99 each'
   image_link: 'http://www.bedbathandbeyond.ca/store/product/disney-baby-reg-winnie-the-pooh-classic-stuffed-animals/131121?mcid=EM_promobbBCAN_201611_Toys_NoOffer'
   image_height: '364'
@@ -165,14 +165,14 @@ articles:
 
 
 - type: 'image'
-  image_url: 'images/bbB_111816_Toys1CA_09.jpg'
+  image_url: 'images/bbB_111816_Toys1CA_24.jpg'
   image_alt: 'shop toys'
   image_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/infant-toys-ages-0-3-years/22957/?mcid=EM_promobbBCAN_201611_Toys_NoOffer'
   image_height: '55'
   image_width: '600'
 
 - type: 'image'
-  image_url: 'images/bbB_111816_Toys1CA_09.jpg'
+  image_url: 'images/bbB_111816_Toys1CA_25.jpg'
   image_alt: 'the magic of learning shop learning toys'
   image_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/kids-toys/educational-learning-toys/22966/?mcid=EM_promobbBCAN_201611_Toys_NoOffer'
   image_height: '226'
@@ -180,7 +180,7 @@ articles:
 
 
 - type: 'image'
-  image_url: 'images/bbB_111816_Toys1CA_09.jpg'
+  image_url: 'images/bbB_111816_Toys1CA_26.jpg'
   image_alt: 'OXO tot® mess-free mealtime shop OXO tot®'
   image_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/high-chairs/22940/22940-4294967218-4294966113/1-48?pagSortOpt=DEFAULT-0&view=grid&refType=true&_requestid=3186891?mcid=EM_promobbBCAN_201611_Toys_NoOffer'
   image_height: '223'
