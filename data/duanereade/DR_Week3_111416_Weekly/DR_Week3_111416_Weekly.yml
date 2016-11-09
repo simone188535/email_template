@@ -1,0 +1,73 @@
+title: 'Save on Thanksgiving sides'
+
+primary_color: '#999999'
+
+pre_header_text: 'Only 10 days &#39;til Turkey Day!'
+
+logo_img_url: 'images/header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+hero_img_url: 'images/DR_Week3_111416_Weekly_02.jpg'
+hero_img_alt: "Gobble up these side dishes."
+hero_img_link: 'https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp'
+
+callout_img_url: 'images/DR_Week3_111416_Weekly_11.jpg'
+callout_img_alt: 'Get the App'
+callout_img_link: 'http://walgreens.com/mobile'
+
+footer_text: 'To ensure delivery to your inbox, please add DuaneReade@duanereadedrugstore.com to your address book.<br><br>This message was sent to<br><br> C2216 CX-81485<br><br>Copyright 2016 Walgreen Co., 200 Wilmot Road, Deerfield, IL 58015-4620. All rights reserved. <br><br> Available at select Duane Reade and Walgreens stores and www.Walgreens.com while supplies last. Weekly Ad and coupon prices good 11/13/16 through 11/19/16 except when otherwise noted. Not all products and prices available in all stores in the following markets: U.S. Virgin Islands, Puerto Rico, Hawaii, Alaska, San Francisco, New Jersey, New York Boroughs: Manhattan, Brooklyn, Bronx, Queens and Staten Island. Void where prohibited by law. Unless stated otherwise, all coupons have no cash value. Terms of promotion subject to change. This message contains advertising.<br><br>If you received this email as a forward, we invite you to subscribe.<br><br>Please do not reply to this message.  This is a system-generated email.  Replies will not be read or forwarded for handling.<br><br>This email was sent by: Duane Reade Holdings, Inc., 40 Wall Street, New York, NY 10005<br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=%%t%%&email=%%email%%'
+unsubscribe_text: 'Unsubscribe/Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+
+# Loop through articles
+
+articles:
+- type: "story-image-center-text"
+  img: "images/DR_Week3_111416_Weekly_03.jpg"
+  img_alt: "Green bean casserole savings."
+  promo_btn_url: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  promo_btn_text: "See ad &rsaquo;"
+  promo_text: "<strong style='color: #58595b;'>French&#39;s French Fried Onions</strong> 6 oz. <br> <strong style='color: #58595b;'>Del Monte Cut Green Beans</strong> 14.5 oz. <br> <strong style='color: #58595b;'>Campbell&#39;s Cream of Mushroom Soup</strong> 10.5 oz."
+  promo_btn_color: "#f9800e"
+
+- type: "story-image-center-text"
+  img: "images/DR_Week3_111416_Weekly_07.jpg"
+  img_alt: "Save room for dessert."
+  promo_btn_url: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  promo_btn_text: "See ad &rsaquo;"
+  promo_text: "<strong style='color: #58595b;'>Libby&#39;s Canned Pumpkin</strong>15 or 16 oz. <br> <strong style='color: #58595b;'>Cool Whip</strong> 8 oz."
+  promo_btn_color: "#f9800e"
+  
+
+
+footernav:
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Find Store"
+  link: "https://www.walgreens.com/storelocator/find.jsp?tab=store%20locator&requestType=locator"
+  sep: ""
+
+socialnav:
+- img: "images/fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'images/spacer.gif'
