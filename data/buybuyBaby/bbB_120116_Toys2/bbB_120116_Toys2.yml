@@ -1,0 +1,201 @@
+title: ''
+
+logo_img_url: "images/bbB_171_120116_Toys2US_v3_r6_DEV_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store?mcid=EM_Promo_201612_Toys2_NoOffer"
+logo_img_width: "150"
+logo_img_height: "112"
+
+freeshipping_img_url: "images/bbB_171_120116_Toys2US_v3_r6_DEV_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $75 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies?mcid=EM_Promo_201612_Toys2_NoOffer"
+freeshipping_img_width: "150"
+freeshipping_img_height: "112"
+
+instorepickup_img_url: "images/bbB_171_120116_Toys2US_v3_r6_DEV_03.jpg"
+instorepickup_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instorepickup_img_link: "http://www.buybuybaby.com/store/static/reserveonline?mcid=EM_Promo_201612_Toys2_NoOffer"
+instorepickup_img_width: "150"
+instorepickup_img_height: "112"
+
+babyreg_img_url: "images/bbB_171_120116_Toys2US_v3_r6_DEV_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry?mcid=EM_Promo_201612_Toys2_NoOffer"
+babyreg_img_width: "150"
+babyreg_img_height: "112"
+
+nav1_url: "images/bbB_171_120116_Toys2US_v3_r6_DEV_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/?mcid=EM_Promo_201612_Toys2_NoOffer"
+nav1_width: "200"
+nav1_height: "60"
+
+nav2_url: "images/bbB_171_120116_Toys2US_v3_r6_DEV_06.jpg"
+nav2_alt: "holiday &amp; gifts"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore?mcid=EM_EM_Promo_201612_Toys2_NoOffer"
+nav2_width: "200"
+nav2_height: "60"
+
+nav3_url: "images/bbB_171_120116_Toys2US_v3_r6_DEV_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/?mcid=EM_Promo_201612_Toys2_NoOffer"
+nav3_width: "200"
+nav3_height: "61"
+
+preheader_text: 'Shop Now'
+preheader_link: 'https://www.buybuybaby.com/store/category/gifts-more/gifts-for-kids/32740/ ?mcid=EM_Promo_201612_Toys2_NoOffer'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE=?mcid=EM_Promo_201612_Toys2_NoOffer'
+
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_08.jpg'
+  image_alt: "big presents for big fun shop now My 1st Dino Bouncer 129.99 FREE SHIPPING"
+  image_link: 'https://www.buybuybaby.com/store/product/my-1st-dino-bouncer/1046829597?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_height: '388'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_09.jpg'
+  image_first_alt: "Skipper Ride &#34;N&#34; Roll Ladybug by Kids Preferred® Also available in blue 49.99"
+  image_first_link: 'https://www.buybuybaby.com/store/product/kids-preferred-skipper-ride-n-roll-ladybug/1041715161?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_height: '464'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_10.jpg'
+  image_second_alt: "Forest Friends Convertible Activity Center by Oribel PortaPlay™ 149.99 FREE SHIPPING"
+  image_second_link: 'https://www.buybuybaby.com/store/product/oribel-portaplay-trade-forest-friends-convertible-activity-center/3302351?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_second_height: '464'
+  image_second_width: '300'
+
+- type: 'image'
+  image_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_11.jpg'
+  image_alt: "Grow-With-Me Activity Gym & Ball Pit™ by Infantino® 59.99"
+  image_link: 'https://www.buybuybaby.com/store/product/infantino-reg-grow-with-me-activity-gym-ball-pit-trade/1041526194?categoryId=30524?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_height: '321'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_12.jpg'
+  image_first_alt: "Luffie Lamb by Precious Moments® Additional animals available 14.99"
+  image_first_link: 'https://www.buybuybaby.com/store/product/precious-moments-reg-luffie-lamb-in-white/1060134042?categoryId=32193?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_height: '410'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_13.jpg'
+  image_second_alt: "Bright Beats Dance and Move BeatBo by Fisher-Price® 39.99"
+  image_second_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-bright-beats-dance-and-move-beatbo/1044360290?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_second_height: '410'
+  image_second_width: '300'
+
+- type: 'image'
+  image_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_14.jpg'
+  image_alt: "Activity Garden Treehouse 89.99 FREE SHIPPING"
+  image_link: 'https://www.buybuybaby.com/store/product/activity-garden-treehouse/1060034618?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_height: '392'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_15.jpg'
+  image_first_alt: "Bright Beats Smart Touch Play Space by Fisher-Price® 59.99"
+  image_first_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-bright-beats-smart-touch-play-space/1044360283?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_height: '408'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_16.jpg'
+  image_second_alt: "All Around Red Easel for Two by Step2® 44.99"
+  image_second_link: 'https://www.buybuybaby.com/store/product/step2-reg-all-around-red-easel-for-two/1041300220?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_second_height: '408'
+  image_second_width: '300'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_17.jpg'
+  image_first_alt: "Hide-Me Tent and Tunnel Combination by Pacific Play Tents® 49.99"
+  image_first_link: 'https://www.buybuybaby.com/store/product/pacific-play-tents-reg-hide-me-tent-and-tunnel-combination/1016339652?categoryId=32193?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_height: '390'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_18.jpg'
+  image_second_alt: "Wonderball Fun House by Step2® 129.99 FREE SHIPPING"
+  image_second_link: 'https://www.buybuybaby.com/store/product/step2-reg-wonderball-fun-house/1044962029?categoryId=32110?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_second_height: '390'
+  image_second_width: '300'
+
+- type: 'image'
+  image_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_19.jpg'
+  image_alt: "shop toys"
+  image_link: 'https://www.buybuybaby.com/store/category/gifts-more/gifts-for-kids/32740/?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_height: '74'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_20.jpg'
+  image_alt: "gifts for mom & dad"
+  image_link: 'https://www.buybuybaby.com/store/category/gifts-more/mom-dad/32666/?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_height: '127'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_21.jpg'
+  image_first_alt: "Baby's Monthly Chalkboard 24.99"
+  image_first_link: 'https://www.buybuybaby.com/store/product/pearhead-baby-39-s-monthly-chalkboard/1060057020?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_height: '363'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_22.jpg'
+  image_second_alt: "&#34;Baby's 1st Christmas&#34; babyprints Ornament 9.99"
+  image_second_link: 'https://www.buybuybaby.com/store/product/pearhead-baby-39-s-1st-christmas-babyprints-photo-ornament-in-white/1044635916?brandId=552?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_second_height: '363'
+  image_second_width: '300'
+
+- type: 'image'
+  image_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_23.jpg'
+  image_alt: "You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous Unites States."
+  image_link: 'http://www.buybuybaby.com/store/selfservice/FindStore?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_height: '79'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_24.jpg'
+  image_alt: "mobile offers 20% off First-time subscribers get a one single item mobile offer for in-store or online use on a future purchase. Text OFFER2 to 42229 view details Message and data rates may apply. Mobile internet access required. Up to 8 msg/month. Text STOP to 42229 to cancel. Terms, Conditions, and Privacy."
+  image_link: 'http://www.buybuybaby.com/store/static/tcp?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_height: '228'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_25.jpg'
+  image_first_alt: "happy holidays pj's shop now"
+  image_first_link: 'https://www.buybuybaby.com/store/category/gifts-more/christmas/christmas-clothing-accessories/32733/?icid=clothmore_flyoutpromospot1-clothmore?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_height: '225'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_171_120116_Toys2US_v3_r6_DEV_26.jpg'
+  image_second_alt: "100+ stores and rapidly growing!"
+  image_second_link: 'https://www.buybuybaby.com/store/selfservice/FindStore?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_second_height: '225'
+  image_second_width: '300'
+
+socialnav:
+- link: ""
+  img: "images/bbB_171_120116_Toys2US_v3_r6_DEV_27.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY?mcid=EM_Promo_201612_Toys2_NoOffer"
+  img: "images/bbB_171_120116_Toys2US_v3_r6_DEV_28.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby?mcid=EM_Promo_201612_Toys2_NoOffer"
+  img: "images/bbB_171_120116_Toys2US_v3_r6_DEV_29.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby?mcid=EM_Promo_201612_Toys2_NoOffer"
+  img: "images/bbB_171_120116_Toys2US_v3_r6_DEV_30.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby?mcid=EM_Promo_201612_Toys2_NoOffer"
+  img: "images/bbB_171_120116_Toys2US_v3_r6_DEV_31.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby?mcid=EM_Promo_201612_Toys2_NoOffer"
+  img: "images/bbB_171_120116_Toys2US_v3_r6_DEV_32.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_171_120116_Toys2US_v3_r6_DEV_33.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true?mcid=EM_Promo_201612_Toys2_NoOffer'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true?mcid=EM_Promo_201612_Toys2_NoOffer'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm?mcid=EM_Promo_201612_Toys2_NoOffer'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1?mcid=EM_Promo_201612_Toys2_NoOffer'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us?mcid=EM_Promo_201612_Toys2_NoOffer'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy?mcid=EM_Promo_201612_Toys2_NoOffer'
