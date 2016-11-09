@@ -1,0 +1,130 @@
+title: ''
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator/cresskill?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29'
+store_locator_img: ''
+store_locator_alt: 'CRESSKILL'
+store_2_locator_link: 'http://kingsfoodmarkets.com/store-locator/hillsdale?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29'
+store_2_locator_img: ''
+store_2_locator_alt: 'HILLSDALE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0adbcce-765c-42fa-b48d-bbea57ecc8ec.jpg?ver=1478701749000"
+  img_alt: "Enjoy Our Special Fall Savings"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5d2d3d66-433f-438d-8340-22624e3b5655.jpg?ver=1478701750000"
+  img_alt: "Only at our Cresskill & Hillsdale Locations"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/524e98e6-cfe6-4a3f-9fb8-7029133a9cdf.jpg?ver=1478701750000"
+  img_alt: "Meat Savings | Valid 11/11/16 - 11/24/16"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ca9d3cae-6f9e-4cfe-8f5a-90821dabeb6a.jpg?ver=1478701751000"
+  img_alt: "Save Up To 5.00 Kings Dry Aged USDA Prime Certified Angus Beef Porterhouse, T-Bone or New York Strip Steaks, Bone-In Loin lb. 24.99 Available Only at Kings Cresskill"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+
+- type: "image"  
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/07a4154d-c5b9-4a9b-b397-c0b0da8021bd.jpg?ver=1478701752000"
+  img_alt: "Save 4.00 LB. Kings Chairman's Reserve USDA Choice Boneless Chuck Roast lb. 2.99 Kings Chairman’s Reserve  USDA Choice Bottom Round or Rump Roast, Boneless Round lb. 2.99"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cd35e316-ecd0-4086-b3b5-b5b1e313c1c9.jpg?ver=1478701752000"
+  img_alt: "Deli Savings | Valid 11/11/16 - 11/17/16 "
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9e42c17b-9861-4ae5-afac-d2f51a5ccc92.jpg?ver=1478701753000"
+  img_alt: "Save 5.00 Export Quality Reggiano lb. 14.99"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a473d8bf-45a3-45b9-b9ba-91cef57fb968.jpg?ver=1478701753000"
+  img_alt: "Save 2.00 Kings Pre-Packed Soups All Varieties"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d77c9f1-7131-4eb8-b762-c42c4343fa40.jpg?ver=1478701753000"
+  img_alt_2: "Save 2.00 Kings Quiche All Varieties, 21 OZ."
+  url_2: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0f267f77-515e-46cf-8cef-106a34d1995c.jpg?ver=1478701754000"
+  img_alt: "Seafood Savings | Valid 11/11/16 - 11/17/16"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ccb9a371-c801-4b77-bb4b-42d76a4d62fa.jpg?ver=1478701754000"
+  img_alt: ""
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1516edbb-1a42-403a-9c3b-f79792f33c3a.jpg?ver=1478701754000"
+  img_alt: "Kings Signature Jumbo Cocktail Shrimp26/30 Count in a 2 lb Bag 26.98 EA. Save 6.00"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bb518c53-c19d-43e7-b34d-e3468255740c.jpg?ver=1478701755000"
+  img_alt: "Bakery Save 3.00 Pumpkin Pie 9.99 EA."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f08350c3-5fc1-4180-836b-054ec7157bdb.jpg?ver=1478701755000"
+  img_alt_2: "Produce Save 2.00 Red &amp; Green Seedless Grapes 1.99 LB."
+  url_2: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a71bdddf-aba8-4e0f-bf70-f99685dba5db.jpg?ver=1478701755000"
+  img_alt: "Bakery & Produce Valid 11/11/16 - 11/17/16"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"  
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3274b205-c310-4999-86bf-beaf19ebca64.jpg?ver=1478701756000"
+  img_alt: "Thanksgiving Catering Let Kings help you make this Thanksgiving the best yet! Take the day off and enjoy a delicious meal prepared for you and your family."
+  url: "http://kingsfoodmarkets.com/catering-by-kings/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ebe83404-dac8-4fba-9174-db3ff2a7b5cb.jpg?ver=1478701756000"
+  img_alt: "View Menu &#62;"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_Thanksgiving_Solo_Email_44_29"
