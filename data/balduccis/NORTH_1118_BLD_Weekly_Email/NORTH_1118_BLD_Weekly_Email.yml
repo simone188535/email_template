@@ -1,0 +1,136 @@
+title: 'Are You Ready? Time to Talk Turkey!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/448abcdd-3932-4de6-a6fb-a5f8a264e3ca.jpg?ver=1477411490000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/poultry?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d50b1065-d28a-4f78-926a-121bd9e22ea2.jpg?ver=1479133662000'
+  img_alt: 'Eat. Drink. And be Thankful. Create Maple Butter Roasted Turkey View Recipe >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c3da3cc9-c304-4e3b-82cb-105328064f9e.jpg?ver=1479133662000'
+  img_alt: 'Let&#39;s Talk Turkey'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/817ee269-d3b9-48fe-bef9-e4b9ca385964.jpg?ver=1479133663000'
+  img_alt: 'Order Your Turkey Today! Balducci&#39;s proudly offers a variety of fresh, never frozen, turkey options for your Thanksgiving dinner. Call 1.866.278.8866, and we&#39;ll take your order and set your turkey aside for pick up. All stores are open until 4 PM on Thanksgiving Day'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f620774d-6ed3-49ca-ba29-bcdf2799b2ba.jpg?ver=1479133663000'
+  img_alt: 'Fresh Turkey | Ready-To-Go'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b06be376-a701-48f4-8bd9-07644b694167.jpg?ver=1479133663000'
+  img_alt: 'New! Pre-Cooked Organic Turkey Kit Host a no-fuss Thanksgiving dinner with our ready-to-go turkey kit. Kit includes: • Fully cooked organic turkey (ready to heat) • Roasting pan • Mirepoix • Herbs • Reheating instructions * Available while supplies last.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f171e0f3-2bc4-4b06-8ab4-f46366177fdb.jpg?ver=1479133663000'
+  img_alt: 'Inspired Recipes | Sensational Sides'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/side_dishes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9afeb332-7633-48b7-a530-fec08c18163b.jpg?ver=1479133663000'
+  img_alt: 'Cranberries Try Cranberry Sauce with Bourbon View Recipe >'
+  url_2: 'http://www.balduccis.com/recipes/side_dishes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c3fbd2e7-4b7f-432d-bac1-eecf9b7baafe.jpg?ver=1479133664000'
+  img_alt_2: 'Pero French Green Beans Try Green Beans with Bacon Vinaigrette View Recipe >'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/side_dishes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/26dca27e-1c4a-4a9c-86d7-5e2df72a512f.jpg?ver=1479133664000'
+  img_alt: 'Cauliflower Try Roasted Cauliflower with Garlic and Shaved Parmesan View Recipe >'
+  url_2: 'http://www.balduccis.com/recipes/salads?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0b5b28dd-9be5-4d5d-876c-a12831c9b578.jpg?ver=1479133664000'
+  img_alt_2: 'Jumbo Pomegranates Try Baby Kale & Roasted Sweet Potato Salad with Pomegranate View Recipe >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1dedd777-f2f1-4d8b-972f-9acca08be34f.jpg?ver=1479133665000'
+  img_alt: 'Indulgent Delights | Sweet & Savory'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b62b0a45-b00f-44e3-8452-762b33d5cc03.jpg?ver=1479133665000'
+  img_alt: 'Piedras de Chocolate'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a35b09f6-0b4f-4822-964c-53600cdfb3d3.jpg?ver=1479133665000'
+  img_alt_2: 'Balducci&#39;s Brie en Croute'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6689a243-887a-4faf-af6a-8da40d4e08a9.jpg?ver=1479133665000'
+  img_alt: 'What&#39;s New In-Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6bd33c42-0110-4160-a7d4-37db3646adb6.jpg?ver=1479133666000'
+  img_alt: 'Side Dish Showdown Tasting Event Get ready to tease, tempt and tantalize your taste buds with a refreshing twist on traditional Thanksgiving eats. Taste the winning dish this weekend at our Thanksgiving Tastings: Today…11:30am - 1:30pm Saturday…12 noon-5pm Sunday...12 noon-5pm'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4301aff9-1053-45a0-b34e-106b5e5969fe.jpg?ver=1479133666000'
+  img_alt: 'Champagne & Caviar Pairing Demo Stop by Balducci&#39;s Greenwich from 4-7 pm on Tuesday, November 22 for a special Esterlin Champagne and Calvisius caviar pairing.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1118_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/df140580-3a06-49e4-9c5c-18d92afa92ee.jpg?ver=1479133666000'
+  img_alt: '"Pardon the Interruption on ESPN We&#39;re proud to be the official show sponsor of ESPN&#39;s Pardon the Interruption! Join us Tuesday, November 22 as we share a gourmet feast with Tony, Michael and the crew.'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
