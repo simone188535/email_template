@@ -1,0 +1,155 @@
+title: 'CLEANER CLOTHES. WHITER SMILE. BETTER HOLIDAY PHOTO.'
+
+primary_color: '#999999'
+
+pre_header_text: ''
+
+logo_img_url: 'images/header-logo.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+hero_img_url: 'images/ferrara_110616_01.jpg'
+hero_img_alt: "CLEANER CLOTHES WHITER SMILE"
+hero_img_link: 'http://www.armandhammer.com/'
+
+
+callout_img_url: ''
+callout_img_alt: ''
+callout_img_link: ''
+
+footer_text: 'We’ve contacted you because you registered at armandhammer.com for news & promotions – or you have otherwise opted in to receive email from ARM & HAMMER™. Your address is listed as user@email.com. Please let us know if you wish to unsubscribe from this list. This email is sent from an account we use for sending messages only. So if you want to contact us, don’t reply to this email – we won’t get your response.  Instead, use this web form, or mail your comments to Church & Dwight Co., Inc. Consumer Relations, 469 North Harrison Street, Princeton, NJ 08543.'
+
+unsubscribe_link: ''
+unsubscribe_text: ''
+privacy_link: ''
+privacy_text: ''
+
+
+# Loop through articles
+
+articles:
+- type: "story-image-center-text"
+  img: "images/ferrara_110616_01.jpg"
+  img_alt: "CLEANER CLOTHES WHITER SMILE"
+  promo_btn_url: "http://www.armandhammer.com/"
+  promo_btn_text: ""
+  promo_text: "<strong style='color: #58595b;'>ARM & HAMMER™ has everything you need to keep your</strong><br>home and family picture-ready all through the season."
+  promo_btn_color: ""
+
+- type: "story-image-center-text"
+  img: "images/ferrara_110616_02.jpg"
+  img_alt: "CLEANER CLOTHES WHITER SMILE"
+  promo_btn_url: "http://www.armandhammer.com/"
+  promo_btn_text: ""
+  promo_text: "<strong style='color: #58595b;'>ARM & HAMMER™ has everything you need to keep your</strong><br>home and family picture-ready all through the season."
+  promo_btn_color: "" 
+
+- type: "story-image-center-text"
+  img: "images/ferrara_110616_04.jpg"
+  img_alt: "CLEANER CLOTHES WHITER SMILE"
+  promo_btn_url: "http://www.armandhammer.com/"
+  promo_btn_text: ""
+  promo_text: "<strong style='color: #58595b;'>ARM & HAMMER™ has everything you need to keep your</strong><br>home and family picture-ready all through the season."
+  promo_btn_color: "" 
+
+
+- type: "image"
+  url: "https://www.walgreens.com/store/c/skin-care-products/ID=360323-tier2general"
+  img: "images/ferrara_110616_06.jpg"
+  img_alt: "Buy 2 get 3rd FREE* skin care"
+
+- type: "story-image-center-text"
+  img: "images/ferrara_110616_07.jpg"
+  img_alt: "CLEANER CLOTHES WHITER SMILE"
+  promo_btn_url: "http://www.armandhammer.com/"
+  promo_btn_text: ""
+  promo_text: "<strong style='color: #58595b;'>ARM & HAMMER™ has everything you need to keep your</strong><br>home and family picture-ready all through the season."
+  promo_btn_color: ""
+
+- type: "image"
+  url: "https://www.walgreens.com/store/c/skin-care-products/ID=360323-tier2general"
+  img: "images/ferrara_110616_09.jpg"
+  img_alt: "Buy 2 get 3rd FREE* skin care"   
+  
+
+- type: "story-image-center-text"
+  img: "images/ferrara_110616_10.jpg"
+  img_alt: "CLEANER CLOTHES WHITER SMILE"
+  promo_btn_url: "http://www.armandhammer.com/"
+  promo_btn_text: ""
+  promo_text: "<strong style='color: #58595b;'>ARM & HAMMER™ has everything you need to keep your</strong><br>home and family picture-ready all through the season."
+  promo_btn_color: ""
+
+- type: "image"
+  url: "https://www.walgreens.com/store/c/skin-care-products/ID=360323-tier2general"
+  img: "images/ferrara_110616_12.jpg"
+  img_alt: "Buy 2 get 3rd FREE* skin care"
+
+
+- type: "story-image-center-text"
+  img: "images/ferrara_110616_13.jpg"
+  img_alt: "CLEANER CLOTHES WHITER SMILE"
+  promo_btn_url: "http://www.armandhammer.com/"
+  promo_btn_text: ""
+  promo_text: "<strong style='color: #58595b;'>ARM & HAMMER™ has everything you need to keep your</strong><br>home and family picture-ready all through the season."
+  promo_btn_color: ""
+
+- type: "image"
+  url: "https://www.walgreens.com/store/c/skin-care-products/ID=360323-tier2general"
+  img: "images/ferrara_110616_15.jpg"
+  img_alt: "Buy 2 get 3rd FREE* skin care"
+
+- type: "story-image-center-text"
+  img: "images/ferrara_110616_16.jpg"
+  img_alt: "CLEANER CLOTHES WHITER SMILE"
+  promo_btn_url: "http://www.armandhammer.com/"
+  promo_btn_text: ""
+  promo_text: "<strong style='color: #58595b;'>ARM & HAMMER™ has everything you need to keep your</strong><br>home and family picture-ready all through the season."
+  promo_btn_color: ""          
+
+- type: "image"
+  url: "https://www.walgreens.com/store/c/skin-care-products/ID=360323-tier2general"
+  img: "images/ferrara_110616_18.jpg"
+  img_alt: "Buy 2 get 3rd FREE* skin care"
+
+- type: "story-image-center-text"
+  img: "images/ferrara_110616_19.jpg"
+  img_alt: "CLEANER CLOTHES WHITER SMILE"
+  promo_btn_url: "http://www.armandhammer.com/"
+  promo_btn_text: ""
+  promo_text: "<strong style='color: #58595b;'>ARM & HAMMER™ has everything you need to keep your</strong><br>home and family picture-ready all through the season."
+  promo_btn_color: ""   
+
+- type: "image"
+  url: "https://www.walgreens.com/store/c/skin-care-products/ID=360323-tier2general"
+  img: "images/ferrara_110616_21.jpg"
+  img_alt: "Buy 2 get 3rd FREE* skin care"
+
+  
+
+footernav:
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Find Store"
+  link: "https://www.walgreens.com/storelocator/find.jsp?tab=store%20locator&requestType=locator"
+  sep: ""
+
+socialnav:
+- img: "images/fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/site-link.jpg"
+  link: "https://www.walgreens.com/storelocator/find.jsp?tab=store%20locator&requestType=locator"
+  alt: "Duane Reade"
+
+spacer_img_url: 'images/spacer.gif'
