@@ -1,0 +1,111 @@
+title: '20% Off & Free Shipping! Plus Amazing Online Only Deals!'
+
+pre_header_text: 'Christmas Tree Shops®'
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com'
+header_logo_img: "images/NPI_GiftCards_01.jpg"
+header_logo_alt: "Christmas Tree Shops&#174;"
+header_logo_height: "62"
+header_logo_width: "600"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+header_arrivals_img: "images/NPI_GiftCards_02.jpg"
+header_arrivals_alt: "New Arrivals"
+header_arrivals_height: "31"
+header_arrivals_width: "154"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+header_seasonal_img: "images/NPI_GiftCards_03.jpg"
+header_seasonal_alt: "Seasonal"
+header_seasonal_height: "31"
+header_seasonal_width: "126"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+header_furniture_img: "images/NPI_GiftCards_04.jpg"
+header_furniture_alt: "Furniture"
+header_furniture_height: "31"
+header_furniture_width: "90"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?mobile=off'
+header_outdoor_img: "images/NPI_GiftCards_05.jpg"
+header_outdoor_alt: "Outdoor"
+header_outdoor_height: "31"
+header_outdoor_width: "92"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?skipmobile=true'
+header_clearance_img: "images/NPI_GiftCards_06.jpg"
+header_clearance_alt: "Clearance"
+header_clearance_height: "31"
+header_clearance_width: "138"
+
+
+socialnav:
+- img: "images/NPI_GiftCards_11.jpg"
+  alt: " "
+  link: "#"
+  width: '141'
+  height: '70'
+
+- img: "images/NPI_GiftCards_12.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops'
+  width: '52'
+  height: '70'
+
+- img: "images/NPI_GiftCards_13.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat'
+  width: '44'
+  height: '70'
+
+- img: "images/NPI_GiftCards_14.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops'
+  width: '44'
+  height: '70'
+
+- img: "images/NPI_GiftCards_15.jpg"
+  alt: "Find a Store"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do'
+  width: '175'
+  height: '70'
+
+- img: "images/NPI_GiftCards_16.jpg"
+  alt: " "
+  link: ""
+  width: '144'
+  height: '70'
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/NPI_GiftCards_07.jpg"
+    img_alt: '2016 Friends & Family Extended Through Today! 20% off Your Total Purchase'
+    url: ''
+    width: '600'
+    height: '383'
+
+  - type: "image"
+    img: "images/NPI_GiftCards_08.jpg"
+    img_alt: 'Special Delivery for Email Subscribers! Check Out Our New Flyer!'
+    url: 'http://www.christmastreeshops.com/flyer'
+    width: '600'
+    height: '670'
+
+  - type: "image"
+    img: "images/NPI_GiftCards_09.jpg"
+    img_alt: 'Everyone loves a gift card! In-store and online! Shop Now!'
+    url: 'http://www.christmastreeshops.com/product/gift-card.do'
+    width: '600'
+    height: '141'
+
+  - type: "image"
+    img: "images/NPI_GiftCards_10.jpg"
+    img_alt: '20% off Your Purchase & Free Shipping Sitewide! Online Only! On All Orders of $65 or More! Use Code at Checkout: FANDF2065'
+    url: 'http://www.christmastreeshops.com'
+    width: '600'
+    height: '238'
+
+
