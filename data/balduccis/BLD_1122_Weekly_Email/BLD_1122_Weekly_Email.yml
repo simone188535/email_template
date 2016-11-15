@@ -1,0 +1,137 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f47937c6-c212-4750-aea2-ab50ef0b4ec2.jpg?ver=1479243524000'
+  img_alt: 'Next Stop, Thanksgiving! Let us help you finish your feast with ready-to-go sides, sweets, sips and more.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/206a190d-9030-4603-b29f-c23787d5298b.jpg?ver=1479243524000'
+  img_alt: 'Holiday Hours Open Thanksgiving Day 7am-4pm We wish you and yours a happy and healthy holiday season full of great food! We&#39;re open until 4pm on Thanksgiving to help serve you.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8bdb0b92-ca26-4527-aa13-4e027355e14f.jpg?ver=1479243524000'
+  img_alt: 'Chef Prepared | Savory Sides'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6fed5650-1056-4b01-b798-cbb86adff991.jpg?ver=1479243525000'
+  img_alt: 'Haricots Verts with Roasted Butternut Squash'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f5264298-3def-4e1a-82e5-35c887803b12.jpg?ver=1479243525000'
+  img_alt_2: 'Cider Glazed Sweet Potatoes'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e123fe06-ad52-4626-ba59-f4a479cd7ac3.jpg?ver=1479243525000'
+  img_alt: 'Spiced Pumpkin Bisque'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3ab67b9-0475-4daf-8705-e52f63e5889f.jpg?ver=1479243525000'
+  img_alt_2: 'Brussels Sprouts Choucroute'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1b1b4a4f-70de-4690-b71c-7abf8845baaa.jpg?ver=1479243525000'
+  img_alt: 'These dishes are also available on our Thanksgiving Catering Menu! View Menu &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1113ea2-91d7-42eb-901f-36dc3f6ee5ea.jpg?ver=1479243525000'
+  img_alt: 'Wine Pairings | For Each Course'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/02be0c59-da24-49b4-a82a-9799387e6f4e.jpg?ver=1479243526000'
+  img_alt: 'Appetizers/Starters Balducci&#39;s Sauvignon Blanc'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a4abe523-4f75-4f12-b77d-7bff43064fe4.jpg?ver=1479243526000'
+  img_alt: 'First Course Salads Balducci&#39;s Chardonnay'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/232e1aea-a674-460f-bee1-8e158c795189.jpg?ver=1479243526000'
+  img_alt: 'Classic with Turkey Balducci&#39;s Old Vine Garnacha'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/01c7e7d0-ca51-4dbb-b0db-0623c2bd2e5f.jpg?ver=1479243527000'
+  img_alt: 'Holiday Decadence Balducci&#39;s Cabernet Sauvignon *Wine available at Balducci&#39;s Greenwich, CT, McLean, VA, Alexandria, VA and Bethesda, MD locations.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5c12a5dd-d367-486b-a45c-5f00854f6737.jpg?ver=1479243527000'
+  img_alt: 'Pie Perfection | A Sweet Finish'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2e064775-3d5e-4fb8-b54a-927274ce45aa.jpg?ver=1479243527000'
+  img_alt: 'Balducci&#39;s Pumpkin Pie'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/017b72d5-89e6-4284-8f94-a50fefabac5e.jpg?ver=1479243527000'
+  img_alt_2: 'Elegant Farmer Apple Caramel Pie'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b8d048cc-6356-459b-ba49-b4e1a838f1c3.jpg?ver=1479243527000'
+  img_alt: 'Don&#39;t Forget the Coffee!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d0e2ab7d-360e-4a9a-b39e-cfd8d55815c4.jpg?ver=1479243527000'
+  img_alt: 'Put some cheef in your cup with Balducci&#39;s Holiday Blend Coffee. Available for a limited time only, it&#39;s the perfect start to your day or finish to your holiday meal.' 
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f28317ea-c4cf-462a-b68a-096d09f146ec.jpg?ver=1479243527000'
+  img_alt: 'Tune In Today!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8ef68ea8-a394-4395-8918-761ad392550e.jpg?ver=1479243527000'
+  img_alt: 'Pardon the Interruption on ESPN We&#39;re proud to be the official show sponsor of ESPN&#39;s Pardon the Interruption! Join us today at 5:30pm as we share a gourmet feast with Tony, Mike and the crew.'  
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/35cf67d4-216b-4add-bb4c-558c22bfd8c7.jpg?ver=1479243527000'
+  img_alt: 'Member Exclusive | Butcher&#39;s Best'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d4e7e06c-9e87-4099-87e8-925cadf5fb8e.jpg?ver=1479243527000'
+  img_alt: 'Loin Veal Chops Bone-In, Tailless Member Exclusive $3 OFF/LB'   
