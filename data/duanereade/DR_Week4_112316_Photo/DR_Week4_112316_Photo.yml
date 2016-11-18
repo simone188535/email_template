@@ -1,0 +1,75 @@
+title: '30% off Holiday Photo Cards!'
+
+primary_color: '#999999'
+
+pre_header_text: 'Create yours today & start spreading the holiday cheer!'
+
+logo_img_url: 'images/DR_Week4_112316_Photo_01.jpg'
+logo_img_alt: 'DuanereadeTM by Walgreens'
+logo_img_link: 'http://www.walgreens.com/topic/duane-reade/duane-reade.jsp'
+
+hero_img_url: 'images/DR_Week4_112316_Photo_02.jpg'
+hero_img_alt: "Create custom photo cards for any occasion!"
+hero_img_link: 'https://smile.walgreens.com/post/151059725559/holiday-photo-greeting-cards'
+
+callout_img_url: 'images/DR_Week4_112316_Photo_07.jpg'
+callout_img_alt: 'Get the App'
+callout_img_link: 'http://walgreens.com/mobile'
+
+footer_text: '*Coupon code FRIENDSGIVING is valid for up to 5 uses November 20, 2016 thru November 26, 2016. Offer valid on Walgreens.com/Photo, in-store kiosk or thru the Walgreens Mobile App. Code must be entered at time of checkout to apply discount. Discount does not apply to previous purchases, taxes or shipping charges. Orders must be placed by November 26, 2016 at 11:59 p.m. Central Time to qualify. Timing will be determined by Walgreens server clock. Offers cannot be combined on one product. Multiple coupons can be used in one cart if no overlapping products exist in the offers being applied. Shipping costs may apply on online orders if in-store pickup is not available in your area. Void where prohibited. No cash value. Subject to change without notice. <br><br>**Coupon code LOVETHEPRINT valid for up to 5 uses per Walgreens.com/photo account or on the Walgreens Mobile App thru November 26, 2016. Walgreens.com/photo orders must include 75 or more 4x6 or 4x5.3 digital prints at time of checkout to qualify. All print orders containing 75 or more 4x6 or 4x5.3 prints will be priced as $.1332 per print. Code must be entered at time of checkout to apply discount. Discount does not apply to collage prints, previous purchases, taxes or shipping charges. Orders must be placed by logged-in customer by November 26, 2016 at 11:59 p.m. Central Time to qualify. Timing will be determined by Walgreens server clock. Cannot be combined with any other Prints offer. Offer not valid in store. Shipping costs may apply if in-store pickup is not available in your area. Void where prohibited. No cash value. Subject to change without notice. <br><br>‡Valid in select stores. See associate for details. <br><br> To ensure delivery to your inbox, please add DuaneReade@duanereadedrugstore.com to your address book. <br><br>This message was sent to <br><br>C2216 CX-81485<br><br>Copyright 2016 Walgreen Co., 200 Wilmot Road, Deerfield, IL 58015-4620. All rights reserved.<br><br>Available at select Duane Reade and Walgreens stores and www.Walgreens.com while supplies last. Weekly Ad and coupon prices good 11/20/16 through 11/26/16 except when otherwise noted. Not all products and prices available in all stores in the following markets: U.S. Virgin Islands, Puerto Rico, Hawaii, Alaska, San Francisco, New Jersey, New York Boroughs: Manhattan, Brooklyn, Bronx, Queens and Staten Island. Void where prohibited by law. Unless stated otherwise, all coupons have no cash value. Terms of promotion subject to change. This message contains advertising. <br><br>If you received this email as a forward, we invite you to subscribe. <br><br>Please do not reply to this message.  This is a system-generated email.  Replies will not be read or forwarded for handling. <br><br>This email was sent by: Duane Reade Holdings, Inc., 40 Wall Street, New York, NY 10005<br><br>'
+
+unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=%%t%%&email=%%email%%'
+unsubscribe_text: 'Unsubscribe/Preferences'
+privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
+privacy_text: 'Privacy Policy'
+
+
+# Loop through articles
+
+articles:
+- type: "story-image"
+  img: "images/DR_Week4_112316_Photo_03.jpg"
+  img_alt: "30% off* - Photo Cards"
+  promo_btn_url: "http://photo.walgreens.com/walgreens/storepage/storePageId=Print"
+  promo_btn_text: "Print now &rsaquo;"
+  promo_text: "Use promo code:FRIENDSGIVING<br>"
+  promo_btn_color: "#40ae49"
+
+- type: "story-image"
+  img: "images/DR_Week4_112316_Photo_05.jpg"
+  img_alt: "15 cent** -  4x6 Digital Prints "
+  promo_btn_url: "http://photo.walgreens.com/walgreens/storepage/storePageId=Print"
+  promo_btn_text: "Print now &rsaquo;"
+  promo_text: "Use promo code:<br>LOVETHEPRINT"
+  promo_btn_color: "#40ae49"
+
+  
+footernav:
+- text: "Weekly Ad"
+  link: "https://www.walgreens.com/topic/offers/weeklyad-and-offers.jsp"
+  sep: "|"
+- text: "Rx"
+  link: "http://www.walgreens.com/pharmacy/"
+  sep: "|"
+- text: "Photo"
+  link: "http://photo.walgreens.com/walgreens/welcome"
+  sep: "|"
+- text: "Beauty"
+  link: "http://www.walgreens.com/store/c/Beauty/ID=359434-tier1"
+  sep: "|"
+- text: "Find Store"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  sep: ""
+
+socialnav:
+- img: "images/fb-link.jpg"
+  link: "https://www.facebook.com/duanereade"
+  alt: "Facebook"
+- img: "images/tw-link.jpg"
+  link: "https://twitter.com/DuaneReade"
+  alt: "Twitter"
+- img: "images/site-link.jpg"
+  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
+  alt: "Duane Reade"
+
+spacer_img_url: 'images/spacer.gif'
