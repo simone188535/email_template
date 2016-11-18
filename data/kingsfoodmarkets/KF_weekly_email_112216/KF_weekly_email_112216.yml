@@ -1,0 +1,154 @@
+title: 'Savory Stuffing: Watch & Learn!'
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0a7c0b3-a318-4ff8-98dd-8efa7bd77cb4.jpg?ver=1479426819000"
+  img_alt: "May Your Day Be Filled With Laughter, Love & Lots Of Delicious Food. Happy Thanksgiving!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/08e0e112-dfaf-42c2-8841-193f776b47e6.jpg?ver=1479426819000"
+  img_alt: "Holiday Host | Show Stopping Starters"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e193350a-d375-4a2a-947a-bd134fc092ed.jpg?ver=1479426819000"
+  img_alt: "Beretta Tour of Italy Pack "
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6ba48239-6124-4df6-ae48-571969208fed.jpg?ver=1479426819000"
+  img_alt_2: "President Mini Brie"
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/faf27d88-8444-4638-a583-7d6a51238355.jpg?ver=1479426819000"
+  img_alt: "View More"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2bd2542-21a2-44e5-9b9d-e0674418ae9f.jpg?ver=1479426819000"
+  img_alt: "Grab & Go | A La Carte Thanksgiving Selections"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a91cae77-18df-4f0c-9bde-c8e3eb705978.jpg?ver=1479426819000"
+  img_alt: "Kings All Natural Fresh Whole Brined Turkeys"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a2c6564-a75b-4f03-838b-11b0e11e8ae9.jpg?ver=1479426819000"
+  img_alt_2: "Carando Spiral Sliced Smoked Ham"
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57dcdb35-f8ed-4dc6-9046-6b1e6efe16fe.jpg?ver=1479426820000"
+  img_alt: "Chef Inspired Green Beans with Walnuts & Cranberries"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/049822bd-71fc-4474-ade7-7a29d546871a.jpg?ver=1479426820000"
+  img_alt_2: "Chef Inspired Horseradish Potato Torta"
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/35d4870e-3403-4a76-b5cc-e45e73d4e9de.jpg?ver=1479426820000"
+  img_alt: "Chef Inspired Parmesan Crusted Asparagus"
+  url: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3f6f7b61-0e0d-4213-8f8c-bae613f0e1f2.jpg?ver=1479426820000"
+  img_alt_2: "Chef Roasted Brussels Sprouts"
+  url_2: "http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/baa83dd3-d0b6-4a1b-bbf6-3f991674045b.jpg?ver=1479426820000"
+  img_alt: "Catering | Last Minute Holiday Meals "
+  url: "http://kingsfoodmarkets.com/catering-by-kings/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0e1076c2-dfc5-40f1-8f21-e27a7a05eb44.jpg?ver=1479426820000"
+  img_alt: "Call on us to cook-up your favorite entrées, sides and desserts and take the stress out of Turkey Day. It&#39;s not too late! Call 1.866.466.3560 or your local Kings store to order."
+  url: "http://kingsfoodmarkets.com/catering-by-kings/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25b0c3e8-e299-412b-beaa-f63a3340c138.jpg?ver=1479426820000"
+  img_alt: "View Menu > "
+  url: "http://kingsfoodmarkets.com/catering-by-kings/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
