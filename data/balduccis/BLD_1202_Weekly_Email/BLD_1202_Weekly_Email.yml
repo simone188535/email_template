@@ -1,0 +1,116 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fd622682-ba88-4edf-b556-45fbf298e4e8.jpg?ver=1480433938000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://vimeo.com/balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/351a9b13-b872-48ae-8123-6b117e533f45.jpg?ver=1480433939000'
+  img_alt: 'Headline: Get Festive with Holiday Sweets Subhead: Welcome the season with these sweet and indulgent ideas. Gift Idea: Homemade Peppermint Marshmallows Watch Video &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/eafb0dd4-fc7a-4ded-ac94-d4b446193c29.jpg?ver=1480433939000'
+  img_alt: 'Savor the Season'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e4b1611e-c24c-4ce5-8a39-387cb8067884.jpg?ver=1480433939000'
+  img_alt: 'At Balducci&#39;s, you’ll find all the best ingredients for your holiday celebrations. Let us make entertaining easier with our ready-to-enjoy Chef Prepared dishes and gourmet catering services. Christmas & Chanukah Catering View Menus &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/83a64656-fbe5-44cb-8e43-5bf0b474d340.jpg?ver=1480433939000'
+  img_alt: 'Holiday Sweets | From the Bakery'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/351f4033-ede6-4276-9d95-b7735b4f4780.jpg?ver=1480433940000'
+  img_alt: 'Yule Log Cake Rich chocolate sponge cake with raspberry and buttercream filling rolled into a festively decorated yule log.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bea6da8d-9d59-4f78-958a-bfe78afa45b4.jpg?ver=1480433940000'
+  img_alt: 'Balducci&#39;s Stollen Another traditional holiday favorite, our Stollen is a rich, yeasty, slightly sweet bread filled with colorful candied fruits that are soaked in rum.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/661d1514-8bcc-459e-a86f-a35772c458f9.jpg?ver=1480433940000'
+  img_alt: 'Balducci&#39;s Coconut Custard Pie Our thick, creamy, and sweet custard pie is filled and topped with lots of delicious coconut.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9d4d6ba6-4be3-4867-9a84-e11adf158cf7.jpg?ver=1480433941000'
+  img_alt: 'Lewes Eggnog Eggnog is a holiday essential!  Add it to your list for the perfect sweet dessert pairing.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/34a5e542-d586-474a-b749-a85b76df395a.jpg?ver=1480433940000'
+  img_alt: 'Chef Prepared | Grab & Go Sandwiches'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cb366578-7ee2-4b53-8cd0-f43f12098fcd.jpg?ver=1480433941000'
+  img_alt: 'Ham, Pear & Gorgonzola Ficelle'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6bf9008a-4cc1-485c-8f90-520541f4399f.jpg?ver=1480433941000'
+  img_alt_2: 'New York Italian Meatball Sub'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/efa1d7fb-7f3b-49b8-a8c2-7cfeec7cc805.jpg?ver=1480433941000'
+  img_alt: 'Member Exclusive'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/58581fe6-ba8e-4f24-abea-49890ef2f7b5.jpg?ver=1480433942000'
+  img_alt: 'Balducci&#39;s Seasoned Pork Roll Member Exclusive 3.99/LB Reg 4.99' 
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3eff095e-3126-4df6-b9a0-3589961e915e.jpg?ver=1480433942000'
+  img_alt: 'What&#39;s New In Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/990527f1-0366-44d7-b555-d31400e21257.jpg?ver=1480433942000'
+  img_alt: 'Wine &amp; Food Event Sample a variety of wines and food pairings– just in time to plan your Chanukah, Christmas and New Year&#39;s wine menus. Saturday, December 17th Food Samplings…12 noon-5pm Wine Samplings…2-5pm More Info &#62;'  
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/55f42411-baab-4415-a250-b38c67a586e6.jpg?ver=1480433943000'
+  img_alt: 'Check Out Hunger® Join us this season of giving to help provide Food, Help and Hope to families in need. As a founding Check Out Hunger® partner, Balducci&#39;s and our shoppers have donated almost $2 million to the Community Food Bank. Donate in-store at checkout during  your next visit.'
