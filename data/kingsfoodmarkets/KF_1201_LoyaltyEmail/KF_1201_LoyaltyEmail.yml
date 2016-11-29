@@ -1,0 +1,98 @@
+title: 'December Member Offers'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+
+#logo_img: ''
+#logo_alt: 'Kings Food Markets'
+#logo_img_space: ''
+#logo_img_space_2: ''
+#store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#store_locator_img: ''
+#store_locator_alt: 'FIND A STORE'
+#weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#weekly_circular_img: ''
+#weekly_circular_alt: 'WEEKLY CIRCULAR'
+#chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#chef_prepared_img: ''
+#chef_prepared_alt: 'CHEF PREPARED'
+#catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#catering_img: ''
+#catering_alt: 'CATERING'
+
+#footer
+#footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_59_JuneLoyaltyEmail"
+#footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7878a77-91ba-4798-8909-c9a383785b5f.jpg?ver=1462839230000"
+#footer_site_alt: "www.kingsfoodmarkets.com"
+#footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+#footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d1a8a42-7b19-4797-8374-7f2b4b7f22c9.jpg?ver=1462839230000"
+#footer_facebook_alt: "facebook"
+#footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+#footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd97367a-001e-4325-9638-f7dfd81ffc02.jpg?ver=1462839230000"
+#footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6400af41-cd47-48a9-991e-79b5c08923ff.jpg?ver=1480435277000"
+  img_alt: "KINGS REWARDS Not A Member? Sign Up At Any Register Today!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_KF_LoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ab12e1e8-3e85-4d37-873a-0a5dcaaa84df.jpg?ver=1480435277000"
+  img_alt: "December Exclusive Member Offers Valid 12/1/16 - 12/31/16"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_KF_LoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/223fd61b-5d60-4bd6-b18f-ec19a1ab135b.jpg?ver=1480435278000"
+  img_alt: "Enjoy Double Points on KINGS Own Brand"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_KF_LoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/db1982c5-4948-46b5-b00b-80484db8d54c.jpg?ver=1480435279000"
+  img_alt: "Kings Truffle Cup 1.63 oz. Kings Mini Bakery Cookies 9 - 10 oz. Kings Chocolate Bars  2 - 3 oz. Kings Gourmet Popcorn 3.5 - 13 oz. Kings Cocktail & Tarter Sauce 8 oz. Kings Shredded Cheese 8 oz. Kings Crumb Coffee Cake 24 oz. Kings Crackers 4.4 - 8.8 oz. Kings Frozen Pizza 15 oz. Kings Lemonade 33.8 fl. oz. Organic House Foods Tofu 6.5 - 14 oz."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_KF_LoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ca5f1dab-3f9b-4ef3-aa98-773cafdcfde3.jpg?ver=1480435279000"
+  img_alt: "Don&#39;t Forget! Check In-store for our weekly Member Exclusives Flyer!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_KF_LoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ccd7d367-aa9b-4e2f-ad4f-88ffcdeb4183.jpg?ver=1480435279000"
+  img_alt: "Plus! Hot Soup Club!"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_KF_LoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cac71cd8-5967-4d5f-8238-4f1a58b176c9.jpg?ver=1480435280000"
+  img_alt: "Buy 5 Kings Hot Soups Get the 6th Free!* "
+  url: "(*) The Free hot soup will automatically be subtracted from the total. Free value cannot be applied to another item or received as cash."
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57b5c40d-2439-4570-8778-2f72eae3daef.jpg?ver=1480435281000"
+  img_alt: ""
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_KF_LoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/444d99d0-367e-4766-8cca-a9facae7069f.jpg?ver=1480435282000"
+  img_alt: "Remember! Use Your Card Or Phone Number Each Time You Shop To Receive All Your Benefits!"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_KF_LoyaltyEmail"
+
+
+
+
+
+
+
+
+
+
+
