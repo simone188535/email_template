@@ -1,0 +1,185 @@
+title: ''
+
+logo_img_url: "images/bbB_120816_Toys3US_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store?mcid=EM_Promo_201612_Toys2_NoOffer"
+logo_img_width: "173"
+logo_img_height: "111"
+
+freeshipping_img_url: "images/bbB_120816_Toys3US_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $75 View Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+freeshipping_img_width: "118"
+freeshipping_img_height: "111"
+
+instorepickup_img_url: "images/bbB_120816_Toys3US_03.jpg"
+instorepickup_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instorepickup_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+instorepickup_img_width: "164"
+instorepickup_img_height: "111"
+
+babyreg_img_url: "images/bbB_120816_Toys3US_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+babyreg_img_width: "145"
+babyreg_img_height: "111"
+
+nav1_url: "images/bbB_120816_Toys3US_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/"
+nav1_width: "197"
+nav1_height: "62"
+
+nav2_url: "images/bbB_120816_Toys3US_06.jpg"
+nav2_alt: "holiday &amp; gifts"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+nav2_width: "216"
+nav2_height: "62"
+
+nav3_url: "images/bbB_120816_Toys3US_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+nav3_width: "187"
+nav3_height: "62"
+
+preheader_text: 'Shop Toys'
+preheader_link: 'https://www.buybuybaby.com/store/category/toys-learning/30005/'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE=?mcid=EM_Promo_201612_Toys2_NoOffer'
+
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'images/bbB_120816_Toys3US_08.jpg'
+  image_alt: "step inside the toy shop shop now Walky Talky™ Walker by Chicco® Entertains your baby with the ABCs, colors, & others sayings in 6 different languages Features fun tunes & colorful lights 89.99"
+  image_link: 'https://www.buybuybaby.com/store/product/chicco-reg-walky-talky-walker-in-spring/1046694201'
+  image_height: '500'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_120816_Toys3US_09.jpg'
+  image_first_alt: "Baby's Basic Gift Set by Sassy® 24.99"
+  image_first_link: 'https://www.buybuybaby.com/store/product/sassy-reg-baby-39-s-basic-gift-set/1060106315'
+  image_height: '396'
+  image_first_width: '298'
+  image_second_url: 'images/bbB_120816_Toys3US_10.jpg'
+  image_second_alt: "Whisper Ride II by Step 2® Also available in Pink 64.99"
+  image_second_link: 'https://www.buybuybaby.com/store/product/step-2-reg-whisper-ride-ii-in-blue/1040836232'
+  image_second_height: '396'
+  image_second_width: '302'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_120816_Toys3US_11.jpg'
+  image_first_alt: "Dance & Move BeatBowWow™ by Fisher-Price® 29.99 aalso available in pink"
+  image_first_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-dance-move-beatbowwow-trade/1046604705'
+  image_height: '401'
+  image_first_width: '299'
+  image_second_url: 'images/bbB_120816_Toys3US_12.jpg'
+  image_second_alt: "3-in-1 Sit, Stride & Ride Lion by Fisher Price® 44.99"
+  image_second_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-3-in-1-sit-stride-ride-lion/1046604736'
+  image_second_height: '401'
+  image_second_width: '301'  
+
+- type: 'image'
+  image_url: 'images/bbB_120816_Toys3US_13.jpg'
+  image_alt: "get it time for the holidays"
+  image_link: 'https://www.buybuybaby.com/store/static/ShippingPolicies?icid=Home_Nav_promoSS1'
+  image_height: '43'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_120816_Toys3US_13_02.jpg'
+  image_alt: "get it time for the holidays"
+  image_link: 'https://www.buybuybaby.com/store/static/ShippingPolicies?icid=Home_Nav_promoSS1'
+  image_height: '24'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_120816_Toys3US_13_03.jpg'
+  image_alt: "get it time for the holidays"
+  image_link: 'https://www.buybuybaby.com/store/static/ShippingPolicies?icid=Home_Nav_promoSS1'
+  image_height: '48'
+  image_width: '600'    
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_120816_Toys3US_14.jpg'
+  image_first_alt: "Little people® Sit and Stand Skyway by Fisher-Price® 34.99"
+  image_first_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-little-people-reg-sit-and-stand-skyway/1046477460'
+  image_height: '500'
+  image_first_width: '299'
+  image_second_url: 'images/bbB_120816_Toys3US_15.jpg'
+  image_second_alt: "Zoo Jamz Piano™ by Vtech® 24.99"
+  image_second_link: 'https://www.buybuybaby.com/store/product/vtech-reg-zoo-jamz-piano-trade/1046622662'
+  image_second_height: '500'
+  image_second_width: '301'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_120816_Toys3US_16.jpg'
+  image_first_alt: "Big Building Bag 80pc Building Set by Mega® Bloks 19.99"
+  image_first_link: 'https://www.buybuybaby.com/store/product/mega-bloks-big-building-bag-80-piece-building-set-in-classic/1041836606'
+  image_height: '427'
+  image_first_width: '299'
+  image_second_url: 'images/bbB_120816_Toys3US_17.jpg'
+  image_second_alt: "Gourmet Prep 'N Serve™ by Little Tikes® 109.99 FREE SHIPPING"
+  image_second_link: 'https://www.buybuybaby.com/store/product/little-tikes-reg-gourmet-prep-39-n-serve-trade-kitchen/1043413928'
+  image_second_height: '427'
+  image_second_width: '301'
+
+- type: 'image'
+  image_url: 'images/bbB_120816_Toys3US_18.jpg'
+  image_alt: "shop toys"
+  image_link: 'https://www.buybuybaby.com/store/category/toys-learning/30005/'
+  image_height: '57'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_120816_Toys3US_19.jpg'
+  image_alt: "You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store options for easy pick-up. Prices valid only in contiguous United States."
+  image_link: 'https://www.buybuybaby.com/store/category/gifts-more/mom-dad/32666/?mcid=EM_Promo_201612_Toys2_NoOffer'
+  image_height: '72'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_120816_Toys3US_20.jpg'
+  image_alt: "toy time! gifts under $25 shop now"
+  image_link: 'https://www.buybuybaby.com/store/category/gifts-more/gifts-by-price/gifts-under-25/32685/'
+  image_height: '223'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_120816_Toys3US_21.jpg'
+  image_alt: "bright ideas for the perfect gift shop now"
+  image_link: 'https://www.buybuybaby.com/store/category/gifts-more/smart-innovations/32701/'
+  image_height: '231'
+  image_width: '600'
+
+
+socialnav:
+- link: ""
+  img: "images/bbB_120816_Toys3US_22.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_120816_Toys3US_23.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_120816_Toys3US_24.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_120816_Toys3US_25.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_120816_Toys3US_26.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_120816_Toys3US_27.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_120816_Toys3US_28.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'

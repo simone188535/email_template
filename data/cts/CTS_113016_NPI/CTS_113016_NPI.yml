@@ -1,0 +1,146 @@
+title: 'Our New Flyer! and Your COUPON + Free Shipping!'
+
+pre_header_text: ''
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com'
+header_logo_img: "images/CTS_113016_NPI_01.jpg"
+header_logo_alt: "Christmas Tree Shops®"
+header_logo_height: "67"
+header_logo_width: "600"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+header_arrivals_img: "images/CTS_113016_NPI_02.jpg"
+header_arrivals_alt: "New Arrivals"
+header_arrivals_height: "28"
+header_arrivals_width: "153"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+header_seasonal_img: "images/CTS_113016_NPI_03.jpg"
+header_seasonal_alt: "Seasonal"
+header_seasonal_height: "28"
+header_seasonal_width: "127"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+header_furniture_img: "images/CTS_113016_NPI_04.jpg"
+header_furniture_alt: "Furniture"
+header_furniture_height: "28"
+header_furniture_width: "90"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?mobile=off'
+header_outdoor_img: "images/CTS_113016_NPI_05.jpg"
+header_outdoor_alt: "Outdoor"
+header_outdoor_height: "28"
+header_outdoor_width: "92"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?skipmobile=true'
+header_clearance_img: "images/CTS_113016_NPI_06.jpg"
+header_clearance_alt: "Clearance"
+header_clearance_height: "28"
+header_clearance_width: "138"
+
+
+socialnav:
+- img: "images/CTS_113016_NPI_14.jpg"
+  alt: ""
+  link: "#"
+  width: '138'
+  height: '76'
+
+- img: "images/CTS_113016_NPI_15.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops'
+  width: '54'
+  height: '76'
+
+- img: "images/CTS_113016_NPI_16.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat'
+  width: '47'
+  height: '76'
+
+- img: "images/CTS_113016_NPI_17.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops'
+  width: '44'
+  height: '76'
+
+- img: "images/CTS_113016_NPI_18.jpg"
+  alt: "Find a store near you"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do'
+  width: '170'
+  height: '76'
+
+- img: "images/CTS_113016_NPI_19.jpg"
+  alt: ""
+  link: '#'
+  width: '147'
+  height: '76'
+
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/CTS_113016_NPI_07.jpg"
+    img_alt: 'Special Delivery for Email Subscribers! For Great Deals Check Out Our New Flyer!'
+    url: 'http://www.christmastreeshops.com/flyer'
+    width: '600'
+    height: '646'
+
+  - type: "image"
+    img: "images/CTS_113016_NPI_08.jpg"
+    img_alt: 'Now 29.99 each Portable Suitcase Turntables'
+    url: 'http://www.christmastreeshops.com/search.do?query=Portable+Suitcase+Turntables'
+    width: '600'
+    height: '337'
+
+  - type: "image"
+    img: "images/CTS_113016_NPI_09.jpg"
+    img_alt: ''
+    url: ''
+    width: '600'
+    height: '68'
+
+  - type: "image-2-columns"
+    img: "images/CTS_113016_NPI_10.jpg"
+    img_alt: 'In-Store & Online $10 Off Any Purchase of $50 or More & Free Shipping on any Online Purchase of $65 or More.'
+    url: ''
+    width: '360'
+    height: '134'
+    img_2: "images/CTS_113016_NPI_11.jpg"
+    img_alt_2: 'In-Store & Online $10 Off Any Purchase of $50 or More & Free Shipping on any Online Purchase of $65 or More.'
+    url_2: 'http://www.christmastreeshops.com'
+    width_2: '240'
+    height_2: '134'
+
+  - type: "image-2-columns"
+    img: "images/CTS_113016_NPI_12.jpg"
+    img_alt: 'Click Here For Coupon Valid Through December 4, 2016'
+    url: ''
+    width: '316'
+    height: '82'
+    img_2: "images/CTS_113016_NPI_13.jpg"
+    img_alt_2: 'Shop Now! Use Online Promo Code CTSHOLIDAY'
+    url_2: 'http://www.christmastreeshops.com'
+    width_2: '284'
+    height_2: '82'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

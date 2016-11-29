@@ -1,8 +1,8 @@
 	<% require 'active_support/all' %>
-<% instance_variable_set("@base_data_file", data.buybuyBaby.bbB_111716_InStoreSavingCet_CANADA_R.bbB_111716_InStoreSavingCet_CANADA_R) %>
+<% instance_variable_set("@base_data_file", data.buybuyBaby.bbB_169_112816_CyberMondayDeals__2.bbB_169_112816_CyberMondayDeals__2) %>
 <% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <style type="text/css">
-    /* This style block will be inlined when running 'grunt build' and stripped from the header */
+    /* This style block will be inlined when running 'grunt build' and stripped from the header  */
 
     table td {
         border-collapse: collapse;
@@ -78,29 +78,29 @@
 				<!-- Header -->
 				<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
 				    <tr>
-				        
-				    	<td>
+				        <td>
 				            <a href="<%=@base_logo_img_link%>">
 				                <img src="<%=@base_logo_img_url%>" alt="<%=@base_logo_img_alt%>" title="<%=@base_logo_img_alt%>" border="0" width="<%=@base_logo_img_width%>" height="<%=@base_logo_img_height%>">
 				            </a>
 				        </td>
-				        <td>
+
+				         <td>
 				            <a href="<%=@base_freeshipping_img_link%>">
 				                <img src="<%=@base_freeshipping_img_url%>" alt="<%=@base_freeshipping_img_alt%>" title="<%=@base_freeshipping_img_alt%>" border="0" width="<%=@base_freeshipping_img_width%>" height="<%=@base_freeshipping_img_height%>">
 				            </a>
 				        </td>
+
 				        <td>
-				            <a href="<%=@base_instorepickup_img_link%>">
-				                <img src="<%=@base_instorepickup_img_url%>" alt="<%=@base_instorepickup_img_alt%>" title="<%=@base_instorepickup_img_alt%>" border="0" width="<%=@base_instorepickup_img_width%>" height="<%=@base_instorepickup_img_height%>">
+				            <a href="<%=@base_instore_img_link%>">
+				                <img src="<%=@base_instore_img_url%>" alt="<%=@base_instore_img_alt%>" title="<%=@base_instore_img_alt%>" border="0" width="<%=@base_instore_img_width%>" height="<%=@base_instore_img_height%>">
 				            </a>
 				        </td>
+
 				        <td>
 				            <a href="<%=@base_babyreg_img_link%>">
 				                <img src="<%=@base_babyreg_img_url%>" alt="<%=@base_babyreg_img_alt%>" title="<%=@base_babyreg_img_alt%>" border="0" width="<%=@base_babyreg_img_width%>" height="<%=@base_babyreg_img_height%>">
 				            </a>
 				        </td>
-				    
-
 				    </tr>
 				</table>
 				<!-- Nav -->
@@ -156,17 +156,17 @@
 					<% if f["type"]=="images-3-columns" %>
 					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
 					    <tr>
-					        <td>
+					        <td width="<%= f["image_first_width"] %>" height="<%= f["image_first_height"] %>">
 					            <a href="<%= f["image_first_link"] %>">
 					                <img src="<%= f["image_first_url"] %>" alt="<%= f["image_first_alt"] %>" title="<%= f["image_first_alt"] %>" border="0" width="<%= f["image_first_width"] %>" height="<%= f["image_first_height"] %>">
 					            </a>
 					        </td>
-					        <td>
+					        <td width="<%= f["image_second_width"] %>" height="<%= f["image_second_height"] %>">
 					            <a href="<%= f["image_second_link"] %>">
 					                <img src="<%= f["image_second_url"] %>" alt="<%= f["image_second_alt"] %>" title="<%= f["image_second_alt"] %>" border="0" width="<%= f["image_second_width"] %>" height="<%= f["image_second_height"] %>">
 					            </a>
 					        </td>
-					        <td>
+					        <td width="<%= f["image_third_width"] %>" height="<%= f["image_third_height"] %>">
 					            <a href="<%= f["image_third_link"] %>">
 					                <img src="<%= f["image_third_url"] %>" alt="<%= f["image_third_alt"] %>" title="<%= f["image_third_alt"] %>" border="0" width="<%= f["image_third_width"] %>" height="<%= f["image_third_height"] %>">
 					            </a>
@@ -176,7 +176,30 @@
 					<% end %>
 				<% end %>
 
-					
+					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+			          <!-- Footer nav -->
+
+			          <!-- Social links -->
+			          <tr>
+			            <td valign="top" align="center" class="social-links">
+
+							<table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
+							        <tr>
+						                  <% @base_data_file.socialnav.each do |f| %>
+							                <td>
+						                        <a href="<%= f["link"] %>">
+						                                <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" border="0">
+												</a>
+											</td>
+						                <% end %>
+							        </tr>
+							</table>
+
+			            </td>
+			          </tr>
+					  
+				</table>
+				
 				<!-- Zeta Footer -->
 				<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
 				    <tr>

@@ -1,0 +1,57 @@
+title: 'Give the Gift of Gourmet!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0984ff9-8445-4e08-bca8-220f45be5821.jpg?ver=1467292845000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1128_BLD_GiftBasketSolo_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2d3d1636-5d67-4d08-b6d6-3021a1e73196.jpg?ver=1479838682000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1720595a-0201-4865-9289-19ffb2b41ae8.jpg?ver=1479838682000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fa1b0880-c018-49bd-98d3-b8b08f37dadd.jpg?ver=1479838683000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts/all_baskets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1128_BLD_GiftBasketSolo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bd0e598f-61d4-4e34-9bc1-4352a79f9a0f.jpg?ver=1479838681000'
+  img_alt: "Balducci&#39;s® Food Lover's Market™ Gift Baskets Give the Gift of Gourmet"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts/all_baskets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1128_BLD_GiftBasketSolo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c2fd5850-1e5f-4c07-8ba6-01749c61e6ff.jpg?ver=1479838681000'
+  img_alt: ""
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts/all_baskets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1128_BLD_GiftBasketSolo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d64d785e-7e79-460f-98be-db48364c6ab4.jpg?ver=1479838681000'
+  img_alt: "Balducci&#39;s Cupboard Gift Basket View Gift Baskets >"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f2643639-7267-4972-8032-d458c510386b.jpg?ver=1479838682000'
+  img_alt: "A BALDUCCI&#39;S GIFT BASKET  IS ALWAYS IN GOOD TASTE Our thoughtful gift baskets are available in a variety of  sweet and savory themes and a wide range of prices.  Order Online, or call to customize your own unique basket! CALL 1-800-346-8763 | MONDAY - FRIDAY 9 AM to 5 PM ONLINE balduccis.com/gifts | ANYTIME We will deliver anywhere in the continental US."
+
+- type: 'image'
+  url: ''
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5b22e895-90fc-4825-b7a1-3fde20a352f6.jpg?ver=1479838684000'
+  img_alt: ""
+
+
+
+

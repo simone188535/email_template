@@ -1,5 +1,5 @@
 	<% require 'active_support/all' %>
-<% instance_variable_set("@base_data_file", data.buybuyBaby.bbB_111716_InStoreSavingCet_CANADA_R.bbB_111716_InStoreSavingCet_CANADA_R) %>
+<% instance_variable_set("@base_data_file", data.buybuyBaby.bbB_111816_StokkeTrippTrapp.bbB_111816_StokkeTrippTrapp) %>
 <% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <style type="text/css">
     /* This style block will be inlined when running 'grunt build' and stripped from the header */
@@ -177,6 +177,40 @@
 				<% end %>
 
 					
+				<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+			          <!-- Footer nav -->
+
+			          <tr>
+			            <td class="cell-height" height="1">
+			              <img src="images/spacer.gif" alt="" height="1" width="1">
+			            </td>
+			          </tr>
+
+			          <!-- Social links -->
+			          <tr>
+			            <td valign="top" align="center" class="social-links">
+
+							<table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
+							        <tr>
+						                  <% @base_data_file.socialnav.each do |f| %>
+							                <td>
+						                        <a href="<%= f["link"] %>">
+						                                <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" border="0">
+												</a>
+											</td>
+						                <% end %>
+							        </tr>
+							</table>
+
+			            </td>
+			          </tr>
+					  
+			          <tr>
+			            <td class="cell-height" height="1">
+			              <img src="images/spacer.gif" alt="" height="1" width="1">
+			            </td>
+			          </tr>
+				</table>
 				<!-- Zeta Footer -->
 				<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
 				    <tr>

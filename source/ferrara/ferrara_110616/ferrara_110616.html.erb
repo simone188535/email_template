@@ -1,5 +1,5 @@
 	<% require 'active_support/all' %>
-<% instance_variable_set("@base_data_file", data.buybuyBaby.bbB_111716_InStoreSavingCet_CANADA_R.bbB_111716_InStoreSavingCet_CANADA_R) %>
+<% instance_variable_set("@base_data_file", data.ferrar.ferrara_110616.ferrara_110616) %>
 <% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <style type="text/css">
     /* This style block will be inlined when running 'grunt build' and stripped from the header */
@@ -45,7 +45,7 @@
 </style>
 <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
 	<tr><td align="center">
-		<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+		<table border="0" width="640" cellpadding="0" cellspacing="0" align="center">
 			<tr> 
 				<td align="center"><font style="FONT-SIZE: 10px; COLOR: #003875; LINE-HEIGHT: 14px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif">&nbsp;</font></td>
 			</tr>
@@ -75,58 +75,11 @@
 				</td>
 			</tr>
 			<tr><td align="center">
-				<!-- Header -->
-				<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
-				    <tr>
-				        
-				    	<td>
-				            <a href="<%=@base_logo_img_link%>">
-				                <img src="<%=@base_logo_img_url%>" alt="<%=@base_logo_img_alt%>" title="<%=@base_logo_img_alt%>" border="0" width="<%=@base_logo_img_width%>" height="<%=@base_logo_img_height%>">
-				            </a>
-				        </td>
-				        <td>
-				            <a href="<%=@base_freeshipping_img_link%>">
-				                <img src="<%=@base_freeshipping_img_url%>" alt="<%=@base_freeshipping_img_alt%>" title="<%=@base_freeshipping_img_alt%>" border="0" width="<%=@base_freeshipping_img_width%>" height="<%=@base_freeshipping_img_height%>">
-				            </a>
-				        </td>
-				        <td>
-				            <a href="<%=@base_instorepickup_img_link%>">
-				                <img src="<%=@base_instorepickup_img_url%>" alt="<%=@base_instorepickup_img_alt%>" title="<%=@base_instorepickup_img_alt%>" border="0" width="<%=@base_instorepickup_img_width%>" height="<%=@base_instorepickup_img_height%>">
-				            </a>
-				        </td>
-				        <td>
-				            <a href="<%=@base_babyreg_img_link%>">
-				                <img src="<%=@base_babyreg_img_url%>" alt="<%=@base_babyreg_img_alt%>" title="<%=@base_babyreg_img_alt%>" border="0" width="<%=@base_babyreg_img_width%>" height="<%=@base_babyreg_img_height%>">
-				            </a>
-				        </td>
-				    
-
-				    </tr>
-				</table>
-				<!-- Nav -->
-				<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
-				    <tr>
-				        <td>
-				            <a href="<%=@base_nav1_link%>">
-				                <img src="<%=@base_nav1_url%>" alt="<%=@base_nav1_alt%>" title="<%=@base_nav1_alt%>" border="0" width="<%=@base_nav1_width%>" height="<%=@base_nav1_height%>">
-				            </a>
-				        </td>
-				        <td>
-				            <a href="<%=@base_nav2_link%>">
-				                <img src="<%=@base_nav2_url%>" alt="<%=@base_nav2_alt%>" title="<%=@base_nav2_alt%>" border="0" width="<%=@base_nav2_width%>" height="<%=@base_nav2_height%>">
-				            </a>
-				        </td>
-				        <td>
-				            <a href="<%=@base_nav3_link%>">
-				                <img src="<%=@base_nav3_url%>" alt="<%=@base_nav3_alt%>" title="<%=@base_nav3_alt%>" border="0" width="<%=@base_nav3_width%>" height="<%=@base_nav3_height%>">
-				            </a>
-				        </td>
-				    </tr>
-				</table>
+				
 				<!-- Articles -->
 				<% @base_data_file.articles.each do |f| %>
 					<% if f["type"]=="image" %>
-					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+					<table border="0" width="640" cellpadding="0" cellspacing="0" align="center">
 					    <tr>
 					        <td>
 					            <a href="<%= f["image_link"] %>">
@@ -137,7 +90,7 @@
 					</table>
 					<% end %>
 					<% if f["type"]=="images-2-columns" %>
-					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+					<table border="0" width="640" cellpadding="0" cellspacing="0" align="center">
 					    <tr>
 					        <td>
 					            <a href="<%= f["image_first_link"] %>">
@@ -154,7 +107,7 @@
 					<% end %>
 
 					<% if f["type"]=="images-3-columns" %>
-					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+					<table border="0" width="640" cellpadding="0" cellspacing="0" align="center">
 					    <tr>
 					        <td>
 					            <a href="<%= f["image_first_link"] %>">
@@ -177,15 +130,39 @@
 				<% end %>
 
 					
-				<!-- Zeta Footer -->
-				<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
-				    <tr>
-								<td class="footer">
-									<br/>
-									<br/>ZETA FOOTER GOES HERE
-									<br/>
-								</td>
-				    </tr>
+				<table border="0" width="640" cellpadding="0" cellspacing="0" align="center">
+			          <!-- Footer nav -->
+
+			          <tr>
+			            <td class="cell-height" height="1">
+			              <img src="images/spacer.gif" alt="" height="1" width="1">
+			            </td>
+			          </tr>
+
+			          <!-- Social links -->
+			          <tr>
+			            <td valign="top" align="center" class="social-links">
+
+							<table  width="640"  border="0" cellpadding="0" cellspacing="0" align="center">
+							        <tr>
+						                  <% @base_data_file.socialnav.each do |f| %>
+							                <td>
+						                        <a href="<%= f["link"] %>">
+						                                <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" border="0">
+												</a>
+											</td>
+						                <% end %>
+							        </tr>
+							</table>
+
+			            </td>
+			          </tr>
+					  
+			          <tr>
+			            <td class="cell-height" height="1">
+			              <img src="images/spacer.gif" alt="" height="1" width="1">
+			            </td>
+			          </tr>
 				</table>
 			</td></tr>
 		</table>
