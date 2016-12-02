@@ -1,0 +1,136 @@
+title: ''
+
+pre_header_text: ''
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com'
+header_logo_img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_01.jpg"
+header_logo_alt: "Christmas Tree Shops&#174; and That&#8482;"
+header_logo_height: "65"
+header_logo_width: "600"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+header_arrivals_img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_02.jpg"
+header_arrivals_alt: "NEW ARRIVALS"
+header_arrivals_height: "30"
+header_arrivals_width: "156"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+header_seasonal_img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_03.jpg"
+header_seasonal_alt: "SEASONAL &#38; GIFTS"
+header_seasonal_height: "30"
+header_seasonal_width: "126"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+header_furniture_img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_04.jpg"
+header_furniture_alt: "FURNITURE"
+header_furniture_height: "30"
+header_furniture_width: "91"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?mobile=off'
+header_outdoor_img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_05.jpg"
+header_outdoor_alt: "OUTDOOR"
+header_outdoor_height: "30"
+header_outdoor_width: "87"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do'
+header_clearance_img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_06.jpg"
+header_clearance_alt: "CLEARANCE"
+header_clearance_height: "30"
+header_clearance_width: "140"
+
+
+socialnav:
+- img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_16.jpg"
+  alt: " "
+  link: ""
+  width: '146'
+  height: '70'
+
+- img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_17.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops'
+  width: '50'
+  height: '70'
+
+- img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_18.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat'
+  width: '43'
+  height: '70'
+
+- img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_19.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops'
+  width: '42'
+  height: '70'
+
+- img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_20.jpg"
+  alt: "Find a store near you &#62;"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do'
+  width: '160'
+  height: '70'
+
+- img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_21.jpg"
+  alt: " "
+  link: ""
+  width: '159'
+  height: '70'
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_07.jpg"
+    img_alt: 'In-Store & Online $10 Off Any Purchase of $50 or More &amp; Free Shipping on any Online Purchase of $65 or More.'
+    url: '#'
+    width: '600'
+    height: '266'
+
+  - type: "image-2-columns"
+    img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_08.jpg"
+    img_alt: 'Click Here For Coupon Valid Through December 11, 2016'
+    url: '#'
+    width: '300'
+    height: '69'
+    img_2: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_09.jpg"
+    img_alt_2: 'Shop Now! Use Online Promo Code HOLIDAYSCTS'
+    url_2: 'http://www.christmastreeshops.com'
+    width_2: '300'
+    height_2: '69'
+
+  - type: "image"
+    img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_10.jpg"
+    img_alt: 'December 5, 2016 Online Only! While Supplies Last! 19.99 Each Ugly Christmas Sweaters Also shown Christmas Fleece Leggings, Christmas Hats, Christmas Hats, Christmas Scarves and Christmas Sweater Vests 6.99-16.99 ea. Musical Christmas Sweaters 24.99 ea. Shop Now'
+    url: 'http://www.christmastreeshops.com/product/ugly-christmas-sweaters.do'
+    width: '600'
+    height: '684'
+
+  - type: "image"
+    img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_11.jpg"
+    img_alt: 'THERE&#39;S MORE TO EXPLORE!'
+    url: ''
+    width: '600'
+    height: '45'
+
+  - type: "image-4-columns"
+    img: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_12.jpg"
+    img_alt: 'New Arrivals'
+    url: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+    width: '150'
+    height: '44'
+    img_2: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_13.jpg"
+    img_alt_2: 'Seasonal & Gifts'
+    url_2: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+    width_2: '150'
+    height_2: '44'
+    img_3: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_14.jpg"
+    img_alt_3: 'Home & Décor'
+    url_3: 'http://www.christmastreeshops.com/category/home-decorating.do?mobile=off'
+    width_3: '150'
+    height_3: '44'
+    img_4: "images/CTS_048_120516_Ecomm_Ugly_Christmas_v3_r3_DEV_15.jpg"
+    img_alt_4: 'Furniture'
+    url_4: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+    width_4: '150'
+    height_4: '44'
