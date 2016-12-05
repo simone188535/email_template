@@ -1,0 +1,74 @@
+title: 'Give the Gift of Gourmet!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0984ff9-8445-4e08-bca8-220f45be5821.jpg?ver=1467292845000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_BLD_HolidayCateringEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f2ff22b1-fa24-42dc-8580-4a7048925c35.jpg?ver=1480956512000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/abc9329e-a269-4bea-8799-ed772705c84a.jpg?ver=1480956512000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/31767e13-43c2-4de6-8943-4556dba5d45a.jpg?ver=1480956512000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_BLD_HolidayCateringEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4f2271be-c9a4-4b24-b376-1ff529406c25.jpg?ver=1480956511000'
+  img_alt: "Balducci&#39;s Food Lover's Market&#174;"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_BLD_HolidayCateringEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ba81ef63-10d6-4d84-9544-75899479308f.jpg?ver=1480956511000'
+  img_alt: "Entertain with Ease this Holiday Season! "
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/christmas?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_BLD_HolidayCateringEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dd65fe33-c2d2-414c-8b04-715864344d9c.jpg?ver=1480956511000'
+  img_alt: ""
+  url_2: 'http://www.balduccis.com/catering/chanukah?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_BLD_HolidayCateringEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/70c0b3f7-c32e-469b-bf55-267ed0c17fea.jpg?ver=1480956511000'
+  img_alt_2: ""
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_BLD_HolidayCateringEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cbdb9317-1b2b-4730-b8bf-558acf5f4772.jpg?ver=1480956511000'
+  img_alt: "Let our Chefs prepare your entire Holiday Dinner or complement your family&#39;s menu with our A La Carte selections!"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_BLD_HolidayCateringEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cce7844a-d39b-4aec-ac54-5124fc7ac43c.jpg?ver=1480956511000'
+  img_alt: "Order Now >"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_BLD_HolidayCateringEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f00187c3-543a-4bfd-b347-6e007a411cb8.jpg?ver=1480956512000'
+  img_alt: "Our catering experts will work with you to create the perfect menu to suit your style and needs. All you have to do is set the table, we'll do the rest."
+
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_BLD_HolidayCateringEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/66ef6c48-caac-45ac-8922-f007391b75ed.jpg?ver=1480956512000'
+  img_alt: "Pick Up In-Store, call 1.866.278.8866, Email catering@balduccis.com or View Our Catering Menu Online. "
+
+
+
+
+
+
+
