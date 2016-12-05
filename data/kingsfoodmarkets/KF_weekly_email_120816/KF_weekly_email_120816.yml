@@ -1,0 +1,211 @@
+title: 'Entertain with Ease this Holiday Season!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6f66732a-b15c-497a-9922-10740bdd37ba.jpg?ver=1480973480000"
+  img_alt: "Stress-Free Holidays Simple ideas for a holiday table setting, festive recipes, and holiday shopping list tips."
+  url: "https://www.youtube.com/user/KingsFoodMarkets/videos"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1f9184fc-a886-45b4-bbf1-6566acb68268.jpg?ver=1480973480000"
+  img_alt: "Create Your Own Elegant Holiday Table Learn the secret to setting a festive holiday tablescape using fresh  fruit and herbs. Watch Video >"
+  url: "https://www.youtube.com/user/KingsFoodMarkets/videos"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/02eeab04-70e5-4a67-aec5-901408010ed0.jpg?ver=1480973480000"
+  img_alt: "Make Your Home Magical | Deck the Halls"
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0905f10a-524c-4676-8c76-99c39cecda5d.jpg?ver=1480973481000"
+  img_alt: "Bring holiday charm to your home with locally grown  Poinsettias"
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e19d6653-7462-4a7e-a363-0ac824915ecb.jpg?ver=1480973481000"
+  img_alt: "Festive décor from Michel Design Works"
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6d2c35b9-6a73-48f7-8d5c-81809bb71448.jpg?ver=1480973481000"
+  img_alt: "Vineyard Bouquet"
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4bad4067-87a3-4477-b019-ca77744f467d.jpg?ver=1480973482000"
+  img_alt: "Holiday Tableware from Caspari Christmas Patterns"
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e7dfb83d-5100-490e-afcf-45ab6d6c1415.jpg?ver=1480973482000"
+  img_alt: "Vance Kitira Candles and much more!"
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b3048e58-e28b-4667-aba0-a2eb26b45217.jpg?ver=1480973482000"
+  img_alt: "View More >"
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c78bbde9-076d-499c-ba2e-e931766c7651.jpg?ver=1480973482000"
+  img_alt: "Prep & Freeze | Recipes to Make Ahead & Cook Later"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0c300dce-c1c8-4604-bcfa-5d46be1b8d87.jpg?ver=1480973483000"
+  img_alt: "Make-Ahead Cranberry White Chocolate Cheesecake View Recipe "
+  url: "http://kingsfoodmarkets.com/unique-recipes/make-ahead-cranberry-white-chocolate-cheesecake?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4abd2a82-8ac2-4280-9f4b-dc6ff6fdb1e5.jpg?ver=1480973483000"
+  img_alt_2: "Make-Ahead Cauliflower Gruyère Gratin View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/make-ahead-cauliflower-gruyere-gratin?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/03fe15e3-7cc8-4c63-a00d-eeb917d32e15.jpg?ver=1480973483000"
+  img_alt: "Holiday Tip | Hassle-Free Shopping "
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7f7c3355-fa03-4665-a4b8-688ae59f5552.jpg?ver=1480973483000"
+  img_alt: "Save time shopping in-store with our new digital circular. Create a shopping list, save it and share with family and friends, too. View Circular >"
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6862268a-9437-4239-a97d-75722af8537c.jpg?ver=1480973484000"
+  img_alt: "Holiday Catering | Come In or Cater"
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0f442209-5b48-42cf-a8d0-bc95fc191a01.jpg?ver=1480973484000"
+  img_alt: "Let Kings Catering handle all  the food for your Christmas or Chanukah dinner celebration. Choose your favorite dishes, then relax and enjoy Chef Prepared meals sure to impress your friends  and family."
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71ca6403-661e-43a4-8010-26e6b8f0ae08.jpg?ver=1480973484000"
+  img_alt: "1/2 Spiral Ham with Apricot Honey Mustard View Menu "
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/21b314ca-19f9-4c70-a521-76dc2a1f0c25.jpg?ver=1480973484000"
+  img_alt_2: "Beef Brisket View Menu"
+  url_2: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec497318-7121-4878-baee-deffcffc5f69.jpg?ver=1480973484000"
+  img_alt: "Market Specials | A Cut Above the Rest"
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2b6cfe52-727e-4e12-889d-8b94d251c4c4.jpg?ver=1480973485000"
+  img_alt: "Kings USDA Choice Beef Rib Roast First or Center Cut 8.99 LB. "
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2067c63e-e1cf-48e2-8c96-cfeff6f61d67.jpg?ver=1480973485000"
+  img_alt_2: "Fresh Wild Caught Icelandic Cod Fillet 11.99 LB. "
+  url_2: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d8fdeb4-a933-4287-aca8-23efd67f5272.jpg?ver=1480973485000"
+  img_alt: "View Weekly Specials >"
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5aa34a6a-c8b9-4c18-9f80-cd8823c7e11a.jpg?ver=1480973485000"
+  img_alt: "What&#39;s New In Store"
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8fc6fa1e-b86b-42c7-9ea4-acb29308b755.jpg?ver=1480973486000"
+  img_alt: "Stonewall Kitchen Specialty Products Enjoy the great tastes of Maine throughout the holiday season with Stonewall Kitchen specialty products. View More > "
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/04981ae4-52ee-4084-be82-011393e84a8a.jpg?ver=1480973486000"
+  img_alt_2: "Stonewall Kitchen Specialty Products Enjoy the great tastes of Maine throughout the holiday season with Stonewall Kitchen specialty products. View More > "
+  url_2: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c54f8627-9262-4198-aed5-eef745bbf6ac.jpg?ver=1480973486000"
+  img_alt: "Kings Patisserie Decadent Chocolate Cake Collection Nothing is more pleasing than the sweet goodness of these decadent chocolate treats, great for holiday parties. View More > "
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1e4acc0c-0042-4792-a1af-da763f04c084.jpg?ver=1480973487000"
+  img_alt_2: "Kings Patisserie Decadent Chocolate Cake Collection Nothing is more pleasing than the sweet goodness of these decadent chocolate treats, great for holiday parties. View More > "
+  url_2: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0046c7d5-0b74-43a3-9d53-5b3db9d6aff7.jpg?ver=1480973487000"
+  img_alt: "Kings Gift Cards The perfect gift for your favorite foodie or passionate cook! Treat someone special to a gourmet shopping experience  they will always remember. Available in store."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d832024b-2ee5-4642-ac0a-5addb76cd2a0.jpg?ver=1480973487000"
+  img_alt_2: "Kings Gift Cards The perfect gift for your favorite foodie or passionate cook! Treat someone special to a gourmet shopping experience  they will always remember. Available in store."
+  url_2: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
