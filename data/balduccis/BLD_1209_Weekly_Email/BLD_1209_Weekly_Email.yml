@@ -1,0 +1,127 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b3bf95e6-3796-4b0f-87c1-0c0f7d5177e8.jpg?ver=1481034140000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://vimeo.com/balduccis'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/73598f41-fa52-43df-b9ce-3c4d660f9db2.jpg?ver=1481034141000'
+  img_alt: 'Set the Table Decorate the perfect holiday table, and fill it with a delicious and  decadent Chef Prepared feast. Inspiration Elegant Table Setting Using Fresh Fruit &amp; Herbs Watch Video &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6a556ec4-c9f5-41aa-9d51-fb5ebe3e0fb0.jpg?ver=1481034141000'
+  img_alt: 'Chef Prepared | Gourmet Holiday Eats '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e227aa24-23d7-4daf-b7fe-67e61045f4de.jpg?ver=1481034141000'
+  img_alt: 'Haricots Verts with Roasted Butternut Squash '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/796441fb-8d7a-47fb-91ab-daf6af0008be.jpg?ver=1481034142000'
+  img_alt: 'Creamed Spinach '
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/37f08a34-4a96-422d-86ae-1fc8f8d349a2.jpg?ver=1481034142000'
+  img_alt_2: 'Haricots Verts with Roasted Butternut Squash '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/859d2a4c-8dc7-4678-a976-ef45dce9d8ca.jpg?ver=1481034142000'
+  img_alt: 'Stuffed Maple Acorn Squash '
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/542d4e1a-1d35-4bfc-97a1-30c7555eedd2.jpg?ver=1481034143000'
+  img_alt_2: 'Potato and Gruyére Gratin '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8ce29f4f-eb23-4d0e-a05d-dca1fd9b473c.jpg?ver=1481034143000'
+  img_alt: 'Holiday Catering | Crafted by Chefs '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c855d894-fed1-4d48-b8c7-ebed8edf0b65.jpg?ver=1481034144000'
+  img_alt: 'Escape holiday stress and let Balducci&#39;s cater an elegant, gourmet Chef Prepared holiday dinner for you and your family. It&#39;s easy to order, just choose your favorite dishes, and we&#39;ll do the rest! View Menus &#62;'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0ce5e58e-c88c-4200-acc6-398f79089a8a.jpg?ver=1481034144000'
+  img_alt: 'Citrus Glazed Salmon Order Now &#62;'
+  url_2: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6a306ee4-a454-43be-9f7b-222768763f15.jpg?ver=1481034145000'
+  img_alt_2: 'Herb Roasted Turkey Breast Order Now &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0cb78a98-1769-4d55-bd3d-f93ee942b52e.jpg?ver=1481034144000'
+  img_alt: 'Member Exclusive'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c55ea08c-8166-470d-8472-89c002608120.jpg?ver=1481034145000'
+  img_alt: 'Creekstone Natural Spiral Sliced Uncured Duroc Ham Member Exclusive 4.99/LB Reg 6.99 ' 
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a6c0364a-66d9-47ca-a13d-cd6100f82ca7.jpg?ver=1481034144000'
+  img_alt: 'Seasonal Greens | Side Dish Perfection '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/soup?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1c900c62-1f8a-42a6-9e4d-c1e52f091767.jpg?ver=1481034145000'
+  img_alt: 'Asparagus Fresh asparagus gives you many options for an elegant holiday side dish. Create Tuscan Creamy  Asparagus Soup with Lemon &amp; Parmesan Gremolata View Recipe  &#62;'  
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/side_dishes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2182850d-019d-485b-91d4-d3564b289796.jpg?ver=1481034145000'
+  img_alt: 'Broccoli Rabe Broccoli rabe, also known as rapini, is a delicious side dish for your holiday dinner. Try Cheesy Bread Pudding With Broccoli Rabe  And Pancetta View Recipe &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/327b0ee0-da49-441d-94ee-dbcb761812eb.jpg?ver=1481034145000'
+  img_alt: 'What&#39;s New In Store '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3cf878c7-14fc-4602-9c2f-0060e7ba7750.jpg?ver=1481034145000'
+  img_alt: 'Wine &amp; Food Event Sample a variety of wines and food pairings– just in time to plan your Chanukah, Christmas and New Year&#39;s wine menus. Saturday, December 17th Food Samplings…12 noon-5pm Wine Samplings…2-5pm More Info &#62;'  
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1209_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bbf3a4d5-e8cb-430a-bd4b-7b77a3a80063.jpg?ver=1481034146000'
+  img_alt: 'Check Out Hunger&#174; Join us this season of giving to help provide Food, Help and Hope to families in need. As a founding Check Out Hunger&#174; partner, Balducci&#39;s and our shoppers have donated almost $2 million to the Community Food Bank. Donate in-store at checkout during  your next visit.'
