@@ -1,0 +1,43 @@
+title: 'We&#39;re Here For You!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2a35e59e-e201-4bad-b802-95086cd84498.jpg?ver=1481034146000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a505f062-bf6c-4c0a-8eca-75288f4c9d3f.jpg?ver=1481034146000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5b9277ba-0618-4ede-a2cc-99a08582cf53.jpg?ver=1481034146000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://www.balduccis.com'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0d712fa2-dcf3-4f08-bbca-dffb4375ec1d.jpg?ver=1481220432000'
+  img_alt: 'WE ARE HERE TO HELP YOU WEATHER THE STORM! Stop in Balducci&#39;s for Your Storm Essentials ; ) (And then some).'
+
+- type: 'image'
+  url: 'http://www.balduccis.com'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bad08c68-b4f6-46cb-bc6c-e4fb56faccec.jpg?ver=1481220433000'
+  img_alt: 'Connect with us for local store information. Twitter Facebook Find Your Local Store'
