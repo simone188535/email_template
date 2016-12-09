@@ -1,0 +1,41 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/47c33c49-f88c-4ad2-b3b8-3c2ec0841fec.jpg?ver=1481297965000"
+  img_alt: "Kings Rewards"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_LoyaltyReminderSolo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7da4a8b-166c-45ce-899c-610eedb701f2.jpg?ver=1481297965000"
+  img_alt: "Account Reminder"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_LoyaltyReminderSolo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f89105d5-fae3-4ea7-b97e-fa75f36117f3.jpg?ver=1481297965000"
+  img_alt: "Your Points will expire December 31st, 2016."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_LoyaltyReminderSolo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1b959961-c6f1-4f90-b654-0fe39949736c.jpg?ver=1481297966000"
+  img_alt: "Collect 300 points by December 31st, to receive your $5.00 REWARD. All points will return to 0 on 1/1/17, for the next promotional period starting 1/1/17 through 3/31/17."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_LoyaltyReminderSolo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f83bfcb5-68c6-4761-af9f-534a9a972bb7.jpg?ver=1481297966000"
+  img_alt: ""
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_LoyaltyReminderSolo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a1be7c42-9ae9-4c72-9ca5-6514e4ec5353.jpg?ver=1481297966000"
+  img_alt: "Shopping at Kings is Now More Rewarding than Ever!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_LoyaltyReminderSolo"
