@@ -803,28 +803,28 @@
               </tr>
             <% end %>
       <% if f["type"]== "image" %>
-            <tr>
-              <td valign="top" align="center">
+            <tr class="<%= f["class"] %>">
+              <td valign="top" align="center" class="<%= f["class"] %>">
                 <a href="<%= f["url"] %>">
-                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive <%= f["class"] %>">
                 </a>
               </td>
             </tr>
             <% end %>
       <% if f["type"]== "image-2-columns" %>
-            <tr>
-              <td valign="top" align="center">
-          <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
-            <tr>
-              <td>
+            <tr class="<%= f["class"] %>">
+              <td valign="top" align="center" class="<%= f["class"] %>">
+          <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container <%= f["class"] %>" align="center">
+            <tr class="<%= f["class"] %>">
+              <td class="<%= f["class"] %>">
                       <a href="<%= f["url"] %>">
-                        <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                        <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive <%= f["class"] %>">
                       </a>
 
               </td>
-              <td>
+              <td class="<%= f["class"] %>">
                       <a href="<%= f["url_2"] %>">
-                        <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
+                        <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive <%= f["class"] %>">
                       </a>
               </td>
             </tr>
