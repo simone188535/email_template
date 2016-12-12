@@ -320,7 +320,7 @@
 
 
       @media screen and (max-width: 599px) {
-
+		  
         table[class="force-row"],
         table[class="container"],
         table[class*="button-table"],
@@ -350,7 +350,7 @@
         table[class*="container"] .hide-for-desktop {
           max-height: none !important;
           font-size: 14px !important;
-          display: block !important;
+          display: inline !important;
           width: 100% !important;
           }
 
@@ -416,6 +416,16 @@
           font-size: 14px;
         }
       }
+	table.no-stack, tr.no-stack {
+		width:320px !important;
+		max-width:320px !important;
+		display: inline !important;
+	}
+	img.no-stack.two-column {
+		width:159px !important;
+		max-width:159px !important;
+	}
+
     </style>
   </head>
   <body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
@@ -564,18 +574,6 @@
                   </td>
                   <td class="footer-text" align="left" valign="top">
                      <%=@base_footer_text%>
-                    <!-- <div class="copyright">
-                        <br>
-                       <%=@base_copyright%>
-                     </div> -->
-                     <div class="footer-end-links text-underline">
-                       <a href="<%=@base_privacy_link%>" title="<%=@base_privacy_text%>">
-                        <%=@base_privacy_text%>
-                      </a> |
-                      <a href="<%=@base_unsubscribe_link%>" title="<%=@base_unsubscribe_text%>">
-                        <%=@base_unsubscribe_text%>
-                       </a>
-                     </div>
                   </td>
                   <td width="15">
                     <img src="<%=@base_spacer_img_url%>" alt="" height="1" width="15">

@@ -6,12 +6,6 @@ pre_header_text: 'Save 40% on Columbus Day | <a href="#" class="viewOnline">View
 
 footer_text: 'Savings off list price. Excludes Special Orders and accessories. Limited to stock on-hand. Valid on Sears Outlet items only. <br><br> Products and assortments may vary by store. <br><br> This is an advertisement. Sears Hometown and Outlet stores shall not be held liable for errors or omission in pricing. In the <br>event of an error, we will make every effort to accomodate our customers.<br><br> &copy; 2017 Sears Brands, LLC, 3333 Beverly Road, Hoffman Estates, IL 60179. All Rights Reserved.'
 
-unsubscribe_link: ''
-unsubscribe_text: ''
-privacy_link: ''
-privacy_text: ''
-
-
 # Loop through articles
 articles:
 - type: 'image-2-columns'
@@ -215,9 +209,28 @@ articles:
 
 - type: "image"
   url: "#"
-  img: "images/sts_d970_2016_15.jpg"
+  img: "images/m_sts_d970_2016_16.jpg"
   img_alt: "Social Icons"
   class: "hide-for-desktop"
+
+- type: 'image-2-columns'
+  class: "hide-for-desktop no-stack two-column"
+  url: ''
+  img: 'images/sts_d970_2016_16.jpg'
+  img_alt: ''
+  url_2: ''
+  img_2: 'images/sts_d970_2016_17.jpg'
+  img_alt_2: ''
+
+- type: 'image-2-columns'
+  class: "hide-for-desktop no-stack two-column"
+  url: ''
+  img: 'images/sts_d970_2016_18.jpg'
+  img_alt: ''
+  url_2: ''
+  img_2: 'images/sts_d970_2016_19.jpg'
+  img_alt_2: ''
+
 
 
 spacer_img_url: 'images/spacer.gif'
