@@ -209,27 +209,28 @@ articles:
 
 - type: "image"
   url: "#"
+  img: "images/sts_d970_2016_40.png"
+  img_alt: "Brands Icons"
+  class: "go-away"
+
+- type: "image"
+  url: "#"
   img: "images/m_sts_d970_2016_16.jpg"
   img_alt: "Social Icons"
   class: "hide-for-desktop"
 
-- type: 'image-2-columns'
-  class: "hide-for-desktop no-stack two-column"
+- type: 'image'
+  class: "hide-for-desktop"
   url: ''
-  img: 'images/sts_d970_2016_16.jpg'
+  img: 'images/m_sts_d970_2016_21.jpg'
   img_alt: ''
-  url_2: ''
-  img_2: 'images/sts_d970_2016_17.jpg'
-  img_alt_2: ''
 
-- type: 'image-2-columns'
-  class: "hide-for-desktop no-stack two-column"
+- type: 'image'
+  class: "hide-for-desktop"
   url: ''
-  img: 'images/sts_d970_2016_18.jpg'
+  img: 'images/m_sts_d970_2016_22.jpg'
   img_alt: ''
-  url_2: ''
-  img_2: 'images/sts_d970_2016_19.jpg'
-  img_alt_2: ''
+
 
 
 
