@@ -4,12 +4,12 @@ primary_color: '#999999'
 
 pre_header_text: 'Save 40% on Columbus Day | <a href="#" class="viewOnline">View Online</a>'
 
-footer_text: '*From September 1, 2016 to August 31, 2017, for every immunization administered, Walgreens will donate $0.22 to the United Nations Foundation, up to a maximum donation of $2,000,000. For more information, go to Walgreens.com/GetaShot. Vaccines subject to availability. State, age- and health-related restrictions may apply. <br><br> To ensure delivery to your inbox, please add DuaneReade@duanereadedrugstore.com to your address book. <br><br> This message was sent to %%email%% <br><br> Copyright 2016 Walgreen Co., 200 Wilmot Road, Deerfield, IL 58015-4620. All rights reserved. <br><br> Available at select Duane Reade and Walgreens stores and www.Walgreens.com while supplies last. Weekly Ad and coupon prices good 9/11/16 through 9/17/16 except when otherwise noted. Not all products and prices available in all stores in the following markets: U.S. Virgin Islands, Puerto Rico, Hawaii, Alaska, San Francisco, New Jersey, New York Boroughs: Manhattan, Brooklyn, Bronx, Queens and Staten Island. Void where prohibited by law. Unless stated otherwise, all coupons have no cash value. Terms of promotion subject to change. This message contains advertising. <br><br> If you received this email as a forward, we invite you to subscribe. <br><br> Please do not reply to this message.  This is a system-generated email.  Replies will not be read or forwarded for handling. <br><br>'
+footer_text: 'Savings off list price. Excludes Special Orders and accessories. Limited to stock on-hand. Valid on Sears Outlet items only. <br><br> Products and assortments may vary by store. <br><br> This is an advertisement. Sears Hometown and Outlet stores shall not be held liable for errors or omission in pricing. In the <br>event of an error, we will make every effort to accomodate our customers.<br><br> &copy; 2017 Sears Brands, LLC, 3333 Beverly Road, Hoffman Estates, IL 60179. All Rights Reserved.'
 
-unsubscribe_link: 'http://ebm.cheetahmail.com/r/webunsub?t=%%t%%&email=%%email%%'
-unsubscribe_text: 'Unsubscribe/Preferences'
-privacy_link: 'http://www.walgreens.com/topic/generalhelp/privacyandsecurity.jsp'
-privacy_text: 'Privacy Policy'
+unsubscribe_link: ''
+unsubscribe_text: ''
+privacy_link: ''
+privacy_text: ''
 
 
 # Loop through articles
@@ -17,25 +17,37 @@ articles:
 - type: 'image-2-columns'
   class: "go-away"
   url: ''
-  img: 'images/'
+  img: 'images/sts_d970_2016_34.jpg'
   img_alt: ''
   url_2: ''
-  img_2: 'images/'
+  img_2: 'images/sts_d970_2016_36.jpg'
   img_alt_2: ''
+
+- type: "image"
+  url: ""
+  img: "images/sts_d970_2016_34.jpg"
+  img_alt: ""
+  class: "hide-for-desktop"
+
+- type: "image"
+  url: ""
+  img: "images/sts_d970_2016_36.jpg"
+  img_alt: ""
+  class: "hide-for-desktop" 
 
 - type: 'image-4-columns'
   class: "go-away"
   url: ''
-  img: 'images/'
+  img: 'images/sts_d970_2016_35.jpg'
   img_alt: ''
   url_2: ''
-  img_2: 'images/'
+  img_2: 'images/sts_d970_2016_37.jpg'
   img_alt_2: ''
   url_3: ''
-  img_3: 'images/'
+  img_3: 'images/sts_d970_2016_38.jpg'
   img_alt_3: ''
   url_4: ''
-  img_4: 'images/'
+  img_4: 'images/sts_d970_2016_39.jpg'
   img_alt_4: ''
 
 
