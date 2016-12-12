@@ -15,8 +15,7 @@
 
       /* Resets */
     .preHeader {
-      display: none !important;
-      color: #ffffff;
+      color: #000000;
       background-color: #ffffff;
     }
     
@@ -301,6 +300,13 @@
 		  font-size: 16pt;
 		  text-align: center;
 	  }
+	  
+	  .offer-financing {
+		  background-color: #6bcde6;
+	  }
+	  .viewOnline {
+		  text-decoration: underline;
+	  }
 
     </style>
 
@@ -469,13 +475,18 @@
       <% if f["type"]== "image" %>
             <tr class="<%= f["class"] %>">
               <td valign="top" align="center" class="<%= f["class"] %>">
-                <a href="<%= f["url"] %>">
+                <a href="<%= f["url"] %>" class="<%= f["class"] %>">
                   <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive <%= f["class"] %>">
                 </a>
               </td>
             </tr>
             <% end %>
       <% if f["type"]== "text" %>
+          <tr>
+            <td class="cell-height" height="10">
+              <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
+            </td>
+          </tr>
             <tr class="<%= f["class"] %>">
               <td valign="middle" align="center" class="<%= f["class"] %>">
                 <%= f["text"] %>
@@ -488,13 +499,13 @@
           <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container <%= f["class"] %>" align="center">
             <tr class="<%= f["class"] %>">
               <td class="<%= f["class"] %>">
-                      <a href="<%= f["url"] %>">
+                      <a href="<%= f["url"] %>" class="<%= f["class"] %>">
                         <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive <%= f["class"] %>">
                       </a>
 
               </td>
               <td class="<%= f["class"] %>">
-                      <a href="<%= f["url_2"] %>">
+                      <a href="<%= f["url_2"] %>" class="<%= f["class"] %>">
                         <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive <%= f["class"] %>">
                       </a>
               </td>
@@ -503,55 +514,40 @@
               </td>
             </tr>
             <% end %>
+      <% if f["type"]== "image-4-columns" %>
+            <tr class="<%= f["class"] %>">
+              <td valign="top" align="center" class="<%= f["class"] %>">
+		          <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container <%= f["class"] %>" align="center">
+		            <tr class="<%= f["class"] %>">
+		              <td class="<%= f["class"] %>">
+		                      <a href="<%= f["url"] %>" class="<%= f["class"] %>">
+		                        <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive <%= f["class"] %>">
+		                      </a>
 
+		              </td>
+		              <td class="<%= f["class"] %>">
+		                      <a href="<%= f["url_2"] %>" class="<%= f["class"] %>">
+		                        <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive <%= f["class"] %>">
+		                      </a>
+		              </td>
+		              <td class="<%= f["class"] %>">
+		                      <a href="<%= f["url_3"] %>" class="<%= f["class"] %>">
+		                        <img src="<%= f["img_3"] %>" alt="<%= f["img_alt_3"] %>" title="<%= f["img_alt_3"] %>" class="responsive <%= f["class"] %>">
+		                      </a>
+
+		              </td>
+		              <td class="<%= f["class"] %>">
+		                      <a href="<%= f["url_4"] %>" class="<%= f["class"] %>">
+		                        <img src="<%= f["img_4"] %>" alt="<%= f["img_alt_4"] %>" title="<%= f["img_alt_4"] %>" class="responsive <%= f["class"] %>">
+		                      </a>
+		              </td>
+		            </tr>
+		          </table>
+              </td>
+            </tr>
             <% end %>
 
-            <!-- Call out -->
-      <% if @base_callout_img_url!='' %>
-              <tr>
-                <td height="10" class="cell-height">
-                  <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
-                </td>
-              </tr>
-            <tr>
-              <td valign="top" class="callout">
-                <a href="<%=@base_callout_img_link%>">
-                  <img src="<%=@base_callout_img_url%>" alt="<%=@base_callout_img_alt%>" title="<%=@base_callout_img_alt%>" class="responsive">
-                </a>
-              </td>
-            </tr>
-            <tr>
-              <td class="cell-height" height="5">
-                <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
-              </td>
-            </tr>
-      <% end %>
-
-          <!-- Footer nav -->
-          <tr bgcolor="#000000" class="go-away">
-            <td class="cell-height" height="5" bgcolor="#000000" class="go-away">
-              <img src="<%=@base_spacer_img_url%>" alt="" height="5" width="1" class="go-away">
-            </td>
-          </tr>
-          <tr bgcolor="#000000">
-            <td valign="top" align="center" class="footer-nav" bgcolor="#000000">
-              <% @base_data_file.footernav.each do |f| %><a class="footer-nav-link" href="<%= f["link"] %>" title="<%= f["text"] %>">
-                  <%= f["text"] %>
-                  </a><span class="white">&nbsp;<%= f["sep"] %>&nbsp;</span>
-              <% end %>
-            </td>
-          </tr>
-          <tr bgcolor="#000000" class="go-away">
-            <td class="cell-height" height="5" bgcolor="#000000" class="go-away">
-              <img src="<%=@base_spacer_img_url%>" alt="" height="5" width="1" class="go-away">
-            </td>
-          </tr>
-
-          <tr>
-            <td class="cell-height" height="10">
-              <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
-            </td>
-          </tr>
+            <% end %>
 
           <!-- Social links -->
           <tr>
