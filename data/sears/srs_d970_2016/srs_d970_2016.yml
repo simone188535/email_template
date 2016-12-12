@@ -191,17 +191,33 @@ articles:
   img: "images/m_sts_d970_2016_15.jpg"
   img_alt: ""
   class: "hide-for-desktop"
-  
 
-socialnav:
-- img: "images/fb-link.jpg"
-  link: "https://www.facebook.com/duanereade"
-  alt: "Facebook"
-- img: "images/tw-link.jpg"
-  link: "https://twitter.com/DuaneReade"
-  alt: "Twitter"
-- img: "images/site-link.jpg"
-  link: "http://www.walgreens.com/storelocator/find.jsp?requestType=locator&oTrk=1"
-  alt: "Duane Reade"
+- type: "image"
+  url: "#"
+  img: "images/sts_d970_2016_15.jpg"
+  img_alt: "Social Icons"
+  class: "go-away"
+
+- type: 'image-4-columns'
+  class: "go-away"
+  url: ''
+  img: 'images/sts_d970_2016_16.jpg'
+  img_alt: ''
+  url_2: ''
+  img_2: 'images/sts_d970_2016_17.jpg'
+  img_alt_2: ''
+  url_3: ''
+  img_3: 'images/sts_d970_2016_18.jpg'
+  img_alt_3: ''
+  url_4: ''
+  img_4: 'images/sts_d970_2016_19.jpg'
+  img_alt_4: ''
+
+- type: "image"
+  url: "#"
+  img: "images/sts_d970_2016_15.jpg"
+  img_alt: "Social Icons"
+  class: "hide-for-desktop"
+
 
 spacer_img_url: 'images/spacer.gif'

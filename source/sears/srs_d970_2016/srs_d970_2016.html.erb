@@ -305,7 +305,7 @@
 		  background-color: #6bcde6;
 	  }
 	  .viewOnline {
-		  text-decoration: underline;
+		  text-decoration: underline !important;
 	  }
 
     </style>
@@ -483,7 +483,7 @@
             <% end %>
       <% if f["type"]== "text" %>
           <tr>
-            <td class="cell-height" height="10">
+            <td class="cell-height" height="20">
               <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
             </td>
           </tr>
@@ -492,6 +492,11 @@
                 <%= f["text"] %>
               </td>
             </tr>
+          <tr>
+            <td class="cell-height" height="10">
+              <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
+            </td>
+          </tr>
             <% end %>
       <% if f["type"]== "image-2-columns" %>
             <tr class="<%= f["class"] %>">
@@ -548,23 +553,6 @@
             <% end %>
 
             <% end %>
-
-          <!-- Social links -->
-          <tr>
-            <td valign="top" align="center" class="social-links">
-              <% @base_data_file.socialnav.each do |f| %>
-                <a href="<%= f["link"] %>">
-                  <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" class="responsive">
-                </a>
-              <% end %>
-            </td>
-          </tr>
-
-          <tr>
-            <td class="cell-height" height="5">
-              <img src="<%=@base_spacer_img_url%>" alt="" height="5" width="1">
-            </td>
-          </tr>
 
           <!-- Footer -->
           <tr>
