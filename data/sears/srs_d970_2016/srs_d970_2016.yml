@@ -58,6 +58,18 @@ articles:
   img_2: 'images/sts_d970_2016_06.jpg'
   img_alt_2: ''
 
+- type: "image"
+  url: ""
+  img: "images/sts_d970_2016_05.jpg"
+  img_alt: ""
+  class: "hide-for-desktop"
+
+- type: "image"
+  url: ""
+  img: "images/sts_d970_2016_06.jpg"
+  img_alt: ""
+  class: "hide-for-desktop"
+
 - type: 'image-2-columns'
   class: "go-away"
   url: ''
@@ -67,6 +79,18 @@ articles:
   img_2: 'images/sts_d970_2016_08.jpg'
   img_alt_2: ''
 
+- type: "image"
+  url: ""
+  img: "images/sts_d970_2016_07.jpg"
+  img_alt: ""
+  class: "hide-for-desktop"
+
+- type: "image"
+  url: ""
+  img: "images/sts_d970_2016_08.jpg"
+  img_alt: ""
+  class: "hide-for-desktop"
+
 - type: 'image-2-columns'
   class: "go-away"
   url: ''
@@ -75,6 +99,18 @@ articles:
   url_2: ''
   img_2: 'images/sts_d970_2016_10.jpg'
   img_alt_2: ''
+
+- type: "image"
+  url: ""
+  img: "images/sts_d970_2016_09.jpg"
+  img_alt: ""
+  class: "hide-for-desktop"
+
+- type: "image"
+  url: ""
+  img: "images/sts_d970_2016_10.jpg"
+  img_alt: ""
+  class: "hide-for-desktop"
 
 - type: "image"
   url: ""
@@ -91,6 +127,25 @@ articles:
   img: "images/sts_d970_2016_13.jpg"
   img_alt: ""
   class: "go-away"
+
+- type: "image"
+  url: ""
+  img: "images/m_sts_d970_2016_08.jpg"
+  img_alt: ""
+  class: "hide-for-desktop"
+- type: "image"
+  url: ""
+  img: "images/m_sts_d970_2016_09.jpg"
+  img_alt: ""
+  class: "hide-for-desktop"
+- type: "image"
+  url: ""
+  img: "images/m_sts_d970_2016_10.jpg"
+  img_alt: ""
+  class: "hide-for-desktop"
+
+
+
 
 - type: "text"
   text: "OFFERS END 00/00/00"
