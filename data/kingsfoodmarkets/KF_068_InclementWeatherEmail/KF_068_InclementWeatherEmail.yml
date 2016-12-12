@@ -1,0 +1,121 @@
+title: ''
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1122_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/80325c82-c72e-469f-a45b-5327d3715acd.jpg?ver=1481563905000"
+  img_alt: ""
+  url: ""
+
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8810311b-5127-4a47-870d-dd77665d8580.jpg?ver=1481563905000"
+  img_alt: " "
+  url: "http://kingsfoodmarkets.com"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/056ff3fd-8a86-42a3-adf8-4271a97a7d92.jpg?ver=1481563905000"
+  img_alt_2: ""
+  url_2: "http://kingsfoodmarkets.com"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/83772a1c-992a-4c63-bbf0-c05bcf0515f0.jpg?ver=1481563905000"
+  img_alt_3: ""
+  url_3: "http://kingsfoodmarkets.com"
+
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fd21c481-7e10-4ded-9be6-a08023ca3e7b.jpg?ver=1481563905000"
+  img_alt: ""
+  url: "http://kingsfoodmarkets.com"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b5cfa73c-1ac3-4080-ba0f-36d3cc255517.jpg?ver=1481563905000"
+  img_alt_2: ""
+  url_2: "http://kingsfoodmarkets.com"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/02e7b974-03a4-4373-a387-4be8f02651a9.jpg?ver=1481563905000"
+  img_alt_3: ""
+  url_3: "http://kingsfoodmarkets.com"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f4577d3d-430c-44e9-a21a-739d72a42c9d.jpg?ver=1481563906000"
+  img_alt: "CONNECT WITH US FOR LOCAL STORE INFORMATION"
+  url: "http://kingsfoodmarkets.com"
+
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/27577c2a-8290-4e4b-965a-b9bc8c37c343.jpg?ver=1481563906000"
+  img_alt: "Facebook"
+  url: "https://www.facebook.com/KingsFoodMarkets"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3179d5b5-98ad-4da8-968a-1d52610bf153.jpg?ver=1481563906000"
+  img_alt_2: "Twitter"
+  url_2: "https://twitter.com/KingsFoodMkts"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d2b06c37-6357-4f3c-a3eb-a26b66cc308b.jpg?ver=1481563906000"
+  img_alt_3: "FIND YOUR LOCAL STORE >"
+  url_3: "http://kingsfoodmarkets.com/store-locator"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f8b7d71a-8e4e-4813-a93b-6f63b1ea0dc2.jpg?ver=1481563907000"
+  img_alt: ""
+  url: ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
