@@ -1,0 +1,88 @@
+title: 'Expires soon'
+
+logo_img_url: "images/bbB_171_122416_eGiftCard_v1_r3_DEV_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+logo_img_width: "150"
+logo_img_height: "108"
+
+freeshipping_img_url: "images/bbB_171_122416_eGiftCard_v1_r3_DEV_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $75 View Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+freeshipping_img_width: "150"
+freeshipping_img_height: "108"
+
+instorepickup_img_url: "images/bbB_171_122416_eGiftCard_v1_r3_DEV_03.jpg"
+instorepickup_img_alt: "IN-STORE PICK UP RESERVE ONLINE PAY IN-STORE Learn More"
+instorepickup_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+instorepickup_img_width: "150"
+instorepickup_img_height: "108"
+
+babyreg_img_url: "images/bbB_171_122416_eGiftCard_v1_r3_DEV_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+babyreg_img_width: "150"
+babyreg_img_height: "108"
+
+nav1_url: "images/bbB_171_122416_eGiftCard_v1_r3_DEV_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/"
+nav1_width: "200"
+nav1_height: "62"
+
+nav2_url: "images/bbB_171_122416_eGiftCard_v1_r3_DEV_06.jpg"
+nav2_alt: "holiday &amp; gifts"
+nav2_link: "https://www.buybuybaby.com/store/category/gifts-more/gifts-for-kids/32740/"
+nav2_width: "200"
+nav2_height: "62"
+
+nav3_url: "images/bbB_171_122416_eGiftCard_v1_r3_DEV_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+nav3_width: "200"
+nav3_height: "62"
+
+preheader_text: 'Send an eGift card now'
+preheader_link: 'https://buybuybaby.cashstar.com/'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'images/bbB_171_122416_eGiftCard_v1_r3_DEV_08.jpg'
+  image_alt: 'eGift cards make gift giving easy Never a fee, never expires Delivery within minutes of purchase Chooce email send date (buy now, gift later) Redeemable in-store or online shop eGift cards now'
+  image_link: 'https://buybuybaby.cashstar.com/'
+  image_height: '502'
+  image_width: '600'
+
+
+socialnav:
+- link: ""
+  img: "images/bbB_171_122416_eGiftCard_v1_r3_DEV_09.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_171_122416_eGiftCard_v1_r3_DEV_10.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_171_122416_eGiftCard_v1_r3_DEV_11.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_171_122416_eGiftCard_v1_r3_DEV_12.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_171_122416_eGiftCard_v1_r3_DEV_13.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_171_122416_eGiftCard_v1_r3_DEV_14.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_171_122416_eGiftCard_v1_r3_DEV_15.jpg"
+  alt: ""
+
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
