@@ -1,0 +1,119 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fd622682-ba88-4edf-b556-45fbf298e4e8.jpg?ver=1480433938000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1c1617a0-e63a-47dc-9a07-0f77863e288b.jpg?ver=1481900875000'
+  img_alt: 'Sending you and your family the warmest wishes this holiday season. Happy Holidays! Our stores will be open until 6PM on Saturday, Dec. 24.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/de2a4f67-e50f-4276-a858-28c21581fbf5.jpg?ver=1481900875000'
+  img_alt: 'Holiday Catering | Order In'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7ecef825-b0f8-418e-adb6-2434dc678152.jpg?ver=1481900876000'
+  img_alt: 'Relax, enjoy the holidays, and let our chefs handle the feast. It&#39;s not too late to choose your favorite dishes for your Chanukah, Christmas or New Year&#39;s Eve parties. We have a full menu of options perfect for any celebration. View Menus &#62;'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/chanukah?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b7939cb1-951a-4c3e-b694-01eb30af4dcf.jpg?ver=1481900877000'
+  img_alt: 'Traditional Beef Brisket Order Now &#62;'
+  url_2: 'http://www.balduccis.com/catering/christmas?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5ee8f029-5367-4159-acda-2c797d7b3d5e.jpg?ver=1481900877000'
+  img_alt_2: 'New! Stuffed Maple Acorn Squash Order Now &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/25e4c1ba-2d5c-4bbe-a771-a521f968b30e.jpg?ver=1481900878000'
+  img_alt: 'Gourmet Gifts | For the Holiday'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/deb85d1c-cc53-4e7b-a0ea-a886d3b3fed2.jpg?ver=1481900878000'
+  img_alt: 'The holiday season is all about gift giving, and Balducci&#39;s offers a variety of tasty gift ideas. From savory to sweet, there&#39;s something for everyone on your list. Can&#39;t decide? A Balducci&#39;s gift card is always the perfect fit!'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6e70bd42-d820-46c6-afe3-1faa07bf7a4c.jpg?ver=1481900878000'
+  img_alt: 'Balducci&#39;s Cupboard Gift Basket & Balducci&#39;s Gift Cards'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e74fc5ec-ef4f-479b-8d11-55f7044c869e.jpg?ver=1481900879000'
+  img_alt_2: 'Balducci&#39;s Cupboard Gift Basket & Balducci&#39;s Gift Cards'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d372fb64-e3ef-4493-bb15-b67d54b53f77.jpg?ver=1481900879000'
+  img_alt: 'Balducci&#39;s Panettone'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ac1e124d-a74e-4ca8-aac4-83cbbbac1bd5.jpg?ver=1481900880000'
+  img_alt: 'Balducci&#39;s Cookie Tray'
+
+- type: 'image'  
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1e9abbc-9687-4dd5-928e-f2551b0c0a37.jpg?ver=1481900880000'
+  img_alt: 'Long Grove Peppermint Bark'
+
+- type: 'image'
+  url: ''
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a95bee03-33c4-489d-8370-f5a3aab4d006.jpg?ver=1481900881000'
+  img_alt: 'Member Exclusive | Premium Meats'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/530bcb7e-9ba2-4231-a8f1-6334fe6a2c42.jpg?ver=1481900881000'
+  img_alt: 'USDA Choice Natural Beef Brisket First Cut Member Exclusive $2 OFF/LB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c966d3b8-8220-47e6-be0a-c339ac17f9b4.jpg?ver=1481900882000'
+  img_alt: 'Balducci&#39;s Seasoned Chicken Boneless, Rolled Member Exclusive $1 OFF/LB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/newyears?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cc0cb650-e726-436b-a1e3-79836783a552.jpg?ver=1481900882000'
+  img_alt: 'What&#39;s New In-Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/newyears?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f6f941fe-d2d5-4d8e-af83-f86f7b53654d.jpg?ver=1481900882000'
+  img_alt: 'New Year&#39;s Eve Catering Let our chefs help you welcome 2017 in gourmet style. Order your New Year&#39;s Eve feast today, and let&#39;s get ready to party. Order Now &#62;'
