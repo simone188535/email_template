@@ -1,0 +1,101 @@
+title: ''
+
+pre_header_text: 'Christmas Tree Shops®'
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com'
+header_logo_img: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_01.jpg"
+header_logo_alt: "Christmas Tree Shops&#174;"
+header_logo_height: "65"
+header_logo_width: "600"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+header_arrivals_img: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_02.jpg"
+header_arrivals_alt: "New Arrivals"
+header_arrivals_height: "29"
+header_arrivals_width: "154"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+header_seasonal_img: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_03.jpg"
+header_seasonal_alt: "Seasonal"
+header_seasonal_height: "29"
+header_seasonal_width: "130"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+header_furniture_img: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_04.jpg"
+header_furniture_alt: "Furniture"
+header_furniture_height: "29"
+header_furniture_width: "91"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?mobile=off'
+header_outdoor_img: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_05.jpg"
+header_outdoor_alt: "Outdoor"
+header_outdoor_height: "29"
+header_outdoor_width: "85"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?skipmobile=true'
+header_clearance_img: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_06.jpg"
+header_clearance_alt: "Clearance"
+header_clearance_height: "29"
+header_clearance_width: "140"
+
+
+socialnav:
+- img: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_10.jpg"
+  alt: " "
+  link: ""
+  width: '144'
+  height: '67'
+
+- img: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_11.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops'
+  width: '52'
+  height: '67'
+
+- img: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_12.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat'
+  width: '40'
+  height: '67'
+
+- img: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_13.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops'
+  width: '46'
+  height: '67'
+
+- img: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_14.jpg"
+  alt: "Find a Store"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do'
+  width: '160'
+  height: '67'
+
+- img: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_15.jpg"
+  alt: " "
+  link: ""
+  width: '158'
+  height: '67'
+
+# Loop through articles
+articles:
+
+  - type: "image"
+    img: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_07.jpg"
+    img_alt: 'December 20-24, 2016 In-Store & Online! While Supplies Last! 49.99 each REG. 59.99 Victor Allen&#39;s Coffee® 200CT Single Serve Brew Cups 200 count!'
+    url: 'http://www.christmastreeshops.com/product/200countcoffeepods.do'
+    width: '600'
+    height: '619'
+
+  - type: "image-2-columns"
+    img: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_08.jpg"
+    img_alt: 'In-store & online! $10 off Any Purchase of $50 or More See coupon for details Click Here for Coupon valid through December 24, 2016 use online promo code: CTSHOLIDAYS4 shop now!'
+    url: '#'
+    width: '361'
+    height: '374'
+    img_2: "images/CTS_048_122016_Ecomm_VA_Coffee_v3_DEV_09.jpg"
+    img_alt_2: 'Ship It Fast & Save! 2nd Day Shipping for the Price of Ground! No Code Needed. Select 2nd Day Shipping at checkout. Order by noon EST Dec 21 for Christmas Delivery. See Website for Details. Shop Now'
+    url_2: 'http://www.christmastreeshops.com'
+    width_2: '239'
+    height_2: '374'
