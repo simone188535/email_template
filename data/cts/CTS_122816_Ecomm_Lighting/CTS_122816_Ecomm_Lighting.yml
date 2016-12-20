@@ -1,0 +1,128 @@
+title: 'Bargains to Brighten Your Day! + Free Shipping Online Only!'
+
+pre_header_text: ''
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com'
+header_logo_img: "images/CTS_122816_Ecomm_Lighting_01.jpg"
+header_logo_alt: "Christmas Tree Shops®"
+header_logo_height: "29"
+header_logo_width: "155"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+header_arrivals_img: "images/CTS_122816_Ecomm_Lighting_02.jpg"
+header_arrivals_alt: "New Arrivals"
+header_arrivals_height: "29"
+header_arrivals_width: "152"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+header_seasonal_img: "images/CTS_122816_Ecomm_Lighting_03.jpg"
+header_seasonal_alt: "Seasonal"
+header_seasonal_height: "29"
+header_seasonal_width: "128"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+header_furniture_img: "images/CTS_122816_Ecomm_Lighting_04.jpg"
+header_furniture_alt: "Furniture"
+header_furniture_height: "29"
+header_furniture_width: "90"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?mobile=off'
+header_outdoor_img: "images/CTS_122816_Ecomm_Lighting_05.jpg"
+header_outdoor_alt: "Outdoor"
+header_outdoor_height: "29"
+header_outdoor_width: "87"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?skipmobile=true'
+header_clearance_img: "images/CTS_122816_Ecomm_Lighting_06.jpg"
+header_clearance_alt: "Clearance"
+header_clearance_height: "29"
+header_clearance_width: "140"
+
+
+socialnav:
+- img: "images/CTS_122816_Ecomm_Lighting_13.jpg"
+  alt: ""
+  link: "#"
+  width: '131'
+  height: '67'
+
+- img: "images/CTS_122816_Ecomm_Lighting_14.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops'
+  width: '64'
+  height: '67'
+
+- img: "images/CTS_122816_Ecomm_Lighting_15.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat'
+  width: '42'
+  height: '67'
+
+- img: "images/CTS_122816_Ecomm_Lighting_16.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops'
+  width: '42'
+  height: '67'
+
+- img: "images/CTS_122816_Ecomm_Lighting_17.jpg"
+  alt: "Find a store near you"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do'
+  width: '193'
+  height: '67'
+
+- img: "images/CTS_122816_Ecomm_Lighting_18.jpg"
+  alt: ""
+  link: '#'
+  width: '128'
+  height: '67'
+
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/CTS_122816_Ecomm_Lighting_07.jpg"
+    img_alt: 'Free Shipping Sitewide Online Only! Today Only! On All Orders of $65 or More! Use Code at Checkout: CTSFSYE2016 Expires 12/28/16. See website for complete details.'
+    url: 'http://www.christmastreeshops.com'
+    width: '600'
+    height: '195'
+
+  - type: "image"
+    img: "images/CTS_122816_Ecomm_Lighting_08.jpg"
+    img_alt: 'December 28, 2016 Online Only! While Supplies Last! 39.99 each Antiqued Glass Lamps Shop Now'
+    url: 'http://www.christmastreeshops.com/product/antiqued-glass-lamps.do'
+    width: '600'
+    height: '649'
+
+  - type: "image-4-columns"
+    img: "images/CTS_122816_Ecomm_Lighting_09.jpg"
+    img_alt: 'New Arrivals'
+    url: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+    width: '150'
+    height: '93'
+    img_2: "images/CTS_122816_Ecomm_Lighting_10.jpg"
+    img_alt_2: 'Curtains & Rugs'
+    url_2: 'http://www.christmastreeshops.com/category/windows-rugs.do?mobile=off'
+    width_2: '150'
+    height_2: '93'
+    img_3: "images/CTS_122816_Ecomm_Lighting_11.jpg"
+    img_alt_3: 'Home & Décor'
+    url_3: 'http://www.christmastreeshops.com/category/home-decorating.do?mobile=off'
+    width_3: '150'
+    height_3: '93'
+    img_4: "images/CTS_122816_Ecomm_Lighting_12.jpg"
+    img_alt_4: 'Furniture'
+    url_4: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+    width_4: '150'
+    height_4: '93'
+
+
+
+
+
+
+
+
+
+
