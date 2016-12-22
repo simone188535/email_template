@@ -1,0 +1,134 @@
+title: 'Cheers & Cheese for 2017!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2f40c64d-341e-403b-b26d-974e328053c3.jpg?ver=1482383059000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://vimeo.com/185683936'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8d5f6d39-de30-49fa-b2da-4f443ab59536.jpg?ver=1482383060000'
+  img_alt: 'Wishing you and yours a Happy New Year! May each day of 2017 be filled with happiness and fabulous food. Create the Perfect Cheeseboard Watch Video > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/362dd52d-addb-4e3b-b768-2a0f2c20c336.jpg?ver=1482383060000'
+  img_alt: 'Dynamic Duos | Gourmet Cheese & Wine'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0fb15245-c2b1-4fda-8076-ceb4bedc51e7.jpg?ver=1482383060000'
+  img_alt: 'Brie de Meaux + Balducci&#39;s Prosecco Made in the town of Meaux, just east of Paris, this nutty, garlicky, mushroomy cheese is widely considered the king of Bries.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2d830bc9-8f22-4711-81ce-c29396c5579d.jpg?ver=1482383060000'
+  img_alt: 'El Trigal Manchego Riserva + Balducci&#39;s Garnacha Our Manchego Reserve cheese is aged for 14 months. The extra aging creates a more concentrated flavor—smooth, rich and full bodied with a nice , lingering finish.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/38d158e6-f581-4ba3-844c-22a506ea76bb.jpg?ver=1482383061000'
+  img_alt: 'Ubriaco del Piave + Balducci&#39;s Chianti Created by farmers in the Piave region of Veneto, Italy, the rind of this exceptional cow&#39;s milk cheese is washed in local wine, making it a natural to pair with a great chianti.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/newyears?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1c0285a8-0427-4d12-83e4-e6cc0ae947c3.jpg?ver=1482383060000'
+  img_alt: 'Catering | New Year&#39;s Eve Eats'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/newyears?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/35b0dec8-0f20-48b6-8a75-0f717c590914.jpg?ver=1482383061000'
+  img_alt: 'Let our chefs help you ring in 2017 in gourmet style. Order your New Year&#39;s Eve feast today and let&#39;s get ready to party! View Menu > '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/newyears?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7df685e1-e628-4020-bca4-393f3662ad12.jpg?ver=1482383061000'
+  img_alt: 'Chicken Wellington Puffs Order Now >'
+  url_2: 'http://www.balduccis.com/catering/newyears?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/42fbf109-a0ae-42cb-8f1d-b0833ae13244.jpg?ver=1482383061000'
+  img_alt_2: 'Special Sushi Platter Order Now >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1b915ce5-09d4-4992-a652-c6562ed022f2.jpg?ver=1482383061000'
+  img_alt: 'NYE Entertaining | Our Top Picks'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/78ba7be9-9d7b-4599-85c1-6f9f464a22cf.jpg?ver=1482383062000'
+  img_alt: 'Maison de la Truffe Rich, creamy Brie layered with a mixture of fresh black truffles and mascarpone. Pair with: Tendil + Lombardi Brut Champagne'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ddb509de-be53-4bf0-9689-ce6709f269aa.jpg?ver=1482383062000'
+  img_alt: 'Phillips Shrimp Toast with Water Chestnuts'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bdc0c9d6-18c9-4657-adf3-4b8fa2644655.jpg?ver=1482383062000'
+  img_alt_2: 'Balducci&#39;s Osetra Caviar'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ceb98806-0896-42ad-89a8-772efc7145b7.jpg?ver=1482383062000'
+  img_alt: 'New! Morris Kitchen Cocktail Mixers Use these terrific mixers to create unique sodas, or add liquor and citrus for a creative cocktail.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a3bdd53-e801-4021-b7c5-5d799bff9d22.jpg?ver=1482383063000'
+  img_alt: 'Thank You | 100 Years of Serving You'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/68b30dd5-cb95-4442-b40f-96955da1e5a2.jpg?ver=1482383063000'
+  img_alt: 'Thank you for letting us serve you and your family since 1916. We wish you a very Happy New Year and look forward to serving you in 2017!'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
