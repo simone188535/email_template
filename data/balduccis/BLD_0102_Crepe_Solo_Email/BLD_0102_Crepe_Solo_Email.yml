@@ -1,0 +1,51 @@
+title: 'Buy 1 Get 1 Free Crêpes!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0984ff9-8445-4e08-bca8-220f45be5821.jpg?ver=1467292845000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0102_BLD_Crepe_Solo_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3680561c-8693-4c02-8444-1fe2db096f04.jpg?ver=1482701552000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fccae28d-e125-4215-bb04-2a3276e2a597.jpg?ver=1482701551000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8a5c8dd3-b1e7-48ba-8059-4a4d90956420.jpg?ver=1482701552000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0102_BLD_Crepe_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a85ecda7-fd38-4695-8956-1378695d5e9d.jpg?ver=1482703801000'
+  img_alt: "myBALDUCCI&#39;S"
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0102_BLD_Crepe_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bbf7dbd3-a8c4-4fb3-9506-8cb45eafb48a.jpg?ver=1482703801000'
+  img_alt: "GOURMET REWARDS CLUB"
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0102_BLD_Crepe_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f39e828f-c101-4c2c-9f8a-39a9e17cc6f7.jpg?ver=1482701551000'
+  img_alt: "Buy 1 Get 1 Free! 12/30/16 - 1/19/17 Visit the crêpe station in the café and enjoy an extra treat on us! Only at Balducci&#39;s Westport"
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0102_BLD_Crepe_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/08815705-d167-4903-9929-05f597569989.jpg?ver=1482701552000'
+  img_alt: "Buy 1 Get 1 Free! 12/30/16 - 1/19/17 Visit the crêpe station in the café and enjoy an extra treat on us! Only at Balducci&#39;s Westport"
+
+
+
