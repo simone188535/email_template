@@ -1,0 +1,187 @@
+title: ""
+
+logo_img_url: "images/bbB_emailheader_FS99_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+logo_img_width: "172"
+logo_img_height: "128"
+
+freeshipping_img_url: "images/bbB_emailheader_FS99_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING on orders over $99 get details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+freeshipping_img_width: "123"
+freeshipping_img_height: "128"
+
+instore_img_url: "images/bbB_emailheader_FS99_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+instore_img_width: "155"
+instore_img_height: "128"
+
+babyreg_img_url: "images/bbB_emailheader_FS99_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+babyreg_img_width: "150"
+babyreg_img_height: "128"
+
+nav1_url: "images/bbB_emailheader_FS99_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/"
+nav1_width: "215"
+nav1_height: "61"
+
+nav2_url: "images/bbB_emailheader_FS99_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "https://www.buybuybaby.com/store/selfservice/FindStore"
+nav2_width: "182"
+nav2_height: "61"
+
+nav3_url: "images/bbB_emailheader_FS99_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+nav3_width: "203"
+nav3_height: "61"
+
+preheader_text: 'Shop these great deals.'
+preheader_link: 'https://www.buybuybaby.com/store/category/clearance-savings/30010/'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: ''
+
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_02.jpg'
+  image_alt: 'clearance & closeouts While supplies last! Select styles. shop now '
+  image_link: 'https://www.buybuybaby.com/store/category/clearance-savings/30010/'
+  image_height: '260'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_03.jpg'
+  image_alt: 'Clearance Summer Infant® Baby Wave 2™ Deluxe Audio Monitor Was 49.99 NOW 36.99'
+  image_link: 'https://www.buybuybaby.com/store/product/summer-infant-reg-baby-wave-2-trade-deluxe-audio-monitor/1041507773'
+  image_height: '226'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_04.jpg'
+  image_alt: 'Clearance Fisher-Price® Deluxe SpaceSaver High Chair Was 59.99 NOW 54.99'
+  image_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-deluxe-spacesaver-high-chair/1040627830'
+  image_height: '231'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_05.jpg'
+  image_alt: 'Clearance NuRoo® Nursing Scarf Was 29.99 NOW 14.99'
+  image_link: 'https://www.buybuybaby.com/store/product/nuroo-reg-nursing-scarf-in-stone-grey/1060297532'
+  image_height: '230'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_06.jpg'
+  image_alt: 'Clearance P&#39;kolino® 2-in-1 Play Mat Castle Wad 39.99 NOW 29.99'
+  image_link: 'https://www.buybuybaby.com/store/product/p-39-kolino-reg-2-in-1-play-mat-castle/1044454722'
+  image_height: '232'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_07.jpg'
+  image_alt: 'Clearance Little Tikes™ Lil&#39; Ocean Explorers 3-in 1 Adventure Course Was 64.99 NOW 59.99'
+  image_link: 'https://an.staging.buybuybaby.com/store/product/little-tikes-trade-lil-39-ocean-explorers-3-in-1-adventure-course/1044330620'
+  image_height: '231'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_08.jpg'
+  image_alt: 'Clearance Kiddopotamus® Safari So Good Puppeteer Bouncer Was 69.99 NOW 49.99'
+  image_link: 'https://www.buybuybaby.com/store/product/kiddopotamus-reg-safari-so-good-puppeteer-bouncer/1044660574'
+  image_height: '233'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_09.jpg'
+  image_alt: 'Clearance Fisher-Price® Animal Friends Learning Table Was 39.99 NOW 29.99'
+  image_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-animal-friends-learning-table/1045407277'
+  image_height: '228'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_10.jpg'
+  image_alt: 'Clothing Clearance! Up to 50% off Select Under Armour® & adidas® Athletic Clothing '
+  image_link: 'https://www.buybuybaby.com/store/category/clearance-savings/clothing-accessories/32254/'
+  image_height: '232'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_11.jpg'
+  image_alt: 'Up to 50% off all fall PJ&#39;s! Choose from Burt&#39;s Bees Baby®, carter&#39;s®, Rosie Pope®, Disney®, & more!'
+  image_link: 'https://www.buybuybaby.com/store/category/clothing-accessories/sleepwear/32365/32365-4294965885-4294965789/1-48?pagSortOpt=DEFAULT-0&view=grid&refType=true&_requestid=3171703'
+  image_height: '232'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_12.jpg'
+  image_alt: 'Clearance Tommee Tippee® Closer to Nature® All-in-One Newborn Gift Set Was 99.99 NOW 49.99'
+  image_link: 'https://www.buybuybaby.com/store/product/tommee-tippee-reg-closer-to-nature-reg-all-in-one-newborn-gift-set/1060200471'
+  image_height: '229'
+  image_width: '600'
+
+
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_13.jpg'
+  image_alt: 'shop now'
+  image_link: 'https://www.buybuybaby.com/store/category/clearance-savings/30010/'
+  image_height: '67'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_14.jpg'
+  image_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous Unites States. '
+  image_link: 'http://www.buybuybaby.com/store/selfservice/FindStore?'
+  image_height: '78'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_15.jpg'
+  image_alt: 'take a peek at our…special buys & deals shop now'
+  image_link: 'https://www.buybuybaby.com/store/static/savingscenter '
+  image_height: '225'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_16.jpg'
+  image_alt: 'buybuy BABY® diapers great quality, great for your baby. shop now'
+  image_link: 'https://www.buybuybaby.com/store/category/bath-potty/diapers/32539/32539-4294965885-4294730265/1-48?pagSortOpt=DEFAULT-0&view=grid&refType=true&_requestid=2723111'
+  image_height: '229'
+  image_width: '600'
+
+socialnav:
+- link: "#"
+  img: "images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_17.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_18.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_19.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_20.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_21.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_22.jpg"
+  alt: "Instagram logo"
+- link: "#"
+  img: "images/bbB_176_011217_ClearanceNCloseouts_v1_r4_DEV_23.jpg"
+  alt: ""
+
+footer_ViewMap: ''
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_unsubscribehere: ''
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
