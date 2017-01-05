@@ -1,0 +1,223 @@
+title: ''
+
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+logo_img_width: "172"
+logo_img_height: "128"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+freeshipping_img_width: "123"
+freeshipping_img_height: "128"
+
+instorepickup_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instorepickup_img_alt: "IN-STORE PICK UP RESERVE ONLINE PAY IN-STORE Learn More"
+instorepickup_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+instorepickup_img_width: "155"
+instorepickup_img_height: "128"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+babyreg_img_width: "150"
+babyreg_img_height: "128"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/"
+nav1_width: "215"
+nav1_height: "61"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "https://www.buybuybaby.com/store/selfservice/FindStore"
+nav2_width: "182"
+nav2_height: "61"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+nav3_width: "203"
+nav3_height: "61"
+
+preheader_text: 'Shop diaper bags'
+preheader_link: 'https://www.buybuybaby.com/store/category/gear-travel/diaper-bags/30507/'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: ''
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_02.jpg'
+  image_alt: 'styles you&#39;ll love Find the perfect diaper bag for you. Sleek, stylish & functional…you can have it all. Chelsea Downtown Chic Diaper Backpack by SKIP*HOP® 99.99 FREE SHIPPING shop now'
+  image_link: 'https://www.buybuybaby.com/store/product/skip-hop-reg-chelsea-downtown-chic-diaper-backpack-in-black/1045741906'
+  image_height: '532'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_03.jpg'
+  image_alt: 'carry it all from day to night Super-functional, classic handbag with plenty of pockets for all your baby&#39;s essentials. Everything Tote Diaper Bag by The Honest Company® 169.99 Free Shipping'
+  image_link: 'https://www.buybuybaby.com/store/product/honest-everything-tote-diaper-bag-in-black/1044438043'
+  image_height: '376'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_04.jpg'
+  image_first_alt: 'Drop Front Tote Diaper Bag by carters® 49.99 FREE SHIPPING'
+  image_first_link: 'https://www.buybuybaby.com/store/product/carter-39-s-reg-drop-front-tote-diaper-bag-in-blue-and-white-ticking-stripe/1046137852'
+  image_first_height: '458'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_05.jpg'
+  image_second_alt: 'dad bag! Satchel Diaper Bagby Oioi® 199.99 FREE SHIPPING'
+  image_second_link: 'https://www.buybuybaby.com/store/product/oioi-reg-satchel-diaper-bag-in-chocolate/1046457936'
+  image_second_height: '458'
+  image_second_width: '300'
+
+- type: 'image'
+  image_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_06.jpg'
+  image_alt: 'diaper bag favs'
+  image_link: ''
+  image_height: '64'
+  image_width: '600'  
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_07.jpg'
+  image_first_alt: '30ct Unscented Wipes by Boogie Wipes®'
+  image_first_link: 'https://www.buybuybaby.com/store/product/boogie-wipes-reg-3-pack-30-count-saline-wipes-in-unscented/1020237363'
+  image_first_height: '276'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_08.jpg'
+  image_second_alt: 'Pronto Changing Station by SKIP-HOP®'
+  image_second_link: 'https://www.buybuybaby.com/store/product/skip-hop-reg-pronto-changing-station-in-heather-grey/1046016997'
+  image_second_height: '276'
+  image_second_width: '300'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_09.jpg'
+  image_first_alt: 'Medium Wet Bag by Planet Wise™ Additional patterns available'
+  image_first_link: 'https://www.buybuybaby.com/store/product/planet-wise-wet-bag-in-grey-chevron/3261182'
+  image_first_height: '348'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_10.jpg'
+  image_second_alt: 'Just Bath 4-Pack Under the Sea Washclothes by Just Born™'
+  image_second_link: 'https://www.buybuybaby.com/store/product/just-bath-by-just-born-8482-4-pack-under-the-sea-washcloths-in-sea-glass/1044660451'
+  image_second_height: '348'
+  image_second_width: '300'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_11.jpg'
+  image_first_alt: '2.5 oz. Diaper Cream by The Honest Company®'
+  image_first_link: 'https://www.buybuybaby.com/store/product/honest-2-5-oz-diaper-cream/1020232436'
+  image_first_height: '276'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_12.jpg'
+  image_second_alt: 'Giraffe Pacifier by WubbaNub™ Additional animals available'
+  image_second_link: 'https://www.buybuybaby.com/store/product/wubbanub-trade-giraffe-pacifier/1041229712'
+  image_second_height: '276'
+  image_second_width: '300'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_13.jpg'
+  image_first_alt: 'Flippy Snack Cup with Travel Cover by OXO Tot™ Additional colors available'
+  image_first_link: 'https://www.buybuybaby.com/store/product/oxo-tot-reg-flippy-snack-cup-with-travel-cover/130628'
+  image_first_height: '289'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_14.jpg'
+  image_second_alt: '2-Pack Roll Up Bibs by OXO Tot® Additional colors available'
+  image_second_link: 'https://www.buybuybaby.com/store/product/oxo-tot-reg-2-pack-roll-up-bibs-in-aqua-green/1046462411'
+  image_second_height: '289'
+  image_second_width: '300'
+
+- type: 'image'
+  image_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_15.jpg'
+  image_alt: "You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous Unites States."
+  image_link: 'http://www.buybuybaby.com/store/selfservice/FindStore?'
+  image_height: '89'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_16.jpg'
+  image_first_alt: 'savings center'
+  image_first_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+  image_first_height: '63'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_17.jpg'
+  image_second_alt: 'car seats'
+  image_second_link: 'https://www.buybuybaby.com/store/category/car-seats/32592/'
+  image_second_height: '63'
+  image_second_width: '300'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_18.jpg'
+  image_first_alt: 'gifts & more'
+  image_first_link: 'https://www.buybuybaby.com/store/category/gifts-more/32641/'
+  image_first_height: '51'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_19.jpg'
+  image_second_alt: 'bath & potty'
+  image_second_link: 'https://www.buybuybaby.com/store/category/bath-potty/30003/'
+  image_second_height: '51'
+  image_second_width: '300'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_20.jpg'
+  image_first_alt: 'strollers'
+  image_first_link: 'https://www.buybuybaby.com/store/category/strollers/32571/'
+  image_first_height: '62'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_21.jpg'
+  image_second_alt: 'diaper bags'
+  image_second_link: 'https://www.buybuybaby.com/store/category/gear-travel/diaper-bags/30507/'
+  image_second_height: '62'
+  image_second_width: '300'
+
+- type: 'image'
+  image_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_22.jpg'
+  image_alt: "buybuy BABY® diapers great quality, great for your baby. shop now"
+  image_link: 'https://www.buybuybaby.com/store/category/bath-potty/diapers/32539/32539-4294965885-4294730265/1-48?pagSortOpt=DEFAULT-0&view=grid&refType=true&_requestid=2723111'
+  image_height: '224'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_23.jpg'
+  image_first_alt: 'take a peek at our…special buys & deals shop now'
+  image_first_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+  image_first_height: '319'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_24.jpg'
+  image_second_alt: 'registry favorites'
+  image_second_link: 'http://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/32689/'
+  image_second_height: '319'
+  image_second_width: '300'
+
+socialnav:
+- link: ""
+  img: "images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_25.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_26.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_27.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_28.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_29.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_30.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_176_010317_GenericDiaperBags_v1_r4_DEV_31.jpg"
+  alt: ""
+
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
