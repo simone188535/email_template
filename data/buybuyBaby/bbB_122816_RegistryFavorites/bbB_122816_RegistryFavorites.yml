@@ -1,0 +1,168 @@
+title: ''
+
+logo_img_url: "images/bbB_122816_RegistryFavorites_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+logo_img_width: "172"
+logo_img_height: "117"
+
+freeshipping_img_url: "images/bbB_122816_RegistryFavorites_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $75 View Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+freeshipping_img_width: "120"
+freeshipping_img_height: "117"
+
+instorepickup_img_url: "images/bbB_122816_RegistryFavorites_03.jpg"
+instorepickup_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instorepickup_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+instorepickup_img_width: "164"
+instorepickup_img_height: "117"
+
+babyreg_img_url: "images/bbB_122816_RegistryFavorites_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+babyreg_img_width: "144"
+babyreg_img_height: "117"
+
+nav1_url: "images/bbB_122816_RegistryFavorites_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/"
+nav1_width: "217"
+nav1_height: "61"
+
+nav2_url: "images/bbB_122816_RegistryFavorites_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+nav2_width: "179"
+nav2_height: "61"
+
+nav3_url: "images/bbB_122816_RegistryFavorites_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+nav3_width: "204"
+nav3_height: "61"
+
+preheader_text: 'Shop Our Registry Favorites'
+preheader_link: 'http://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/32689/'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_122816_RegistryFavorites_08.jpg'
+  image_first_alt: "health & safety"
+  image_first_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/health-safety/32697/'
+  image_height: '254'
+  image_first_width: '388'
+  image_second_url: 'images/bbB_122816_RegistryFavorites_09.jpg'
+  image_second_alt: "car seats"
+  image_second_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/car-seats/32691/'
+  image_second_height: '254'
+  image_second_width: '212'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_122816_RegistryFavorites_10.jpg'
+  image_first_alt: "registry favorites Baby gear that moms & dads love. shop now"
+  image_first_link: 'https://www.buybuybaby.com/store/category/baby-registry-favorites/32689/'
+  image_height: '249'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_122816_RegistryFavorites_11.jpg'
+  image_second_alt: "strollers"
+  image_second_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/strollers/32690/'
+  image_second_height: '249'
+  image_second_width: '300'
+
+- type: 'images-3-columns'
+  image_first_url: 'images/bbB_122816_RegistryFavorites_12.jpg'
+  image_first_alt: 'gear & travel'
+  image_first_link: 'ttps://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/gear-travel/32692/'
+  image_first_height: '204'
+  image_first_width: '172'
+  image_second_url: 'images/bbB_122816_RegistryFavorites_13.jpg'
+  image_second_alt: 'bath & potty'
+  image_second_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/bath-potty/32696/'
+  image_second_height: '204'
+  image_second_width: '211'
+  image_third_url: 'images/bbB_122816_RegistryFavorites_14.jpg'
+  image_third_alt: 'bedding & décor'
+  image_third_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/bedding-decor/32694/'
+  image_third_height: '204'
+  image_third_width: '217'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_122816_RegistryFavorites_15.jpg'
+  image_first_alt: "furniture"
+  image_first_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/furniture/32693/'
+  image_height: '273'
+  image_first_width: '305'
+  image_second_url: 'images/bbB_122816_RegistryFavorites_16.jpg'
+  image_second_alt: "nursing & feeding"
+  image_second_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/nursing-feeding/32695/'
+  image_second_height: '273'
+  image_second_width: '295'  
+
+- type: 'image'
+  image_url: 'images/bbB_122816_RegistryFavorites_17.jpg'
+  image_alt: "shop registry favorites"
+  image_link: 'https://www.buybuybaby.com/store/category/baby-registry-favorites/32689/'
+  image_height: '61'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_122816_RegistryFavorites_18.jpg'
+  image_alt: "You can purhcase any of these items at buybuy.com, order in any of our stores or use our find in-store option for easy pickup. Prices valid only in contiguous Unites States."
+  image_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  image_height: '74'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_122816_RegistryFavorites_19.jpg'
+  image_alt: "take a peek at our…special buys & deals shop now"
+  image_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+  image_height: '226'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_122816_RegistryFavorites_20.jpg'
+  image_alt: "add a personal touch start personalizing "
+  image_link: 'http://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/32754/'
+  image_height: '215'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_122816_RegistryFavorites_21.jpg'
+  image_alt: "SMART INNOVATION shop now"
+  image_link: 'https://www.buybuybaby.com/store/category/gifts-more/smart-innovations/32701/'
+  image_height: '226'
+  image_width: '600'    
+
+socialnav:
+- link: ""
+  img: "images/bbB_122816_RegistryFavorites_22.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_122816_RegistryFavorites_23.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_122816_RegistryFavorites_24.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_122816_RegistryFavorites_25.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_122816_RegistryFavorites_26.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_122816_RegistryFavorites_27.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_122816_RegistryFavorites_28.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
