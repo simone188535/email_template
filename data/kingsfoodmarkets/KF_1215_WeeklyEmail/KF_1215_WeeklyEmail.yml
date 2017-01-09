@@ -1,0 +1,188 @@
+title: ''
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ecc3ce3-c19a-4dda-9147-28f45ff48508.jpg?ver=1481664095000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a1e0df33-7f76-4ebb-849b-4cef8e9a84dd.jpg?ver=1481664095000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5d035714-58a2-4fef-85bc-c099298a6b34.jpg?ver=1481664095000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4168b705-7abd-4f10-812a-7eda471d6cd1.jpg?ver=1481664095000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0934470e-3527-4d67-97af-a59c6f374c99.jpg?ver=1481664087000"
+  img_alt: "Holiday Season Inspiration Bring joy and warm hearts with gourmet gifts, festive recipes and more. "
+  url: "https://www.youtube.com/user/KingsFoodMarkets/videos"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fb07b8aa-c494-40a2-b03a-d39cbb281ac7.jpg?ver=1481664087000"
+  img_alt: "Gift Idea Homemade Peppermint Marshmallows Watch Video &#62; "
+  url: "https://www.youtube.com/user/KingsFoodMarkets/videos"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5438228b-3960-4bf8-8d2f-8bc1a5039996.jpg?ver=1481664087000"
+  img_alt: "Gourmet Gifts | For Your Host"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d412108f-386c-4d5d-9877-ce5f4a27e707.jpg?ver=1481664087000"
+  img_alt: "Make the season bright with gourmet gifts for your friends and family. Choose from a variety of options including…"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6e1e4a82-47ac-463d-9bf2-b423727d843c.jpg?ver=1481664088000"
+  img_alt: "Vincente Panettone Sicilian Almond Glazed "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1b463245-57a2-4aee-8a6f-30b0505f52a9.jpg?ver=1481664088000"
+  img_alt: "Pierre French Butter Cookie Tin "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c6d76144-9587-410b-b967-aa2be9cb2234.jpg?ver=1481664088000"
+  img_alt: "Sugarfina Cheers! 3 Piece Bento Box "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2dafb999-d602-4874-a3eb-f3ab74e91fac.jpg?ver=1481664088000"
+  img_alt: "Kings Cooking Studio Gift Certificate "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71d2e5a8-cbb9-4193-a70c-b05b258d115d.jpg?ver=1481664089000"
+  img_alt: "Kings Gift Cards and more! "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"  
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e35069b1-1642-4f2c-a8f0-428d075feec2.jpg?ver=1481664089000"
+  img_alt: "View More &#62;"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9dded701-ff23-41c8-9323-82150c3a9946.jpg?ver=1481664089000"
+  img_alt: "Go D.I.Y | Easy Gift Idea "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9dbb8f1a-4c92-448e-8e7b-42f34eb71ece.jpg?ver=1481664089000"
+  img_alt: "Create a sugar body scrub for an easy and thoughtful gift. • Mix together 4 parts KINGS sugar to 1 part KINGS olive oil. • Add in a few drops of your favorite essential oil. • Store in an airtight container. "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/59a1fa9f-92ff-4135-8a64-5522619a87ee.jpg?ver=1481664089000"
+  img_alt: "Market Special | Fresh Seafood "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/59b70dee-7150-45f2-9e2d-b780034283ca.jpg?ver=1481664090000"
+  img_alt: "Wild Caught King Sized Nicaraguan Lobster Tail 12 OZ. 23.99 EA. "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de48e232-e40d-4a87-aa53-9325029d3933.jpg?ver=1481664090000"
+  img_alt_2: "Wild Caught Extra Jumbo White Mexican Raw Shrimp 18.99 LB. "
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/853a47e4-3b38-4f3f-86c2-a7a76cb34ae5.jpg?ver=1481664090000"
+  img_alt: "View Weekly Specials "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec9bdc2c-e8b5-405f-8c92-467c1527f408.jpg?ver=1481664090000"
+  img_alt: "Buon Natale | Feast of the 7 Fishes "
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4973a999-190f-4fda-a8dd-a5e80e3dc5d4.jpg?ver=1481664091000"
+  img_alt: "Roasted Lobster with Mint-Basil Pesto View Recipe "
+  url: "http://kingsfoodmarkets.com/unique-recipes/roasted-lobster-with-mint-basil-pesto?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1eb0d219-3a4e-45c1-b995-ae7e1c1da1ea.jpg?ver=1481664091000"
+  img_alt_2: "Kings Own Cioppino Style Fish Stew View Recipe "
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/kings-own-cioppino-style-fish-stew?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"  
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/070ddfdb-a5ff-450e-8614-ae31566d63d9.jpg?ver=1481664091000"
+  img_alt: "Tips & Tricks | Prime Roast Perfection "
+  url: "http://kingsfoodmarkets.com/unique-recipes/classic-prime-rib?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4044efb8-2449-4090-9486-4389c6c6f9f6.jpg?ver=1481664092000"
+  img_alt: "Tips & Tricks to Make the Perfect Rib Roast Learn what size roast fits your feast, how to prep and cook, plus tips on the perfect wine pairings and side sauces. "
+  url: "http://kingsfoodmarkets.com/unique-recipes/classic-prime-rib?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2cae0eea-6a87-410f-97f9-303fa175cc2c.jpg?ver=1481664092000"
+  img_alt: "Learn More &#62;"
+  url: "http://kingsfoodmarkets.com/unique-recipes/classic-prime-rib?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b71e799c-e065-4ee0-be71-8f14d3a78c25.jpg?ver=1481664093000"
+  img_alt: "Holiday Catering | Ready-To-Go or Catered "
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b13f92bd-017a-4101-bd76-e44f13e1b33b.jpg?ver=1481664093000"
+  img_alt: "Let Kings catering handle all of the food for your Christmas or Chanukah dinner celebration. Select your favorite dishes for a family feast or just choose desserts and sides. Mix and match, however you like for a merry celebration. "
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2d62f229-5001-41e7-b1d6-a1aa1fa2ed6b.jpg?ver=1481664093000"
+  img_alt: "View Menus &#62;"
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/43b9fbad-7f6e-4b6c-92fb-f92307685451.jpg?ver=1481664093000"
+  img_alt: "What's New In Store"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b05efd58-d6ca-4bf4-b54f-bf15b555a4cb.jpg?ver=1481664094000"
+  img_alt: "Marky&#39;s Caviar Complete your holiday feast with award-winning sustainable caviar from the world's best fisheries and aquafarms. "
+  url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5b4d8af5-c1f9-4542-93a8-d381acde0476.jpg?ver=1481664094000"
+  img_alt_2: "Marky&#39;s Caviar Complete your holiday feast with award-winning sustainable caviar from the world's best fisheries and aquafarms. "
+  url_2: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"  
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9b7e5e62-e095-4b49-af8e-3c26516aa2e3.jpg?ver=1481664094000"
+  img_alt: "Holiday Hours We are open until 6 PM Christmas Eve/Chanukah. Find a Store &#62; "
+  url: "http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e57e2453-ed49-447d-9175-ae965e4d9422.jpg?ver=1481664095000"
+  img_alt_2: "Holiday Hours We are open until 6 PM Christmas Eve/Chanukah. Find a Store &#62; "
+  url_2: "http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail"
