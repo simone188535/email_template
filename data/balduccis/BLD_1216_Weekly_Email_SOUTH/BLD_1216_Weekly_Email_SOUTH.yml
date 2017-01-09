@@ -1,0 +1,120 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8ad666df-5423-4f6e-a1ca-6b8d61e86511.jpg?ver=1481654035000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4fd3309e-ce68-4566-8cf4-96f2fb2fc36f.jpg?ver=1481654037000'
+  img_alt: 'Holiday Picks You&#39;ll Love Create Garlicky Beef Tenderloin View Recipe > Featured Pairing Stonewall Kitchen Cranberry Horseradish Sauce '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8e000891-d808-45fb-b5c3-1d6c45862168.jpg?ver=1481654037000'
+  img_alt: 'Member Exclusive '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e12d2556-7139-496c-abb0-92b39c72f3c7.jpg?ver=1481654037000'
+  img_alt: 'USDA Choice Natural Beef Tenderloin Whole or Steaks Member Exclusive $3 OFF/LB '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4619d7a9-3f2c-4f24-b08d-36240db64c75.jpg?ver=1481654038000'
+  img_alt: 'Holiday Catering | Crafted by Chefs'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f725ce61-7055-4b48-9553-7bfb63f0ec1b.jpg?ver=1481654038000'
+  img_alt: 'Relax and enjoy the holidays, and let our chefs handle the food. We have a full menu of options for Chanukah, Christmas and New Year&#39;s Parties. Just choose your favorite dishes, and we&#39;ll do the rest! View Menus >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e0d71b92-8792-467d-99a9-8455780589bb.jpg?ver=1481654038000'
+  img_alt: 'Holiday Catering | Crafted by Chefs '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6143ac2e-46cc-416c-93ec-35f7f1156363.jpg?ver=1481654039000'
+  img_alt: 'USDA Choice Natural Beef Brisket Member Exclusive $2 OFF/LB '
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/08e1f8eb-f3d0-42cd-aa8a-7b43bac546ae.jpg?ver=1481654039000'
+  img_alt_2: 'Chef Prepared Potato Latkes '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7b069c61-4538-4e30-83a1-a3f43b3979e1.jpg?ver=1481654039000'
+  img_alt: 'Merry Christmas | Celebrate with a Seafood Feast '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f86d5955-f97d-454b-bf4b-94968d660ad4.jpg?ver=1481654040000'
+  img_alt: 'Nicaraguan 7 Oz Lobster Tails Member Exclusive 14.99/EA Reg 16.99 '
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b35b3c2f-aac5-4f30-a9d3-8b40c5cab70f.jpg?ver=1481654040000'
+  img_alt_2: 'Wild Caught Key West Pink Shrimp '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/95314250-bb41-4ae0-9855-c83a1eaef998.jpg?ver=1481654040000'
+  img_alt: 'Holiday Recipes | &#39;Tis the Season '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/soup?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/40386f7d-33d9-4df8-8bb4-7478e8e09ed2.jpg?ver=1481654041000'
+  img_alt: 'Eastern Shore Style Oyster Stew View Recipe > '
+  url_2: 'http://www.balduccis.com/recipes/poultry?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9e502d10-6cae-42ad-82cf-63db3794a981.jpg?ver=1481654041000'
+  img_alt_2: 'Orange Honey-Glazed D&#39;Artagnan Whole Fresh Free-Range Organic Turkey View Recipe > '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/side_dishes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/66038c62-23b7-416f-bbee-8e384ef01f55.jpg?ver=1481654042000'
+  img_alt: 'Brussels Sprouts with Maple Syrup, Pancetta & Caramelized Onions View Recipe > '
+  url_2: 'http://www.balduccis.com/recipes/side_dishes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2da980bd-67e0-4d08-a70c-44931b05245f.jpg?ver=1481654042000'
+  img_alt_2: 'Green Bean Almondine with Sabatino Truffle Zest Seasoning View Recipe > '  
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/016ca438-81a6-4e17-b6a2-c74c66fbddbd.jpg?ver=1481654042000'
+  img_alt: 'What&#39;s New In Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0ca0fdfe-7925-4669-8b60-743e9c6272c2.jpg?ver=1481654042000'
+  img_alt: 'Wine & Food Event Sample a variety of wines and food pairings– just in time to plan your Chanukah, Christmas and New Year&#39;s wine menus. THIS SATURDAY! Food Samplings…12 noon-5pm Wine Samplings…2-5pm More Info > '
