@@ -1,0 +1,171 @@
+title: ''
+
+logo_img_url: "images/bbB_176_013017_PersonalizedVDC_r2_DEV_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+logo_img_width: "150"
+logo_img_height: "121"
+
+freeshipping_img_url: "images/bbB_176_013017_PersonalizedVDC_r2_DEV_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+freeshipping_img_width: "150"
+freeshipping_img_height: "121"
+
+instorepickup_img_url: "images/bbB_176_013017_PersonalizedVDC_r2_DEV_03.jpg"
+instorepickup_img_alt: "IN-STORE PICK UP RESERVE ONLINE PAY IN-STORE Learn More"
+instorepickup_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+instorepickup_img_width: "150"
+instorepickup_img_height: "121"
+
+babyreg_img_url: "images/bbB_176_013017_PersonalizedVDC_r2_DEV_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+babyreg_img_width: "150"
+babyreg_img_height: "121"
+
+nav1_url: "images/bbB_176_013017_PersonalizedVDC_r2_DEV_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/"
+nav1_width: "200"
+nav1_height: "61"
+
+nav2_url: "images/bbB_176_013017_PersonalizedVDC_r2_DEV_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "https://www.buybuybaby.com/store/selfservice/FindStore"
+nav2_width: "200"
+nav2_height: "61"
+
+nav3_url: "images/bbB_176_013017_PersonalizedVDC_r2_DEV_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+nav3_width: "200"
+nav3_height: "61"
+
+preheader_text: 'Make It Personal'
+preheader_link: 'https://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/32754/'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: ''
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'images/bbB_176_013017_PersonalizedVDC_r2_DEV_08.jpg'
+  image_alt: 'give a sweet surprise persoanlize a gift for your loved ones, baby showers, or a gift for yourself shop now'
+  image_link: 'https://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/32754/'
+  image_height: '197'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_013017_PersonalizedVDC_r2_DEV_09.jpg'
+  image_first_alt: 'shop furniture'
+  image_first_link: 'https://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/furniture/32758/'
+  image_first_height: '317'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_013017_PersonalizedVDC_r2_DEV_10.jpg'
+  image_second_alt: 'shop blankets & throws'
+  image_second_link: 'https://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/blankets-throws/32763/'
+  image_second_height: '317'
+  image_second_width: '300'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_013017_PersonalizedVDC_r2_DEV_11.jpg'
+  image_first_alt: 'shop toys'
+  image_first_link: 'https://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/toys/32764/'
+  image_first_height: '327'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_013017_PersonalizedVDC_r2_DEV_12.jpg'
+  image_second_alt: 'shop storytime books'
+  image_second_link: 'https://www.buybuybaby.com/store/s/personalized-books?ta=typeahead&_requestid=5130941'
+  image_second_height: '327'
+  image_second_width: '300'
+
+- type: 'image'
+  image_url: 'images/bbB_176_013017_PersonalizedVDC_r2_DEV_13.jpg'
+  image_alt: 'shop personalization'
+  image_link: 'https://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/32754/'
+  image_height: '54'
+  image_width: '600'  
+
+- type: 'image'
+  image_url: 'images/bbB_176_013017_PersonalizedVDC_r2_DEV_14.jpg'
+  image_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store options for easy pick-up. Prices valid only in contiguous United States.'
+  image_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  image_height: '74'
+  image_width: '600'  
+
+- type: 'image'
+  image_url: 'images/bbB_176_013017_PersonalizedVDC_r2_DEV_15.jpg'
+  image_alt: 'more to shop personalization'
+  image_link: 'https://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/32754/'
+  image_height: '62'
+  image_width: '600'  
+
+- type: 'images-3-columns'
+  image_first_url: 'images/bbB_176_013017_PersonalizedVDC_r2_DEV_16.jpg'
+  image_first_alt: 'keepsakes'
+  image_first_link: 'https://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/keepsakes/32769/'
+  image_first_height: '231'
+  image_first_width: '200'
+  image_second_url: 'images/bbB_176_013017_PersonalizedVDC_r2_DEV_17.jpg'
+  image_second_alt: 'gift sets'
+  image_second_link: 'https://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/gift-baskets/32756/'
+  image_second_height: '231'
+  image_second_width: '200'
+  image_third_url: 'images/bbB_176_013017_PersonalizedVDC_r2_DEV_18.jpg'
+  image_third_alt: 'growth charts'
+  image_third_link: 'https://www.buybuybaby.com/store/s/personalized-chart?ta=typeahead&_requestid=5140149'
+  image_third_height: '231'
+  image_third_width: '200'
+
+- type: 'image'
+  image_url: 'images/bbB_176_013017_PersonalizedVDC_r2_DEV_19.jpg'
+  image_alt: 'registry favorites shop now'
+  image_link: 'http://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/32689/'
+  image_height: '221'
+  image_width: '600'  
+
+- type: 'image'
+  image_url: 'images/bbB_176_013017_PersonalizedVDC_r2_DEV_20.jpg'
+  image_alt: 'take a peek at our… special buys & deals shop now'
+  image_link: 'https://www.buybuybaby.com/store/static/savingscenter/'
+  image_height: '212'
+  image_width: '600'  
+
+- type: 'image'
+  image_url: 'images/bbB_176_013017_PersonalizedVDC_r2_DEV_21.jpg'
+  image_alt: 'Share your photos! Share photos of your favorites mommy products at buybuy BABY view gallery'
+  image_link: 'https://www.buybuybaby.com/store/images/Gallery'
+  image_height: '228'
+  image_width: '600'  
+
+
+socialnav:
+- link: ""
+  img: "images/bbB_176_013017_PersonalizedVDC_r2_DEV_22.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_176_013017_PersonalizedVDC_r2_DEV_23.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_176_013017_PersonalizedVDC_r2_DEV_24.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_176_013017_PersonalizedVDC_r2_DEV_25.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_176_013017_PersonalizedVDC_r2_DEV_26.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_176_013017_PersonalizedVDC_r2_DEV_27.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_176_013017_PersonalizedVDC_r2_DEV_28.jpg"
+  alt: ""
+
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
