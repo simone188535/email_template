@@ -1,0 +1,208 @@
+title: ''
+
+logo_img_url: "images/bbB_176_011717_MedelaSonata_v1_r7_DEV_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+logo_img_width: "175"
+logo_img_height: "120"
+
+freeshipping_img_url: "images/bbB_176_011717_MedelaSonata_v1_r7_DEV_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+freeshipping_img_width: "117"
+freeshipping_img_height: "120"
+
+instorepickup_img_url: "images/bbB_176_011717_MedelaSonata_v1_r7_DEV_03.jpg"
+instorepickup_img_alt: "IN-STORE PICK UP RESERVE ONLINE PAY IN-STORE Learn More"
+instorepickup_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+instorepickup_img_width: "158"
+instorepickup_img_height: "120"
+
+babyreg_img_url: "images/bbB_176_011717_MedelaSonata_v1_r7_DEV_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+babyreg_img_width: "150"
+babyreg_img_height: "120"
+
+nav1_url: "images/bbB_176_011717_MedelaSonata_v1_r7_DEV_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/"
+nav1_width: "217"
+nav1_height: "60"
+
+nav2_url: "images/bbB_176_011717_MedelaSonata_v1_r7_DEV_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "https://www.buybuybaby.com/store/selfservice/FindStore"
+nav2_width: "179"
+nav2_height: "60"
+
+nav3_url: "images/bbB_176_011717_MedelaSonata_v1_r7_DEV_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+nav3_width: "204"
+nav3_height: "60"
+
+preheader_text: 'Shop Medela®'
+preheader_link: 'https://www.buybuybaby.com/store/brand/medela/471'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: ''
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_08.jpg'
+  image_alt: 'designed with you & your baby in mind The new Sonata™ breastpump features the latest technology and connects to the MyMedela® App for more personalized pumping. shop now'
+  image_link: 'https://www.buybuybaby.com/store/product/medela-reg-sonata-trade-electric-double-breast-pump/3311621'
+  image_height: '254'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_01 2.jpg'
+  image_first_alt: 'Sonata™ Double Electric Breastpump 399.99 FREE SHIPPING'
+  image_first_link: 'https://www.buybuybaby.com/store/product/medela-reg-sonata-trade-electric-double-breast-pump/3311621'
+  image_first_height: '69'
+  image_first_width: '350'
+  image_second_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_02 2.jpg'
+  image_second_alt: 'designed with you & your baby in mind The new Sonata™ breastpump features the latest technology and connects to the MyMedela® App for more personalized pumping. shop now'
+  image_second_link: 'https://www.buybuybaby.com/store/product/medela-reg-sonata-trade-electric-double-breast-pump/3311621'
+  image_second_height: '69'
+  image_second_width: '250'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_10.jpg'
+  image_alt: 'Sonata™ Double Electric Breastpump 399.99 FREE SHIPPING'
+  image_link: 'https://www.buybuybaby.com/store/product/medela-reg-sonata-trade-electric-double-breast-pump/3311621'
+  image_height: '312'
+  image_width: '600'  
+
+- type: 'image'
+  image_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_11.jpg'
+  image_alt: '2-Phase Expression® Technology More milk in less time! 1. Stimulation Phase When first breastfeeding, your baby feeds fast & light to start milk blow. 2. Expression Phase After milk flow starts, your baby feeds slower & draws in deeper to bring out more milk faster.'
+  image_link: 'https://www.buybuybaby.com/store/product/medela-reg-sonata-trade-electric-double-breast-pump/3311621'
+  image_height: '228'
+  image_width: '600'  
+
+- type: 'image'
+  image_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_12.jpg'
+  image_alt: 'MyMedela App The Sonata™ connects to the MyMedela® App! Designed to help you meet breastfeeding goals, track your baby&#39;s growth, build personalized dashboards, & more.'
+  image_link: 'https://www.buybuybaby.com/store/product/medela-reg-sonata-trade-electric-double-breast-pump/3311621'
+  image_height: '587'
+  image_width: '600'  
+
+- type: 'image'
+  image_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_13.jpg'
+  image_alt: 'Moms&#39; Comfort Station Did you know? Every buybuy BABY store has a clean & comfortable space for feeding, changing, or pumping. Find a store '
+  image_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  image_height: '112'
+  image_width: '600'  
+
+- type: 'image'
+  image_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_14.jpg'
+  image_alt: 'Accessories Everything mom needs to store & organize her breastmilk.'
+  image_link: ''
+  image_height: '95'
+  image_width: '600'  
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_15.jpg'
+  image_first_alt: 'Medela® Breastmilk Storage Solution 39.99'
+  image_first_link: 'https://www.buybuybaby.com/store/product/medela-reg-breastmilk-storage-solution/1040059464'
+  image_first_height: '265'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_16.jpg'
+  image_second_alt: 'Medela® Accessory Starter Set 39.99'
+  image_second_link: 'https://www.buybuybaby.com/store/product/medela-reg-accessory-starter-set/1043462803'
+  image_second_height: '265'
+  image_second_width: '300'
+
+- type: 'image'
+  image_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_17.jpg'
+  image_alt: 'shop Medela®'
+  image_link: 'https://www.buybuybaby.com/store/brand/medela/471'
+  image_height: '64'
+  image_width: '600'  
+
+- type: 'image'
+  image_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_18.jpg'
+  image_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store options for easy pick-up. Prices valid only in contiguous United States.'
+  image_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  image_height: '83'
+  image_width: '600'  
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_19.jpg'
+  image_first_alt: 'savings center'
+  image_first_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+  image_first_height: '59'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_20.jpg'
+  image_second_alt: 'car seats'
+  image_second_link: 'https://www.buybuybaby.com/store/category/car-seats/32592/'
+  image_second_height: '59'
+  image_second_width: '300'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_21.jpg'
+  image_first_alt: 'gifts & more'
+  image_first_link: 'https://www.buybuybaby.com/store/category/gifts-more/32641/'
+  image_first_height: '59'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_22.jpg'
+  image_second_alt: 'brestfeeding accessories'
+  image_second_link: 'https://www.buybuybaby.com/store/category/nursing-feeding/bottle-feeding/bottle-accessories/32054/'
+  image_second_height: '59'
+  image_second_width: '300'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_23.jpg'
+  image_first_alt: 'strollers'
+  image_first_link: 'https://www.buybuybaby.com/store/category/strollers/32571/'
+  image_first_height: '58'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_24.jpg'
+  image_second_alt: 'bottles & sets'
+  image_second_link: 'https://www.buybuybaby.com/store/category/nursing-feeding/bottle-feeding/bottles-sets/32055/'
+  image_second_height: '58'
+  image_second_width: '300'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_25.jpg'
+  image_first_alt: 'add a personal touch start personalizing'
+  image_first_link: 'https://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/32754/'
+  image_first_height: '332'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_176_011717_MedelaSonata_v1_r7_DEV_26.jpg'
+  image_second_alt: 'registry favorites shop now'
+  image_second_link: 'http://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/32689/'
+  image_second_height: '332'
+  image_second_width: '300'
+
+socialnav:
+- link: ""
+  img: "images/bbB_176_011717_MedelaSonata_v1_r7_DEV_27.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_176_011717_MedelaSonata_v1_r7_DEV_28.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_176_011717_MedelaSonata_v1_r7_DEV_29.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_176_011717_MedelaSonata_v1_r7_DEV_30.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_176_011717_MedelaSonata_v1_r7_DEV_31.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_176_011717_MedelaSonata_v1_r7_DEV_32.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_176_011717_MedelaSonata_v1_r7_DEV_33.jpg"
+  alt: ""
+
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
