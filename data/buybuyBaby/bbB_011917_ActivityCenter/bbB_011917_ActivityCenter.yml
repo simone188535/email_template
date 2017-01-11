@@ -1,0 +1,202 @@
+title: 'Shop Infant Activity'
+
+logo_img_url: "images/bbB_011917_ActivityCenter_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+logo_img_width: "172"
+logo_img_height: "128"
+
+freeshipping_img_url: "images/bbB_011917_ActivityCenter_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+freeshipping_img_width: "123"
+freeshipping_img_height: "128"
+
+instorepickup_img_url: "images/bbB_011917_ActivityCenter_03.jpg"
+instorepickup_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instorepickup_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+instorepickup_img_width: "155"
+instorepickup_img_height: "128"
+
+babyreg_img_url: "images/bbB_011917_ActivityCenter_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+babyreg_img_width: "150"
+babyreg_img_height: "128"
+
+nav1_url: "images/bbB_011917_ActivityCenter_05.jpg"
+nav1_alt: "baby nursery"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/"
+nav1_width: "215"
+nav1_height: "61"
+
+nav2_url: "images/bbB_011917_ActivityCenter_06.jpg"
+nav2_alt: "nursing & feeding"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+nav2_width: "182"
+nav2_height: "61"
+
+nav3_url: "images/bbB_011917_ActivityCenter_07.jpg"
+nav3_alt: "bath & potty"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+nav3_width: "203"
+nav3_height: "61"
+
+preheader_text: 'Shop Infant Activity'
+preheader_link: 'https://www.buybuybaby.com/store/category/gear-travel/infant-activity/30505/'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE=?mcid=EM_promobbBCAN_201701_CategoryDriver_NoOffer'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'images/bbB_011917_ActivityCenter_08.jpg'
+  image_alt: 'oh, what a busy bee! Explore & More Silver Lining Cloud Activity Gym by SKIP*HOP® | 79.99 FREE SHIPPING shop now'
+  image_link: 'https://www.buybuybaby.com/store/product/skip-hop-reg-explore-more-silver-lining-cloud-activity-gym/1046921802'
+  image_height: '559'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_011917_ActivityCenter_09.jpg'
+  image_first_alt: 'infant seats'
+  image_first_link: 'https://www.buybuybaby.com/store/category/gear-travel/infant-activity/infant-seats/32784/'
+  image_first_height: '29'
+  image_first_width: '302'
+  image_second_url: 'images/bbB_011917_ActivityCenter_10.jpg'
+  image_second_alt: 'swings'
+  image_second_link: 'https://www.buybuybaby.com/store/category/gear-travel/infant-activity/swings/32026/'
+  image_second_height: '29'
+  image_second_width: '298'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_011917_ActivityCenter_11.jpg'
+  image_first_alt: 'Deluxe Sit-Me-Up Frog Floor Seat by Fisher-Price® | 39.99 Shown in Citrus'
+  image_first_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-deluxe-sit-me-up-frog-floor-seat-in-citrus/1045602733'
+  image_first_height: '421'
+  image_first_width: '302'
+  image_second_url: 'images/bbB_011917_ActivityCenter_12.jpg'
+  image_second_alt: 'ConvertMe Swing-2-Seat™ by Ingenuity™ | 89.99 Shown in Orson™ FREE SHIPPING'
+  image_second_link: 'https://www.buybuybaby.com/store/product/ingenuity-trade-convertme-swing-2-seat-trade-in-orson-trade/1045432811'
+  image_second_height: '421'
+  image_second_width: '298'
+
+- type: 'image'
+  image_url: 'images/bbB_011917_ActivityCenter_13.jpg'
+  image_alt: 'bouncers'
+  image_link: 'https://www.buybuybaby.com/store/category/gear-travel/infant-activity/bouncers/32024/'
+  image_height: '31'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_011917_ActivityCenter_14.jpg'
+  image_alt: 'Deluxe Bouncer by Fisher Price® | 59.99 Shown in Safari Dreams FREE SHIPPING'
+  image_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-deluxe-bouncer-in-safari-dreams/1043103720'
+  image_height: '386'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_011917_ActivityCenter_15.jpg'
+  image_first_alt: 'activity centers & jumpers'
+  image_first_link: 'https://www.buybuybaby.com/store/category/gear-travel/infant-activity/activity-centers-jumpers/32025/'
+  image_first_height: '26'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_011917_ActivityCenter_16.jpg'
+  image_second_alt: 'activity centers & jumpers'
+  image_second_link: 'https://www.buybuybaby.com/store/category/gear-travel/infant-activity/activity-centers-jumpers/32025/'
+  image_second_height: '26'
+  image_second_width: '300'  
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_011917_ActivityCenter_17.jpg'
+  image_first_alt: 'Roarin&#39; Rainforest Jumparoo® by Fisher-Price® | 99.99 FREE SHIPPING'
+  image_first_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-roarin-39-rainforest-jumperoo-reg/1045603006'
+  image_first_height: '413'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_011917_ActivityCenter_18.jpg'
+  image_second_alt: 'Sassy Seat™ Doorway Jumper by Sassy® 44.99'
+  image_second_link: 'https://buybuybaby.com/store/product/sassy-reg-seat-doorway-jumper/1044379292'
+  image_second_height: '413'
+  image_second_width: '300'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_011917_ActivityCenter_19.jpg'
+  image_first_alt: 'walkers'
+  image_first_link: 'https://www.buybuybaby.com/store/category/gear-travel/infant-activity/walkers/32027/'
+  image_first_height: '44'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_011917_ActivityCenter_20.jpg'
+  image_second_alt: 'walkers'
+  image_second_link: 'https://www.buybuybaby.com/store/category/gear-travel/infant-activity/walkers/32027/'
+  image_second_height: '44'
+  image_second_width: '300'
+
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_011917_ActivityCenter_21.jpg'
+  image_first_alt: 'All-in-one Classic Mobile Entertainer by Combi® | 99.99 FREE SHIPPING'
+  image_first_link: 'https://www.buybuybaby.com/store/product/combi-reg-all-in-one-mobile-entertainer-in-police-car-black/1042327165'
+  image_first_height: '437'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_011917_ActivityCenter_22.jpg'
+  image_second_alt: 'Walky Talky Multi-lingual Spoon Walker by Chicco® | 89.99 FREE SHIPPING'
+  image_second_link: 'https://www.buybuybaby.com/store/product/chicco-reg-walky-talky-walker-in-spring/1046694201'
+  image_second_height: '437'
+  image_second_width: '300'
+
+- type: 'image'
+  image_url: 'images/bbB_011917_ActivityCenter_23.jpg'
+  image_alt: 'shop now'
+  image_link: 'https://www.buybuybaby.com/store/category/gear-travel/infant-activity/30505/'
+  image_height: '73'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_011917_ActivityCenter_24.jpg'
+  image_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stotes or use our find in-store option for easy pick-up. Prices valid only in contiguous United States.'
+  image_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  image_height: '73'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_011917_ActivityCenter_25.jpg'
+  image_alt: 'take a peek at our…special buys & deals shop now'
+  image_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+  image_height: '228'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_011917_ActivityCenter_26.jpg'
+  image_alt: 'SMART INNOVATION shop now'
+  image_link: 'http://www.bedbathandbeyond.ca/store/category/baby-kids/baby-gifts/smart-innovations/23750/'
+  image_height: '230'
+  image_width: '600'
+
+socialnav:
+- link: "#"
+  img: "images/bbB_011917_ActivityCenter_27.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_011917_ActivityCenter_28.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_011917_ActivityCenter_29.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_011917_ActivityCenter_30.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_011917_ActivityCenter_31.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_011917_ActivityCenter_32.jpg"
+  alt: "Instagram logo"
+- link: "#"
+  img: "images/bbB_011917_ActivityCenter_33.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.ca/prefsca/dual/pref.cfm?wrap=n&'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
