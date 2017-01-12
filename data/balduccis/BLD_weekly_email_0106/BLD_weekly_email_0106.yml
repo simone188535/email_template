@@ -1,0 +1,115 @@
+title: 'Mediterranean Cod is on the Menu-Watch & Learn'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fd622682-ba88-4edf-b556-45fbf298e4e8.jpg?ver=1480433938000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://vimeo.com/193609518'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5ecc7f79-8b0c-43f3-b29d-943e81b11949.jpg?ver=1483108882000'
+  img_alt: 'De-Light-Ful New Year Eats Ring in the new year with fresh, light and healthy meals. Create Mediterranean Style Cod Watch Video >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/205acf6d-6aa5-43d3-9ef6-3f103729af0d.jpg?ver=1483108882000'
+  img_alt: 'Chef Prepared | Grain & Noodle Bowls'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5bcd10cd-9e26-4419-83ce-76326ec89f8b.jpg?ver=1483108882000'
+  img_alt: 'Choose your favorite combination of meats, seafood or tofu for a fulfilling meal. Find it in our Chef Prepared grab & go case! Squash Noodle Ramen & Shrimp Bowl'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2df175d9-b4e0-4fd0-b69e-94b85c9fcd8f.jpg?ver=1483108882000'
+  img_alt: 'Squash Noodle Ramen & Flank Steak Bowl '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/63c2e44f-c25d-4906-9b9b-930e12b5db73.jpg?ver=1483108882000'
+  img_alt: 'Pad Thai Squash Tofu Bowl'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7a29d236-6d14-41fd-9f25-e332fc6342ff.jpg?ver=1483108882000'
+  img_alt: 'Salmon Quinoa Lentil Bowl'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6ef6e491-59c2-4cef-b7b8-6f224ea2cf12.jpg?ver=1483108883000'
+  img_alt: 'Southwest Chicken Grain Bowl'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0f192ace-624f-4b2a-84dd-a3181f9011b8.jpg?ver=1483108883000'
+  img_alt: 'Member Exclusive'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/27d91696-bc6c-4664-9365-52a22f7b0fc2.jpg?ver=1483108883000'
+  img_alt: 'New! Lump Crab Cakes with Creamy Avocado Member Exclusive $2 OFF/LB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/491e7a4f-1fa8-4621-b2fb-8436e23977ed.jpg?ver=1483108884000'
+  img_alt: 'Fresh Produce | Winter&#39;s Best'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f9a01bee-933b-43e3-9d4d-3b72c3088762.jpg?ver=1483108883000'
+  img_alt: 'Hass Avocados Just in time for your game day guacamole, Hass avocados have a creamier, more buttery texture than most other avocados.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/562eaab4-3596-442f-a7ba-b1dbc98d92db.jpg?ver=1483108884000'
+  img_alt: 'Pero Sweet Mini Peppers Sweet and crunchy, these bite-sized peppers are perfect for snacking. Try them stuffed with your favorite condiments for a major score for your game day spread!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0106_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f1129d52-77fb-4775-995d-35ad726bf823.jpg?ver=1483108884000'
+  img_alt: 'Driscoll Blackberries Enjoy them fresh as a sweet snack or in a mojito! Juicy blackberries are always a fruity treat! Try Blackberry Cobbler View Recipe > '
+
+
+
+
+
+
+
+
+
+
+
+
