@@ -1,0 +1,188 @@
+title: 'Cheers to Cheese & National Soup Month!'
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2220e97c-0c51-49d8-8d68-93a5d8e4883b.jpg?ver=1484669849000"
+  img_alt: "Here&#39;s to National Cheese Lover&#39;s Day Cheers to cheese! Show your love for cheese with these delicious selections, and our easy step-by-step cheeseboard video."
+  url: "https://www.youtube.com/watch?v=UoifW8sPizQ&t=3s"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/df66c840-73c2-4c7a-9afb-f403d29fcff3.jpg?ver=1484669849000"
+  img_alt: "How To Make the Perfect Cheeseboard Watch Video &#62;"
+  url: "https://www.youtube.com/watch?v=UoifW8sPizQ&t=3s"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bf176789-3631-410a-b494-b65fb4f76e56.jpg?ver=1484669849000"
+  img_alt: "Discover Your Next Favorite Cheese"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5a494858-b0d8-471b-a8a1-af2328052281.jpg?ver=1484669849000"
+  img_alt: "Kings offers over 250 specialty cheeses from around the world representing every milk type and every style; from raw milk to pasteurized, organic and biodynamic, artisanal and farmstead."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c5a1e2db-a3b9-4ac0-9b05-a53375c69bb8.jpg?ver=1484669849000"
+  img_alt: "View More &#62;"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/810d3ffe-5fd4-4693-b07d-418a0f553e9f.jpg?ver=1484669849000"
+  img_alt: "Celebrate National Soup Month | Soup-on-the-Go"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f4174fd0-6231-4dde-815e-d208f3bae348.jpg?ver=1484669850000"
+  img_alt: "January is National Soup Month! Celebrate with a wide variety of Kings Pre-Packed Soups featuring organic, seafood, gluten-free and vegetarian varieties."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cda97c6d-c4c6-4071-a921-e8c22661c581.jpg?ver=1484669850000"
+  img_alt: "January is National Soup Month! Celebrate with a wide variety of Kings Pre-Packed Soups featuring organic, seafood, gluten-free and vegetarian varieties."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/70423cd5-fd36-401a-882a-3e95c255ffe1.jpg?ver=1484669850000"
+  img_alt: "Soup Starters | Kings Own Soup Essentials"
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/844c6d91-3454-4e93-98df-59ddbb81fe74.jpg?ver=1484669850000"
+  img_alt: "Raise your spoon to a wholesome bowl of soup. Start with KINGS Own quality ingredients: frozen veggies, lentils, fresh herbs, stewed tomatoes and more."
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/133e4cb5-504d-46f7-a608-fc7c6578eeec.jpg?ver=1484669850000"
+  img_alt: "View More &#62;"
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3af594d9-a404-4d1f-92c8-bb815be07225.jpg?ver=1484669877000"
+  img_alt: "Weekly Rewards Offers"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4656c177-f3e5-4a72-b06f-95c74da24bb3.jpg?ver=1484669877000"
+  img_alt: "SAVE 4.00 LB. Kings USDA Choice Fresh Beef Rib Steak 9.99 LB."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e708c615-cd63-4b66-aab1-240dde9756cd.jpg?ver=1484669877000"
+  img_alt_2: "Save $1.00 LB.North Atlantic Lobster Tails 9.99 EA."
+  url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/99a086f0-4438-4398-8c75-400395b51e0e.jpg?ver=1484669877000"
+  img_alt: "Not a Member Yet? See Store for Details View Weekly Member Only Offers Offers Loaded on Member Card Create and Share a Shopping List "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/95e2cc38-2a95-4eaf-ab8d-305cf3dc1733.jpg?ver=1484669878000"
+  img_alt: "View More Offers and Make a List Old Greenwich Offers"
+  url: "http://kingsfoodmarkets.com/old-greenwich?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8d2319e6-e87c-41ab-b2bc-8f6fd18991d7.jpg?ver=1484669878000"
+  img_alt_2: "View More Offers and Make a List Hoboken Offers"
+  url_2: "http://kingsfoodmarkets.com/hoboken?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/988634a8-32d1-4314-bc86-efce0380a976.jpg?ver=1484669851000"
+  img_alt: "View weekly specials >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bfc0493a-a8ff-477e-9b2b-2abc2c5206f8.jpg?ver=1484669851000"
+  img_alt: "Homemade Comfort | Savory Soup Recipes"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b4227df7-631f-491a-b733-8805547202f6.jpg?ver=1484669851000"
+  img_alt: "Slow Cooker Crispy Pork & Ramen Noodle Soup View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes/slow-cooker-crispy-pork-ramen-noodle-soup?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/881b6ec2-8a2c-41f2-b4d3-bd834dd22012.jpg?ver=1484669852000"
+  img_alt_2: "Hearty Mediterranean Seafood Stew View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/hearty-mediterranean-seafood-stew?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd97ae1f-26d0-4d35-948b-3cf940bda8c3.jpg?ver=1484669851000"
+  img_alt: "Healthy Tips | Meat & Seafood"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/af6e7459-f26a-4556-bc92-5dc6ddf8817f.jpg?ver=1484669851000"
+  img_alt: "Meat: Lean protein slows digestion of carbohydrates and sugar, to keep you feeling full longer. Good options are poultry breast, pork tenderloin, filet mignon and London broil."
+  url: "https://www.youtube.com/user/KingsFoodMarkets"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/32f0d567-8684-4a61-8fb0-f221564b27a3.jpg?ver=1484669851000"
+  img_alt: "Seafood: Fish is a wonderful source of omega-3 fats, which may play a role in heart and brain health. Great selections are salmon, sardines, rainbow trout and Monkfish."
+  url: "https://www.youtube.com/user/KingsFoodMarkets"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0e046e5b-302d-4849-b48d-de2111cfcb27.jpg?ver=1484669852000"
+  img_alt: " Shari Bilt Boockvar, M.S., R.D. Kings' Nutritionist"
+  url: "https://www.youtube.com/user/KingsFoodMarkets"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5c1be0a4-5619-452d-bc63-4d092210ae97.jpg?ver=1484669852000"
+  img_alt: "Enter to Win $500 in Free Groceries"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7c8b7836-975b-4107-8e05-c9eab19ed83a.jpg?ver=1484669852000"
+  img_alt: "Eat Better. Eat Veal."
+  url: "http://vealmadeeasy.com/"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/15329484-d62e-4eca-ad07-b5b52dab808a.jpg?ver=1484669852000"
+  img_alt_2: "Enter for a chance to win $500 in free groceries! Enter Now &#62;"
+  url_2: "http://vealmadeeasy.com/"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/98900842-532c-4586-b18d-79c81529f663.jpg?ver=1484669852000"
+  img_alt: "What's New In Store"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/084dd691-8e85-4942-b322-8c4c0cbf71a6.jpg?ver=1484669852000"
+  img_alt: "Game Day Catering Kick off your next game day get-together with a winning Chef Prepared spread for your favorite fans. View Menu &#62;"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Loyalty"
