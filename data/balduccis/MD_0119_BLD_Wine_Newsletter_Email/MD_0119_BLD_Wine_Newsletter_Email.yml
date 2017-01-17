@@ -1,0 +1,111 @@
+title: 'Free Wine Event | Stock Up for the Game!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_Wine_Newsletter_Email_MD'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_Wine_Newsletter_Email_MD'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_Wine_Newsletter_Email_MD'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_Wine_Newsletter_Email_MD'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_Wine_Newsletter_Email_MD'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_Wine_Newsletter_Email_MD"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f9241a58-50f1-461a-b760-79fb626bdbcf.jpg?ver=1484677469000'
+  img_alt: 'Wine Newsletter January 2017'
+
+- type: 'image'
+  url: ''
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fba96a73-7712-4fce-8271-a936478f9abd.jpg?ver=1484677469000'
+  img_alt: 'January Wine & Food Event Saturday, January 21st, 2017 Food Tasting: 12pm-5pm Wine Tasting: 2pm-5pm Save 25% Mix & Match 12 Bottles Or More PLUS • Big Game Wines • Great Value Wines • Cold Weather Wines'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d50d5da3-59ee-4c55-af0a-2a71373eba5b.jpg?ver=1484677469000'
+  img_alt: 'Must Have Wines New Year&#39;s Resolution #1: Try something new! -John Coleman, Balducci&#39;s Wine Merchant In 2017, let&#39;s be daring and embrace the wider world of wine. Happily, our wine experts are on hand to help navigate.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c981bf35-3c6d-459c-8b0b-48cd5177df13.jpg?ver=1484677469000'
+  img_alt: 'Balducci&#39;s Organic Chianti 16.99/BTL 100% Sangiovese grapes certified organic by Agricultura Biologica, this rustic Chianti offers classic old world charm.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f547106d-3e00-463c-a9af-c3fce439bb5f.jpg?ver=1484677469000'
+  img_alt: 'Balducci&#39;s Chenin Blanc 10.99/BTL Packed with upfront melon fruit, the nose charms with an abundance of guava and gooseberries as well as the signature hint of honey. The palate follows through with fruit flavors balanced by a crisp acid to ensure a fresh and fruity style of wine.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/da304836-cc42-423f-a202-ae7ff4dba54c.jpg?ver=1484677469000'
+  img_alt: 'Vinsacro Dioro 2010 24.99/BTL 19.99/BTL with Member Rewards &#34;This is produced from a field blend they call Vidau, which, in their case is approximately 50% Garnacha, 30% Tempranillo and a myriad of other grapes… it&#39;s clearly a high-end wine with aspirations.&#34; -Robert Parker 92pts.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e01e0925-a7f2-42cc-961b-a4741c244298.jpg?ver=1484677469000'
+  img_alt: 'Waterstone Cabernet Sauvignon Napa Valley 2013 36.99/BTL &#34;Subtle aromas of blueberry, blackberry and bramble berry follow through to full body, fine tannins and  a fresh finish...lively on the finish. Shows the tension  of the great 2013 vintage in Napa Valley.&#34; -James Suckling 92pts.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ba1d0a21-6b94-4634-99b2-7ffa95d72f53.jpg?ver=1484677470000'
+  img_alt: 'Recipe | A New Way to Love Prosecco Sgroppino Cocktail View Recipe > Create using Balducci&#39;s Prosecco '
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
