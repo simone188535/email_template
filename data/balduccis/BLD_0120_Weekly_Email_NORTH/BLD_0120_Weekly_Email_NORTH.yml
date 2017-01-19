@@ -1,0 +1,131 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9305955d-9307-45fd-91f9-37f7c5ef8875.jpg?ver=1481654043000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/adfa6973-76f5-4f05-be2d-c33d4c362055.jpg?ver=1481654043000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/96cfd827-a32f-42ad-b48b-1872aa1827f1.jpg?ver=1481654043000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f285a4fa-a726-4c81-ac06-af7fca8e8a4d.jpg?ver=1484773052000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5388de86-a8f4-44b2-9bfb-12a3bb7a61e9.jpg?ver=1484773052000'
+  img_alt: 'Healthy Goodness Found Here'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5cb99797-715b-4f21-9f11-a0203909c8f3.jpg?ver=1484773052000'
+  img_alt: 'Create Seafood Cioppino View Recipe >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fef3b204-57c8-4f49-90cf-748c47de0dee.jpg?ver=1484773053000'
+  img_alt: 'Fresh Catch | Signature Seafood'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/97d8bf9a-59a0-4950-a970-1ec4e6c8587f.jpg?ver=1484773053000'
+  img_alt: 'Balducci&#39;s Signature Extra Jumbo Cocktail Shrimp 1-LB Bag Member Exclusive $2 OFF/EA '
+  url_2: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b90434dc-5adb-44ec-a81f-6268902d7c92.jpg?ver=1484773053000'
+  img_alt_2: 'Balducci&#39;s Signature Crabmeat Stuffed Flounder Member Exclusive $2 OFF/LB '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9f66faa8-1079-4eb5-ae36-cdf701c611be.jpg?ver=1484773053000'
+  img_alt: 'National Cheese Lover&#39;s Day'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e06011d-105c-4ac7-b2b9-d85a75a96739.jpg?ver=1484773054000'
+  img_alt: '"Say Cheese! Celebrate National Cheese Lover&#39;s Day today with a wide assortment of gourmet cheeses from around the world. Enjoy $5 OFF your $20 purchase of hand-cut cheese. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8e02385a-4d0a-4cad-b029-944e4e087230.jpg?ver=1484773054000'
+  img_alt: 'Healthy & Happy | Feel Good Food '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b6b7dd50-7cf4-4ecc-ba68-c7f80f590855.jpg?ver=1484773054000'
+  img_alt: 'La Pasta Gluten-Free Ravioli'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43d8fb36-e470-4408-99ba-37319d773ae8.jpg?ver=1484773054000'
+  img_alt: 'Chef Prepared Horseradish & Herb Crusted Cod '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a5c0fff-bd96-46e8-827a-83843dc19109.jpg?ver=1484773055000'
+  img_alt: 'Sir Kensington&#39;s Avocado Oil Mayonnaise '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1bb1098-69db-430f-a610-1a348e403707.jpg?ver=1484773055000'
+  img_alt: 'Organic Bakery Breads'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cbb526cd-ff77-4861-a9f8-4816be5396ac.jpg?ver=1484773055000'
+  img_alt: 'Great On-the-Go | Nutritious Drinks'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4bd52488-812b-452a-87c0-30113cde3f61.jpg?ver=1484773055000'
+  img_alt: 'Health-Ade Kombucha Delicious, effervescent and refreshing, kombucha is a fermented tea that naturally contains probiotics and healthy organics. It&#39;s low in sugar, caffeine and calories, too!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/57b2ee42-037d-404a-9114-a1fe03b3ff6d.jpg?ver=1484773055000'
+  img_alt: 'Monfefo Ginger Shot Handcrafted in Brooklyn, organic ginger juice, lemon juice and honey are cold-pressed into a spicy shot that you can drink straight or add to water or juice to enjoy the beneficial properties of ginger. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/eece9fc4-951f-4f09-a4c2-5849dfadd018.jpg?ver=1484773056000'
+  img_alt: 'Harmless Harvest Coconut Water Organic coconut water is put through a multi-step micro-filtration process that maintains flavor and nutrients, while eliminating bacteria to make this great tasting bottled coconut water. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c5b2b4dc-577e-4491-84ed-2892152a09d2.jpg?ver=1484773056000'
+  img_alt: 'What&#39;s New In Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/db77a604-859c-4055-b61f-25d7b4d6290b.jpg?ver=1484773057000'
+  img_alt: 'Rye Brook Grand Opening Save the Date January 27th 10am-3pm • Bread breaking ceremony • Customer giveaways and Enter to Win Sweepstakes • Chef demos, tastings and tips from our nutritionist. • Live music and entertainment More Info > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/eb7e3107-e31a-4a6c-8d08-62f68af11af1.jpg?ver=1484773057000'
+  img_alt: 'A Winning Game Day Spread Take a time out on cooking and let our chefs prepare the perfect custom catered football feast for your party. View Menu > '
