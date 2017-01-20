@@ -1,0 +1,131 @@
+title: 'Christmas Tree Shops®'
+
+pre_header_text: ''
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com'
+header_logo_img: "images/CTS_012317_Ecomm_Window_Rugs_01.jpg"
+header_logo_alt: "Christmas Tree Shops®"
+header_logo_height: "65"
+header_logo_width: "600"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+header_arrivals_img: "images/CTS_012317_Ecomm_Window_Rugs_02.jpg"
+header_arrivals_alt: "New Arrivals"
+header_arrivals_height: "30"
+header_arrivals_width: "156"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+header_seasonal_img: "images/CTS_012317_Ecomm_Window_Rugs_03.jpg"
+header_seasonal_alt: "Seasonal"
+header_seasonal_height: "30"
+header_seasonal_width: "128"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+header_furniture_img: "images/CTS_012317_Ecomm_Window_Rugs_04.jpg"
+header_furniture_alt: "Furniture"
+header_furniture_height: "30"
+header_furniture_width: "90"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?mobile=off'
+header_outdoor_img: "images/CTS_012317_Ecomm_Window_Rugs_05.jpg"
+header_outdoor_alt: "Outdoor"
+header_outdoor_height: "30"
+header_outdoor_width: "86"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?skipmobile=true'
+header_clearance_img: "images/CTS_012317_Ecomm_Window_Rugs_06.jpg"
+header_clearance_alt: "Clearance"
+header_clearance_height: "30"
+header_clearance_width: "140"
+
+
+socialnav:
+- img: "images/CTS_012317_Ecomm_Window_Rugs_11.jpg"
+  alt: ""
+  link: "#"
+  width: '145'
+  height: '72'
+
+- img: "images/CTS_012317_Ecomm_Window_Rugs_12.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShopsandThat'
+  width: '48'
+  height: '72'
+
+- img: "images/CTS_012317_Ecomm_Window_Rugs_13.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat'
+  width: '46'
+  height: '72'
+
+- img: "images/CTS_012317_Ecomm_Window_Rugs_14.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops'
+  width: '44'
+  height: '72'
+
+- img: "images/CTS_012317_Ecomm_Window_Rugs_15.jpg"
+  alt: "Find a store near you"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do'
+  width: '176'
+  height: '72'
+
+- img: "images/CTS_012317_Ecomm_Window_Rugs_16.jpg"
+  alt: ""
+  link: '#'
+  width: '141'
+  height: '72'
+
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/CTS_012317_Ecomm_Window_Rugs_07.jpg"
+    img_alt: 'January 23, 2017 Online Only! While Supplies Last! 19.99 pair Panel Pairs 84"l PANEL PAIRS Lined panels with unique three sided construction block light and protect from window related energy loss. SHOP NOW '
+    url: 'http://www.christmastreeshops.com/product/martex-wraparound-curtains-window-hardware-rugs.do'
+    width: '600'
+    height: '745'
+
+  - type: "image"
+    img: "images/CTS_012317_Ecomm_Window_Rugs_08.jpg"
+    img_alt: '9.99 EACH 3/4&#34; Decorative Rods 24-48&#34; extension. Also available: 44-108&#34; extension $14.99 ea. SHOP NOW'
+    url: 'http://www.christmastreeshops.com/product/martex-wraparound-curtains-window-hardware-rugs.do'
+    width: '600'
+    height: '231'
+
+  - type: "image"
+    img: "images/CTS_012317_Ecomm_Window_Rugs_09.jpg"
+    img_alt: '89.99 EACH OVERSIZED RUGS SHOP NOW AMAZING VALUE!'
+    url: 'http://www.christmastreeshops.com/product/martex-wraparound-curtains-window-hardware-rugs.do'
+    width: '600'
+    height: '339'
+
+  - type: "image"
+    img: "images/CTS_012317_Ecomm_Window_Rugs_10.jpg"
+    img_alt: 'Free Shipping Sitewide Online Only! Today Only! On all orders of $65 or More! Use Code at Checkout: CTSFS65174 Expires 1/23/17. See website for complete details.'
+    url: 'http://www.christmastreeshops.com'
+    width: '600'
+    height: '196'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
