@@ -1,0 +1,143 @@
+title: ''
+
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+logo_img_width: "172"
+logo_img_height: "128"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+freeshipping_img_width: "123"
+freeshipping_img_height: "128"
+
+instorepickup_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instorepickup_img_alt: "IN-STORE PICK UP RESERVE ONLINE PAY IN-STORE Learn More"
+instorepickup_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+instorepickup_img_width: "155"
+instorepickup_img_height: "128"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+babyreg_img_width: "150"
+babyreg_img_height: "128"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/"
+nav1_width: "215"
+nav1_height: "61"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "https://www.buybuybaby.com/store/selfservice/FindStore"
+nav2_width: "182"
+nav2_height: "61"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+nav3_width: "203"
+nav3_height: "61"
+
+preheader_text: 'Shop Stokke®'
+preheader_link: 'https://www.buybuybaby.com/store/brand/stokke/489'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: ''
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_02.jpg'
+  image_alt: 'Stokke® modern. sleek. Timeless designs focusd on innovation for your growing little one. shop now Home™ Nursery Home is where the heart is safety tip Never use soft bedding such as quilts, stuffed animals & pillows in cribs'
+  image_link: 'https://www.buybuybaby.com/store/product/stokke-reg-home-crib-in-hazy-grey/3275932'
+  image_height: '526'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_03.jpg'
+  image_alt: 'Stokke® Sleepi™ Crib The oval crib safety tip Never use soft bedding such as quilts, stuffed animals & pillows in cribs'
+  image_link: 'https://www.buybuybaby.com/store/product/stokke-reg-sleepi-white-crib/118180'
+  image_height: '397'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_04.jpg'
+  image_alt: 'Stokke® Flexi Bath™ The foldable baby bath shown with newborn insert'
+  image_link: 'https://www.buybuybaby.com/store/category/bath-potty/bath-tubs-accessories/bath-tubs-seats/32074/32074-4294965885-4294966197/1-48?pagSortOpt=DEFAULT-0&view=grid&refType=true&_requestid=438980'
+  image_height: '397'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_05.jpg'
+  image_alt: 'Tripp Trapp Chair The chair that grows with your baby'
+  image_link: 'https://www.buybuybaby.com/store/category/gifts-more/smart-innovations/nursing-feeding/32707/32707-4294965885-4294966197/1-48?pagSortOpt=DEFAULT-0&subCatPlp=true&a=1&view=grid&refType=true&_requestid=439695'
+  image_height: '397'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_06.jpg'
+  image_alt: 'Stokke® Mycarrier™ Adjustable fit for your baby & you'
+  image_link: 'https://www.buybuybaby.com/store/category/gear-travel/baby-carriers/30539/30539-4294965885-4294966197/1-48?pagSortOpt=DEFAULT-0&view=grid&refType=true&_requestid=439949'
+  image_height: '398'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_07.jpg'
+  image_alt: 'shop Stokke®'
+  image_link: 'https://www.buybuybaby.com/store/brand/stokke/489'
+  image_height: '70'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_08.jpg'
+  image_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stotes or use our find in-store option for easy pick-up. Prices valid only in contiguous United States.'
+  image_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  image_height: '73'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_09.jpg'
+  image_alt: 'for your little cupid cutie shop now'
+  image_link: 'https://www.buybuybaby.com/store/s/valentines-day/4294967217-4294965885-32375/1-48?ta=typeahead&ef=false&isRedirect=true&isFromSWD=true'
+  image_height: '226'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_10.jpg'
+  image_alt: 'add a personal touch start personalizing'
+  image_link: 'http://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/32754/'
+  image_height: '230'
+  image_width: '600'
+
+socialnav:
+- link: ""
+  img: "images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_11.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_12.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_13.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_14.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_15.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_16.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_181_020317_Stokke_BrandStory_v2_r5_DEV_17.jpg"
+  alt: ""
+
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
