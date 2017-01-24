@@ -1,0 +1,201 @@
+title: ''
+
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+logo_img_width: "172"
+logo_img_height: "128"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+freeshipping_img_width: "123"
+freeshipping_img_height: "128"
+
+instorepickup_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instorepickup_img_alt: "IN-STORE PICK UP RESERVE ONLINE PAY IN-STORE Learn More"
+instorepickup_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+instorepickup_img_width: "155"
+instorepickup_img_height: "128"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+babyreg_img_width: "150"
+babyreg_img_height: "128"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/"
+nav1_width: "215"
+nav1_height: "61"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "https://www.buybuybaby.com/store/selfservice/FindStore"
+nav2_width: "182"
+nav2_height: "61"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+nav3_width: "203"
+nav3_height: "61"
+
+preheader_text: 'Safer for baby. Easier for you.'
+preheader_link: 'https://www.buybuybaby.com/store/brand/halo/3169'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: ''
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_02.jpg'
+  image_alt: 'safe & close sleep Your little dreamer can sleep as close to you as you like. Swivel 360 degrees to easily soothe & tend to your baby. shop now'
+  image_link: 'https://www.buybuybaby.com/store/product/halo-trade-bassinest-swivel-sleeper-luxe-in-blue/1060077691'
+  image_height: '443'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_03.jpg'
+  image_alt: 'Bassinest® Swivel Sleeper-Luxe 279.99 Storage caddy to keep baby&#39;s essentials at arm&#39;s reach, plus a floor light to help see at night without making your little one Shown in Blue Medallion Also available in Lemon Drop FREE SHIPPING'
+  image_link: 'https://www.buybuybaby.com/store/product/halo-trade-bassinest-swivel-sleeper-luxe-in-blue/1060077691'
+  image_height: '176'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_04.jpg'
+  image_first_alt: 'Bassinest® Swivel Sleeper Premiere Shown in Rose Leaf Additional colors avaialble 249.99 FREE SHIPPING'
+  image_first_link: 'https://www.buybuybaby.com/store/product/halo-trade-bassinest-swivel-sleeper-premiere-in-rose-leaf/1060077707'
+  image_first_height: '502'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_05.jpg'
+  image_second_alt: 'Bassinest® Essentia Series Swivel Sleeper Shown in Honeycomb 199.99 FREE SHIPPING'
+  image_second_link: 'https://www.buybuybaby.com/store/product/halo-trade-bassinest-trade-essentia-series-swivel-sleeper-in-honeycomb/1043205295'
+  image_second_height: '502'
+  image_second_width: '300'
+
+- type: 'image'
+  image_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_06.jpg'
+  image_alt: 'see why the swivel is the best watch our video'
+  image_link: 'http://video.buybuybaby.com/?v=1624640439'
+  image_height: '200'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_07.jpg'
+  image_alt: 'safe & snug for better sleep'
+  image_link: 'https://www.buybuybaby.com/store/brand/halo/3169'
+  image_height: '68'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_08.jpg'
+  image_first_alt: 'Sleepsack® Wave Fleece Wearable Blanket Also available in Gray 21.99 each'
+  image_first_link: 'https://www.buybuybaby.com/store/brand/halo/3169/4294967217-4294965885-4294966219-32344/1-48?pagSortOpt=DEFAULT-0&isFromSWD=false&_requestid=516056'
+  image_first_height: '405'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_09.jpg'
+  image_second_alt: '3-Way Sleepsack® Swaddle Also available in Micro-fleece 100% cotton 21.99 each'
+  image_second_link: 'https://www.buybuybaby.com/store/product/halo-reg-sleepsack-reg-swaddle-micro-fleece/116437'
+  image_second_height: '405'
+  image_second_width: '300'
+
+- type: 'image'
+  image_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_10.jpg'
+  image_alt: 'shop Halo®'
+  image_link: 'https://www.buybuybaby.com/store/brand/halo/3169'
+  image_height: '59'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_11.jpg'
+  image_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stotes or use our find in-store option for easy pick-up. Prices valid only in contiguous United States.'
+  image_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  image_height: '79'
+  image_width: '600'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_12.jpg'
+  image_first_alt: 'savings center'
+  image_first_link: 'https://www.buybuybaby.com/store/category/clearance-savings/30010/'
+  image_first_height: '60'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_13.jpg'
+  image_second_alt: 'strollers'
+  image_second_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+  image_second_height: '60'
+  image_second_width: '300'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_14.jpg'
+  image_first_alt: 'gifts & more'
+  image_first_link: 'https://www.buybuybaby.com/store/category/gifts-more/32641/'
+  image_first_height: '52'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_15.jpg'
+  image_second_alt: 'car seats'
+  image_second_link: 'https://www.buybuybaby.com/store/category/car-seats/car-seats/32593/'
+  image_second_height: '52'
+  image_second_width: '300'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_16.jpg'
+  image_first_alt: 'furniture collections'
+  image_first_link: 'https://www.buybuybaby.com/store/category/furniture/baby-furniture/furniture-collections/32617/'
+  image_first_height: '63'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_17.jpg'
+  image_second_alt: 'crib mattresses'
+  image_second_link: 'https://www.buybuybaby.com/store/s/matress?ta=typeahead&_requestid=523625'
+  image_second_height: '63'
+  image_second_width: '300'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_18.jpg'
+  image_first_alt: 'registry favorites shop now'
+  image_first_link: 'http://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/32689/'
+  image_first_height: '232'
+  image_first_width: '300'
+  image_second_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_19.jpg'
+  image_second_alt: 'JJ COLE® bundle up in warmth & style shop JJ COLE®'
+  image_second_link: 'https://www.buybuybaby.com/store/brand/jj-cole/461'
+  image_second_height: '232'
+  image_second_width: '300'
+
+- type: 'image'
+  image_url: 'images/bbB_181_020817_Halo_v1_r4_DEV_20.jpg'
+  image_alt: 'SMART INNOVATION shop now'
+  image_link: 'https://www.buybuybaby.com/store/category/gifts-more/smart-innovations/32701/'
+  image_height: '227'
+  image_width: '600'
+
+socialnav:
+- link: ""
+  img: "images/bbB_181_020817_Halo_v1_r4_DEV_21.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_181_020817_Halo_v1_r4_DEV_22.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_181_020817_Halo_v1_r4_DEV_23.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_181_020817_Halo_v1_r4_DEV_24.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_181_020817_Halo_v1_r4_DEV_25.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_181_020817_Halo_v1_r4_DEV_26.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_181_020817_Halo_v1_r4_DEV_27.jpg"
+  alt: ""
+
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
