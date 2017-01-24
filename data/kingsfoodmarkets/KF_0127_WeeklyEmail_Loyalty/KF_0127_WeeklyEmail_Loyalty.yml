@@ -1,0 +1,156 @@
+title: 'Be a Game Day MVP with these Tips & Recipes!'
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9b9a97b8-d1c0-4eaa-9c4f-0c5a244990c9.jpg?ver=1485268619000"
+  img_alt: "Game Day Prep It&#39;s game time! Get set with ideas for simple starters, easy recipes and catering platters."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c94d541e-1556-468f-aa69-c386bdf68815.jpg?ver=1485268702000"
+  img_alt: "Weekly Rewards Offers"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5ec63df2-edb3-4eae-8ebd-4a5b7c1e52ad.jpg?ver=1485268702000"
+  img_alt: "SAVE $1.00 Norwegian Skinless Salmon Portions 7.99 EA."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/aea86baa-efd9-44f1-bcaf-11041fe1bdf8.jpg?ver=1485268702000"
+  img_alt_2: "SAVE 2.00 LB. Kings USDA Prime Certified Angus &#34;Petite&#34; Sirloin Steak 8.99 LB."
+  url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2765dd39-8ab6-4cd3-b6b6-fea8919cd00f.jpg?ver=1485268702000"
+  img_alt: "Not a Member Yet? See Store for Details View Weekly Member Only Offers Offers Loaded on Member Card Create and Share a Shopping List"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d4a9cfd-1d46-47a9-bc14-fa680dbda270.jpg?ver=1485268702000"
+  img_alt: "View More Offers and Make a List Old Greenwich Offers"
+  url: "http://kingsfoodmarkets.com/old-greenwich?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ff90a29f-96f6-47b5-8657-570157a46c53.jpg?ver=1485268703000"
+  img_alt_2: "View More Offers and Make a List Hoboken Offers"
+  url_2: "http://kingsfoodmarkets.com/hoboken?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9c3a8c51-5b13-4be3-bbc1-d0a3b8135ddf.jpg?ver=1485268620000"
+  img_alt: "Set it & Forget It | Slow Cooker Recipes"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/35a34f03-815e-4fec-bebb-ec78487f7ac8.jpg?ver=1485268619000"
+  img_alt: "Slow Cooker Stuffed Portabella Mushrooms View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fde6cfcc-318f-4b1c-a7c8-b456b575229c.jpg?ver=1485268620000"
+  img_alt_2: "Chipotle Pulled Pork Sliders View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d1749b45-5309-48b9-8802-66d6df85a823.jpg?ver=1485268621000"
+  img_alt: "Catering | Easy Options for the Big Game"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5053939b-a11e-494a-a488-23ba23e8811c.jpg?ver=1485268621000"
+  img_alt: "Let Kings' catering team serve up a winning spread for you and your family. Order now, and relax and enjoy the fun on game day!"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c348844d-197c-45a2-92a2-631c07b70b4a.jpg?ver=1485268621000"
+  img_alt: "Tex Mex Dip Platter"
+  url: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d979ad83-30fd-4eee-b62a-ec070422d443.jpg?ver=1485268621000"
+  img_alt_2: "Sweet Treats Dessert Platter"
+  url_2: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/edc6a1c8-f730-46d2-89ab-ff6a81ae4c8d.jpg?ver=1485268621000"
+  img_alt: "View Menu &#62;"
+  url: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2ed7eea2-0413-49ca-b770-9a871625bd75.jpg?ver=1485268621000"
+  img_alt: "Game Day Goodies"
+  url: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a41a363b-1bda-48e1-85ed-90d4b2387fd9.jpg?ver=1485268621000"
+  img_alt: "Kings Football Cookies"
+  url: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ed42ca1f-b553-430c-b724-9f969c825bea.jpg?ver=1485268622000"
+  img_alt_2: "Kings Assorted 2 lb. Cookie Platter"
+  url_2: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/64aac3f7-4b60-4530-ae8e-cd19ba780bf7.jpg?ver=1485268621000"
+  img_alt: "View More &#62;"
+  url: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3519b1a8-b797-483d-b556-db8cbc9cebb2.jpg?ver=1485268622000"
+  img_alt: "Kings Own | Game Day Essentials"
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ea816c25-6cbe-4195-bbe8-7ca451d83856.jpg?ver=1485268622000"
+  img_alt: "Kings has everything you need for game day: Tortilla Chips, Hummus, Crackers, Mini Cookies, and more."
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d5d93e9-9d48-4d1a-b6fc-be7a11e466ff.jpg?ver=1485268622000"
+  img_alt: "View More &#62;"
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4decc7-144f-4dc1-a8cf-aab8fd9d2b1c.jpg?ver=1485268622000"
+  img_alt: "What's New In Store"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fc18e43e-bdbf-4b48-b161-d600b8d6f581.jpg?ver=1485268622000"
+  img_alt: "Kings Microwave Popcorn This wholesome and convenient snack is certified organic, naturally grown without preservatives, and contains no artificial colors or flavors. Choose from Butter flavor or Simply Salted. View More &#62;"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_KF_WeeklyEmail_Loyalty"
