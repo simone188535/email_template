@@ -1,0 +1,120 @@
+title: 'Rye Brook Opening Today!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fe19ac44-8830-41cf-8b5d-e1f325bba868.jpg?ver=1484168395000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/000e4c70-faad-47c0-a4d8-efb71dd75c97.jpg?ver=1485370575000'
+  img_alt: 'Food Love Found Here'
+
+- type: 'image'
+  url: 'www.balduccis.com/ryebrook?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b4d1118b-43da-4636-8e30-357bd676e0e9.jpg?ver=1485370575000'
+  img_alt: 'You&#39;re Invited | Join Us This Weekend'
+
+- type: 'image'
+  url: 'www.balduccis.com/ryebrook?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1c7c7bec-7162-407c-8e6f-74bc89f68fdc.jpg?ver=1485370575000'
+  img_alt: 'Grand Opening Jan. 27 Tastings All Weekend Long Now Open! Balducci&#39;s Rye Brook Join us all weekend from 11AM-3PM in the Rye Ridge Shopping Center for a Grand Opening Celebration. Explore our newest store with tastings, demos, giveaways, live music and more! View Details &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/72d8a93e-9260-4a41-989d-bcc4d87a3cdc.jpg?ver=1485370575000'
+  img_alt: 'Food Love | Top Trends You&#39;ll Love'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5b911d46-d371-4693-b53f-4e93004d7942.jpg?ver=1485370576000'
+  img_alt: 'New! Sriracha or Sesame Ginger Ahi Tuna Poke Our favorite new food trend, fresh, raw ahi tuna tossed in zesty marinades: Sriracha or Sesame Ginger. Seafood Department'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/09f9e13c-e8f6-42fc-b601-304837dd2a4f.jpg?ver=1485370577000'
+  img_alt: '"Kettle & Fire Bone Broth 
+This healthy, paleo beef bone broth is made with marrow bones from 100% grass-fed, organic, pasture-grazed cattle. "'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d94af9d0-70d9-4261-ad48-47c41d63a672.jpg?ver=1485370577000'
+  img_alt: '4th & Heart Ghee Butter Ghee butter is a type of clarified butter that&#39;s heated, reduced and triple filtered, leaving pure, healthy fat. Lactose- and dairy-free, it&#39;s the best alternative to real butter.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8b90cd9a-c48e-4be2-a239-7e95eced4ba0.jpg?ver=1485370578000'
+  img_alt: 'Divvies Cookies Created for people with food allergies, anyone can indulge in these amazing cookies with none of the guilt! They&#39;re vegan, nut-free and non-GMO, too!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/57cfb1c1-8af9-4109-95af-53fd135002a7.jpg?ver=1485370578000'
+  img_alt: 'Member Exclusive'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/66b3199b-0312-47e7-acd1-cba559e8247f.jpg?ver=1485370579000'
+  img_alt: 'Loin Veal Chops Member Exclusive $3 OFF/LB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e3a9b60e-5e5a-4b63-99b3-b1549cbda04a.jpg?ver=1485370579000'
+  img_alt: 'A Winning Game Day Spread'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/58282928-a28b-4eb4-ae42-bca07ee8e61a.jpg?ver=1485370580000'
+  img_alt: 'Game Day Catering Take a timeout on cooking and let our catering team prep the perfect game plan to serve your family and friends in style! Order Now &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0a6cc8a6-0ea9-45c0-af7b-4a2251ae5dd2.jpg?ver=1485370580000'
+  img_alt: 'Game Day Match-Ups | Perfect Pairings'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fbbfdfb0-de54-4d35-978b-eb701a082ee2.jpg?ver=1485370580000'
+  img_alt: 'Meiomi Pinot Noir Pair with: Roots Hummus & Pita Chips'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/95f2ffc3-5886-4599-96e3-42a474913b9a.jpg?ver=1485370581000'
+  img_alt_2: 'Butter Chardonnay Pair with: Balducci&#39;s Virginia Peanuts'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/763cf662-fc94-4bc0-bde7-3bb03cb40452.jpg?ver=1485370582000'
+  img_alt: 'Balducci&#39;s Chardonnay Pair with: Buffalo Wings'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0127_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/022d4444-fb48-41b1-a071-3ce0a15df787.jpg?ver=1485370582000'
+  img_alt_2: 'Balducci&#39;s Garnacha Pair with: Tex-Mex Platter *Wine available at Balducci&#39;s Greenwich'
