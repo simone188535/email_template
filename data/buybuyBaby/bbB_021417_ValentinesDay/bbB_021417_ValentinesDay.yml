@@ -1,0 +1,115 @@
+title: 'Shop Infant Activity'
+
+logo_img_url: "images/bbB_021417_ValentinesDay_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+logo_img_width: "300"
+logo_img_height: "111"
+
+freeshipping_img_url: "images/bbB_021417_ValentinesDay_02.jpg"
+freeshipping_img_alt: "my offers logo"
+freeshipping_img_link: "http://www.buybuybaby.com/store"
+freeshipping_img_width: "300"
+freeshipping_img_height: "111"
+
+instorepickup_img_url: ""
+instorepickup_img_alt: ""
+instorepickup_img_link: ""
+instorepickup_img_width: ""
+instorepickup_img_height: ""
+
+babyreg_img_url: ""
+babyreg_img_alt: ""
+babyreg_img_link: ""
+babyreg_img_width: ""
+babyreg_img_height: ""
+
+nav1_url: ""
+nav1_alt: ""
+nav1_link: ""
+nav1_width: ""
+nav1_height: ""
+
+nav2_url: ""
+nav2_alt: ""
+nav2_link: ""
+nav2_width: ""
+nav2_height: ""
+
+nav3_url: ""
+nav3_alt: ""
+nav3_link: ""
+nav3_width: ""
+nav3_height: ""
+
+preheader_text: ''
+preheader_link: ''
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'images/bbB_021417_ValentinesDay_03.jpg'
+  image_alt: 'something new for you your in-store offer or online offer is waiting!'
+  image_link: '#'
+  image_height: '99'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_021417_ValentinesDay_04.jpg'
+  image_alt: 'hurry! Offer expires 2/21/17 view details 20% off one single item in-store or online exclusive offer for this email address only '
+  image_link: '#'
+  image_height: '368'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_021417_ValentinesDay_05.jpg'
+  image_alt: 'my offers my offers organizes all your offers in the cloud so you can access and redeem them on the go.'
+  image_link: '#'
+  image_height: '142'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_021417_ValentinesDay_06.jpg'
+  image_alt: 'get your offer'
+  image_link: '#'
+  image_height: '93'
+  image_width: '600'
+
+- type: 'image'
+  image_url: 'images/bbB_021417_ValentinesDay_07.jpg'
+  image_alt: 'Or, learn more about my offers'
+  image_link: '#'
+  image_height: '77'
+  image_width: '600'
+
+socialnav:
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.ca/prefsca/dual/pref.cfm?wrap=n&'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
