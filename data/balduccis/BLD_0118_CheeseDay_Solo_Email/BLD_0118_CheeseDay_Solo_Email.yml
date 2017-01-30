@@ -1,0 +1,48 @@
+title: 'Share In Our Love of Cheese!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0984ff9-8445-4e08-bca8-220f45be5821.jpg?ver=1467292845000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1128_BLD_GiftBasketSolo_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/12163b5e-f913-4301-bef1-3992031338f7.jpg?ver=1484661920000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1b78b50-ad64-4fe4-a8d6-ab02559d733a.jpg?ver=1484661920000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4afccab5-dbdd-4910-bf35-396c58b1ccc9.jpg?ver=1484661921000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_CheeseDay_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e0763cff-a8cb-4b3a-8384-0b6c2318a48f.jpg?ver=1484661920000'
+  img_alt: "Balducci&#39;s® Food Lover's Market™"
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_CheeseDay_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a6873cc0-5b98-47d4-9886-e6337f92ccd5.jpg?ver=1484661920000'
+  img_alt: "Celebrate National Cheese Lover&#39;s Day Friday, January 20th Stop by Balducci's on January 20th and share our love of cheese! Enjoy $5 OFF your $20 purchase of hand-cut cheese See store for details | Offer valid 1/20/17 only"
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_CheeseDay_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6336b366-66b4-4873-a3a1-62b113d1e5b5.jpg?ver=1484661920000'
+  img_alt: "Celebrate National Cheese Lover&#39;s Day Friday, January 20th Stop by Balducci's on January 20th and share our love of cheese! Enjoy $5 OFF your $20 purchase of hand-cut cheese See store for details | Offer valid 1/20/17 only"
+
+
+
+
+
