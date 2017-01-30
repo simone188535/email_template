@@ -1,0 +1,100 @@
+title: 'You&#39;re Invited! Rye Brook Grand Opening.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cc1ee165-4c12-4d06-ab6a-979c8949d2d6.jpg?ver=1485360640000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cbe0d483-b845-46ae-a348-2d03f572c62b.jpg?ver=1485360640000'
+  img_alt: 'You&#39;re Invited Grand Opening Jan. 27 Food Love Found Here Rye Ridge Rye Brook, NY Opening Ceremony & Tasting Event Friday 10AM - 3PM Tastings All Weekend Long Learn More >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/550e4755-56ea-4ee5-99cb-b14b22fe8454.jpg?ver=1485360640000'
+  img_alt: 'Come Experience It For Yourself '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1f14eb5a-9db2-4675-9c95-65d29c99c07a.jpg?ver=1485360641000'
+  img_alt: 'Bread-Breaking Ceremony Join us as we open our new store with a bread-breaking ceremony. We&#39;ll celebrate the grand opening with fresh-baked flair. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4e5c5504-485a-438a-bf8e-a19e5f6dfce5.jpg?ver=1485360641000'
+  img_alt: 'Customer Giveaways Arrive early and take home a Balducci&#39;s canvas bag! While supplies last. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2e513976-e1cb-489c-99d4-89547c39a085.jpg?ver=1485360641000'
+  img_alt: 'Chef Demos & Tastings Our Balducci&#39;s chefs will be creating seasonal dishes for tasting. Come and meet our chefs, and get cooking tips as they prepare their tasty recipes. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a845444b-4d40-413d-a285-2a147b4aa172.jpg?ver=1485360641000'
+  img_alt: 'Enter-to-win Sweepstakes Join our myBalducci&#39;s Rewards program for a chance to win a Balducci&#39;s gift basket, including a $200 gift card, for a total value of $500. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2437484a-0062-4149-8a4a-d7fc4c729274.jpg?ver=1485360642000'
+  img_alt: 'Live Music & Entertainment Our musical entertainers will set an enjoyable mood for shopping with classical music, as you peruse our exciting new store.  '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/457b049e-1ba0-492d-978d-97aba8b144a8.jpg?ver=1485360642000'
+  img_alt: 'Balducci&#39;s Nutritionist Shari Bilt Boockvar, MS. RD. Meet the Balducci&#39;s nutritionist and get tips for smarter shopping and meal planning for a healthier lifestyle. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4d1d8b58-d800-40fe-bd1c-29645a63b6f5.jpg?ver=1485360642000'
+  img_alt: 'Come experience it all weekend long Fri., Sat. & Sun. 11AM to 3PM Learn More > Balducci&#39;s® Food Lover&#39;s Market™ | Rye Brook Rye Ridge Shopping Center | 144 South Ridge Road | Rye Brook, NY '
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
