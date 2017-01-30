@@ -1,0 +1,135 @@
+title: 'Attention, Game Day Hosts!'
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f751f8c5-a568-4d9a-b488-a6f1e28f1d27.jpg?ver=1485802558000"
+  img_alt: "Kings Game Day Throwdown Inspirations 2017 Get set for game day with these easy ideas for last-minute football food."
+  url: "https://www.youtube.com/watch?v=Zi4CVEUlLOY"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/802a1a21-2580-454a-90a1-df00f362df80.jpg?ver=1485802558000"
+  img_alt: "Create Muffin Tin Chilaquiles with Chipotle Corn Salsa Watch Video &#62;"
+  url: "https://www.youtube.com/watch?v=Zi4CVEUlLOY"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/37205a7f-676b-4b05-a9a6-271ddd511fce.jpg?ver=1485802558000"
+  img_alt: "Ground Fresh | Our Freshness & Flavor Guarantee"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bcf776e6-8d97-4083-97a5-2310781a5772.jpg?ver=1485802559000"
+  img_alt: "We grind our beef, veal, and pork every day so only the freshest choices are available. We guarantee each meal you make will be full of freshness and flavor—just look for the ground fresh today guarantee."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2d2ed2a0-a00a-4b79-ace9-16fff735e6e8.jpg?ver=1485802559000"
+  img_alt: "Market Specials | Top Picks for the Big Game"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/38112fe3-19cb-4a4a-9655-f5cc9fe7c80c.jpg?ver=1485802559000"
+  img_alt: "Kings Chairman&#39;s Reserve Fresh Baby Back Pork Spare Ribs 3.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9f898ccf-d3df-4bbe-957d-5a78571647ac.jpg?ver=1485802559000"
+  img_alt_2: "Kings USDA Choice Fresh 85% Lean Ground Beef 3.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b3726f95-929a-4c98-a1cf-c8e9b0588706.jpg?ver=1485802559000"
+  img_alt: "View weekly specials &#62;"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d10959a0-5c87-412c-8942-daffdcdaa585.jpg?ver=1485802559000"
+  img_alt: "Order Today | Chef Prepared Game Day Catering"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a55db5d2-672e-492b-bf6c-5c79d201a78e.jpg?ver=1485802560000"
+  img_alt: "It's not too late to order for the big game! Score big at your game day party with our assortment of ready-to-go party platters, apps and more."
+  url: "http://kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/93369708-97dc-4e84-86a4-f388ed4245c8.jpg?ver=1485802560000"
+  img_alt: "Kings Fresh Chef Prepared Sushi Platter $5 OFF"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d0cde742-8f2d-4abc-9547-7ca30e94a900.jpg?ver=1485802560000"
+  img_alt_2: "Kings Brownie Platter"
+  url_2: "http://kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eb4ffb55-9ea9-4435-b1f2-98334c1cec6c.jpg?ver=1485802560000"
+  img_alt: "Grab & Go Greats | Chef Prepared Game Time Eats"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bf64b6ab-59bc-4d84-b7d4-8e404dde07c2.jpg?ver=1485802560000"
+  img_alt: "Kings Ready-To-Go Beef Chili with Beans or Turkey Chili 32 OZ. 9.99 EA."
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/377d1d44-2fdf-45e4-8b3f-ac5d1c74999f.jpg?ver=1485802561000"
+  img_alt_2: "Kings Southwestern Salsa or Pico de Guaco 6.99 LB. Pair with Kings Tortilla Chips"
+  url_2: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6f150d9f-cf81-4648-936b-8561f926dc4b.jpg?ver=1485802561000"
+  img_alt: "View More &#62;"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c8989fea-444c-4204-8186-3e536e9f1e59.jpg?ver=1485802561000"
+  img_alt: "What's New In Store"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85991a8f-9fc0-4f35-8c77-aed869d74b66.jpg?ver=1485802561000"
+  img_alt: "Dinner For Two A delicious Chef Prepared meal and fresh roses are a recipe for romance. Pick up two Chef's Meals and a bouquet for your sweetheart, and set the table for love! View More &#62;"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d1692e4c-faf6-4773-8761-be74a1e992fe.jpg?ver=1485802561000"
+  img_alt: "Eat Better. Eat Veal. Enter for a chance to win $500 in free groceries! Enter Now &#62;"
+  url: "http://vealmadeeasy.com/"
