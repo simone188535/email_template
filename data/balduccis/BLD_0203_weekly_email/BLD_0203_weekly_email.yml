@@ -1,0 +1,140 @@
+title: 'Calling All Hungry Football Fans'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0a93cdf4-ed21-4fc6-b28e-e199cdc70f4f.jpg?ver=1485802366000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://vimeo.com/181937761'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1b7ab06d-5884-4cab-85bf-6f40cb16649c.jpg?ver=1485802367000'
+  img_alt: 'Gridiron Greats Winning app ideas and party-perfect platters for the big game. Create Muffin Tin Chilaquiles Watch Video >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6b357ee6-bfe8-4c35-a049-8e5671bf6641.jpg?ver=1485802367000'
+  img_alt: 'Classic Catering | Fan Favorites'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/099f9ed7-a038-4b4d-b6f1-4d226697a7c8.jpg?ver=1485802368000'
+  img_alt: 'Game Day Catering Pick up the perfect game day spread with our assortment of crowd-pleasing Chef Prepared party platters, appetizers, desserts and more. Order Now >'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/26fca725-386c-4659-82f0-943010768f49.jpg?ver=1485802367000'
+  img_alt: 'Balducci&#39;s BBQ Beef Brisket Football Food'
+  url_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a7c15eee-195e-410d-866a-5134080a3352.jpg?ver=1485802367000'
+  img_alt_2: 'Mini Sandwich Platter'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c320591c-e03f-4b00-8939-6ad23b6d1542.jpg?ver=1485802367000'
+  img_alt: 'Game Day Picks | Entertaining Ideas'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d52f8f88-3d65-441f-94f5-1be4e4cbfeaf.jpg?ver=1485802368000'
+  img_alt: 'Made In-Store Muffaletta Our classic Muffaletta is packed with mortadella, Genoa salami, cappicola, and provolone cheese, then topped with a tangy olive salad. Great for Mardi Gras! '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7f766f89-5db4-496c-9889-3ddeac25d268.jpg?ver=1485802368000'
+  img_alt: 'Yankee Trader Popcorn Shrimp Perfect for Po Boys, these shrimp feature the home-cooked flavor and fresh ingredients that make Yankee Trader seafood a favorite among New Englanders. Great for Mardi Gras!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d0d32709-331b-49eb-bc51-52183db364c5.jpg?ver=1485802368000'
+  img_alt: 'Stonewall Sriracha Aioli Sun-ripened chilis and garlic combine in this robust aioli that&#39;s mixed with sriracha for a flavorful kick that&#39;s great with seafood, on sandwiches or as a dipping sauce.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f8dd1dcc-c54a-42e3-b343-474c3262038d.jpg?ver=1485802368000'
+  img_alt: 'Asher&#39;s Gourmet Pretzel Platters Perfectly presented on a platter and ready to serve, these gourmet pretzels are covered in chocolate for the ideal blend of sweet and salty flavor. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/52244ea1-0926-4d4e-9ad4-4bde4f7be63a.jpg?ver=1485802368000'
+  img_alt: 'Member Exclusive | Football Food'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c0de220e-22b3-49bf-8d2b-d8911a94dc41.jpg?ver=1485802369000'
+  img_alt: 'Dakota Organic Grass-Fed Fresh Ground Beef Member Exclusive 10.99/EA Reg 12.99 '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/valentines?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8680d0a2-cd0e-4288-8d6f-9dd5744ed38f.jpg?ver=1485802369000'
+  img_alt: 'Valentine&#39;s Catering | Table for Two'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/valentines?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/701dc8c5-fd28-4aad-8b25-3b323fd3175a.jpg?ver=1485802369000'
+  img_alt: 'Chef Prepared Valentine&#39;s Day Catering Valentine&#39;s Day is just heartbeats away. You set the time and we&#39;ll set the mood with an intimate dinner catered by our team of chefs. View Menu > '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/valentines?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f8aaa56f-6c07-4d5f-8ffc-20d10a7d47b0.jpg?ver=1485802369000'
+  img_alt: 'In Our Patisserie Chocolate Dipped Strawberries '
+  url_2: 'http://www.balduccis.com/catering/valentines?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2edc130e-358d-4fe4-af7d-961e9bf4ea83.jpg?ver=1485802369000'
+  img_alt_2: 'In Our Patisserie French Chocolate Mouse Cake '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7eb767d7-6f11-4961-b327-7e8c17222417.jpg?ver=1485802369000'
+  img_alt: 'What&#39;s New In-Store '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0203_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/28d25704-d864-4ece-b3e5-90006c7d264d.jpg?ver=1485802370000'
+  img_alt: 'Wine & Food Event Join us at Balducci&#39;s Alexandria, Bethesda, and McLean stores for a Valentine&#39;s Day inspired wine and food tasting! Saturday, February 11th Food Samplings…12 noon-5pm Wine Samplings…2-5pm More Info >'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
