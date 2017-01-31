@@ -1,0 +1,113 @@
+title: ' Special Savings COUPON! and Our New Flyer!'
+
+pre_header_text: ''
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com'
+header_logo_img: "images/CTS_020817_NPI_KENNESAW_01.jpg"
+header_logo_alt: "Christmas Tree Shops®"
+header_logo_height: "63"
+header_logo_width: "600"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+header_arrivals_img: "images/CTS_020817_NPI_KENNESAW_02.jpg"
+header_arrivals_alt: "New Arrivals"
+header_arrivals_height: "32"
+header_arrivals_width: "154"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+header_seasonal_img: "images/CTS_020817_NPI_KENNESAW_03.jpg"
+header_seasonal_alt: "Seasonal"
+header_seasonal_height: "32"
+header_seasonal_width: "127"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+header_furniture_img: "images/CTS_020817_NPI_KENNESAW_04.jpg"
+header_furniture_alt: "Furniture"
+header_furniture_height: "32"
+header_furniture_width: "89"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?mobile=off'
+header_outdoor_img: "images/CTS_020817_NPI_KENNESAW_05.jpg"
+header_outdoor_alt: "Outdoor"
+header_outdoor_height: "32"
+header_outdoor_width: "91"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?skipmobile=true'
+header_clearance_img: "images/CTS_020817_NPI_KENNESAW_06.jpg"
+header_clearance_alt: "Clearance"
+header_clearance_height: "32"
+header_clearance_width: "139"
+
+
+socialnav:
+- img: "images/CTS_020817_NPI_KENNESAW_09.jpg"
+  alt: ""
+  link: "#"
+  width: '132'
+  height: '58'
+
+- img: "images/CTS_020817_NPI_KENNESAW_10.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShops'
+  width: '64'
+  height: '58'
+
+- img: "images/CTS_020817_NPI_KENNESAW_11.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat'
+  width: '42'
+  height: '58'
+
+- img: "images/CTS_020817_NPI_KENNESAW_12.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops'
+  width: '45'
+  height: '58'
+
+- img: "images/CTS_020817_NPI_KENNESAW_13.jpg"
+  alt: "Find a store near you"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do'
+  width: '176'
+  height: '58'
+
+- img: "images/CTS_020817_NPI_KENNESAW_14.jpg"
+  alt: ""
+  link: '#'
+  width: '141'
+  height: '58'
+
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/CTS_020817_NPI_KENNESAW_07.jpg"
+    img_alt: 'Special Savings Just for You! $10 Off Any Purchase of $50 or More Click Here to Get Coupon Valid Thru February 20, 2017. Valid in the Kennesaw, GA Location Only.'
+    url: ' '
+    width: '600'
+    height: '354'
+
+  - type: "image"
+    img: "images/CTS_020817_NPI_KENNESAW_08.jpg"
+    img_alt: 'Special Delivery for Email Subscribers! For Great Deals…Check Out Our New Flyer!'
+    url: 'http://www.christmastreeshops.com/flyer'
+    width: '600'
+    height: '614'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
