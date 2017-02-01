@@ -1,0 +1,143 @@
+title: 'February Member Offers!'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+
+#logo_img: ''
+#logo_alt: 'Kings Food Markets'
+#logo_img_space: ''
+#logo_img_space_2: ''
+#store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#store_locator_img: ''
+#store_locator_alt: 'FIND A STORE'
+#weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#weekly_circular_img: ''
+#weekly_circular_alt: 'WEEKLY CIRCULAR'
+#chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#chef_prepared_img: ''
+#chef_prepared_alt: 'CHEF PREPARED'
+#catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#catering_img: ''
+#catering_alt: 'CATERING'
+
+#footer
+#footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_59_JuneLoyaltyEmail"
+#footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7878a77-91ba-4798-8909-c9a383785b5f.jpg?ver=1462839230000"
+#footer_site_alt: "www.kingsfoodmarkets.com"
+#footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+#footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d1a8a42-7b19-4797-8374-7f2b4b7f22c9.jpg?ver=1462839230000"
+#footer_facebook_alt: "facebook"
+#footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+#footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd97367a-001e-4325-9638-f7dfd81ffc02.jpg?ver=1462839230000"
+#footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: "images-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e94f5961-631c-4b79-9f75-b0ebfd82c802.jpg?ver=1485977886000"
+  img_alt: "KINGS REWARDS"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b536c2a4-6b8a-41c1-9e89-e36e474f98b8.jpg?ver=1485977886000"
+  img_alt_2: "Not A Member? Sign Up At Any Register Today!"
+  url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/676e7e09-a59a-4cac-8d8e-7075f5bf8515.jpg?ver=1485980188000"
+  img_alt: "February Winter Inspirations"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/75fde027-218e-4f53-936e-3063eed5e306.jpg?ver=1485980189000"
+  img_alt: "Enjoy Double Points on KINGS Own Brand!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+
+- type: "images-6-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/44d000a1-62d3-4507-aa8b-c61cc71a4e7c.jpg?ver=1485980189000"
+  img_alt: ""
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ae7d9c92-dddb-404d-8426-8b4e13d8f094.jpg?ver=1485980189000"
+  img_alt_2: "Kings Potato Chips 10 oz."
+  url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cb5e5a68-c0d7-4483-8d4c-e21df72f7b28.jpg?ver=1485980189000"
+  img_alt_3: "Kings Tortilla Chips 10 oz."
+  url_3: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_4: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5ca2eb20-5261-4a52-82c4-bd9255cd7cc1.jpg?ver=1485980189000"
+  img_alt_4: "Kings Organic Popcorn 5 oz."
+  url_4: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_5: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bf0cddf9-34e4-4890-ae25-4d87af3d736c.jpg?ver=1485980189000"
+  img_alt_5: "Kings Veggie Chips & Sticks 6 oz."
+  url_5: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_6: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/180dbfc3-44ac-46ce-a385-4071f861a2d2.jpg?ver=1485980189000"
+  img_alt_6: ""
+  url_6: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+
+
+- type: "images-6-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/19a2d412-164a-4a03-9dde-814ea34f6804.jpg?ver=1485980189000"
+  img_alt: ""
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/af58683e-d6a1-4e07-acae-e34646efe054.jpg?ver=1485980190000"
+  img_alt_2: "Kings Sparkling Water Plain, 33.8 fl. oz."
+  url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6c4b41c2-49e9-486a-9a4e-fff15bc7a711.jpg?ver=1485980190000"
+  img_alt_3: "Kings Frozen Pizza 15 oz."
+  url_3: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_4: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eae6474d-3f54-4281-9301-cf8642c2b6b9.jpg?ver=1485980190000"
+  img_alt_4: "Kings Sparkling Lemonade 33.8 fl. oz."
+  url_4: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_5: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7939573b-cc35-48a9-a527-e6a9128455e4.jpg?ver=1485980190000"
+  img_alt_5: "Kings Pretzels 16 oz."
+  url_5: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_6: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8ed790d9-c0b2-46da-89f3-d790da2eadcf.jpg?ver=1485980190000"
+  img_alt_6: ""
+  url_6: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+
+- type: "images-5-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f7690fe3-008c-4f35-b8b2-d8d73315d67a.jpg?ver=1485980190000"
+  img_alt: ""
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e7d54c96-b0b6-4a50-a50f-09a0ca25eeee.jpg?ver=1485980190000"
+  img_alt_2: "Kings Pretzels 16 oz."
+  url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1e13e882-3ef3-4c97-8743-9049e5b722ff.jpg?ver=1485980191000"
+  img_alt_3: "Kings Biscotti All Varieties 7 - 8.5 oz."
+  url_3: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_4: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ac0da4b3-9e0b-448e-8579-e900aed1a39a.jpg?ver=1485980191000"
+  img_alt_4: "Mann Vegetables Organic & Non-Organic 6 - 14 oz."
+  url_4: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+  img_5: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/82d1f880-8554-4d2c-807a-7e9ed7491422.jpg?ver=1485980191000"
+  img_alt_5: ""
+  url_5: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+ 
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8db282ab-c781-44dc-81a4-f8994ba327db.jpg?ver=1485980191000"
+  img_alt: "Don't Forget! Check In-store for our weekly Member Exclusives Flyer!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b225441c-6bf5-40b2-9a2f-4ae07696a77d.jpg?ver=1485980191000"
+  img_alt: "Plus! Introducing Our New Kings Hot Soup Club!"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ab9d7cf9-bde6-488a-85ba-6af1fdc93129.jpg?ver=1485980191000"
+  img_alt: "Buy 5 Kings Hot Soups Get the 6th Free!* (*) The Free Hot Soup will automatically be subtracted from the total. Free value cannot be applied to another item or received as cash."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/68b6f341-9538-4172-91d6-ab896092e37f.jpg?ver=1485980192000"
+  img_alt: ""
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b0d44fc3-2e29-4fa6-b6bd-fdb8e6eda60b.jpg?ver=1485980192000"
+  img_alt: "Remember! Use Your Card Or Phone Number Each Time You Shop To Receive All Your Benefits!"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0201_KF_FebLoyaltyEmail_64"
