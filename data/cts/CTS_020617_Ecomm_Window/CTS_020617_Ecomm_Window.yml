@@ -1,0 +1,117 @@
+title: 'Our New Flyer! and Your COUPON + Free Shipping!'
+
+pre_header_text: ''
+
+primary_color: '#ffffff'
+
+header_logo_link: 'http://www.christmastreeshops.com'
+header_logo_img: "images/CTS_020617_Ecomm_Window_01.jpg"
+header_logo_alt: "Christmas Tree Shops®"
+header_logo_height: "64"
+header_logo_width: "600"
+
+header_arrivals_link: 'http://www.christmastreeshops.com/category/new-arrivals.do'
+header_arrivals_img: "images/CTS_020617_Ecomm_Window_02.jpg"
+header_arrivals_alt: "New Arrivals"
+header_arrivals_height: "31"
+header_arrivals_width: "156"
+
+header_seasonal_link: 'http://www.christmastreeshops.com/category/seasonal.do?mobile=off'
+header_seasonal_img: "images/CTS_020617_Ecomm_Window_03.jpg"
+header_seasonal_alt: "Seasonal"
+header_seasonal_height: "31"
+header_seasonal_width: "128"
+
+header_furniture_link: 'http://www.christmastreeshops.com/category/furniture.do?mobile=off'
+header_furniture_img: "images/CTS_020617_Ecomm_Window_04.jpg"
+header_furniture_alt: "Furniture"
+header_furniture_height: "31"
+header_furniture_width: "90"
+
+header_outdoor_link: 'http://www.christmastreeshops.com/category/outdoor.do?mobile=off'
+header_outdoor_img: "images/CTS_020617_Ecomm_Window_05.jpg"
+header_outdoor_alt: "Outdoor"
+header_outdoor_height: "31"
+header_outdoor_width: "86"
+
+header_clearance_link: 'http://www.christmastreeshops.com/category/clearance.do?skipmobile=true'
+header_clearance_img: "images/CTS_020617_Ecomm_Window_06.jpg"
+header_clearance_alt: "Clearance"
+header_clearance_height: "31"
+header_clearance_width: "140"
+
+
+socialnav:
+- img: "images/CTS_020617_Ecomm_Window_09.jpg"
+  alt: ""
+  link: "#"
+  width: '141'
+  height: '70'
+
+- img: "images/CTS_020617_Ecomm_Window_10.jpg"
+  alt: "Facebook"
+  link: 'https://www.facebook.com/ChristmasTreeShopsandThat'
+  width: '54'
+  height: '70'
+
+- img: "images/CTS_020617_Ecomm_Window_11.jpg"
+  alt: "Pinterest"
+  link: 'https://www.pinterest.com/CTSandThat'
+  width: '43'
+  height: '70'
+
+- img: "images/CTS_020617_Ecomm_Window_12.jpg"
+  alt: "Instagram"
+  link: 'https://instagram.com/christmastreeshops'
+  width: '45'
+  height: '70'
+
+- img: "images/CTS_020617_Ecomm_Window_13.jpg"
+  alt: "Find a store near you"
+  link: 'http://www.christmastreeshops.com/store-locator/landing.do'
+  width: '177'
+  height: '70'
+
+- img: "images/CTS_020617_Ecomm_Window_14.jpg"
+  alt: ""
+  link: '#'
+  width: '140'
+  height: '70'
+
+
+# Loop through articles
+articles:
+  - type: "image"
+    img: "images/CTS_020617_Ecomm_Window_07.jpg"
+    img_alt: 'February 6, 2017 Online Only! While Supplies Last! 9.98 Pair Cotton Velvet Panels 52&#34; x 96&#34;l 104&#34; Total  width. Shop Now!'
+    url: 'www.christmastreeshops.com/product/cotton-velvet-panels.do'
+    width: '600'
+    height: '647'
+
+  - type: "image"
+    img: "images/CTS_020617_Ecomm_Window_08.jpg"
+    img_alt: 'Free Shipping Sitewide Online Only! Today Only! On all orders of $65 or More! Use Code at Checkout: CTSFS65178 Expires 2/6/17. See website for complete details. '
+    url: 'http://www.christmastreeshops.com'
+    width: '600'
+    height: '192'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
