@@ -1,0 +1,119 @@
+title: 'Romantic Dinner for 2 - Order Online! '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0a93cdf4-ed21-4fc6-b28e-e199cdc70f4f.jpg?ver=1485802366000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/valentines?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8bd20eb0-410f-4ed3-8e82-82f2b4942910.jpg?ver=1486477293000'
+  img_alt: 'A Romantic Dinner for Two Indulge your sweetheart with an intimate catered meal.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/valentines?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a921f03d-6305-4182-93ee-5465b26b4459.jpg?ver=1486477293000'
+  img_alt: 'Valentine&#39;s Day Catering'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/valentines?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ad19435e-da64-4625-acc5-9bf12318c4d0.jpg?ver=1486477293000'
+  img_alt: 'Enjoy a romantic dinner for two catered by our team of chefs. Order Online &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1bdccbea-96e5-436f-bede-7bf4789c29b1.jpg?ver=1486477293000'
+  img_alt: 'Chef Prepared | Romantic Meals'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/06c1168c-24df-41f0-8b7b-d86c7de04dbd.jpg?ver=1486477293000'
+  img_alt: 'Beef Tenderloin Au Poivre Member Exclusive $1 Off/LB'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bd1ce7ce-a2b3-4c06-af7a-0c17d2e102a8.jpg?ver=1486477294000'
+  img_alt_2: 'Risotto Milanese'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/033d66c0-3cae-41cd-ad74-50b6717a34ba.jpg?ver=1486477295000'
+  img_alt: 'Grilled Asparagus with Roasted Tomatoes & Goat Cheese'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/36dd3c15-f9d4-4d20-b8db-b174143b6bef.jpg?ver=1486477294000'
+  img_alt_2: 'Tomato Basil Soup'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d6651812-886a-462c-a881-1d3d25840ab9.jpg?ver=1486477294000'
+  img_alt: 'Valentine&#39;s Essentials | The Big 3'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8a97099a-11a7-4ff2-b112-d07e88dabfd0.jpg?ver=1486477292000'
+  img_alt: '12 Long-Stem Red Roses Balducci&#39;s Chocolate Hearts Balducci&#39;s Prosecco'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/171e6bea-23bc-40cf-bb59-1ead45a51562.jpg?ver=1486477294000'
+  img_alt: 'Gourmet Gift Ideas'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e3b136bb-85e3-4ae6-a905-f9ec7c0d1f07.jpg?ver=1486477296000'
+  img_alt: 'Michel Design Works Toujours Paris Collection Fresh floral scents adorned with Paris&#39; classic landmarks, poppies and roses.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4cd20391-16fb-44af-a898-a168d1007c5b.jpg?ver=1486477295000'
+  img_alt: 'Sugarfina Champagne Bears Made with Dom Pérignon Vintage Champagne for Classic Brut and Fashionable Rose flavors.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4b8b9c61-9134-48d9-a0c3-f689adcc55b3.jpg?ver=1486477297000'
+  img_alt: 'Mitica Choco Cherries or Orange Delights Dark chocolate covered cherries with a hint of anisette liqueur, or Candied Valencia orange slices dipped in chocolate.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f280c3a0-3d29-4b80-9767-375b5ec6d4be.jpg?ver=1486477297000'
+  img_alt: 'Piedras de Luna Toasted, salted cashews dipped in chocolate and dusted with cocoa powder.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/76341c58-c985-4e4a-aff1-1d10904a350c.jpg?ver=1486478124000'
+  img_alt: 'What&#39;s New In-Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0210_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0c19d50d-6c64-4935-8242-71ee1eb9cf7e.jpg?ver=1486478124000'
+  img_alt: 'Wine & Food Event Join us for a Valentine&#39;s Day inspired wine and food tasting! Raise a glass to love with the perfect pairings for a romantic dinner. Saturday, February 11th Food Samplings…12 noon-5pm Wine Samplings…2-5pm More Info &#62;'
