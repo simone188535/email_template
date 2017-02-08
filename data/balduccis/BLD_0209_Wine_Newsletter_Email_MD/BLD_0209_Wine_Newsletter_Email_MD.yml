@@ -1,0 +1,73 @@
+title: 'FPO'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_MD'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_MD'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_MD'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_MD'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_MD'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_MD"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/57099de1-aadd-4ab2-8bb7-192fa7b7f40d.jpg?ver=1486566395000'
+  img_alt: 'Wine Newsletter February 2017'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b0faefa8-ccd6-4f25-baa4-d3cce9eb5bc6.jpg?ver=1486566396000'
+  img_alt: 'February Wine &amp; Food Event Saturday, February 11th, 2017 Food Tasting: 12pm-5pm Wine Tasting: 2pm-5pm Save 25% Mix & Match 12 Bottles Or More PLUS • Valentine&#39;s Day Wines • Great Value Wines • Cold Weather Wines'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8327b1ff-bbd9-481a-bfc9-ab3514674d58.jpg?ver=1486566396000'
+  img_alt: 'Vino to Fall For'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/af1716c0-9caa-4bc2-8ed9-5718eacafcfe.jpg?ver=1486566397000'
+  img_alt: 'Raise a glass with your love this Valentine&#39;s Day. Whether you’re looking for something special for sipping, or the perfect pairing for dinner, you&#39;ll find fantastic wines and champagnes worth celebrating at Balducci&#39;s.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/63baf4bf-59b2-4b83-8e37-98adbd922645.jpg?ver=1486566397000'
+  img_alt: 'Balducci&#39;s Chenin Blanc 10.99/BTL Packed with upfront melon fruit, the nose charms with an abundance of guava and gooseberries as well as the signature hint of honey. The palate follows through with fruit flavors balanced by a crisp acid to ensure a fresh and fruity style of wine.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7f838641-fa23-485a-a8fc-8d6c21669620.jpg?ver=1486566397000'
+  img_alt: 'Balducci&#39;s Cabernet Sauvignon 24.99/BTL Sourced from some of the best vineyards in  Napa Valley, this Cabernet is wonderfully ripe  and layered, with a dense color and palate rich in cassis, cherry, spice, chocolate and oak flavors.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4f671005-2365-4958-bb14-32f5b1afd74b.jpg?ver=1486566397000'
+  img_alt: 'Balducci&#39;s Organic Chianti 16.99/BTL 100% Sangiovese grapes certified organic by Agricultura Biologica, this rustic Chianti offers classic old world charm. and you’ll only find it  at Balducci&#39;s.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/11cd9409-1ba6-4622-a770-ee05c2458683.jpg?ver=1486566397000'
+  img_alt: 'Balducci&#39;s Prosecco 14.99/BTL Hailing from the famous Gasparini estate near  the town of Venegazzu, our Prosecco is lively, toasty and creamy with hints of hazelnut and candied fruits and a long, refreshing finish.  Perfect as an aperitif.'
