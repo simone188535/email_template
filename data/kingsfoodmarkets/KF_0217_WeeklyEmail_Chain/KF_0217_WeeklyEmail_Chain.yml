@@ -1,0 +1,137 @@
+title: ''
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cd68e255-1f00-4e89-ae1d-1ed40c0a8ae3.jpg?ver=1487000059000"
+  img_alt: "Classic Comfort Food Celebrate winter with a warm and cozy bowl of chili."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b6476744-b1ad-4399-b375-e5d125205b11.jpg?ver=1487000059000"
+  img_alt: "Create White Bean & Pork Chili"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ac765df6-28d8-432e-8444-0acc3ab78404.jpg?ver=1487000059000"
+  img_alt: "Market Specials"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5ed44d7e-5898-428c-97e5-f8278adfaaa9.jpg?ver=1487000059000"
+  img_alt: "Kings Naturally USDA Choice 85% Lean Ground Beef 4.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/624ebb39-70a3-4ccd-90ae-66a7df81914e.jpg?ver=1487000059000"
+  img_alt_2: "Kings Chairman&#39;s Reserve Center Cut Pork Chops or Roasts 2.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c51b6873-b2d2-425c-a20c-6a321754f80a.jpg?ver=1487000060000"
+  img_alt: "View weekly specials &#62;"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ee0e6db6-1a7e-4b03-85e7-08ca2d1086c2.jpg?ver=1487000060000"
+  img_alt: "National Chili Day | Grab & Go"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/589fc4ec-4ad6-40eb-ad63-87b441eaec31.jpg?ver=1487000060000"
+  img_alt: "Chef inspired Beef or Turkey ChiliJust heat & eat 32 OZ. 9.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e3eaa3c3-c329-4a22-afa2-9e17f0c3c2e0.jpg?ver=1487000060000"
+  img_alt: "Inspired Pairing: Wisconsin Mild Cheddar 5.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6938ca5c-a9a7-498e-b387-e4a08c921802.jpg?ver=1487000060000"
+  img_alt_2: "Inspired Pairing: Store Sliced Corn Bread 5.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a3e42b43-d840-4ff1-b37a-405573d82618.jpg?ver=1487000060000"
+  img_alt: "View More &#62;"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/063f02c2-a744-4382-8a9c-24409632213f.jpg?ver=1487000061000"
+  img_alt: "The Right Spice"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e11a6ab6-eeed-47f0-912c-a9b6e224d996.jpg?ver=1487000061000"
+  img_alt: "Choose spices that will provide just the right kind of kick to your favorite chili recipe. Cinnamon = Sweetness Smoked Paprika =  Smoky flavor Star Anise =  Enhance meaty flavors Clove =  Balances out chili peppers Coriander =  Citrus flavor Cumin =  Earthiness For greater flavor and aroma start with whole spices, toast in a pan, let cool and then grind."
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/77f12552-90bc-4c75-8ce4-fbe7dc8b4a0f.jpg?ver=1487000061000"
+  img_alt: "Chili Essentials | Kings Own Chili Starters"
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/417b1b39-1316-4391-8614-3225589b5f6e.jpg?ver=1487000061000"
+  img_alt: "Find everything you need to create the perfect bowl of chili: canned beans, tomatoes, dried beans, shredded cheese, tortilla chips and more."
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9d8276e0-165e-4987-b16f-849a3e29c18d.jpg?ver=1487000061000"
+  img_alt: " View More &#62;"
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22f27aa3-ecb8-422b-9f1c-6499bc7d3564.jpg?ver=1487000061000"
+  img_alt: "Whats New In Store"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0caf07c-95bc-43f9-b72b-9cedeecd10f9.jpg?ver=1487000062000"
+  img_alt: "Chicken Pot Pie Featured Foodie Recipe by Cathy Roma A rich, creamy chicken pot pie that’s easy to make on a weeknight thanks to frozen vegetables and puff pastry. View Recipe &#62;"
+  url: "http://kingsfoodmarkets.com/unique-recipes/featured-foodie-recipe-chicken-pot-pie?utm_source=weeklyemail&utm_medium=email&utm_campaign=0217_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e296d3da-5671-414b-b78a-8f503dd76f37.jpg?ver=1487000062000"
+  img_alt: "Celebrate Healthy Heart Month with Bigelow Teas Enter to win a one hour personalized healthy eating consultation with Kings&#39; Nutritionist Shari Bilt Boockvar, MS, RD! Enter Contest &#62;"
+  url: "http://www.bigelowtea.com/kings.aspx"
