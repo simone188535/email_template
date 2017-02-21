@@ -1,0 +1,154 @@
+title: ''
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0ed78fa2-e8dd-4964-96da-4ae1f14b0276.jpg?ver=1487703602000"
+  img_alt: "Meatless Options for Lent"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0b00e365-958a-47b1-95ac-25b19557bde7.jpg?ver=1487703602000"
+  img_alt: "Create Hearty Mediterranean Seafood Stew View Recipe &#62;"
+  url: "http://kingsfoodmarkets.com/unique-recipes/hearty-mediterranean-seafood-stew?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a819553e-82cc-4abc-8658-53670314f7cd.jpg?ver=1487703602000"
+  img_alt: "Freshest Catch | Seafood Selections for Lent"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2f9ae558-37e3-4ac3-8a2b-be4fcac21ad8.jpg?ver=1487703603000"
+  img_alt: "Ash Wednesday Special Valid 3/1/17 Only Large White Raw Shrimp Tail On 10.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f2a3d054-54b4-4bcc-a1d2-f3ee18624cc2.jpg?ver=1487703602000"
+  img_alt_2: "Live Organic Mussels 3.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/03d57eb2-9a4c-410d-8a13-fef5b4a863a1.jpg?ver=1487703602000"
+  img_alt: "Kings Maryland Style Crab Cake 4 OZ. 7.49 EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/39b31d68-62d7-4a2c-80bc-2e2430924e88.jpg?ver=1487703603000"
+  img_alt_2: "Kings Fresh Signature New England Clam Chowder 9.99 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d85cad11-62b6-458f-854f-b360b807e313.jpg?ver=1487703603000"
+  img_alt: "View weekly specials &#62;"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bf2a74bc-c255-4619-a589-b47182603cd6.jpg?ver=1487703603000"
+  img_alt: "Chef Prepared | Grab & Go Lenten Favorites"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d9cc8179-f3d9-46b5-ad20-248b6c9f71f5.jpg?ver=1487703603000"
+  img_alt: "Chef Inspired Black Bean Tacos"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b3fcbb87-18d6-4d28-bb80-7fdd0b7fd469.jpg?ver=1487703607000"
+  img_alt_2: "Chef Inspired Tomato & Mozzarella Ficelle"
+  url_2: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a6c0788e-d0e2-4cd9-8bb5-ca800b8b4978.jpg?ver=1487703603000"
+  img_alt: "Inspired Pairing: Chef Inspired Panko Style Tilapia"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25af69f7-3baa-46d5-8df0-1c77e5801fba.jpg?ver=1487703603000"
+  img_alt_2: "Inspired Pairing: Sweet Potato Waffle Fries"
+  url_2: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/474abace-4ffe-4b7b-8163-7b9329303dcb.jpg?ver=1487703603000"
+  img_alt: "View More &#62;"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a5220682-86de-44a9-8948-c6c969697cd9.jpg?ver=1487703604000"
+  img_alt: "Mardi Gras Faves | Celebrate with Festive Treats"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94e0f042-e6a2-46ef-9883-f038d0295921.jpg?ver=1487703604000"
+  img_alt: "King Cake"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/38609edb-9cfe-449d-b032-e6a78b719606.jpg?ver=1487703604000"
+  img_alt_2: "Mardi Gras Cupcakes"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5993ef0f-cc74-409c-adc8-3d092f680bd1.jpg?ver=1487703605000"
+  img_alt: "View More &#62;"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/db3741e0-c054-4902-b2e4-214148ca518e.jpg?ver=1487703606000"
+  img_alt: "Mardi Gras | Unique Recipes"
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/48b49a63-9f18-4196-9487-20082d34c952.jpg?ver=1487703605000"
+  img_alt: "Bourbon Bananas Foster Bread Pudding View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes/oyster-pie-with-johnny-cake-drop-biscuits?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/07e530b0-b617-4de4-a703-4eb42375f0f9.jpg?ver=1487703605000"
+  img_alt_2: "Oyster Pie with Johnny Cake Drop Biscuits View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/oyster-pie-with-johnny-cake-drop-biscuits?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cf7bb8ed-029f-45f9-b16f-73f2b2caf441.jpg?ver=1487703605000"
+  img_alt: "Whats New In Store"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/20d525bc-3848-4cf3-a785-3004132cab57.jpg?ver=1487703605000"
+  img_alt: "It&#39;s a Viewing Party KINGS Own Gourmet and Microwave Popcorn are the perfect snacks for your star-studded viewing party. View More &#62;"
+  url: "http://kingsfoodmarkets.com/kings-own-brand/kings-microwave-popcorn?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ced55800-71c9-4e91-beaf-bce22fff9852.jpg?ver=1487703605000"
+  img_alt: "Celebrate Healthy Heart Month with Bigelow Teas Enter to win a one hour personalized healthy eating consultation with Kings&#39; Nutritionist Shari Bilt Boockvar, MS, RD! Enter Contest &#62;"
+  url: "http://www.bigelowtea.com/kings.aspx"
