@@ -1,0 +1,112 @@
+title: 'Get Ready for a Red Carpet Celebration'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fe19ac44-8830-41cf-8b5d-e1f325bba868.jpg?ver=1484168395000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5f22b630-088c-40fb-b5cf-78d9cfe67698.jpg?ver=1487686291000'
+  img_alt: 'Show Stopping Viewing Party Ideas Create Covered In Gold Cocktails View Recipe &#62;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b94db2a8-8402-480a-9fe4-2beaa3711bf0.jpg?ver=1487686291000'
+  img_alt: 'VIP Viewing Party Essentials'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6277a9f9-63bd-42b1-a82b-94efdb094a7b.jpg?ver=1487686291000'
+  img_alt: 'Phillips Crab & Spinach Dip'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2b5d424-aecc-4467-8aaa-fd39d803c84f.jpg?ver=1487686291000'
+  img_alt_2: 'Balducci&#39;s Caviar'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6b848cf0-85e8-47e8-a6a9-a0f671cd2ee6.jpg?ver=1487686291000'
+  img_alt: 'Star Studded Sweets'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e4f7fa3-827b-44a6-a0e9-a6b29e9be7d6.jpg?ver=1487686291000'
+  img_alt: 'Dolly Sin Cake Two layers of dense chocolate Devil’s food sponge cake filled and iced with Dolly Sin fudge for a very rich chocolate flavor.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/458e70f6-ac1b-429e-9a03-12a8e5933702.jpg?ver=1487686292000'
+  img_alt_2: 'Balducci&#39;s Sea Salt Caramel Popcorn Keep the viewing party popping with this sweet, salty snacking essential.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7ac52893-3ffa-45fa-a8c7-58f793147fc6.jpg?ver=1487686292000'
+  img_alt: 'Try with Nonna Pia’s Balsamic Reduction & Strawberries'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/72345125-2ea9-45ed-b8ab-723bf01caeea.jpg?ver=1487686292000'
+  img_alt_2: 'Try with Nonna Pia’s Balsamic Reduction & Strawberries'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dab8aa11-bbe5-429f-88a8-33edec683e8d.jpg?ver=1487686292000'
+  img_alt: 'Gelato Fiasco Peanut Butter Stracciatella Gelato Gelato created with smooth freshly ground peanut butter and  sea salt mixed with the crunch of abundant chocolate slivers.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bef52fbe-2ee7-4fe4-a3fb-6cf6d3046753.jpg?ver=1487686292000'
+  img_alt: 'Member Exclusive'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/747a06d5-6e8d-4960-a3dc-6a69b6aab942.jpg?ver=1487686293000'
+  img_alt: 'USDA Choice Beef Flank Steaks Member Exclusive Save $2/LB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/69ec1ded-fdf6-4b4c-8aa8-0137f9d77335.jpg?ver=1487686293000'
+  img_alt: 'Marshmallow Madness | Sweet Ideas'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0224_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/13940b80-5593-4258-9eba-9fdceba85850.jpg?ver=1487686293000'
+  img_alt: 'This Is Smashmallow! Each mouth-watering puff is made with the very best simple ingredients, then whipped to perfection for an instant, sweet-tooth satisfying pick me up.'
+
+- type: 'image'
+  url: 'https://vimeo.com/193605975'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1dcc0efd-575c-4347-b384-ce254ddfde2e.jpg?ver=1487686293000'
+  img_alt: 'Video Recipe Idea'
+
+- type: 'image'
+  url: 'https://vimeo.com/193605975'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cab6897c-3d91-4143-bd8b-e88af723badd.jpg?ver=1487686293000'
+  img_alt: 'Homemade Peppermint Marshmallows'
