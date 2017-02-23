@@ -15,19 +15,12 @@
 		<style>
 			* {
 				font-family: sans-serif !important;
-
-                
 			}
-
-
-
-
-    
 
 
             .hide-for-desktop {
 
-                display: block !important;    
+                display: block !important;
 
                 }
             .show-for-small,  .hide-from-mso {
@@ -60,15 +53,16 @@
          .show-for-small, .show-for-mso {
     display: none !important;
   }
-        
-        
+
+
+
 
 		/* What it does: Remove spaces around the email design added by some email clients. */
 		/* Beware: It can remove the padding / margin and add a background color to the compose a reply window. */
         html,
         body {
 	        margin: 0 auto !important;
-            padding: 0px !important;
+            padding: 0 !important;
             height: 100% !important;
             width: 100% !important;
         }
@@ -136,8 +130,6 @@
             text-decoration: none !important;
         }
 
-    
-
         /* What it does: Removes right gutter in Gmail iOS app: https://github.com/TedGoas/Cerberus/issues/89  */
         /* Create one of these media queries for each additional viewport size you'd like to fix */
         /* Thanks to Eric Lepetit @ericlepetitsf) for help troubleshooting */
@@ -177,7 +169,6 @@
                 height: auto !important;
                 margin-left: auto !important;
                 margin-right: auto !important;
-                
             }
 
             /* What it does: Forces table cells into full-width rows. */
@@ -191,7 +182,7 @@
             /* And center justify these ones. */
             .stack-column-center {
                 text-align: center !important;
-                
+                padding: 10px 0;
             }
 
             /* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
@@ -202,18 +193,17 @@
                 margin-right: auto !important;
                 float: none !important;
             }
-            
+
             table.center-on-narrow {
                 display: inline-block !important;
             }
-            
+
                 .show-for-small {
       display: block !important;
-   
     }
-            
+
             .hide-for-desktop {
-            
+
             display: none !important;
         }
 
@@ -234,48 +224,46 @@
         <!-- Email Header : BEGIN -->
         <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="margin: auto;" class="email-container">
 			<tr>
-				<td style="padding: 20px 0; text-align: center; font-size:9.6px; line-height:14px !important; font-family: Arial, Helvetica, sans-serif; color: #838383;" width="200">
-					To ensure you continue to receive communications from US Foods in a timely manner and also directly into your inbox, please add <a href="mailto:subscriptions@makeit.usfoods.com" name="Campaign Email" style="color: #838383; text-decoration: underline;"
-                    target="_blank">subscriptions@makeit.usfoods.com</a> to your safe senders list or address book within your email client. <a href="http://links.makeit.usfoods.com/servlet/MailView?ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&j=MTEwMTcwNTg0NgS2&mt=1&rt=0"
-                    name="View as Web" style="color: #838383;" target="_blank" xt="SPCLICKTOVIEW">View as Web page.</a>
+				<td style="padding: 20px 0; text-align: center; font-size:9.6px; line-height:14px !important; font-family: Arial, Helvetica, sans-serif; color: #838383;">
+					To ensure you continue to receive communications from US Foods in a timely manner and also directly into your inbox, please add <a href="mailto:subscriptions@makeit.usfoods.com" name="Campaign Email" style="color: #838383; text-decoration: none;" target="_blank">subscriptions@makeit.usfoods.com</a> to your safe senders list or address book within your email client. <a href="http://links.makeit.usfoods.com/servlet/MailView?ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="View as Web" style="color: #838383;" target="_blank" xt="SPCLICKTOVIEW">View as Web page.</a>
 				</td>
 			</tr>
         </table>
         <!-- Email Header : END -->
 
         <!-- Email Body : BEGIN -->
-        <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="margin: auto; border: solid 1px #aaaaaa; " class="email-container">
-        
+        <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="margin: auto;" class="email-container">
 
             <!-- Hero Image, Flush : BEGIN -->
             <tr>
-				<td style="padding: 20px 0px 0px 0px;" bgcolor="#ffffff">
-                <a href="https://www.usfoods.com/food/scoop.html" target="_blank">
-                        <img src="images/USF_email_desktop_02.jpg" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
-                        </a>
+				<td bgcolor="#ffffff">
+                        <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/2fca81ed-d7ec-46b4-80df-33d17f8bf688.jpg" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
 				</td>
             </tr>
             <!-- Hero Image, Flush : END -->
 
             <!-- 1 Column Text : NAVIGATION -->
-            <!--[if mso]>
-                      
-                      <tr><td width="599" valign="top" style="display:flex !important;"><![endif]-->
-            <tr width="599" height="40">
-                <td width="599" valign="top" height="40" class="top-nav hide-for-desktop" bgcolor="#5b8726" style="font-family: Arial, sans-serif; font-weight: 100; border-collapse: collapse; text-align: center; font-size: 13px; color: #ffffff; display: inline-block !important;">&nbsp;&nbsp;
-                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/scoop.html" target="_blank"  style="text-decoration: none; color: #ffffff; ">
-                 <img src="images/navUSF_email_desktop_dev_03.jpg"> </a> &nbsp;
-                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/scoop/scoop-favorites.html" target="_blank"  style="text-decoration: none; color: #ffffff; ">
-                  <img src="images/navUSF_email_desktop_dev_05.jpg"> </a> &nbsp;
-                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/videos.html" target="_blank"  style="text-decoration: none; color: #ffffff; ">
-         <img src="images/navUSF_email_desktop_dev_07.jpg"> </a> &nbsp;
-                                      <a class="footer-nav-link" href="https://www.usfoods.com/your-business.html" target="_blank"  style="text-decoration: none; color: #ffffff; ">
-                <img src="images/navUSF_email_desktop_dev_09.jpg"> </a> &nbsp;
-                                      <a class="footer-nav-link" href="https://www.usfoods.com/about-us.html" target="_blank"  style="text-decoration: none; color: #ffffff; ">
-           <img src="images/navUSF_email_desktop_dev_11.jpg"> </a> &nbsp;
+            <tr>
+                <td valign="top" align="center" class="top-nav hide-for-desktop" bgcolor="#5b8726" style="font-family: Arial, sans-serif; font-weight: 100; line-height: 30px; border-collapse: collapse; text-align: center; font-size: 12px; color: #ffffff;">
+                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/scoop.html" title="Weekly Ad" style="text-decoration: none; color: #ffffff;">
+                  Scoop Magazine
+                  </a><span class="white" style="color: #ffffff;">&nbsp;&nbsp;</span>
+                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/scoop/scoop-favorites.html" title="Rx" style="text-decoration: none; color: #ffffff;">
+                  Scoop Favorites
+                  </a><span class="white" style="color: #ffffff;">&nbsp;&nbsp;</span>
+                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/videos.html" title="Photo" style="text-decoration: none; color: #ffffff;">
+                  Videos
+                  </a><span class="white" style="color: #ffffff;">&nbsp;&nbsp;</span>
+                                      <a class="footer-nav-link" href="https://www.usfoods.com/your-business.html" title="Beauty" style="text-decoration: none; color: #ffffff;">
+                  Your Business
+                  </a><span class="white" style="color: #ffffff;">&nbsp;&nbsp;</span>
+                                      <a class="footer-nav-link" href="https://www.usfoods.com/about-us.html" title="Find Store" style="text-decoration: none; color: #ffffff;">
+                  About Us
+                  </a><span class="white" style="color: #ffffff;">&nbsp;&nbsp;</span>
 
-                                      <a class="footer-nav-link" href="https://www3.usfoods.com/order" target="_blank"  bgcolor="#cf4520" style="text-decoration: none; color: #ffffff;  ">
-            <img src="images/navUSF_email_desktop_dev_13.jpg"> </a> 
+                                      <a class="footer-nav-link" href="https://www3.usfoods.com/order" title="Beauty" bgcolor="#cf4520" style="text-decoration: none; color: #ffffff; background-color:#cf4520; border: 8px solid #cf4520">
+                  Order Now
+                  </a><span class="white" style="color: #ffffff;">&nbsp;&nbsp;</span>
                                     </td>
             </tr>
             <!-- 1 Column Text : NAVIGATION -->
@@ -283,7 +271,8 @@
 
                         <!-- Hero Image, Flush : BEGIN -->
             <tr>
-                <td bgcolor="#ffffff"><a href="https://www.usfoods.com/food/scoop.html" target="_blank"><img src="images/012616_con_USF000_Spring_Scoop_Email_WAVE1_DEV_hero.jpg" width="600" height="" alt="What Millennials Crave Do you speak millennial? If not, it's time to learn. " border="0" align="center" style="width: 100%;  height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img"></a>
+                <td bgcolor="#ffffff">
+                        <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/d3f91bcd-068b-41ce-bd14-c5d63af93be1.jpg" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
                 </td>
             </tr>
             <!-- Hero Image, Flush : END -->
@@ -299,21 +288,27 @@
                             <td class="stack-column">
                                 <table role="presentation" cellspacing="0" cellpadding="0" border="0">
                                     <tr>
-                                        <td style=" text-align: center"><a href="https://www.usfoods.com/food/scoop.html" target="_blank"><img src="images/012616_con_USF000_Spring_Scoop_Email_WAVE1_DEV_Scoop.jpg" width="300" height="54" alt="Check out our latest Scoop edition featuring food innovations designed to attract the Millennial generation. " border="0" class="fluid" style="height: auto; background: #6e6e6e; font-family: sans-serif; font-size: 20px; line-height: 20px; color: #555555;"></a>
+                                        <td style=" text-align: center">
+                                            <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/da26f916-ebb4-43da-8f49-a4eb6050af11.jpg" width="300" height="54" alt="alt_text" border="0" class="fluid" style="height: auto; background: #6e6e6e; font-family: sans-serif; font-size: 20px; line-height: 20px; color: #555555;">
                                         </td>
                                     </tr>
                                 </table>
                             </td>
                             <!-- Column : END -->
                             <!-- Column : BEGIN -->
-                            <td style="background-color:#6e6e6e;" class="stack-column">
+                            <td class="stack-column">
                                 <table role="presentation" cellspacing="0" cellpadding="0" border="0">
                                     <tr>
-                                        <td width="298" style=" font-family: sans-serif; font-size: 18.5px; line-height: 20px; color: #fefefe; text-align: left; padding-bottom: 1px;" class="center-on-narrow hide-from-mso">
-                                            <a href="https://www.usfoods.com/food/scoop.html" target="_blank" style="text-decoration:none; border-bottom: 2px solid #fff; color:#fff;"> 
-                                            <font style="border-bottom: 2px solid white;">VIEW SPRING SCOOP<sup>&trade;</sup>2017</font>&nbsp;<img src="images/012616_con_USF000_Spring_Scoop_Email_whitearrow_05.jpg">
-                                            </a>
-                                        </td>   
+                                        <a href="https://www.usfoods.com/food/scoop.html" target="_blank" style="text-decoration:none; border-bottom: 2px solid #fff; color:#fff;">
+                                        </a><td style=" font-family: sans-serif; font-size: 20px; line-height: 20px; color: #fff; padding: 0 10px 10px; text-align: left;" class="center-on-narrow hide-from-mso">
+                                            <font style="border-bottom: 2px solid white;">View Spring Scoop<sup>&trade;</sup>2017</font>&nbsp;<img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/6fa87e61-d451-4e26-849b-822a330e66bb.jpg">
+                                        </td>
+
+                                    </tr>
+                                    <tr class="show-for-mso">
+                                        <td class="show-for-mso" style=" text-align: center">
+                                            <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/ced21f0e-977c-4fbf-a433-4f0b8a42389c.jpg" width="300" height="54" alt="alt_text" border="0" class="fluid" style="height: auto; background: #6e6e6e; font-family: sans-serif; font-size: 20px; line-height: 20px; color: #555555;">
+                                        </td>
                                     </tr>
                                 </table>
                             </td>
@@ -328,7 +323,7 @@
             <!-- Hero Image, Flush : BEGIN -->
             <tr>
                 <td class="hide-for-desktop" bgcolor="#ffffff">
-                        <img src="images/012616_con_012616_con_USF000_Spring_Scoop_Section_Header_13.jpg" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
+                        <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/bb7344d2-6650-4931-98b5-537438013c97.jpg" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
                 </td>
             </tr>
             <!-- Hero Image, Flush : END -->
@@ -336,7 +331,7 @@
             <!-- MOBILE Hero Image, Flush : BEGIN -->
             <tr>
                 <td class="show-for-small" bgcolor="#ffffff">
-                        <img src="images/012616_con_012616_con_USF000_Spring_Scoop_Section_Header_10.jpg" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
+                        <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/07733ab5-eedb-4f5a-8363-a4e3557b5e07.jpg" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
                 </td>
             </tr>
             <!-- MOBILE Hero Image, Flush : END -->
@@ -344,14 +339,15 @@
 
             <!-- 2 Even Columns : BEGIN -->
             <tr>
-                <td bgcolor="#ffffff" align="center" valign="top">
+                <td bgcolor="#ffffff" align="center" valign="top" style="padding: 10px;">
                     <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                         <tr>
                             <!-- Column : BEGIN -->
                             <td class="stack-column-center">
                                 <table role="presentation" cellspacing="0" cellpadding="0" border="0">
                                     <tr>
-                                        <td style="padding: 10px; text-align: center;"><img src="images/012616_con_USF000_Spring_Scoop_Email_WAVE1_DEV_Trend_01.jpg" width="280" height="270" alt="Indian Curry Sauce Starter " border="0" class="fluid" style="height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
+                                        <td style="padding: 10px; text-align: center">
+                                            <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/7725f975-1904-48dd-9b63-1a6fb4868a86.jpg" width="280" height="270" alt="alt_text" border="0" class="fluid" style="height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
                                         </td>
                                     </tr>
                                 </table>
@@ -360,13 +356,12 @@
                             <!-- Column : BEGIN -->
                             <td class="stack-column-center">
                                 <table role="presentation" cellspacing="0" cellpadding="0" border="0">
-                                    <tr class="hide-for-desktop">
-                                        <td style="padding: 10px; text-align: center;"><a href="https://www.usfoods.com/food/scoop.html" target="_blank"><img src="images/USF_email_desktop_dev_13.jpg" width="280" height="270" alt="" border="0" class="fluid" style="height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;"></a>
-                                        </td>
-                                    </tr>
-                                    <tr class="show-for-small">
-                                        <td style="padding: 0 35px; text-align: center">
-                                            <img src="images/USF_email_mobile_dev_02.jpg" width="280" height="270" alt="alt_text" border="0" class="fluid" style="height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555; ">
+                                    <tr>
+                                        <td style=" font-family: sans-serif; font-size: 15px; line-height: 20px; color: #cf4520; padding: 0 10px 10px; text-align: left;" class="center-on-narrow">
+                                          <font style="font-size:70px;">42%</font><br>
+                                          <font style="font-size:30px;">want more</font><br>
+                                          <font style="font-size:30px;">global cuisine<sup>1</sup> </font><br>
+                                          <font style="border-bottom: 2px solid black; color:#000;">View Product</font> <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/84618144-c042-49c9-83fa-56dcf12bfc4c.jpg">
                                         </td>
                                     </tr>
                                 </table>
@@ -380,7 +375,7 @@
 
             <!-- 2 Even Columns : BEGIN -->
             <tr>
-                <td dir="rtl" bgcolor="#ffffff" align="center" valign="top">
+                <td dir="rtl" bgcolor="#ffffff" align="center" valign="top" style="padding: 10px;">
                     <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                         <tr>
                             <!-- Column : BEGIN -->
@@ -388,7 +383,7 @@
                                 <table role="presentation" cellspacing="0" cellpadding="0" border="0">
                                     <tr>
                                         <td dir="ltr" style="padding: 10px; text-align: center">
-                                            <img src="images/012616_con_USF000_Spring_Scoop_Email_WAVE1_DEV_Trend_02.jpg" width="270" height="270" alt="Corkscrew Shrimp " border="0" class="fluid" style="height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
+                                            <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/6625627e-65fc-4a11-aa1b-68e547aa54ee.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid" style="height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
                                         </td>
 
                                     </tr>
@@ -398,12 +393,14 @@
                             <!-- Column : BEGIN -->
                             <td class="stack-column-center">
                                 <table role="presentation" cellspacing="0" cellpadding="0" border="0">
-                                    <tr class="hide-for-desktop">
-                                        <td dir="ltr" style="padding: 10px; text-align: center"><a href="https://www.usfoods.com/food/scoop.html" target="_blank"><img src="images/USF_email_desktop_dev_15.jpg" width="280" height="270" alt="" border="0" class="fluid" style="height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555; "></a>
-                                        </td>
-                                    </tr> 
-                                    <tr class="show-for-small">
-                                        <td dir="ltr" style="padding: 0 35px; text-align: center"><a href="https://www.usfoods.com/food/scoop.html" target="_blank"><img src="images/USF_email_mobile_dev_04.jpg" width="280" height="270" alt="" border="0" class="fluid" style="height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555; "></a>
+                                    <tr>
+                                        <td dir="ltr" style=" font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #cf4520; padding: 0 10px 10px; text-align: left;" class="center-on-narrow">
+                                          <font style="font-size:70px;">73%</font><br>
+                                          <font style="font-size:30px;">are willing to</font><br>
+                                          <font style="font-size:30px;">pay more for</font><br>
+                                          <font style="font-size:30px;">sustainable </font><br>
+                                          <font style="font-size:30px;">foods<sup>2</sup> </font><br>
+                                          <font style="border-bottom: 2px solid black; color:#000;">View Product</font> <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/84618144-c042-49c9-83fa-56dcf12bfc4c.jpg">
                                         </td>
                                     </tr>
                                 </table>
@@ -417,16 +414,15 @@
 
 
              <!-- Column : BEGIN -->
-             <tr style="background-color:#fff" bgcolor="#fff">
-                            <td style="padding: 20px 0; background-color:#fff" bgcolor="#fff" width="66.66%" class="stack-column-center">
+                            <td bgcolor="#fff" width="66.66%" class="stack-column-center">
                                 <table role="presentation" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
                                     <tr>
-                                        <td dir="ltr" valign="top" style="font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555; padding: 10px; text-align: left; background-color:#fff;" class="center-on-narrow">
+                                        <td dir="ltr" valign="top" style="font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555; padding: 10px; text-align: left;" class="center-on-narrow">
                                             <!-- Button : Begin -->
                                             <table role="presentation" cellspacing="0" cellpadding="0" border="0" class="center-on-narrow">
                                                 <tr>
                                                     <td style="border-radius: 3px; background: #cf4520; text-align: center;" class="button-td">
-                                                        <a href="https://www.usfoods.com/food/scoop.html" target="_blank" style="background: #cf4520; border: 10px solid #cf4520; font-family: sans-serif; font-size: 16px; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold;" class="button-a">
+                                                        <a href="http://www.google.com" style="background: #cf4520; border: 15px solid #cf4520; font-family: sans-serif; font-size: 13px; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold;" class="button-a">
                                                             <span style="color:#ffffff;" class="button-link">&nbsp;&nbsp;&nbsp;&nbsp;VIEW MORE TRENDS&nbsp;&nbsp;&nbsp;&nbsp;</span>
                                                         </a>
                                                     </td>
@@ -437,23 +433,22 @@
                                     </tr>
                                 </table>
                             </td>
-                            </tr>
                             <!-- Column : END -->
 
 
             <!-- Hero Image, Flush : BEGIN -->
             <tr>
                 <td class="hide-for-desktop" bgcolor="#ffffff">
-                        <img src="images/012616_con_012616_con_USF000_Spring_Scoop_Section_Header_21.jpg" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
+                        <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/e59ef68a-c9db-4aaf-ba00-912c3fe0c664.jpg" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
                 </td>
             </tr>
             <!-- Hero Image, Flush : END -->
-            
-            
+
+
             <!-- MOBILE Hero Image, Flush : BEGIN -->
             <tr>
                 <td class="show-for-small" bgcolor="#ffffff">
-                        <img src="images/012616_con_012616_con_USF000_Spring_Scoop_Section_Header_27.jpg" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto; background: #f3f2f0; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555; padding-bottom:30px;" class="g-img">
+                        <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/558e0568-369e-4041-bdae-67129daf4279.jpg" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
                 </td>
             </tr>
             <!-- MOBILE Hero Image, Flush : END -->
@@ -462,7 +457,7 @@
 
             <!-- Thumbnail Left, Text Right : BEGIN -->
             <tr>
-                <td style="padding-bottom:30px;" bgcolor="#f3f2f0" dir="ltr" align="center" valign="top" width="100%">
+                <td bgcolor="#f3f2f0" dir="ltr" align="center" valign="top" width="100%">
                     <table role="presentation" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
                         <tr>
                             <!-- Column : BEGIN -->
@@ -470,7 +465,7 @@
                                 <table role="presentation" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
                                     <tr>
                                         <td dir="ltr" valign="top" style="padding: 0 10px;">
-                                            <img src="images/012616_con_USF000_Spring_Scoop_Email_WAVE1_DEV_Feature01.jpg" width="280" height="284" alt="alt_text" border="0" class="center-on-narrow" style="height: auto; background: #f3f2f0; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
+                                            <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/e07eaa6e-032a-4c4d-b25f-64beaf968cb9.jpg" width="280" height="284" alt="alt_text" border="0" class="center-on-narrow" style="height: auto; width:100%; background: #f3f2f0; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
                                         </td>
                                     </tr>
                                 </table>
@@ -480,8 +475,8 @@
                             <td width="50%" class="stack-column-center">
                                 <table role="presentation" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
                                     <tr>
-                                        <td dir="ltr" valign="top" style="font-family: sans-serif; font-size: 17px; line-height: 23px; color: #555555; padding: 0 20px; text-align: left;" class="center-on-narrow">
-                                            <ul style="list-style-type:none; padding:0; text-indent:-1em;">
+                                        <td dir="ltr" valign="top" style="font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555; padding: 10px; text-align: left;" class="center-on-narrow">
+                                            <ul style="list-style-type:none;">
                                           <li style="list-style-type:none;"><font style="font-weight:bold;">+ Time-Saving</font>: Eliminates the need to slice, batter and fry avocado from scratch.</li>
                                           <br>
                                           <li style="list-style-type:none;"><font style="font-weight:bold;">+ On-Trend</font>: Shareability appeals to a wide range of diners, especially Millennials.</li>
@@ -495,13 +490,13 @@
                                             <table role="presentation" cellspacing="0" cellpadding="0" border="0" class="center-on-narrow">
                                                 <tr>
                                                     <td style="border-radius: 3px; background: #cf4520; text-align: center;" class="button-td">
-                                                        <a href="#" target="_blank" style="background: #cf4520; border: 10px solid #cf4520; font-family: sans-serif; font-size: 16px; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold;" class="button-a">
+                                                        <a href="http://www.google.com" style="background: #cf4520; border: 15px solid #cf4520; font-family: sans-serif; font-size: 13px; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold;" class="button-a">
 						                                    <span style="color:#ffffff;" class="button-link">&nbsp;&nbsp;&nbsp;&nbsp;VIEW PRODUCT&nbsp;&nbsp;&nbsp;&nbsp;</span>
 						                                </a>
                                                     </td>
                                                 </tr>
                                             </table>
-                                            <!-- Button : END-->
+                                            <!-- Button : END -->
                                         </td>
                                     </tr>
                                 </table>
@@ -522,7 +517,8 @@
                             <td width="20%" class="stack-column-center hide-for-desktop">
                                 <table role="presentation" cellspacing="0" cellpadding="0" border="0">
                                     <tr>
-                                        <td><a href="https://www.usftippingpoint.com/" target="_blank"><img src="images/USF_email_desktop_04_01.jpg" width="148" height="142" alt="" border="0" class="fluid" style="height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;"></a>
+                                        <td>
+                                            <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/e1f685ea-e955-48b2-9466-ccc1cfa83a46.jpg" width="148" height="142" alt="alt_text" border="0" class="fluid" style="height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
                                         </td>
                                     </tr>
                                 </table>
@@ -532,10 +528,10 @@
                             <td width="60%" class="stack-column-center hide-for-desktop">
                                 <table role="presentation" cellspacing="0" cellpadding="0" border="0">
                                     <tr>
-                                        <td style=" font-family: Arial, Helvetica, sans-serif; font-size: 17px; line-height: 20px; color: #f3f2f0; padding: 0 10px 10px; text-align: left;" class="center-on-narrow"><a href="https://www.usftippingpoint.com/" target="_blank" style="color:#fff; text-decoration:none;">
-                                        Train your servers on sales techniques that increase their tips and overall check averages.
-                                      <br> 
-                                        <font style=" border-bottom: 2px solid white;">LEARN MORE</font> <img src="images/012616_con_USF000_Spring_Scoop_Email_leanrmorearrow_06.jpg">                                        </a></td>
+                                        <td style=" font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #f3f2f0; padding: 0 10px 10px; text-align: left;" class="center-on-narrow">
+                                            Train your servers on sales techniques that increase their tips and overall check averages.
+                                          <br> <font style=" border-bottom: 2px solid white;">LEARN MORE</font> <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/4cbf2edb-1962-401a-9d9a-0b21612aabf1.jpg">
+                                        </td>
                                     </tr>
                                 </table>
                             </td>
@@ -545,8 +541,8 @@
                 </td>
             </tr>
             <!-- 2 Even Columns : END -->
-            
-            
+
+
 
 
             <!-- 1 Column Text + Button : BEGIN -->
@@ -554,138 +550,164 @@
                 <td bgcolor="#ffffff">
                     <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                     	<tr>
-                            <td style="padding: 40px; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #cf4520;">
+                            <td style="padding: 40px; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
                                   Mintel Foodservice Trends<sup>1</sup>&nbsp;Nielsen<sup>2</sup>
                             </td>
 							</tr>
                     </table>
                 </td>
             </tr>
-            
-            <tr>
-            <td bgcolor="#ffffff">
-                <hr class="show-for-small">
-                </td>
-            </tr>
+
+
             <!-- Mobile Nav BEGIN -->
-            
-            
-             <tr class="show-for-small pad_left" bgcolor="#fff" style="text-align: left; padding-left:25px;" >
+
+
+             <tr class="show-for-small" bgcolor="#fff" style="text-align: left;">
                                     <td valign="top" align="left" class="footer-nav" style="font-family: Arial, sans-serif; font-weight: normal; line-height: 40px; border-collapse: collapse; text-align: left; font-size: 18px; color: #000000 ">
-                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/scoop.html" target="_blank" style="color:#000000; text-decoration: none;">
-                                        <font style="border-bottom: 2px solid black; font-size:17px">SCOOP MAGAZINE</font> <img src="images/012616_con_USF000_Spring_Scoop_Email_footerarrow_19.jpg">
+                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/scoop.html" style="color:#000000; text-decoration: none;">
+                                        <font style="border-bottom: 2px solid black; font-size:17px">SCOOP MAGAZINE</font> <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/4688eb4b-ffbd-4513-be71-aac6664748a3.jpg">
                                       </a>
                                     </td>
                                   </tr>
 
 
-                                  <tr class="show-for-small pad_left" bgcolor="#fff" style="text-align: left; padding-left:25px;">
+                                  <tr class="show-for-small" bgcolor="#fff" style="text-align: left;">
                                     <td valign="top" align="left" class="footer-nav" style="font-family: Arial, sans-serif; font-weight: normal; line-height: 40px; border-collapse: collapse; text-align: left; font-size: 18px; color: #000000;">
-                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/scoop/scoop-favorites.html" target="_blank" style="color:#000000; text-decoration: none;">
-                                        <font style="border-bottom: 2px solid black; font-size:17px">SCOOP FAVORITES</font> <img src="images/012616_con_USF000_Spring_Scoop_Email_footerarrow_19.jpg">
+                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/scoop/scoop-favorites.html" style="color:#000000; text-decoration: none;">
+                                        <font style="border-bottom: 2px solid black; font-size:17px">SCOOP FAVORITES</font> <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/4688eb4b-ffbd-4513-be71-aac6664748a3.jpg">
                                       </a>
                                     </td>
                                   </tr>
 
 
-                                  <tr class="show-for-small pad_left" bgcolor="#fff" style="text-align: left; padding-left:25px;">
+                                  <tr class="show-for-small" bgcolor="#fff" style="text-align: left;">
                                     <td valign="top" align="left" class="footer-nav" style="font-family: Arial, sans-serif; font-weight: normal; line-height: 40px; border-collapse: collapse; text-align: left; font-size: 18px; color: #000000;">
-                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/videos.html" target="_blank" style="color:#000000; text-decoration: none;">
-                                        <font style="border-bottom: 2px solid black; font-size:17px">VIDEOS</font> <img src="images/012616_con_USF000_Spring_Scoop_Email_footerarrow_19.jpg">
+                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/videos.html" style="color:#000000; text-decoration: none;">
+                                        <font style="border-bottom: 2px solid black; font-size:17px">VIDEOS</font> <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/4688eb4b-ffbd-4513-be71-aac6664748a3.jpg">
                                       </a>
                                     </td>
                                   </tr>
 
 
-                                  <tr class="show-for-small pad_left" bgcolor="#fff" style="text-align: left; padding-left:25px;">
+                                  <tr class="show-for-small" bgcolor="#fff" style="text-align: left;">
                                     <td valign="top" align="left" class="footer-nav" style="font-family: Arial, sans-serif; font-weight: normal; line-height: 40px; border-collapse: collapse; text-align: left; font-size: 18px; color: #000000;">
-                                      <a class="footer-nav-link" href="https://www.usfoods.com/your-business.html" target="_blank" style="color:#000000; text-decoration: none;">
-                                        <font style="border-bottom: 2px solid black; font-size:17px">YOUR BUSINESS</font> <img src="images/012616_con_USF000_Spring_Scoop_Email_footerarrow_19.jpg">
+                                      <a class="footer-nav-link" href="https://www.usfoods.com/your-business.html" style="color:#000000; text-decoration: none;">
+                                        <font style="border-bottom: 2px solid black; font-size:17px">YOUR BUSINESS</font> <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/4688eb4b-ffbd-4513-be71-aac6664748a3.jpg">
                                       </a>
                                     </td>
                                   </tr>
 
 
-                                  <tr class="show-for-small pad_left" bgcolor="#fff" style="text-align: left; padding-left:25px;">
+                                  <tr class="show-for-small" bgcolor="#fff" style="text-align: left;">
                                     <td valign="top" align="left" class="footer-nav" style="font-family: Arial, sans-serif; font-weight: normal; line-height: 40px; border-collapse: collapse; text-align: left; font-size: 18px; color: #000000;">
-                                      <a class="footer-nav-link" href="https://www.usfoods.com/about-us.html" target="_blank" style="color:#000000; text-decoration: none;">
-                                        <font style="border-bottom: 2px solid black; font-size:17px">ABOUT US</font> <img src="images/012616_con_USF000_Spring_Scoop_Email_footerarrow_19.jpg">
+                                      <a class="footer-nav-link" href="https://www.usfoods.com/about-us.html" style="color:#000000; text-decoration: none;">
+                                        <font style="border-bottom: 2px solid black; font-size:17px">ABOUT US</font> <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/4688eb4b-ffbd-4513-be71-aac6664748a3.jpg">
                                       </a>
                                     </td>
                                   </tr>
 
 
-                                  <tr class="show-for-small pad_left" bgcolor="#fff" style="text-align: left; padding-left:25px;">
+                                  <tr class="show-for-small" bgcolor="#fff" style="text-align: left;">
                                     <td valign="top" align="left" class="footer-nav" style="font-family: Arial, sans-serif; font-weight: normal; line-height: 40px; border-collapse: collapse; text-align: left; font-size: 18px; color: #000000;">
-                                      <a class="footer-nav-link" href="https://www3.usfoods.com/order" target="_blank" style="color:#000000; text-decoration: none;">
-                                        <font style="border-bottom: 2px solid black; font-size:17px">ORDER NOW</font> <img src="images/012616_con_USF000_Spring_Scoop_Email_footerarrow_19.jpg">
+                                      <a class="footer-nav-link" href="https://www3.usfoods.com/order" style="color:#000000; text-decoration: none;">
+                                        <font style="border-bottom: 2px solid black; font-size:17px">ORDER NOW</font> <img src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/4688eb4b-ffbd-4513-be71-aac6664748a3.jpg">
                                       </a>
                                     </td>
                                   </tr>
-            
-            <!-- Mobile Nav END  -->
+
+            <!-- Mobile Nav END
 
         </table>
         <!-- Email Body : END -->
-        
-        
 
-        
-        
+
+
+
+
 
         <!-- Email Footer : BEGIN -->
         <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="margin: auto;" class="email-container">
                                 <!-- Clear Spacer : BEGIN -->
             <tr>
-                <td height="40" style="font-size: 0; line-height: 0;">&nbsp;
-                    
+                <td height="40" style="font-size: 0; line-height: 0;">
+                    &nbsp;
                 </td>
             </tr>
             <!-- Clear Spacer : END -->
             <tr>
-
+</tr><tr>
                             <td width="9">&nbsp;</td>
             <td align="center" width="42">
-              <a href="http://links.makeit.usfoods.com/ctt?kn=4&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="www_instagram_com_us_foods" target="_blank"><img border="0" height="42" src='images/instagram.png' style="display:block;" width="42" /></a>
+              <a href="http://links.makeit.usfoods.com/ctt?kn=4&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="www_instagram_com_us_foods" target="_blank"><img border="0" height="42" src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/91f87267-06c3-4758-b2ed-691533f3deeb.png" style="display:block;" width="42"></a>
             </td>
             <td width="9">&nbsp;</td>
             <td align="center" width="42">
-              <a href="http://links.makeit.usfoods.com/ctt?kn=9&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="facebook_com_usfoods" target="_blank"><img border="0" height="42" src='images/facebook.png' style="display:block;" width="42" /></a>
+              <a href="http://links.makeit.usfoods.com/ctt?kn=9&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="facebook_com_usfoods" target="_blank"><img border="0" height="42" src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/e7a0d36f-9113-4500-b74f-53d7e4b45685.png" style="display:block;" width="42"></a>
             </td>
             <td width="9">&nbsp;</td>
             <td align="center" width="48">
-              <a href="http://links.makeit.usfoods.com/ctt?kn=12&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="twitter_com_usfoods" target="_blank"><img border="0" height="42" src='images/twitter.png' style="display:block;" width="48" /></a>
+              <a href="http://links.makeit.usfoods.com/ctt?kn=12&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="twitter_com_usfoods" target="_blank"><img border="0" height="42" src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/29a3dd4c-c24f-4c1a-847a-5f21c0de33d5.png" style="display:block;" width="48"></a>
             </td>
             <td width="9">&nbsp;</td>
             <td align="center" width="42">
-              <a href="http://links.makeit.usfoods.com/ctt?kn=1&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="www_youtube_com_usfoods" target="_blank"><img border="0" height="42" src='images/You_Tube.png' style="display:block;" width="42" /></a>
+              <a href="http://links.makeit.usfoods.com/ctt?kn=1&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="www_youtube_com_usfoods" target="_blank"><img border="0" height="42" src="https://gallery.mailchimp.com/dd557109ee96f82c0009f0ea0/images/0a528f16-ee5f-4787-a19b-496fca42e13e.png" style="display:block;" width="42"></a>
             </td>
             <td width="9">&nbsp;</td>
             <td align="center" width="42">
-              <a href="http://links.makeit.usfoods.com/ctt?kn=16&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="www_linkedin_com_company_us_foods" target="_blank"><img border="0" height="42" src='images/linkedin.png' style="display:block;" width="42" /></a>
+              <a href="http://links.makeit.usfoods.com/ctt?kn=16&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="www_linkedin_com_company_us_foods" target="_blank"><img border="0" height="42" src="http://img.mailchimp.com/404-linked%20in.png" style="display:block;" width="42"></a>
             </td>
             <td width="9">&nbsp;</td>
 				       </tr>
+
         </table>
-        <!-- Email Footer : END -->        
+        <!-- Email Footer : END -->
 
         <!-- Email Footer : BEGIN -->
         <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="margin: auto;" class="email-container">
             <tr>
-                <td style="padding: 10px 10px;width: 100%;font-size: 9.6px; font-family: Arial, Helvetica, sans-serif; line-height:18px; text-align: center; color: #888888;" class="x-gmail-data-detectors">
-                    Copyright &copy; US Foods. 2017. All rights reserved. No part of this publication may be reproduced by any means, without prior written permission of US Foods. Contact your US Foods representative with any questions or visit <a href="http://links.makeit.usfoods.com/ctt?kn=5&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0"
-              name="www_usfoods_com_makeit_index_html" style="color: #838383;" target="_blank"> usfoods.com.</a> This email was sent to <a href="http://links.makeit.usfoods.com/ctt?kn=13&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0"
-              name="Email Address on Bottom" style="text-decoration: none; color: #838383;" target="_blank">viviane.raguso@usfoods.com</a>&nbsp; by US Foods, <a href="http://links.makeit.usfoods.com/ctt?kn=7&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" target="_blank"
-              name="Scoop_v2_google_com" style="color: #838383; text-decoration: none;">9399 West Higgins Road, Suite 300, Rosemont, IL, United States.</a>
+                <td style="padding: 40px 10px;width: 100%;font-size: 9.6px; font-family: Arial, Helvetica, sans-serif; line-height:18px; text-align: center; color: #888888;" class="x-gmail-data-detectors">
+                    Copyright &copy; US Foods. 2017. All rights reserved. No part of this publication may be reproduced by any means, without prior written permission of US Foods. Contact your US Foods representative with any questions or visit <a href="http://links.makeit.usfoods.com/ctt?kn=5&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="www_usfoods_com_makeit_index_html" style="color: #838383;" target="_blank"> usfoods.com.</a> This email was sent to <a href="http://links.makeit.usfoods.com/ctt?kn=13&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="Email Address on Bottom" style="text-decoration: none; color: #838383;" target="_blank">viviane.raguso@usfoods.com</a>&nbsp; by US Foods, <a href="http://links.makeit.usfoods.com/ctt?kn=7&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="Scoop_v2_google_com" style="color: #838383; text-decoration: none;">9399 West Higgins Road, Suite 300, Rosemont, IL, United States.</a>
                 </td>
             </tr>
             <tr>
-            <td align="center" style="font-size:10px; line-height:14px !important; font-family: Arial, Helvetica, sans-serif; color: #838383;"><a href="http://links.makeit.usfoods.com/ctt?kn=3&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="term of use" style="color: #838383;" target="_blank">View privacy policy</a> &nbsp;|&nbsp; <a href="http://www.pages02.net/usfoods/PreferenceCenter/OptOut?spMailingID=10476203&spUserID=MTg1MTUyOTQ5MjY3S0&spJobID=MTEwMTcwNTg0NgS2&spReportId=MTEwMTcwNTg0NgS2"
-              name="MK_Opt_Out_Link_Bottom" style="color: #838383;" target="_blank" xt="LPWEBFORMOPTOUT" xtwebform="6334405">Unsubscribe</a></td>
+            <td align="center" style="font-size:10px; line-height:14px !important; font-family: Arial, Helvetica, sans-serif; color: #838383;"><a href="http://links.makeit.usfoods.com/ctt?kn=3&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="term of use" style="color: #838383;" target="_blank">View privacy policy</a> &nbsp;|&nbsp; <a href="http://www.pages02.net/usfoods/PreferenceCenter/OptOut?spMailingID=10476203&spUserID=MTg1MTUyOTQ5MjY3S0&spJobID=MTEwMTcwNTg0NgS2&spReportId=MTEwMTcwNTg0NgS2" name="MK_Opt_Out_Link_Bottom" style="color: #838383;" target="_blank" xt="LPWEBFORMOPTOUT" xtwebform="6334405">Unsubscribe</a></td>
           </tr>
         </table>
         <!-- Email Footer : END -->
 
-    </center>
-</body>
+    </table></center>
+            <center>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" id="canspamBarWrapper" style="background-color:#FFFFFF; border-top:1px solid #E5E5E5;">
+                    <tr>
+                        <td align="center" valign="top" style="padding-top:20px; padding-bottom:20px;">
+                            <table border="0" cellpadding="0" cellspacing="0" id="canspamBar">
+                                <tr>
+                                    <td align="center" valign="top" style="color:#606060; font-family:Helvetica, Arial, sans-serif; font-size:11px; line-height:150%; padding-right:20px; padding-bottom:5px; padding-left:20px; text-align:center;">
+                                        This email was sent to <a href="mailto:devpurered.runme@previews.emailonacid.com" target="_blank" style="color:#404040 !important;">devpurered.runme@previews.emailonacid.com</a>
+                                        <br>
+                                        <a href="http://purered.us12.list-manage1.com/about?u=dd557109ee96f82c0009f0ea0&id=7983aa283a&e=&c=5383686952" target="_blank" style="color:#404040 !important;"><em>why did I get this?</em></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://purered.us12.list-manage.com/unsubscribe?u=dd557109ee96f82c0009f0ea0&id=7983aa283a&e=&c=5383686952" style="color:#404040 !important;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://purered.us12.list-manage.com/profile?u=dd557109ee96f82c0009f0ea0&id=7983aa283a&e=" style="color:#404040 !important;">update subscription preferences</a>
+                                        <br>
+                                        PureRed &middot; 2196 West Park Court &middot; Stone Mountain, Ga 30087 &middot; USA
+                                        <br>
+                                        <br>
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <style type="text/css">
+                    @media only screen and (max-width: 480px){
+                        table#canspamBar td{font-size:14px !important;}
+                        table#canspamBar td a{display:block !important; margin-top:10px !important;}
+                    }
+                </style>
+            </center></body>
 </html>
