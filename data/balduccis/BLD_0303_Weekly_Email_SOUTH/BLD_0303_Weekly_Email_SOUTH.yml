@@ -1,0 +1,107 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0a93cdf4-ed21-4fc6-b28e-e199cdc70f4f.jpg?ver=1485802366000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/613eae80-7c41-434c-8e7f-5ab34fb1511b.jpg?ver=1488299040000'
+  img_alt: 'Italian Amore Found Here Experience a Taste of Italy all month long as we celebrate our Italian heritage.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/09476738-3f54-4ce6-bdfe-9dd5dd46b69e.jpg?ver=1488299040000'
+  img_alt: 'Mangia! Meatball Day is March 9th'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ed8cf75b-81aa-40f6-a0eb-b0a549cb8f30.jpg?ver=1488299040000'
+  img_alt: 'Meatballs in Marinara Member Exclusive: 9.99/LB Reg 10.99'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/646c9aea-f7b1-4287-8f6e-ba2c213b7da1.jpg?ver=1488299040000'
+  img_alt_2: 'New York Italian Meatball Sub Member Exclusive: 6.99/EA Reg 7.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c1b21412-fbc7-4fae-ade8-def51fc93d90.jpg?ver=1488299041000'
+  img_alt: 'A Taste of Italy | Italian Classics'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6f6cfe71-2128-4d1a-8513-c6645d754952.jpg?ver=1488299041000'
+  img_alt: 'AG Ferrari Pasta Non-GMO and made with 100% organic durum wheat semolina, crafted in the traditions of Italy&#39;s finest artisans, using the Bronze die-cut method.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9dff0f91-51df-4ee8-9958-faa7cc163bdb.jpg?ver=1488299041000'
+  img_alt_2: 'Genovese Pesto Sauce A classic staple in the Italian pantry, this pesto is rich in basil, pine nuts, and parmesan cheese. Enjoy it on pasta, pizza, or bruschetta.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ef858a12-7a58-4099-a066-105337f97276.jpg?ver=1488299042000'
+  img_alt: 'Calabro Ricotta The Calabro family has been making Italian cheesesfor over forty years in East Haven, Connecticut. Their ricotta features the clean, milky sweetness you find in great, fresh mozzarella with a fluffy light texture. Available in whole or part-skim.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ea8e9e12-1a6c-40e3-be2b-f0e91b9f7a58.jpg?ver=1488299042000'
+  img_alt: 'Indulgent Italian Desserts'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b27515e1-457c-4c82-b123-377f26ee0225.jpg?ver=1488299042000'
+  img_alt: 'Balducci&#39;s Tiramisu Voted the &#34;Best tiramisu in New York City&#34;!'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2d825e9d-f70f-46ed-aa3e-3864eb368aca.jpg?ver=1488299043000'
+  img_alt_2: 'Balducci&#39;s Cannoli Platter'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/96b27ef2-8c45-420f-a15c-7fb46d70d935.jpg?ver=1488299043000'
+  img_alt: 'Member Exclusive'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2fbbfcfa-6ee6-485e-9071-69330b5e5112.jpg?ver=1488299043000'
+  img_alt: 'Loin Veal Chops Bone-In Member Exclusive: 15.99/LB Reg 17.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0d58f24c-8795-4444-a51e-f355f593cc2c.jpg?ver=1488299038000'
+  img_alt: 'What&#39;s New In-Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6eda6d6a-20b1-4f2d-b0b4-5b2580c33e23.jpg?ver=1488299038000'
+  img_alt: 'Wine & Food Event Raise a glass to our rich Italian heritage and join us for our wine event! Explore our wide assortment of wines that perfectly pair with Italian cuisine. Saturday, March 11th Food Samplings…12 noon-5pm Wine Samplings…2-5pm More Info &#62;'
