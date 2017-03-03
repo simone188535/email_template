@@ -107,12 +107,6 @@
             text-decoration: none !important;
         }
 
-        
-  .desktop-nav {
-
-    display: table-row !important;
-  }
-
         /* What it does: Removes right gutter in Gmail iOS app: https://github.com/TedGoas/Cerberus/issues/89  */
         /* Create one of these media queries for each additional viewport size you'd like to fix */
         /* Thanks to Eric Lepetit @ericlepetitsf) for help troubleshooting */
@@ -125,6 +119,20 @@
 
         .mobile {
     display: none !important;
+  }
+
+  .desktop-nav {
+
+    display: inherit !important;
+  }
+
+  .button-table {
+
+
+    width: auto !important;
+
+
+
   }
 
 
@@ -146,25 +154,19 @@
             border-color: #555555 !important;
         }
 
-
-
-        @media screen and (max-width: 599px) {
-
-
-            #design-menu {
-
-
-                max-width: 100% !important;
-            }
-
-
-
-
-
-        }
-
         /* Media Queries */
         @media screen and (max-width: 480px) {
+
+
+                    table[class="force-row"],
+        table[class="container"],
+        table[class*="button-table"],
+        td[class*="button-cell"],
+        a[class*="button-link"]  {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+        }
 
             /* What it does: Forces elements to resize to the full width of their container. Useful for resizing images beyond their max-width. */
             .fluid {
@@ -210,17 +212,17 @@
         padding-bottom: 10px;
     }
             
-            .desktop-nav {
+            .desktop {
             
             display: none !important;
 
             max-height: none !important;
-            width: auto !important;
-            visibility:hidden !important;
-            width:0 !important;
-            height:0 !important;
-            padding:0 !important;
-            margin:0 !important;
+width: auto !important;
+visibility:hidden !important;
+    width:0 !important;
+    height:0 !important;
+    padding:0 !important;
+    margin:0 !important;
 
         }
 
@@ -240,16 +242,9 @@
           max-width: 100% !important;
         }
 
-        .footer-nav {
+        .desktop-nav {
 
-        font-family: Arial, sans-serif !important;
-         font-weight: normal !important;
-         border-collapse: collapse !important;
-         text-align: left !important;
-         font-size: 18px !important;
-         color: #000000 !important;
-         border-bottom: 2px solid black !important;
-
+            display: none !important;
         }
 
 
@@ -265,7 +260,7 @@
 
         <!-- Visually Hidden Preheader Text : BEGIN -->
         <div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family: sans-serif;">
-            (Optional) This text will appear in the inbox preview, but not the email body.
+            To ensure you continue to receive communications from US Foods in a timely manner and also directly into your inbox, please add subscriptions@makeit.usfoods.com to your safe senders list or address book within your email client. View As Web page. 
         </div>
         <!-- Visually Hidden Preheader Text : END -->
 
@@ -302,34 +297,35 @@
                 <tr>
                     <td bgcolor="#ffffff">
                         <a href="https://www.usfoods.com/food/scoop.html">
-                        <img src="images/USF_email_desktop_DEV_02.jpg" width="680" height="" alt="alt_text" border="0" align="center" class="fluid" style="width: 100%; max-width: 680px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
+                        <img src="images/USF_email_desktop_DEV_02.jpg" width="680" height="" alt="Scoop™" title="Scoop™" border="0" align="center" class="fluid" style="width: 100%; max-width: 680px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
                         </a>
                     </td>
                 </tr>
                 <!-- Hero Image, Flush : END -->
+
                 
                 <!-- Navigation BEGIN -->
                 
                 <tr>
-        <td class="desktop-nav" style="mso-hide: all; display:none;" bgcolor="#5b8726" width="600">
-            <table style="mso-hide: all;" cellpadding="0" cellspacing="0" width="95%">
+        <td class="desktop-nav" style="display:none;" bgcolor="#5b8726" class="desktop" width="600">
+            <table cellpadding="0" cellspacing="0" width="95%">
                 <tr>
-                    <td width="129" align="center" style="padding: 15px 0px; font-family: Arial, Helvetica, sans-serif; font-size: 15px; mso-hide:all;">
+                    <td width="129" align="center" style="padding: 15px 0px; font-family: Arial, Helvetica, sans-serif; font-size: 15px;">
                         <a href="https://www.usfoods.com/food/scoop.html" style="text-decoration: none; color: #fff;">Scoop Magazine</a>
                     </td>
-                    <td width="129" align="center" style="padding: 15px 0px; font-family: arial,sans-serif; font-size: 15px; mso-hide:all;">
+                    <td width="129" align="center" style="padding: 15px 0px; font-family: arial,sans-serif; font-size: 15px;">
                     	<a href="https://www.usfoods.com/food/scoop/scoop-favorites.html" style="text-decoration: none; color: #fff;">Scoop Favorites</a>
                     </td>
-                    <td width="79" align="center" style="padding: 15px 0px; font-family: arial,sans-serif; font-size: 15px; mso-hide:all;">
+                    <td width="79" align="center" style="padding: 15px 0px; font-family: arial,sans-serif; font-size: 15px;">
                     	<a href="https://www.usfoods.com/food/videos.html" style="text-decoration: none; color: #fff;">Videos</a>
                     </td>
-                    <td width="109" align="center" style="padding: 15px 0px; font-family: arial,sans-serif; font-size: 15px; mso-hide:all;">
+                    <td width="109" align="center" style="padding: 15px 0px; font-family: arial,sans-serif; font-size: 15px;">
                     	<a href="https://www.usfoods.com/your-business.html" style="text-decoration: none; color: #fff;">Your Business</a>
                     </td>
-                    <td width="89" align="center" style="padding: 15px 0px; font-family: arial,sans-serif; font-size: 15px; mso-hide:all;">
+                    <td width="89" align="center" style="padding: 15px 0px; font-family: arial,sans-serif; font-size: 15px;">
                     	<a href="https://www.usfoods.com/about-us.html" style="text-decoration: none; color: #fff;">About Us</a>
                     </td>
-                    <td  width="96" align="center" style="padding: 15px 0px; font-family: arial,sans-serif; font-size: 15px; mso-hide:all;">
+                    <td  width="96" align="center" style="padding: 15px 0px; font-family: arial,sans-serif; font-size: 15px;">
                     	<a href="https://www3.usfoods.com/order" style="text-decoration: none; color: #fff; border-bottom:2px solid white;">Order Now</a> <img src="images/navUSF_email_desktop_dev_15.jpg">
                     </td>
                 </tr>
@@ -344,7 +340,7 @@
                 <!-- Hero Image, Flush : BEGIN -->
                 <tr>
                     <td bgcolor="#ffffff">
-                        <a href="https://www.usfoods.com/index.html" alt="Scoop™ US. Foods® Keeping Kitchens Cooking®"><img src="images/USF_email_desktop_DEV_04.jpg" width="680" height="" alt="alt_text" border="0" align="center" class="fluid" style="width: 100%; max-width: 680px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
+                        <a href="http://usfoodsmenu.com/" alt="Introducing US Foods® Menu Success Begins With Your Menu" title="Introducing US Foods® Menu Success Begins With Your Menu"><img src="images/USF_email_desktop_DEV_04.jpg" width="680" height="" border="0" align="center" class="fluid" style="width: 100%; max-width: 680px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
                         </a>
                     </td>
                 </tr>
@@ -373,7 +369,7 @@
                     <!-- Hero Image, Flush : BEGIN -->
                 <tr>
                     <td bgcolor="#ffffff">
-                        <img src="images/012616_USF_Spring_03_02.jpg" width="680" height="" valign="top" alt="alt_text" border="0" align="center" class="fluid" style="width: 100%; max-width: 680px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555; vertical-align:top;" class="g-img">
+                        <img src="images/012616_USF_Spring_03_02.jpg" width="680" height="" valign="top" border="0" align="center" class="fluid" style="width: 100%; max-width: 680px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555; vertical-align:top;" class="g-img">
                     </td>
                 </tr>
                 <!-- Hero Image, Flush : END -->
@@ -402,16 +398,18 @@
                                         <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                                             <tr>
                                                 <td dir="ltr" style="padding: 0 10px 10px 10px;">
-                                                    <img src="images/USF_email_desktop_DEV_07.jpg" width="300" height="" border="0" alt="alt_text" class="center-on-narrow" style="width: 100%; max-width: 300px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
+                                                    <a href="http://usfoodsmenu.com/">
+                                                        <img src="images/USF_email_desktop_DEV_07.jpg" width="300" height="" border="0" alt="DESIGN YOUR MENU Let us help you design a menu that enhances your brand, helping you attract and keep customers. LEARN MORE 86% of diners browse menus online before they dine out.* *Open Table. " title="DESIGN YOUR MENU Let us help you design a menu that enhances your brand, helping you attract and keep customers. LEARN MORE 86% of diners browse menus online before they dine out.* *Open Table. " class="center-on-narrow" style="width: 100%; max-width: 300px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
+                                                    </a>
                                                 </td>
                                             </tr>
                                         </table>
                                     </div>
                                     <!--[if mso]>
                                     </td>
-                                    <td align="left" valign="top" width="440">
+                                    <td align="center" valign="middle" width="440">
                                     <![endif]-->
-                                    <div  id="design-menu" style="display:inline-block; margin: 0 -2px; max-width:50%; vertical-align:top;" class="stack-column">
+                                    <div style="display:inline-block; margin: 0 -2px; max-width:50%; vertical-align:top;" class="stack-column">
                                         <table align="left" role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                                             <tr>
                                                 <td dir="ltr" style="font-family: sans-serif; font-size: 24px; color: #555555; padding: 10px 10px 0; text-align: left;">
@@ -424,18 +422,27 @@
                                                     <font style="text-align: left;">Let us help you design a menu that enhances your brand, helping you attract and keep customers.</font>
                                                     <br><br>
                                                 </div>
+
                                                     <!-- Button : Begin -->
-                                    <table align="left" cellpadding="0" cellspacing="0" height="45" width="180" class="button-table" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center;">
+                                                    <!--[if mso]>
+                                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://usfoodsmenu.com/" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="#cf4520" fill="t">
+                                    <w:anchorlock/>
+                                    <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;">LEARN MORE</center>
+                                  </v:rect>
+                                <![endif]-->
+                                <!--[if !mso]><!-- -->
+                                    <table align="left" cellpadding="0" cellspacing="0" height="45" class="button-table" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center; width:100%;">
                                       <tbody>
                                         <tr style="text-align: left;">
-                                          <td valign="middle" align="left" bgcolor="#cf4520" height="45" class="button-cell promo-button-cell-no-color" width="180" style="color: #000000; font-family: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 21px; line-height: 24px; border-collapse: collapse; text-align: center; vertical-align: middle; display: block; border-radius:3px;">
-                                            <a href="http://www.walgreens.com/store/c/productlist/N=360333-181-367678" class="button-link promo-button-link" title="Shop now &rsaquo;" style="text-align: center; -webkit-text-size-adjust: none; font-family: Helvetica, Arial, sans-serif; line-height: 45px; display: inline-block; font-size: 20px; width: 180px; text-decoration: none; color: #ffffff;">
-                                              <span style="color: #ffffff; vertical-align:middle;">LEARN MORE</span>
+                                          <td align="left" bgcolor="#cf4520" valign="middle" height="45" style="color: #000000; font-family: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 21px; line-height: 24px; border-collapse: collapse; text-align: center; vertical-align: middle; display: block; border-radius:3px;">
+                                            <a href="http://usfoodsmenu.com/" title="Learn More" style="text-align: center; -webkit-text-size-adjust: none; font-family: Helvetica, Arial, sans-serif; line-height: 45px; display: inline-block; font-size: 20px; width: 180px; text-decoration: none; color: #ffffff; vertical-align:middle;">
+                                              <span style="color: #ffffff;">LEARN MORE</span>
                                             </a>
                                           </td>
                                         </tr>
                                       </tbody>
                                     </table>
+                                    <!--<![endif]-->
                                                     <!-- Button : END -->
                                                 </td>
                                             </tr>
@@ -468,6 +475,14 @@
 
             </td>
           </tr>
+
+                <!-- Clear Spacer : BEGIN -->
+                <tr>
+                    <td height="20" bgcolor="#ffffff" style="font-size: 0; line-height: 0;">
+                        &nbsp;
+                    </td>
+                </tr>
+                <!-- Clear Spacer : END -->
                 
                 
                  <!-- Thumbnail Left, Text Right : BEGIN -->
@@ -490,15 +505,15 @@
                                     <div style="display:inline-block; margin: 0 -2px; max-width: 300px; min-width:160px; vertical-align:middle; width:100%;" class="stack-column">
                                         <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                                             <tr>
-                                                <td dir="ltr">
-                                                    <img src="images/USF_email_desktop_DEV_10.jpg" width="300" height="" border="0" alt="alt_text" class="center-on-narrow" style="width: 100%; max-width: 300px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
+                                                <td dir="ltr" style="padding: 0 10px 10px 10px;">
+                                                    <img src="images/USF_email_desktop_DEV_10.jpg" width="300" height="" border="0" alt="Got the Scoop™?" title="Got the Scoop™?" class="center-on-narrow" style="width: 100%; max-width: 300px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
                                                 </td>
                                             </tr>
                                         </table>
                                     </div>
                                     <!--[if mso]>
                                     </td>
-                                    <td align="left" valign="top" width="440">
+                                    <td align="left" valign="middle" width="440">
                                     <![endif]-->
                                     <div style="display:inline-block; margin: 0 -2px; max-width:50%; min-width:320px; vertical-align:middle;" class="stack-column">
                                         <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
@@ -527,39 +542,13 @@
                 </tr>
                 <!-- Thumbnail Left, Text Right : END -->
 
-
- <!-- 2 Even Columns : BEGIN 
+                                <!-- Clear Spacer : BEGIN -->
                 <tr>
-                    <td bgcolor="#ffffff" align="center" height="100%" valign="top" width="100%" style="padding-bottom: 40px">
-                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="max-width:560px;">
-                            <tr>
-                                <td align="center" valign="top" width="50%">
-                                    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="font-size: 14px;text-align: left;">
-                                        <tr>
-                                            <td style="text-align: center; padding: 0 10px;">
-                                                <img src="images/USF_email_desktop_DEV_12.jpg" width="144" height="" alt="alt_text" border="0" align="center" style="max-width: 200px; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </td>
-                                <td align="center" valign="top" width="50%">
-                                    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="font-size: 14px;text-align: left;">
-                                        <tr>
-                                            <td style="text-align: center;font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555; padding: 10px 10px 0;" class="stack-column-center">
-                                                Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora per conubia nostra, per torquent inceptos&nbsp;himenaeos.
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </td>
-                            </tr>
-                        </table>
+                    <td height="20" bgcolor="#ffffff" style="font-size: 0; line-height: 0;">
+                        &nbsp;
                     </td>
                 </tr>
-                 Two Even Columns : END -->
-
-
-
-   
+                <!-- Clear Spacer : END -->
 
 
                 
@@ -581,11 +570,11 @@
                                     <tr>
                                     <td align="left" valign="top" width="220">
                                     <![endif]-->
-                                    <div style="display:inline-block; margin: 0 -2px; max-width: 144px; min-width:160px; vertical-align:middle; width:100%;" class="stack-column">
+                                    <div style="display:inline-block; margin: 0 -2px; max-width: 144px; min-width:160px; vertical-align:top; width:100%;" class="stack-column">
                                         <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                                             <tr>
                                                 <td dir="ltr" style="padding: 0 10px 10px 10px;">
-                                                    <img src="images/USF_email_desktop_DEV_12.jpg" width="144" height="" border="0" alt="alt_text" class="center-on-narrow" bgcolor="#5b8726" style="width: 100%; max-width: 144px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555; background-color:#5b8726;">
+                                                    <img src="images/USF_email_desktop_DEV_12.jpg" width="144" height="" border="0" alt="US. Foods Tipping Point™" title="US. Foods Tipping Point™" class="center-on-narrow" bgcolor="#5b8726" style="width: 100%; max-width: 144px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555; background-color:#5b8726;">
                                                 </td>
                                             </tr>
                                         </table>
@@ -594,11 +583,11 @@
                                     </td>
                                     <td align="left" valign="top" width="440">
                                     <![endif]-->
-                                    <div style="display:inline-block; margin: 0 -2px; max-width:75%; vertical-align:middle;" class="stack-column">
+                                    <div style="display:inline-block; margin: 0 -2px; max-width:75%; vertical-align:top;" class="stack-column">
                                         <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                                             <tr>
                                                 <td dir="ltr" style="font-family: sans-serif; font-size: 23px; line-height: 24px; color: #fff; padding: 10px 10px 0; text-align: left;" class="center-on-narrow">
-                                                    
+                                                    <br class="desktop"><br class="desktop">
                                                     Train your servers on sales techniques that increase their tips and overall check averages.
                                                     <br>
                                                    <a style="text-decoration:none; color:#fff; font-weight:500;" href="https://www.usftippingpoint.com/"><font style="text-transform:uppercase; border-bottom: 2px solid white; font-size:19px;"><br class="mobile">LEARN MORE</font>&nbsp;<img style="text-decoration:none; border: 0;" src="images/USF_email_desktop_greenarrow.jpg"></a>
@@ -631,7 +620,7 @@
 
 
 
-                                <tr class="mobile pad mobile-nav" bgcolor="#fff" style="text-align: left; padding-left:25px; background-color:#ffffff;">
+                                <tr class="mobile pad" bgcolor="#fff" style="text-align: left; padding-left:25px; background-color:#ffffff;">
                                     <td valign="top" align="left" class="footer-nav" style="font-family: Arial, sans-serif; font-weight: normal; border-collapse: collapse; text-align: left; font-size: 18px; color: #000000;">
                                       <br><a class="footer-nav-link" href="https://www3.usfoods.com/order" target="_blank" style="color:#000000; text-decoration: none;">
                                         <span style="border-bottom: 2px solid black; font-size:17px; text-decoration:none; color: #000;">ORDER NOW</span> <img src="images/012616_con_USF000_Spring_Scoop_Email_footerarrow_19.jpg">
@@ -644,10 +633,10 @@
 
             
             
-                                <tr class="mobile pad mobile-nav" bgcolor="#ffffff" style="text-align: left; padding-left:25px; background-color:#ffffff;">
+                                <tr class="mobile pad" bgcolor="#ffffff" style="text-align: left; padding-left:25px; background-color:#ffffff;">
 
                                     <td valign="top" align="left" class="footer-nav" style="font-family: Arial, sans-serif; font-weight: normal;  border-collapse: collapse; text-align: left; font-size: 18px; color: #000000 ">
-                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/scoop.html" target="_blank" style="color:#000000; text-decoration: none; border-bottom: 2px solid black;">
+                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/scoop.html" target="_blank" style="color:#000000; text-decoration: none; ">
 
                                         <span style="border-bottom: 2px solid black; font-size:17px; text-decoration:none; color: #000;">SCOOP MAGAZINE</span> <img src="images/012616_con_USF000_Spring_Scoop_Email_footerarrow_19.jpg">
                                       </a><br><br>
@@ -657,16 +646,16 @@
 
 
 
-                                  <tr class="mobile pad mobile-nav" bgcolor="#fff" style="text-align: left; padding-left:25px; background-color:#ffffff;">
+                                  <tr class="mobile pad" bgcolor="#fff" style="text-align: left; padding-left:25px; background-color:#ffffff;">
                                     <td valign="top" align="left" class="footer-nav" style="font-family: Arial, sans-serif; font-weight: normal; border-collapse: collapse; text-align: left; font-size: 18px; color: #000000;">
-                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/scoop/scoop-favorites.html" target="_blank" style="color:#000000; text-decoration: none; border-bottom: 2px solid black;">
+                                      <a class="footer-nav-link" href="https://www.usfoods.com/food/scoop/scoop-favorites.html" target="_blank" style="color:#000000; text-decoration: none; ">
                                         <span style="border-bottom: 2px solid black; font-size:17px; text-decoration:none; color: #000;">SCOOP FAVORITES</span> <img src="images/012616_con_USF000_Spring_Scoop_Email_footerarrow_19.jpg">
                                       </a> <br><br>
                                     </td>
                                   </tr>
 
 
-                                  <tr class="mobile pad mobile-nav" bgcolor="#fff" style="text-align: left; padding-left:25px; background-color:#ffffff;">
+                                  <tr class="mobile pad" bgcolor="#fff" style="text-align: left; padding-left:25px; background-color:#ffffff;">
                                     <td valign="top" align="left" class="footer-nav" style="font-family: Arial, sans-serif; font-weight: normal; border-collapse: collapse; text-align: left; font-size: 18px; color: #000000;">
                                       <a class="footer-nav-link" href="https://www.usfoods.com/food/videos.html" target="_blank" style="color:#000000; text-decoration: none;">
                                         <span style="border-bottom: 2px solid black; font-size:17px; text-decoration:none; color: #000;">VIDEOS</span> <img src="images/012616_con_USF000_Spring_Scoop_Email_footerarrow_19.jpg">
@@ -675,7 +664,7 @@
                                   </tr>
 
 
-                                  <tr class="mobile pad mobile-nav" bgcolor="#fff" style="text-align: left; padding-left:25px; background-color:#ffffff;">
+                                  <tr class="mobile pad" bgcolor="#fff" style="text-align: left; padding-left:25px; background-color:#ffffff;">
                                     <td valign="top" align="left" class="footer-nav" style="font-family: Arial, sans-serif; font-weight: normal; border-collapse: collapse; text-align: left; font-size: 18px; color: #000000;">
                                       <a class="footer-nav-link" href="https://www.usfoods.com/your-business.html" target="_blank" style="color:#000000; text-decoration: none;">
                                         <span style="border-bottom: 2px solid black; font-size:17px; text-decoration:none; color: #000;">YOUR BUSINESS</span> <img src="images/012616_con_USF000_Spring_Scoop_Email_footerarrow_19.jpg">
@@ -684,7 +673,7 @@
                                   </tr>
 
 
-                                  <tr class="mobile pad mobile-nav" bgcolor="#fff" style="text-align: left; padding-left:25px; background-color:#ffffff;">
+                                  <tr class="mobile pad" bgcolor="#fff" style="text-align: left; padding-left:25px; background-color:#ffffff;">
                                     <td valign="top" align="left" class="footer-nav" style="font-family: Arial, sans-serif; font-weight: normal; border-collapse: collapse; text-align: left; font-size: 18px; color: #000000;">
                                       <a class="footer-nav-link" href="https://www.usfoods.com/about-us.html" target="_blank" style="color:#000000; text-decoration: none; ">
                                         <span style="border-bottom: 2px solid black; font-size:17px; text-decoration:none; color: #000;">ABOUT US</span> <img src="images/012616_con_USF000_Spring_Scoop_Email_footerarrow_19.jpg">
