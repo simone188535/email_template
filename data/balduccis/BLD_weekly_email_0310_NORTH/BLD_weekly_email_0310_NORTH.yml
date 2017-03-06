@@ -1,0 +1,167 @@
+title: 'Top-of-the-Catch Seafood Selections'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0a93cdf4-ed21-4fc6-b28e-e199cdc70f4f.jpg?ver=1485802366000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0e54e617-ee24-4258-a7f3-9fb9e66a3e17.jpg?ver=1488815087000'
+  img_alt: 'Top-of-the-Catch Premium Seafood Selections for Lent Create Seared Swordfish with Roasted Tomatoes & Olives View Recipe > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b88225d1-06b9-4822-ab1e-a77fd45f2507.jpg?ver=1488815087000'
+  img_alt: 'How To Prepare Scallops'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dd3708e9-8c58-4854-9efc-c1911cac8e4e.jpg?ver=1488815087000'
+  img_alt: 'Start with Balducci&#39;s Atlantic Sea Scallops Succulent large sea scallops frozen in ready-to-thaw 1-pound bags.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d6a82a87-bcfe-49da-9530-2d776deeb801.jpg?ver=1488815087000'
+  img_alt_2: 'Start with Balducci&#39;s Atlantic Sea Scallops Succulent large sea scallops frozen in ready-to-thaw 1-pound bags.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1c9da80-654f-4f96-8b7b-c133aa36e44c.jpg?ver=1488815087000'
+  img_alt: '1. Thaw: Place in a large dish covered with plastic wrap. Let them thaw in the refrigerator overnight, or up to 24 hours.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dda717f5-f1b9-4408-8721-6c330e55db1a.jpg?ver=14888150870000'
+  img_alt_2: '1. Thaw: Place in a large dish covered with plastic wrap. Let them thaw in the refrigerator overnight, or up to 24 hours.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/49c4b457-ab23-49da-ac08-1c544b195584.jpg?ver=1488815088000'
+  img_alt: '2. Prep: Remove the scallops&#39; side-muscles if still attached. Pat dry, and sprinkle with a pinch of salt and pepper.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/64978e6b-81ae-47cc-8ab2-ca0d19f940fc.jpg?ver=1488815088000'
+  img_alt_2: '2. Prep: Remove the scallops&#39; side-muscles if still attached. Pat dry, and sprinkle with a pinch of salt and pepper.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a1f42f6-806a-4cf3-b2b1-f63b719aa996.jpg?ver=1488815088000'
+  img_alt: '3. Cook: Heat butter or oil in pan over medium-high heat. Cook 3 minutes per side, or until browned and opaque.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/afb69b4b-9e2f-49d6-9061-81f0c3958d6f.jpg?ver=1488815088000'
+  img_alt_2: '3. Cook: Heat butter or oil in pan over medium-high heat. Cook 3 minutes per side, or until browned and opaque.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/22a603d2-3f16-47cf-9b71-272c318aeb7f.jpg?ver=1488815088000'
+  img_alt: 'Fresh & Frozen | Seafood Selections '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3ba1f0bf-aa1a-4a95-b16d-061ce242a380.jpg?ver=1488815089000'
+  img_alt: 'Wild Caught Haddock Fillets These traditional sweet haddock fillets are exceptional in a classic baked haddock recipe, or enjoy them fried in fish and chips.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/618392b0-b4e4-4bb5-9f5d-b47259d5d11b.jpg?ver=1488815089000'
+  img_alt_2: 'Organic Blue Bay Mussels These tender, sweet mussels from Prince Edward Island, Canada, are perfect for steaming and grilling, or add them to your favorite recipes!'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3c028aee-8106-4a8b-9493-9b934dcb0134.jpg?ver=1488815089000'
+  img_alt: 'Wild Caught Haddock Fillets These traditional sweet haddock fillets are exceptional in a classic baked haddock recipe, or enjoy them fried in fish and chips.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bd85a9b4-10a0-4fbe-827d-61f392fbec98.jpg?ver=1488815089000'
+  img_alt_2: 'Organic Blue Bay Mussels These tender, sweet mussels from Prince Edward Island, Canada, are perfect for steaming and grilling, or add them to your favorite recipes!'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6b6951e6-a7b2-4e47-a87e-9297ec2d8613.jpg?ver=1488815090000'
+  img_alt: 'Wild Caught Icelandic Cod Fillets Just layer these white, flaky fillets with buttered breadcrumbs and white wine and bake for a flavorful, fabulous meal.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b4a57747-4ffc-45e0-9ef7-00c23d8e6c4b.jpg?ver=1488815090000'
+  img_alt_2: 'Wild Caught Icelandic Cod Fillets Just layer these white, flaky fillets with buttered breadcrumbs and white wine and bake for a flavorful, fabulous meal.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5d4c9f72-b148-4373-971c-b9145806849d.jpg?ver=1488815090000'
+  img_alt: 'Member Exclusive | Fresh Seafood '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/47d7c2e8-ce4b-4bbf-b353-ea78c47095ca.jpg?ver=1488815090000'
+  img_alt: 'Wild Caught Haddock Fillets Member Exclusive: $2 OFF/LB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c3aac3c3-df4e-4036-a006-764bb74e6982.jpg?ver=1488815090000'
+  img_alt: 'Corned Beef Selections'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/706e8bb5-7419-4f45-b216-50d7b9382638.jpg?ver=1488815091000'
+  img_alt: 'Classic Corned Beef for St. Patrick&#39;s Day We offer the highest quality guilt-free corned beef options for your holiday meal, free of antibiotics, hormones, nitrates and gluten. Choose from Lou&#39;s Natural&#39;s Garrett Valley First Cut, Dakota 100% Grass Fed Natural and Golden West Organic Beef Round Flat.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/afdf4117-1723-4da0-af33-7fc50cf0cd3f.jpg?ver=1488815091000'
+  img_alt_2: 'Classic Corned Beef for St. Patrick&#39;s Day We offer the highest quality guilt-free corned beef options for your holiday meal, free of antibiotics, hormones, nitrates and gluten. Choose from Lou&#39;s Natural&#39;s Garrett Valley First Cut, Dakota 100% Grass Fed Natural and Golden West Organic Beef Round Flat. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6948c4cb-4fe3-4d10-a569-c3a2c5de49a6.jpg?ver=1488815091000'
+  img_alt: 'What&#39;s New In-Store '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ce251e34-e5cd-4968-94c6-a14331b01a31.jpg?ver=1488815091000'
+  img_alt: 'Take a Journey to Cheesetopia Join us at our annual Ultimate Cheese Tasting Event. Get great tips from our Balducci&#39;s cheesemongers and be inspired by our chefs—taste cheese from around the world. Saturday, March 18th Cheese Tastings…2-5pm More Info >'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f706171e-5b48-4a2f-8dd5-bf4c69836ed8.jpg?ver=1488815092000'
+  img_alt_2: 'Take a Journey to Cheesetopia Join us at our annual Ultimate Cheese Tasting Event. Get great tips from our Balducci&#39;s cheesemongers and be inspired by our chefs—taste cheese from around the world. Saturday, March 18th Cheese Tastings…2-5pm More Info >'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
