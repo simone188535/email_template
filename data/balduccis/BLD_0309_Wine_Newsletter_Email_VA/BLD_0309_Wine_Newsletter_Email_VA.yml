@@ -1,0 +1,90 @@
+title: 'FPO'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_VA'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_VA'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0209_BLD_Wine_Newsletter_Email_VA'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_VA'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_VA'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_MD"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/efaf237a-854f-4d90-b71b-be4a9f50fb8a.jpg?ver=1488833214000'
+  img_alt: 'Wine Newsletter March 2017'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/97aea0d6-7140-4264-ba81-6f13799c93ae.jpg?ver=1488833215000'
+  img_alt: 'Spring Wine & Food Event Saturday, March 11th, 2017Food Tasting: 12pm-5pm Wine Tasting: 2pm-5pmSave 25% Mix & Match 12 Bottles Or More PLUS • Spring Wines • Rosé Wines • Extreme Value Wines!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/027996fc-38ad-451d-8cd4-00439ede3240.jpg?ver=1488833215000'
+  img_alt: 'Must Have Wines'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e62f86bd-c1ed-4183-84cd-a03bb4cfb861.jpg?ver=1488833219000'
+  img_alt: 'Spring has almost sprung!  Looking forward to warmer days and pleasant evenings outside, our attentions turn to the new vintage of Rosé wines—the oenophile&#39;s harbinger of spring'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/462a7987-2e06-4371-8f92-6e2646e2086a.jpg?ver=1488898178000'
+  img_alt: 'Le Petit Balthazar Cinsault Rosé 2016 $9.99/BTL Our most popular rosé for the last three years and a top pick by The Washington Post as well, it offers notes of bracing cantaloupe and watermelon alongside aromatic herbs. Celebrate spring with this wine as if you were already at the beach.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7b796e22-41f9-48e8-abeb-76cfed792464.jpg?ver=1488898179000'
+  img_alt: 'Neil Ellis Sincerely Sauvignon Blanc 2015 $12.99/BTL Predominant flavors are those of tropical fruit with herbaceous overtones, whilst the overall impression is of elegance and delicacy with a long flavorsome finish.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/adff457c-719b-4ead-b702-0e4c22fac920.jpg?ver=1488898179000'
+  img_alt: 'Rutherford Ranch Merlot 2014 $15.99/BTL&#34;Dusty Mexican chocolate meets black plum, cherry and pomegranate in this light-bodied, rounded wine that&#39;s juicy and delicious. It&#39;s well balanced and approachable, so drink up.&#34;-Wine Enthusiast 91pts.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/aba520c5-b24d-42e7-bb10-761520b3bab7.jpg?ver=1488898179000'
+  img_alt: 'Anton Bauer Grüner Veltliner Gmörk 2015 $12.99/BTL As Ben Giliberti of The Washington Post says, &#34;how can you not love a wine named Gmörk?&#34;  A perennial favorite at Balducci&#39;s, we particularly love this wine at this time of year because it pairs beautifully with our famous Mr. Spears asparagus, grilled with salt, pepper and a touch of olive oil. -Perfect with Grilled Asparagus'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bdacc0ed-b6c6-4e11-9de8-b7172a3b413d.jpg?ver=1488833223000'
+  img_alt: 'Wine of the Season | Dry Rosé'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0309_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/56b54a69-61fe-4ea1-8a5e-b30b9a68bebb.jpg?ver=1488833224000'
+  img_alt: 'Dry Rosé—The Perfect Warm Weather Wine John Coleman, Balducci&#39;s Wine Merchant Soon it will be too hot for Cabernet. Thankfully, there&#39;s no need to despair, Rosé wines are here! Perfect for a warm afternoon, dry (yes, dry) Rosé is refreshing in style, yet bears a strong relationship to red wine. It is truly a red lover&#39;s warm weather wine.'
+
+
+
+
+
+
+
