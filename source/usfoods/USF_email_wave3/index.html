@@ -33,86 +33,7 @@
   <!-- Web Font / @font-face : END -->
 
   <!-- CSS Reset -->
-  <style type="text/css" data-embed>
-
-  /* Media Queries */
-    
-    @media screen and (max-width: 599px) {
-      table[class="force-row"], table[class="container"], table[class*="button-table"], td[class*="button-cell"], a[class*="button-link"] {
-        width: 100% !important;
-        max-width: 100% !important;
-        height: auto !important;
-      }
-      /* What it does: Forces elements to resize to the full width of their container. Useful for resizing images beyond their max-width. */
-      .fluid {
-        width: 100% !important;
-        max-width: 100% !important;
-        height: auto !important;
-        margin-left: auto !important;
-        margin-right: auto !important;
-      }
-      /* What it does: Forces table cells into full-width rows. */
-      .stack-column,
-      .stack-column-center {
-        display: block !important;
-        width: 100% !important;
-        max-width: 100% !important;
-        direction: ltr !important;
-      }
-      /* And center justify these ones.
-            .stack-column-center {
-                text-align: center !important;
-            } */
-      /* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
-      .center-on-narrow {
-        text-align: center !important;
-        display: block !important;
-        margin-left: auto !important;
-        margin-right: auto !important;
-        float: none !important;
-      }
-      table.center-on-narrow {
-        display: inline-block !important;
-      }
-      .mobile {
-        display: block !important;
-      }
-      .pad {
-        padding-bottom: 10px;
-      }
-      .desktop {
-        display: none !important;
-        max-height: none !important;
-        width: auto !important;
-        visibility: hidden !important;
-        width: 0 !important;
-        height: 0 !important;
-        padding: 0 !important;
-        margin: 0 !important;
-      }
-      .button-td,
-      .button-a {
-        width: 100% !important;
-        max-width: 100% !important;
-      }
-      table[class="force-row"],
-      table[class="container"],
-      table[class*="button-table"],
-      td[class*="button-cell"],
-      a[class*="button-link"] {
-        width: 100% !important;
-        max-width: 100% !important;
-      }
-      .desktop-nav {
-        display: none !important;
-      }
-      .width-shrinking-td1,
-      .width-shrinking-td2 {
-        width: 50% !important;
-        max-width: 50% !important;
-        font-size: 16px;
-      }
-    }
+  <style>
     @media only screen and (min-device-width:320px) and (max-device-width:1024px) {
       a[href^="tel"], a[href^="sms"], a {
         color: inherit !important;
@@ -214,10 +135,6 @@
         display: none !important;
       }
     }
-
-    </style>
-
-    <style>
     
     div[style*="margin: 16px 0"] {
       margin: 0 !important;
@@ -305,6 +222,13 @@
     /* Create one of these media queries for each additional viewport size you'd like to fix */
     /* Thanks to Eric Lepetit @ericlepetitsf) for help troubleshooting */
     
+    @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+      /* iPhone 6 and 6+ */
+      .email-container {
+        min-width: 375px !important;
+      }
+    }
+    
     .mobile {
       display: none !important;
     }
@@ -336,8 +260,100 @@
     a[href^="mailto"] {
       color: #838383 !important;
     }
+  </style>
 
-  
+  <!-- Progressive Enhancements -->
+  <style>
+    /* What it does: Hover styles for buttons */
+    
+    .button-td,
+    .button-a {
+      transition: all 100ms ease-in;
+    }
+    
+    .button-td:hover,
+    .button-a:hover {
+      background: #555555 !important;
+      border-color: #555555 !important;
+    }
+    /* Media Queries */
+    
+    @media screen and (max-width: 599px) {
+      table[class="force-row"], table[class="container"], table[class*="button-table"], td[class*="button-cell"], a[class*="button-link"] {
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+      }
+      /* What it does: Forces elements to resize to the full width of their container. Useful for resizing images beyond their max-width. */
+      .fluid {
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+      }
+      /* What it does: Forces table cells into full-width rows. */
+      .stack-column,
+      .stack-column-center {
+        display: block !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        direction: ltr !important;
+      }
+      /* And center justify these ones.
+            .stack-column-center {
+                text-align: center !important;
+            } */
+      /* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
+      .center-on-narrow {
+        text-align: center !important;
+        display: block !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        float: none !important;
+      }
+      table.center-on-narrow {
+        display: inline-block !important;
+      }
+      .mobile {
+        display: block !important;
+      }
+      .pad {
+        padding-bottom: 10px;
+      }
+      .desktop {
+        display: none !important;
+        max-height: none !important;
+        width: auto !important;
+        visibility: hidden !important;
+        width: 0 !important;
+        height: 0 !important;
+        padding: 0 !important;
+        margin: 0 !important;
+      }
+      .button-td,
+      .button-a {
+        width: 100% !important;
+        max-width: 100% !important;
+      }
+      table[class="force-row"],
+      table[class="container"],
+      table[class*="button-table"],
+      td[class*="button-cell"],
+      a[class*="button-link"] {
+        width: 100% !important;
+        max-width: 100% !important;
+      }
+      .desktop-nav {
+        display: none !important;
+      }
+      .width-shrinking-td1,
+      .width-shrinking-td2 {
+        width: 50% !important;
+        max-width: 50% !important;
+        font-size: 16px;
+      }
+    }
   </style>
 
 </head>
@@ -550,28 +566,33 @@
                               </tr>
                               <!-- Clear Spacer : END -->
                               <tr>
-                                <td align="center" valign="middle">
+                                <td>
                                   <!-- Button : Begin -->
-								<!--[if mso]>
-								  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://usfoodsmenu.com/" style="height:45px;v-text-anchor:middle;width:180px;" arcsize="10%" stroke="f" fillcolor="#cf4520">
-								    <w:anchorlock/>
-								    <center style="color:#ffffff;font-size:20px;">
-								      VIEW PRODUCTS
-								    </center>
-								  </v:roundrect>
-								  <![endif]-->
-								  <![if !mso]>
-								  <table cellspacing="0" cellpadding="0"> <tr> 
-								  <td align="center" width="180" height="45" bgcolor="#cf4520" style="-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; color: #ffffff; display: block;">
-								    <a href="http://usfoodsmenu.com/" style="font-size:20px; font-weight: bold; font-family: Helvetica, Arial, sans-serif; text-decoration: none; line-height:45px; width:100%; display:inline-block">
-								    <span style="color: #ffffff;">
-								      VIEW PRODUCTS
-								    </span>
-								    </a>
-								  </td> 
-								  </tr> </table> 
-								  <![endif]>
-								<!-- Button : END -->
+                                  <!--[if mso]>
+                                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://usfoodsmenu.com/" style="height:45px;v-text-anchor:middle;width:180px;" stroke="f" fillcolor="#cf4520" fill="t">
+                                    <w:anchorlock/>
+                                    <center style="color:#ffffff;font-family: Helvetica, Arial, sans-serif;font-size:20px;">VIEW PRODUCTS</center>
+                                  </v:rect>
+                                <![endif]-->
+                                  <!--[if !mso]><!-- -->
+                                  <table align="left" cellpadding="0" cellspacing="0" height="45" class="button-table" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center; width:100%;">
+                                    <tbody>
+                                      <tr style="text-align: left;">
+                                        <td align="left" bgcolor="#cf4520" valign="middle" height="45" style="color: #000000; font-family: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 21px; line-height: 24px; border-collapse: collapse; text-align: center; vertical-align: middle; display: block; border-radius:3px;">
+
+                                          <!-- Product Link -->
+                                          <a href="http://usfoodsmenu.com/" title="VIEW PRODUCT" style="text-align: center; -webkit-text-size-adjust: none; font-family: Helvetica, Arial, sans-serif; line-height: 45px; display: inline-block; font-size: 20px; width: 180px; text-decoration: none; color: #ffffff; vertical-align:middle;">
+                                            <!-- End Product Link -->
+
+
+                                            <span style="color: #ffffff;">VIEW PRODUCT</span>
+                                          </a>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                  <!--<![endif]-->
+                                  <!-- Button : END -->
                                 </td>
                               </tr>
                             </table>
