@@ -1,0 +1,96 @@
+title: 'Just For You, 10% off Meat & Seafood Offers!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0984ff9-8445-4e08-bca8-220f45be5821.jpg?ver=1467292845000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: ""
+footer_site_img: ""
+footer_site_alt: ""
+footer_facebook_link: ""
+footer_facebook_img:  ""
+footer_facebook_alt: ""
+footer_twitter_link: ""
+footer_twitter_img: ""
+footer_twitter_alt: ""
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0315_BLD_RyeBrook_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/15d03bf4-eac5-43c3-82e5-686137efc710.jpg?ver=1489275141000'
+  img_alt: "myBALDUCCI&#39;S"
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0315_BLD_RyeBrook_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c8b729c-dbd6-400d-9bf0-db7cd9dfa418.jpg?ver=1489275141000'
+  img_alt: "GOURMET REWARDS CLUB"
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0315_BLD_RyeBrook_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/663cc41b-0f6f-421b-ab49-ba210c676a84.jpg?ver=1489275142000'
+  img_alt: "Food Love Found Here"
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0315_BLD_RyeBrook_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fe058f95-4da3-4d6b-82ab-eae30888b895.jpg?ver=1489275142000'
+  img_alt: "Save 10% on Meat & Seafood"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0315_BLD_RyeBrook_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/06387db7-9f04-4796-8ae3-dd4dc3c3a5c9.jpg?ver=1489275142000'
+  img_alt: "Just For You! Your 10% OFF Meat & 10% OFF Seafood offers have been loaded to your card. Valid through 3/31/17. NO NEED TO CARRY COUPONS."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0315_BLD_RyeBrook_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/69365a2d-b418-449b-bf7a-1b3dfb3308d0.jpg?ver=1489275142000'
+  img_alt: "This Week&#39;s myBalducci&#39;s Specials"
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0315_BLD_RyeBrook_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4258c1e0-d337-4205-9356-b1bc40f8d410.jpg?ver=1489275142000'
+  img_alt: 'Loin Veal Chops Bone-In Member Exclusive 14.99 LB. Reg 17.99 LB. Valid 3/3/17 - 3/30/17 '
+  url_2: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0315_BLD_RyeBrook_Solo_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/741516a4-1ea6-49bf-a419-b2a7939a29f2.jpg?ver=1489275143000'
+  img_alt_2: 'Balducci&#39;s Sea Scallops Member Exclusive 20.99 1-LB. Bag. Reg 24.99 EA.  Valid 3/3/17 - 3/23/17'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0315_BLD_RyeBrook_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/876376e3-5b6c-49c2-b6b4-5f0bf6ca8855.jpg?ver=1489275143000'
+  img_alt: 'Butchery Prime-Cut Meats Our meat department features highly-skilled butchers, ready to hand-cut your custom order. '
+  url_2: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0315_BLD_RyeBrook_Solo_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9e4dedf2-24cc-4aa2-8fcb-81c479d5ad98.jpg?ver=1489275143000'
+  img_alt_2: 'Seafood Top-of-the-Catch Our fishmongers will help you select from the best wild-caught organic and local seafood.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0315_BLD_RyeBrook_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/68b5cbe6-e978-4078-9314-c126457593a4.jpg?ver=1489275143000'
+  img_alt: "Experience the Ultimate in Gourmet Cheese at Cheesetopia Saturday, March 18 2:00PM - 5:00PM"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0315_BLD_RyeBrook_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e97cc0a7-30c6-47be-8f36-496781e00f67.jpg?ver=1489275143000'
+  img_alt: "144 South Ridge Street | Rye Brook, NY | balduccis.com/ryebrook"
+
+
+
+
+
+
+
+
+
+
+
+
