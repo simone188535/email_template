@@ -1,0 +1,121 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/483f35b5-8c36-43e2-a405-966f09921f7f.jpg?ver=1470666624000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/50d8c990-bce3-4bb0-88e2-f0d6c71626c3.jpg?ver=1489430133000'
+  img_alt: 'A Taste of Ireland Celebrate St. Patrick&#39;s Day with these inspired Irish classics.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/79443182-5808-443f-87bb-0fcbbde23308.jpg?ver=1489430134000'
+  img_alt: 'Our Favorite Flavors of Ireland'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/30453470-7fab-40f5-9ab6-eb10e56010eb.jpg?ver=1489430136000'
+  img_alt: 'Burt&#39;s Guinness Chips Thick-cut and hand-cooked, flavored with roasted barley and hops like classic Irish stout.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f091e75d-eaae-4da1-b819-04be49424e64.jpg?ver=1489430137000'
+  img_alt_2: 'Chef Prepared Corned Beef Brisket Let our chefs do the cooking! Try our delicious ready-to-eat corned beef.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dec1765e-3fdd-47b5-8190-31edd30aa171.jpg?ver=1489430138000'
+  img_alt: 'Burt&#39;s Guinness Chips Thick-cut and hand-cooked, flavored with roasted barley and hops like classic Irish stout.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e27de450-6611-4455-8edb-53b6d617566b.jpg?ver=1489430139000'
+  img_alt_2: 'Chef Prepared Corned Beef Brisket Let our chefs do the cooking! Try our delicious ready-to-eat corned beef.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e13fb46-1985-4d40-96e9-74b6184e603a.jpg?ver=1489430140000'
+  img_alt: 'Irish Soda Bread Fresh baked using an authentic Irish recipe, it&#39;s the perfect pair for your St. Patrick&#39;s Day brisket and cabbage.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4896f54a-5067-4612-9d31-9da07f234ad1.jpg?ver=1489430141000'
+  img_alt_2: 'Kerrygold Pure Irish Butter All-natural, cultered-cream Irish butter, made from the milk of grass-fed cows and free of growth hormones.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9bab10bc-dcb6-4f47-9404-78bf134b42ac.jpg?ver=1489430141000'
+  img_alt: 'Irish Soda Bread Fresh baked using an authentic Irish recipe, it&#39;s the perfect pair for your St. Patrick&#39;s Day brisket and cabbage.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a01a9940-8939-42a7-b245-4c39515e0fc5.jpg?ver=1489430142000'
+  img_alt_2: 'Kerrygold Pure Irish Butter All-natural, cultered-cream Irish butter, made from the milk of grass-fed cows and free of growth hormones.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5c54496d-0cb0-45f5-a1db-0278c2ddd8e2.jpg?ver=1489430142000'
+  img_alt: 'Member Exclusive | St. Patrick&#39;s Classic'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7283b4b1-10d7-46f6-a90b-93f5dd316429.jpg?ver=1489430144000'
+  img_alt: 'Freirich USDA Choice Corned Beef Brisket First Cut Member Exclusive 5.99 LB. Reg 7.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d241bd20-b566-4dec-aa4c-629750f83d8a.jpg?ver=1489430144000'
+  img_alt: 'Hand-Cut Cheeses | Sure to Impress'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/70781ae4-6f1c-4c13-8568-3dac180e9dba.jpg?ver=1489430146000'
+  img_alt: 'Imported from County Cork, Ireland Gubbeen Farmhouse Cheese A washed-rind cheese with a semi-soft, golden interior, it&#39;s flavors are fresh and buttery, with notes of nuts, bacon and smoke.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0136d650-0786-4599-83cf-d08c543f7cf5.jpg?ver=1489430147000'
+  img_alt: 'Alp Blossom Locally grown herbs and flowers grace the rind of this savory, dense and wonderfully melty cheese.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e777de74-baea-4cb9-95f6-b03ea2369059.jpg?ver=1489430148000'
+  img_alt_2: 'Cypress Grove Humboldt Fod An elegant soft-ripened goat cheese that&#39;s creamy and luscious with a tangy finish.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c91f92d0-4cfd-4a2a-a0d5-f0d6b94bb7a6.jpg?ver=1489430148000'
+  img_alt: 'What&#39;s New In-Store'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/593c168c-21d0-4031-8335-860169893266.jpg?ver=1489430150000'
+  img_alt: 'Take a Journey to Cheesetopia Join us at our annual Ultimate Cheese Tasting Event. Get great tips from our Balducci&#39;s cheesemongers and be inspired by our chefs—taste cheese from around the world. Saturday, March 18th Scarsdale & Rye Brook, NY and Greenwich & Westport, CT…2-5pm Saturday, March 25th Alexandria & McLean, VA and Bethesda, MD…2-5pm More Info &#62;'
+  url_2: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/00faffec-55f7-4679-9f48-2153a75fa1a4.jpg?ver=1489430151000'
+  img_alt_2: 'Take a Journey to Cheesetopia Join us at our annual Ultimate Cheese Tasting Event. Get great tips from our Balducci&#39;s cheesemongers and be inspired by our chefs—taste cheese from around the world. Saturday, March 18th Scarsdale & Rye Brook, NY and Greenwich & Westport, CT…2-5pm Saturday, March 25th Alexandria & McLean, VA and Bethesda, MD…2-5pm More Info &#62;'
