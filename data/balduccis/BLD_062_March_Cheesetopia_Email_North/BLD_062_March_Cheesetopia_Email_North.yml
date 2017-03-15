@@ -1,0 +1,108 @@
+title: 'Taste the world in Cheese at Cheesetopia!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=March_BLD_Cheesetopia_Email_NORTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=March_BLD_Cheesetopia_Email_NORTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=March_BLD_Cheesetopia_Email_NORTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=March_BLD_Cheesetopia_Email_NORTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=March_BLD_Cheesetopia_Email_NORTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=March_BLD_Cheesetopia_Email_NORTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=March_BLD_Cheesetopia_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/db377fee-c5a8-438f-b2dd-f17ad081c594.jpg?ver=1489583069000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=March_BLD_Cheesetopia_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7d32617d-f7d9-465d-baa3-90d8ef8479e9.jpg?ver=1489583070000'
+  img_alt: 'Cheesetopia The Ultimate Cheese Tasting Balducci&#39;s Taste the ultimate in gourmet cheese at Cheesetopia Saturday, March 18 | 2 - 5pm Rye Brook & Scarsdale, NY Greenwich & Westport, CT Learn More > '
+
+- type: 'image'
+  url: 'https://vimeo.com/185683936'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/75230c17-284b-4c16-9859-18a61a6ca63c.jpg?ver=1489583070000'
+  img_alt: 'Video How To | Cheese Pairings'
+
+- type: 'image'
+  url: 'https://vimeo.com/185683936'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1287b90c-86df-4ed0-ad36-b8b4d8bff22b.jpg?ver=1489583074000'
+  img_alt: 'Make the Perfect Cheeseboard Watch Video > '
+
+- type: 'image'
+  url: 'https://vimeo.com/185683936'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ea6ce95e-19e2-4996-b8f5-05cade9a833b.jpg?ver=1489583071000'
+  img_alt: 'Check out our video for quick tips to create a beautiful cheeseboard. It&#39;s all about combining tastes, textures and toppings, and it&#39;s easy, once you learn the tricks!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=March_BLD_Cheesetopia_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3337fabb-4810-404a-88ca-9de0986bfcc5.jpg?ver=1489583070000'
+  img_alt: 'Special Cheese Shop Additions'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=March_BLD_Cheesetopia_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bdce4967-2cb7-4270-bc25-1a2d31a27a31.jpg?ver=1489583071000'
+  img_alt: 'All of our cheeses are hand-cut for maximum quality & freshness'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=March_BLD_Cheesetopia_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/52184bdf-e5b7-4f71-a360-09342875702e.jpg?ver=1489583071000'
+  img_alt: 'Ubriaco del Piave Created by farmers in the Piave region of Veneto, the rind of this cow&#39;s milk cheese is soaked in local wine, giving it a firm, crumbly, yet open texture. The taste is fruity with a hint of acidity. Member Exclusive: 21.99/LB Reg, 24.99/LB '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=March_BLD_Cheesetopia_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/63862ace-52a4-453f-b872-ba71729d7aae.jpg?ver=1489583071000'
+  img_alt: 'Cypress Grove Midnight Moon Aged one year or more, this pale, ivory cheese is firm, dense, and smooth with a bit of graininess. The flavor is nutty and brown-buttery, with prominent caramel notes. Member Exclusive 23.99/LB Reg. 26.99/LB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=March_BLD_Cheesetopia_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0248f170-cfd3-4735-834e-24e59ad87c9e.jpg?ver=1489583071000'
+  img_alt: 'Scyavuru Sicilian Jam This artisan jam from Siciliy is made with a family recipe, using fruit that&#39;s grown on three local farms. It#39;s the perfect complement to cheese, particularly soft, creamy cheese or goat cheese…or enjoy it on toast!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=March_BLD_Cheesetopia_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/41506975-1ce1-4d23-8bf9-514559e3ecec.jpg?ver=1489583071000'
+  img_alt: 'Exclusively in Rye Brook Balducci&#39;s Nutritionist Shari Bilt Boockvar, MS., RD. will offer nutritional tips and tricks—the perfect way to get started before your Cheesetopia indulgence! 11am-2pm '
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
