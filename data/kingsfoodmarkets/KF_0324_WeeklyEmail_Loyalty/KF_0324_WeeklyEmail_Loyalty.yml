@@ -1,0 +1,143 @@
+title: ''
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4b51c368-8e02-42a2-b248-8c7b06a1c5da.jpg?ver=1490019437000"
+  img_alt: "Taste the Season's Best! Freshen up your menu with spring's boldest and brightest flavors. Create Baked Skrei and Vegetables in a White Wine-Shallot Sauce View Recipe &#62;"
+  url: "http://kingsfoodmarkets.com/unique-recipes/baked-skrei-and-vegetables-in-a-white-wine-shallot-sauce?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3e3ba2f9-fe7c-43a0-8d7f-2201187d23f7.jpg?ver=1490019437000"
+  img_alt: "It&#39;s Skrei Season! This seasonal Norwegian delicacy is whiter and brighter than other cod  and renowned for its luxurious texture and delicious flavor. Try it pan seared or roasted. Available for a limited time only."
+  url: "http://kingsfoodmarkets.com/unique-recipes/baked-skrei-and-vegetables-in-a-white-wine-shallot-sauce?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3af594d9-a404-4d1f-92c8-bb815be07225.jpg?ver=1484669877000"
+  img_alt: "Weekly Rewards Offers"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4656c177-f3e5-4a72-b06f-95c74da24bb3.jpg?ver=1484669877000"
+  img_alt: "SAVE $2.30 lb. Kings Chairman's Reserve Pork Tenderloins 3.99 LB."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e708c615-cd63-4b66-aab1-240dde9756cd.jpg?ver=1484669877000"
+  img_alt_2: "SAVE $1.00 lb. Fresh Norwegian Salmon Fillet 16.99 LB."
+  url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/99a086f0-4438-4398-8c75-400395b51e0e.jpg?ver=1484669877000"
+  img_alt: "Not a Member Yet? See Store for Details View Weekly Member Only Offers Offers Loaded on Member Card Create and Share a Shopping List "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/95e2cc38-2a95-4eaf-ab8d-305cf3dc1733.jpg?ver=1484669878000"
+  img_alt: "View More Offers and Make a List Old Greenwich Offers"
+  url: "http://kingsfoodmarkets.com/old-greenwich?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8d2319e6-e87c-41ab-b2bc-8f6fd18991d7.jpg?ver=1484669878000"
+  img_alt_2: "View More Offers and Make a List Hoboken Offers"
+  url_2: "http://kingsfoodmarkets.com/hoboken?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/50ea17ca-d0b1-4d71-9191-0e12aae59cf8.jpg?ver=1490019438000"
+  img_alt: "Fresh To Go | Chef Inspired, Ready To Enjoy"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e3589cac-8e2f-4ed7-8d52-39dc1539a297.jpg?ver=1490019438000"
+  img_alt: "Inspired Pairing: Kings Chef Inspired Quiche"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cfaeffdb-5129-4931-9fc2-2d0743aea97d.jpg?ver=1490019438000"
+  img_alt_2: "Inspired Pairing: Kings Chef Inspired Blue Cheese & Organic Pear Salad"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3d68b696-e742-4646-8f39-2633a1917d0e.jpg?ver=1490019439000"
+  img_alt: "Treat Yourself! | Sweet Spring Cakes From Our Patisserie"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b6d09ff5-4e7e-41a5-adf6-16c826b6b107.jpg?ver=1490019439000"
+  img_alt: "Don't miss our 4-inch cakes in the season's freshest flavors: • White Chocolate & Lemon Mousse • Tropical Mango Mousse • Strawberry Royal Mousse • Strawberry Lemonade • Key Lime Mousse •"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/10f7d3af-c53d-44b9-9244-aed3ffaf7524.jpg?ver=1490019439000"
+  img_alt: ""
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/832a240f-80cb-41f8-8072-7e95ad4c5ba4.jpg?ver=1490019439000"
+  img_alt: "Brilliant Blooms | Brighten Your Table with Fresh Flowers "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3bfdf2fc-b121-4c8b-845a-b3c01551b855.jpg?ver=1490019440000"
+  img_alt: "The colors of the season are blooming in our novelty tulip bunch - the perfect centerpiece to brighten your table! "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0939cad3-73d5-4271-8d92-0eb1bffdfe54.jpg?ver=1490019440000"
+  img_alt: "Bright Ideas | The Freshest Recipes of the Season "
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d867569d-e461-4337-a0f5-793a4b87e77f.jpg?ver=1490019440000"
+  img_alt: "Fresh Berry Parfait View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes/fresh-berry-parfait?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2e3fd957-dfe8-40b1-835b-1756751e76f5.jpg?ver=1490019440000"
+  img_alt_2: "Kings Citrus, Fennel And Avocado Salad View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/kings-citrus-fennel-and-avocado-salad?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0097bf18-390b-4490-bad3-8f80c42cd5c8.jpg?ver=1490019440000"
+  img_alt: "Whats New In Store"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/86e3e827-dbbc-4b9b-9492-a4a854ae5c7b.jpg?ver=1490019441000"
+  img_alt: "8-Day Tasting Event• Taste exclusive new foods from across Italy • Meet artisan producers from different regions • Choose which new products will be featured exclusively at Kings! March 31 - April 9 Select stores & times Learn More &#62;"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_KF_WeeklyEmail_Loyalty"
