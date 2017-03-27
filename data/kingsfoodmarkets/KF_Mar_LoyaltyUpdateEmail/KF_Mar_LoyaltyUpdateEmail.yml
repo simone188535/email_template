@@ -1,0 +1,76 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail'
+#logo_img: ''
+#logo_alt: 'KINGS'
+#logo_img_space: ''
+#logo_img_space_2: ''
+#store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail'
+#store_locator_img: ''
+#store_locator_alt: 'FIND A STORE'
+#weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail'
+#weekly_circular_img: ''
+#weekly_circular_alt: 'WEEKLY CIRCULAR'
+#chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail'
+#chef_prepared_img: ''
+#chef_prepared_alt: 'CHEF PREPARED'
+#catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail'
+#catering_img: ''
+#catering_alt: 'CATERING'
+
+
+
+#footer
+#footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+#footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+#footer_site_alt: "www.kingsfoodmarkets.com"
+#footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+#footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+#footer_facebook_alt: "facebook"
+#footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+#footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+#footer_twitter_alt: "twitter"
+#footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+#footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+#footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/827645bc-65d1-4887-ba14-926e90ad9c69.jpg?ver=1490635395000"
+  img_alt: "Kings Rewards"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_Mar_LoyaltyUpdateEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/612ea383-2aa5-4b89-8f77-1203e7cebdc4.jpg?ver=1490635395000"
+  img_alt: "Account Reminder"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_Mar_LoyaltyUpdateEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bcb561e8-1a6d-49fe-ac6a-c1805de2d2af.jpg?ver=1490635395000"
+  img_alt: "Your Points will expire March 31st, 2017."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_Mar_LoyaltyUpdateEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/68ad080b-fd6e-446d-86ad-de75de2c079d.jpg?ver=1490635395000"
+  img_alt: "Collect 300 points by March 31st, to receive your $5.00 REWARD.All points will return to 0 on 4/1/17, for the next promotional period starting 4/1/17 through 6/30/17."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_Mar_LoyaltyUpdateEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57d14a93-47fa-40aa-9b33-64b2b737cd8b.jpg?ver=1490635395000"
+  img_alt: ""
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_Mar_LoyaltyUpdateEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec93a40c-8c91-4a6d-a9b7-f59b907b529e.jpg?ver=1490635396000"
+  img_alt: "Shopping at Kings is Now More Rewarding than Ever!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_Mar_LoyaltyUpdateEmail"
