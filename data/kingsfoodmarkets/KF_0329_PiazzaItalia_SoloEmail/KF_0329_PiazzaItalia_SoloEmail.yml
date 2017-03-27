@@ -1,0 +1,149 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8d0b7c1a-cfa7-4791-ab4b-5437ec74a7b0.jpg?ver=1490623451000"
+  img_alt: "Piazza Italia An Artisan Showcase Join us for an 8-day tasting event! March 31-April 9 Select stores and times "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2ae45f58-db3c-485d-9b2c-c70973f2b808.jpg?ver=1490623451000"
+  img_alt: "Event Calendar Fri/31 March Short Hills Special opening ceremony, 11am Sat/1 April Garwood Sun/2 April Hillsdale, Midland Park Mon/3 April Morristown, Mendham Tues/4 April Verona Thu/6 April Bedminster, Short Hills, Hoboken Fri/7 April Boonton Sun/9 April Cresskill, Ridgewood "
+  url: "http://kingsfoodmarkets.com/PiazzaItaliaSchedule_REV.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7514d6c1-db49-4654-9f8f-d208471cc3ef.jpg?ver=1490623451000"
+  img_alt: "Taste"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1c8b536d-e680-43ea-8cd0-36a7ec7f9e04.jpg?ver=1490623451000"
+  img_alt: "Try over 75 exclusive new foods from across Italy & vote for your favorites "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bdc4df65-4fcd-4280-ae95-8070e68ccf88.jpg?ver=1490623452000"
+  img_alt: "Artisan Oils & Vinegars Authentic Italian Pasta Sweet Italian Treats Sauces, Meats & More! "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ca9346fc-5bc6-4da5-8bdc-b665a9fa5be6.jpg?ver=1490623452000"
+  img_alt: "View All Products &#62;"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9bc51d6a-f6b1-4ac8-b406-8378f7a1f2b0.jpg?ver=1490623452000"
+  img_alt: "Don't Forget to Vote! Vote for your favorite products and help choose which new products will be featured exclusively at Kings! "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/613331ab-86ac-4a2e-b9fb-cd8685e2aa89.jpg?ver=1490623452000"
+  img_alt_2: "Plus enter to win a $250 gift card "
+  url_2: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7247dd0a-3f00-45a4-919b-4b3209da806f.jpg?ver=1490623452000"
+  img_alt: "View All Products &#62;"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6d79224a-635a-4e43-94ef-c482ec37ce15.jpg?ver=1490623452000"
+  img_alt: "Learn"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/54720861-0d81-4b16-a069-a2561904a4ed.jpg?ver=1490623452000"
+  img_alt: "Take your passion for Italian food to the next level! "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/40d8de38-204c-4fea-99c8-9b09d23fa378.jpg?ver=1490623453000"
+  img_alt: "Meet Rossella Rago Prepare simple recipes from her new cookbook, Cooking With Nonna"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/40d8de38-204c-4fea-99c8-9b09d23fa378.jpg?ver=1490623453000"
+  img_alt: "Meet Julia Della Croce Learn from the award-winning author, educator and journalist"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5d68d120-feb3-421b-b59c-908171c8c349.jpg?ver=1490623453000"
+  img_alt: "Sample Olive Oil Tasting Taste Exquisite and unique olive oils from across Italy"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/44d8c550-c868-41bb-8967-dfb62e54934f.jpg?ver=1490623453000"
+  img_alt: "View Dates & Times &#62;"
+  url: "http://kingsfoodmarkets.com/PiazzaItaliaSchedule_REV.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ded1dc84-cd4e-4552-bf1c-310fe29e1571.jpg?ver=1490623453000"
+  img_alt: "Experience"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/20784250-b742-49d3-aa45-fa535b3165e1.jpg?ver=1490623453000"
+  img_alt: "Immerse yourself in authentic Italian culture "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d7d1b843-2b59-4400-83e1-0e9a03e4e89a.jpg?ver=1490623453000"
+  img_alt: "Watch Alessandra Belloni Enjoy traditional southern Italian songs, music and dance"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dad85e20-a1fc-45db-8150-3ee4d6118662.jpg?ver=1490623454000"
+  img_alt: "Watch Operatic Flash Mob Get a private Opera serenade right at your local Kings!"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a48b023a-bf3f-49b9-9f18-e53a253ef023.jpg?ver=1490623454000"
+  img_alt: "Listn Live Italian Music Celebrate with Italian jazz, classical and big band music "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1499d50d-6617-499c-ade6-72961d407cdd.jpg?ver=1490623454000"
+  img_alt: "View Dates & Times &#62;"
+  url: "http://kingsfoodmarkets.com/PiazzaItaliaSchedule_REV.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0329_PiazzaItalia_SoloEmail"
