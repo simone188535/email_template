@@ -1,0 +1,88 @@
+title: 'Impress Your Guests with Holiday Catering!'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+
+#logo_img: ''
+#logo_alt: 'Kings Food Markets'
+#logo_img_space: ''
+#logo_img_space_2: ''
+#store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#store_locator_img: ''
+#store_locator_alt: 'FIND A STORE'
+#weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#weekly_circular_img: ''
+#weekly_circular_alt: 'WEEKLY CIRCULAR'
+#chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#chef_prepared_img: ''
+#chef_prepared_alt: 'CHEF PREPARED'
+#catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#catering_img: ''
+#catering_alt: 'CATERING'
+
+#footer
+#footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_59_JuneLoyaltyEmail"
+#footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7878a77-91ba-4798-8909-c9a383785b5f.jpg?ver=1462839230000"
+#footer_site_alt: "www.kingsfoodmarkets.com"
+#footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+#footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d1a8a42-7b19-4797-8374-7f2b4b7f22c9.jpg?ver=1462839230000"
+#footer_facebook_alt: "facebook"
+#footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+#footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd97367a-001e-4325-9638-f7dfd81ffc02.jpg?ver=1462839230000"
+#footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/755dd50d-2605-4e88-b365-72fff3173034.jpg?ver=1490635823000"
+  img_alt: "KINGS"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_KF_CateringSolo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1a4f1c0e-147e-4915-8bea-f32fdd4c1fd5.jpg?ver=1490635823000"
+  img_alt: "Impress your guests with holiday catering!"
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_KF_CateringSolo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/193751fe-a206-41a4-9d56-beeb3da9c428.jpg?ver=1490635824000"
+  img_alt: "Let our Chefs prepare your entire holiday meal or complement your family&#39;s menu with our A La Carte selections!"
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_KF_CateringSolo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/912855c9-2b1c-4754-8490-3041d1b312a2.jpg?ver=1490635824000"
+  img_alt: "Click to View Menus Today!"
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_KF_CateringSolo"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/58d1a1c0-4455-4eb3-8384-c82972306536.jpg?ver=1490635824000"
+  img_alt: "Easter Menu"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/easter?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_KF_CateringSolo"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e104d5d1-6d03-4050-bfc1-71b0288b563d.jpg?ver=1490635824000"
+  img_alt_2: "Passover Menu"
+  url_2: "http://kingsfoodmarkets.com/catering-by-kings/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_KF_CateringSolo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ce30d71f-3d96-4c41-bd1c-f3f01891ead3.jpg?ver=1490635824000"
+  img_alt: "Call: 1.866.446.3560 or VIEW ONLINE kingsfoodmarkets.com/catering-by-kings"
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_KF_CateringSolo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cafafcde-848c-4a6a-b2a7-326aa9830eab.jpg?ver=1490635825000"
+  img_alt: ""
+  url: "#"
+
+
+
+
+
+
+

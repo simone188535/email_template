@@ -1,0 +1,94 @@
+title: 'Tasty Traditions & Trends for Passover'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d965ac8f-3146-4de5-a59e-62bf5aa7cc5c.jpg?ver=1490710053000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: ''
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8cca96aa-7719-457d-acd0-c61b359abeee.jpg?ver=1490710056000'
+  img_alt: 'Plan the Perfect Passover Tasty traditions and new trends for your holiday celebration. Recipe Video A New Twist on Beet Salad Watch Video >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/23544a32-36a6-447d-932b-5294cfc31b9e.jpg?ver=1490710058000'
+  img_alt: 'Catering | Plan Your Passover'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1c5531ec-43b1-48fe-b88e-73d4fe49c55c.jpg?ver=1490710057000'
+  img_alt: 'Passover. Dinner. Simplifed. Choose your à la carte favorites from our delicious Passover menu, or choose a Custom Dinner Package: • 1 entrée • 1 starter • 3 sides • 2 extras • 1 dessert = DINNER FOR 6 Order Now > '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0940f391-ec76-4bcb-81cb-1a8117e028b0.jpg?ver=1490710060000'
+  img_alt: 'Citrus Glazed Grilled Salmon'
+  url_2: 'http://www.balduccis.com/catering/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/512cbfcd-f6e6-436d-a727-c47a3aea9a90.jpg?ver=1490710060000'
+  img_alt_2: 'Grilled Asparagus'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d0d781be-d6cf-4603-b5fe-f7aa3ab75a38.jpg?ver=1490710057000'
+  img_alt: 'New! Horseradish & Potato Gratin '
+  url_2: 'http://www.balduccis.com/catering/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9630365c-f6be-4c24-88ed-52a05af20b43.jpg?ver=1490710058000'
+  img_alt_2: 'Lilly&#39s Macaroons'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/85039ecd-7e5a-4b8c-a41c-011ab13680af.jpg?ver=1490710059000'
+  img_alt: 'Member Exclusive'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f25b5b15-2aae-4772-8981-e726d2b9802c.jpg?ver=1490710060000'
+  img_alt: 'USDA Choice Natural Beef Brisket First Cut Member Exclusive 11.99/LB Reg 13.99 '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6dc17d76-c365-43ad-b4c5-be31f31ec2ec.jpg?ver=1490710061000'
+  img_alt: 'Limited Time! Wild Caught Norwegian Skrei Codfish Member Exclusive $2 OFF/LB '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/be3d4039-3d7a-4c70-b134-8f146d36f2b2.jpg?ver=1490710060000'
+  img_alt: 'What&#39;s New In-Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/840bd2c5-291e-4372-bb55-c745fc30e6b2.jpg?ver=1490713778000'
+  img_alt: 'Spring Wine & Food Event Join us for an exclusive spring food and wine tasting event, just in time for Passover and Easter. Saturday, April 8th Food Samplings…12 noon-5pm Wine Samplings…2-5pm  More Info >'

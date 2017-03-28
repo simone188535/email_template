@@ -1,0 +1,82 @@
+title: 'Impress Your Guests with Holiday Catering!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0984ff9-8445-4e08-bca8-220f45be5821.jpg?ver=1467292845000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: ""
+footer_site_img: ""
+footer_site_alt: ""
+footer_facebook_link: ""
+footer_facebook_img:  ""
+footer_facebook_alt: ""
+footer_twitter_link: ""
+footer_twitter_img: ""
+footer_twitter_alt: ""
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_CateringSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/77713e40-b7ad-4190-b933-4c4986cb076c.jpg?ver=1490629511000'
+  img_alt: "Balducci's® Food Lover's Market™"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_CateringSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ec457bf8-828d-4af8-8606-006d2a2658d9.jpg?ver=1490629511000'
+  img_alt: "Impress your guests with holiday catering!"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_CateringSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/60f292ca-f093-4cad-93cc-5c96f0ada307.jpg?ver=1490629511000'
+  img_alt: "Let our Chefs prepare your entire holiday meal or complement your family&#39;s menu with our A La Carte selections!"
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_CateringSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/84965108-7cf3-4ec7-876e-ed01b8d32c89.jpg?ver=1490629512000'
+  img_alt: "Click to View Menus Today!"
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_CateringSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bb02f49c-cfd5-49dc-b7b1-8dca69f2a3c7.jpg?ver=1490629512000'
+  img_alt: 'Passover Menu'
+  url_2: 'http://www.balduccis.com/catering/easter?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_CateringSolo'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1d2fff4c-0e01-4817-9626-31e002bf8790.jpg?ver=1490629512000'
+  img_alt_2: 'Easter Menu'
+
+- type: 'image'
+  url: 'mailto:catering@balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_CateringSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8784ab37-4780-43e4-a8c4-a9e42b474a16.jpg?ver=1490629512000'
+  img_alt: "Call: 1.866.278.8866 • Email: catering@balduccis.com"
+
+- type: 'image'
+  url: 'https://www.facebook.com/balduccisfoodloversmarket'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8bf72b47-ef09-4027-b9dd-894424825926.jpg?ver=1490629512000'
+  img_alt: "View Online: balduccis.com"
+
+- type: 'image'
+  url: '#'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4b46218e-e722-4ce6-97b3-53a9155a62c0.jpg?ver=1490629513000'
+  img_alt: ""
+
+
+
+
+
+
+
+
+
+
+
