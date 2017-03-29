@@ -1,0 +1,165 @@
+title: ''
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2fdaa669-ba61-4ed1-a5ea-a6b718d1fe14.jpg?ver=1490789638000"
+  img_alt: "A Savory & Sweet Spring"
+  url: "http://kingsfoodmarkets.com/unique-recipes/strawberry-rhubarb-crumble-w-basil-whipped-cream?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/17c5cae7-9e25-4ce6-bc46-7e204a81535c.jpg?ver=1490789638000"
+  img_alt: "Create Strawberry &amp; Rhubarb Crumble with Basil Whipped Cream View Recipe &#62;"
+  url: "http://kingsfoodmarkets.com/unique-recipes/strawberry-rhubarb-crumble-w-basil-whipped-cream?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ce0c4399-665d-43d8-a2fb-2b807d26ffb2.jpg?ver=1490789638000"
+  img_alt: "Market Specials"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec1e143c-6e22-4431-9e9e-6ee838c481fb.jpg?ver=1490789639000"
+  img_alt: "Kings USDA Choice Beef Rib Roast First or Center Cut 8.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a9eadcc4-1870-4db4-8361-0fc93c6ea2c0.jpg?ver=1490789639000"
+  img_alt_2: "Fresh Wild Caught Atlantic Lemon Sole Fillet 16.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2ce307e0-0ce4-4ad7-a5fb-9083b969f633.jpg?ver=1490789639000"
+  img_alt: "View Weekly Specials &#62;"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/33317171-95b8-430f-9811-255e6d3e46f3.jpg?ver=1490789639000"
+  img_alt: "Mark Your Calendar"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/72a1a51e-3a5a-4e84-8d19-55aacedd3836.jpg?ver=1490789640000"
+  img_alt: "An 8-Day Tasting Event! Today thru Apr 9* • Taste exclusive new foods from across Italy • Meet artisan producers from different regions • Choose which new products will be featured exclusively at Kings! *Select stores and times"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc74bdd9-85e2-4a9d-badc-b83b405b238c.jpg?ver=1490789640000"
+  img_alt: "View Dates & Times &#62;"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/92dca54c-6eab-4459-bbd4-54ff2e0af2a4.jpg?ver=1490789640000"
+  img_alt: "Passover Catering | Let Us Cater a Delicious Seder"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/737ab506-f07a-4efe-b371-7ba90b778075.jpg?ver=1490789640000"
+  img_alt: "Our Chef Prepared catering makes the perfect Passover so simple! Call us to plan your entire meal or stop by and pick up our ready-to-enjoy starters, entrées, sides and desserts."
+  url: "http://kingsfoodmarkets.com/catering-by-kings/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a1610e40-f150-465d-b2ca-80501eab46a2.jpg?ver=1490789640000"
+  img_alt: "Chef Prepared Slow Roasted Beef Brisket"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/79b45147-e151-414c-89e8-f9b6cf7f4eaf.jpg?ver=1490789641000"
+  img_alt_2: "Sweet Potato Latkes"
+  url_2: "http://kingsfoodmarkets.com/catering-by-kings/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0f4869c6-f7c1-4429-9d03-d6fc34f94052.jpg?ver=1490789641000"
+  img_alt: "View Menu &#62;"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/acf3e091-2f6a-4c89-b8f0-70a0e509d46b.jpg?ver=1490789641000"
+  img_alt: "Keep It Clean! | Tips & Tricks for Clean, Healthy Eating"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8e585c36-c68a-46f4-8137-a0ea974f0167.jpg?ver=1490789641000"
+  img_alt: "Shari Bilt Boockvar, M.S., R.D. Kings' Nutritionist"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f046ce21-f4b7-4e17-bfde-7f4407e2f820.jpg?ver=1490789641000"
+  img_alt: "Create an easy protein-rich smoothie using only four ingredients View Recipe &#62;"
+  url: "http://kingsfoodmarkets.com/unique-recipes/protein-rich-four-ingredient-smoothie?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d348be7e-f62f-4877-ad79-a6c36b53ebf5.jpg?ver=1490789642000"
+  img_alt_2: "Try colorful crudités as a bright salad substitute: beets, carrots, radishes, cucumbers & peppers"
+  url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/08f9aa64-8a9d-45d6-b276-f671222f8036.jpg?ver=1490789642000"
+  img_alt: "Ditch the dressing and try 2 tablespoons of hummus or guacamole on your salad"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6318f627-612a-41ec-8d16-0dbc58a5d43d.jpg?ver=1490789642000"
+  img_alt_2: "Pass on pasta and try spaghetti squash or zucchini &#34;zoodles&#34; with your favorite sauce for less sugar and a vitamin boost"
+  url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fbbe75f-a8fa-49cb-a779-510557e9c576.jpg?ver=1490789642000"
+  img_alt: "Sweet Flavors | Fresh From the Bakery"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/47ca409f-cd65-412b-a264-edc3ab1a3130.jpg?ver=1490789643000"
+  img_alt: "Key Lime Pie Fresh Baked 6&#34; Fruit Pie"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/97ff8fdd-25f2-4786-b020-0a1e1fde7452.jpg?ver=1490789643000"
+  img_alt: "Savory Recipes"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/68bcd602-af98-450c-9ee3-b8b4ad8ec4cc.jpg?ver=1490789643000"
+  img_alt: "Asparagus & Green Pea Risotto View Recipe"
+  url: "http://kingsfoodmarkets.com/unique-recipes/asparagus-green-pea-risotto?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/56d88a2a-9a74-499e-b46c-f0cdb9ae84a1.jpg?ver=1490789644000"
+  img_alt_2: "Spring Pesto Tart with Asparagus & Prosciutto View Recipe"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/spring-pesto-tart-with-asparagus-prosciutto?utm_source=weeklyemail&utm_medium=email&utm_campaign=0331_KF_WeeklyEmail_Chain"
