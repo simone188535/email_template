@@ -1,0 +1,106 @@
+title: 'Don&#39;t Miss Out - One-Day Italian Tasting Event!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1140d2f1-1c29-4430-ba5f-29eb5028a834.jpg?ver=1490889041000'
+  img_alt: "GOURMET REWARDS CLUB"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/aafe0ad5-ca98-4453-bb5b-01f3272187bc.jpg?ver=1490889042000'
+  img_alt: "Piazza Italia An Artisan Showcase Join us for an Italian Tasting Event Saturday, April 8th 10AM-2PM, 3PM-7PM Greenwich, CT and Scarsdale & Rye Brook, NY Learn More &#62;"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/eccff01e-8629-4d87-8269-13b4e86ca62d.jpg?ver=1490889042000'
+  img_alt: "Exclusively at Rye Brook"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fedaa22c-0df6-4b45-8aed-6f730247a557.jpg?ver=1490889042000'
+  img_alt: "Meet Rossella Rago Prepare simple recipes from her new cookbook, Cooking with Nonna 1:00PM"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4ee0e298-c04c-4b6b-af35-b0cf7a2abbb6.jpg?ver=1490889043000'
+  img_alt: "Watch Operatic Flash Mob Get a private opera serenade right at your local Balducci's! 3:30PM"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2b4fb9e0-501d-43a6-a36b-8bb08c69c60f.jpg?ver=1490889043000'
+  img_alt: "Meet Julia Della Croce Learn from the award-winning author, educator and journalist 6:00PM"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/12a0587b-6396-4527-862d-8c406d2748e4.jpg?ver=1490889043000'
+  img_alt: "A Taste of Italy"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d2ca07c6-f831-4b1a-8f2b-0c9e25bac17d.jpg?ver=1490889043000'
+  img_alt: "Explore just a small sampling of what awaits you as you travel through the Piazza Italia! Over 75 products to taste. Greenwich, CT and Scarsdale & Rye Brook, NY"
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a6189004-8cec-4d83-80e5-c71aaf4eb027.jpg?ver=1490889043000'
+  img_alt: "144 South Ridge Street | Rye Brook, NY | balduccis.com/ryebrook"
+  url_2: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/278c51d0-dd56-4f88-9243-c5d78a03b437.jpg?ver=1490889044000'
+  img_alt_2: "144 South Ridge Street | Rye Brook, NY | balduccis.com/ryebrook"
+
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/92f40c59-a588-4f71-818c-22cadf4d2f1c.jpg?ver=1490889044000'
+  img_alt: "144 South Ridge Street | Rye Brook, NY | balduccis.com/ryebrook"
+  url_2: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0403_BLD_PiazzaItalia_SoloEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ff66cf0e-be2e-4147-917d-5dcd817709c2.jpg?ver=1490889044000'
+  img_alt_2: "144 South Ridge Street | Rye Brook, NY | balduccis.com/ryebrook"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
