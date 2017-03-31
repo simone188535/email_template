@@ -1,0 +1,112 @@
+title: 'April Member Exclusives'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+
+#logo_img: ''
+#logo_alt: 'Kings Food Markets'
+#logo_img_space: ''
+#logo_img_space_2: ''
+#store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#store_locator_img: ''
+#store_locator_alt: 'FIND A STORE'
+#weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#weekly_circular_img: ''
+#weekly_circular_alt: 'WEEKLY CIRCULAR'
+#chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#chef_prepared_img: ''
+#chef_prepared_alt: 'CHEF PREPARED'
+#catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_Weekly_Email'
+#catering_img: ''
+#catering_alt: 'CATERING'
+
+#footer
+#footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_59_JuneLoyaltyEmail"
+#footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7878a77-91ba-4798-8909-c9a383785b5f.jpg?ver=1462839230000"
+#footer_site_alt: "www.kingsfoodmarkets.com"
+#footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+#footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d1a8a42-7b19-4797-8374-7f2b4b7f22c9.jpg?ver=1462839230000"
+#footer_facebook_alt: "facebook"
+#footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+#footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd97367a-001e-4325-9638-f7dfd81ffc02.jpg?ver=1462839230000"
+#footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0ef693e0-683a-4423-adf9-e2a8e8759a0c.jpg?ver=1490878305000"
+  img_alt: "KINGS REWARDS Not A Member? Sign Up At Any Register Today!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0401_KF_FebLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eabb25f8-fcec-4eef-b015-accbd9559d4e.jpg?ver=1490878306000"
+  img_alt: "April Exclusive Member Offers"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0401_KF_FebLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d3f1924e-de84-4964-80e7-f97c307cd075.jpg?ver=1490878306000"
+  img_alt: "Enjoy double points on Kings Own brand! "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0401_KF_FebLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e35abc16-6833-4f30-9738-218cbeaa4356.jpg?ver=1490878307000"
+  img_alt: "Kings Extra Virgin Olive Oil 17 - 34 oz. Kings Dipping Oil Tuscan Herb, Rustic Garlic, Abruzzi Chili, 12.7 oz. Kings Organic Vinegars 8.45 - 16.9 fl. oz Kings Coffee Cakes Cinnamon Walnut Marble Crumb, 24 oz. Kings Frozen Fruit All Varieties 10 - 16 oz Kings Organic Pasta Spaghetti, Penne, Rigatoni & Whole Wheat Spaghetti & Penne, 12 - 16 oz Kings Pasta Sauce 24 oz., Vodka, Tomato Basil, Arrabiata or Marinara"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0401_KF_FebLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cfd7c32a-3fd2-4715-b3c3-8644b147616e.jpg?ver=1490878308000"
+  img_alt: "Don't Forget! Check in-store for our weekly Member Exclusive Flyer! "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0401_KF_FebLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/602dd5b0-1994-4a5e-8b08-5ef11b591860.jpg?ver=1490878308000"
+  img_alt: "KINGS PRE-PACKED SALAD CLUB!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0401_KF_FebLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/717a2eae-8336-4c7e-86ee-ddf014bd0e4d.jpg?ver=1490878309000"
+  img_alt: "Buy 5 Kings Pre-Packed Salads Get the 6th Free!* VALID 4/1/17 - 4/30/17 (*) The Free Salad will automatically be subtracted from the total. Free value cannot be applied to another item or received as cash."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0401_KF_FebLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5df82763-1368-420e-b316-8752cfc89aee.jpg?ver=1490878309000"
+  img_alt: ""
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0401_KF_FebLoyaltyEmail_64"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4761d03d-b178-4263-9fb0-89c55c9bf087.jpg?ver=1490878309000"
+  img_alt: "Remember! Use Your Card Or Phone Number Each Time You Shop To Receive All Your Benefits!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0401_KF_FebLoyaltyEmail_64"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
