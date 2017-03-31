@@ -1,0 +1,133 @@
+title: 'Italian Amore, Found Here'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/39aa8f94-18e9-4db5-80af-015a8bf458c3.jpg?ver=1490100928000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e6d216ef-f2ed-456b-90e9-ffb77e5cdf68.jpg?ver=1490100928000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e9837555-d51f-4531-82e0-c5d16449ebab.jpg?ver=1490100929000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/313ac2cf-df84-4c53-b35f-a4806137db68.jpg?ver=1490100923000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6da24972-9df5-44d7-94d2-0a03189fd179.jpg?ver=1490100923000'
+  img_alt: 'A Taste of Italy Delicious dishes with an Italian accent. Create Pan Seared Veal Chops with Rosemary Butter View Recipe > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/caa07e2c-97b5-4796-a957-86a1341ba4fc.jpg?ver=1490100923000'
+  img_alt: 'Member Exclusive'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a5ca93b9-d306-4f77-9137-1f5a868a5b79.jpg?ver=1490100924000'
+  img_alt: 'Loin Veal Chops Bone-In Member Exclusive 14.99/LB Reg 17.99 '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6c571fc9-858f-4677-ab40-df59de2d8bc8.jpg?ver=1490100924000'
+  img_alt: 'Chef Prepared | Italian Style '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/61cc3446-15d6-4d73-8423-7b1eccb78f35.jpg?ver=1490100925000'
+  img_alt: 'Prosciutto & Fig Ficelle '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b5957d83-fb9d-43e3-a76f-458e54668004.jpg?ver=1490100926000'
+  img_alt: 'Mediterranean Salmon Salad '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d59aebcb-ee73-49fd-9665-83bc58005d4e.jpg?ver=1490100926000'
+  img_alt: 'Grilled Asparagus with Orange Zest '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/302e1097-7534-450d-8819-9d9d3056cdc5.jpg?ver=1490100926000'
+  img_alt: 'Goat Cheese & Caramelized Onion Frittata '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/97769427-d299-4525-a950-349d4888a764.jpg?ver=1490100926000'
+  img_alt: 'Foodie Favorites | The Best of Italy '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/34f612aa-deab-4c14-bffe-253e8588c683.jpg?ver=1490100927000'
+  img_alt: 'Scyavuru Sicilian Jam This artisan jam from Sicily is the perfect complement to soft, creamy cheese or goat cheese. Try it on toast! '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0b8d2be7-d40f-4f9f-a4bf-54e63e3e62ea.jpg?ver=1490100927000'
+  img_alt: 'Baci Perugina Chocolates The Italian word for &#34;kiss,&#34; Baci candies are made with whole hazelnut surrounded by chocolate hazelnut spread and coated in dark chocolate. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c302d252-c11f-4032-ab86-06b369dfc957.jpg?ver=1490100927000'
+  img_alt: 'Ferrarini Non-GMO Italian Butter Made in Italy with milk from grass-fed cows, this non-GMO butter adds richness to pasta and is delicious spread on fresh bread with a pinch of pink sea salt. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/78021dcc-3323-48ae-9aca-25802736116e.jpg?ver=1490100928000'
+  img_alt: 'What&#39;s New In-Store '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b50b6241-f276-471f-9658-08ed03fed053.jpg?ver=1490103886000'
+  img_alt: 'Take a Journey to Cheesetopia Join us at our annual Ultimate Cheese Tasting Event. Get great tips from our Balducci&#39;s cheesemongers and be inspired by our chefs—taste cheese from around the world. Saturday, March 25th More Info >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0324_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dca846b8-86a0-4627-8b02-17cad92974dc.jpg?ver=1490103887000'
+  img_alt: 'Easter & Passover Catering Host the perfect Easter or Passover meal the easy way! Order sides, entrées or desserts to complement your family favorites, or let us prepare your entire holiday feast. Order Now > '
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
