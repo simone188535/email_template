@@ -1,0 +1,106 @@
+title: 'Free Wine Event | Stock Up & Save on Holiday Wine!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e9892758-2110-49f5-a513-256e2d4b45d7.jpg?ver=1491083988000'
+  img_alt: 'Wine Newsletter April 2017'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a85cb0c9-0c7e-4f66-a321-d952ec69fd4e.jpg?ver=1491083989000'
+  img_alt: 'Spring Wine & Food Event Saturday, April 8th, 2017 Food Tasting: 12pm-5pm Wine Tasting: 2pm-5pm Save 25% Mix & Match 12 Bottles Or More PLUS • Spring Wines • Passover & Easter Wines • Extreme Value Wines'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/56af0d19-56c6-4822-93c3-0660903728e7.jpg?ver=1491083989000'
+  img_alt: 'Passover Wines'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c83e1453-82cc-4ee4-88da-c011d9fcfe40.jpg?ver=1491083989000'
+  img_alt: 'Kosher for Passover Cantina Gabriele  Montepulciano d&#39;Abruzzo Kosher for Passover, this dry, full-bodied red is sweetly tannic, soft, and jammy. Its intense purple color comes from its superb blueberry flavor notes. Kosher for Passover Cantina Gabriele Pinot Grigio With a bouquet that includes tropical fruit and white flower flavors, this superb Pinot Grigio has the perfect balance of acidity to complement fish, white meat, risotto and pasta.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6f39de28-8a44-4ae6-afb3-7e57e717e31a.jpg?ver=1491083989000'
+  img_alt: 'Must Have Wines'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d344184e-8fb7-48c8-9d6f-2eb7532c7bc9.jpg?ver=1491083989000'
+  img_alt: 'Spring has officially sprung! Looking forward to warmer days and pleasant evenings outside, our attentions turn to lighter, crisp wines for the season.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6ef0e821-6d9f-424c-a52e-2c48a06876e4.jpg?ver=1491083989000'
+  img_alt: 'Perfect for Easter La Rioja Alta Viña Alberdi 2010 $29.99/BTL &#34;Ripe and intense aromas of strawberries and blackberries with hints of black ink.  Savory notes, too.  Full-bodied, chewy and focused with linear fruit and character.  Very finely crafted.&#34; -James Suckling 95pts.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5d5e46f3-354f-4fa3-b788-8aab1f8621c8.jpg?ver=1491083990000'
+  img_alt: 'Balducci&#39;s Prosecco $14.99/BTL Hailing from the famous Gasparini estate near the town of Venegazzu, our Prosecco is lively, toasty and creamy with hints of hazelnut and candied fruits and a long, refreshing finish.  Perfect at brunch as an aperitif.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/53259c5c-3881-49a8-85a4-41fb452d6459.jpg?ver=1491083990000'
+  img_alt: 'Balducci&#39;s Rosé 2016 $16.99/BTL Produced by our longtime friend and European winemaking wunderkind Anton Bauer, this special bottling Rosé was drawn from his best lots of the 2016 vintage. It is simply bursting with fresh fruit flavors of red berries and springtime.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5bbbc8bc-9938-4d57-9d0f-2f961b4d2881.jpg?ver=1491083990000'
+  img_alt: 'Browne Family Heritage Cabernet Sauvignon 2014 $21.99/BTL Ripe red fruit with red cherry and raspberry being dominant, robust baking spice and sweet oak. Medium bodied Cabernet Sauvignon with vanilla and toasted oak finish.'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
