@@ -1,0 +1,133 @@
+title: ''
+
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+
+preheader_text: 'New! Bugaboo Bee5®'
+preheader_link: 'https://www.buybuybaby.com/store/s/bugaboo-bee5'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE='
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_02.jpg'
+  image_alt: 'compact & sleek the only way to Bee What&#39;s all the buzz about? These new features! Padded seat Improved suspension No-adaptor attachment points More custom options than ever before! shop now'
+  image_link: 'https://www.buybuybaby.com/store/s/bugaboo-bee5'
+
+- type: 'image'
+  image_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_03.jpg'
+  image_alt: 'Complete Stroller Available in Black, Blue Melange, & Sunrise Yellow'
+  image_link: 'https://www.buybuybaby.com/store/s/bee5-complete'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_04.jpg'
+  image_first_alt: 'Changeable faux leather grips help to improve your driving experience'
+  image_first_link: 'https://www.buybuybaby.com/store/s/bee5-complete'
+  image_second_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_05.jpg'
+  image_second_alt: 'Extendable canopy to shade your baby, with a zip up panel allowing you to easily adjust coverage'
+  image_second_link: 'https://www.buybuybaby.com/store/s/bee5-complete'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_06.jpg'
+  image_first_alt: 'Independent 4-wheel suspension for smooth turns & a comfy ride'
+  image_first_link: 'https://www.buybuybaby.com/store/s/bee5-complete'
+  image_second_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_07.jpg'
+  image_second_alt: 'Light chassis, easy 1-hand, 1-piece compact fold'
+  image_second_link: 'https://www.buybuybaby.com/store/s/bee5-complete'
+
+- type: 'image'
+  image_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_08.jpg'
+  image_alt: 'customize your bugaboo bee 5® stroller'
+  image_link: ''
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_09.jpg'
+  image_first_alt: 'Base Aluminum Available in Black'
+  image_first_link: 'https://www.buybuybaby.com/store/product/bugaboo-bee5-stroller-base-in-black/3313917'
+  image_second_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_10.jpg'
+  image_second_alt: 'Seat Fabric'
+  image_second_link: 'https://www.buybuybaby.com/store/product/bugaboo-bee5-stroller-tailored-seat-fabric/3317812'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_11.jpg'
+  image_first_alt: 'Sun Canopy'
+  image_first_link: 'https://www.buybuybaby.com/store/product/bugaboo-bee5-sun-canopy/3317822'
+  image_second_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_12.jpg'
+  image_second_alt: 'Handlebar Cover Available in Dark Brown, Cognac & Black'
+  image_second_link: 'https://www.buybuybaby.com/store/s/bugaboo-bee5-handlebar-cover'
+
+- type: 'image'
+  image_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_13.jpg'
+  image_alt: 'Wheel Caps'
+  image_link: 'https://www.buybuybaby.com/store/s/bugaboo-bee5-wheel-caps'
+
+- type: 'image'
+  image_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_14.jpg'
+  image_alt: 'shop Bugaboo®'
+  image_link: 'https://www.buybuybaby.com/store/brand/bugaboo/445'
+
+- type: 'image'
+  image_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_15.jpg'
+  image_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous Unites States. '
+  image_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+
+- type: 'image'
+  image_url: 'images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_16.jpg'
+  image_alt: 'style your dream nursery shop this collection'
+  image_link: 'https://www.buybuybaby.com/store/category/furniture/baby-furniture/nursery-ideas/32819/'
+
+socialnav:
+- link: ""
+  img: "images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_17.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_18.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_19.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_20.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_21.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_22.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_188_041117_Bugaboo_Launch_v1_r8_DEV_23.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
