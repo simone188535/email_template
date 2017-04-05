@@ -1,0 +1,131 @@
+title: 'Perfect Passover & Easter Meals Start Here!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7080a447-781d-4328-b77a-d1ae79301389.jpg?ver=1491345110000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://vimeo.com/161853111'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/091a0270-d8c6-4eab-aacf-0e4edf21e955.jpg?ver=1491345111000'
+  img_alt: 'Wishing You a Joyous Passover | Build the perfect menu for your Seder celebration. Recipe Video Gremolata Rubbed Brisket | Watch Video > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/03351dd5-9c71-4e9c-ab34-e8dc84b05d87.jpg?ver=1491345111000'
+  img_alt: 'Catering | Holiday Meals Made Easy'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/395e0530-66ec-4fe9-b14f-40ce46869403.jpg?ver=1491345112000'
+  img_alt: 'Plan the perfect Passover Seder or easy Easter brunch with our Chef Prepared catering. We&#39;ll help you create a memorable meal, so you can share special moments with family and friends. Order Now > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d5ac18db-36a4-4241-a3f4-bcccb57ca67b.jpg?ver=1491345112000'
+  img_alt: 'Member Exclusive'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/75ff66d1-1398-4e99-a2d0-42482cb5eeef.jpg?ver=1491345113000'
+  img_alt: 'USDA Prime Certified Angus Beef Rib Roast Bone-In | Member Exclusive 22.99/LB | Reg 25.99 '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a156e8c8-7006-4345-af16-13a7add2c15b.jpg?ver=1491345113000'
+  img_alt: 'How big of a roast do I need? Plan on a pound for every two guests, and a half-pound per two children. Add an extra pound just in case; leftovers are great for future meals.'
+  url_2: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/873fcbb1-564a-4c5a-b582-31bf26b918e2.jpg?ver=1491345113000'
+  img_alt_2: 'How do I cook my roast? Cook for 15 minutes at a very high heat (450°F) to sear the outer surface. Then, reduce the heat to 325°F and cook 11 to 13 minutes per pound. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1ec9dd6c-b51e-4d26-aca1-5e53eb1d1a71.jpg?ver=1491345113000'
+  img_alt: 'Seder Sensations'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c717c3f3-421e-4f39-82c6-d18f7a2ccff1.jpg?ver=1491345114000'
+  img_alt: 'Absolutely Gluten Free Macaroons'
+  url_2: 'http://www.balduccis.com/rewards/terms_and_conditions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/362d6c49-d1de-4845-b27a-d2e73aa70f71.jpg?ver=1491345115000'
+  img_alt_2: 'Carrot & Sweet Potato Tzimmes | Member Exclusive 6.99/LB | Reg 7.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05d471f2-d779-4422-9602-81564086e8c7.jpg?ver=1491345115000'
+  img_alt: 'All Natural Hams | Easter&#39;s Best'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/992507a9-2ebb-43fa-b0f1-c46ba7707bd5.jpg?ver=1491345115000'
+  img_alt: 'Celebrate Easter with our best guilt-free ham selections. Spiral sliced hams, bone-in: Garrett Valley All Natural Uncured, Leidy&#39;s Uncured, Creekstone Farms | Boneless Hams: Dietz & Watson, McKenzie of Vermont | No antibiotics or hormones | No added nitrates or nitrites '
+
+- type: 'image'
+  url: '#'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5df4c675-160c-4745-bcea-7f5a81465dad.jpg?ver=1491345115000'
+  img_alt: 'Easter Treats '
+
+- type: 'image-2-columns'
+  url: '#'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/945ba6d5-1ae3-4bf0-9f59-d2cf7fc86f0b.jpg?ver=1491345116000'
+  img_alt: 'Enjoy Small Floppy Ear Bunny'
+  url_2: '#'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f6026eb3-c91f-4c6d-8d41-2a7603c7ea9b.jpg?ver=1491345116000'
+  img_alt_2: 'Hot Cross Buns '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/815f4a8e-240e-49a6-a0a6-5367b9e7b1ca.jpg?ver=1491345116000'
+  img_alt: 'What&#39;s New In-Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3238820c-96ab-47df-8985-abf3b352e962.jpg?ver=1491349669000'
+  img_alt: 'Spring Wine & Food Event Join us for a food and wine tasting - it&#39;s a great time to plan pairings for Passover Seders and Easter brunches. Saturday, April 8th Food Samplings…12 noon-5pm Wine Samplings…2-5pm More Info > '
+
+
+
+
+
+
+
+
+
+
+
+
+
+
