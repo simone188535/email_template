@@ -1,0 +1,142 @@
+title: ''
+
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+
+preheader_text: 'Ready-Made Gift Sets'
+preheader_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-shower-gifts-favors/32660/'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE='
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_02.jpg'
+  image_alt: 'welcome to the world, baby Adorable gift sets that are thoughtful & just perfect! All items are available online only. shop now'
+  image_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-shower-gifts-favors/32660/'
+
+- type: 'image'
+  image_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_03.jpg'
+  image_alt: '2pc Little Man Footie and Cap Set by Baby Aspen 20.99'
+  image_link: 'https://www.buybuybaby.com/store/product/baby-aspen-size-0-6m-2-piece-little-man-footie-and-cap-set-in-white-blue/1044113957'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_04.jpg'
+  image_first_alt: 'Big Dreamzzz Princess 3pc Layette Set by Baby Aspen 29.99'
+  image_first_link: 'https://www.buybuybaby.com/store/product/baby-aspen-big-dreamzzz-princess-3-piece-layette-set/1041588482'
+  image_second_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_05.jpg'
+  image_second_alt: '3pc Golf Layette Set by Baby Aspen 29.99'
+  image_second_link: 'https://www.buybuybaby.com/store/product/baby-aspen-3-piece-golf-layette-set/1018272342'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_06.jpg'
+  image_first_alt: 'Mohair Wrap and Headband Set by Tiny Blessings Boutique 29.99'
+  image_first_link: 'https://www.buybuybaby.com/store/product/tiny-blessings-boutique-mohair-wrap-and-headband-set-in-pink/1060072429'
+  image_second_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_07.jpg'
+  image_second_alt: 'Newborn Flower Headband and Butterfly Wing Set by Tiny Blessings Boutique 29.99'
+  image_second_link: 'https://www.buybuybaby.com/store/product/tiny-blessings-boutique-newborn-flower-headband-and-butterfly-wing-set-in-turquoise-coral/1060072528'
+
+- type: 'image'
+  image_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_08.jpg'
+  image_alt: 'Welcome Home Baby Large Gift Set by Raindrops™ 13pc set includes baby pajamas, bibs, teddy bear, & so much more! 130.99 FREE SHIPPING'
+  image_link: 'https://www.buybuybaby.com/store/product/welcome-home-baby-large-gift-set-in-yellow/1046371669'
+
+- type: 'image'
+  image_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_09.jpg'
+  image_alt: 'Welcome Home Baby Sleep Gift Set by Raindrops™ 5pc set includes pajamas, blankie, teddy bear, & more 52.99 FREE SHIPPING'
+  image_link: 'https://www.buybuybaby.com/store/product/welcome-home-baby-sleep-gift-set-in-blue/1046371652'
+
+- type: 'image'
+  image_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_10.jpg'
+  image_alt: '&334;A&#34; and &#34;B&#34; Twins Gift Set by Silly Phillie* The perfect gift for the new duo, includes 2 embroidered blankets & a teddy bear 46.99'
+  image_link: 'https://www.buybuybaby.com/store/product/silly-phillie-reg-a-and-b-twins-gift-set/1060218582'
+
+- type: 'image'
+  image_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_11.jpg'
+  image_alt: 'shop gift sets'
+  image_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-shower-gifts-favors/32660/'
+
+- type: 'image'
+  image_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_12.jpg'
+  image_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous Unites States. '
+  image_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+
+- type: 'image'
+  image_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_13.jpg'
+  image_alt: 'more to shop'
+  image_link: ''
+
+- type: 'images-3-columns'
+  image_first_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_14.jpg'
+  image_first_alt: 'feeding'
+  image_first_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-shower-gifts-favors/feeding-gift-sets/32664/'
+  image_second_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_15.jpg'
+  image_second_alt: 'bath & skincare'
+  image_second_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-shower-gifts-favors/bath-skincare-gift-sets/32663/'
+  image_third_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_16.jpg'
+  image_third_alt: 'toys'
+  image_third_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-shower-gifts-favors/toy-gift-sets/32665/'
+- type: 'image'
+  image_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_17.jpg'
+  image_alt: 'take a peek at our…special buys & deals shop now'
+  image_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+
+- type: 'image'
+  image_url: 'images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_18.jpg'
+  image_alt: 'add a personal touch start personalizing'
+  image_link: 'http://www.buybuybaby.com/store/category/gifts-more/personalized-gifts/32754/'
+
+socialnav:
+- link: ""
+  img: "images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_19.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_20.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_21.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_22.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_23.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_24.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_185_FillerEmail_GiftSets_v1_r6_DEV_25.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
