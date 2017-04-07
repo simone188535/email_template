@@ -1,0 +1,170 @@
+title: 'Passover Eats & Easter Treats '
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/504d0018-4bd4-46a1-a1f5-9bd8a3f061ac.jpg?ver=1491314620000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/15168b09-8cc1-4720-a083-32396ae371c5.jpg?ver=1491314620000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/70b24dc0-cb84-4da8-b5e1-70d6fb689694.jpg?ver=1491314620000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ab980ec0-49db-4c9d-96c0-0deff8ddfadb.jpg?ver=1491314612000"
+  img_alt: "Wishing You and Your Family a Joyous Passover | Prep for the perfect Passover with these easy holiday meal ideas. | Create Gremolata Rubbed Beef Brisket: Watch Video > "
+  url: "http://kingsfoodmarkets.com/unique-recipes/brisket-with-citrus-herb-gremolata?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3187e88b-7c50-463c-a81b-631723c04a48.jpg?ver=1491314613000"
+  img_alt: "Create Gremolata Rubbed Beef Brisket: Watch Video > "
+  url: "http://kingsfoodmarkets.com/unique-recipes/brisket-with-citrus-herb-gremolata?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/42ad8bbb-8ca1-4426-99ea-3d37ee018d47.jpg?ver=1491314613000"
+  img_alt: "Passover Picks | Signature Seder Dishes "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/92d90a1c-27ef-4842-a866-396abe5706db.jpg?ver=1491314613000"
+  img_alt: "Kings USDA Choice Fresh Beef Brisket First Cut 5.99 LB. "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5fa544e1-4e11-412e-a701-d6b6b69a86c3.jpg?ver=1491314614000"
+  img_alt_2: "Whole Carp 3.99 LB. "
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0dee588a-3a06-42e0-a0d3-aad196e17955.jpg?ver=1491314614000"
+  img_alt: "View Weekly Specials > "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/50a1c76b-52da-47c9-ba63-2fd053406764.jpg?ver=1491314614000"
+  img_alt: "Holiday Catering | Chef Prepared Family Feasts Our Chef Prepared catering makes it easy to serve the perfect Passover or Easter feast. Call ahead to plan the whole meal or stop by and pick up a la carte starters, entrées, sides and desserts! Try our New! Kosher Sides for Six! *select stores View More > "
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/54a5d882-8842-4025-bd24-c0ebda221332.jpg?ver=1491314614000"
+  img_alt: "Holiday Catering | Chef Prepared Family Feasts Our Chef Prepared catering makes it easy to serve the perfect Passover or Easter feast. Call ahead to plan the whole meal or stop by and pick up a la carte starters, entrées, sides and desserts! Try our New! Kosher Sides for Six! *select stores View More > "
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0fad76a-39cb-4e2d-894a-cf83851c397b.jpg?ver=1491314615000"
+  img_alt_2: "Holiday Catering | Chef Prepared Family Feasts Our Chef Prepared catering makes it easy to serve the perfect Passover or Easter feast. Call ahead to plan the whole meal or stop by and pick up a la carte starters, entrées, sides and desserts! Try our New! Kosher Sides for Six! *select stores View More > "
+  url_2: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2d54dd85-53ee-4088-b7bf-71b948c692f9.jpg?ver=1491314615000"
+  img_alt: "Kings Apricot Glazed Boneless Turkey Breast "
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4afadfad-5911-411a-9db2-423e0b6ac770.jpg?ver=1491314615000"
+  img_alt_2: "Bell & Evans Organic Rotisserie Chicken "
+  url_2: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/72ebd8f0-bc91-450f-b712-e7126331f200.jpg?ver=1491314616000"
+  img_alt: "View Menus &#62;"
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5d58edef-e1fe-4385-af11-889d5df8607b.jpg?ver=1491314616000"
+  img_alt: "Easter Specials | Perfect for a Brilliant Brunch "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d31205f-5b18-4cbd-9199-517f625e806c.jpg?ver=1491314616000"
+  img_alt: "Kings Semi-Boneless Smoked Ham 2.99 LB. "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/70093be2-93b5-46f5-9bec-5e0f66f90e87.jpg?ver=1491314616000"
+  img_alt_2: "Create Gratin of Asparagus with Parmesan Cheese View Recipe Fresh Green Asparagus 1.99 LB. "
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/gratin-of-asparagus-w-parmesan-cheese?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a43f761b-6a13-4748-a441-1243dcd361cc.jpg?ver=1491314616000"
+  img_alt: "View Weekly Specials > "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/97191be3-0952-4606-b50e-0d464cdf071a.jpg?ver=1491421922000"
+  img_alt: "Celebrate Easter with our best guilt-free ham selections. Spiral Sliced Hams, Bone-In: Garrett Valley All Natural Uncured, Leidy's Uncured, Creekstone Farms. Boneless Hams: Deitz & Watson and McKenzie of Vermont. No antibiotics or hormones. No added nitrates or nitrites. "
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eaa5fa89-e608-46fd-896b-b5aebf74f3a6.jpg?ver=1491421933000"
+  img_alt: "Holiday Recipes | Tasty Homemade Favorites "
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b6189f0d-044d-4c49-b7ac-a390c29a2f66.jpg?ver=1491314619000"
+  img_alt: "Lemon Rosemary Chicken More Passover Recipes > "
+  url: "http://kingsfoodmarkets.com/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/244cead5-cb85-4684-9c15-4d3998d8ae74.jpg?ver=1491314619000"
+  img_alt_2: "Bacon Cheddar Deviled Eggs More Easter Recipes > "
+  url_2: "http://kingsfoodmarkets.com/easter?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/51d642d8-7832-4f11-9c9a-afbb1ee6dc64.jpg?ver=1491314620000"
+  img_alt: "Don't Miss Piazza Italia | Only 3 Events Left! Boonton, Fri, April 7 11AM-6PM| Cresskill & Ridgewood Sun, April 9 | 10AM - 2PM, 3PM - 7PM | Taste exlusive new foods from across Italy | Meet artisan producers from different regions | Choose which new products will be featured exclusively at Kings! Learn More > "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/aa5c6d70-96c4-4b37-924b-15752a76d2f3.jpg?ver=1491314620000"
+  img_alt: "Don't Miss Piazza Italia | Only 3 Events Left! Boonton, Fri, April 7 11AM-6PM| Cresskill & Ridgewood Sun, April 9 | 10AM - 2PM, 3PM - 7PM | Taste exlusive new foods from across Italy | Meet artisan producers from different regions | Choose which new products will be featured exclusively at Kings! Learn More > "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/634b634d-55af-404c-aa1d-d5ed4ce8929b.jpg?ver=1491314620000"
+  img_alt: "Don't Miss Piazza Italia | Only 3 Events Left! Boonton, Fri, April 7 11AM-6PM| Cresskill & Ridgewood Sun, April 9 | 10AM - 2PM, 3PM - 7PM | Taste exlusive new foods from across Italy | Meet artisan producers from different regions | Choose which new products will be featured exclusively at Kings! Learn More > "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0407_KF_WeeklyEmail_Chain"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
