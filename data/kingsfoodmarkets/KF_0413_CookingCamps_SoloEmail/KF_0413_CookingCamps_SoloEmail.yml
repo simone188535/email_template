@@ -1,0 +1,87 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5be3fcce-afbf-499f-b1b8-617ddd23d299.jpg?ver=1492009691000"
+  img_alt: "Cooking Studio| Kids, Teens & College Bound| Summer Camps|Plan Your Summer Here &#62;"
+  url: "http://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5c391f2-0e28-4e8d-b94d-27f39169c8bc.jpg?ver=1492009691000"
+  img_alt: "Featured Camps"
+  url: "http://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/40a8f8f1-b1e4-49dc-9177-5241b439543e.jpg?ver=1492009692000"
+  img_alt: "June 26-30|Mon-Wed|10 AM-1PM| Kids Camp|Cookies Unlimited!| Register Now &#62;"
+  url: "http://kingsfoodmarkets.com/in-store-events/cookies-unlimited-kids-camp-8-12-yrs?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5bae250f-23d6-4920-92db-bb6e95b58cc8.jpg?ver=1492009692000"
+  img_alt_2: "June 26-30|Mon-Fri|2AM-5PM| Teens Camp|International 5-Star Food| Register Now &#62;"
+  url_2: "http://kingsfoodmarkets.com/in-store-events/international-5-star-food-teen-camp?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/49743981-ffc3-4eb3-8498-4c6b1d6d57d2.jpg?ver=1492009694000"
+  img_alt: "July 5-7|Wed-Fri|10 AM-1PM|Kids Camp|Mystery Basket Challenge|Register Now &#62;"
+  url: "http://kingsfoodmarkets.com/in-store-events/mystery-basket-challenge-kids-camp-8-12yrs?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/282648bd-ad76-42c9-8e49-c93578fe5223.jpg?ver=1492009694000"
+  img_alt_2: "June 26-30|Mon-Fri|7-9:30 PM|Teens Camp|College Cooking|Register Now &#62;"
+  url_2: "http://kingsfoodmarkets.com/in-store-events/college-cooking-101-teen-camp?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9037ba8e-ee1f-40d1-8c4b-84033e48b802.jpg?ver=1492009694000"
+  img_alt: "All Camp Classes Are Held At The Kings Cooking Studio In Short Hills, NJ. Kids Camps Are Open To Children Ages 8 Through 12.  Teens Camps Are Open To Students Ages 12 Through 18."
+  url: "http://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/53226a1c-46ad-4b2f-802f-49d0bf129c8b.jpg?ver=1492009694000"
+  img_alt: "View More Summer Camps &#62;"
+  url: "http://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/312f0490-543e-459f-a6f9-3eedcbbd01d3.jpg?ver=1492009695000"
+  img_alt: "Kings Short Hills • Cooking Studio • 778 Morris Turnpike| To Register Or For More Info Call 973.258.4009 Or Visit Us Online."
+  url: "http://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail"
