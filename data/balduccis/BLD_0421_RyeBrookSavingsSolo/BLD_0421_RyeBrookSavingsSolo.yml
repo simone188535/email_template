@@ -1,0 +1,107 @@
+title: 'Rye Brook Spectacular Savings!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0984ff9-8445-4e08-bca8-220f45be5821.jpg?ver=1467292845000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: ""
+footer_site_img: ""
+footer_site_alt: ""
+footer_facebook_link: ""
+footer_facebook_img:  ""
+footer_facebook_alt: ""
+footer_twitter_link: ""
+footer_twitter_img: ""
+footer_twitter_alt: ""
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6dc22c8d-3b3f-410f-badd-6a650ca559ae.jpg?ver=1492695062000'
+  img_alt: "Balducci&#39;s® Food Lover&#39;s Market™ This Week&#39;s Picks in Rye Brook"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a6014c35-bc30-4052-87c4-54a0d1fdf872.jpg?ver=1492695062000'
+  img_alt: "BUY ONE GET ONE FREE Freshly Made Pre-Packed Sandwiches of Equal or Lesser Value"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/eeebffa5-ed71-45b3-87dd-80665e4b29a9.jpg?ver=1492695062000'
+  img_alt: "Meat & Seafood Valid 4/21/17 - 4/27/17 Save 16.00 | USDA Prime Certified Angus Beef Tenderloin Steak 29.99LB. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/69bf8902-795e-4271-be7f-8b418800f84c.jpg?ver=1492695062000'
+  img_alt: "Save 14.00 | USDA Choice Rib Lamb Chops 19.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6be05095-a6b3-4ecd-9d0b-54040ee2c728.jpg?ver=1492695063000'
+  img_alt: "Save 3.00 | Wild Caught Swordfish Steak 17.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/74926399-0c81-4467-ab50-1e2a02c57432.jpg?ver=1492695063000'
+  img_alt: "Save 1.00 | Balducci&#39;s Signature Crab Cake  7.49 EA. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/115ad617-6914-4b6d-8ed9-b7f2afb7c39d.jpg?ver=1492695063000'
+  img_alt: "Cheese Savings Valid 4/21/17 - 4/27/17 Save 10.00 | Cypress Grove Lamb Chopper Cheese 16.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/618e3f1c-a1a2-45b3-8547-d4ba1111bfda.jpg?ver=1492695064000'
+  img_alt: "Save 4.00 | Fromage D&#39;Affinois | Creamy, silky smooth French cheese, serve with fresh fruit 13.99 LB. Save 5.00 | Fromage D&#39;Affinois with Truffles 19.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e45dc7e4-5f61-4582-bd0b-54b784ebd3e4.jpg?ver=1492695064000'
+  img_alt: "Produce, Bakery & More! Valid 4/21/17 - 4/27/17 Save 3.00 | Clementines 3 LB Bag 4.99 EA. Save 2.00 | Fresh Cut Broccoli Crowns 1.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6905b4e6-0c02-47f8-b0bc-9bbb13c67357.jpg?ver=1492695064000'
+  img_alt: "Save 1.00 | Zaro&#39;s French Baguette 1.99 EA. Save 4.00 | Dozen Rose Bouquet 15.99 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bbcda208-b2e0-4b93-851e-630f7e2e3362.jpg?ver=1492695064000'
+  img_alt: "Save 9.99 on 10 | Chobani Greek Yogurt | All Var. Excl. Flips, 5.3 OZ. | 10/10.00 Save 2.98 on 2 | DeCecco Pasta 16 OZ. | 2/3.00  Save 1.00 | Balducci&#39;s Water 24pk Case | 405.6 fl. oz. 4.99 EA. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/60426398-fc37-4667-b7b4-4baf91619b74.jpg?ver=1492695065000'
+  img_alt: "RYE BROOK FOOD LOVE FEST | The Grand Opening celebration continues with new tasting events starting next weekend! | Join us for Tastings, SATURDAY & SUNDAY 4/29–5/28, 11am - 4pm 144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

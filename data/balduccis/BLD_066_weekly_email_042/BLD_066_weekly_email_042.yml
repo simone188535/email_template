@@ -1,0 +1,198 @@
+title: 'Don&#39;t Miss Out - One-Day Italian Tasting Event!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fce33575-beb4-403c-8af1-9aa0bdc9a4f6.jpg?ver=1492544001000'
+  img_alt: "GOURMET REWARDS CLUB"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/salads?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/27ff918a-40ff-4d7b-b6dc-b23a3f0e587f.jpg?ver=1492544001000'
+  img_alt: "SPRING FRESH|FOUND HERE Recipe of the Season|SPRING CHOPPED SALAD| WITH ARUGULA & ASPARAGUS| VIEW RECIPE> "
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dc30fbf6-fd93-4dfd-bfef-2919fbd491b7.jpg?ver=1492544002000'
+  img_alt: "HOW-TO| PERFECT 6 MINUTE EGGS"
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f2e5716f-8e1d-4a0c-99c2-b725f462de8c.jpg?ver=1492544002000'
+  img_alt: "The secret to a perfect, slightly cooked yolk-luxuriously creamy and delightful. | 1 BOIL WATER | 2 ADD 3 EGGS| 3 COOK FOR 6 MINUTES | 4 PLACE EGGS IN ICE BATH | 5 LET REST, THEN SERVE!"
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9bccf521-3ddd-4083-ab41-c1d8b88a8277.jpg?ver=1492544002000'
+  img_alt: "The secret to a perfect, slightly cooked yolk-luxuriously creamy and delightful. | 1 BOIL WATER | 2 ADD 3 EGGS| 3 COOK FOR 6 MINUTES | 4 PLACE EGGS IN ICE BATH | 5 LET REST, THEN SERVE!"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0ccbc69f-49f3-4975-b913-a894ef870d5e.jpg?ver=1492544002000'
+  img_alt: "CHEF PREPARED | SPRING TO GO!"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ff4e2ab2-75c6-45d4-84a0-50e9a611eb8a.jpg?ver=1492544003000'
+  img_alt: "GRILLED CHICKEN & ARTICHOKE SALAD"
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0b50751b-81c4-468f-8bf0-7bfd2be35e17.jpg?ver=1492544003000'
+  img_alt: "LEMON CAPER SHRIMP"
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e74ad9ef-b2a0-4500-95fc-b2201da7af85.jpg?ver=1492544003000'
+  img_alt_2: "ASPARAGUS, MUSHROOM & ASIAGO QUICHE"
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8eaaa8de-df5f-41aa-a99d-d7df80a12e04.jpg?ver=1492544004000'
+  img_alt: "SPRING SNACKS| ON THE SAVORY SIDE"
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/62548785-b3ab-4488-930f-c3ed1cb4e5c0.jpg?ver=1492544004000'
+  img_alt: "BALDUCCI&#39;S HOUSE MADE PARMIGIANO REGGIANO CRISPS"
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/00e37133-6b19-4a8b-93cd-44493e97fd4c.jpg?ver=1492544005000'
+  img_alt_2: "SPRING BEAUFORT CHEESE"
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/888db5bc-6f9e-4d68-a262-64dd94bc70d9.jpg?ver=1492544005000'
+  img_alt: "SPRING DRINKS | MAKE A SPLASH"
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c3fcb05c-93a1-4f6f-8a36-cbfeedeb2f93.jpg?ver=1492544005000'
+  img_alt: "ICONIC PROTEIN DRINK| Made with GMO- and hormone-free protein, ICONIC brings you world-class dairy protein with a great taste."
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7168e4d3-3aaf-4980-9810-8684cfc286a9.jpg?ver=1492544007000'
+  img_alt_2: "LIVE DRINKING VINEGARS| Boost gut health with two tablespoons of raw vinegar and organic whole fruit juice, available in four delicious flavors."
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/33cdb580-cb6b-488e-859e-e3d94c2640d4.jpg?ver=1492544006000'
+  img_alt: "WHAT&#39;S NEW IN STORE"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/94b38073-3bd0-419c-a49f-d9e9643aa01c.jpg?ver=1492544008000'
+  img_alt: "Celebrate Administrative Professionals Day|  Get the perfect gift for the valued pro in your life!  Choose from our variety of exquisite gift baskets or show your food love with a Balducci&#39;s gift card. VIEW GIFTS > "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/153145b0-e7a5-4d41-960a-420fd213860c.jpg?ver=1492544007000'
+  img_alt: "We Make Event Planning Easier! | Balducci&#39;s spring catering menu has the perfect spread for any spring event: proms, showers, communions, graduations and more! VIEW MENU >"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
