@@ -1,0 +1,131 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ff3dd6c5-a720-4daa-a65b-d0325f4f685b.jpg?ver=1493212944000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://vimeo.com/210791197'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bc449e77-d7b1-42b2-980b-7817d9c13d56.jpg?ver=1493212944000'
+  img_alt: 'Celebrate SPRING | Elegant ideas for spring entertaining. Recipe Video Ricotta Crostini 3 TASTY WAYS |  WATCH VIDEO > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/962be250-e5b0-407b-ba8a-c152f9288baf.jpg?ver=1493212944000'
+  img_alt: 'ENTERTAINING MADE EASY'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/adf62e86-9b11-4188-884b-a92fb198253f.jpg?ver=1493212945000'
+  img_alt: 'Our catering menu has the perfect spread for any spring event: proms, showers, communions, graduations and more! | ORDER NOW >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1248ed4-64a6-4995-b985-9ca9b62c4343.jpg?ver=1493212945000'
+  img_alt: 'SANDWICH SAMPLER PLATTER '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/56d65663-3337-4928-91e7-acee924267f5.jpg?ver=1493212945000'
+  img_alt: 'SKEWER TRIO '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e1f49327-95a1-4ec4-97c9-8307fc9aec1a.jpg?ver=1493212947000'
+  img_alt: 'ANTIPASTO PLATTER'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/56c1fd34-b417-45a5-b26e-bd0e20259e32.jpg?ver=1493212946000'
+  img_alt: 'GREENS & GOAT CHEESE SALAD'
+
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/mothers_day?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/76cdaa56-ce71-40ea-ade6-9b5768b078ec.jpg?ver=1493212946000'
+  img_alt: 'TREAT MOM TO A CHEF PREPARED MEAL'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/mothers_day?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a4beefa3-7f42-4c62-9209-b5d67d10eaac.jpg?ver=1493212946000'
+  img_alt: 'Mother&#39;s Day is Sunday, May 14 | Our Mother&#39;s Day catering menu makes it easy to treat mom like a queen with a restaurant-quality brunch or Chef Prepared breakfast in bed! |  ORDER NOW '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/eb79d1be-25c8-4b2b-b0b2-d340d59d26ca.jpg?ver=1493212946000'
+  img_alt: 'WE&#39;RE YOUR CATERING CONCIERGE Professional Party Planners |  Let us handle the details for you. • Rentals: tables, chairs, linens, dishes, and more • Wait Staff • Bartenders Gourment Chefs|  Let us cover the cooking! • Exclusive recipes • Create a custom menu to suit your event&#39;s needs • Guaranteed delicious, restaurant-quality dishes '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3034b767-ea0f-4ff7-9bcb-ff1edf776d21.jpg?ver=1493212946000'
+  img_alt: 'WE&#39;RE YOUR CATERING CONCIERGE Professional Party Planners |  Let us handle the details for you. • Rentals: tables, chairs, linens, dishes, and more • Wait Staff • Bartenders Gourment Chefs|  Let us cover the cooking! • Exclusive recipes • Create a custom menu to suit your event&#39;s needs • Guaranteed delicious, restaurant-quality dishes '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ca0106bf-ddb1-4c67-81bc-c245ce21bbeb.jpg?ver=1493212947000'
+  img_alt: 'WE&#39;RE YOUR CATERING CONCIERGE Professional Party Planners |  Let us handle the details for you. • Rentals: tables, chairs, linens, dishes, and more • Wait Staff • Bartenders Gourment Chefs|  Let us cover the cooking! • Exclusive recipes • Create a custom menu to suit your event&#39;s needs • Guaranteed delicious, restaurant-quality dishes '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e7fc0b5c-ad0f-4f68-995f-8331ec8fc230.jpg?ver=1493212947000'
+  img_alt: 'Fresh Flowers| • Professional florists to customize your order • From elegant table arrangements to beautiful bouquets •  Fabulous fresh flowers for your event'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0b5ff2a0-cab0-40d6-9f9a-25b8d4ddd4aa.jpg?ver=1493212947000'
+  img_alt: 'CONTACT US '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/328a2812-06c1-4b9b-aaac-a7748ba55679.jpg?ver=1493212947000'
+  img_alt: 'MEMBER EXCLUSIVE | APP IDEA WILD MEXICAN WHITE SHRIMP | 2-LB. BAG | MEMBER EXCLUSIVE | 39.98/EA Reg 44.98 |  Recipe Idea| Avocado & Shrimp Bruschetta |  VIEW RECIPE >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/35d11e92-7cfb-4e45-a7e7-96686a62d224.jpg?ver=1493212947000'
+  img_alt: 'MEMBER EXCLUSIVE | APP IDEA WILD MEXICAN WHITE SHRIMP | 2-LB. BAG | MEMBER EXCLUSIVE | 39.98/EA Reg 44.98 |  Recipe Idea| Avocado & Shrimp Bruschetta |  VIEW RECIPE >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7c8b7850-0897-4698-9626-0c0549c31698.jpg?ver=1493212947000'
+  img_alt: 'WHAT&#39;S NEW IN STORE '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/476047c8-2b38-496a-848b-e96f5546fc13.jpg?ver=1493212948000'
+  img_alt: 'Say &#34;Thank You&#34; to Teachers and Nurses! | Teacher Appreciation Week is May 1-5 and National Nurses Day is May 6. A balducci&#39;s gift card is a tasteful way to say &#34;Thank You&#34;. |  VIEW GIFTS > '
+
+
