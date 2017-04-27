@@ -1,0 +1,121 @@
+title: 'Spring Party Prep Made Easy '
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Loyalty'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Loyalty'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Loyalty'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Loyalty'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Loyalty'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Loyalty"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85ebd13b-9386-49cf-b00c-eabe1db0ff85.jpg?ver=1493128854000"
+  img_alt: "SPRING PARTY PLANNING 101| Get ready to party with chef prepared grab-and-go dishes and tableware tips."
+  url: "https://youtu.be/zoPb7rf8kTU"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6bfbbead-4765-4d0f-8b00-188f5118eeb1.jpg?ver=1493128855000"
+  img_alt: "Create Ricotta Crostini| WATCH VIDEO>"
+  url: "https://youtu.be/zoPb7rf8kTU"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/56e781ed-634a-4830-9384-eb36d1eaf559.jpg?ver=1493128849000"
+  img_alt: "Weekly Rewards Offers"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6384e8f9-b700-492d-b07f-b3d2ac3b0ef0.jpg?ver=1493128849000"
+  img_alt: "We responsibly source the best, sustainable seafood on the market, paying for the highest quality, freshest fish on &#34;top.&#34; Enjoy our premium seafood catch!"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/352b2663-202f-48db-b5c7-25ff4ff1f052.jpg?ver=1493128850000"
+  img_alt: "Save $2.98 on 2 Driscoll&#39;s STRAWBERRIES 2/7 "
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eadb9d54-6099-4c09-9e00-6923084edb53.jpg?ver=1493128850000"
+  img_alt: "Save $1.00 lb. Fresh Norwegian |SALMON FILLET | 16.99 LB."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/243ff4c7-c47b-4f6e-9c3d-3a5c0d7dd7a5.jpg?ver=1493128853000"
+  img_alt: "Not a Member Yet? See Store for Details | View Weekly Member Only Offers | Offers Loaded on Member Card | Create and Share a Shopping List Not a Member Yet? See Store for Details | View Weekly Member Only Offers | Offers Loaded on Member Card | Create and Share a Shopping List"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7f99423e-6dac-4f3f-847c-2a6cc8148f62.jpg?ver=1493128850000"
+  img_alt: "View More Offers and Make a List Old Greenwich Offers"
+  url: "http://kingsfoodmarkets.com/old-greenwich?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ed90772f-e748-4f7c-b8ce-739b5160cf8d.jpg?ver=1493128850000"
+  img_alt_2: "View More Offers and Make a List Hoboken Offers"
+  url_2: "http://kingsfoodmarkets.com/hoboken?utm_source=weeklyemail&utm_medium=email&utm_campaign=0421_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2f12fe5d-1741-43d3-82a1-9f3fb4267266.jpg?ver=1493128851000"
+  img_alt: "PARTY  PLEASERS | EASIER ENTERTAINING WITH CHEF PREPARED CATERING "
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Loyalty"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

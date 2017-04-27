@@ -1,0 +1,179 @@
+title: 'Spring Party Prep Made Easy '
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+#footer
+# footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_KF_WeeklyEmail_Chain"
+# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+# footer_site_alt: "www.kingsfoodmarkets.com"
+# footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+# footer_facebook_alt: "facebook"
+# footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+# footer_twitter_alt: "twitter"
+# footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+# footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+# footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85ebd13b-9386-49cf-b00c-eabe1db0ff85.jpg?ver=1493128854000"
+  img_alt: "SPRING PARTY PLANNING 101| Get ready to party with chef prepared grab-and-go dishes and tableware tips."
+  url: "https://youtu.be/zoPb7rf8kTU"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6bfbbead-4765-4d0f-8b00-188f5118eeb1.jpg?ver=1493128855000"
+  img_alt: "Create Ricotta Crostini| WATCH VIDEO>"
+  url: "https://youtu.be/zoPb7rf8kTU"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3acfe458-3e8f-4e89-9059-2189ffbf2360.jpg?ver=1493136721000"
+  img_alt: "MARKET SPECIALS "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dfaba2b4-30a8-4bf9-95c1-1b482507ad5a.jpg?ver=1493136721000"
+  img_alt: "DRISCOLL&#39;S STRAWBERRIES 16.OZ. 2/7 "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd592761-63d8-4e71-ad01-af2e54a1bdf9.jpg?ver=1493136721000"
+  img_alt_2: "FRESH NORWEGIAN SALMON FILLET 16.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/58fd3726-9e2b-4790-a592-466161a36536.jpg?ver=1493136721000"
+  img_alt: "VIEW WEEKLY SPECIALS >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2f12fe5d-1741-43d3-82a1-9f3fb4267266.jpg?ver=1493128851000"
+  img_alt: "PARTY  PLEASERS | EASIER ENTERTAINING WITH CHEF PREPARED CATERING "
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/64552aa6-39b5-4e92-a4ae-c5a600f7ac33.jpg?ver=1493128850000"
+  img_alt: "Get your party started right with our wide variety of  CHEF PREPARED PARTY DISHES NEW! SPECIAL OCCASIONS CATERING MENU PLUS| Learn SPECIAL TIPS from Kings Catering Coordinators. | LEARN MORE >"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ca7074e0-0ae8-464a-98bc-12252aa74c71.jpg?ver=1493128850000"
+  img_alt: "VIEW MENUS>"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3afa6769-23c2-47a3-ab29-b00a10b79d5c.jpg?ver=1493128851000"
+  img_alt: "A TASTE OF SPRING| TRY OUR FAVORITE SPRING RECIPES "
+  url: "http://kingsfoodmarkets.com/spring?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e6ed41f5-bfc6-484a-8e16-62ba86acfb01.jpg?ver=1493128851000"
+  img_alt: "Get inspired for spring with our UNIQUE SEASONAL RECIPES. "
+  url: "http://kingsfoodmarkets.com/spring?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8746b5a5-77ae-42d5-ba19-a302a3dd9318.jpg?ver=1493128851000"
+  img_alt: "VIEW RECIPES>"
+  url: "http://kingsfoodmarkets.com/spring?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5e9a9d71-2a83-43d8-88f8-3931a7d963b8.jpg?ver=1493128851000"
+  img_alt: "RECIPE INSPIRATION | CINCO DE MAYO"
+  url: "http://kingsfoodmarkets.com/unique-recipes/tilapia-quinoa-bowl-with-corn-salsa-and-queso-blanco?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f9e95539-558d-4a16-a183-7582996cd7ab.jpg?ver=1493128851000"
+  img_alt: "TILAPIA QUINOA BOWL WITH CORN SALSO AND QUESO BLANCO CREATE WITH LAKE GROWN FRESH TILAPIA FILLET| VIEW RECIPE>"
+  url: "http://kingsfoodmarkets.com/unique-recipes/tilapia-quinoa-bowl-with-corn-salsa-and-queso-blanco?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ce8ff4f4-40d1-477b-98a7-c27f2215a364.jpg?ver=1493128851000"
+  img_alt: "MARK YOUR CALENDAR "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/968f4bf2-83b4-4fc1-8740-23630d241833.jpg?ver=1493128852000"
+  img_alt: "CINCO DE MAYO TASTING| Celebrate Cinco de Mayo by sampling Mission Tortilla quesadillas with Cabot Shredded Cheese and Frontera Guacamole.  LEARN MORE> MAY 4TH & 5TH | 10AM - 3PM | Available at select stores"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3d347b38-8e2d-4b60-b283-d02352b1b172.jpg?ver=1493128852000"
+  img_alt: "WHAT&#39;S NEW| IN STORE "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ba7ff088-afeb-4336-b816-a48006bdc201.jpg?ver=1493128852000"
+  img_alt: "CELEBRATE TEACHERS & NURSES THIS MAY!| Teacher appreciation Week is May 1 - 5 and National Nurses Day is May 6!  Show your love with the perfect floral bouquet."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a8586900-5bb7-4f55-97b4-275af88d1ce4.jpg?ver=1493128852000"
+  img_alt: "A SWEET FINISH|  Try our new 4&#34; Summer Cakes, fresh from our patisserie and perfectly sized for two people to share. "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+
+- type: "image-4-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+  img_alt: "www.kingsfoodmarkets.com"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+  img_alt_2: "facebook"
+  url_2: "https://www.facebook.com/KingsFoodMarkets"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+  img_alt_3: "twitter"
+  url_3: "https://twitter.com/KingsFoodMkts"
+  img_4: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+  img_alt_4: "youtube"
+  url_4: "https://www.youtube.com/user/KingsFoodMarkets"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

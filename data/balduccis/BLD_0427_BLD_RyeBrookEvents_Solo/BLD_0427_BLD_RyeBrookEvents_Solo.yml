@@ -1,0 +1,84 @@
+title: 'Exclusive Tastings Every Weekend!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f3a12bf4-84ed-4818-94f5-99b4bee5ed72.jpg?ver=1493210496000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/38a93080-790f-474f-abe7-81f33942522c.jpg?ver=1493210496000'
+  img_alt: 'Rye Brook Food Love Fest The Grand Opening celebration continues with new tasting events every weekend! Tastings Sat & Sun 4/29 - 5/28 11AM - 4PM '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ed55a8ca-b1c9-4ccd-aa50-67a35b698143.jpg?ver=1493210496000'
+  img_alt: 'Tastings All Month | April 29 - May 28'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/386a566f-c372-45bd-ae78-ffbd2bc74fed.jpg?ver=1493210497000'
+  img_alt: 'APRIL 29/30 | Flavorful Spring Sensations • Meet our in-store chefs and catering team• Sample Chef Prepared Shrimp Skewers and Black Bean Tacos• Meet Peter Colman, Proprietor of Vermont Salumi'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a6216149-cd9c-4fe4-aa9f-ca380dfceac5.jpg?ver=1493210497000'
+  img_alt: 'MAY 6/7 | Mother&#39;s Day Must-Haves • Sample our top catering picks for your spring festivities • Meet the owner of Neuhaus Chocolates and grab a gift for Mom • Sample Carrot Risotto and our freshest shrimp, perfect for shrimp cocktails'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8dae57bb-4133-422d-a9bd-5a36d9bbcc82.jpg?ver=1493210497000'
+  img_alt: 'MAY 13/14 | Enjoy Dining Al Fresco • Get outdoor entertaining tips and pick up flowers and chocolates for Mom • Meet a Zaro! The famous family behind Zaro’s NYC bakery will be here • Celebrate National Apple Pie Day with us'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f232eba4-ddb7-441d-9857-c2beef6298d9.jpg?ver=1493210498000'
+  img_alt: 'MAY 20/21 | Fire Up The Grill • Come taste Balducci’s Best for your weekend grilling with our catering • Sample fresh colossal shrimp, skewered and ready for the grill • Finish with something sweet like our Strawberry Crumble Cake'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0f3fe9c1-5390-46cb-b21c-e67075b72243.jpg?ver=1493210498000'
+  img_alt: 'MAY 27/28 | Memorial Day Essentials • Round out your BBQ with freshly prepared side dishes and decadent desserts, plus, taste our favorites • Sample local clams and oysters, and learn how to grill them to perfection'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2434b89a-1d44-4618-90e9-355853e4aa78.jpg?ver=1493210498000'
+  img_alt: 'More Info >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookEvents_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/52fc2072-c1d7-4b60-962c-bfce8bcb6ccc.jpg?ver=1493210498000'
+  img_alt: 'More Info >'
+
