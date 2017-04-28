@@ -1,0 +1,128 @@
+title: 'TO COME '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: ''
+logo_alt: ''
+catering_link: ''
+catering_alt: ''
+chef_prepared_link: ''
+chef_prepared_alt: ''
+store_locator_link: ''
+store_locator_alt: ''
+my_balduccis_link: ''
+my_balduccis_alt: ''
+
+#footer
+footer_site_link: ""
+footer_site_img: ""
+footer_site_alt: ""
+footer_facebook_link: ""
+footer_facebook_img:  ""
+footer_facebook_alt: ""
+footer_twitter_link: ""
+footer_twitter_img: ""
+footer_twitter_alt: ""
+
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bf2316ba-0c38-4b67-a3a9-9130b1bc7f6a.jpg?ver=1493293252000'
+  img_alt: "Balducci&#39;s® Food Lover&#39;s Market™ This Week&#39;s Picks in Rye Brook"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a0916ae9-347e-460e-b736-06c51dd4e58c.jpg?ver=1493293252000'
+  img_alt: "BUY ONE Oven Hot Sandwich GET ONE Pre-Packed Sandwich of Equal or Lesser Value FREE "
+
+- type: 'image'
+  url: 'https://vimeo.com/161853111'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fdc5d1bc-ce72-4483-8ae1-ea96c639202c.jpg?ver=1493293252000'
+  img_alt: "Meat & Seafood Valid 4/28/17 - 5/47/17 "
+
+- type: 'image'
+  url: 'https://vimeo.com/161853111'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/40df32dd-60b9-45dc-b427-a5b0218f6fd1.jpg?ver=1493293253000'
+  img_alt: "Save 4.00 | Bell & Evans Organic Chicken Tenderloins, Breast Fillets or Nuggets | You Pay 5.99 EA. "
+
+- type: 'image'
+  url: 'https://vimeo.com/161853111'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d6c69425-0ca3-4e9b-abd5-b9421802ef73.jpg?ver=1493293253000'
+  img_alt: "Save 2.50 | Balducci's USDA Prime Certified Angus 90% Lean Ground Beef | You Pay 5.99 LB. "
+
+- type: 'image'
+  url: 'https://vimeo.com/161853111'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/91dfb86d-363d-4f03-b9b7-9efb33f43377.jpg?ver=1493293253000'
+  img_alt: "Save 1.50 | NEW! Ahi Tuna Poke Rice & Salad Bowl | You Pay 8.99 EA. "
+
+- type: 'image'
+  url: 'https://vimeo.com/161853111'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/168c5ba5-7444-4345-b656-7fa8dbcab195.jpg?ver=1493293254000'
+  img_alt: "Save 1.50 | Norwegian Skinless Salmon Portions | You Pay  7.99 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/66ccbb60-173f-4559-8189-9d169eeb1ae4.jpg?ver=1493293254000'
+  img_alt: "RYE BROOK FOOD LOVE FEST | FLAVORFUL SPRING SENSATIONS | Meet our in-store chefs & catering team, plus get ideas for your Cinco de Mayo celebration! | Join us for Tastings, THIS SATURDAY & SUNDAY | 11am - 4pm • 4/29-4/30 "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d09e0f2a-ee5f-4ba7-8c0b-f9a3d5053510.jpg?ver=1493293254000'
+  img_alt: "Cheese Savings Valid 4/28/17 - 5/47/17 "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/319eed2e-a881-481e-8549-62e25501bcb3.jpg?ver=1493293255000'
+  img_alt: "Save 9.00 | Farmhouse Stilton Cheese | You Pay 12.99 LB. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b6cf93fb-0de4-4b05-8482-cbab7e5f1449.jpg?ver=1493293255000'
+  img_alt: "Save 5.00 | Emmi Gruyere | Slightly grainy with complex flavors | You Pay 15.99 LB. Save 6.00 | Red Wax Gouda | Mild & nutty flavor with creamy texture | You Pay 6.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a9353cac-7deb-4ef6-8303-f5d9ccf853a5.jpg?ver=1493293255000'
+  img_alt: "Produce, Bakery & More! Valid 4/28/17 - 5/47/17 "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9badc531-bc3f-42ae-ba6f-c0b4201bf1f3.jpg?ver=1493293255000'
+  img_alt: "Save 2.00 | Tomatoes on the Vine | You Pay 1.99 LB. Sweet Florida Corn | You Pay 6/2.99"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5993f3b0-76d9-46c9-a15f-d82484a8d381.jpg?ver=1493293256000'
+  img_alt: "Save 3.00 | Balducci's 4&#34; Dolly Sin Cake | You Pay 7.99 EA. 11&#34; Hanging Basket | Premium or Combo with seasonal blooms | You Pay 19.99 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d39d636f-9886-416e-bbca-8831f7968f89.jpg?ver=1493293256000'
+  img_alt: "Save 3.98 on 2 | Halo Top Ice Cream | All Varieties, 16 OZ. | You Pay 2/10.00 Save 2.00 | Fiji Artisan Water 6pk | 101.4 FL. OZ. | You Pay 5.99 EA. Save 2.99 on 2 | Skinny Pop Popcorn | 4.4 oz. | You Pay 2/5.00"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e6ae5977-bdbd-42df-8c5e-20eb91036f90.jpg?ver=1493293256000'
+  img_alt: "144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook"
+
+
+
+
+
+
+
+
+
+
+
+
+
