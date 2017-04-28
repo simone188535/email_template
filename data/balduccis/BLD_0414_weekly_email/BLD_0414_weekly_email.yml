@@ -1,0 +1,99 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ac0f311a-7fce-4c68-badc-3048f4bccd20.jpg?ver=1491930666000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://vimeo.com/210791383'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9ccaf0fe-eb70-4950-a915-da08944c1cb1.jpg?ver=1491930667000'
+  img_alt: 'Wishing You a Wonderful Easter | Everything You Need For an Elegant Holiday Feast Recipe Video Farro & Curried Yogurt With Rainbow Carrots | Watch Video > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/easter?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a8eadfe9-3f4d-462f-a8f4-c283e4a86cf3.jpg?ver=1491930667000'
+  img_alt: 'Holiday Catering | Easter Made Easy'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/easter?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c0d27f19-0a83-4d4e-9daa-090a4355aa40.jpg?ver=1491930667000'
+  img_alt: 'There&#39;s Still Time to Order for Easter! | Let Our Chefs Prepare an Elegant (And Easy) Easter Feast For Your Family | Order Now > '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/easter?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/250e6237-bb95-47d3-9d63-5864d401c73d.jpg?ver=1491930667000'
+  img_alt: 'Glazed Antibiotic-Free Duroc Spiral Ham'
+  url_2: 'http://www.balduccis.com/catering/easter?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/eb371ecd-eaf1-4c80-9506-21ad600d9106.jpg?ver=1491930668000'
+  img_alt_2: 'Lemon-Caper Deviled Eggs'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/easter?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d2958a8a-bc02-4ec2-aa2b-6c78a36ccfad.jpg?ver=1491930668000'
+  img_alt: 'New! Carrot Risotto'
+  url_2: 'http://www.balduccis.com/catering/easter?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/159e8c5f-69f9-4f06-ba03-3dda05b59630.jpg?ver=1491930669000'
+  img_alt_2: 'Sugar Snap Peas'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a405fdb4-f1bd-464e-9659-dd9a7cbe582e.jpg?ver=1491930669000'
+  img_alt: 'Easter Eats | Member Exclusive'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dc225054-f0b3-4b70-8855-21c0258d08de.jpg?ver=1491930669000'
+  img_alt: 'USDA Choice Fresh Semi-Boneless Leg of Lamb | Member Exclusive | 7.99/LB Reg 9.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/31803a9a-7c6d-4ecb-b696-56916cb68d6f.jpg?ver=1491930670000'
+  img_alt: 'Desserts | A Sweet Finish'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3c666f9d-7f8a-4f67-9fc5-9616e9907b7b.jpg?ver=1491930670000'
+  img_alt: 'The Perfect Finale For Your Easter Feast | Our Delicious 4" Mousse Cakes Are Just Right For Two People To Share, And They Add a Colorful Touch To Your Table. Available In Your Choice Of Fruit Flavors. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/896319b4-6dc4-4d2d-8864-18ecb429ba16.jpg?ver=1491930670000'
+  img_alt: 'The Perfect Finale For Your Easter Feast | Our Delicious 4" Mousse Cakes Are Just Right For Two People To Share, And They Add a Colorful Touch To Your Table. Available In Your Choice Of Fruit Flavors. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0414_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3a02aa8-dbaf-4e69-adc1-344b59eb11c8.jpg?ver=1491930671000'
+  img_alt: 'SMASHMALLOW™ No Ordinary Marshmallow! | Made Of 100% Organic Sugar And Gluten-Free Ingredients, And Only 80 Calories Per Serving, They&#39;re The Perfect Guilt-Free Addition To Any Easter Basket.'
