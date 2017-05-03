@@ -1,0 +1,90 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/94024b56-e5c8-4bb5-8a31-14f8bde40920.jpg?ver=1493833927000'
+  img_alt: 'Wine Newsletter May 2017'
+  
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0b4c1ad5-375b-49db-ac99-28980f6ae2dc.jpg?ver=1493833928000'
+  img_alt: 'MOTHER&#39;S DAY WEEKEND WINE &amp; FOOD EVENT SATURDAY, MAY 13TH Food Tasting:  12pm-5pm Wine Tasting: 2pm-5pm FEATURING • Wines for Mom • Rosé Wines • Spring Wines'
+  
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/798a8f86-2d8f-4dfa-a10e-b12373d29a84.jpg?ver=1493833933000'
+  img_alt: 'AUSTRIAN WINE'
+  
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/17175040-b203-476f-98f4-0f6768de7b62.jpg?ver=1493833930000'
+  img_alt: '&#34;The Hills are Alive, with the Tastes of Grüner!&#34; -Tim Healy, Balducci&#39;s Wine &amp; Cheese Manager, Alexandria, VA Austria&#39;s signature grape, Grüner Veltliner, has a truly unique character with hints of stone fruits and minerals and a distinct note that is often described as white pepper.  We love Grüner for its value and versatility at the table, pairing well with a wide variety of foods including spicy flavors and Asian cuisines.'
+  
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d5c7a4ab-54a4-481b-99bd-3c7ac0f820fe.jpg?ver=1493833931000'
+  img_alt: 'Steininger Grüner Veltliner Loisium 2015 21.99/BTL
+&#34;Generously ripe notions of yellow plum and juicy pear fill the nose.  The palate benefits from the same fruitfulness but adds a touch of pepper and herbal savor at its concentrated core.  Despite the generous fruit this stays streamlined and super crisp.&#34; - Wine Enthusiast 92pts. WE LOVE THIS WITH GRILLED ASPARAGUS!'
+  
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4e44f49d-d5e1-4921-96f5-23f7f9eef401.jpg?ver=1493833932000'
+  img_alt: 'Must Have Wines'
+  
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a7b5086c-64a9-44af-8686-36b9366a01a5.jpg?ver=1493833932000'
+  img_alt: 'A Toast to Mom! Raise a glass to your special Mom and welcome the delicious flavors of spring with these refreshing, elegant wines.'
+  
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/61724daa-40c1-4bce-b83b-2d7dbad03c11.jpg?ver=1493833932000'
+  img_alt: 'Paul D. Grüner Veltliner Liter 2015 12.99/BTL Take me to your liter!  Young Paul Direder offers up his best vintage ever.  Refreshing aromas of green apple and fresh peach are backed up by flavors of ripe apple, pear, and pineapple.'
+  
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0de050dc-bc76-47b8-abaf-847c1e6ab42b.jpg?ver=1493833936000'
+  img_alt: 'Anton Bauer Grüner Veltliner Rosenberg 2015 21.99/BTL Freshly cut green pear aromatically leads on to that white pepper spice so often looked for in Grüner.  Here it shows in abundance, in partner with ripe but refreshing lemon-y acidity.'
+  
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9f95e169-9430-4dec-89bc-2b3f8ef7f3b5.jpg?ver=1493833934000'
+  img_alt: 'Anton Bauer Wagram Pinot Noir 2015 21.99/BTL Simply the best value Pinot Noir available.  Lush and rich, offering cherry and raspberry fruit framed by smoky earth and sweet spice, this stays pure and vibrant right on through the long, complex finish.'
+  
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3bf5b853-65c1-40ff-852c-ca262f5da98f.jpg?ver=1493833934000'
+  img_alt: 'Steininger Cabernet Sauvignon Rosé 2016 16.99/BTL Elegant, pale Rosé with raspberry and blackcurrant flavors and fresh acidity.  Perfect for spring and summer.'
+  
