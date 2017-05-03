@@ -1,0 +1,107 @@
+title: 'Rye Brook Spectacular Savings!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0984ff9-8445-4e08-bca8-220f45be5821.jpg?ver=1467292845000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: ""
+footer_site_img: ""
+footer_site_alt: ""
+footer_facebook_link: ""
+footer_facebook_img:  ""
+footer_facebook_alt: ""
+footer_twitter_link: ""
+footer_twitter_img: ""
+footer_twitter_alt: ""
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c86a2c48-e937-4e2e-bab3-a54b94e78c97.jpg?ver=1493845255000'
+  img_alt: "Balducci&#39;s® Food Lover&#39;s Market™ This Week&#39;s Picks in Rye Brook"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f58f0c1b-c9e9-4c71-b63b-6d816e229336.jpg?ver=1493845255000'
+  img_alt: "BUY ONE Rotisserie Chicken GET ONE Pre-Packed Green Salad 50% OFF Meat &amp; Seafood Valid 5/5/17 - 5/11/17 "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7bc2064a-2ccd-46ed-882e-8bb438a0da29.jpg?ver=1493845256000'
+  img_alt: "Save 5.00 | Wagyu-Kobe Inside Skirt Steak | You Pay 14.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ed4cca19-dac6-4e9c-ae17-daa2d644378a.jpg?ver=1493845256000'
+  img_alt: "Save 5.00 | Empire Kosher Chicken Breast Schnitzel | You Pay 9.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bd886d79-d6fd-44b4-a377-12f0e079dc65.jpg?ver=1493845256000'
+  img_alt: "NEW! 5.99 SUSHI WEDNESDAYS | Choose from California, Salmon Avocado, Spicy Tuna, or Tuna Avocado Rolls Save 5.00 | Balducci&#39;s Signature Large Cocktail Shrimp | You Pay 9.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/461b2abb-33e6-4de8-9c41-f3210144ff7c.jpg?ver=1493845256000'
+  img_alt: "Get a FREE MISO SOUP when you buy any SUSHI NIGIRI COMBO BOX | Offer Valid until 5:00PM"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e379753f-1198-4132-a7fa-bbb456a815b9.jpg?ver=1493845256000'
+  img_alt: "RYE BROOK FOOD LOVE FEST | MOTHER&#39;S DAY MUST-HAVES | Sample our top catering picks to celebrate Mom and all of your Spring festivities! | Join us for Tastings, THIS SATURDAY &amp; SUNDAY | 11am - 4pm • 5/6-5/7 "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/21f8401d-8ad0-4e91-b489-bf6f46571e04.jpg?ver=1493845256000'
+  img_alt: "Cheese Savings Valid 5/5/17 - 5/11/17 Save 10.00 | Cypress Grove Lamb Chopper | Award-winning pasteurized sheep&#39;s milk gouda, buttery flavor &amp; smooth texture | You Pay 16.99 LB. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/aad7deda-6088-4572-b124-7b1bdef3a941.jpg?ver=1493845257000'
+  img_alt: "Save 5.00 | Parmigiano Reggiano | 2-year Export Quality | You Pay 15.99 LB. Save 5.00 | Grated, Shaved or Shredded Parmigiano Reggiano | You Pay 17.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3eac3022-56ce-4288-a782-7b1b1273bba7.jpg?ver=1493845257000'
+  img_alt: "Produce, Bakery & More! Valid 5/5/17 - 5/11/17 Save 1.98 on 3 | Hass Avocados | You Pay 3/7.00 Save 2.97 on 3 | Juicy Mangoes | You Pay 3/6.00"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0287567b-f30b-40a2-b525-2bd3b7c21743.jpg?ver=1493845257000'
+  img_alt: "Save 2.00 | David's Chocolate Chunk Cookies | You Pay 6.99 LB. Save 1.00 | Garden Naturals Sunflower Bunch | You Pay 16.99 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c830b76-206f-4e03-a0cb-51b64dd0c68c.jpg?ver=1493845257000'
+  img_alt: "Save 4.98 on 2 | Tate&#39;s Cookies or Brownie Thins | All Varieties, 5-7 OZ. | You Pay 2/7.00 | Save 2.00 | Three Jerks Beef Jerky | 2 OZ. | You Pay 7.99 EA. | Save 2.98 on 2 | DiMartino Pasta | All Varieties, 16 oz. | You Pay 2/4.00 144 S. Ridge St. | In the Rye Ridge Shopping Center  www.balduccis.com/ryebrook"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
