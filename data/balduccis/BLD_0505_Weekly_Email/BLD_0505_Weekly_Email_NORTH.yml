@@ -1,0 +1,134 @@
+title: 'We Can Help Plan the Perfect Mother&#39;s Day'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ae6fc04b-0033-41fc-9763-08b9ef33485f.jpg?ver=1493821749000'
+  img_alt: 'GOURMET REWARDS CLUB'
+  
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/28705eef-3c9a-4261-94d4-d733e86cbcbe.jpg?ver=1493821749000'
+  img_alt: 'LET&#39;S HEAR IT FOR MOM | Food, flowers and great gift ideas for Mother&#39;s Day.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/mothers_day?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/af7a1fbb-026c-4019-a18a-c9e9abf1862a.jpg?ver=1493821750000'
+  img_alt: 'MOTHER&#39;S DAY | CATERING'
+  
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/mothers_day?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/52662c7d-f4c7-49e6-b96d-419cc95fe32b.jpg?ver=1493821750000'
+  img_alt: 'INDIVIDUAL FRITTATA'
+  url_2: 'http://www.balduccis.com/catering/mothers_day?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c664b7bd-5724-4410-8288-0bee90bc5383.jpg?ver=1493821752000'
+  img_alt_2: 'INDIVIDUAL BREAD PUDDING'  
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/mothers_day?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/93185e98-3835-404c-813a-1198260b6bb8.jpg?ver=1493821753000'
+  img_alt: 'CITRUS GLAZED GRILLED SALMON'
+  url_2: 'http://www.balduccis.com/catering/mothers_day?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b06892ac-01cf-4b09-947d-b5bad50af0e0.jpg?ver=1493821753000'
+  img_alt_2: 'RACK OF LAMB PERSILLE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/mothers_day?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/587b3a41-a8cf-49b7-8fe7-e898f2655905.jpg?ver=1493821753000'
+  img_alt: 'ORDER NOW >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d4088231-c1fd-4f5f-b7c0-f7b12b994a3f.jpg?ver=1493821754000'
+  img_alt: 'GOURMET GIFT BASKETS | FOR MOM'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8988b52b-2a0c-4ca7-973d-a87436dfa9cf.jpg?ver=1493821755000'
+  img_alt: 'A gourmet gift basket is always in good taste for Mother&#39;s Day!  Choose from our exceptional assortment of baskets, featuring sweet treats, savory sensations, Italian classics and more.  |  ORDER NOW'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8775ffda-e8e9-4b51-b586-91ef45a7d08f.jpg?ver=1493821755000'
+  img_alt: 'BEST BUDS | FLORAL BOUTIQUE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/20e2d0c7-886e-4d7e-96d0-a5f1a0f6a18b.jpg?ver=1493821756000'
+  img_alt: 'Our hydrangea plants are a beautiful Mother&#39;s Day gift, all abloom in your choice of pink or blue shades.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/70a320ac-36b6-4afe-9984-542f49f2d4e1.jpg?ver=1493821756000'
+  img_alt: 'Best Bloom Tip | Give your flowers a fresh cut, using a straight-edge knife or shears, before putting them in water.  They&#39;ll stay fresher longer!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8a05ab2f-4275-444f-897f-d4a3dabe8dbd.jpg?ver=1493821757000'
+  img_alt: 'SWEET TREATS| FOR MOM'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5305fc28-c552-46b9-a2b5-0b7cae31fdec.jpg?ver=1493821757000'
+  img_alt: 'Indulge mom with our favorite strawberry desserts! | STRAWBERRY FRENCH VANILLA CREAM PIE | 4&#34; STRAWBERRY ROYAL MOUSSE CAKE | 4&#34; STRAWBERRY LEMONADE CAKE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/45329f13-6a64-4453-b046-1c38409d799e.jpg?ver=1493821758000'
+  img_alt: 'CINCO DE MAYO | FOR THE GRILL'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ea49cb61-fef7-44a9-a84e-b546ce15815e.jpg?ver=1493821759000'
+  img_alt: 'USDA  CHOICE NATURAL BEEF OUTSIDE SKIRT STEAKS| MEMBER EXCLUSIVE| 14.99/EA Reg 19.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e1e5943-f366-4788-995c-db2c762c6f78.jpg?ver=1493821761000'
+  img_alt: 'Recipe Idea Grilled Skirt Steak with Balducci&#39;s Chipotle Lime Marinade |  VIEW RECIPE > + PAIR WITH Balducci&#39;s Chef Prepared Salsa & Guacamole'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/131506ba-136d-4eb2-9816-4d03d017d05d.jpg?ver=1493821763000'
+  img_alt: 'WHATS NEW IN STORE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b873bc6e-2ac8-4247-b9f7-ab7c890c62ce.jpg?ver=1493821763000'
+  img_alt: 'Celebrate Nurses Appreciation Week| Nurses Appreciation Week is May 6 -12.  Show your appreciation with the perfect gift - our gourmet gift baskets and gift cards.   |  VIEW GIFTS >  '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_BLD_Weekly_Email_NORTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/92ca174b-fe4f-436b-883d-7b847e39f3ac.jpg?ver=1493821746000'
+  img_alt: 'Rye Brook In - Store Tasting Events |  The Grand Opening celebration continues with new tastings every weekend through May 28.  |  SAT &amp; SUN, MAY 6-7 Food Samplings……….11am-4pm | VIEW CALENDAR > '
