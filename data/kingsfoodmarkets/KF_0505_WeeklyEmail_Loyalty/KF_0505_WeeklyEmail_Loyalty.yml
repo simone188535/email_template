@@ -1,0 +1,197 @@
+title: 'TO COME'
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/504d0018-4bd4-46a1-a1f5-9bd8a3f061ac.jpg?ver=1491314620000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/15168b09-8cc1-4720-a083-32396ae371c5.jpg?ver=1491314620000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/70b24dc0-cb84-4da8-b5e1-70d6fb689694.jpg?ver=1491314620000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f49e9dc6-7db7-4fa6-b30b-6ccf95f6cc17.jpg?ver=1493745827000"
+  img_alt: "Celebrate Cinco De Mayo| South-of-the-border sensations your fiesta, PLUS inspired ideas for Mother's Day. "
+  url: "https://youtu.be/Zi4CVEUlLOY"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/497f46aa-e27e-4616-936d-86b64d74c14d.jpg?ver=1493745826000"
+  img_alt: "Create Muffin Tin Chilaquiles with Chipotle Corn Salsa | Watch Video"
+  url: "https://youtu.be/Zi4CVEUlLOY"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6d396cb4-b2df-4b55-abcb-9aba5204a6ad.jpg?ver=1493745827000"
+  img_alt: "Weekly Rewards Offers"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty "
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/985a993c-64fc-43fa-9e6d-127165a77f0a.jpg?ver=1493745827000"
+  img_alt: "SAVE up to $1.50 lb. | Perdue BONELESS CHICKEN BREAST 4.99 LB. "
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty "
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c2f79bfe-3860-443a-84e3-5848187789e3.jpg?ver=1493745827000"
+  img_alt_2: "SAVE $4.00 lb. | Super Colossal BLACK TIGER RAW SHRIMP 22.99 LB.  "
+  url_2: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty "
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5534408c-e9c3-4350-ab40-776c5ad44e5f.jpg?ver=1493745828000"
+  img_alt: "Not a Member Yet? See Store for Details | View Weekly Member Only Offers | Offers Loaded on Member Card | Create and Share a Shopping List Not a Member Yet? See Store for Details | View Weekly Member Only Offers | Offers Loaded on Member Card | Create and Share a Shopping List "
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty "
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fc37d406-243c-4ecb-a58c-f092038b4bb2.jpg?ver=1493745828000"
+  img_alt: "View More Offers and Make a List Old Greenwich Offers "
+  url: "http://kingsfoodmarkets.com/old-greenwich?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty "
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec23fc49-986b-4be3-a812-f15fe2f6e278.jpg?ver=1493745828000"
+  img_alt_2: "View More Offers and Make a List Hoboken Offers "
+  url_2: "http://kingsfoodmarkets.com/hoboken?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty "
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1a501f2e-95ef-4725-96c4-f4268244178c.jpg?ver=1493737966000"
+  img_alt: "CINCO DE MAYO TASTING |  "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cc2f95b6-1e62-40a4-aa14-0ef49e1f54c2.jpg?ver=1493737969000"
+  img_alt: "CELEBRATE CINCO DE MAYO by sampling Mission Tortilla QUESADILLAS with Cabot Shredded Chesse and Frontera GUACAMOLE. "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cdf6ce2b-2bae-417a-8912-6c2456e4d2c8.jpg?ver=1493737969000"
+  img_alt: "10AM - 3AM Available at select stores | LEARN MORE >"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7d522e0d-d67f-43aa-ab56-f92cb3b5f764.jpg?ver=1493737969000"
+  img_alt: "CHEF PREPARED CINCO DE MAYO FAVORITES "
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c12f0115-5547-4360-8344-6cac8e2c6831.jpg?ver=1493737970000"
+  img_alt: "NUCHAS BEEF, PORTABELLO SPINACH OR SAUSAGE EMPANADA"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff7748b-ceb9-40ed-9e10-f1cc68d35b7a.jpg?ver=1493737970000"
+  img_alt_2: "CHEF INSPIRED BLACK BEAN TACO"
+  url_2: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e44cbf9b-74c0-405b-953e-6e74843b7765.jpg?ver=1493737970000"
+  img_alt: "CHEF INSPIRED CHICKEN BURRITO "
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cd08948e-dfa8-477e-a3b9-8a9f63eb3fdd.jpg?ver=1493737971000"
+  img_alt_2: "CHEF INSPIRED CHICKEN TORTILLA SOUP "
+  url_2: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/07b22b35-9105-469c-8a7a-6da399f69a31.jpg?ver=1493737971000"
+  img_alt: "VIEW MORE CHEF PREPARED > "
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6571b4a1-c168-4670-b7d3-2d814665eacd.jpg?ver=1493737971000"
+  img_alt: "TAKE A DIP! | DELICIOUS DIPS & CHIPS FOR YOUR FIESTA "
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4404ac76-009e-441b-8357-979a935151cd.jpg?ver=1493737971000"
+  img_alt: "Dip into Kings for party perfect dips and chips for Cinco de Mayo and more! Try Kings fresh salsa and new Wholly Guacamole layered dips with Kings Tortilla Chips."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/75cd9515-0eba-4110-8861-7bb67e0deb53.jpg?ver=1493737972000"
+  img_alt: "MAKE MOM'S DAY | TREAT MOM TO A TASTY CATERED FEAST"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fd2653d6-3e93-45a2-b05e-78eedb4ad1cc.jpg?ver=1493737972000"
+  img_alt: "Give mom the day off and a delicious meal.  Try our seasonal Chef Prepared dishes to create an exceptional brunch, lunch or dinner. "
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/21d47689-18b8-4386-ad93-0497b1c17312.jpg?ver=1493737972000"
+  img_alt: "LEMON CAPER SHRIMP"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e41b7617-d48b-45a3-9a7e-e6210d861f38.jpg?ver=1493737972000"
+  img_alt_2: "CHICKEN MARSALA "
+  url_2: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/36ca428b-538b-43f9-9f42-5c67aacf4701.jpg?ver=1493737972000"
+  img_alt: "VIEW MENU > "
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1f6cc585-0a79-4afb-8f00-7db6e96f80c8.jpg?ver=1493737972000"
+  img_alt: "WHAT'S NEW| IN STORE "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0446be99-fc28-416a-8a73-ff5cf8fc017d.jpg?ver=1493753656000"
+  img_alt: "National Nurses Day is May 6 Say &#34;thank you&#34; to your favorite nurses with a unique gift or floral arrangement from our floral boutique. "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty"
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d779e20a-f5ab-4cce-9b7a-4a1bcd07fc08.jpg?ver=1493753656000"
+  img_alt: "It&#39;s &#34;FRYDAY&#34; at Kings! Every Friday all fried food available in our chicken warmer will be $1 OFF per pound. More Info >"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0505_KF_WeeklyEmail_Loyalty "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
