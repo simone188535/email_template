@@ -1,0 +1,126 @@
+title: 'Italian Amore, Found Here'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/39aa8f94-18e9-4db5-80af-015a8bf458c3.jpg?ver=1490100928000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e6d216ef-f2ed-456b-90e9-ffb77e5cdf68.jpg?ver=1490100928000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e9837555-d51f-4531-82e0-c5d16449ebab.jpg?ver=1490100929000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/558d5749-bcf9-4a67-b8e2-2d00221b6484.jpg?ver=1494251367000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/mothers_day?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b9db3757-6795-4133-b65d-83b33af867e5.jpg?ver=1494251368000'
+  img_alt: 'PAMPERING PICKS FOR MOM | Treat mom like a queen with gourmet gifts, great food and fabulous wine! '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/mothers_day?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8e52eefd-4ce2-46f9-bfbc-537ee15282ef.jpg?ver=1494251369000'
+  img_alt: 'It&#39;s Not Too Late to Order! Treat mom to a Chef Prepared gourmet meal from our Mother&#39;s Day catering menu. | ORDER NOW >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d0ebe952-5eeb-411e-a0db-7201c94b3a38.jpg?ver=1494251369000'
+  img_alt: 'GIFTS SHE&#39;LL LOVE | MOTHER&#39;S DAY PICKS '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/47eeae56-de11-441e-ba6a-73e155b8b516.jpg?ver=1494251370000'
+  img_alt: 'Michel Design Works Toujours Paris Collection'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/261a418d-b188-49bf-9b44-e5f29caa1a76.jpg?ver=1494251370000'
+  img_alt: 'Sugarfina Sweetest Mom 3-Piece Gift Set Premium Paper Goods from Papyrus '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/33768685-a716-48da-9163-78db3e9c4c4b.jpg?ver=1494251371000'
+  img_alt: 'CHEF PREPARED | MAKE MOM&#39;S DAY'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6f0fec31-5f63-4cb1-86a3-a0815c3fba57.jpg?ver=1494251371000'
+  img_alt: 'BROCCOLI CHEDDAR QUICHE SWEETHEART CAPRESE SALAD'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8649c479-16fa-4a4e-a8c4-74f7f46ae5e4.jpg?ver=1494251372000'
+  img_alt: 'SUGAR SNAP PEAS WITH ROASTED GARLIC & LEMON SUMMER DELIGHT SALAD '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a824161c-3080-44d1-9516-232ac7fcf650.jpg?ver=1494251372000'
+  img_alt: 'MEMBER EXCLUSIVE | SAVORY SEAFOOD '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4bff0f9e-a63f-4f20-b281-03841b9912d5.jpg?ver=1494251373000'
+  img_alt: 'ELEPHANT TRUNK SEA SCALLOPS | MEMBER EXCLUSIVE  $2 OFF/LB '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f442dd1d-8d8b-4ef5-8286-204c9f77fa9e.jpg?ver=1494251373000'
+  img_alt: 'MOM APPROVED | TOP WINE PICKS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f2da5bb1-a730-47e7-a679-21c3453438aa.jpg?ver=1494253934000'
+  img_alt: 'BALDUCCI&#39;S ROSÉ | Produced by European wine maker Anton Bauer, our exclusive Rosé is perfect for a toast to mom, bursting with the flavors of red berries and springtime. KUNG FU GIRL RIESLING | A tangy, zingy favorite for mom, Kung Fu Girl Riesling balances lively acidity against ripe pear and apricot flavors, ending with a long, lime-accented finish. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f20770b9-e9a1-417c-9ce1-090fdaa8c698.jpg?ver=1494251375000'
+  img_alt: 'MARK YOUR CALENDAR'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_BLD_Weekly_Email_SOUTH'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a48fb819-7ce7-4e6b-b32c-7f76306bc802.jpg?ver=1494253935000'
+  img_alt: 'Mother&#39;s Day Weekend Wine Tasting Find the perfect wine for Mom. Food Samplings…12 noon-5pm Wine Samplings……...…..2-5pm MORE INFO >'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
