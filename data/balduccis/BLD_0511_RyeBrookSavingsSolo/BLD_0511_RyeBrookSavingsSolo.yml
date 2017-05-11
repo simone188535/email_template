@@ -1,0 +1,107 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0984ff9-8445-4e08-bca8-220f45be5821.jpg?ver=1467292845000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: ""
+footer_site_img: ""
+footer_site_alt: ""
+footer_facebook_link: ""
+footer_facebook_img:  ""
+footer_facebook_alt: ""
+footer_twitter_link: ""
+footer_twitter_img: ""
+footer_twitter_alt: ""
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/86f773d3-901a-4105-bb0d-d3e9a8a76d63.jpg?ver=1494443436000'
+  img_alt: "Balducci&#39;s® Food Lover&#39;s Market™ This Week&#39;s Picks in Rye Brook"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/84d6342b-3192-4a1c-8a68-5808c345b87f.jpg?ver=1494443437000'
+  img_alt: "BUY ONE POUND SAVE 1.00 | Save 1.00 when you buy more than 1 lb. From the Mezze Bar | ZARO&#39;S MEET &amp; GREET MAY 13 | Meet the father &amp; son behind famous Zaro&#39;s NYC Bakery! | SATURDAY, MAY 13TH | 12-4:00 PM | Meat & Seafood Valid 5/12/17 - 5/18/17"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2e9aa5a-4abe-47e8-9dd2-bfa98a41aeb6.jpg?ver=1494443437000'
+  img_alt: "Save 8.00 | Loin Veal Chops | Tailless, Bone-in, The &#34;Porterhouse of Veal&#34; | You Pay 9.99 LB. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9fe643fe-f3a7-4907-9219-1a7002ace1c7.jpg?ver=1494443437000'
+  img_alt: "Save 2.50 | Bell & Evans Chicken Breast Tenderloins | Breaded, 12 oz. Frozen | You Pay 4.99 EA. | NEW! 5.99 SUSHI WEDNESDAYS | Choose from California, Salmon Avocado, Spicy Tuna, or Tuna Avocado Rolls "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f2f0befd-b813-4571-9fc5-b809d27fbf93.jpg?ver=1494443437000'
+  img_alt: "Save 3.00 | Norwegian Salmon 2 Pack, 12 oz. | You Pay 16.98 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8bf25e64-57ff-407f-b16f-c8885a2df65d.jpg?ver=1494443438000'
+  img_alt: "Save 1.50 | Shrimp Tempura Crunch Roll with cucumber & crab | You Pay 7.49 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/77a23726-55a1-4bf0-be12-b6555adada68.jpg?ver=1494443438000'
+  img_alt: "RYE BROOK FOOD LOVE FEST | ENJOY DINING AL FRESCO | Get outdoor entertaining tips and sample our best BBQ catering. Pick up flowers & chocolates for Mom, too! | Join us for Tastings, THIS SATURDAY & SUNDAY | 11am - 4pm • 5/13-5/14 | Cheese Savings Valid 5/12/17 - 5/18/17"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/df819c43-fcdd-49fd-84a4-37fcb1a778b9.jpg?ver=1494443438000'
+  img_alt: "Save 10.00 | Cypress Grove Lamb Chopper | Award-winning pasteurized sheep&#39;s milk gouda, buttery flavor & smooth texture | You Pay 16.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ebfff899-d57c-44f7-b6b2-55e62456d930.jpg?ver=1494443438000'
+  img_alt: "Save 5.00 | Parmigiano Reggiano | 2-year Export Quality | You Pay 15.99 LB. | Save 5.00 | Grated, Shaved or Shredded Parmigiano Reggiano | You Pay 17.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b4a66e96-6f24-4feb-8689-3a328483d212.jpg?ver=1494443439000'
+  img_alt: "Produce, Bakery & More! Valid 5/12/17 - 5/18/17 | Save 1.00 | Driscoll's Strawberries, 16 oz | You Pay 3.99 EA | Save 1.00 | Local Asparagus | You Pay 2.99 LB"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/aef0d304-bb08-4808-b177-e8dce72b138b.jpg?ver=1494443439000'
+  img_alt: "Save 3.00 | Balducci&#39;s Old Fashioned Crumb Cake | You Pay 7.99 LB. | Dozen Rose Bunch | You Pay 19.99 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/56d7451d-4792-49b8-917f-66a51a80fee8.jpg?ver=1494443439000'
+  img_alt: "Save 5.00 | Funky Chunky Popcorn | 19 OZ. | You Pay 14.99 EA | Save 4.00 | Frans Caramels | 2.1 OZ. | You Pay 8.99 EA. | Save 2.98 on 2 | San Marzano Tomatoes | 28 oz. can | You Pay 2/5.00 | 144 S. Ridge St. | In the Rye Ridge Shopping Center | www.balduccis.com/ryebrook"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
