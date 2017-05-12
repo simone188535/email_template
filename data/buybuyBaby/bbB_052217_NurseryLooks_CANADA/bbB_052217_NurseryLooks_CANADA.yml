@@ -1,0 +1,166 @@
+#TITLE
+title: 'Sleep tight with these'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_Logo_CA.jpg"
+logo_img_alt: "buybuy Canada Baby Logo"
+logo_img_link: "http://www.buybuybaby.ca/store?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer"
+
+freeshipping_img_url: "images/bbB_emailheader_FreeShipping_CA.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer"
+
+instore_img_url: "images/bbB_emailheader_InStore_CA.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.bedbathandbeyond.ca/store/static/reserveonline?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer"
+
+babyreg_img_url: "images/bbB_emailheader_RegistryLogo_CA.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer"
+
+nav1_url: "images/bbB_emailheader_NAV1_CA.jpg"
+nav1_alt: "baby nursery"
+nav1_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/22927?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer"
+
+nav2_url: "images/bbB_emailheader_NAV2_CA.jpg"
+nav2_alt: "nursing &amp; feeding"
+nav2_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/22936/?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer"
+
+nav3_url: "images/bbB_emailheader_NAV3_CA.jpg"
+nav3_alt: "bath &amp; potty"
+nav3_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Sleep tight with these'
+preheader_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/storage-organizers/22932/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE=H?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+#- type: 'image'
+#  img_url: 'images/fileName.jpg'
+#  img_alt: 'alt text goes here'
+#  img_link: 'https://www.website.com/path/to/page'
+
+#- type: 'image-2-columns
+#  img_url: 'images/fileName.jpg'
+#  img_alt: 'alt text goes here'
+#  img_link: 'https://www.website.com/path/to/page'
+#  img_2_url: 'images/fileName.jpg'
+#  img_2_alt: 'alt text goes here'
+#  img_2_link: 'https://www.website.com/path/to/page'
+  
+#__IMAGE_TEMPLATES
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/storage-organizers/22932/?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_alt: 'starlight, star bright, bedding essentials that are just right shop now'
+  img_url: 'images/bbB_052217_NurseryLooks_CANADA_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/nojo-reg-xoxo-crib-bedding/233524?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_alt: 'surrounded in love Decorate your sweetie&#39;s nursery with hugs &amp; kisses, and bold X&#39;s &amp; O&#39;s. shop now'
+  img_url: 'images/bbB_052217_NurseryLooks_CANADA_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/wendy-bellissimo-trade-unisex-mix-match-crib-bedding-collection-in-grey-yellow/220678?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_alt: 'mix &amp; match bedding separtes Sophisticated, nuetral patterns give your baby&#39;s nursery a fresh unique look. shop now'
+  img_url: 'images/bbB_052217_NurseryLooks_CANADA_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/lambs-ivy-reg-sweetheart-crib-bedding-collection/223070?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_alt: 'pretty in pink This sweet collection features pretty hearts in pink &amp; white with touches of glamourous gold. shop now'
+  img_url: 'images/bbB_052217_NurseryLooks_CANADA_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/lambs-ivy-reg-future-all-star-crib-bedding-collection/218543?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_alt: 'for your little all-star This sporty collection features soccer, baseball, basketball, &amp; football characters. shop now'
+  img_url: 'images/bbB_052217_NurseryLooks_CANADA_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/levtex-baby-kenya-crib-bedding-collection/229359?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_alt: 'safari adventure Create a playful, neutral nursry with a fun mix of textured solids &amp; safari animals. shop now'
+  img_url: 'images/bbB_052217_NurseryLooks_CANADA_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/the-peanut-shell-reg-mosaic-crib-bedding-collection/224765?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_alt: 'cool shades of blue Stylish geometric patterns &amp; playful elephants make this mosaic bedding collection a nursery favorite. shop now'
+  img_url: 'images/bbB_052217_NurseryLooks_CANADA_15.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/carter-39-s-reg-zoo-collection-crib-bedding-collection/208452?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_alt: 'charming animal prints This set features cheery shades of purple &amp; blue, flowers, &amp; zoo animals for a sweet look. shop now'
+  img_url: 'images/bbB_052217_NurseryLooks_CANADA_16.jpg'
+
+- type: 'image'
+  img_link: 'http://www.bedbathandbeyond.ca/store/static/reserveonline?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_alt: 'You can purchase any of these items at buybuybaby.ca, order in any of our stores or use our find in-store option for easy pick-up. '
+  img_url: 'images/bbB_052217_NurseryLooks_CANADA_17.jpg'
+
+- type: 'image'
+  img_link: ''
+  img_alt: 'more to shop'
+  img_url: 'images/bbB_052217_NurseryLooks_CANADA_18.jpg'
+
+- type: 'image-3-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/clothing-preemie-4t/swaddles-wearable-blankets/22975/?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_alt: 'swaddles'
+  img_url: 'images/bbB_052217_NurseryLooks_CANADA_19.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/s/disposable-changing-pads/4294967217-4294967218-22945/1-96?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_2_alt: 'changing pads'
+  img_2_url: 'images/bbB_052217_NurseryLooks_CANADA_20.jpg'
+  img_3_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/baby-bedding/22928/22928-4294967218-9000433/1-96?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_3_alt: 'sheets'
+  img_3_url: 'images/bbB_052217_NurseryLooks_CANADA_21.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/nursing/22937/?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_alt: 'soothing relief shop nursing'
+  img_url: 'images/bbB_052217_NurseryLooks_CANADA_22.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/health-safety/baby-monitors/22954/?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_alt: 'safe &amp; sound shop monitors'
+  img_url: 'images/bbB_052217_NurseryLooks_CANADA_23.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/storage-organizers/22932/?mcid=EM_promobbBCAN_201705_NurseryLooks_NoOffer'
+  img_alt: 'clean up made fun shop storage'
+  img_url: 'images/bbB_052217_NurseryLooks_CANADA_24.jpg'
+
+
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailSocial_LeftMargin.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailSocial_FB.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailSocial_Twitter.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailSocial_Pinterest.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailSocial_YT.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailSocial_Instagram.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_emailSocial_RightMargin.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: '__SUBSCRIBE_LINK__'
+footer_updateyouremailpreferences: '__UNSUBSCRIBE_LINK__'
+footer_contactushere: '__CONTACT_US_LINK__'
+footer_PrivacyPolicy: '__PRIVACY_POLICY_LINK__'
