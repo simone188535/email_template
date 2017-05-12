@@ -156,17 +156,17 @@
 					<% if f["type"]=="image-3-columns" %>
 					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
 					    <tr>
-					        <td width="<%= f["img_width"] %>" height="<%= f["img_height"] %>">
+					        <td>
 					            <a href="<%= f["img_link"] %>">
-					                <img src="<%= f["imageurl"] %>" alt="<%= f["imagealt"] %>" title="<%= f["imagealt"] %>" border="0">
+					                <img src="<%= f["img_url"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" border="0">
 					            </a>
 					        </td>
-					        <td width="<%= f["img_2_width"] %>" height="<%= f["img_2_height"] %>">
+					        <td>
 					            <a href="<%= f["img_2_link"] %>">
 					                <img src="<%= f["img_2_url"] %>" alt="<%= f["img_2_alt"] %>" title="<%= f["img_2_alt"] %>" border="0">
 					            </a>
 					        </td>
-					        <td width="<%= f["img_3_width"] %>" height="<%= f["img_3_height"] %>">
+					        <td>
 					            <a href="<%= f["img_3_link"] %>">
 					                <img src="<%= f["img_3_url"] %>" alt="<%= f["img_3_alt"] %>" title="<%= f["img_3_alt"] %>" border="0">
 					            </a>

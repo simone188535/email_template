@@ -8,21 +8,15 @@ read projName_sub
 echo "Enter Email Date (DDMMYYYY):"
 read date
 
-echo "Enter CRF file (with full path):"
+echo "Enter CRF or ASF file (Drag and Drop to terminal):"
 read crf_file
 
-echo "Enter path to images:"
+echo "Enter path to images (Drag and Drop to terminal):"
 read source_images
-
-echo "Enter title:"
-read title
-
-echo "Enter title link:"
-read link
 
 echo
 else
-if [ $1 -eq "--help" ]
+if [ $1 == "--help" ]
 then
 echo "Usage: bbB_template.sh \"ProjectName\" Date CRF_Path Image_Path Image_Pattern Title Title_Link"
 else
@@ -30,8 +24,6 @@ projName_sub=$1
 date=$2
 crf_file=$3
 source_images=$4
-title=$5
-link=$6
 fi
 fi
 
@@ -48,17 +40,18 @@ cp bbB_Template_05012017.yml $dataPath/$projectName.yml
 mkdir -p $sourcePath
 cp bbB_Template_05012017.erb $erbFile
 mkdir -p $imagePath
-cp -R image_templates/* $imagePath
+cp -R social_images/* $imagePath
+
+if [[ "$crf_file" =~ "CANADA" ]]
+then
+    cp -R CA_images/* $imagePath
+else
+    cp -R US_images/* $imagePath
+fi
 
 #ERB file template entries
 sed 's/__PROJECT_NAME/'"$projectName"'/g' $erbFile > tmp
 mv tmp $erbFile
-
-#YML file template entries
-sed 's/__EMAIL_TITLE_LINK/'"$(echo $link | sed -e 's/\\/\\\\/g; s/\//\\\//g; s/&/\\\&/g')"'/g' $dataPath/$projectName.yml > tmp
-mv tmp $dataPath/$projectName.yml
-sed 's/__EMAIL_TITLE/'"$title"'/g' $dataPath/$projectName.yml > tmp
-mv tmp $dataPath/$projectName.yml
 
 for f in $source_images/*
 do
