@@ -45,10 +45,10 @@ footer_youtube_alt: "youtube"
 # Loop through articles
 articles:
 
-- type: "image"
-  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4b4a42af-c517-45af-a60c-b040a9b9b630.jpg?ver=1494868529000"
-  img_alt: "GET YOUR GRILL ON  | Fire up the grill with these red hot specials.KINGS CHAIRMAN&#39;S RESERVE BEEF NY STRIP STEAK 6.99 LB | SAVE $7 LB."
-  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4b4a42af-c517-45af-a60c-b040a9b9b630.jpg?ver=1494868529000"
+#   img_alt: "GET YOUR GRILL ON  | Fire up the grill with these red hot specials.KINGS CHAIRMAN&#39;S RESERVE BEEF NY STRIP STEAK 6.99 LB | SAVE $7 LB."
+#   url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
 - type: "image"
   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a12f6adb-abbe-44e9-b443-484373c74b3b.jpg?ver=1494868529000"
