@@ -1,16 +1,20 @@
 <% require 'active_support/all' %>
 <% instance_variable_set("@base_data_file", data.usfoods.USF_flexible_template.USF_flexible_template) %>
 <% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="initial-scale=1.0">
-    <!-- So that mobile webkit will display zoomed in -->
-    <meta name="format-detection" content="telephone=no">
-    <!-- disable auto telephone linking in iOS -->
-    <title><%=@base_title%></title>
-    <!-- The title tag shows in email notifications, like Android 4.4. -->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0 auto; padding: 0; height: 100%; width: 100%;">
+
+<head>
+  <meta charset="utf-8">
+  <!-- utf-8 works for most cases -->
+  <meta name="viewport" content="width=device-width">
+  <!-- Forcing initial-scale shouldn't be necessary -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- Use the latest (edge) version of IE rendering engine -->
+  <meta name="x-apple-disable-message-reformatting">
+  <!-- Disable auto-scale in iOS 10 Mail entirely -->
+  <title></title>
+  <!-- The title tag shows in email notifications, like Android 4.4. -->
 
   <!-- Web Font / @font-face : BEGIN -->
   <!-- NOTE: If web fonts are not required, lines 10 - 27 can be safely removed. -->
@@ -26,13 +30,27 @@
 
   <!-- All other clients get the webfont reference; some will render the font and others will silently fail to the fallbacks. More on that here: http://stylecampaign.com/blog/2015/02/webfont-support-in-email/ -->
   <!--[if !mso]><!-->
-  <!-- insert web font reference, eg: <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'> -->
+  <!-- insert web font reference, eg: <style type='text/css'>
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v15/zN7GBFwfMP4uA6AR0HCoLQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOKCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+
+</style> -->
   <!--<![endif]-->
 
   <!-- Web Font / @font-face : END -->
 
   <!-- CSS Reset -->
-  <style>
+  <style type="text/css">
     @media only screen and (min-device-width:320px) and (max-device-width:1024px) {
       a[href^="tel"], a[href^="sms"], a {
         color: inherit !important;
@@ -41,7 +59,7 @@
       }
     }
     
-    @media only screen and (max-width:680px) {
+    @media only screen and (max-width:600px) {
       img[class="img100pc"] {
         width: 100% !important;
         height: auto !important;
@@ -134,150 +152,10 @@
         display: none !important;
       }
     }
-    
-    div[style*="margin: 16px 0"] {
-      margin: 0 !important;
-      font-size: 100% !important;
-    }
-    /* What it does: Remove spaces around the email design added by some email clients. */
-    /* Beware: It can remove the padding / margin and add a background color to the compose a reply window. */
-    
-    html,
-    body {
-      margin: 0 auto !important;
-      padding: 0 !important;
-      height: 100% !important;
-      width: 100% !important;
-    }
-    
-    a:link {
-      color: #fff;
-    }
-    /* What it does: Stops email clients resizing small text. */
-    
-    * {
-      -ms-text-size-adjust: 100%;
-      -webkit-text-size-adjust: 100%;
-    }
-    /* What it does: Centers email on Android 4.4 */
-    
-    div[style*="margin: 16px 0"] {
-      margin: 0 !important;
-    }
-    /* What it does: Stops Outlook from adding extra spacing to tables. */
-    
-    table,
-    td {
-      mso-table-lspace: 0pt !important;
-      mso-table-rspace: 0pt !important;
-    }
-    /* What it does: Fixes webkit padding issue. Fix for Yahoo mail table alignment bug. Applies table-layout to the first 2 tables then removes for anything nested deeper. */
-    
-    table {
-      border-spacing: 0 !important;
-      border-collapse: collapse !important;
-      margin: 0 auto !important;
-    }
-    
-    table table table {
-      table-layout: auto;
-    }
-    /* What it does: Uses a better rendering method when resizing images in IE. */
-    
-    img {
-      -ms-interpolation-mode: bicubic;
-    }
-    /* What it does: A work-around for iOS meddling in triggered links. */
-    
-    *[x-apple-data-detectors] {
-      color: inherit !important;
-      text-decoration: none !important;
-    }
-    /* What it does: A work-around for Gmail meddling in triggered links. */
-    
-    .x-gmail-data-detectors,
-    .x-gmail-data-detectors *,
-    .aBn {
-      border-bottom: 0 !important;
-      cursor: default !important;
-    }
-    /* What it does: Prevents Gmail from displaying an download button on large, non-linked images. */
-    
-    .a6S {
-      display: none !important;
-      opacity: 0.01 !important;
-    }
-    /* If the above doesn't work, add a .g-img class to any image in question. */
-    
-    img.g-img + div {
-      display: none !important;
-    }
-    /* What it does: Prevents underlining the button text in Windows 10 */
-    
-    .button-link {
-      text-decoration: none !important;
-    }
-    /* What it does: Removes right gutter in Gmail iOS app: https://github.com/TedGoas/Cerberus/issues/89  */
-    /* Create one of these media queries for each additional viewport size you'd like to fix */
-    /* Thanks to Eric Lepetit @ericlepetitsf) for help troubleshooting */
-    
-    @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
-      /* iPhone 6 and 6+ */
-      .email-container {
-        min-width: 375px !important;
-      }
-    }
-    
-    .mobile {
-      display: none !important;
-    }
-    
-    .desktop-nav {
-      display: inherit !important;
-      color: #ffffff !important;
-    }
-    
-    .desktop {
-      display: inherit !important;
-    }
-    
-    .width-shrinking-td1 {
-      width: 25% !important;
-      max-width: 25% !important;
-    }
-    
-    .width-shrinking-td2 {
-      width: 75% !important;
-      max-width: 75% !important;
-      font-size: 23px;
-    }
-    
-    sup {
-      font-size: 13px;
-    }
-    
-    a[href^="mailto"] {
-      color: #838383 !important;
-    }
-  </style>
 
-  <!-- Progressive Enhancements -->
-  <style>
-    /* What it does: Hover styles for buttons */
+        /* Media Queries */
     
-    .button-td,
-    .button-a {
-      transition: all 100ms ease-in;
-    }
-    
-    .button-td:hover,
-    .button-a:hover {
-      background: #555555 !important;
-      border-color: #555555 !important;
-    }
-    /* Media Queries */
-    
-    @media screen and (max-width: 599px) {
+    @media screen and (max-width: 679px) {
       table[class="force-row"], table[class="container"], table[class*="button-table"], td[class*="button-cell"], a[class*="button-link"] {
         width: 100% !important;
         max-width: 100% !important;
@@ -353,8 +231,24 @@
         font-size: 16px;
       }
     }
-  </style>
-  </head>
+
+        @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+      /* iPhone 6 and 6+ */
+      .email-container {
+        min-width: 375px !important;
+      }
+    }
+
+
+
+    </style>
+
+    
+
+  <!-- Progressive Enhancements -->
+  
+
+</head>
 
 <body width="100%" bgcolor="#f3f1f0" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-line-height-rule: exactly; margin: 0 auto; padding: 0; height: 100%; width: 100%;">
   <center style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; width: 100%; background: #f3f1f0; text-align: left;">
@@ -445,7 +339,7 @@
               <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                 <tr>
                   <td valign="middle" style="text-align: center; padding: 40px; font-family: Arial, Helvetica, sans-serif; font-size: 19px; line-height: 28px; color: #ffffff;"><%= f["view_more_text"]%>
-                    <br><a href="https://www.usfoods.com/content/www/home/food/scoop/spring-scoop.html" style="text-decoration:none;"><font style="text-transform:uppercase; font-text-decoration:none; border-bottom: 2px solid white; color:#fff; font-weight: 600;">VIEW MORE</font>&nbsp;<img style="text-decoration:none; border: 0;" src="images/012616_con_USF000_Spring_Scoop_Email_Arrow_green.jpg"></a>
+                    <br><a href="<%= f["view_more_link"] %>" style="text-decoration:none;"><font style="text-transform:uppercase; font-text-decoration:none; border-bottom: 2px solid white; color:#fff; font-weight: 600;">VIEW MORE</font>&nbsp;<img style="text-decoration:none; border: 0;" src="<%= f["view_image_url"] %>"</a>
                   </td>
                 </tr>
               </table>
@@ -596,86 +490,76 @@
       
       <% end %>
 
-          <!-- Footer nav -->
-          <tr bgcolor="#000000" class="go-away">
-            <td class="cell-height" height="5" bgcolor="#000000" class="go-away">
-              <img src="<%=@base_spacer_img_url%>" alt="" height="5" width="1" class="go-away">
-            </td>
-          </tr>
-          <tr bgcolor="#000000">
-            <td valign="top" align="center" class="footer-nav" bgcolor="#000000">
-              <% @base_data_file.footernav.each do |f| %><a class="footer-nav-link" href="<%= f["link"] %>" title="<%= f["text"] %>">
-                  <%= f["text"] %>
-                  </a><span class="white">&nbsp;<%= f["sep"] %>&nbsp;</span>
-              <% end %>
-            </td>
-          </tr>
-          <tr bgcolor="#000000" class="go-away">
-            <td class="cell-height" height="5" bgcolor="#000000" class="go-away">
-              <img src="<%=@base_spacer_img_url%>" alt="" height="5" width="1" class="go-away">
-            </td>
-          </tr>
 
-          <tr>
-            <td class="cell-height" height="10">
-              <img src="<%=@base_spacer_img_url%>" alt="" height="10" width="1">
-            </td>
-          </tr>
 
-          <!-- Social links -->
-          <tr>
-            <td valign="top" align="center" class="social-links">
-              <% @base_data_file.socialnav.each do |f| %>
-                <a href="<%= f["link"] %>">
-                  <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" class="responsive">
-                </a>
-              <% end %>
-            </td>
-          </tr>
+      <!-- Mobile nav -->
 
-          <tr>
-            <td class="cell-height" height="5">
-              <img src="<%=@base_spacer_img_url%>" alt="" height="5" width="1">
-            </td>
-          </tr>
 
-          <!-- Footer -->
-          <tr>
-            <td align="left" valign="top">
-              <table border="0" width="100%" cellpadding="0" cellspacing="0">
-                <tr>
-                  <td width="15">
-                    <img src="<%=@base_spacer_img_url%>" alt="" height="1" width="15">
-                  </td>
-                  <td class="footer-text" align="left" valign="top">
-                     <%=@base_footer_text%>
-                    <!-- <div class="copyright">
-                        <br>
-                       <%=@base_copyright%>
-                     </div> -->
-                     <div class="footer-end-links text-underline">
-                       <a href="<%=@base_privacy_link%>" title="<%=@base_privacy_text%>">
-                        <%=@base_privacy_text%>
-                      </a> |
-                      <a href="<%=@base_unsubscribe_link%>" title="<%=@base_unsubscribe_text%>">
-                        <%=@base_unsubscribe_text%>
-                       </a>
-                     </div>
-                  </td>
-                  <td width="15">
-                    <img src="<%=@base_spacer_img_url%>" alt="" height="1" width="15">
-                  </td>
-                </tr>
-              </table>
-            </td>
-          </tr>
 
-        </table>
-          <!-- /600px container -->
-          <br><br>
-      </td>
-    </tr>
-</table>
-  <!-- /100% background wrapper -->
-  </body>
+
+          <!-- Email Footer : BEGIN -->
+      <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="100%" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; max-width: 680px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin: 0 auto;">
+        <!-- Social Media and Footer -->
+        <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+          <td class="h20" height="20" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 20px; mso-line-height-rule: exactly;">&nbsp;</td>
+        </tr>
+        <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+          <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+            <table align="center" border="0" cellpadding="0" cellspacing="0" class="w100pc" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin: 0 auto;">
+
+              <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                <td width="9" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">&nbsp;</td>
+                <td align="center" width="24" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                  <a href="http://links.makeit.usfoods.com/ctt?kn=4&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="www_instagram_com_us_foods" target="_blank" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><img border="0" height="24" src="instagram-icon.png" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic; display: block;" width="24"></a>
+                </td>
+                <td width="9" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">&nbsp;</td>
+                <td align="center" width="24" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                  <a href="http://links.makeit.usfoods.com/ctt?kn=9&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="facebook_com_usfoods" target="_blank" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><img border="0" height="24" src="facebook-icon.png" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic; display: block;" width="24"></a>
+                </td>
+                <td width="9" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">&nbsp;</td>
+                <td align="center" width="24" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                  <a href="http://links.makeit.usfoods.com/ctt?kn=12&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="twitter_com_usfoods" target="_blank" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><img border="0" height="24" src="twitter-icon.png" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic; display: block;" width="24"></a>
+                </td>
+                <td width="9" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">&nbsp;</td>
+                <td align="center" width="24" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                  <a href="http://links.makeit.usfoods.com/ctt?kn=1&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="www_youtube_com_usfoods" target="_blank" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><img border="0" height="24" src="youtube-icon.png" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic; display: block;" width="24"></a>
+                </td>
+                <td width="9" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">&nbsp;</td>
+                <td align="center" width="24" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                  <a href="http://links.makeit.usfoods.com/ctt?kn=16&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="www_linkedin_com_company_us_foods" target="_blank" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><img border="0" height="24" src="linkedin-icon.png" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic; display: block;" width="24"></a>
+                </td>
+                <td width="9" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">&nbsp;</td>
+              </tr>
+
+            </table>
+          </td>
+        </tr>
+        <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+          <td class="h15" height="15" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 15px; mso-line-height: exactly;">&nbsp;</td>
+        </tr>
+
+        <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+          <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 9.6px; line-height: 14px; font-family: Arial, Helvetica, sans-serif; color: #838383; mso-line-height-rule: exactly;">Copyright &copy; US Foods. 2017. All rights reserved. No part of this publication may be reproduced by any means, without prior written permission of US Foods. Contact your US Foods representative with any questions or visit <a href="http://links.makeit.usfoods.com/ctt?kn=5&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="www_usfoods_com_makeit_index_html" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #838383;" target="_blank"> usfoods.com.</a> This email was sent to <a href="http://links.makeit.usfoods.com/ctt?kn=13&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="Email Address on Bottom" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; text-decoration: none; color: #838383;" target="_blank">viviane.raguso@usfoods.com</a>&nbsp; by US Foods, <a href="http://links.makeit.usfoods.com/ctt?kn=7&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="Scoop_v2_google_com" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #838383; text-decoration: none;">9399 West Higgins Road, Suite 300, Rosemont, IL, United States.</a></td>
+        </tr>
+        <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+          <td class="h5" height="5" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 5px; mso-line-height-rule: exactly;">&nbsp;</td>
+        </tr>
+        <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+          <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 10px; line-height: 14px; font-family: Arial, Helvetica, sans-serif; color: #838383;"><a href="http://links.makeit.usfoods.com/ctt?kn=3&ms=MTA0NzYyMDMS1&r=MTg1MTUyOTQ5MjY3S0&b=3&j=MTEwMTcwNTg0NgS2&mt=1&rt=0" name="term of use" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #838383;" target="_blank">View privacy policy</a> &nbsp;|&nbsp; <a href="http://www.pages02.net/usfoods/PreferenceCenter/OptOut?spMailingID=10476203&spUserID=MTg1MTUyOTQ5MjY3S0&spJobID=MTEwMTcwNTg0NgS2&spReportId=MTEwMTcwNTg0NgS2" name="MK_Opt_Out_Link_Bottom" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #838383;" target="_blank" xt="LPWEBFORMOPTOUT" xtwebform="6334405">Unsubscribe</a></td>
+        </tr>
+        <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+          <td class="h15" height="15" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 15px; mso-line-height-rule: exactly;">&nbsp;</td>
+        </tr>
+      </table>
+      <!-- Email Footer : END -->
+
+      <!--[if mso]>
+            </td>
+            </tr>
+            </table>
+            <![endif]-->
+    </div>
+  </center>
+</body>
+
 </html>
