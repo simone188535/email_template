@@ -1,0 +1,63 @@
+title: 'TBD.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_BLD_Rye_Brook_GO_Solo_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/32317ea0-f5d1-49bf-82e5-eeb0288f19f8.jpg?ver=1494955306000'
+  img_alt: 'CHEESE LOVE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9182afe7-082f-4119-91e7-5462c2330b11.jpg?ver=1494955306000'
+  img_alt: 'CREATE THE ULTIMATE CHEESEBOARD'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_BLD_Weekly_Email'
+  img: 'BONDE D'ANTAN Creamy, nutty and a tad tangy, this delicious goat cheese deserves a prime spot on your cheese plate.'
+  img_alt: 'BONDE D'ANTANCreamy, nutty and a tad tangy, this delicious goat cheese deserves a prime spot on your cheese plate.'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
