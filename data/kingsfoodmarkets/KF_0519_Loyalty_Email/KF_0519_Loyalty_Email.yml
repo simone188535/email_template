@@ -1,0 +1,64 @@
+title: 'Sun&#39;s out fun&#39;s out!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Loyalty'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Loyalty'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Loyalty'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Loyalty'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Loyalty'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Loyalty"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/051034ee-e040-4eab-aa69-71017c5cb6a6.jpg?ver=1494938704000"
+  img_alt: "GET YOUR GRILL ON  | Fire up the grill with these red hot specials. KINGS CHAIRMAN&#39;S RESERVE BEEF NY STRIP STEAK 7.99 LB | SAVE UP TO $8.50 LB."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6d14b42d-d424-472c-9eb7-d6a38ce6dd4c.jpg?ver=1494938703000"
+  img_alt: "Weekly Rewards Offers"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/720bd82f-201d-4d81-822e-e74861d92641.jpg?ver=1494938703000"
+  img_alt: "SAVE $3.00 lb. FIRST OF THE SEASON! WILD CAUGHT SEA SCALLOPS 19.99 LB."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b920764f-1813-483a-9e88-107012d83169.jpg?ver=1494938703000"
+  img_alt_2: "SAVE up to $1.90lb. KINGS BELL & EVANS FRESH CHICKEN BREAST 2.99 LB."
+  url_2: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Loyalty"
