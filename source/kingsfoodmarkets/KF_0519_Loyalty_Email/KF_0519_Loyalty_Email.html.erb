@@ -1,5 +1,9 @@
 <% require 'active_support/all' %>
+<<<<<<< HEAD
 <% instance_variable_set("@base_data_file", data.kingsfoodmarkets.KF_0519_Loyalty_Email.KF_0519_Loyalty_Email) %>
+=======
+<% instance_variable_set("@base_data_file", data.kingsfoodmarkets.KF_0519_Chain_Loyalty.KF_0519_Chain_Loyalty) %>
+>>>>>>> 0519_KF_weekly_email
 <% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
@@ -420,7 +424,11 @@
 <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="<%=@base_background_color%>">
     <tr>
       <td>
+<<<<<<< HEAD
          <table width="600"  border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#7a934f">
+=======
+        <!-- <table width="600"  border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#7a934f">
+>>>>>>> 0519_KF_weekly_email
               <tr>
                       <td style="border-collapse:collapse;" valign="top" rowspan="2">
                               <a href="<%=@base_logo_link%>">
@@ -441,7 +449,11 @@
                               <a href="<%=@base_catering_link%>">
                                       <img class="responsive" alt="<%=@base_catering_alt%>" title="<%=@base_catering_alt%>" src="https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7a36eba9-f37f-4058-9326-e012ce71e692.jpg?ver=1461697290000" width="126" height="60" border="0"></a></td>
               </tr>
+<<<<<<< HEAD
             </table>
+=======
+            </table> -->
+>>>>>>> 0519_KF_weekly_email
         <!-- 600px container -->
         <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
             <!-- Articles -->
