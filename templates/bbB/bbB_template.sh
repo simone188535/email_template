@@ -58,7 +58,7 @@ do
     cp $f $imagePath
 done
 
-python bbB_template.py $dataPath/$projectName.yml $crf_file $image_pattern
+python bbB_template.py $dataPath/$projectName.yml $crf_file $source_images
 
 #mkdir -p $imagePath/templates
 #cp -r image_templates/* $imagePath/templates

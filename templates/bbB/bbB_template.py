@@ -1,5 +1,11 @@
 import pyexcel as p
 from sys import argv
+import os
+import fnmatch
+import sys
+
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 navBarCount = 1
 
@@ -22,6 +28,8 @@ elif "ASF" in argv[2] and workbook.sheet_by_name("ASF") is not None:
 
 if "CANADA" in argv[2].upper():
     canada = True
+else:
+    canada = False
 
 #__methods__
 def updateNavBar(row):
@@ -119,7 +127,7 @@ def generateImage(row):
     contents.insert(insertRow(), "- type: 'image'" + "\n")
     contents.insert(insertRow(), "  img_link: '" + getImageLink(sheet.cell_value(row, linkColumn)) + "'" + "\n")
     contents.insert(insertRow(), "  img_alt: '" + encodeText(sheet.cell_value(row, altTextColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_url: 'images/" + getImageName(sheet.cell_value(row, imageColumn)) + ".jpg'" + "\n")
+    contents.insert(insertRow(), "  img_url: 'images/" + getImageName(sheet.cell_value(row, imageColumn)) + "'" + "\n")
     contents.insert(insertRow(), "\n")
     return 0
 
@@ -129,10 +137,10 @@ def generateImage2columns(row):
     contents.insert(insertRow(), "- type: 'image-2-columns'" + "\n")
     contents.insert(insertRow(), "  img_link: '" + getImageLink(sheet.cell_value(row, linkColumn)) + "'" + "\n")
     contents.insert(insertRow(), "  img_alt: '" + encodeText(sheet.cell_value(row, altTextColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_url: 'images/" + getImageName(sheet.cell_value(row, imageColumn)) + ".jpg'" + "\n")
+    contents.insert(insertRow(), "  img_url: 'images/" + getImageName(sheet.cell_value(row, imageColumn)) + "'" + "\n")
     contents.insert(insertRow(), "  img_2_link: '" + sheet.cell_value(row + 1, linkColumn) + "'" + "\n")
     contents.insert(insertRow(), "  img_2_alt: '" + encodeText(sheet.cell_value(row + 1, altTextColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_2_url: 'images/" + getImageName(sheet.cell_value(row + 1, imageColumn)) + ".jpg'" + "\n")
+    contents.insert(insertRow(), "  img_2_url: 'images/" + getImageName(sheet.cell_value(row + 1, imageColumn)) + "'" + "\n")
     contents.insert(insertRow(), "\n")
     return 1
 
@@ -140,19 +148,21 @@ def generateImage3columns(row):
     contents.insert(insertRow(), "- type: 'image-3-columns'" + "\n")
     contents.insert(insertRow(), "  img_link: '" + getImageLink(sheet.cell_value(row, linkColumn)) + "'" + "\n")
     contents.insert(insertRow(), "  img_alt: '" + encodeText(sheet.cell_value(row, altTextColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_url: 'images/" + getImageName(sheet.cell_value(row, imageColumn)) + ".jpg'" + "\n")
+    contents.insert(insertRow(), "  img_url: 'images/" + getImageName(sheet.cell_value(row, imageColumn)) + "'" + "\n")
     contents.insert(insertRow(), "  img_2_link: '" + sheet.cell_value(row + 1, linkColumn) + "'" + "\n")
     contents.insert(insertRow(), "  img_2_alt: '" + encodeText(sheet.cell_value(row + 1, altTextColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_2_url: 'images/" + getImageName(sheet.cell_value(row + 1, imageColumn)) + ".jpg'" + "\n")
+    contents.insert(insertRow(), "  img_2_url: 'images/" + getImageName(sheet.cell_value(row + 1, imageColumn)) + "'" + "\n")
     contents.insert(insertRow(), "  img_3_link: '" + sheet.cell_value(row + 2, linkColumn) + "'" + "\n")
     contents.insert(insertRow(), "  img_3_alt: '" + encodeText(sheet.cell_value(row + 2, altTextColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_3_url: 'images/" + getImageName(sheet.cell_value(row + 2, imageColumn)) + ".jpg'" + "\n")
+    contents.insert(insertRow(), "  img_3_url: 'images/" + getImageName(sheet.cell_value(row + 2, imageColumn)) + "'" + "\n")
     contents.insert(insertRow(), "\n")
     return 2
 
 
 def getImageName(number):
-    return imagePattern + "{:0>2d}".format(number)
+    for file in os.listdir(imagePattern):
+        if fnmatch.fnmatch(file, '*_' + "{:0>2d}".format(number) + ".jpg"):
+            return file
 
 
 # __main__
