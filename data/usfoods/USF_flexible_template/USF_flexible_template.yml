@@ -1,88 +1,71 @@
 title: ""
 
 
+hero_img_url: "images/hero.jpg"
+hero_img_link:
+hero_img_alt:
+
 
 # Loop through articles
 articles:
 - type: 'image'
-  image_url: 'images/bbB_176_01117_4moms_gear_v2_r4_DEV_08.jpg'
-  image_alt: 'create the dynamic duo Pair the innovative car seat & supercharged stroller for tech-savvy travels! shop now '
-  image_link: 'https://www.buybuybaby.com/store/brand/4moms/723'
-  image_height: '410'
-  image_width: '600'
-
-- type: 'image'
-  image_url: 'images/bbB_176_01117_4moms_gear_v2_r4_DEV_09.jpg'
-  image_alt: 'reinforced, 2-layer head protection 5-point harness system verifies correct installation Self-installing Car Seat Base installs itself correctly and verifies installation every time so you know it&#39;s right'
-  image_link: 'https://www.buybuybaby.com/store/brand/4moms/723/4294967217-4294965885-4294966037-32592/1-48?'
-  image_height: '461'
-  image_width: '600'
-
-- type: 'image'
-  image_url: 'images/bbB_176_01117_4moms_gear_v2_r4_DEV_10.jpg'
+  image_url: 'images/tippingpoint.jpg'
   image_alt: 'moxi™ Stroller charges your cell phone & connects to the 4moms® app to track your trips, speed, & more healights & tailights LCD dashboard cell phone charger'
-  image_link: 'https://www.buybuybaby.com/store/product/4moms-reg-moxi-trade-stroller-in-graphite/3306517'
-  image_height: '431'
-  image_width: '600'
+  image_link: 'http://usfoodsmenu.com/'
 
-- type: 'image'
-  image_url: 'images/bbB_176_01117_4moms_gear_v2_r4_DEV_11.jpg'
-  image_alt: 'conveniently connect the perfect travel companion they work together to form a travel system adapters sold separately'
-  image_link: 'https://www.buybuybaby.com/store/product/4moms-reg-self-installing-infant-car-seat-adapter-for-moxi-stroller/1060204271'
-  image_height: '454'
-  image_width: '600'
+- type: 'view-more-green'
+  view_more_url: 'images/bbB_176_01117_4moms_gear_v2_r4_DEV_08.jpg'
+  view_more_text: 'Test'
+  view_more_link: 'https://www.buybuybaby.com/store/brand/4moms/723'
+  view_more_link_text: 'VIEW MORE'
 
-- type: 'image'
-  image_url: 'images/bbB_176_01117_4moms_gear_v2_r4_DEV_12.jpg'
-  image_alt: 'shop 4moms&#174;'
-  image_link: 'https://www.buybuybaby.com/store/brand/4moms/723'
-  image_height: '91'
-  image_width: '600'
+- type: 'view-more-orange'
+  view_more_url: 'images/bbB_176_01117_4moms_gear_v2_r4_DEV_08.jpg'
+  view_more_text: 'Test'
+  view_more_link: 'https://www.buybuybaby.com/store/brand/4moms/723'
+  view_more_link_text: 'VIEW MORE'
 
-- type: 'image'
-  image_url: 'images/bbB_176_01117_4moms_gear_v2_r4_DEV_13.jpg'
-  image_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous Unites States.'
-  image_link: 'http://www.buybuybaby.com/store/selfservice/FindStore?'
-  image_height: '69'
-  image_width: '600'
+- type: 'header-live-text'
+  header_live_link: 'https://www.google.com'
+  header_text: 'TOP TRENDING PRODUCTS'
 
-- type: 'image'
-  image_url: 'images/bbB_176_01117_4moms_gear_v2_r4_DEV_14.jpg'
-  image_alt: 'take a peek at our…special buys & deals shop now'
-  image_link: 'https://www.buybuybaby.com/store/static/savingscenter '
-  image_height: '225'
-  image_width: '600'
+- type: 'product-left-image'
+  product_left_img: 'images/product-left.jpg'
+  product_left_link: 'http://usfoodsmenu.com/'
+  product_left_title: 'PRODUCT LEFT TITLE'
+  product_left_recipe_title: 'Trimmed Watermelon Radishes'
+  product_left_recipe_text: 'Slice to use as a taco, cut into matchsticks and add to a salad, use to decorate a colorful plate or pickle in-house.'
 
-- type: 'image'
-  image_url: 'images/bbB_176_01117_4moms_gear_v2_r4_DEV_15.jpg'
-  image_alt: 'registry favorites'
-  image_link: 'http://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/32689/'
-  image_height: '228'
-  image_width: '600'
+- type: 'product-right-image'
+  product_right_img: 'images/product-right.jpg'
+  product_right_link: 'http://usfoodsmenu.com/'
+  product_right_title: 'PRODUCT RIGHT TITLE'
+  product_right_recipe_title: 'Trimmed Watermelon Radishes'
+  product_right_recipe_text: 'Slice to use as a taco, cut into matchsticks and add to a salad, use to decorate a colorful plate or pickle in-house.'
+
+- type: '2-column-products'
+  product_first_url: 'images/2-product-left.jpg'
+  product_first_link: 'http://usfoodsmenu.com/'
+  product_first_title: '2 PRODUCT FIRST'
+  product_first_recipe_title: 'Battered Avocado Slices'
+  product_first_recipe_text: 'Avocados are Americas new favorite fruit. And weve created a convenient way for your dinners to love them - fried up as a tempting appetizer.'
+  product_second_url: 'images/2-product-right.jpg'
+  product_second_link: 'http://usfoodsmenu.com/'
+  product_second_title: '2 PRODUCT SECOND'
+  product_second_recipe_title: 'Battered Avocado Slices'
+  product_second_recipe_text: 'Avocados are Americas new favorite fruit. And weve created a convenient way for your dinners to love them - fried up as a tempting appetizer.'
+
+- type: 'how-to-buy'
+
+- type: 'view-scoop'
+  scoop_link:
+  scoop_text:
+
+- type: 'get-the-scoop'
+  scoop_link: 'https://www.usfoods.com/the-scoop.html'
+  scoop_text: 'View Spring Scoop&trade; 2017'
 
 
-socialnav:
-- link: "#"
-  img: "images/bbB_176_01117_4moms_gear_v2_r4_DEV_16.jpg"
-  alt: ""
-- link: "http://www.facebook.com/buybuyBABY"
-  img: "images/bbB_176_01117_4moms_gear_v2_r4_DEV_17.jpg"
-  alt: "Facebook logo"
-- link: "https://twitter.com/buybuybaby"
-  img: "images/bbB_176_01117_4moms_gear_v2_r4_DEV_18.jpg"
-  alt: "Twitter logo"
-- link: "http://www.pinterest.com/buybuybaby"
-  img: "images/bbB_176_01117_4moms_gear_v2_r4_DEV_19.jpg"
-  alt: "Pinterest logo"
-- link: "http://www.youtube.com/user/buybuybaby"
-  img: "images/bbB_176_01117_4moms_gear_v2_r4_DEV_20.jpg"
-  alt: "YouTube logo"
-- link: "http://instagram.com/buybuybaby"
-  img: "images/bbB_176_01117_4moms_gear_v2_r4_DEV_21.jpg"
-  alt: "Instagram logo"
-- link: "#"
-  img: "images/bbB_176_01117_4moms_gear_v2_r4_DEV_22.jpg"
-  alt: ""
 
 footer_ViewMap: ''
 footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
