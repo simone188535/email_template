@@ -7,143 +7,143 @@ background_color: '#eae6d6'
 pre_header_text: ''
 
 #header
-logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain'
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_CookingCampSolo'
 logo_img: ''
 logo_alt: 'KINGS'
 logo_img_space: ''
 logo_img_space_2: ''
-store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_CookingCampSolo'
 store_locator_img: ''
 store_locator_alt: 'FIND A STORE'
-weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_CookingCampSolo'
 weekly_circular_img: ''
 weekly_circular_alt: 'WEEKLY CIRCULAR'
-chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_CookingCampSolo'
 chef_prepared_img: ''
 chef_prepared_alt: 'CHEF PREPARED'
-catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0428_KF_CookingCampSolo'
 catering_img: ''
 catering_alt: 'CATERING'
 
 
 
-# #footer
-# footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
-# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
-# footer_site_alt: "www.kingsfoodmarkets.com"
-# footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
-# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
-# footer_facebook_alt: "facebook"
-# footer_twitter_link: "https://twitter.com/KingsFoodMkts"
-# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
-# footer_twitter_alt: "twitter"
-# footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
-# footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
-# footer_youtube_alt: "youtube"
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
 
 
-# # Loop through articles
-# articles:
+# Loop through articles
+articles:
 
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4b4a42af-c517-45af-a60c-b040a9b9b630.jpg?ver=1494868529000"
-#   img_alt: "GET YOUR GRILL ON  | Fire up the grill with these red hot specials.KINGS CHAIRMAN&#39;S RESERVE BEEF NY STRIP STEAK 6.99 LB | SAVE $7 LB."
-#   url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4b4a42af-c517-45af-a60c-b040a9b9b630.jpg?ver=1494868529000"
+  img_alt: "GET YOUR GRILL ON  | Fire up the grill with these red hot specials.KINGS CHAIRMAN&#39;S RESERVE BEEF NY STRIP STEAK 6.99 LB | SAVE $7 LB."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a12f6adb-abbe-44e9-b443-484373c74b3b.jpg?ver=1494868529000"
-#   img_alt: "MARKET SPECIALS"
-#   url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a12f6adb-abbe-44e9-b443-484373c74b3b.jpg?ver=1494868529000"
+  img_alt: "MARKET SPECIALS"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
-# - type: "image-2-columns"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0cb05b39-ee63-4e8f-a13e-b6ec187da5bf.jpg?ver=1494868529000"
-#   img_alt: "SAVE up to $2 lb. | KINGS CHAIRMAN'S RESERVE BABY BACK PORK SPARE RIBS 3.99 LB."
-#   url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
-#   img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/37b4ec52-72bb-47f9-9fe8-e4bc4b1df61f.jpg?ver=1494868530000"
-#   img_alt_2: "SAVE up to $1.90 lb. |KINGS BELL & EVANS FRESH SPLIT OR WHOLE CHICKEN BREAST 2.99 LB."
-#   url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0cb05b39-ee63-4e8f-a13e-b6ec187da5bf.jpg?ver=1494868529000"
+  img_alt: "SAVE up to $2 lb. | KINGS CHAIRMAN'S RESERVE BABY BACK PORK SPARE RIBS 3.99 LB."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/37b4ec52-72bb-47f9-9fe8-e4bc4b1df61f.jpg?ver=1494868530000"
+  img_alt_2: "SAVE up to $1.90 lb. |KINGS BELL & EVANS FRESH SPLIT OR WHOLE CHICKEN BREAST 2.99 LB."
+  url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
-# - type: "image-3-columns"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/20d0b665-fa37-4705-a055-5124b1c6cf71.jpg?ver=1494868530000"
-#   img_alt: "CHOOSE FROM: • BLUE BUNNY ICE CREAM • GELARTO GELATO • LUIGI'S ITALIAN ICES | BUY 1 GET 1 FREE"
-#   url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
-#   img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e4a5c31c-0627-4f35-a347-1335a5c2b68e.jpg?ver=1494868530000"
-#   img_alt_2: "FIRST OF THE SEASON! FRESH WILD CAUGHT DAY BOAT SEA SCALLOPS 19.99 LB."
-#   url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
-#   img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4868f87d-e26c-4fc8-9e1c-0e5f112f6cd2.jpg?ver=1494868530000"
-#   img_alt_3: "CALIFORNIA SWEET CHERRIES 5.99 LB."
-#   url_3: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/20d0b665-fa37-4705-a055-5124b1c6cf71.jpg?ver=1494868530000"
+  img_alt: "CHOOSE FROM: • BLUE BUNNY ICE CREAM • GELARTO GELATO • LUIGI'S ITALIAN ICES | BUY 1 GET 1 FREE"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e4a5c31c-0627-4f35-a347-1335a5c2b68e.jpg?ver=1494868530000"
+  img_alt_2: "FIRST OF THE SEASON! FRESH WILD CAUGHT DAY BOAT SEA SCALLOPS 19.99 LB."
+  url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4868f87d-e26c-4fc8-9e1c-0e5f112f6cd2.jpg?ver=1494868530000"
+  img_alt_3: "CALIFORNIA SWEET CHERRIES 5.99 LB."
+  url_3: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
 
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/30922eff-65cb-48b1-8a0b-f9b05bbf1062.jpg?ver=1494868530000"
-#   img_alt: "VIEW WEEKLY SPECIALS >"
-#   url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/30922eff-65cb-48b1-8a0b-f9b05bbf1062.jpg?ver=1494868530000"
+  img_alt: "VIEW WEEKLY SPECIALS >"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0120_KF_WeeklyEmail_Chain"
 
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22733acb-84fc-4d77-87a1-c0ab90ea7d9d.jpg?ver=1494868531000"
-#   img_alt: "SOFT SHELL CRAB | CATCH THEM WHILE YOU CAN"
-#   url: "http://kingsfoodmarkets.com/unique-recipes/pancetta-sage-wrapped-soft-shell-crabs-with-roasted-tomato-coulis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22733acb-84fc-4d77-87a1-c0ab90ea7d9d.jpg?ver=1494868531000"
+  img_alt: "SOFT SHELL CRAB | CATCH THEM WHILE YOU CAN"
+  url: "http://kingsfoodmarkets.com/unique-recipes/pancetta-sage-wrapped-soft-shell-crabs-with-roasted-tomato-coulis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/689720be-b62e-43e3-b0a5-603628450be5.jpg?ver=1494868531000"
-#   img_alt: "FIRST OF THE SEASON | SOFT SHELL CRABS |"
-#   url: "http://kingsfoodmarkets.com/unique-recipes/pancetta-sage-wrapped-soft-shell-crabs-with-roasted-tomato-coulis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/689720be-b62e-43e3-b0a5-603628450be5.jpg?ver=1494868531000"
+  img_alt: "FIRST OF THE SEASON | SOFT SHELL CRABS |"
+  url: "http://kingsfoodmarkets.com/unique-recipes/pancetta-sage-wrapped-soft-shell-crabs-with-roasted-tomato-coulis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3a55e03b-c3c3-4bb3-b7b5-6d6a8dc691c8.jpg?ver=1494868532000"
-#   img_alt: "CREATE SOFT SHELL CRABS WITH ROASTED TOMATO COULIS | VIEW RECIPE >"
-#   url: "http://kingsfoodmarkets.com/unique-recipes/pancetta-sage-wrapped-soft-shell-crabs-with-roasted-tomato-coulis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3a55e03b-c3c3-4bb3-b7b5-6d6a8dc691c8.jpg?ver=1494868532000"
+  img_alt: "CREATE SOFT SHELL CRABS WITH ROASTED TOMATO COULIS | VIEW RECIPE >"
+  url: "http://kingsfoodmarkets.com/unique-recipes/pancetta-sage-wrapped-soft-shell-crabs-with-roasted-tomato-coulis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f16c9663-5770-4513-985b-f81237f1d132.jpg?ver=1494868531000"
-#   img_alt: "EVENT CATERING"
-#   url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f16c9663-5770-4513-985b-f81237f1d132.jpg?ver=1494868531000"
+  img_alt: "EVENT CATERING"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85d2d7e5-d38c-403e-baf3-e5f1d15863ae.jpg?ver=1494868532000"
-#   img_alt: "From lawn parties to formal occasions, our fresh and seasonal Special Occasions catering menu has you covered."
-#   url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85d2d7e5-d38c-403e-baf3-e5f1d15863ae.jpg?ver=1494868532000"
+  img_alt: "From lawn parties to formal occasions, our fresh and seasonal Special Occasions catering menu has you covered."
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
-# - type: "image-2-columns"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a1f4bac8-ec9b-4917-9e3c-902007c624af.jpg?ver=1494868532000"
-#   img_alt: "TROPICAL FRUIT & KALE SALAD"
-#   url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
-#   img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a6862c81-a673-456d-9bab-b7c48b34965a.jpg?ver=1494868532000"
-#   img_alt_2: "CHICKEN FRANCESE"
-#   url_2: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a1f4bac8-ec9b-4917-9e3c-902007c624af.jpg?ver=1494868532000"
+  img_alt: "TROPICAL FRUIT & KALE SALAD"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a6862c81-a673-456d-9bab-b7c48b34965a.jpg?ver=1494868532000"
+  img_alt_2: "CHICKEN FRANCESE"
+  url_2: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cb96b3c6-ca44-4d90-842a-789fe4fa770c.jpg?ver=1494868532000"
-#   img_alt: "VIEW MENU >"
-#   url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cb96b3c6-ca44-4d90-842a-789fe4fa770c.jpg?ver=1494868532000"
+  img_alt: "VIEW MENU >"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a1ff3d94-78de-4b91-8934-341ab881f031.jpg?ver=1494868532000"
-#   img_alt: "HAVE A LITTLE CAKE!"
-#   url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a1ff3d94-78de-4b91-8934-341ab881f031.jpg?ver=1494868532000"
+  img_alt: "HAVE A LITTLE CAKE!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2ba103b-ee8b-49c4-969e-d7658588febb.jpg?ver=1494868533000"
-#   img_alt: "4-INCH PATISSERIE CAKES As pretty as they are delicious, these mini cakes are perfectly sized for sharing.  Pick up a sampling of flavors for your next get-together."
-#   url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2ba103b-ee8b-49c4-969e-d7658588febb.jpg?ver=1494868533000"
+  img_alt: "4-INCH PATISSERIE CAKES As pretty as they are delicious, these mini cakes are perfectly sized for sharing.  Pick up a sampling of flavors for your next get-together."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71f18fe5-9eab-4de6-abfa-b7a2f3a097fe.jpg?ver=1494868533000"
-#   img_alt: "GARDEN PARTY | VISIT OUR FLORAL BOUTIQUE"
-#   url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71f18fe5-9eab-4de6-abfa-b7a2f3a097fe.jpg?ver=1494868533000"
+  img_alt: "GARDEN PARTY | VISIT OUR FLORAL BOUTIQUE"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b7e20e70-ae00-4e9a-adb4-06166f4135b3.jpg?ver=1494868533000"
-#   img_alt: "Whether for entertaining or every day, everything&#39;s better with flowers.  Now in season: FRESH SUNFLOWERS, HYDRANGEAS, ROSES and MORE!  Selections vary by location"
-#   url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b7e20e70-ae00-4e9a-adb4-06166f4135b3.jpg?ver=1494868533000"
+  img_alt: "Whether for entertaining or every day, everything&#39;s better with flowers.  Now in season: FRESH SUNFLOWERS, HYDRANGEAS, ROSES and MORE!  Selections vary by location"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
   
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/beb9383d-407b-416b-83b1-77632a82d0c2.jpg?ver=1494868533000"
-#   img_alt: "WHAT&#39;S NEW |  THE LATEST & GREATEST"
-#   url: "http://kingsfoodmarkets.com/kings-own-brand/kings-organic-lemonade?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/beb9383d-407b-416b-83b1-77632a82d0c2.jpg?ver=1494868533000"
+  img_alt: "WHAT&#39;S NEW |  THE LATEST & GREATEST"
+  url: "http://kingsfoodmarkets.com/kings-own-brand/kings-organic-lemonade?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
 
-# - type: "image"
-#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b89a1baf-29e1-443c-a5f5-4996d86e4c24.jpg?ver=1494868533000"
-#   img_alt: "KINGS ORGANIC LEMONADES | Our organic Old Fashioned and Raspberry Lemonades are a little sweet, slightly tart and really refreshing.  This is our new go-to for warm weather entertaining. LEARN MORE >"
-#   url: "http://kingsfoodmarkets.com/kings-own-brand/kings-organic-lemonade?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b89a1baf-29e1-443c-a5f5-4996d86e4c24.jpg?ver=1494868533000"
+  img_alt: "KINGS ORGANIC LEMONADES | Our organic Old Fashioned and Raspberry Lemonades are a little sweet, slightly tart and really refreshing.  This is our new go-to for warm weather entertaining. LEARN MORE >"
+  url: "http://kingsfoodmarkets.com/kings-own-brand/kings-organic-lemonade?utm_source=weeklyemail&utm_medium=email&utm_campaign=0519_KF_WeeklyEmail_Chain"
