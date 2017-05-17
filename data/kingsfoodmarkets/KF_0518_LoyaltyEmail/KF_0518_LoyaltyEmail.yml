@@ -1,0 +1,71 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail'
+#logo_img: ''
+#logo_alt: 'KINGS'
+#logo_img_space: ''
+#logo_img_space_2: ''
+#store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail'
+#store_locator_img: ''
+#store_locator_alt: 'FIND A STORE'
+#weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail'
+#weekly_circular_img: ''
+#weekly_circular_alt: 'WEEKLY CIRCULAR'
+#chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail'
+#chef_prepared_img: ''
+#chef_prepared_alt: 'CHEF PREPARED'
+#catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_CookingCamps_SoloEmail'
+#catering_img: ''
+#catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_KF_LoyaltyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5ee6cc43-f783-42db-9325-c51d860043a2.jpg?ver=1495031709000"
+  img_alt: "KINGS"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_KF_LoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dfeeba01-1a5e-4f7d-91f8-00c6519b3b2f.jpg?ver=1495031710000"
+  img_alt: "Celebrate Summer With Us! Kings has your Summer grilling essentials covered!  Let us round out your BBQ with gourmet meats, the freshest seafood, freshly prepared side dishes and decadent desserts."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_KF_LoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a9263181-0f8c-45f4-9e19-64336b7937fe.jpg?ver=1495031712000"
+  img_alt: "Just For You Enjoy 10% Off Your Total Purchase When You Shop Now Through June 1st, 2017"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_KF_LoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57d7976d-22a9-4138-9361-5181e213c612.jpg?ver=1495031711000"
+  img_alt: "Special offer is loaded on your card and ready to use."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_KF_LoyaltyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6f148828-8a3b-4400-8f66-74d5dd5852ff.jpg?ver=1495031713000"
+  img_alt: ""
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_KF_LoyaltyEmail"
