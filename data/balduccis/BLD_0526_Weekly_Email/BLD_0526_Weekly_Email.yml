@@ -1,0 +1,139 @@
+title: 'What to Grill: Sriracha Salmon Burger'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fe19ac44-8830-41cf-8b5d-e1f325bba868.jpg?ver=1484168395000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5c131678-2199-42a8-9f05-d3c385efc31f.jpg?ver=1484168396000'
+  img_alt: 'Gourmet Game Day Eats'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/32272736-dda9-41b1-9064-95defb48add8.jpg?ver=1484168397000'
+  img_alt: 'Catering | Game Day Greats'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dcc368cc-4697-4ff8-9d09-8dbb8da90317.jpg?ver=1484168397000'
+  img_alt: 'A Winning Game Day Spread Take a time out on cooking and let our catering team create the perfect football feast to serve your family and friends in style. View Menu >'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2a137c1-f1e7-4b25-b783-2330047913ee.jpg?ver=1484168397000'
+  img_alt: 'Tex Mex Platter'
+  url_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/471eb689-d0f8-4522-8d42-e056b4656dbf.jpg?ver=1484168397000'
+  img_alt_2: 'Buffalo Chicken Wings'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/12ba08cf-0b61-434c-b850-e1468c29dac2.jpg?ver=1484168398000'
+  img_alt: 'Signature Sandwich Platter'
+  url_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3a0afe16-b741-40a3-917e-6cd3d72899f0.jpg?ver=1484168398000'
+  img_alt_2: 'Balducci&#39;s BBQ Pork Spare Ribs'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fb361724-ee06-44c6-a161-cbf8e22d1a64.jpg?ver=1484168399000'
+  img_alt: 'Winning Bites | Fancy Football Fare'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/64cb8fd7-7513-4c49-acf8-7a8211b2c4ff.jpg?ver=1484168399000'
+  img_alt: 'Steakhouse Elite Fresh Grass Fed Ground Beef Member Exclusive $1 OFF/LB  '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2308d51-1773-4c9e-ac25-39995a713d63.jpg?ver=1484168400000'
+  img_alt: 'Chef Prepared Italian Sausage Empanada'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c8d46a51-c66a-4691-8cf2-50e7339e163c.jpg?ver=1484168400000'
+  img_alt: 'Chef Prepared Balducci&#39;s Turkey Chili'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2a440fc6-b286-43dd-826a-9702cd12831e.jpg?ver=1484168400000'
+  img_alt: 'Rembrandt Extra Aged Gouda Cheese'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a189eacc-7be3-4146-9672-94b2c52f72ea.jpg?ver=1484168401000'
+  img_alt: 'Zaro&#39;s Bakery Brownies & Blondies'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/828ef6c5-ea60-4fbb-b8c6-ba986603499c.jpg?ver=1484168401000'
+  img_alt: 'What&#39;s New In-Store'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/67762f10-ef9c-4f86-82da-420064358117.jpg?ver=1484168402000'
+  img_alt: 'Wine &amp; Food Event Join us at Balducci&#39;s Alexandria, Bethesda, and McLean stores for a winter wine and food tasting! Plan your food and wine line-up for the big game. Saturday, January 21st Food Samplings…12 noon-5pm Wine Samplings…2-5pm More Info > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/28fa2f31-dc35-4ed5-9d55-e470c88ab146.jpg?ver=1484168404000'
+  img_alt: 'Celebrate National Cheese Lover&#39;s Day Stop by Balducci&#39;s on National Cheese Lover&#39;s Day, Jan. 20, and receive $5 OFF your $20 purchase of hand-cut cheese. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/547bcd80-688f-4bb2-bbcd-8a7c1e580cb3.jpg?ver=1484168403000'
+  img_alt: 'Best of Bethesda Winner Balducci&#39;s is honored to have been voted &#39;Best Store for Gourmet Prepared Foods&#39; in Bethesda Magazine&#39;s Best of Bethesda Readers&#39; Poll! '
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
