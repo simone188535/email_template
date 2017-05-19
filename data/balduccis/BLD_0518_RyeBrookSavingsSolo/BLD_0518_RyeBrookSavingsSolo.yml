@@ -1,0 +1,107 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+#logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0984ff9-8445-4e08-bca8-220f45be5821.jpg?ver=1467292845000'
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: ""
+footer_site_img: ""
+footer_site_alt: ""
+footer_facebook_link: ""
+footer_facebook_img:  ""
+footer_facebook_alt: ""
+footer_twitter_link: ""
+footer_twitter_img: ""
+footer_twitter_alt: ""
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_BLD_RYLEBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a4853897-f781-47ac-bfed-2d357d5f069d.jpg?ver=1495119319000'
+  img_alt: "Balducci&#39;s® Food Lover&#39;s Market™ This Week&#39;s Picks in Rye Brook"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_BLD_RYLEBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1c055fec-82dc-4287-861e-241b221c9c2f.jpg?ver=1495119319000'
+  img_alt: "BUY ONE PRE-PACKED SOUP GET ONE PREPACKED GREEN SALAD 1.00 OFF | Get 1.00 off a Balducci&#39;s pre-packed Green Salad when you purchase any Balducci&#39;s pre-packed Soup"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_BLD_RYLEBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2b6007fb-685e-436a-bc56-8a73c514c2af.jpg?ver=1495119320000'
+  img_alt: "Meat & Seafood Valid 5/19/17 - 5/25/17 | Save 19.00 | Wagyu-Kobe Beef Boneless Rib Eye Steaks | Hormone & Antibiotic Free, Product of  USA | You Pay 19.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_BLD_RYLEBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a18a0f28-c958-4d70-86a0-b5cc9213675a.jpg?ver=1495119320000'
+  img_alt: "Save 5.00 | Jack Daniel&#39;s Baby Back Pork Spare Ribs | Seasoned or Tennessee Honey flavor, fully cooked, with sauce included, 24 oz. | You Pay 11.99 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_BLD_RYLEBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/42494216-0da7-4932-9aa1-46ffcd712b3b.jpg?ver=1495119321000'
+  img_alt: "NEW! 5.99 SUSHI WEDNESDAYS | Choose from California, Salmon Avocado, Spicy Tuna, or Tuna Avocado Rolls | Save 1.50 | NEW! Ahi Tuna Poke Rice & Salad Bowl | You Pay 8.99 EA. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_BLD_RYLEBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c5c98d0a-89ef-4327-b451-10cc203cdd15.jpg?ver=1495119321000'
+  img_alt: "Save 4.00 | Wild Caught Colossal Shrimp on a Skewer | You Pay 22.99 LB. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_BLD_RYLEBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/97fbe376-aeca-426d-b4de-40d37e0c41fb.jpg?ver=1495119321000'
+  img_alt: "SEAFOOD ROAD SHOW! | MAY 20-21 SHRIMPFEST! | Fresh Florida Shrimp, Colossal Mexican Wild Caught, Balducci&#39;s Cocktail Shrimp"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_BLD_RYLEBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3f51fd00-25b9-4770-93c6-5e736e57e5a3.jpg?ver=1495119321000'
+  img_alt: "Cheese Savings Valid 5/19/17 - 5/25/17 | Save 2.00 | Toketti di Pane Carasau | A crunchy snack made from fried strips of Sardinian Flatbread | You Pay 5.99 EA. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_BLD_RYLEBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c2602c96-62a3-4ea8-810a-1b780053ecc8.jpg?ver=1495119321000'
+  img_alt: "RYE BROOK FOOD LOVE FEST | FIRE UP THE GRILL | Come taste Balducci&#39;s Best for your weekend grilling. Or, let us cater your party, and relax! | Join us for Tastings, THIS SATURDAY & SUNDAY | 11am - 4pm • 5/20-5/21 "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_BLD_RYLEBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a6fe985d-aa72-46cb-bb18-64fe232f642f.jpg?ver=1495119322000'
+  img_alt: "Produce, Bakery & More! Valid 5/19/17 - 5/25/17 | Save 1.00 | Peaches or Nectarines | You Pay 2.99 LB | Save 4.98 on 2 | Driscoll&#39;s Blackberries | You Pay 2/5.00"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_BLD_RYLEBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6eae3e2e-0cff-4c56-bf9a-4ae8c0c65136.jpg?ver=1495119322000'
+  img_alt: "Save 2.00 | Balducci&#39;s Mini Black & White Cookies | You Pay 3.99 EA. | Save 1.00 | Vineyard Bouquet | You Pay 20.99 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_BLD_RYLEBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8e02e6f7-b165-47e7-9780-f695f42bed28.jpg?ver=1495119322000'
+  img_alt: "Save 7.00 | Colavita Extra Virgin Olive Oil | 34 OZ. | You Pay 9.99 EA | Save 1.58 on 2 | Pretzel Crisps | 6.2-7.2 OZ. | You Pay 2/5.00 | Save 3.00 | Horizon Organic Extra Large Eggs | 12 ct. | You Pay 4.99 EA | 144 S. Ridge St. | In the Rye Ridge Shopping Center | www.balduccis.com/ryebrook"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
