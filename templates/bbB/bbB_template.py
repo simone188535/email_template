@@ -124,6 +124,7 @@ def getImageLink(cell):
 
 
 def generateImage(row):
+    print(row)
     contents.insert(insertRow(), "- type: 'image'" + "\n")
     contents.insert(insertRow(), "  img_link: '" + getImageLink(sheet.cell_value(row, linkColumn)) + "'" + "\n")
     contents.insert(insertRow(), "  img_alt: '" + encodeText(sheet.cell_value(row, altTextColumn)) + "'" + "\n")
@@ -160,6 +161,7 @@ def generateImage3columns(row):
 
 
 def getImageName(number):
+    print(str(number) + '*_' + "{:0>2d}".format(number) + ".jpg")
     for file in os.listdir(imagePattern):
         if fnmatch.fnmatch(file, '*_' + "{:0>2d}".format(number) + ".jpg"):
             return file
