@@ -1,0 +1,186 @@
+title: 'Summer BBQ Season Kickoff'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8821530-b079-427c-96b1-2d07abf11d05.jpg?ver=1495479649000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d0bb8e77-08e9-4856-8db5-56d72fbecddb.jpg?ver=1495479650000"
+  img_alt: "RED, WHITE AND BBQ | Kick off the summer with a little relaxation and a lot of delicious food!"
+  url: "https://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ee3fa7a7-0d78-4ddc-aa95-4714d8bc69fa.jpg?ver=1495479650000"
+  img_alt: "Create Sriracha Salmon Burgers with Bahn Mi Slaw WATCH VIDEO>"
+  url: "https://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b60c6907-51d9-4bcc-b7cf-d561631f8cb3.jpg?ver=1495483612000"
+  img_alt: "Weekly Rewards Offers"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22b938e3-2155-4b53-8d0a-299c41ab6465.jpg?ver=1495483613000"
+  img_alt: "SAVE $4 lb. | WILD CAUGHT LOCAL YELLOWFIN TUNA STEAK 15.99 LB. "
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f3576171-c29c-47d4-90f9-032f6b8649d4.jpg?ver=1495483613000"
+  img_alt_2: "SAVE $1 | CHEF PREPARED SWEET & SPICY GRILLED SALMON 4 OZ. 8.99 EA."
+  url_2: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4b35d372-f758-4fb8-aeaf-45a9c62e5f91.jpg?ver=1495483613000"
+  img_alt: "SAVE $2 | SWEET SEEDLESS WHOLE BABY WATERMELON 3.99 EA."
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3848360e-85ca-4c9d-86aa-5fa89279102e.jpg?ver=1495483614000"
+  img_alt_2: "SAVE $4.98 on 2 | PLUMP JUICY BLACKBERRIES 6 OZ. 2/5 "
+  url_2: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2ae9e058-270e-4e0f-bd4e-058f7ce86669.jpg?ver=1495483614000"
+  img_alt: "Not a Member Yet? See Store for Details | View Weekly Member Only Offers | Offers Loaded on Member Card | Create and Share a Shopping List Not a Member Yet? See Cashier for Details | View Weekly Member Only Offers | Offers Loaded on Member Card | Create and Share a Shopping List"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/89b556e7-bd6e-4564-a368-aaa260362fcd.jpg?ver=1495483614000"
+  img_alt: "View More Offers and Make a List | Old Greenwich Offers "
+  url: "http://kingsfoodmarkets.com/old-greenwich?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/aa6b6367-2999-448b-9570-0f4523dd3cb6.jpg?ver=1495483614000"
+  img_alt_2: "View More Offers and Make a List | Hoboken Offers "
+  url_2: "http://kingsfoodmarkets.com/hoboken?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec889c36-6e59-40dd-bc8b-1800279d8235.jpg?ver=1495479652000"
+  img_alt: "GRAB & GO | EASY & DELICIOUS CHEF INSPIRED EATS"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b15ca110-bec8-4e56-a524-a180456943e3.jpg?ver=1495479652000"
+  img_alt: "You hop from BBQ to pool party; we do the cooking.  Pick up Chef Prepared grab & go sides for Memorial Day Weekend. "
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ddcf096c-0702-4149-9a5e-76f8b090f326.jpg?ver=1495479652000"
+  img_alt: "FIESTA CAULIFLOWER SALAD"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7112cf46-f7af-45b8-a042-bd2248377cb0.jpg?ver=1495479652000"
+  img_alt_2: "CHEF PREPARED TOMATO & MOZZARELLA SALAD"
+  url_2: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f7a8350e-5964-4245-95e0-2e2e877d43be.jpg?ver=1495479653000"
+  img_alt: "SUMMER DELIGHT SALAD"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f7a8350e-5964-4245-95e0-2e2e877d43be.jpg?ver=1495479653000"
+  img_alt_2: "SUPERFOOD SALAD "
+  url_2: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/761edf9c-e768-4348-9749-ee9da3e19486.jpg?ver=1495479653000"
+  img_alt: "VIEW MORE CHEF PREPARED > "
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/35d6a7f5-06bf-4367-8afb-97c5f118ded6.jpg?ver=1495479653000"
+  img_alt: "FRESH FOR THE GRILL | GET GRILLING WITH THIS EASY ENTREE IDEA"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ba6b874-f3b2-48d9-a83a-c5e99c653bf7.jpg?ver=1495479654000"
+  img_alt: "NEW! MARINATED NORWEGIAN SALMON PORTIONS "
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8d682584-a715-4050-8cb9-52c50f409a36.jpg?ver=1495479654000"
+  img_alt: "PRO TIPS | HOW TO PREP THE PERFECT BURGER"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/621843db-9f7b-45eb-a6aa-0958197c5abf.jpg?ver=1495479654000"
+  img_alt: "• Make sure your meat is WELL CHILLED. • SEASON YOUR MEAT before forming into patties. • NEVER PRESS OR FLATTEN your burgers during cooking. • Allow the burgers to REST FOR 5 MINUTES before serving. | LEARN MORE >"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d70b84d9-891b-43fe-86a1-cbac59fe32fc.jpg?ver=1495479654000"
+  img_alt: "Ground fresh TODAY GUARANTEED | We grind fresh cuts of beef, veal and pork in-store every day. Our ground meat is always fresh and full of flavor, and it&#39;s a difference you can taste."
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8e82cb09-8671-4839-a96b-8865384ba81e.jpg?ver=1495479655000"
+  img_alt: "EVENT CATERING | MEMORIAL DAY WEEKEND MEALS MADE EASY"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1eadeb3a-2338-441b-9041-d6038d63d1ac.jpg?ver=1495479655000"
+  img_alt: "This weekend, serve up the freshest fare without lifting a finger.  Let our chefs do the work!"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3f018a81-a1ba-4426-a6fd-2c5209060091.jpg?ver=1495479655000"
+  img_alt: "BBQ RIBS"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7fca9619-6b96-416d-975d-60bd186c5246.jpg?ver=1495479656000"
+  img_alt_2: "BLUEGRASS SLAW"
+  url_2: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/abf81466-24b7-4ccb-a659-869e95eda6a9.jpg?ver=1495479656000"
+  img_alt: "VIEW MENU >"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5a36217f-53bf-4e10-a974-5b2d87a19fc0.jpg?ver=1495479656000"
+  img_alt: "DESSERT RECIPES | BRING ON THE BERRIES! "
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5392a79d-d19b-49fd-8842-f0f819d8c712.jpg?ver=1495479656000"
+  img_alt: "RED, WHITE & BLUEBERRY- STRAWBERRY SHORTCAKE JARS | VIEW RECIPE "
+  url: "http://kingsfoodmarkets.com/unique-recipes/red-white-blueberry-strawberry-shortcake-jars?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/059f908e-0957-4d58-afce-8b7a973aabda.jpg?ver=1495479656000"
+  img_alt_2: "PATRIOTIC KINGS BERRY KABOBS  | VIEW RECIPE"
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/patriotic-kings-berry-kabobs-served-with-raspberry-puree?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+
