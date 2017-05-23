@@ -1,0 +1,111 @@
+title: 'Thank You For Registering Your Wedding with BevMo!'
+
+preheader_text: 'Congrats! We can&#39;t wait to get started on your beverage planning.'
+preheader_link: 'http://www.bevmo.com/parties-and-weddings/'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://www.bevmo.com'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'images/0410_wedding_99966_BM_3A_01.jpg'
+  image_alt: 'BevMo! Logo & Toast-Worthy Tip #1'
+  image_link: 'http://www.bevmo.com'
+
+- type: 'image'
+  image_url: 'images/0410_wedding_99966_BM_3A_02.jpg'
+  image_alt: 'Congratuatlions This Calls For A Toast! Thank you for registerting your wedding with us. We make it easy to plan the best reception on any budget. Your local Event Specialist will be in touch shortly. We look forward to setting up a private tasting at your neighborhood BevMo! In the meantime, locate your nearest store below. Plus, estimate how much alcohol you&#39;ll need per guest with our drink calculator.'
+  image_link: 'http://www.bevmo.com/parties-and-weddings/'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/0410_wedding_99966_BM_3A_03.gif'
+  image_first_alt: 'Drink Calculator'
+  image_first_link: 'http://www.bevmo.com/drink-calculator/'
+  image_second_url: 'images/0410_wedding_99966_BM_3A_04.gif'
+  image_second_alt: 'Store Locator'
+  image_second_link: 'http://www.bevmo.com/storelocator/'
+
+- type: 'image'
+  image_url: 'images/0410_wedding_99966_BM_3A_05.gif'
+  image_alt: ''
+  image_link: 'http://www.bevmo.com/parties-and-weddings/'
+
+- type: 'image'
+  image_url: 'images/0410_wedding_99966_BM_3A_06.gif'
+  image_alt: 'WINE'
+  image_link: 'http://www.bevmo.com/wine.html'
+
+- type: 'image'
+  image_url: 'images/0410_wedding_99966_BM_3A_07.gif'
+  image_alt: 'BEER'
+  image_link: 'http://www.bevmo.com/beer-cider.html'
+
+- type: 'image'
+  image_url: 'images/0410_wedding_99966_BM_3A_08.gif'
+  image_alt: 'SPIRITS'
+  image_link: 'http://www.bevmo.com/spirits.html'
+
+- type: 'image'
+  image_url: 'images/0410_wedding_99966_BM_3A_09.jpg'
+  image_alt: 'TASTINGS'
+  image_link: 'http://www.bevmo.com/tastings/'
+
+
+- type: 'images-5-columns'
+  image_first_url: 'images/0410_wedding_99966_BM_3A_10.gif'
+  image_first_alt: ''
+  image_first_link: ''
+  image_second_url: 'images/0410_wedding_99966_BM_3A_11.gif'
+  image_second_alt: 'Facebook logo'
+  image_second_link: 'https://www.facebook.com/BevMo'
+  image_third_url: 'images/0410_wedding_99966_BM_3A_12.gif'
+  image_third_alt: 'Instagram logo'
+  image_third_link: 'https://www.instagram.com/bevmo_co/'
+  image_fourth_url: 'images/0410_wedding_99966_BM_3A_13.gif'
+  image_fourth_alt: 'Pinterest logo'
+  image_fourth_link: 'https://www.pinterest.com/bevmofavorites/'
+  image_fifth_url: 'images/0410_wedding_99966_BM_3A_14.gif'
+  image_fifth_alt: 'Twitter logo'
+  image_fifth_link: 'https://twitter.com/BevMo'
+
+- type: 'images-3-columns'
+  image_first_url: 'images/0410_wedding_99966_BM_3A_15.gif'
+  image_first_alt: 'Download Our App'
+  image_first_link: ''
+  image_second_url: 'images/0410_wedding_99966_BM_3A_16.gif'
+  image_second_alt: 'Google Play'
+  image_second_link: 'https://play.google.com/store/apps/details?id=com.bevmo.proj&hl=en'
+  image_third_url: 'images/0410_wedding_99966_BM_3A_17.gif'
+  image_third_alt: 'App Store'
+  image_third_link: 'https://itunes.apple.com/us/app/bevmo/id1158545118?mt=8'
+
+
+socialnav:
+- link: ""
+  img: "images/0410_wedding_99966_BM_3A_49.gif"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/0410_wedding_99966_BM_3A_50.gif"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/0410_wedding_99966_BM_3A_51.gif"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/0410_wedding_99966_BM_3A_52.gif"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/0410_wedding_99966_BM_3A_53.gif"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/0410_wedding_99966_BM_3A_54.gif"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/0410_wedding_99966_BM_3A_55.gif"
+  alt: ""
+
+# footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+# footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+# footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+# footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+# footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+# footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
