@@ -59,13 +59,18 @@ articles:
 #__IMAGE_TEMPLATES
 - type: 'image'
   img_link: 'https://www.buybuybaby.com/store/couponWallet/walletLanding.jsp'
-  img_alt: 'something new for you! $15 off $50 or more new! In-store only Hurry! Offer expires 5/30/17 get offer offer valid for this email address only. Some exclusions apply. See vertificate for details.'
-  img_url: 'images/bbB_052517_MemorialDay_02.jpg'
+  img_alt: 'something new for you! $15 off $50 or more new! In-store only Hurry! Offer expires 5/30/17 get offer '
+  img_url: 'images/15off50Split_21.jpg'
 
 - type: 'image'
   img_link: 'https://www.buybuybaby.com/store/couponWallet/walletLanding.jsp'
-  img_alt: 'something new for you! $15 off $50 or more new! In-store only Hurry! Offer expires 5/30/17 get offer offer valid for this email address only. Some exclusions apply. See vertificate for details. don&#39;t forget if you haven&#39;t already redeemed 20% off one single item in-store or online offer expires 5/30/17 get offer'
-  img_url: 'images/bbB_052517_20off_and_15off50_MemorialDay_01.jpg'
+  img_alt: 'don&#39;t forget if you haven&#39;t already redeemed 20% off one single item in-store or online offer expires 5/30/17 get offer'
+  img_url: 'images/15off50Split_22.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/couponWallet/walletLanding.jsp'
+  img_alt: 'offer valid for this email address only. Some exclusions apply. See certificate for details.'
+  img_url: 'images/15off50Split_23.jpg'
 
 - type: 'image'
   img_link: 'https://www.buybuybaby.com/store/brand/burley/4788'
