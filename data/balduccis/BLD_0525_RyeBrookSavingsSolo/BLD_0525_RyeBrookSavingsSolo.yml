@@ -1,0 +1,107 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+#logo_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_BLD_Loyalty_Email_Div1'
+#logo_img: ''
+#logo_alt: "myBALDUCCI&#39;S Gourmet Rewards Club"
+
+
+#footer
+footer_site_link: ""
+footer_site_img: ""
+footer_site_alt: ""
+footer_facebook_link: ""
+footer_facebook_img:  ""
+footer_facebook_alt: ""
+footer_twitter_link: ""
+footer_twitter_img: ""
+footer_twitter_alt: ""
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/91cd3e01-aa3e-4caf-b12b-fb8962ccb7fc.jpg?ver=1495637775000'
+  img_alt: "Balducci&#39;s® Food Lover&#39;s Market™ This Week&#39;s Picks in Rye Brook"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/039f09b7-e5a1-47ac-b6b6-cfb9bffce99b.jpg?ver=1495637776000'
+  img_alt: "EXCLUSIVELY FOR REWARDS MEMBERS | BUY THREE COLD PRE-PACKED SANDWICHES GET THE 4TH FREE!"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d5bf98c9-c1e5-4fa2-91e9-6860f424151f.jpg?ver=1495637776000'
+  img_alt: "Meat & Seafood Valid 5/26/17 - 6/1/17 | Save up to 16.00 | USDA Prime Certified Angus Beef Porterhouse, T-Bone or NY Strip Steak | You Pay 19.99 LB. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ad7f0efc-e238-470b-ba83-18d604cea78b.jpg?ver=1495637776000'
+  img_alt: "Save 6.00 | USDA Choice Butterfly Style Boneless Leg of Lamb | You Pay 9.99 LB. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/858bb764-3632-46df-8d51-15d4cb13cc4a.jpg?ver=1495637777000'
+  img_alt: "NEW! 5.99 SUSHI WEDNESDAYS | Choose from California, Salmon Avocado, Spicy Tuna, or Tuna Avocado Rolls | ALL SUSHI PLATTERS | Pre-order for your Memorial Day BBQ!  | You Pay 30% OFF "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d72366d7-ea1b-4044-877d-1009610d034a.jpg?ver=1495637777000'
+  img_alt: "Save 3.00 | Marinated Swordfish Steaks | You Pay 15.99 LB. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/007a2200-60f5-4ef0-b158-8c96ff0b4839.jpg?ver=1495637777000'
+  img_alt: "SEAFOOD ROAD SHOW! | MAY 27-28 SEAFOODFEST! | Swordfish Steaks Cut to Order, Oysters, Littleneck Clams | Cheese Savings Valid 5/26/17 - 6/1/17 "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6ee1e824-c32a-4366-a821-dd415e31ab90.jpg?ver=1495637778000'
+  img_alt: "Save 2.00 | Toketti di Pane Carasau | A crunchy snack made from fried strips of Sardinian Flatbread | You Pay 5.99 EA. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e71d17c5-74d6-4d0b-9abb-6f3e3f76536e.jpg?ver=1495637778000'
+  img_alt: "RYE BROOK FOOD LOVE FEST | MEMORIAL DAY ESSENTIALS | Round out your BBQ with freshly prepared side dishes, decadent desserts, & taste our favorites! | Meet & Greet with the 2017 National Watermelon Queen | Join us for Tastings, SAT & SUN | 11am - 4pm • 5/27-5/28 "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7811a8fa-48a4-4942-929c-a761962d9194.jpg?ver=1495637778000'
+  img_alt: "Produce, Bakery & More! Valid 5/26/17 - 6/1/17 | Save 2.00 | Seedless Baby Watermelon | You Pay 3.99 EA | Save 1.60 on 6 | Corn on the Cob | You Pay 6/2.99"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f6a436e0-665a-4cd0-8d16-dc0db9be2a33.jpg?ver=1495637778000'
+  img_alt: "Save 3.00 | Balducci&#39;s Non-GMO Apple Pie | You Pay 9.99 EA. | Save 1.98 on 2 | Patriotic Planter | You Pay 2/16.00"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d06d398c-b704-4501-80a2-669a3f6805af.jpg?ver=1495637778000'
+  img_alt: "Save 4.00 | San Pellegrino Water 12PK | 202.8 OZ. | You Pay 9.99 EA | Save 2.98 on 2 | Skinny Pop Popcorn | 4.4 OZ. | You Pay 2/5.00 | Save 4.00 | Oscar Mayer Bacon | 12-16 oz. | You Pay 5.99 EA | 144 S. Ridge St. | In the Rye Ridge Shopping Center | www.balduccis.com/ryebrook"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
