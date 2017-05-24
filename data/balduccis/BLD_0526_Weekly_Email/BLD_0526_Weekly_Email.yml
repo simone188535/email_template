@@ -7,128 +7,98 @@ background_color: '#f6f5f3'
 pre_header_text: ''
 
 #header
-logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
 logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
-catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
 catering_alt: 'CATERING'
-chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
 chef_prepared_alt: 'CHEF PREPARED'
-store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
 store_locator_alt: 'FIND A STORE'
-my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
 my_balduccis_alt: 'myBALDUCCI&#39;S'
 
 #footer
-footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email"
-footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
 footer_site_alt: "balduccis.com"
 footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
-footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
 footer_facebook_alt: "facebook"
 footer_twitter_link: "https://twitter.com/Balduccis"
-footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
 footer_twitter_alt: "twitter"
 
 
 # Loop through articles
 articles:
 - type: 'image'
-  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fe19ac44-8830-41cf-8b5d-e1f325bba868.jpg?ver=1484168395000'
-  img_alt: 'GOURMET REWARDS CLUB'
+  url: 'https://vimeo.com/167304429'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5c131678-2199-42a8-9f05-d3c385efc31f.jpg?ver=1484168396000'
-  img_alt: 'Gourmet Game Day Eats'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/34618ae6-1000-432a-83a6-589357b565cc.jpg?ver=1495221934000'
+  img_alt: 'BALDUCCI&#39;S STORE-MADE SALMON BURGERS CHOOSE FROM 4 FLAVORS | MEMBER EXCLUSIVE 5.99/EA Reg 6.99 SRIRACHA LEMON HERB YAKINIKU PESTO'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/32272736-dda9-41b1-9064-95defb48add8.jpg?ver=1484168397000'
-  img_alt: 'Catering | Game Day Greats'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/043748f5-83bc-4824-b27e-b690bb9759bb.jpg?ver=1495221934000'
+  img_alt: 'BRANCH OUT YOUR BURGER GAME'
+
+# - type: 'image-2-columns'
+#   url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+#   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2a137c1-f1e7-4b25-b783-2330047913ee.jpg?ver=1484168397000'
+#   img_alt: 'Tex Mex Platter'
+#   url_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+#   img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/471eb689-d0f8-4522-8d42-e056b4656dbf.jpg?ver=1484168397000'
+#   img_alt_2: 'Buffalo Chicken Wings'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dcc368cc-4697-4ff8-9d09-8dbb8da90317.jpg?ver=1484168397000'
-  img_alt: 'A Winning Game Day Spread Take a time out on cooking and let our catering team create the perfect football feast to serve your family and friends in style. View Menu >'
-
-- type: 'image-2-columns'
-  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2a137c1-f1e7-4b25-b783-2330047913ee.jpg?ver=1484168397000'
-  img_alt: 'Tex Mex Platter'
-  url_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/471eb689-d0f8-4522-8d42-e056b4656dbf.jpg?ver=1484168397000'
-  img_alt_2: 'Buffalo Chicken Wings'
-
-- type: 'image-2-columns'
-  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/12ba08cf-0b61-434c-b850-e1468c29dac2.jpg?ver=1484168398000'
-  img_alt: 'Signature Sandwich Platter'
-  url_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3a0afe16-b741-40a3-917e-6cd3d72899f0.jpg?ver=1484168398000'
-  img_alt_2: 'Balducci&#39;s BBQ Pork Spare Ribs'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/83ced4dd-9185-4cad-bc1c-7024d994823a.jpg?ver=1495221934000'
+  img_alt: 'MOODY BLUE CHEESE| This bacony, smoky blue from Monroe, Wisconsin, is the king of backyard barbecue cheeses. STONEWALL KITCHEN AIOLI | All-natural, roasted garlic elevates your burger like no other condiment can. BAKERY BRIOCHE BUN| Our soft, fresh baked rolls are the crowning glory of any burger.'
 
 - type: 'image'
-  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fb361724-ee06-44c6-a161-cbf8e22d1a64.jpg?ver=1484168399000'
-  img_alt: 'Winning Bites | Fancy Football Fare'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5bfaebe8-7119-43e8-9742-384d350d8948.jpg?ver=1495221935000'
+  img_alt: 'MOODY BLUE CHEESE| This bacony, smoky blue from Monroe, Wisconsin, is the king of backyard barbecue cheeses. STONEWALL KITCHEN AIOLI | All-natural, roasted garlic elevates your burger like no other condiment can. BAKERY BRIOCHE BUN| Our soft, fresh baked rolls are the crowning glory of any burger.'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/64cb8fd7-7513-4c49-acf8-7a8211b2c4ff.jpg?ver=1484168399000'
-  img_alt: 'Steakhouse Elite Fresh Grass Fed Ground Beef Member Exclusive $1 OFF/LB  '
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3dd0c315-992c-47a8-92de-ba781258de5d.jpg?ver=1495221935000'
+  img_alt: 'BALDUCCI&#39;S CERTIFIED ANGUS PRIME BEEF BURGER| MEMBER EXCLUSIVE 7.99/EA Reg 8.99|  CHOOSE FROM PETER LUGER STEAK SAUCE, BLEU CHEESE, OR APPLEWOOD BACON & PREMIUM CHEDDAR CHEESE'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2308d51-1773-4c9e-ac25-39995a713d63.jpg?ver=1484168400000'
-  img_alt: 'Chef Prepared Italian Sausage Empanada'
+  url: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a303133a-cd3a-450b-91e2-953b7d49c7de.jpg?ver=1495221935000'
+  img_alt: 'CHEF PREPARED CATERING'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c8d46a51-c66a-4691-8cf2-50e7339e163c.jpg?ver=1484168400000'
-  img_alt: 'Chef Prepared Balducci&#39;s Turkey Chili'
+  url: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b2afb1e9-7b8a-4ac8-b536-f0086aace8fa.jpg?ver=1495221936000'
+  img_alt: 'IT&#39;S BBQ SEASON! Enjoy a backyard BBQ, minus the work.  Choose from entrées, sides and decadent desserts!  ORDER NOW>'
 
 - type: 'image'
-  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2a440fc6-b286-43dd-826a-9702cd12831e.jpg?ver=1484168400000'
-  img_alt: 'Rembrandt Extra Aged Gouda Cheese'
+  url: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f45acba6-d1a6-4ed3-940a-7e4c55d8132c.jpg?ver=1495221936000'
+  img_alt: 'BBQ BEEF BRISKET. CREAMY PESTO PASTA SALAD.'
 
 - type: 'image'
-  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a189eacc-7be3-4146-9672-94b2c52f72ea.jpg?ver=1484168401000'
-  img_alt: 'Zaro&#39;s Bakery Brownies & Blondies'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1ee953d1-c03a-4c27-8f90-ff734dd858a1.jpg?ver=1495221936000'
+  img_alt: 'SUMMER SALADS | CHEF PREPARED'
 
 - type: 'image'
-  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/828ef6c5-ea60-4fbb-b8c6-ba986603499c.jpg?ver=1484168401000'
-  img_alt: 'What&#39;s New In-Store'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/90d65f5b-d220-452f-b198-a0fe803e9530.jpg?ver=1495221936000'
+  img_alt: 'CHEF PREPARED Southwest Chicken Salad| Chipotle-lime marinated chicken, black bean salsa, pico de gallo, and pepper jack cheese, all atop a bed of fresh romaine lettuce and served with ranch dressing.'
 
 - type: 'image'
-  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/67762f10-ef9c-4f86-82da-420064358117.jpg?ver=1484168402000'
-  img_alt: 'Wine &amp; Food Event Join us at Balducci&#39;s Alexandria, Bethesda, and McLean stores for a winter wine and food tasting! Plan your food and wine line-up for the big game. Saturday, January 21st Food Samplings…12 noon-5pm Wine Samplings…2-5pm More Info > '
-
-- type: 'image'
-  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/28fa2f31-dc35-4ed5-9d55-e470c88ab146.jpg?ver=1484168404000'
-  img_alt: 'Celebrate National Cheese Lover&#39;s Day Stop by Balducci&#39;s on National Cheese Lover&#39;s Day, Jan. 20, and receive $5 OFF your $20 purchase of hand-cut cheese. '
-
-- type: 'image'
-  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_BLD_Weekly_Email'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/547bcd80-688f-4bb2-bbcd-8a7c1e580cb3.jpg?ver=1484168403000'
-  img_alt: 'Best of Bethesda Winner Balducci&#39;s is honored to have been voted &#39;Best Store for Gourmet Prepared Foods&#39; in Bethesda Magazine&#39;s Best of Bethesda Readers&#39; Poll! '
-
-
-
-
-
-
-
-
-
-
-
-
+  url: 'https://vimeo.com/210790885'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/35415c33-2730-49d5-a8d8-2aeb58af63ab.jpg?ver=1495221936000'
+  img_alt: 'PRODUCE| Spiralized Veggie Noodles| A colorful, tasty ingredient in a fresh salad! • Red Beet  • Sweet Potato • Zucchini & Yellow Squash • Butternut Squash Recipe Idea | Spiralized Beet Salad with Lemon Citronette | VIEW RECIPE >'
 
 
 
