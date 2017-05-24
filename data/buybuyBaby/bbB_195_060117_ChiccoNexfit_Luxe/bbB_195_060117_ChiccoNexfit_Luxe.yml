@@ -2,21 +2,21 @@
 title: 'NEW from Chicco.'
 
 #__DEFAULT_TEMPLATE_HEADERS
-logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
-logo_img_alt: "buybuy Baby Logo"
-logo_img_link: "http://www.buybuybaby.com/store"
+logo_image_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_image_alt: "buybuy Baby Logo"
+logo_image_link: "http://www.buybuybaby.com/store"
 
-freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
-freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
-freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+freeshipping_image_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_image_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_image_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
 
-instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
-instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
-instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+instore_image_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_image_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_image_link: "http://www.buybuybaby.com/store/static/reserveonline"
 
-babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
-babyreg_img_alt: "baby registry logo"
-babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+babyreg_image_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_image_alt: "baby registry logo"
+babyreg_image_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
 
 nav1_url: "images/bbB_emailheader_FS49_05.jpg"
 nav1_alt: "what&#39;s new"
@@ -32,8 +32,8 @@ nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
 #END DEFAULT TEMPLATE HEADERS
 
 #__TITLE_AND_LINK
-preheader_text: 'Stores are open on Memorial Day!'
-preheader_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+preheader_text: 'NEW from Chicco.'
+preheader_link: 'https://www.buybuybaby.com/store/s/nextfit-zip-luxe-convertible-car-seat'
 
 #DEFAULT VIEW AS WEBPAGE LINK
 viewaswebpage_text: 'View as a web page'
@@ -43,67 +43,47 @@ viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_
 # Loop through articles
 articles:
 
-#- type: 'image'
-#  img_url: 'images/fileName.jpg'
-#  img_alt: 'alt text goes here'
-#  img_link: 'https://www.website.com/path/to/page'
-
-#- type: 'image-2-columns
-#  img_url: 'images/fileName.jpg'
-#  img_alt: 'alt text goes here'
-#  img_link: 'https://www.website.com/path/to/page'
-#  img_2_url: 'images/fileName.jpg'
-#  img_2_alt: 'alt text goes here'
-#  img_2_link: 'https://www.website.com/path/to/page'
   
 #__IMAGE_TEMPLATES
 - type: 'image'
-  img_link: 'https://www.buybuybaby.com/store/s/nextfit-zip-luxe-convertible-car-seat'
-  img_alt: 'sweet new ride Protect your most precious passenger with this upgraded easy-to-install car seat designed for safety & style. shop now NextFit® iX Luxe Convertible Car Seat 369.99 each FREE SHIPPING'
-  img_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_05.jpg'
+  image_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_05.jpg'
+  image_alt: 'sweet new ride Protect your most precious passenger with this upgraded easy-to-install car seat designed for safety & style. shop now NextFit® iX Luxe Convertible Car Seat 369.99 each FREE SHIPPING'
+  image_link: 'https://www.buybuybaby.com/store/s/nextfit-zip-luxe-convertible-car-seat'
 
 - type: 'image'
-  img_link: 'https://www.buybuybaby.com/store/s/nextfit-zip-luxe-convertible-car-seat'
-  img_alt: 'NEW sleek, color-punched leatherette for luxurious style Dolce Jade'
-  img_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_06.jpg'
+  image_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_06.jpg'
+  image_alt: 'NEW sleek, color-punched leatherette for luxurious style Dolce Jade'
+  image_link: 'https://www.buybuybaby.com/store/s/nextfit-zip-luxe-convertible-car-seat'
 
 - type: 'image'
-  img_link: 'https://www.buybuybaby.com/store/s/nextfit-zip-luxe-convertible-car-seat'
-  img_alt: 'LockSure™ Belt Tightening System for a secure & accurate installation with your car&#39;s seatbelt'
-  img_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_07.jpg'
+  image_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_07.jpg'
+  image_alt: 'LockSure™ Belt Tightening System for a secure & accurate installation with your car&#39;s seatbelt'
+  image_link: 'https://www.buybuybaby.com/store/s/nextfit-zip-luxe-convertible-car-seat'
 
 - type: 'image'
-  img_link: 'https://www.buybuybaby.com/store/s/nextfit-zip-luxe-convertible-car-seat'
-  img_alt: 'ReclineSure® Leveling System for a better fit in a wider range of vehicles'
-  img_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_08.jpg'
+  image_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_08.jpg'
+  image_alt: 'ReclineSure® Leveling System for a better fit in a wider range of vehicles'
+  image_link: 'https://www.buybuybaby.com/store/s/nextfit-zip-luxe-convertible-car-seat'
 
 - type: 'image'
-  img_link: 'https://www.buybuybaby.com/store/s/nextfit-zip-luxe-convertible-car-seat'
-  img_alt: 'SuperCinch® LATCH Tightener for a secure installation with LATCH'
-  img_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_09.jpg'
+  image_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_09.jpg'
+  image_alt: 'SuperCinch® LATCH Tightener for a secure installation with LATCH'
+  image_link: 'https://www.buybuybaby.com/store/s/nextfit-zip-luxe-convertible-car-seat'
 
 - type: 'image'
-  img_link: 'https://www.buybuybaby.com/store/s/nextfit-zip-luxe-convertible-car-seat'
-  img_alt: '9-Position Headrest fit-ability'
-  img_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_10.jpg'
+  image_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_10.jpg'
+  image_alt: '9-Position Headrest fit-ability'
+  image_link: 'https://www.buybuybaby.com/store/s/nextfit-zip-luxe-convertible-car-seat'
 
 - type: 'image'
-  img_link: 'https://www.buybuybaby.com/store/brand/chicco/436'
-  img_alt: 'shop Chicco®'
-  img_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_11.jpg'
+  image_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_11.jpg'
+  image_alt: 'shop Chicco®'
+  image_link: 'https://www.buybuybaby.com/store/brand/chicco/436'
 
 - type: 'image'
-  img_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
-  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use the find in-store option for easy pick-up. Prices valid only in contiguous Unites States.'
-  img_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_12.jpg'
-
-# - type: 'image-2-columns'
-#  img_link: 'https://www.buybuybaby.com/store/static/savingscenter' 
-#  img_alt: 'saving center'
-#  img_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_13.jpg'
-#  img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/' 
-#  img_2_alt: 'strollers'
-#  img_2_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_14.jpg'
+  image_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_12.jpg'
+  image_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use the find in-store option for easy pick-up. Prices valid only in contiguous Unites States.'
+  image_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
 
 - type: 'images-2-columns'
   image_first_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_13.jpg'
@@ -113,69 +93,74 @@ articles:
   image_second_alt: 'strollers'
   image_second_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/' 
 
-# - type: 'image'
-#   img_link: 'https://www.buybuybaby.com/store/brand/avent/314/4294967217-4294965885-4294966248-30512'
-#   img_alt: 'Get a $5 buybuy BABY gift card with purchase of $25 or more of Avent bottles, Gift Sets, &amp; Nipples shop now'
-#   img_url: 'images/bbB_052517_MemorialDay_09.jpg'
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_15.jpg'
+  image_first_alt: 'gifts & more'
+  image_first_link: 'https://www.buybuybaby.com/store/category/gifts-more/32641/'
+  image_second_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_16.jpg'
+  image_second_alt: 'car seats'
+  image_second_link: 'https://www.buybuybaby.com/store/category/car-seats/car-seats/32593/' 
 
-# - type: 'image'
-#   img_link: 'https://www.buybuybaby.com/store/product/summer-infant-reg-baby-glow-2-8-inch-color-lcd-video-baby-monitor-projection-camera/1060882936'
-#   img_alt: 'Closeout Summer Infant® Monitor Online Only Was 119.99 NOW 79.99 shop now'
-#   img_url: 'images/bbB_052517_MemorialDay_10.jpg'
+- type: 'images-2-columns'
+  image_first_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_17.jpg'
+  image_first_alt: 'bottles & sets'
+  image_first_link: 'https://www.buybuybaby.com/store/category/nursing-feeding/bottle-feeding/bottles-sets/32055/'
+  image_second_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_18.jpg'
+  image_second_alt: 'playards'
+  image_second_link: 'https://www.buybuybaby.com/store/category/gear-travel/playards-portable-beds/30509/' 
 
-# - type: 'image'
-#   img_link: 'https://www.buybuybaby.com/store/brand/candide/4327/4294967217-4294965885-4294137619-4294965789/1-48'
-#   img_alt: '50% off Candide® Multi-Relax 3-in-1 Maternity Pillow &amp; Infant Seat Positioner Two colors available: Grey &amp; Taupe Online Only show now'
-#   img_url: 'images/bbB_052517_MemorialDay_11.jpg'
+- type: 'image'
+  image_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_19.jpg'
+  image_alt: 'more from Chicco®'
+  image_link: ''
 
-# - type: 'image'
-#   img_link: 'https://www.buybuybaby.com/store/s/clearancebeattoys17'
-#   img_alt: 'Clearance Fisher-Price® Bright Beats Dance &amp; Move: BeatBo &amp; BeatBelle While supplies last Was 39.99 NOW 29.99 shop now'
-#   img_url: 'images/bbB_052517_MemorialDay_12.jpg'
+- type: 'images-3-columns'
+  image_first_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_20.jpg'
+  image_first_alt: 'strollers'
+  image_first_link: 'https://www.buybuybaby.com/store/brand/chicco/436/4294967217-4294965885-4294966222-32571/1-48'
+  image_second_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_21.jpg'
+  image_second_alt: 'playards'
+  image_second_link: 'https://www.buybuybaby.com/store/brand/chicco/436/4294967217-4294965885-4294966222-30509/1-48'
+  image_third_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_22.jpg'
+  image_third_alt: 'nursing & feeding'
+  image_third_link: 'https://www.buybuybaby.com/store/brand/chicco/436/4294967217-4294965885-4294966222-30009/1-48'
 
-# - type: 'image'
-#   img_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-little-people-reg-big-animal-zoo/1044360269'
-#   img_alt: 'Clearance Fisher-Price Big Animal Zoo While supplies last Was 39.99 NOW 29.99 shop now'
-#   img_url: 'images/bbB_052517_MemorialDay_13.jpg'
+- type: 'image'
+  image_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_23.jpg'
+  image_alt: 'BABY_US_ChiccoBottles_Banner'
+  image_link: 'https://www.buybuybaby.com/store/product/chicco-reg-naturalfit-reg-6-piece-0m-wide-neck-slow-flow-bottle-baby-39-s-first-gift-set-in-clear/1060097569'
 
-# - type: 'image'
-#   img_link: 'https://www.buybuybaby.com/store/static/savingscenter '
-#   img_alt: 'take a peek at our…special buys &amp; deals shop now'
-#   img_url: 'images/bbB_052517_MemorialDay_14.jpg'
-
-# - type: 'image'
-#   img_link: 'https://www.buybuybaby.com/store/category/health-safety/health/sun-care/32567/'
-#   img_alt: 'summertime essentials shop now'
-#   img_url: 'images/bbB_052517_MemorialDay_15.jpg'
-
-
+- type: 'image'
+  image_url: 'images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_24.jpg'
+  image_alt: 'BABY_US_RegistryFavorites'
+  image_link: 'http://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/32689/'
 
 socialnav:
 - link: ""
-  img: "images/bbB_emailSocial_LeftMargin.jpg"
+  img: "images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_25.jpg"
   alt: ""
 - link: "http://www.facebook.com/buybuyBABY"
-  img: "images/bbB_emailSocial_FB.jpg"
+  img: "images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_26.jpg"
   alt: "Facebook logo"
 - link: "https://twitter.com/buybuybaby"
-  img: "images/bbB_emailSocial_Twitter.jpg"
+  img: "images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_27.jpg"
   alt: "Twitter logo"
 - link: "http://www.pinterest.com/buybuybaby"
-  img: "images/bbB_emailSocial_Pinterest.jpg"
+  img: "images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_28.jpg"
   alt: "Pinterest logo"
 - link: "http://www.youtube.com/user/buybuybaby"
-  img: "images/bbB_emailSocial_YT.jpg"
+  img: "images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_29.jpg"
   alt: "YouTube logo"
 - link: "http://instagram.com/buybuybaby"
-  img: "images/bbB_emailSocial_Instagram.jpg"
+  img: "images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_30.jpg"
   alt: "Instagram logo"
 - link: ""
-  img: "images/bbB_emailSocial_RightMargin.jpg"
+  img: "images/bbB_195_060117_ChiccoNexfit_Luxe_v1_r2_DEV_31.jpg"
   alt: ""
 
 footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
 footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
-footer_subscribehere: '__SUBSCRIBE_LINK__'
-footer_updateyouremailpreferences: '__UNSUBSCRIBE_LINK__'
-footer_contactushere: '__CONTACT_US_LINK__'
-footer_PrivacyPolicy: '__PRIVACY_POLICY_LINK__'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
