@@ -5,7 +5,7 @@ then
 echo "Enter project name (E.x. 'WeekendDeals', 'ProjectNursery'):"
 read projName_sub
 
-echo "Enter Email Date (DDMMYYYY):"
+echo "Enter Email Date (DDMMYY):"
 read date
 
 echo "Enter CRF or ASF file (Drag and Drop to terminal):"
@@ -55,10 +55,13 @@ mv tmp $erbFile
 
 for f in $source_images/*
 do
-    cp $f $imagePath
+    cp "$f" $imagePath
 done
 
 python bbB_template.py $dataPath/$projectName.yml $crf_file $source_images
+
+bundle exec middleman build
+grunt build
 
 #mkdir -p $imagePath/templates
 #cp -r image_templates/* $imagePath/templates

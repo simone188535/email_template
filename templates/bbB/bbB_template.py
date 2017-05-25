@@ -4,27 +4,29 @@ import os
 import fnmatch
 import sys
 
+navBarCount = 1
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-navBarCount = 1
+#Configurable options
+newLine = "\n"
+imageFileExtensions = ['.jpg','.jpeg','.gif','.png']
 
 ymlFile = argv[1]
 workbook = p.get_book(file_name=argv[2])
 imagePattern = argv[3]
+layoutSheetName = "Layout"
 
 if "CRF" in argv[2] and workbook.sheet_by_name("Link Table") is not None:
     locationColumn = 0
     altTextColumn = 1
     linkColumn = 4
     imageColumn = 5
-    imageTypeColumn = 6
 elif "ASF" in argv[2] and workbook.sheet_by_name("ASF") is not None:
     locationColumn = 1
     altTextColumn = 2
     linkColumn = 5
     imageColumn = 6
-    imageTypeColumn = 7
 
 if "CANADA" in argv[2].upper():
     canada = True
@@ -36,40 +38,41 @@ def updateNavBar(row):
     global navBarCount
     global fileContents
 
-    fileContents = fileContents.replace("__NAV" + str(navBarCount) + "_ALT__", encodeText(sheet.cell_value(row, altTextColumn)))
-    fileContents = fileContents.replace("__NAV" + str(navBarCount) + "_LINK__", encodeText(sheet.cell_value(row, linkColumn)))
+    fileContents = fileContents.replace("__NAV" + str(navBarCount) + "_ALT__", encodeText(row[altTextColumn]))
+    fileContents = fileContents.replace("__NAV" + str(navBarCount) + "_LINK__", encodeText(row[linkColumn]))
     navBarCount += 1
 
 
 def updateSubHeader(row):
     global fileContents
 
-    altText = sheet.cell_value(row, altTextColumn)
+    altText = row[altTextColumn]
     if altText == "View as a web page":
-        fileContents = fileContents.replace("__WEBPAGE_LINK__", sheet.cell_value(row, linkColumn))
-    elif altText == "buybuy Baby Logo" or sheet.cell_value(row, altTextColumn) == "buybuy Canada Baby Logo":
-        fileContents = fileContents.replace("__LOGO_LINK__", sheet.cell_value(row, linkColumn))
-        fileContents = fileContents.replace("__LOGO_ALT__", encodeText(sheet.cell_value(row, altTextColumn)))
+        fileContents = fileContents.replace("__WEBPAGE_LINK__", row[linkColumn])
+    elif altText == "buybuy Baby Logo" or row[altTextColumn] == "buybuy Canada Baby Logo":
+        fileContents = fileContents.replace("__LOGO_LINK__", row[linkColumn])
+        fileContents = fileContents.replace("__LOGO_ALT__", encodeText(row[altTextColumn]))
     elif "FREE SHIPPING ON ORDERS OVER $49" in altText.upper():
-        fileContents = fileContents.replace("__FREE_SHIPPING_LINK__", sheet.cell_value(row, linkColumn))
+        fileContents = fileContents.replace("__FREE_SHIPPING_LINK__", row[linkColumn])
     elif "IN-STORE PICKUP" in altText.upper():
-        fileContents = fileContents.replace("__INSTORE_LINK__", sheet.cell_value(row, linkColumn))
+        fileContents = fileContents.replace("__INSTORE_LINK__", row[linkColumn])
     elif altText == "baby registry logo":
-        fileContents = fileContents.replace("__REGISTRY_LINK__", sheet.cell_value(row, linkColumn))
+        fileContents = fileContents.replace("__REGISTRY_LINK__", row[linkColumn])
 
 
 def updateHeaderAndFooter():
     global fileContents
-    for irow1 in range(0, max_rows):
-        if sheet.cell_value(irow1, locationColumn) == "Sub-header":
-            fileContents = fileContents.replace("__EMAIL_TITLE__", encodeText(sheet.cell_value(irow1, altTextColumn)))
-            fileContents = fileContents.replace("__EMAIL_TITLE_LINK__", sheet.cell_value(irow1, linkColumn))
+    #find and update title
+    for irow in sheet.rows():
+        if irow[locationColumn] == "Sub-header":
+            fileContents = fileContents.replace("__EMAIL_TITLE__", encodeText(irow[altTextColumn]))
+            fileContents = fileContents.replace("__EMAIL_TITLE_LINK__", irow[linkColumn])
             break
 
-    for irow2 in range(0, max_rows):
-        if sheet.cell_value(irow2, locationColumn) == "Sub-header":
+    for irow2 in sheet.rows():
+        if irow2[locationColumn] == "Sub-header":
             updateSubHeader(irow2)
-        elif sheet.cell_value(irow2, locationColumn) == "Header Bar":
+        elif irow2[locationColumn] == "Header Bar":
             updateNavBar(irow2)
 
     if (canada):
@@ -89,19 +92,21 @@ def updateHeaderAndFooter():
         fileContents = fileContents.replace("__NAV2_IMAGE__", "bbB_emailheader_NAV2.jpg")
         fileContents = fileContents.replace("__NAV3_IMAGE__", "bbB_emailheader_NAV3.jpg")
 
-def findBody():
-    for irow1 in range(0, max_rows):
-        if sheet.cell_value(irow1, locationColumn) == "Body":
-            return irow1
+def cellContainsImage(data, image):
+    match = False
+    if data == image:
+        match =  True
+    elif ',' in str(data):
+        dataList = str(data).split(',')
+        for item in dataList:
+            if item == str(image):
+                match = True
+    return match
 
-
-def generateArticle(row):
-    if sheet.cell_value(row, imageTypeColumn) == "image":
-        return generateImage(row)
-    elif sheet.cell_value(row, imageTypeColumn) == "image-2-columns":
-        return generateImage2columns(row)
-    elif sheet.cell_value(row, imageTypeColumn) == "image-3-columns":
-        return generateImage3columns(row)
+def findImageRow(image):
+    for irow in sheet.rows():
+        if cellContainsImage(irow[imageColumn], image):
+            return irow
 
 
 def insertRow():
@@ -122,48 +127,72 @@ def getImageLink(cell):
     else:
         return cell
 
+def generateImage(image1, image2=None, image3=None, image4=None, image5=None):
+    if image3 is not None:
+        type = "image-3-columns"
+    elif image2 is not None:
+        type = "image-2-columns"
+    else:
+        type = "image"
 
-def generateImage(row):
-    contents.insert(insertRow(), "- type: 'image'" + "\n")
-    contents.insert(insertRow(), "  img_link: '" + getImageLink(sheet.cell_value(row, linkColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_alt: '" + encodeText(sheet.cell_value(row, altTextColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_url: 'images/" + getImageName(sheet.cell_value(row, imageColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "\n")
-    return 0
+    contents.insert(insertRow(), "- type: '" + type + "'" + newLine)
+
+    row = findImageRow(image1)
+    contents.insert(insertRow(), "  img_link: '" + getImageLink(row[linkColumn]) + "'" + newLine)
+    contents.insert(insertRow(), "  img_alt: '" + encodeText(row[altTextColumn]) + "'" + newLine)
+    contents.insert(insertRow(), "  img_url: 'images/" + getImageName(image1) + "'" + newLine)
+
+    if image2 is not None:
+        row2 = findImageRow(image2)
+        contents.insert(insertRow(), "  img_2_link: '" + getImageLink(row2[linkColumn]) + "'" + newLine)
+        contents.insert(insertRow(), "  img_2_alt: '" + encodeText(row2[altTextColumn]) + "'" + newLine)
+        contents.insert(insertRow(), "  img_2_url: 'images/" + getImageName(image2) + "'" + newLine)
+
+    if image3 is not None:
+        row3 = findImageRow(image3)
+        contents.insert(insertRow(), "  img_3_link: '" + getImageLink(row3[linkColumn]) + "'" + newLine)
+        contents.insert(insertRow(), "  img_3_alt: '" + encodeText(row3[altTextColumn]) + "'" + newLine)
+        contents.insert(insertRow(), "  img_3_url: 'images/" + getImageName(image3) + "'" + newLine)
+
+    if image4 is not None:
+        row4 = findImageRow(image4)
+        contents.insert(insertRow(), "  img_3_link: '" + getImageLink(row4[linkColumn]) + "'" + newLine)
+        contents.insert(insertRow(), "  img_3_alt: '" + encodeText(row4[altTextColumn]) + "'" + newLine)
+        contents.insert(insertRow(), "  img_3_url: 'images/" + getImageName(image4) + "'" + newLine)
+
+    if image4 is not None:
+        row5 = findImageRow(image5)
+        contents.insert(insertRow(), "  img_3_link: '" + getImageLink(row5[linkColumn]) + "'" + newLine)
+        contents.insert(insertRow(), "  img_3_alt: '" + encodeText(row5[altTextColumn]) + "'" + newLine)
+        contents.insert(insertRow(), "  img_3_url: 'images/" + getImageName(image5) + "'" + newLine)
+
+    contents.insert(insertRow(), newLine)
 
 
+def getImageName(imageValue):
+    if isinstance(imageValue, long) or imageValue.isdigit():
+        for file in os.listdir(imagePattern):
+            for extension in imageFileExtensions:
+                if fnmatch.fnmatch(file, '*_' + "{:0>2d}".format(imageValue) + extension):
+                    return file
+    else:
+        return imageValue
 
-def generateImage2columns(row):
-    contents.insert(insertRow(), "- type: 'image-2-columns'" + "\n")
-    contents.insert(insertRow(), "  img_link: '" + getImageLink(sheet.cell_value(row, linkColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_alt: '" + encodeText(sheet.cell_value(row, altTextColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_url: 'images/" + getImageName(sheet.cell_value(row, imageColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_2_link: '" + sheet.cell_value(row + 1, linkColumn) + "'" + "\n")
-    contents.insert(insertRow(), "  img_2_alt: '" + encodeText(sheet.cell_value(row + 1, altTextColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_2_url: 'images/" + getImageName(sheet.cell_value(row + 1, imageColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "\n")
-    return 1
+def generateYmlContent():
+    for irow in layoutSheet.rows():
+        while '' in irow:
+            irow.remove('')
 
-def generateImage3columns(row):
-    contents.insert(insertRow(), "- type: 'image-3-columns'" + "\n")
-    contents.insert(insertRow(), "  img_link: '" + getImageLink(sheet.cell_value(row, linkColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_alt: '" + encodeText(sheet.cell_value(row, altTextColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_url: 'images/" + getImageName(sheet.cell_value(row, imageColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_2_link: '" + sheet.cell_value(row + 1, linkColumn) + "'" + "\n")
-    contents.insert(insertRow(), "  img_2_alt: '" + encodeText(sheet.cell_value(row + 1, altTextColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_2_url: 'images/" + getImageName(sheet.cell_value(row + 1, imageColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_3_link: '" + sheet.cell_value(row + 2, linkColumn) + "'" + "\n")
-    contents.insert(insertRow(), "  img_3_alt: '" + encodeText(sheet.cell_value(row + 2, altTextColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "  img_3_url: 'images/" + getImageName(sheet.cell_value(row + 2, imageColumn)) + "'" + "\n")
-    contents.insert(insertRow(), "\n")
-    return 2
-
-
-def getImageName(number):
-    for file in os.listdir(imagePattern):
-        if fnmatch.fnmatch(file, '*_' + "{:0>2d}".format(number) + ".jpg"):
-            return file
-
+        if len(irow) == 1:
+            generateImage(irow[0])
+        elif len(irow) == 2:
+            generateImage(irow[0], irow[1])
+        elif len(irow) == 3:
+            generateImage(irow[0], irow[1], irow[2])
+        elif len(irow) == 4:
+            generateImage(irow[0], irow[1], irow[2], irow[3])
+        elif len(irow) == 5:
+            generateImage(irow[0], irow[1], irow[2], irow[3], irow[4])
 
 # __main__
 if canada:
@@ -171,26 +200,19 @@ if canada:
 else:
     sheet = workbook.sheet_by_name("Link Table")
 
-max_rows = sheet.number_of_rows()
+layoutSheet = workbook.sheet_by_name(layoutSheetName)
 
 outputFile = open(ymlFile, "r")
 contents = outputFile.readlines()
 outputFile.close()
-
 
 try:
     templateStart = contents.index("#__IMAGE_TEMPLATES\n")
 except:
     templateStart = 0
 
-skipNextRows = 0
+generateYmlContent()
 
-for irow in range(findBody(), max_rows):
-    if skipNextRows is not None and skipNextRows > 0:
-        skipNextRows -= 1
-        continue
-    if sheet.cell_value(irow, locationColumn) == "Body" and sheet.cell_value(irow, imageColumn) != "":
-        skipNextRows = generateArticle(irow)
 
 outputFile = open(ymlFile, "w")
 fileContents = ""
