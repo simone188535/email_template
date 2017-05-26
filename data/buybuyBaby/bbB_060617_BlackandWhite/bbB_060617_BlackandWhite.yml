@@ -1,0 +1,164 @@
+#TITLE
+title: 'Dad deserves the best.'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_Logo.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FreeShipping.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_InStore.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_RegistryLogo.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_NAV1.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_NAV2.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_NAV3.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Dad deserves the best.'
+preheader_link: 'https://www.buybuybaby.com/store/category/gifts-more/gifts-by-recipient/gifts-for-dad/32681/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE='
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+#- type: 'image'
+#  img_url: 'images/fileName.jpg'
+#  img_alt: 'alt text goes here'
+#  img_link: 'https://www.website.com/path/to/page'
+
+#- type: 'image-2-columns
+#  img_url: 'images/fileName.jpg'
+#  img_alt: 'alt text goes here'
+#  img_link: 'https://www.website.com/path/to/page'
+#  img_2_url: 'images/fileName.jpg'
+#  img_2_alt: 'alt text goes here'
+#  img_2_link: 'https://www.website.com/path/to/page'
+  
+#__IMAGE_TEMPLATES
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/gifts-by-recipient/gifts-for-dad/32681/'
+  img_alt: 'for dads who do it all From bedtime stories to diaper changes, today&#39;s dads are hand on. Gift them the gear they need to get it done in style. shop now father&#39;s day is June 18th!'
+  img_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/contours-love-3-in-1-baby-carrier-in-black/1061008748'
+  img_alt: 'Love 3-in-1 Baby Carrier by Contours® 99.99 FREE SHIPPING'
+  img_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/skip-hop-dash-signature-diaper-bag-in-black/1060707901'
+  img_alt: 'Dash Signature Diaper Bag by Skip*Hop® 64.99 FREE SHIPPING'
+  img_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/the-beebo-free-hand-bottle-holder-in-grey/1060004468'
+  img_alt: 'Free Hand Bottle Holder by the beebo 29.99'
+  img_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/fitbit-reg-blaze-trade-smart-watch-in-black/3286015'
+  img_alt: 'Blaze™ Smart Watch Fitbit® 199.99 FREE SHIPPING'
+  img_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_12.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/your-baby-39-s-first-word-will-be-dada-board-book-by-jimmy-fallon-and-miguel-ordonez/1044643683'
+  img_alt: '&#34;Your Baby&#39;s First Word Will Be DADA&#34; Board Book by Jimmy Fallon and Miguel Ordonez 7.99'
+  img_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_13.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/pearhead-reg-me-and-my-daddy-4-inch-x-6-inch-picture-frame-in-white/1045833717'
+  img_2_alt: '&#34;Me and My Daddy&#34; 4-Inch x 6-Inch Picture Frame by Pearhead® 9.99'
+  img_2_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/antique-silver-plated-round-best-dad-cufflinks/1046276216'
+  img_alt: 'Antique Silver-Plated Round &#34;Best Dad&#34; Cufflinks 54.99 FREE SHIPPING'
+  img_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_15.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/tervis-reg-dad-to-be-16-oz-wrap-tumbler-with-lid/1060006790'
+  img_alt: '&#34;Dad to Be&#34; 16 oz Wrap Tumbler with Lid by Tervis® 16.99'
+  img_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_16.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/grasslands-road-reg-12-oz-hello-my-new-name-is-grandpa-mug-in-black/1043869282'
+  img_2_alt: 'don’t forget about grandpa! &#34;Hello, My New Name Is Grandpa&#34; 12 oz Mug by Grasslands Road® 12.99'
+  img_2_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_17.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/babygear-trade-happy-first-father-39-s-day-bodysuit-in-white/3312872'
+  img_alt: '&#34;Happy First Father&#39;s Day&#34; or &#34;Happy 1st Father&#39;s Dad Daddy!&#34; Bodysuit by babyGEAR™ 7.99 each '
+  img_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_18.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/babygear-trade-happy-1st-father-39-s-day-bodysuit-in-white/3312869'
+  img_2_alt: '&#34;Happy First Father&#39;s Day&#34; or &#34;Happy 1st Father&#39;s Dad Daddy!&#34; Bodysuit by babyGEAR™ 7.99 each '
+  img_2_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_19.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/gifts-by-recipient/gifts-for-dad/32681/'
+  img_alt: 'shop gifts for dad'
+  img_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_20.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States. '
+  img_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_21.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/bath-potty/diapers/32539/'
+  img_alt: '$10 buybuy BABY Gift Card with $50 purchase on select Diapers &amp; Wipes for a limited time shop now'
+  img_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_22.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/clothing-accessories/boys-accessories/32964/?subCatPlp=true'
+  img_alt: 'dad&#39;s mini me shop now'
+  img_url: 'images/bbB_192_053017_FathersDay_v1_r6_DEV_23.jpg'
+
+
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailSocial_LeftMargin.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailSocial_FB.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailSocial_Twitter.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailSocial_Pinterest.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailSocial_YT.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailSocial_Instagram.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_emailSocial_RightMargin.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: '__SUBSCRIBE_LINK__'
+footer_updateyouremailpreferences: '__UNSUBSCRIBE_LINK__'
+footer_contactushere: '__CONTACT_US_LINK__'
+footer_PrivacyPolicy: '__PRIVACY_POLICY_LINK__'
