@@ -1,0 +1,80 @@
+#TITLE
+title: 'Build your registry '
+
+#__TITLE_AND_LINK
+preheader_text: 'Build your registry '
+preheader_link: 'https://www.buybuybaby.com/store/giftregistry/my_registries.jsp'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: '__WEBPAGE_LINK__'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+#- type: 'image'
+#  img_url: 'images/fileName.jpg'
+#  img_alt: 'alt text goes here'
+#  img_link: 'https://www.website.com/path/to/page'
+
+#- type: 'image-2-columns
+#  img_url: 'images/fileName.jpg'
+#  img_alt: 'alt text goes here'
+#  img_link: 'https://www.website.com/path/to/page'
+#  img_2_url: 'images/fileName.jpg'
+#  img_2_alt: 'alt text goes here'
+#  img_2_link: 'https://www.website.com/path/to/page'
+  
+#__IMAGE_TEMPLATES
+- type: 'image-4-columns'
+  img_link: 'http://www.buybuybaby.com/store'
+  img_alt: 'buybuy Baby Logo'
+  img_url: 'images/bbB_emailheader_Logo_H1.jpg'
+  img_2_link: 'http://www.buybuybaby.com/store/static/ShippingPolicies'
+  img_2_alt: 'FREE SHIPPING ON ORDERS OVER $49 Get Details '
+  img_2_url: 'images/bbB_emailheader_FreeShipping_H2.jpg'
+  img_3_link: 'http://www.buybuybaby.com/store/static/reserveonline'
+  img_3_alt: 'IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More '
+  img_3_url: 'images/bbB_emailheader_InStore_H3.jpg'
+  img_4_link: 'http://www.buybuybaby.com/store/page/BabyRegistry'
+  img_4_alt: 'baby registry logo'
+  img_4_url: 'images/bbB_emailheader_RegistryLogo_H4.jpg'
+
+- type: 'image-3-columns'
+  img_link: 'http://www.buybuybaby.com/store/category/whats-new/30008/'
+  img_alt: 'what&#39;s new'
+  img_url: 'images/bbB_emailheader_NAV1_H5.jpg'
+  img_2_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  img_2_alt: 'find a store'
+  img_2_url: 'images/bbB_emailheader_NAV2_H6.jpg'
+  img_3_link: 'http://www.buybuybaby.com/store/category/clearance/30010/'
+  img_3_alt: 'clearance'
+  img_3_url: 'images/bbB_emailheader_NAV3_H7.jpg'
+
+- type: 'image'
+  img_link: ''
+  img_alt: 'get a $15 gift card when you come in-store &amp; add an additional $200 worth of items to your registry. '
+  img_url: 'images/bbB_195_OnlineApptScheduler_Update_v1_r1_FNL_02.jpg'
+
+- type: 'image-3-columns'
+  img_link: 'Oracle to Host'
+  img_alt: '1 Bring this offer into our stores click to print or show'
+  img_url: 'images/bbB_195_OnlineApptScheduler_Update_v1_r1_FNL_03.jpg'
+  img_2_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  img_2_alt: '2 Add an additional $200 worth of items to your registry in-store'
+  img_2_url: 'images/bbB_195_OnlineApptScheduler_Update_v1_r1_FNL_04.jpg'
+  img_3_link: ''
+  img_3_alt: '3 A $15 gift card is all yours!'
+  img_3_url: 'images/bbB_195_OnlineApptScheduler_Update_v1_r1_FNL_05.jpg'
+
+- type: 'image'
+  img_link: 'Oracle to Host'
+  img_alt: 'Open on your desktop to print this offer or show it on your mobile device when you come in-store. Mobile internet access required. Gift card can be used on a future purchase in-store or online. Please allow up to 24 hours for the gift card to be activated. Limit one coupon, special offer, or gift card per registry during the promotional period. Promotion ends 6/27/17. '
+  img_url: 'images/bbB_195_OnlineApptScheduler_Update_v1_r1_FNL_06.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/page/BabyRegistry'
+  img_alt: 'did you get your goody bag? learn more'
+  img_url: 'images/bbB_195_OnlineApptScheduler_Update_v1_r1_FNL_07.jpg'
+
