@@ -3,6 +3,7 @@ from sys import argv
 import os
 import fnmatch
 import sys
+import re
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -12,6 +13,7 @@ def encodeText(cell):
     cell = cell.replace("&", "&amp;")
     cell = cell.replace("'", "&#39;")
     cell = cell.replace('"', "&#34;")
+    cell = cell.replace('\n', "")
     return cell
 
 class emailBuilder(object):
@@ -27,7 +29,10 @@ class emailBuilder(object):
         self.imageDir = images
         self.workbook = p.get_book(file_name=crfFile)
 
-        self.sheet = self.workbook.sheet_by_name(sheetNameInput)
+        if isinstance(sheetNameInput, int) or sheetNameInput.isdigit():
+            self.sheet = self.workbook.sheet_by_index(sheetNameInput)
+        else:
+            self.sheet = self.workbook.sheet_by_name(sheetNameInput)
         self.altTextColumn = altTextColumnInput
         self.linkColumn = linkColumnInput
 
@@ -38,7 +43,7 @@ class emailBuilder(object):
         outputFile.close()
 
         try:
-            self.templateStart = self.contents.index("#__IMAGE_TEMPLATES\n")
+            self.templateStart = self.contents.index("#__IMAGE_TEMPLATES__\n")
         except:
             self.templateStart = 0
 
@@ -85,43 +90,53 @@ class emailBuilder(object):
         row1 = self.findImageRow(image1)
         self.contents.insert(self.insertRow(), "  img_link: '" + self.getImageLink(row1[self.linkColumn]) + "'" + self.newLine)
         self.contents.insert(self.insertRow(), "  img_alt: '" + encodeText(row1[self.altTextColumn]) + "'" + self.newLine)
-        self.contents.insert(self.insertRow(), "  img_url: 'images/" + self.getImageName(image1) + "'" + self.newLine)
+        self.contents.insert(self.insertRow(), "  img_url: '" + self.getImageName(image1) + "'" + self.newLine)
 
         if image2 is not None:
             row2 = self.findImageRow(image2)
             self.contents.insert(self.insertRow(), "  img_2_link: '" + self.getImageLink(row2[self.linkColumn]) + "'" + self.newLine)
             self.contents.insert(self.insertRow(), "  img_2_alt: '" + encodeText(row2[self.altTextColumn]) + "'" + self.newLine)
-            self.contents.insert(self.insertRow(), "  img_2_url: 'images/" + self.getImageName(image2) + "'" + self.newLine)
+            self.contents.insert(self.insertRow(), "  img_2_url: '" + self.getImageName(image2) + "'" + self.newLine)
 
         if image3 is not None:
             row3 = self.findImageRow(image3)
             self.contents.insert(self.insertRow(), "  img_3_link: '" + self.getImageLink(row3[self.linkColumn]) + "'" + self.newLine)
             self.contents.insert(self.insertRow(), "  img_3_alt: '" + encodeText(row3[self.altTextColumn]) + "'" + self.newLine)
-            self.contents.insert(self.insertRow(), "  img_3_url: 'images/" + self.getImageName(image3) + "'" + self.newLine)
+            self.contents.insert(self.insertRow(), "  img_3_url: '" + self.getImageName(image3) + "'" + self.newLine)
 
         if image4 is not None:
             row4 = self.findImageRow(image4)
             self.contents.insert(self.insertRow(), "  img_4_link: '" + self.getImageLink(row4[self.linkColumn]) + "'" + self.newLine)
             self.contents.insert(self.insertRow(), "  img_4_alt: '" + encodeText(row4[self.altTextColumn]) + "'" + self.newLine)
-            self.contents.insert(self.insertRow(), "  img_4_url: 'images/" + self.getImageName(image4) + "'" + self.newLine)
+            self.contents.insert(self.insertRow(), "  img_4_url: '" + self.getImageName(image4) + "'" + self.newLine)
 
         if image5 is not None:
             row5 = self.findImageRow(image5)
             self.contents.insert(self.insertRow(), "  img_5_link: '" + self.getImageLink(row5[self.linkColumn]) + "'" + self.newLine)
             self.contents.insert(self.insertRow(), "  img_5_alt: '" + encodeText(row5[self.altTextColumn]) + "'" + self.newLine)
-            self.contents.insert(self.insertRow(), "  img_5_url: 'images/" + self.getImageName(image5) + "'" + self.newLine)
+            self.contents.insert(self.insertRow(), "  img_5_url: '" + self.getImageName(image5) + "'" + self.newLine)
 
         self.contents.insert(self.insertRow(), self.newLine)
 
 
     def getImageName(self, imageValue):
+        searchPattern = None
+        regPattern = re.compile("[H,S,F]\d")
         if isinstance(imageValue, long) or imageValue.isdigit():
+            searchPattern = "{:0>2d}".format(imageValue)
+        elif regPattern.match(imageValue) is not None:
+            searchPattern = imageValue
+
+        if searchPattern is not None:
             for file in os.listdir(self.imageDir):
                 for extension in self.imageFileExtensions:
-                    if fnmatch.fnmatch(file, '*_' + "{:0>2d}".format(imageValue) + extension):
-                        return file
-        else:
-            return imageValue
+                    if fnmatch.fnmatch(file, '*_' + searchPattern + extension):
+                        imageValue = file
+
+        if "http" not in imageValue:
+            imageValue = "images/" + imageValue
+
+        return imageValue
 
     def generateYmlContent(self):
         for irow in self.layoutsheet.rows():
