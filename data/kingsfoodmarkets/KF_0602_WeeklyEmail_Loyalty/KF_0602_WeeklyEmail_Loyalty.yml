@@ -1,0 +1,148 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5f7fb888-335a-46c2-ace1-16b7ded2329a.jpg?ver=1496152371000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/452cf38c-3215-4b8f-aa00-608316efe1f6.jpg?ver=1496152371000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/00f200d0-68c2-45b8-b0b0-47c4da038843.jpg?ver=1496152371000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e40c6e2c-22af-4849-b9c2-f6b997822d94.jpg?ver=1496152372000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1556e87e-933c-4bde-a73d-096f238904bb.jpg?ver=1496152368000"
+  img_alt: "THE Ultimate BACKYARD BBQ | SAVE $6 LB.| WILD CAUGHT ALASKAN COHO SALMON FILLET 12.99 LB. "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/53d09892-5c80-4a6e-8049-ea5bea4b5630.jpg?ver=1496152368000"
+  img_alt: "THE Ultimate BACKYARD BBQ | SAVE $6 LB.| WILD CAUGHT ALASKAN COHO SALMON FILLET 12.99 LB. "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6541e842-210b-4b27-abc6-b1931d171b24.jpg?ver=1496167259000"
+  img_alt: "Weekly Rewards Offers"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e3ec1137-590a-464a-97a5-68de5a12533b.jpg?ver=1496167259000"
+  img_alt: "SAVE $1 | KINGS STORE MADE SIGNATURE SALMON BURGERS 4 OZ. 4.99 EA."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b065a451-73ca-4663-bd86-349e89b077f2.jpg?ver=1496167259000"
+  img_alt_2: "SAVE $1 lb. | KINGS BELL & EVANS CHICKEN LEGS, DRUMSTICKS OR THIGHS 1.99 LB."
+  url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/75cd2f54-532a-42a8-8280-51ce6705eefa.jpg?ver=1496167259000"
+  img_alt_3: "SAVE $4.97 on 3 DRISCOLL&#39;S RED STRAWBERRIES 1 LB 3/10"
+  url_3: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9646ed17-fc6b-49b9-b9f2-4d4b01fbbcc4.jpg?ver=1496167259000"
+  img_alt: "Not a Member Yet? See Store for Details | View Weekly Member Only Offers | Offers Loaded on Member Card | Create and Share a Shopping List Not a Member Yet? See Cashier for Details | View Weekly Member Only Offers | Offers Loaded on Member Card | Create and Share a Shopping List"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5fe1d1a6-260a-4e80-b292-70f0068d56af.jpg?ver=1496167259000"
+  img_alt: "View More Offers and Make a List Old Greenwich Offers"
+  url: "http://kingsfoodmarkets.com/old-greenwich?utm_source=weeklyemail&utm_medium=email&utm_campaign=0526_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/beb97ce5-7b7f-4e7f-ba35-e85f04b0ece8.jpg?ver=1496167260000"
+  img_alt_2: "View More Offers and Make a List Old Hoboken Offers"
+  url_2: "http://kingsfoodmarkets.com/hoboken?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2f8abe60-4853-4317-becb-afd4f76a072f.jpg?ver=1496152369000"
+  img_alt: "WE LOVE CHEESE | $5 OFF $25 OFF HAND-CUT CHEESE"
+  url: "http://kingsfoodmarkets.com/KINGS_%20Cheese_DayDN.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/04270d05-66df-4944-89cc-86a583d945c6.jpg?ver=1496152369000"
+  img_alt: "HAND-CUT CHEESE $5 OFF $25 6/4 ONLY! | FELLOW CHEESE LOVERS, MARK YOUR CALENDARS:  NATIONAL CHEESE DAY IS JUNE 4TH! | REDEEM OFFER >"
+  url: "http://kingsfoodmarkets.com/KINGS_%20Cheese_DayDN.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5a8c7095-e598-406c-ad44-7f5fbe8ba931.jpg?ver=1496152370000"
+  img_alt: "HAND-CUT CHEESE $5 OFF $25 6/4 ONLY! | FELLOW CHEESE LOVERS, MARK YOUR CALENDARS:  NATIONAL CHEESE DAY IS JUNE 4TH!  | REDEEM OFFER > "
+  url: "http://kingsfoodmarkets.com/KINGS_%20Cheese_DayDN.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5c99769b-441f-44c3-8869-cd0d6cc918ce.jpg?ver=1496152370000"
+  img_alt: "PARTY CATERING| CELEBRATE YOUR GRADUATE | Let our chefs help create the perfect hassle-free party for your grad with grab and go sides, desserts and more!"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b6efec17-5aa0-4317-a350-adacf4ba7b02.jpg?ver=1496152370000"
+  img_alt: "PARTY CATERING| CELEBRATE YOUR GRADUATE | Let our chefs help create the perfect hassle-free party for your grad with grab and go sides, desserts and more!"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7fccc3c-78b3-4cfb-9fc6-44c274062aae.jpg?ver=1496152370000"
+  img_alt: "LEMON CAPER SHRIMP"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0464f628-ac8d-48b2-aac5-e78f91cec22b.jpg?ver=1496152370000"
+  img_alt_2: "CAPRESE PASTA SALAD"
+  url_2: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/80cdf9c5-84fa-4da4-9b24-77279d1b518f.jpg?ver=1496152370000"
+  img_alt: "VIEW MENU >"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f25a4e31-bde7-4eff-9f4f-bf4307891185.jpg?ver=1496152370000"
+  img_alt: "SAY IT WITH FLOWERS"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/406dcfeb-323d-4896-8dd7-32a75ab2c678.jpg?ver=1496152371000"
+  img_alt: "CONGRATULATE GRADS, THANK TEACHERS, or just say, &#34;I&#39;M THINKING OF YOU.&#34; Drop by our Floral Boutique for a fragrant gift."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7f0942e3-d486-4dee-8385-dc590dab8d1a.jpg?ver=1496152371000"
+  img_alt: "WHAT&#39;S NEW IN STORE"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1812cc16-6fd0-4dc0-bad1-52bc95402589.jpg?ver=1496152371000"
+  img_alt: "FRESH FOR SUMMER | Cool and refreshing, try our new CHEF PREPARED CHILLED PEACH SOUP. | LEARN MORE>"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7e47f555-2475-41b1-a999-f3eaf5435ac8.jpg?ver=1496152371000"
+  img_alt: "KINGS ARTISAN EGG PASTA | Kings Artisan Egg Pasta is handcrafted in Italy and made with only the finest ingredients.  Try: TAGLIATELLE, PAPPARDELLE OR SPAGHETTI ALLA CHITARRA.  LEARN MORE>"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_KF_WeeklyEmail_Loyalty"
