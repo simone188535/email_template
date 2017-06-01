@@ -9,37 +9,9 @@ hero_img_alt: ""
 # Loop through articles
 articles:
 - type: 'image'
-  image_url: 'images/USF_email_desktop_02.jpg'
+  image_url: 'images/spacer-600-gray.png'
   image_alt: 'IT&#39;S A MATTER OF CHOICE | meaty or meatless? CHICK-ARRONES™ | WINGS '
   image_link: 'https://www.usfoods.com/the-scoop.html'
-
-- type: 'live-text'
-  live_text: 'Understanding your diners&#39; choosy habits and offering the choices that suit their needs is your recipe for success'
-  live_background_color: '#cf4520'
-
-- type: 'get-the-scoop'
-  scoop_text: 'VIEW SUMMER SCOOP&trade;'
-  scoop_link: 'http://usfoodsmenu.com/'
-
-- type: 'header-live-text'
-  header_text: 'WIN A $5,000 GIFT CARD'
-  header_live_color: '#5b8726'
-  live_color: '#ffffff'
-
-- type: '2-image-arrow'
-  img_first: 'images/orderonline.jpg'
-  img_first_alt: 'ORDER ONLINE. GET REWARDED.'
-  img_first_link: 'https://www.usfoods.com/summerpromotion'
-  img_second: 'images/entertowin.jpg'
-  img_second_alt: 'US FOODS $5K | ENTER TO WIN'
-  img_second_link: 'https://www.usfoods.com/summerpromotion'
-  background_color: '#5b8726'
-  arrow: 'images/bottomgreenarrow.jpg'
-
-- type: 'live-text'
-  live_text: 'Place your next order using <font style="border-bottom: 2px solid #cf4520; color: #cf4520; font-weight: 600;">US Foods Online</font> from <font style="font-weight: 600;"><br>June 12 - August 5,</font> and you will be automatically entered to <br><font style="text-transform: uppercase; color: #5b8726; font-weight: 600;">win a $5,000 gift card.</font>'
-  live_button_text: 'LEARN MORE'
-  live_background_color: '#ffffff'
 
 - type: 'header-live-text'
   header_text: 'TOP TRENDING PRODUCT'
@@ -61,7 +33,7 @@ articles:
   img_first_alt: 'LIKE WINGS? YOU&#39;LL LOVE CHICK-ARRONES.'
   img_first_link: 'https://www.four51.com/UI/Customer.aspx?autologonid=faf28cb6-b84b-4ad6-9821-b94a134e07bb'
   img_second: 'images/USF_email_desktop_17.jpg'
-  img_second_alt: 'LIKE WINGS? YOU'LL LOVE CHICK-ARRONES. '
+  img_second_alt: 'LIKE WINGS? YOU&#39;LL LOVE CHICK-ARRONES. '
   img_second_link: 'https://www.four51.com/UI/Customer.aspx?autologonid=faf28cb6-b84b-4ad6-9821-b94a134e07bb'
   background_color: '#cf4520'
   arrow: 'images/bottomorangearrow.jpg'

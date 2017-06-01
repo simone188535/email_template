@@ -1,15 +1,6 @@
 #TITLE
 title: '__EMAIL_TITLE__'
 
-#__TITLE_AND_LINK
-preheader_text: '__EMAIL_TITLE__'
-preheader_link: '__EMAIL_TITLE_LINK__'
-
-#DEFAULT VIEW AS WEBPAGE LINK
-viewaswebpage_text: 'View as a web page'
-viewaswebpage_link: '__WEBPAGE_LINK__'
-#END DEFAULT VIEW AS WEBPAGE LINK
-
 # Loop through articles
 articles:
 
@@ -26,4 +17,4 @@ articles:
 #  img_2_alt: 'alt text goes here'
 #  img_2_link: 'https://www.website.com/path/to/page'
   
-#__IMAGE_TEMPLATES__
+#__IMAGE_TEMPLATES
