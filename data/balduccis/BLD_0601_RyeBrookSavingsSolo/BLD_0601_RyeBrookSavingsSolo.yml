@@ -1,4 +1,4 @@
-title: 'What to Grill: Sriracha Salmon Burger'
+title: 'Save $8 on Loin Veal Chops this Week!'
 
 primary_color: '#'
 
@@ -6,127 +6,91 @@ background_color: '#f6f5f3'
 
 pre_header_text: ''
 
-#header
-logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
-logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
-catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
-catering_alt: 'CATERING'
-chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
-chef_prepared_alt: 'CHEF PREPARED'
-store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
-store_locator_alt: 'FIND A STORE'
-my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
-my_balduccis_alt: 'myBALDUCCI&#39;S'
+# #header
+# logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+# catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# catering_alt: 'CATERING'
+# chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# chef_prepared_alt: 'CHEF PREPARED'
+# store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# store_locator_alt: 'FIND A STORE'
+# my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# my_balduccis_alt: 'myBALDUCCI&#39;S'
 
-#footer
-footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__"
-footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
-footer_site_alt: "balduccis.com"
-footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
-footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
-footer_facebook_alt: "facebook"
-footer_twitter_link: "https://twitter.com/Balduccis"
-footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
-footer_twitter_alt: "twitter"
+# #footer
+# footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__"
+# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+# footer_site_alt: "balduccis.com"
+# footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+# footer_facebook_alt: "facebook"
+# footer_twitter_link: "https://twitter.com/Balduccis"
+# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+# footer_twitter_alt: "twitter"
 
 
 # Loop through articles
 articles:
 
-- type: 'image'
-  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0518_BLD_RYLEBrookSavingsSolo'
-  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a4853897-f781-47ac-bfed-2d357d5f069d.jpg?ver=1495119319000'
-  img_alt: "Balducci&#39;s® Food Lover&#39;s Market™ This Week&#39;s Picks in Rye Brook"
-
-# - type: 'image-2-columns'
-#   img_link: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2a137c1-f1e7-4b25-b783-2330047913ee.jpg?ver=1484168397000'
-#   img_alt: 'Tex Mex Platter'
-#   img_link_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
-#   img_url_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/471eb689-d0f8-4522-8d42-e056b4656dbf.jpg?ver=1484168397000'
-#   img_alt_2: 'Buffalo Chicken Wings'
-
-#__IMAGE_TEMPLATES__
-# - type: 'image'
-#   img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_alt: 'GOURMET REWARDS CLUB'
-#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/faeb26e2-1b28-4cc0-be39-83cbee931aff.jpg?ver=1496181397000'
-
-# - type: 'image'
-#   img_link: 'https://vimeo.com/167304429'
-#   img_alt: 'SUMMER SIZZLE|It&#39;s the season of savory steaks, ripe and juicy fruit, and firing up the grill. Enjoy! '
-#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/90982f72-ec59-4b81-9f1a-f29e069f9c8c.jpg?ver=1496176196000'
-
-# - type: 'image'
-#   img_link: 'https://www.balduccis.com/files/Cheese_Day_Coupon.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_alt: 'CHEESE LOVERS REJOICE | Celebrate National Cheese Day, on June 4th! Indulge with $5 off $25 on hand-cut cheese.  Offer valid June 4 only. |  HAND-CUT $5 OFF $25 | CHEESE SHOP | REDEEM OFFER '
-#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5b0ae356-8253-4384-b557-8a57c814f6c7.jpg?ver=1496176196000'
-
-# - type: 'image-3-columns'
-#   img_link: 'https://www.balduccis.com/files/Cheese_Day_Coupon.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_alt: 'EZRA&#39;S NATURAL FETA'
-#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/37475c39-a621-44ba-8f14-fa8f17c536e0.jpg?ver=1496176196000'
-#   img_2_link: 'https://www.balduccis.com/files/Cheese_Day_Coupon.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_2_alt: 'HALLOUMI'
-#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ea0aef4a-4448-4b44-a19d-eb2457ce3478.jpg?ver=1496176197000'
-#   img_3_link: 'https://www.balduccis.com/files/Cheese_Day_Coupon.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_3_alt: 'DODONI ORGANIC GREEK FETA'
-#   img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f8790faf-15f5-431f-9883-c25ab1b9ad52.jpg?ver=1496176197000'
-
-# - type: 'image'
-#   img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_alt: 'FIRST OF THE SEASON | FRESH PRODUCE '
-#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/71be5563-ce36-4526-8a35-eb2d7d8fe479.jpg?ver=1496176197000'
-
-# - type: 'image-2-columns'
-#   img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_alt: 'SWEET RED CHERRIES | Spiff up a salad, bake in a pie, or just enjoy them as a sweet and juicy snack!'
-#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dd7904d9-19c4-4068-b9a1-a5f27987928a.jpg?ver=1496176198000'
-#   img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_2_alt: 'STORE-CUT WATERMELON | Serve chilled for a refreshing summer treat or try grilled for a new twist on a classic!'
-#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/de0d4237-063c-46b3-b398-b87a5f95d8a6.jpg?ver=1496176198000'
-
-# - type: 'image'
-#   img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_alt: 'SUMMER FRUIT | TOP GRILLING TIPS '
-#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/814b7bcc-9e13-4acc-937a-f993e6923280.jpg?ver=1496176198000'
-
-# - type: 'image'
-#   img_link: ''
-#   img_alt: '1 PICK summer fruits at their peak ripeness, not too tender and not too tough.  Try watermelon, plums, peaches, or nectarines. 2 PREP • Slice the fruit large, so the pieces won&#39;t fall through the grill grates. • Prep the grill with nonstick spray or a brush of olive oil. • Brush fruit with a high-heat oil like safflower or grapeseed oil. 3 GRILL your fruit using indirect heat (no direct flame).  Use simple seasonings like salt, pepper, and fresh herbs. '
-#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0d8f10d6-477c-45d8-82f2-f929219f5a20.jpg?ver=1496176198000'
-
-# - type: 'image'
-#   img_link: ''
-#   img_alt: '1 PICK summer fruits at their peak ripeness, not too tender and not too tough.  Try watermelon, plums, peaches, or nectarines. 2 PREP • Slice the fruit large, so the pieces won&#39;t fall through the grill grates. • Prep the grill with nonstick spray or a brush of olive oil. • Brush fruit with a high-heat oil like safflower or grapeseed oil. 3 GRILL your fruit using indirect heat (no direct flame).  Use simple seasonings like salt, pepper, and fresh herbs. '
-#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4f8fbd9f-85fd-4924-8dfa-2c2cbffa1392.jpg?ver=1496176198000'
-
-# - type: 'image-2-columns'
-#   img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_alt: 'PANZANELLA SALAD'
-#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3f3bf0e6-c944-4d91-9835-5472c97331fc.jpg?ver=1496176199000'
-#   img_2_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_2_alt: 'TROPICAL FRUIT &amp; KALE SALAD '
-#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6d5aee4b-c60f-42e3-a865-2ef5692db517.jpg?ver=1496176199000'
-
 # - type: 'image'
 #   img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_alt: 'MEMBER EXCLUSIVE | GREAT FOR GRILLING'
-#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e79653a-828a-4d48-9be3-c56fe9d57887.jpg?ver=1496176199000'
-
-# - type: 'image'
-#   img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_alt: 'USDA PRIME CERTIFIED ANGUS BEEF TOP ROUND FOR LONDON BROIL | MEMBER EXCLUSIVE 5.99/LB Reg 8.49'
+#   img_alt: 'Balducci#39;s® Food Lover's Market™ This Week#39;s Picks in Rye Brook. BUY ONE Pre-Packed Green Salad GET ONE FREE! (of equal or lesser value)'
 #   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ecefb3c6-d417-4193-98a4-dcbe5a28c4ab.jpg?ver=1496176199000'
 
-# - type: 'image'
-#   img_link: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_alt: 'CHEF PREPARED | BBQ CATERING'
-#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5b50f2bf-d7db-430b-a67d-f44dcbdbf60b.jpg?ver=1496176200000'
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a1d091ce-b8f5-4eaa-84fa-3e6761f453d0.jpg?ver=1496329016000'
+  img_alt: "Balducci#39;s® Food Lover's Market™ This Week#39;s Picks in Rye Brook. BUY ONE Pre-Packed Green Salad GET ONE FREE! (of equal or lesser value)"
 
-# - type: 'image'
-#   img_link: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0602_BLD_Weekly_Email'
-#   img_alt: 'IT&#39;S BBQ SEASON! Nothing says summer like a BBQ. Make yours as laid back as the season itself, with delicious Chef Prepared catering.  Choose from savory meats, fresh sides, and delectable desserts.  ORDER NOW >'
-#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/982fce7e-1147-49ea-b443-6f730fd5da82.jpg?ver=1496176200000'
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f2d4aea2-f0d2-4372-ba56-1c56f9d43681.jpg?ver=1496329016000'
+  img_alt: "Meat & Seafood Valid 6/2/17 - 6/8/17.Save 8.00 | Loin Veal Chops, Tailless, Bone-in | You Pay 9.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0fe20971-aea1-49b1-b148-8ad5e93b1b78.jpg?ver=1496329016000'
+  img_alt: "Save 2.00 | Balducci's Store Made Italian Sausage | You Pay 5.99 LB. NEW! 5.99 SUSHI WEDNESDAYS | Choose from California, Salmon Avocado, Spicy Tuna, or Tuna Avocado Rolls "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/973c9a55-e326-4eb2-aeb9-c2c30ca154a8.jpg?ver=1496329016000'
+  img_alt: "Get a FREE Green Tea when you buy a small Tuna or Salmon Nigiri Sushi "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fb6c5646-8018-45cf-b407-38631f6ae235.jpg?ver=1496329017000'
+  img_alt: "Save 2.00 | Norwegian Skinless Salmon Portions | You Pay 7.99 EA. Cheese Savings Valid 6/2/17 - 6/8/17."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4efd5651-fefc-4efd-9a60-4fb148de0736.jpg?ver=1496329017000'
+  img_alt: "Save 5.00 | Parmigiano Reggiano | You Pay 15.99 LB. | Grated, Shaved, or Shredded | 17.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0773ac8c-c78a-40c2-bb08-0b08dc1d1e49.jpg?ver=1496329017000'
+  img_alt: "RYE BROOK FOOD LOVE FEST | EXPLORE NEW TASTINGS | Sample our catering menu for the best party picks, and learn how we can customize your event, from graduations, showers and more! | Join us for Tastings, SAT & SUN • 6/3-6/4 | 11am - 4pm "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7310a050-b4d5-46a2-86ad-e94a687ccf8d.jpg?ver=1496329018000'
+  img_alt: "Produce, Bakery & More! Valid 6/2/17 - 6/8/17  Save 2.00 | White Peaches or Nectarines | You Pay 1.99 LB Save 2.98 on 2 | Satur Farms Salads | You Pay 2/5.00"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/36800bb4-8a2f-4cd8-b422-2396cc7f9c25.jpg?ver=1496329018000'
+  img_alt: "Save 3.00 | Balducci#39;s 7&#34; Belgian Chcolate Mousse Cake | You Pay 19.99 EA. Save 1.00 | Assorted Petite Bouquets | You Pay 11.99 EA."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3e5b3701-2a0c-40b8-8153-5197d33ec903.jpg?ver=1496329018000'
+  img_alt: "Save 1.00 | PopChips or Ridges | All Varieties, 3.5 oz. | You Pay 1.99 EA Save 1.00 | Vermont Organic Bread | Assorted Varieties, 24 oz. | You Pay 4.99 EA"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/95c48dd2-6e32-41f4-8e44-5155e8df5b01.jpg?ver=1496329019000'
+  img_alt: "Save 2.98 on 2 | DeCecco Pasta | Assorted Varieties, 16 oz. | You Pay 2/3.00 Save 2.78 on 2 | Eggland#39;s Best Large Eggs | 12 ct. | You Pay 2/6.00 144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook"
 
 
