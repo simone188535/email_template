@@ -2,12 +2,12 @@ from distutils.dir_util import copy_tree
 import pyexcel as p
 from emailBuilder import encodeText
 
-class BLDWeekly(object):
+class KFLoyalty(object):
     def __init__(self):
-        self.projectNamePrefix = "BLD_"
-        self.folderPath = "balduccis"
-        self.ymlTemplate = "BLD/BLD_Template_Weekly_Email_053017.yml"
-        self.erbTemplate = "BLD/BLD_Template_Weekly_Email_053017.erb"
+        self.projectNamePrefix = "KF_"
+        self.folderPath = "kingsfoodmarkets"
+        self.ymlTemplate = "KF/KF_Template_Loyalty_Email_053117.yml"
+        self.erbTemplate = "KF/KF_Template_Loyalty_Email_053117.erb"
 
         self.sheet = 0
         self.altTextColumn = 2
@@ -26,12 +26,12 @@ class BLDWeekly(object):
         titleFound = False
 
         for irow in sheet.rows():
-            for x in range(0, len(irow) - 1):
+            for x in range(0, len(irow) -1):
                 if irow[x].strip() == "Task:":
-                    fileContents = fileContents.replace("__EMAIL_NAME__", irow[x + 1])
+                    fileContents = fileContents.replace("__EMAIL_NAME__", irow[x+1])
                     nameFound = True
-                elif irow[x].strip() == "Subject Line:":
-                    fileContents = fileContents.replace("__TITLE__", irow[x + 1])
+                elif irow[x].strip() == "Subject:":
+                    fileContents = fileContents.replace("__TITLE__", irow[x+1])
                     titleFound = True
                 if nameFound and titleFound:
                     break

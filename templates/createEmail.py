@@ -6,7 +6,8 @@ import sys
 import subprocess
 import emailBuilder
 from bbB.bbB import bbB
-from BLD.BLD import BLD
+from BLD.BLD import BLDWeekly
+from KF.KF import KFLoyalty
 from genericEmail import genericEmail
 
 reload(sys)
@@ -28,14 +29,17 @@ class setupData:
         self.erbPath = self.sourcePath + "/" + self.projectName + ".html.erb"
         self.ymlPath = self.dataPath + "/" + self.projectName + ".yml"
 
-if (len(argv) > 1):
+if len(argv) > 1:
     project = argv[1]
-    emailName=argv[2]
-    date=argv[3]
-    crf_file=argv[4]
-    source_images=argv[5]
+    emailName = argv[2]
+    date = argv[3]
+    crf_file = argv[4]
+    if len(argv) > 5:
+        source_images = argv[5]
+    else:
+        source_images = None
 else:
-    project = raw_input("Select Project:\n1. BuyBuyBaby\n2. BLD\n3. Other\n")
+    project = raw_input("Select Project:\n1. BuyBuyBaby\n2. BLD Weekly Email\n3. KF Loyalty Email\n4. Other\n")
     emailName = raw_input("Enter Email Name\n")
     date = raw_input("Enter Email Date (MMDDYY)\n")
     crf_file = raw_input("Enter Full Path to CRF File (Drag and Drop)\n")
@@ -44,7 +48,9 @@ else:
 if str(project).strip() == str(1):
     emailData = bbB()
 elif str(project).strip() == str(2):
-    emailData = BLD()
+    emailData = BLDWeekly()
+elif str(project).strip() == str(3):
+    emailData = KFLoyalty()
 else:
     emailData = genericEmail()
 
@@ -58,7 +64,8 @@ for item in [mySetupData.dataPath, mySetupData.sourcePath, mySetupData.imagePath
 copyfile(emailData.ymlTemplate, mySetupData.ymlPath)
 copyfile(emailData.erbTemplate, mySetupData.erbPath)
 
-copy_tree(source_images, mySetupData.imagePath)
+if source_images is not None and source_images.strip() != "":
+    copy_tree(source_images, mySetupData.imagePath)
 
 erbFile = open(mySetupData.erbPath, "r")
 erbLines = erbFile.readlines()
