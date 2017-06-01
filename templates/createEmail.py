@@ -7,14 +7,14 @@ import subprocess
 import emailBuilder
 from bbB.bbB import bbB
 from BLD.BLD import BLDWeekly
-from BLD.BLD import BLDNoHeader
+from BLD.BLD import BLDNoHeaderFooter
 from KF.KF import KFLoyalty
 from genericEmail import genericEmail
 
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-projectOptions = "1. BuyBuyBaby\n2. BLD Weekly Email\n3. BLD Without Header\n4. KF Loyalty Email\n5. Generic Email"
+projectOptions = "1. BuyBuyBaby\n2. BLD Weekly Email\n3. BLD Simple\n4. KF Loyalty Email\n5. Generic Email"
 
 def printUsageAndExit():
     print("Usage: python createEmail.py <projectNumber> <Name> <CRFFile> [<images directory>]")
@@ -59,7 +59,7 @@ if str(project).strip() == str(1):
 elif str(project).strip() == str(2):
     emailData = BLDWeekly()
 elif str(project).strip() == str(3):
-    emailData = BLDNoHeader()
+    emailData = BLDNoHeaderFooter()
 elif str(project).strip() == str(4):
     emailData = KFLoyalty()
 elif str(project).strip() == str(5):

@@ -30,12 +30,12 @@ class BLDBase(object):
 
         return fileContents
 
-class BLDNoHeader(BLDBase):
+class BLDNoHeaderFooter(BLDBase):
     def __init__(self):
         self.projectNamePrefix = "BLD_"
         self.folderPath = "balduccis"
         self.ymlTemplate = "BLD/BLD_Template_Weekly_Email_053017.yml"
-        self.erbTemplate = "BLD/BLD_Template_Weekly_Email_053017.erb"
+        self.erbTemplate = "BLD/BLD_Template_No_Header_Footer.erb"
 
         self.sheet = 0
         self.altTextColumn = 2
@@ -46,7 +46,7 @@ class BLDWeekly(BLDBase):
         self.projectNamePrefix = "BLD_"
         self.folderPath = "balduccis"
         self.ymlTemplate = "BLD/BLD_Template_Weekly_Email_053017.yml"
-        self.erbTemplate = "BLD/BLD_Template_No_Header.erb"
+        self.erbTemplate = "BLD/BLD_Template_Weekly_Email_053017.erb"
 
         self.sheet = 0
         self.altTextColumn = 2

@@ -63,9 +63,11 @@ class emailBuilder(object):
         return match
 
     def findImageRow(self, image):
+        row = [''] * 100
         for irow in self.sheet.rows():
             if self.cellContainsImage(irow[-1], image):
-                return irow
+                row = irow
+        return row
 
     def getImageLink(self, cell):
         if cell == "NONE":
