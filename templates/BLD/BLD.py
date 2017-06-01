@@ -2,17 +2,7 @@ from distutils.dir_util import copy_tree
 import pyexcel as p
 from emailBuilder import encodeText
 
-class BLDWeekly(object):
-    def __init__(self):
-        self.projectNamePrefix = "BLD_"
-        self.folderPath = "balduccis"
-        self.ymlTemplate = "BLD/BLD_Template_Weekly_Email_053017.yml"
-        self.erbTemplate = "BLD/BLD_Template_Weekly_Email_053017.erb"
-
-        self.sheet = 0
-        self.altTextColumn = 2
-        self.linkColumn = 5
-
+class BLDBase(object):
     def setup(self, crf_file, imagePath):
         pass
 
@@ -39,3 +29,25 @@ class BLDWeekly(object):
                 break
 
         return fileContents
+
+class BLDNoHeader(BLDBase):
+    def __init__(self):
+        self.projectNamePrefix = "BLD_"
+        self.folderPath = "balduccis"
+        self.ymlTemplate = "BLD/BLD_Template_Weekly_Email_053017.yml"
+        self.erbTemplate = "BLD/BLD_Template_Weekly_Email_053017.erb"
+
+        self.sheet = 0
+        self.altTextColumn = 2
+        self.linkColumn = 5
+
+class BLDWeekly(BLDBase):
+    def __init__(self):
+        self.projectNamePrefix = "BLD_"
+        self.folderPath = "balduccis"
+        self.ymlTemplate = "BLD/BLD_Template_Weekly_Email_053017.yml"
+        self.erbTemplate = "BLD/BLD_Template_No_Header.erb"
+
+        self.sheet = 0
+        self.altTextColumn = 2
+        self.linkColumn = 5
