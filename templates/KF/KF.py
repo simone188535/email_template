@@ -1,17 +1,18 @@
 from distutils.dir_util import copy_tree
 import pyexcel as p
-from emailBuilder import encodeText
+from emailBuildClass import emailBuilder
 
-class KFLoyalty(object):
-    def __init__(self):
+class KFLoyalty(emailBuilder):
+    def __init__(self, crf_file, emailName):
         self.projectNamePrefix = "KF_"
         self.folderPath = "kingsfoodmarkets"
         self.ymlTemplate = "KF/KF_Template_Loyalty_Email_053117.yml"
         self.erbTemplate = "KF/KF_Template_Loyalty_Email_053117.erb"
 
-        self.sheet = 0
+        self.sheetName = 0
         self.altTextColumn = 2
         self.linkColumn = 5
+        super(KFLoyalty, self).__init__(crf_file, emailName)
 
     def setup(self, crf_file, imagePath):
         pass

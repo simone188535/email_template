@@ -1,5 +1,7 @@
-class genericEmail(object):
-    def __init__(self):
+from emailBuildClass import emailBuilder
+
+class genericEmailBuilder(emailBuilder):
+    def __init__(self, crf_file, emailName):
         self.projectNamePrefix = "email_"
         self.folderPath = "other"
         self.ymlTemplate = "generic_Template_053017.yml"
@@ -9,8 +11,4 @@ class genericEmail(object):
         self.altTextColumn = raw_input("Enter Excel Column with Alt Text (Letter or Index Number)\n")
         self.linkColumn = raw_input("Enter Excel Column with URL (Letter or Index Number)\n")
 
-    def update(self, fileContents, sheet=None):
-        return fileContents
-
-    def setup(self, crf_file, imagePath):
-        pass
+        super(genericEmailBuilder, self).__init__(crf_file, emailName)

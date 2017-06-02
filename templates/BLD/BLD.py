@@ -1,27 +1,23 @@
 from distutils.dir_util import copy_tree
 import pyexcel as p
-from emailBuilder import encodeText
+from emailBuildClass import emailBuilder
 
-class BLDBase(object):
-    def setup(self, crf_file, imagePath):
-        pass
+class BLDBase(emailBuilder):
+    def update(self):
+        self.updateHeader()
 
-    def update(self, fileContents, sheet):
-        fileContents = self.updateHeader(fileContents, sheet)
-        return fileContents
-
-    def updateHeader(self, fileContents, sheet):
+    def updateHeader(self):
         # find and update title
         nameFound = False
         titleFound = False
 
-        for irow in sheet.rows():
+        for irow in self.sheet.rows():
             for x in range(0, len(irow) - 1):
                 if irow[x].strip() == "Task:":
-                    fileContents = fileContents.replace("__EMAIL_NAME__", irow[x + 1])
+                    self.fileContents = self.fileContents.replace("__EMAIL_NAME__", irow[x + 1])
                     nameFound = True
                 elif irow[x].strip() == "Subject Line:":
-                    fileContents = fileContents.replace("__TITLE__", irow[x + 1])
+                    self.fileContents = self.fileContents.replace("__TITLE__", irow[x + 1])
                     titleFound = True
                 if nameFound and titleFound:
                     break
@@ -31,23 +27,25 @@ class BLDBase(object):
         return fileContents
 
 class BLDNoHeaderFooter(BLDBase):
-    def __init__(self):
+    def __init__(self, crf_file, emailName):
         self.projectNamePrefix = "BLD_"
         self.folderPath = "balduccis"
         self.ymlTemplate = "BLD/BLD_Template_Weekly_Email_053017.yml"
         self.erbTemplate = "BLD/BLD_Template_No_Header_Footer.erb"
 
-        self.sheet = 0
+        self.sheetName = 0
         self.altTextColumn = 2
         self.linkColumn = 5
+        super(BLDNoHeaderFooter, self).__init__(crf_file, emailName)
 
 class BLDWeekly(BLDBase):
-    def __init__(self):
+    def __init__(self, crf_file, emailName):
         self.projectNamePrefix = "BLD_"
         self.folderPath = "balduccis"
         self.ymlTemplate = "BLD/BLD_Template_Weekly_Email_053017.yml"
         self.erbTemplate = "BLD/BLD_Template_Weekly_Email_053017.erb"
 
-        self.sheet = 0
+        self.sheetName = 0
         self.altTextColumn = 2
         self.linkColumn = 5
+        super(BLDWeekly, self).__init__(crf_file, emailName)
