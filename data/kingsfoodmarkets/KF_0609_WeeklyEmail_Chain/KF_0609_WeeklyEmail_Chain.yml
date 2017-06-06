@@ -1,0 +1,138 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0b176d23-708e-4ff2-a224-7a64b8cdf301.jpg?ver=1496755643000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/64d54b37-3af0-41ed-b0ed-17d1d917e833.jpg?ver=1496755643000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/39d1ffe7-0efd-4b7a-8c69-504b836c61ee.jpg?ver=1496755644000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ef389f19-affe-4c7c-87c7-aba6310a2a1c.jpg?ver=1496755644000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5e7047fd-ecba-4493-bdb5-5cf34d70ac49.jpg?ver=1496755629000"
+  img_alt: "THE ULTIMATE SUMMER SURF & TURF| For a feast at its finest, pair sweet, succulent lobster with melt in your mouth fillet. | Lobster Day THURSDAY, JUNE 15 | LOBSTER LOVE | LOBSTER DAY IS THURSDAY, JUNE 15TH! | Stop by for 1-day only specials. As always, we&#39;ll gladly steam your lobster for you in store.  10.99 LB. *Available at select stores "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8cc5bdf6-8822-467d-baaf-428dffba95bd.jpg?ver=1496755630000"
+  img_alt: "THE ULTIMATE SUMMER SURF & TURF| For a feast at its finest, pair sweet, succulent lobster with melt in your mouth fillet. | Lobster Day THURSDAY, JUNE 15 | LOBSTER LOVE | LOBSTER DAY IS THURSDAY, JUNE 15TH! | Stop by for 1-day only specials. As always, we&#39;ll gladly steam your lobster for you in store.  10.99 LB. *Available at select stores "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f2a7a67b-f7c3-4c93-8a7e-584c808ecb44.jpg?ver=1496755630000"
+  img_alt: "STEAK & LOBSTER FOR DAD"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7f330ea2-c71e-4572-822b-dacd29076f9e.jpg?ver=1496755632000"
+  img_alt: "SAVE $6 lb. KINGS USDA CHOICE FILET MIGNON STEAKS 17.99 LB. "
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cb01c842-eff4-498b-958b-6c7356858ba2.jpg?ver=1496755632000"
+  img_alt_2: "PRICE VALID ONE DAY ONLY! THUR. 6/15 | FRESH LIVE LOBSTERS 10.99 LB. "
+  url_2: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/61eaafde-955d-4828-be6f-e23afd1ec732.jpg?ver=1496755632000"
+  img_alt: "VIEW WEEKLY SPECIALS >"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dd5612dd-8955-40dd-a9c4-decc8d9ad371.jpg?ver=1496755633000"
+  img_alt: "3 WAYS TO PREPARE LOBSTER"
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ac33c04a-9687-43d3-885a-f9760bc98f09.jpg?ver=1496755634000"
+  img_alt: "1 STEAMED IN DARK BEER | 2 OVEN ROASTED WITH SAVORY BREAD TOPPING | 3 GRILLED WITH TARRAGON BUTTER | LEARN MORE > "
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1fb61206-978f-415f-8254-7839448f882c.jpg?ver=1496755634000"
+  img_alt_2: "1 STEAMED IN DARK BEER | 2 OVEN ROASTED WITH SAVORY BREAD TOPPING | 3 GRILLED WITH TARRAGON BUTTER | LEARN MORE > "
+  url_2: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0c9e3cb6-48c6-47ad-89a4-7e24d70d7cd3.jpg?ver=1496755635000"
+  img_alt_3: "1 STEAMED IN DARK BEER | 2 OVEN ROASTED WITH SAVORY BREAD TOPPING | 3 GRILLED WITH TARRAGON BUTTER | LEARN MORE > "
+  url_3: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cc027ed4-d4ad-4f43-bc59-e181c0d11615.jpg?ver=1496755636000"
+  img_alt: "1 STEAMED IN DARK BEER | 2 OVEN ROASTED WITH SAVORY BREAD TOPPING | 3 GRILLED WITH TARRAGON BUTTER | LEARN MORE > "
+  url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/da238a75-3016-4150-905d-e24fc600f359.jpg?ver=1496755636000"
+  img_alt: "CATERING GRADS & DADS "
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5169e5c5-59be-424d-b70e-76bb363f6820.jpg?ver=1496755638000"
+  img_alt: "Whether you're looking for a few PARTY PLATTERS or a COMPLETELY CATERED AFFAIR, we can help you put together the perfect party.  | VIEW MENU >"
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/86e825a1-dc4a-45a5-a0f1-131dfa54bb46.jpg?ver=1496755638000"
+  img_alt: "Whether you're looking for a few PARTY PLATTERS or a COMPLETELY CATERED AFFAIR, we can help you put together the perfect party.  | VIEW MENU >"
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5982e162-d030-46d9-8444-f25f1c0be230.jpg?ver=1496755639000"
+  img_alt: "RECIPE ROUND UP EASY APP IDEAS"
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3544e2aa-5079-49d8-8f3e-fc63a0ab252b.jpg?ver=1496755639000"
+  img_alt: "RICOTTA CROSTINI 3 TASTY WAYS | WATCH VIDEO "
+  url: "http://kingsfoodmarkets.com/unique-recipes/ricotta-crostini-3-ways?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a2b9dcc-db2c-4692-8517-ff39649d79d7.jpg?ver=1496755640000"
+  img_alt: "CHERRY SALSA | VIEW RECIPE"
+  url: "http://kingsfoodmarkets.com/unique-recipes/cherry-salsa?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4e789eb9-ec71-49b1-9652-b30ceb4c5439.jpg?ver=1496755641000"
+  img_alt_2: "BUFFALO CHICKEN MEATBALLS | VIEW RECIPE "
+  url_2: "http://kingsfoodmarkets.com/unique-recipes/buffalo-chicken-meatballs-1?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/83cf088c-709f-4023-b949-cca41dae717b.jpg?ver=1496755642000"
+  img_alt: "WHAT&#39;S NEW IN STORE "
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ba23fddb-cb94-49bc-8c1d-99fa5856bcb6.jpg?ver=1496755643000"
+  img_alt: "THANK GOODNESS IT&#39;S FRY-DAY | Kick off the weekend with warm and crispy chicken tenders, wings, waffle fries and more.  All for $1 off per pound every Friday! | LEARN MORE >"
+  url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_KF_WeeklyEmail_Chain"
