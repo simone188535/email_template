@@ -1,0 +1,126 @@
+title: 'TBD'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+#- type: 'image'
+#  img_link: 'https://vimeo.com/167304429'
+#  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+#  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2a137c1-f1e7-4b25-b783-2330047913ee.jpg?ver=1484168397000'
+#   img_alt: 'Tex Mex Platter'
+#   img_link_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+#   img_url_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/471eb689-d0f8-4522-8d42-e056b4656dbf.jpg?ver=1484168397000'
+#   img_alt_2: 'Buffalo Chicken Wings'
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_alt: 'GOURMET REWARDS CLUB'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/da11e961-e3a7-4f56-9dce-225f046f962c.jpg?ver=1496764390000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_alt: 'FATHER&#39;S DAY COUNT DOWN'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/08541b75-4a9a-47a9-a5a7-6e83ef2532d7.jpg?ver=1496764388000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_alt: 'Treat the man of the hour to a mouth-watering catered meal.  You can&#39;t go wrong with our Summer BBQ favorites.  | ORDER NOW >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0b2dd6a5-4031-4267-af00-f38265dedcf3.jpg?ver=1496764386000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_alt: 'CLASSIC CUTS | FOR THE GRILL'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bf37f7e3-27a2-4347-8130-0a8128ce5507.jpg?ver=1496764384000'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+  img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_alt: 'GRILL YOUR VEGGIES '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/978937b0-4e5d-4c35-9083-41950a627f85.jpg?ver=1496764385000'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_alt: 'FRESH ASPARAGUS | Grill over direct medium heat for 6-8 minutes, turning occasionally until browned in spots. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b069e28c-611e-42ca-9542-997425c7b76a.jpg?ver=1496764385000'
+  img_2_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_2_alt: 'SWEET FRESH CORN| To retain moisture while grilling, soak in cold water for 30-60 minutes beforehand. '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8b653780-cd45-4a21-86cf-0a7dbb48d877.jpg?ver=1496764386000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_alt: 'VEGGIE GRILLING TIPS &amp; TRICKS: | • Brush with olive oil to add flavor and prevent sticking • Sprinkle with simple seasonings like salt, pepper, and fresh herbs • Try searing vegies on the grill and finishing them in the oven'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2ae159a5-5900-4781-bffc-d34c5a06d066.jpg?ver=1496764387000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_alt: 'OCEAN-FRESH FARE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3fe3e149-80ef-4624-b9ba-d4f521c1783c.jpg?ver=1496764387000'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_alt: 'WILD ALASKAN HALIBUT '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fe70a0f5-f920-45d9-81dd-23bdffe13fc9.jpg?ver=1496764391000'
+  img_2_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_2_alt: 'CHESAPEAKE BAY OYSTERS'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2434989b-ea53-43c5-982b-670935dc7e11.jpg?ver=1496764392000'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_alt: 'COLOSSAL BLACK TIGER SHRIMP|| MEMBER EXCLUSIVE $3 OFF/LB MARKET PRICE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/42f56023-10d4-4987-9c56-2ae39cf41c5a.jpg?ver=1496764393000'
+  img_2_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_2_alt: 'WILD ALASKAN SALMON FILLET '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/761e5917-f83a-48f4-bde3-00dbdc4364e5.jpg?ver=1496764393000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_alt: 'MARK YOUR CALENDAR'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/664ae509-16df-481d-8e1f-79cbd45920a8.jpg?ver=1496764394000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+  img_alt: 'Father&#39;s Day Weekend Wine Tasting Find the perfect wind for Dad.SATURDAY, JUNE 17thFood Samplings……..12 noon- 5pmWine Samplings……..2-5pmMORE INFO >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0fcfc04c-4c97-4704-bdd4-77e5dbb8761c.jpg?ver=1496764394000'
+
+
