@@ -1,0 +1,180 @@
+	<% require 'active_support/all' %>
+<% instance_variable_set("@base_data_file", data.buybuyBaby.bbB_192_PorchService_Email.bbB_192_PorchService_Email) %>
+<% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<style type="text/css">
+    /* This style block will be inlined when running 'grunt build' and stripped from the header */
+
+    table td {
+        border-collapse: collapse;
+		border-spacing: 0; 
+		mso-table-lspace: 0pt; 
+		mso-table-rspace: 0pt; 
+		text-align: left;
+    }
+    img {
+        display: block;
+        margin: 0;
+    }
+	.footer {
+		font: 12pt arial, sans-serif; 
+		color: #666666;
+	}
+	a.footer {
+		font: 12pt arial, sans-serif; 
+		color: #33bbf3;
+	}
+	.topLink {
+		color: #33bbf3; 
+		text-decoration: underline;
+	}
+	.topSection, td.preheader {
+		color: #2a2a2a; 
+		font-family: Arial, Helvetica, sans-serif; 
+		font-weight: normal; 
+		font-size: 12px; 
+		line-height: 16px; 
+		border-collapse: collapse;
+	}
+	.topPreHeader {
+		text-align: left; 
+	}
+	.topViewWebPage {			
+		text-align: right;
+	}	
+
+</style>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+	<tr><td align="center">
+		<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+			<tr> 
+				<td align="center"><font style="FONT-SIZE: 10px; COLOR: #003875; LINE-HEIGHT: 14px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif">&nbsp;</font></td>
+			</tr>
+			<tr style="text-align: left;">
+				<td class="preheader">
+					<!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td width="50%" valign="top"><![endif]-->
+					<table width="300" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row topSection">
+						<tr class="topPreHeader">
+							<td class="col column1 topSection topPreHeader" valign="top">
+								<a href="<%= @base_preheader_link %>" class="topLink" target="_blank"><%= @base_preheader_text %></a>
+								<br class="hideOnMob">
+								<br class="hideOnMob">
+							</td>
+						</tr>
+					</table>
+					<!--[if mso]></td><td width="50%" valign="top"><![endif]-->
+					<table width="300" border="0" cellpadding="0" cellspacing="0" align="right" class="force-row topSection">
+						<tr class="topViewWebPage">
+							<td class="col column2 topSection topViewWebPage" valign="top">
+								<a href="<%= @base_viewaswebpage_link %>" class="topLink" target="_blank"><%= @base_viewaswebpage_text %></a>
+								<br class="hideOnMob">
+								<br class="hideOnMob">
+							</td>
+						</tr>
+					</table>
+					<!--[if mso]></td></tr></table><![endif]-->
+				</td>
+			</tr>
+			<tr><td align="center">
+				<!-- Header -->
+				<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+				    <tr>
+				        <td>
+				            <a href="<%=@base_logo_img_link%>">
+				                <img src="<%=@base_logo_img_url%>" alt="<%=@base_logo_img_alt%>" title="<%=@base_logo_img_alt%>" border="0">
+				            </a>
+				        </td>
+
+				         <td>
+				            <a href="<%=@base_freeshipping_img_link%>">
+				                <img src="<%=@base_freeshipping_img_url%>" alt="<%=@base_freeshipping_img_alt%>" title="<%=@base_freeshipping_img_alt%>" border="0">
+				            </a>
+				        </td>
+
+				        <td>
+				            <a href="<%=@base_instore_img_link%>">
+				                <img src="<%=@base_instore_img_url%>" alt="<%=@base_instore_img_alt%>" title="<%=@base_instore_img_alt%>" border="0">
+				            </a>
+				        </td>
+
+				        <td>
+				            <a href="<%=@base_babyreg_img_link%>">
+				                <img src="<%=@base_babyreg_img_url%>" alt="<%=@base_babyreg_img_alt%>" title="<%=@base_babyreg_img_alt%>" border="0">
+				            </a>
+				        </td>
+				    </tr>
+				</table>
+				<!-- Nav -->
+				<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+				    <tr>
+				        <td>
+				            <a href="<%=@base_nav1_link%>">
+				                <img src="<%=@base_nav1_url%>" alt="<%=@base_nav1_alt%>" title="<%=@base_nav1_alt%>" border="0">
+				            </a>
+				        </td>
+				        <td>
+				            <a href="<%=@base_nav2_link%>">
+				                <img src="<%=@base_nav2_url%>" alt="<%=@base_nav2_alt%>" title="<%=@base_nav2_alt%>" border="0">
+				            </a>
+				        </td>
+				        <td>
+				            <a href="<%=@base_nav3_link%>">
+				                <img src="<%=@base_nav3_url%>" alt="<%=@base_nav3_alt%>" title="<%=@base_nav3_alt%>" border="0">
+				            </a>
+				        </td>
+				    </tr>
+				</table>
+				<!-- Articles -->
+				<% @base_data_file.articles.each do |f| %>
+					<% if f["type"]=="table" %>
+						<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+							<tr>
+								<% f["data"].each do |entry| %>
+								<td>
+						            <a href="<%= entry[2] %>">
+						                <img src="<%= entry[1] %>" alt="<%= entry[5] %>" title="<%= entry[5] %>" border="0">
+						            </a>
+					        	</td>
+								<% end %>
+							</tr>
+						</table>
+					<% end %>
+				<% end %>
+
+					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+			          <!-- Footer nav -->
+
+			          <!-- Social links -->
+			          <tr>
+			            <td valign="top" align="center" class="social-links">
+
+							<table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
+							        <tr>
+						                  <% @base_data_file.socialnav.each do |f| %>
+							                <td>
+						                        <a href="<%= f["link"] %>">
+						                                <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" border="0">
+												</a>
+											</td>
+						                <% end %>
+							        </tr>
+							</table>
+
+			            </td>
+			          </tr>
+					  
+				</table>
+				
+				<!-- Zeta Footer -->
+				<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+				    <tr>
+								<td class="footer">
+									<br/>
+									<br/>ZETA FOOTER GOES HERE
+									<br/>
+								</td>
+				    </tr>
+				</table>
+			</td></tr>
+		</table>
+	</td></tr>
+</table>
