@@ -4,8 +4,10 @@ import pyexcel as p
 from emailBuildClass import emailBuilder
 from PIL import Image
 
+hueBreakpoint = 180
+
 class SPRBuilder(emailBuilder):
-    def __init__(self, crf_file, emailName):
+    def __init__(self, crf_file, source_images, emailName):
         self.projectNamePrefix = "SPR_"
         self.folderPath = "sprichards"
         self.ymlTemplate = "SPR/SPR_Template.yml"
@@ -13,9 +15,10 @@ class SPRBuilder(emailBuilder):
         self.erbTemplateCustom = "SPR/SPR_Template_Custom.erb"
         self.sheetName = 0
         self.altTextColumn = 2
-        self.linkColumn = 14
-        super(SPRBuilder, self).__init__(crf_file, emailName)
+        self.linkColumn = 18
+        super(SPRBuilder, self).__init__(crf_file, source_images, emailName)
         self.customFieldCount = 1
+        self.pageWidth = 0
 
     def setupTemplates(self):
         copyfile(self.ymlTemplate, self.ymlPath)
@@ -29,50 +32,43 @@ class SPRBuilder(emailBuilder):
         self.erbPath = self.erbCustomPath
         self.updateErb()
 
+    def isImageCustomField(self, img):
+        customField = False
 
-    def generateImage(self, *images):
-        articleType = "table"
+        if "Custom" in self.workbook.sheet_names():
+            customSheet = self.workbook.sheet_by_name("Custom")
+            for row in customSheet.rows():
+                if self.cellContainsImage(irow[-1], img):
+                    customField = True
 
-        self.contents.insert(self.insertRow(), "- type: '" + articleType + "'" + self.newLine)
-        data = []
+        return customField
 
-        for img in images:
-            imgData = ['']*6
-            backgroundColor = "#FFFFFF"
-            textColor = "#000000"
+    def addAdditionalFields(self, img, imgData):
 
+        textColor = ""
+        backgroundColor = ""
 
-            if ("$" in str(img)):
-                imgData[0] = "image"
-                img = img.lstrip("$")
-                imgcolors = img.split("#")
-                img = imgcolors[0]
-                if len(imgcolors) > 1 and imgcolors[1].strip() != '':
-                    backgroundColor = "#" + imgcolors[1]
-                if len(imgcolors) > 2 and  imgcolors[2].strip() != '':
-                    textColor = "#" + imgcolors[2]
+        if (self.isImageCustomField(img)):
+            imgData[0] = "text"
+            imgFile = imgFile.convert('RGB')
+            colors = imgFile.getcolors(100000000)
+            colorSingle = imgFile.getpixel((0, 0))
+            if len(colors) > 0:
+                count, backgroundColor = colors[0]
+                if count < 250:
+                    backgroundColor = colorSingle
+                hue = backgroundColor[0] * 0.299 + backgroundColor[1] * 0.587 + backgroundColor[2] * 0.114
+                if (hue) > hueBreakpoint:
+                    textColor = "#000000"
+                else:
+                    textColor = "#FFFFFF"
+                backgroundColor = '#%02x%02x%02x' % backgroundColor
 
-                imgData[0] = "text"
-                imgData.append(backgroundColor.encode('ascii','ignore'))
-                imgData.append(textColor.encode('ascii','ignore'))
-                imgData.append("linetext" + str(self.customFieldCount) + "_CUS")
-                self.customFieldCount = self.customFieldCount + 1
-            else:
-                imgData[0] = "image"
+            imgData.append(backgroundColor.encode('ascii', 'ignore'))
+            imgData.append(textColor.encode('ascii', 'ignore'))
+            imgData.append("linetext" + str(self.customFieldCount) + "_CUS")
+            self.customFieldCount = self.customFieldCount + 1
+        else:
+            imgData[0] = "image"
 
-            row = self.findImageRow(img)
-
-            path, imageName = self.getImageRelativePathAndName(img)
-            imgFile = Image.open(self.imagePath + "/" + imageName)
-            width, height = imgFile.size
-
-            imgData[1] = path + imageName
-            imgData[2] = self.getImageLink(row[self.linkColumn]).encode('ascii','ignore')
-            imgData[3] = width
-            imgData[4] = height
-            imgData[5] = row[self.altTextColumn].encode('ascii','ignore')
-
-            data.append(imgData)
-
-        self.contents.insert(self.insertRow(), "  data: " + str(data) + "" + self.newLine)
-        self.contents.insert(self.insertRow(), self.newLine)
+        return imgData

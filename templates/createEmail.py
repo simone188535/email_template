@@ -14,12 +14,53 @@ from genericEmail import genericEmailBuilder
 reload(sys)
 sys.setdefaultencoding('utf8')
 
+class generateEmail(object):
+    def __init__(self, **kwargs):
+        if "project" in kwargs:
+            project = kwargs["project"]
+        if "crf_file" in kwargs:
+            crf_file = kwargs["crf_file"]
+        if "source_images" in kwargs:
+            source_images = kwargs["source_images"]
+        if "emailName" in kwargs:
+            emailName = kwargs["emailName"]
+
+
+        if str(project).strip() == str(1):
+            builder = bbBBuilder(crf_file, source_images, emailName)
+        elif str(project).strip() == str(2):
+            builder = BLDWeekly(crf_file, source_images, emailName)
+        elif str(project).strip() == str(3):
+            builder = BLDNoHeaderFooter(crf_file, source_images, emailName)
+        elif str(project).strip() == str(4):
+            builder = KFLoyalty(crf_file, source_images, emailName)
+        elif str(project).strip() == str(5):
+            builder = genericEmailBuilder(crf_file, source_images, emailName)
+        elif str(project).strip() == str(6):
+            builder = SPRBuilder(crf_file, source_images, emailName)
+        else:
+            printUsageAndExit()
+
+        for item in [builder.dataPath, builder.sourcePath, builder.imagePath]:
+            if not os.path.exists(item):
+                os.makedirs(item)
+
+        builder.setupTemplates()
+        builder.copySourceFiles(source_images)
+        builder.createEmail()
+
+        subprocess.call("bundle exec middleman build", shell=True)
+        subprocess.call("grunt build", shell=True)
+
+
 projectOptions = "1. BuyBuyBaby\n2. BLD Weekly Email\n3. BLD Simple\n4. KF Loyalty Email\n5. Generic Email\n6. SPR"
+
 
 def printUsageAndExit():
     print("Usage: python createEmail.py <projectNumber> <Name> <CRFFile> [<images directory>]")
     print("Project Number Options:\n" + projectOptions + "\n")
     exit(1)
+
 
 if len(argv) > 1:
     project = argv[1]
@@ -32,34 +73,5 @@ if len(argv) > 1:
             source_images = None
     else:
         printUsageAndExit()
-else:
-    project = raw_input("Select Project:\n" + projectOptions + "\n")
-    emailName = raw_input("Enter Email Name\n")
-    crf_file = raw_input("Enter Full Path to CRF File (Drag and Drop)\n")
-    source_images = raw_input("Enter Full Path to Images Folder (Drag and Drop)\n")
 
-if str(project).strip() == str(1):
-    builder = bbBBuilder(crf_file, emailName)
-elif str(project).strip() == str(2):
-    builder = BLDWeekly(crf_file, emailName)
-elif str(project).strip() == str(3):
-    builder = BLDNoHeaderFooter(crf_file, emailName)
-elif str(project).strip() == str(4):
-    builder = KFLoyalty(crf_file, emailName)
-elif str(project).strip() == str(5):
-    builder = genericEmailBuilder(crf_file, emailName)
-elif str(project).strip() == str(6):
-    builder = SPRBuilder(crf_file, emailName)
-else:
-    printUsageAndExit()
-
-for item in [builder.dataPath, builder.sourcePath, builder.imagePath]:
-    if not os.path.exists(item):
-        os.makedirs(item)
-
-builder.setupTemplates()
-builder.copySourceFiles(source_images)
-builder.createEmail()
-
-subprocess.call("bundle exec middleman build", shell=True)
-subprocess.call("grunt build", shell=True)
+    generateEmail(project=project, crf_file=crf_file, source_images=source_images, emailName=emailName)

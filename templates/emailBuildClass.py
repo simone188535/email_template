@@ -6,6 +6,7 @@ import sys
 import re
 from shutil import copyfile
 from distutils.dir_util import copy_tree
+from PIL import Image
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -13,7 +14,7 @@ sys.setdefaultencoding('utf8')
 
 class emailBuilder(object):
 
-    def __init__(self, crf_file, emailName):
+    def __init__(self, crf_file, source_images, emailName):
         self.projectName = emailName
         self.erbExtension = ".html.erb"
         self.ymlExtension = ".yml"
@@ -27,15 +28,16 @@ class emailBuilder(object):
         self.dataPath =  fullPath + "/data/" + self.folderPath + "/" + self.projectName
         self.sourcePath = fullPath + "/source/" + self.folderPath + "/" + self.projectName
         self.imagePath = self.sourcePath + "/images"
+        self.source_images = source_images
         self.erbPath = self.sourcePath + "/" + self.projectName + self.erbExtension
         self.ymlPath = self.dataPath + "/" + self.projectName + self.ymlExtension
         self.crfFile = crf_file
 
-        self.navBarCount = 1
+        self.maxWidth = 600
         self.newLine = "\n"
-        self.imageFileExtensions = ['.jpg', '.jpeg', '.gif', '.png']
-        self.layoutSheetName = "Layout"
+        self.imageFileExtensions = ['jpg', 'jpeg', 'gif', 'png']
         self.fileContents = ""
+        self.imageList = []
 
     def copySourceFiles(self, source_images):
         if source_images is not None and source_images.strip() != "":
@@ -68,8 +70,6 @@ class emailBuilder(object):
         else:
             self.sheet = self.workbook.sheet_by_name(self.sheetName)
 
-        self.layoutsheet = self.workbook.sheet_by_name(self.layoutSheetName)
-
         outputFile = open(self.ymlPath, "r")
         self.contents = outputFile.readlines()
         outputFile.close()
@@ -94,12 +94,37 @@ class emailBuilder(object):
         match = False
         if data == image:
             match =  True
-        elif ',' in str(data):
+        elif '-' in data:
+            data = self.convertToRange(data)
+
+        if not match and ',' in str(data):
             dataList = str(data).split(',')
             for item in dataList:
-                if item == str(image):
+                for extension in self.imageFileExtensions:
+                    regPattern = re.compile(".*_{}\.{}".format("{:0>2d}".format(int(item)), extension))
+                    if regPattern.match(image) is not None:
+                        match = True
+        elif not match and data.isdigit():
+            for extension in self.imageFileExtensions:
+                regPattern = re.compile(".*_{}\.{}".format("{:0>2d}".format(int(data)), extension))
+                if regPattern.match(image) is not None:
                     match = True
         return match
+
+    def convertToRange(self, data):
+        newData = []
+        dataList = str(data).split(',')
+        for item in dataList:
+            regPattern = re.compile("\d+-\d+")
+            if regPattern.match(item) is not None:
+                min, max = item.split('-')
+                for i in range(int(min),int(max)+1):
+                    newData.append(str(i))
+            else:
+                newData.append(str(item))
+        data = ','.join(newData)
+        return data
+
 
     def findImageRow(self, image):
         row = [''] * 100
@@ -114,55 +139,51 @@ class emailBuilder(object):
         else:
             return cell
 
-    def generateImage(self, *images):
-        if len(images) == 5:
-            type = "image-5-columns"
-        elif len(images) == 4:
-            type = "image-4-columns"
-        elif len(images) == 3:
-            type = "image-3-columns"
-        elif len(images) == 2:
-            type = "image-2-columns"
-        else:
-            type = "image"
+    def addAdditionalFields(self, image, imgData):
+        return imgData
 
-        self.contents.insert(self.insertRow(), "- type: '" + type + "'" + self.newLine)
+    def generateImageTables(self):
+        articleType = "table"
 
-        row1 = self.findImageRow(images[0])
-        path, imageName = self.getImageRelativePathAndName(images[0])
-        self.contents.insert(self.insertRow(), "  img_link: '" + self.getImageLink(row1[self.linkColumn]) + "'" + self.newLine)
-        self.contents.insert(self.insertRow(), "  img_alt: '" + self.encodeText(row1[self.altTextColumn]) + "'" + self.newLine)
-        self.contents.insert(self.insertRow(), "  img_url: '" + path + imageName + "'" + self.newLine)
+        tableWidth = 0
+        tables = []
+        thisTable = []
 
-        if len(images) > 1:
-            row2 = self.findImageRow(images[1])
-            path, imageName = self.getImageRelativePathAndName(images[1])
-            self.contents.insert(self.insertRow(), "  img_2_link: '" + self.getImageLink(row2[self.linkColumn]) + "'" + self.newLine)
-            self.contents.insert(self.insertRow(), "  img_2_alt: '" + self.encodeText(row2[self.altTextColumn]) + "'" + self.newLine)
-            self.contents.insert(self.insertRow(), "  img_2_url: '" + path + imageName + "'" + self.newLine)
+        for image in self.imageList:
+            imgData = ['']*6
 
-        if len(images) > 2:
-            row3 = self.findImageRow(images[2])
-            path, imageName = self.getImageRelativePathAndName(images[2])
-            self.contents.insert(self.insertRow(), "  img_3_link: '" + self.getImageLink(row3[self.linkColumn]) + "'" + self.newLine)
-            self.contents.insert(self.insertRow(), "  img_3_alt: '" + self.encodeText(row3[self.altTextColumn]) + "'" + self.newLine)
-            self.contents.insert(self.insertRow(), "  img_3_url: '" + path + imageName + "'" + self.newLine)
+            imgFile = Image.open(self.imagePath + "/" + image)
 
-        if len(images) > 3:
-            row4 = self.findImageRow(images[3])
-            path, imageName = self.getImageRelativePathAndName(images[3])
-            self.contents.insert(self.insertRow(), "  img_4_link: '" + self.getImageLink(row4[self.linkColumn]) + "'" + self.newLine)
-            self.contents.insert(self.insertRow(), "  img_4_alt: '" + self.encodeText(row4[self.altTextColumn]) + "'" + self.newLine)
-            self.contents.insert(self.insertRow(), "  img_4_url: '" + path + imageName + "'" + self.newLine)
+            row = self.findImageRow(image)
 
-        if len(images) > 4:
-            row5 = self.findImageRow(images[4])
-            path, imageName = self.getImageRelativePathAndName(images[4])
-            self.contents.insert(self.insertRow(), "  img_5_link: '" + self.getImageLink(row5[self.linkColumn]) + "'" + self.newLine)
-            self.contents.insert(self.insertRow(), "  img_5_alt: '" + self.encodeText(row5[self.altTextColumn]) + "'" + self.newLine)
-            self.contents.insert(self.insertRow(), "  img_5_url: '" + path + imageName + "'" + self.newLine)
+            width, height = imgFile.size
+            imgData[1] = "images/" + image
+            imgData[2] = self.getImageLink(row[self.linkColumn]).encode('ascii','ignore')
+            imgData[3] = width
+            imgData[4] = height
+            imgData[5] = row[self.altTextColumn].encode('ascii','ignore')
 
-        self.contents.insert(self.insertRow(), self.newLine)
+            imgData = self.addAdditionalFields(image, imgData)
+
+            tableWidth = tableWidth + width
+
+            if tableWidth <= self.maxWidth:
+                thisTable.append(imgData)
+
+            if tableWidth > self.maxWidth:
+                tables.append(thisTable)
+                thisTable = []
+                thisTable.append(imgData)
+                tableWidth = width
+
+        if len(thisTable) > 0:
+            tables.append(thisTable)
+            thisTable = []
+
+        for table in tables:
+            self.contents.insert(self.insertRow(), "- type: '" + articleType + "'" + self.newLine)
+            self.contents.insert(self.insertRow(), "  data: " + str(table) + "" + self.newLine)
+            self.contents.insert(self.insertRow(), self.newLine)
 
     def getImageRelativePathAndName(self, imageValue):
         imagePath = ""
@@ -185,20 +206,15 @@ class emailBuilder(object):
         return imagePath, imageValue
 
     def generateYmlContent(self):
-        for irow in self.layoutsheet.rows():
-            while '' in irow:
-                irow.remove('')
+        for file in os.listdir(self.source_images):
+            for extension in self.imageFileExtensions:
+                regPattern = re.compile(".*\d+\." + extension)
+                if regPattern.match(file) is not None:
+                    self.imageList.append(file)
 
-            if len(irow) == 1:
-                self.generateImage(irow[0])
-            elif len(irow) == 2:
-                self.generateImage(irow[0], irow[1])
-            elif len(irow) == 3:
-                self.generateImage(irow[0], irow[1], irow[2])
-            elif len(irow) == 4:
-                self.generateImage(irow[0], irow[1], irow[2], irow[3])
-            elif len(irow) == 5:
-                self.generateImage(irow[0], irow[1], irow[2], irow[3], irow[4])
+        self.imageList.sort()
+
+        self.generateImageTables()
 
     def update(self):
         pass

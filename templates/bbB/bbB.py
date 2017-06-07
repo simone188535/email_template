@@ -3,12 +3,14 @@ import pyexcel as p
 from emailBuildClass import emailBuilder
 
 class bbBBuilder(emailBuilder):
-    def __init__(self, crf_file, emailName):
+    def __init__(self, crf_file, source_images, emailName):
         self.projectNamePrefix = "bbB_"
         self.folderPath = "buybuyBaby"
         self.ymlTemplate = "bbB/bbB_Template_05012017.yml"
         self.erbTemplate = "bbB/bbB_Template_05012017.erb"
-        super(bbBBuilder, self).__init__(crf_file, emailName)
+        super(bbBBuilder, self).__init__(crf_file, source_images, emailName)
+        self.imageRows = []
+        self.bodyCounter = 0
 
     def loadData(self):
         copy_tree("bbB/social_images", self.imagePath)
@@ -28,6 +30,15 @@ class bbBBuilder(emailBuilder):
             self.locationColumn = 0
             self.canada = False
         super(bbBBuilder, self).loadData()
+
+    def findImageRow(self, image):
+        if len(self.imageRows) < 1:
+            for irow in self.sheet.rows():
+                if irow[self.locationColumn].strip() == 'Body' and irow[self.linkColumn].strip() != '':
+                    self.imageRows.append(irow)
+        row = self.imageRows[self.bodyCounter]
+        self.bodyCounter = self.bodyCounter + 1
+        return row
 
     def update(self):
         self.updateHeader()

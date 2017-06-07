@@ -125,122 +125,19 @@
 				</table>
 				<!-- Articles -->
 				<% @base_data_file.articles.each do |f| %>
-					<% if f["type"]=="image" %>
-					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
-					    <tr>
-					        <td>
-					            <a href="<%= f["img_link"] %>">
-					                <img src="<%= f["img_url"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" border="0">
-					            </a>
-					        </td>
-					    </tr>
-					</table>
+					<% if f["type"]=="table" %>
+						<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+							<tr>
+								<% f["data"].each do |entry| %>
+								<td>
+						            <a href="<%= entry[2] %>">
+						                <img src="<%= entry[1] %>" alt="<%= entry[5] %>" title="<%= entry[5] %>" border="0">
+						            </a>
+					        	</td>
+								<% end %>
+							</tr>
+						</table>
 					<% end %>
-					<% if f["type"]=="image-2-columns" %>
-					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
-					    <tr>
-					        <td>
-					            <a href="<%= f["img_link"] %>">
-					                <img src="<%= f["img_url"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" border="0">
-					            </a>
-					        </td>
-					        <td>
-					            <a href="<%= f["img_2_link"] %>">
-					                <img src="<%= f["img_2_url"] %>" alt="<%= f["img_2_alt"] %>" title="<%= f["img_2_alt"] %>" border="0">
-					            </a>
-					        </td>
-					    </tr>
-					</table>
-					<% end %>
-
-					<% if f["type"]=="image-3-columns" %>
-					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
-					    <tr>
-					        <td>
-					            <a href="<%= f["img_link"] %>">
-					                <img src="<%= f["img_url"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" border="0">
-					            </a>
-					        </td>
-					        <td>
-					            <a href="<%= f["img_2_link"] %>">
-					                <img src="<%= f["img_2_url"] %>" alt="<%= f["img_2_alt"] %>" title="<%= f["img_2_alt"] %>" border="0">
-					            </a>
-					        </td>
-					        <td>
-					            <a href="<%= f["img_3_link"] %>">
-					                <img src="<%= f["img_3_url"] %>" alt="<%= f["img_3_alt"] %>" title="<%= f["img_3_alt"] %>" border="0">
-					            </a>
-					        </td>
-					    </tr>
-					</table>
-					<% end %>
-
-					
-					<% if f["type"]=="image-4-columns" %>
-					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
-					    <tr>
-					        <td>
-					            <a href="<%= f["img_link"] %>">
-					                <img src="<%= f["img_url"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" border="0">
-					            </a>
-					        </td>
-					        <td>
-					            <a href="<%= f["img_2_link"] %>">
-					                <img src="<%= f["img_2_url"] %>" alt="<%= f["img_2_alt"] %>" title="<%= f["img_2_alt"] %>" border="0">
-					            </a>
-					        </td>
-					        <td>
-					            <a href="<%= f["img_3_link"] %>">
-					                <img src="<%= f["img_3_url"] %>" alt="<%= f["img_3_alt"] %>" title="<%= f["img_3_alt"] %>" border="0">
-					            </a>
-					        </td>
-							<td>
-					            <a href="<%= f["img_4_link"] %>">
-					                <img src="<%= f["img_4_url"] %>" alt="<%= f["img_4_alt"] %>" title="<%= f["img_4_alt"] %>" border="0">
-					            </a>
-					        </td>
-					    </tr>
-					</table>
-					<% end %>
-
-
-
-					<% if f["type"]=="image-5-columns" %>
-					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
-					    <tr>
-					        <td>
-					            <a href="<%= f["img_link"] %>">
-					                <img src="<%= f["img_url"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" border="0">
-					            </a>
-					        </td>
-					        <td>
-					            <a href="<%= f["img_2_link"] %>">
-					                <img src="<%= f["img_2_url"] %>" alt="<%= f["img_2_alt"] %>" title="<%= f["img_2_alt"] %>" border="0">
-					            </a>
-					        </td>
-					        <td>
-					            <a href="<%= f["img_3_link"] %>">
-					                <img src="<%= f["img_3_url"] %>" alt="<%= f["img_3_alt"] %>" title="<%= f["img_3_alt"] %>" border="0">
-					            </a>
-					        </td>
-							<td>
-					            <a href="<%= f["img_4_link"] %>">
-					                <img src="<%= f["img_4_url"] %>" alt="<%= f["img_4_alt"] %>" title="<%= f["img_4_alt"] %>" border="0">
-					            </a>
-					        </td>
-					        <td>
-					            <a href="<%= f["img_5_link"] %>">
-					                <img src="<%= f["img_5_url"] %>" alt="<%= f["img_5_alt"] %>" title="<%= f["img_5_alt"] %>" border="0">
-					            </a>
-					        </td>
-					    </tr>
-					</table>
-					<% end %>
-
-
-
-
-				
 				<% end %>
 
 					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
