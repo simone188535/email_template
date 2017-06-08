@@ -1,0 +1,188 @@
+#TITLE
+title: 'New innovations in baby gear.'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'New innovations in baby gear.'
+preheader_link: 'https://www.buybuybaby.com/store/category/gifts-more/smart-innovations/32701/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE='
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+# - type: 'image-3-columns'
+#   img_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_alt: 'Crisp & clean, you can&#39;t go wrong with stripes!'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_02.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_2_alt: 'go bold what&#39;s Black & White and always in style? Fun, functional baby gear in this on-trend color scheme.'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_03.jpg'
+#   img_3_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_3_alt: 'Black & White looks best when you add bold pops of color!'
+#   img_3_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_04.jpg'
+
+# - type: 'image-2-columns'
+#   img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+#   img_alt: 'savings center'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_13.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+#   img_2_alt: 'strollers'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/evenflo-reg-safemax-all-in-one-car-seat-with-sensorsafe-trade-technology-in-grey/1061167827'
+  img_alt: 'SMART INNOVATIONS a little genius! Smart baby gadgets & gear that help make parenting a little easier. shop now SafeMax All-In-One Car Seat with SensorSafe™ Technology | 299.99 This state-of-the-art car seat reminds parents that baby is in the car when they park FREE SHIPPING'
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/owlet-smart-sock-2/1046938244'
+  img_alt: 'Smart Sock 2 by Owlet Advanced technology tracks your baby&#39;s heart rate & oxygen levels and notifies you if anything is wrong 299.99 FREE SHIPPING'
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/contours-love-3-in-1-baby-carrier-in-black/1061008748'
+  img_alt: 'Love 3-in-1 Carrier by Contours® Front buckles make it quick & easy to get on & off 99.99 FREE SHIPPING'
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/doddle-co-pop-silicone-pacifier/3318852'
+  img_alt: 'Pop Silicone Pacifier by Doddle & Co.™ When dropped, the nipple &#34;pops&#34; into a self-protecting case keeping it clean 9.99 '
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_05.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/doddle-co-pop-silicone-pacifier/3318852'
+  img_alt: 'Pop Silicone Pacifier by Doddle & Co.™ When dropped, the nipple &#34;pops&#34; into a self-protecting case keeping it clean 9.99 '
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_06.jpg'
+  img_2_link: 'http://video.buybuybaby.com/?v=1847788761'
+  img_2_alt: 'watch video'
+  img_2_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_07.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/hatch-baby-rest-sound-machine-with-night-light-in-white/1061239272'
+  img_alt: 'Rest Sound Machine with Night Light by Hatch Baby 59.99 FREE SHIPPING'
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_08.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/project-nursery-reg-giraffe-sound-soother-in-white/1061071421'
+  img_2_alt: 'Giraffe Sound Soother by Project Nursery® 29.99'
+  img_2_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/life-in-play-totesavvy-mini-diaper-bag-insert-in-grey/1060668363'
+  img_alt: 'ToteSavvy Mini Diaper Bag Insert by Life in Play Turns your favorite bag into a diaper bag! 44.99'
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/dapple-reg-32-count-laundry-strips/1060647139'
+  img_alt: '32 ct Laundry Strips by Dapple® Plant based, hypoallergenic, & fragrance free. These laundry strips made laundry a breeze 9.99'
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/cognitoys-dino/1060415653'
+  img_alt: 'Dino An educational companion that will answer questions, tell stories, & much more 99.99 FREE SHIPPING'
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/smart-innovations/32701/'
+  img_alt: 'shop smart innovations'
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_13.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid in contiguous Unites States. '
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_14.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+  img_alt: 'savings center'
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_15.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+  img_2_alt: 'strollers'
+  img_2_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_16.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/32641/'
+  img_alt: 'gifts & more'
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_17.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/category/car-seats/car-seats/32593/'
+  img_2_alt: 'car seats'
+  img_2_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_18.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/category/bath-potty/30003/'
+  img_alt: 'bath & potty'
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_19.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/category/furniture/32609/'
+  img_2_alt: 'baby furniture'
+  img_2_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_20.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/bath-potty/diapers/32539/'
+  img_alt: 'top diapers for every bottom shop diapers'
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_21.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/strolleradvisor'
+  img_alt: 'find the perfect stroller in 3 easy steps start finder'
+  img_url: 'images/bbB_195_061917_SmartInnovations_v1_r5_DEV_22.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_195_061917_SmartInnovations_v1_r5_DEV_23.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_195_061917_SmartInnovations_v1_r5_DEV_24.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_195_061917_SmartInnovations_v1_r5_DEV_25.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_195_061917_SmartInnovations_v1_r5_DEV_26.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_195_061917_SmartInnovations_v1_r5_DEV_27.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_195_061917_SmartInnovations_v1_r5_DEV_28.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_195_061917_SmartInnovations_v1_r5_DEV_29.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
