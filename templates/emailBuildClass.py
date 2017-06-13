@@ -14,8 +14,14 @@ sys.setdefaultencoding('utf8')
 
 class emailBuilder(object):
 
-    def __init__(self, crf_file, source_images, emailName):
-        self.projectName = emailName
+    def __init__(self, **kwargs):
+        if "crf_file" in kwargs:
+            self.crf_file = kwargs["crf_file"]
+        if "source_images" in kwargs:
+            self.source_images = kwargs["source_images"]
+        if "emailName" in kwargs:
+            self.projectName = kwargs["emailName"]
+
         self.erbExtension = ".html.erb"
         self.ymlExtension = ".yml"
 
@@ -27,11 +33,10 @@ class emailBuilder(object):
 
         self.dataPath =  fullPath + "/data/" + self.folderPath + "/" + self.projectName
         self.sourcePath = fullPath + "/source/" + self.folderPath + "/" + self.projectName
+        self.prodPath = fullPath + "/prod/" + self.folderPath + "/" + self.projectName
         self.imagePath = self.sourcePath + "/images"
-        self.source_images = source_images
         self.erbPath = self.sourcePath + "/" + self.projectName + self.erbExtension
         self.ymlPath = self.dataPath + "/" + self.projectName + self.ymlExtension
-        self.crfFile = crf_file
 
         self.maxWidth = 600
         self.newLine = "\n"
@@ -63,7 +68,7 @@ class emailBuilder(object):
         erbFile.close()
 
     def loadData(self):
-        self.workbook = p.get_book(file_name=self.crfFile)
+        self.workbook = p.get_book(file_name=self.crf_file)
 
         if isinstance(self.sheetName, int) or self.sheetName.isdigit():
             self.sheet = self.workbook.sheet_by_index(self.sheetName)
@@ -217,6 +222,9 @@ class emailBuilder(object):
         self.generateImageTables()
 
     def update(self):
+        pass
+
+    def postProcess(self, **kwargs):
         pass
 
     def createEmail(self):

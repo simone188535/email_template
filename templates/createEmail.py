@@ -27,17 +27,17 @@ class generateEmail(object):
 
 
         if str(project).strip() == str(1):
-            builder = bbBBuilder(crf_file, source_images, emailName)
+            builder = bbBBuilder(**kwargs)
         elif str(project).strip() == str(2):
-            builder = BLDWeekly(crf_file, source_images, emailName)
+            builder = BLDWeekly(**kwargs)
         elif str(project).strip() == str(3):
-            builder = BLDNoHeaderFooter(crf_file, source_images, emailName)
+            builder = BLDNoHeaderFooter(**kwargs)
         elif str(project).strip() == str(4):
-            builder = KFLoyalty(crf_file, source_images, emailName)
+            builder = KFLoyalty(**kwargs)
         elif str(project).strip() == str(5):
-            builder = genericEmailBuilder(crf_file, source_images, emailName)
+            builder = genericEmailBuilder(**kwargs)
         elif str(project).strip() == str(6):
-            builder = SPRBuilder(crf_file, source_images, emailName)
+            builder = SPRBuilder(**kwargs)
         else:
             printUsageAndExit()
 
@@ -51,6 +51,8 @@ class generateEmail(object):
 
         subprocess.call("bundle exec middleman build", shell=True)
         subprocess.call("grunt build", shell=True)
+
+        builder.postProcess()
 
 
 projectOptions = "1. BuyBuyBaby\n2. BLD Weekly Email\n3. BLD Simple\n4. KF Loyalty Email\n5. Generic Email\n6. SPR"

@@ -7,7 +7,7 @@ from PIL import Image
 hueBreakpoint = 180
 
 class SPRBuilder(emailBuilder):
-    def __init__(self, crf_file, source_images, emailName):
+    def __init__(self, **kwargs):
         self.projectNamePrefix = "SPR_"
         self.folderPath = "sprichards"
         self.ymlTemplate = "SPR/SPR_Template.yml"
@@ -16,9 +16,10 @@ class SPRBuilder(emailBuilder):
         self.sheetName = 0
         self.altTextColumn = 2
         self.linkColumn = 18
-        super(SPRBuilder, self).__init__(crf_file, source_images, emailName)
+        super(SPRBuilder, self).__init__(**kwargs)
         self.customFieldCount = 1
         self.pageWidth = 0
+        self.customSheet = None
 
     def setupTemplates(self):
         copyfile(self.ymlTemplate, self.ymlPath)
@@ -35,11 +36,14 @@ class SPRBuilder(emailBuilder):
     def isImageCustomField(self, img):
         customField = False
 
-        if "Custom" in self.workbook.sheet_names():
-            customSheet = self.workbook.sheet_by_name("Custom")
+        if self.customSheet is None and "Custom" in self.workbook.sheet_names():
+            self.customSheet = self.workbook.sheet_by_name("Custom")
+
+        if self.customSheet is not None:
             for row in customSheet.rows():
-                if self.cellContainsImage(irow[-1], img):
-                    customField = True
+                for value in row:
+                    if self.cellContainsImage(value, img):
+                        customField = True
 
         return customField
 

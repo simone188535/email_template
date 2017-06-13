@@ -96,7 +96,7 @@ class BLDBase(emailBuilder):
                 self.generateImage(irow[0], irow[1], irow[2], irow[3], irow[4])
 
 class BLDNoHeaderFooter(BLDBase):
-    def __init__(self, crf_file, source_images, emailName):
+    def __init__(self, **kwargs):
         self.projectNamePrefix = "BLD_"
         self.folderPath = "balduccis"
         self.ymlTemplate = "BLD/BLD_Template_Weekly_Email_053017.yml"
@@ -105,10 +105,10 @@ class BLDNoHeaderFooter(BLDBase):
         self.sheetName = 0
         self.altTextColumn = 2
         self.linkColumn = 5
-        super(BLDNoHeaderFooter, self).__init__(crf_file, source_images, emailName)
+        super(BLDNoHeaderFooter, self).__init__(**kwargs)
 
 class BLDWeekly(BLDBase):
-    def __init__(self, crf_file, source_images, emailName):
+    def __init__(self, **kwargs):
         self.projectNamePrefix = "BLD_"
         self.folderPath = "balduccis"
         self.ymlTemplate = "BLD/BLD_Template_Weekly_Email_053017.yml"
@@ -117,4 +117,4 @@ class BLDWeekly(BLDBase):
         self.sheetName = 0
         self.altTextColumn = 2
         self.linkColumn = 5
-        super(BLDWeekly, self).__init__(crf_file, source_images, emailName)
+        super(BLDWeekly, self).__init__(**kwargs)

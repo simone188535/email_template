@@ -3,12 +3,12 @@ import pyexcel as p
 from emailBuildClass import emailBuilder
 
 class bbBBuilder(emailBuilder):
-    def __init__(self, crf_file, source_images, emailName):
+    def __init__(self, **kwargs):
         self.projectNamePrefix = "bbB_"
         self.folderPath = "buybuyBaby"
         self.ymlTemplate = "bbB/bbB_Template_05012017.yml"
         self.erbTemplate = "bbB/bbB_Template_05012017.erb"
-        super(bbBBuilder, self).__init__(crf_file, source_images, emailName)
+        super(bbBBuilder, self).__init__(**kwargs)
         self.imageRows = []
         self.bodyCounter = 0
 
