@@ -1,0 +1,157 @@
+title: 'Shop Gerber® Organics'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_Logo_CA.jpg"
+logo_img_alt: "buybuy Canada Baby Logo"
+logo_img_link: "http://www.buybuybaby.ca/store?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer"
+
+freeshipping_img_url: "images/bbB_emailheader_FreeShipping_CA.jpg"
+freeshipping_img_alt: "free shipping on orders over $49 Get Details   "
+freeshipping_img_link: "http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer"
+
+instore_img_url: "images/bbB_emailheader_InStore_CA.jpg"
+instore_img_alt: "In-store pickup reserve online pay in-store Learn More"
+instore_img_link: "http://www.bedbathandbeyond.ca/store/static/reserveonline?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer"
+
+babyreg_img_url: "images/bbB_emailheader_RegistryLogo_CA.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer"
+
+nav1_url: "images/bbB_emailheader_NAV1_CA.jpg"
+nav1_alt: "baby nursery"
+nav1_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/22927?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer"
+
+nav2_url: "images/bbB_emailheader_NAV2_CA.jpg"
+nav2_alt: "nursing & nursing-feeding"
+nav2_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/22936/?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer"
+
+nav3_url: "images/bbB_emailheader_NAV3_CA.jpg"
+nav3_alt: "bath & Potty"
+nav3_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Shop Gerber® Organics'
+preheader_link: 'https://www.bedbathandbeyond.ca/store/s/gerber-organic?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE=H?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+# - type: 'image-3-columns'
+#   img_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_alt: 'Crisp & clean, you can&#39;t go wrong with stripes!'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_02.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_2_alt: 'go bold what&#39;s Black & White and always in style? Fun, functional baby gear in this on-trend color scheme.'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_03.jpg'
+#   img_3_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_3_alt: 'Black & White looks best when you add bold pops of color!'
+#   img_3_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_04.jpg'
+
+# - type: 'image-2-columns'
+#   img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+#   img_alt: 'savings center'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_13.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+#   img_2_alt: 'strollers'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/gerber-organic?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+  img_alt: 'Gerber® Organic Dress your little one in comfy styles made from 100% organic cotton. shop now '
+  img_url: 'images/bbB_198_062117_GerberOrganics_CANADA_v1_r2_DEV_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/gerber-3-pc-set-bodysuit-pant?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+  img_alt: '3pc Bodysuit, Pant, & Cap Set | 19.99 each Newborn-9M'
+  img_url: 'images/bbB_198_062117_GerberOrganics_CANADA_v1_r2_DEV_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/gerber-3-pack-bodysuits?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+  img_alt: '3-Pack Onesie® Bodysuits | 17.99 each Newborn-9M'
+  img_url: 'images/bbB_198_062117_GerberOrganics_CANADA_v1_r2_DEV_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/gerber-take-me-home-set?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+  img_alt: '3pc Take Me Home Set | 19.99 each Preemie-3M'
+  img_url: 'images/bbB_198_062117_GerberOrganics_CANADA_v1_r2_DEV_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/gerber-4-piece-cap-and-mitten-set?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+  img_alt: '4pc Cotton Cap & Mitt Set | 13.99 each Set includes 2 caps & 2 pairs of mittens'
+  img_url: 'images/bbB_198_062117_GerberOrganics_CANADA_v1_r2_DEV_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/gerber-reg-preemie-2-pack-footie-pajamas/1061115842?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+  img_alt: '2-Pack Sleep &#39;n Play | 19.99 each Preemie-9M'
+  img_url: 'images/bbB_198_062117_GerberOrganics_CANADA_v1_r2_DEV_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/gerber-3pc-cotton-bib-burp-set-organic?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+  img_alt: '3pc Cotton Bib & Burp Set | 13.99 each'
+  img_url: 'images/bbB_198_062117_GerberOrganics_CANADA_v1_r2_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/gerber-organic-cotton-reversible-receiving-blanket?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+  img_alt: 'Cotton Reversible Receiving Blanket | 17.99 each'
+  img_url: 'images/bbB_198_062117_GerberOrganics_CANADA_v1_r2_DEV_15.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/gerber-organic?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+  img_alt: 'shop Gerber®'
+  img_url: 'images/bbB_198_062117_GerberOrganics_CANADA_v1_r2_DEV_16.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+  img_alt: 'You can purchase any of these items at buybuybaby.ca, order in any of our stores or use our find in-store option for easy pick-up.'
+  img_url: 'images/bbB_198_062117_GerberOrganics_CANADA_v1_r2_DEV_17.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/water-toys/4294967217-4294967218-22970/1-96?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+  img_alt: 'splish splash play! Shop water toys'
+  img_url: 'images/bbB_198_062117_GerberOrganics_CANADA_v1_r2_DEV_18.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/baby-gifts/smart-innovations/23750/?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+  img_alt: 'SMART INNOVATION shop now'
+  img_url: 'images/bbB_198_062117_GerberOrganics_CANADA_v1_r2_DEV_19.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/static/carseatadvisor/?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+  img_alt: 'find your next car seat in 2 easy steps start finder'
+  img_url: 'images/bbB_198_062117_GerberOrganics_CANADA_v1_r2_DEV_20.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailSocial_LeftMargin.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailSocial_FB.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailSocial_Twitter.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailSocial_Pinterest.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailSocial_YT.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailSocial_Instagram.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_emailSocial_RightMargin.jpg"
+  alt: ""
+
+footer_ViewMap: ''
+footer_FindAnotherLocation: ''
+footer_subscribehere: 'https://app.buybuybaby.ca/prefsca/dual/pref.cfm?wrap=n&?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+footer_updateyouremailpreferences: 'https://app.buybuybaby.ca/prefsca/dual/unsub.cfm?i=babyca&wrap=n?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+footer_contactushere: 'http://www.bedbathandbeyond.ca/store/selfservice/ContactUs?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
+footer_PrivacyPolicy: 'http://www.bedbathandbeyond.ca/store/static/PrivacyPolicy?mcid=EM_promobbBCAN_201707_GerberOrganics_NoOffer'
