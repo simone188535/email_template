@@ -1,0 +1,168 @@
+title: 'TBD'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8821530-b079-427c-96b1-2d07abf11d05.jpg?ver=1495479649000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+#- type: "image"
+#  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d0bb8e77-08e9-4856-8db5-56d72fbecddb.jpg?ver=1495479650000"
+#  img_alt: "RED, WHITE AND BBQ | Kick off the summer with a little relaxation and a lot of delicious food!"
+#  img_link: "https://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty"
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'WELL DONE, DAD! Celebrate the man of the hour with food and fun! HOW TO PREPARE COWBOY STEAKVIEW RECIPE>'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b9c4d3a8-fb78-45b6-96bd-fe071aed3be5.jpg?ver=1497304966000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'MARKET SPECIALS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c01ab441-15bd-45b1-9f76-1d8fdf9dde40.jpg?ver=1497376723000'
+
+- type: 'image-2-columns'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'SAVE up to $1.50 lb. KINGS USDA PRIME AGED CERTIFIED ANGUS GROUND BEEF OR PATTIES 6.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/339c7a2e-0ffd-4fb7-991a-18a70e275fea.jpg?ver=1497376723000'
+  img_2_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_2_alt: 'SAVE $4 lb. WILD CAUGHT SWORDFISH STEAK19.99 LB.'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8c249f33-84c3-4a7c-9424-c4d22859ff05.jpg?ver=1497376723000'
+
+- type: 'image-2-columns'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'SAVE $5 lb.NEW! NORWEGIAN SNOW CRAB LEGS 14.99 LB. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bf9922af-8c4f-426d-8f6f-d80017c08916.jpg?ver=1497376723000'
+  img_2_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_2_alt: 'SAVE $1 8&#34; LEMON MERINGUE PIE7.99 EA.'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e5d86795-7640-4098-a9e8-12571d8a4550.jpg?ver=1497376724000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'VIEW WEEKLY SPECIALS >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e3086a6c-79ff-4107-a74d-537ad56a8c78.jpg?ver=1497376724000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'Not a Member Yet? See Store for Details | View More Specials and Make a List | VIEW HOBOKEN MARKET SPECIALS | Earn 1 point for every qualifying dollar | Receive a $5 reward delivered to your card for every 300 points'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e3ae6027-49e3-4ddf-8cbc-91627704fc9b.jpg?ver=1497376724000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'KABOB-O-RAMA | PICK UP THESE READY-TO-GO FAVORITES IN STORE! '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/96506a6b-5b45-4623-bb03-8c13fa16ee69.jpg?ver=1497304968000'
+
+- type: 'image-3-columns'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'KINGS BEEF, PORK OR CHICKEN KABOBS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5847803e-2543-4486-9791-f3ae0628c977.jpg?ver=1497304968000'
+  img_2_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_2_alt: 'VEGGIE KABOBS'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1a9b2a14-6dad-4d0a-9e2a-8639f88d362d.jpg?ver=1497304969000'
+  img_3_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_3_alt: 'KINGS CHEF INSPIRED LEMON GARLIC SHRIMP SKEWER'
+  img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7deb4765-d963-4725-9544-cc0aff10406e.jpg?ver=1497304969000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'VIEW MORE>'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/31204856-f435-4728-be6b-08cfb95c194d.jpg?ver=1497304969000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'GRAB &amp; GO | CHEF PREPARED '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/63e966c7-6c70-42ac-ad7d-0c651f18c910.jpg?ver=1497304969000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'Our Chef Prepared dishes let you spend more time with dad and less time in the kitchen. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ebd8187b-8065-43d9-af71-b803999eab26.jpg?ver=1497304969000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: '• KINGS CHEF INSPIRED BBQ PORK SPARE RIBS • KINGS CHEF INSPIRED TRI-COLORED SALAD WITH BALSAMIC • BROTHER JIMMY&#39;S BBQ PULLED PORK '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/035ef3f2-2281-4ff3-a621-60a4c9bd2b99.jpg?ver=1497304970000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'VIEW MORE CHEF PREPARED >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e15b5b10-a55f-47fd-b273-c6d25eecdb66.jpg?ver=1497304970000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'FATHER&#39;S DAY FEAST CATERING '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/782a8e90-e188-4827-a980-763bbdec47f5.jpg?ver=1497304970000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'The way to dad&#39;s heart is througH his stomach. Treat him to a CHEF PREPARED CATERED MEAL. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4db69e27-c24b-4b9e-84d3-22c92e516b72.jpg?ver=1497304971000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'VIEW MENU>'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8e4cb22e-4c7f-4a5f-977d-2c2b9c73bafe.jpg?ver=1497304971000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'RECIPES FOR DAD&#39;S DAY'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/76d00e32-2911-452e-8f71-734230a26f60.jpg?ver=1497304971000'
+
+- type: 'image-2-columns'
+  img_link: 'http://kingsfoodmarkets.com/unique-recipes/grilled-rib-eye-steak-and-grilled-lobster-tails-served-with-balsamic-glaze?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'GRILLED RIB-EYE STEAK AND LOBSTER TAILS VIEW RECIPE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fb15aee4-acfa-42a2-9534-df8c882381fb.jpg?ver=1497304971000'
+  img_2_link: 'http://kingsfoodmarkets.com/unique-recipes/pan-seared-pork-chops-featuring-kings-sweet-bourbon-sauce?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_2_alt: 'PAN SEARED PORK CHOPS FEATURING KINGS SWEET BOURBON SAUCEVIEW RECIPE '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/67045970-32cf-4173-b8d2-940489af3a58.jpg?ver=1497304972000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'WHAT&#39;S NEW IN STORE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/96beae2a-1982-4fb6-87d4-7c5301811187.jpg?ver=1497304972000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_KF_WeeklyEmail_Loyalty'
+  img_alt: 'SUCCULENTS IN DESIGNER POTS Lovely and low maintenance, succulents in designer pots make a perfect gift! LEARN MORE >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/377b6cda-21b3-4f68-8eda-9949753204e5.jpg?ver=1497304972000'
+

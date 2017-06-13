@@ -1,0 +1,109 @@
+title: 'Save $10/lb. on Beef Tenderloin Steaks'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+#- type: 'image'
+#  img_link: 'https://vimeo.com/167304429'
+#  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+#  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2a137c1-f1e7-4b25-b783-2330047913ee.jpg?ver=1484168397000'
+#   img_alt: 'Tex Mex Platter'
+#   img_link_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+#   img_url_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/471eb689-d0f8-4522-8d42-e056b4656dbf.jpg?ver=1484168397000'
+#   img_alt_2: 'Buffalo Chicken Wings'
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Balducci&#39;s® Food Lover&#39;s Market™ This Week&#39;s Picks in Rye Brook '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d1265139-0bdc-49a1-87c7-e51666511b4f.jpg?ver=1496855798000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+  img_alt: 'BUY ONE Rotisserie Chicken GET ONE Pre-Packed Green Salad 50% OFF! | Meat &amp; Seafood Valid 6/9/17 - 6/15/17 '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/55b0f892-23ca-4162-be6b-693a371b59a9.jpg?ver=1496855798000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 10.00 |USDA Prime Natural Beef Tenderloin Steaks | You Pay 29.99 LB. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/83b6d0c7-3bab-4acb-ae6b-7347068bdfa2.jpg?ver=1496855799000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 3.00 | Organic Bell &amp; Evans Fresh Chicken Breasts | You Pay 8.99 LB. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ced5fa22-d73e-4d27-b3e7-012771ccee43.jpg?ver=1496855799000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+  img_alt: 'NEW! 5.99 SUSHI WEDNESDAYS | Choose from California, Salmon Avocado, Spicy Tuna, or Tuna Avocado Rolls | Get a FREE Green Tea when you buy any Sushi Nigiri Box | Offer valid until 5PM only'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0eafc47b-ba63-4c73-8775-08579bd4b139.jpg?ver=1496855800000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 4.00 | Wild Caught Key West Pink Shrimp 1LB Bag | You Pay 16.99 EA. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7eb9c9bf-c511-4116-9df6-c896fe29619e.jpg?ver=1496855800000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Cheese Savings Valid 6/9/17 - 6/15/17  | Save 5.00 | Parmigiano Reggiano | You Pay 15.99 LB. | Grated, Shaved, or Shredded | 17.99 LB. | Save 5.00 | Parmigiano Reggiano | You Pay 15.99 LB. | Grated, Shaved, or Shredded | 17.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e82260c8-c8c0-49a9-9d00-8104abbfa607.jpg?ver=1496855800000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+  img_alt: 'RYE BROOK FOOD LOVE FEST | FATHER&#39;S DAY MUST-HAVES | Get ready to celebrate Dad with our favorites for the grill, from our prime meats, exceptional seafood and perfect produce…and don&#39;t forget dessert! | Join us for Tastings, SAT &amp; SUN • 6/10-6/11 | 11am - 4pm | Produce, Bakery &amp; More! Valid 6/9/17 - 6/15/17   | '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9de4c938-910f-4a4a-962c-02f71536c92e.jpg?ver=1496855801000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 2.00 | Tomatoes on the Vine | You Pay 1.99 LB | Save 2.98 on 2 | Pint Blueberries | You Pay 2/7.00'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/48cbd595-5fe7-46d2-89e0-f4378d7014b7.jpg?ver=1496855801000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 2.00 | Balducci&#39;s Classic Pound Cake | You Pay 5.99 EA. | Save 1.00 | Ice Cream Cone Hydrangea | You Pay 11.99 EA.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/19f6e24f-6fa8-4db0-9a93-abc884352dc4.jpg?ver=1496855801000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 1.00 | Balducci&#39;s Water 24pk | All Varieties, 405.6 fl. oz. | You Pay 4.99 EA | Save 3.78 on 2 | Maille Mustard | Assorted Varieties, 7-9 oz. | You Pay 2/5.00'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7a6b2420-7eee-4840-a569-2c0dc4912702.jpg?ver=1496855802000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 2.00 | Bark Thins Chocolate | 4.7 oz. | You Pay 2.99 EA | Save 3.98 on 2 | Eggland&#39;s Best Cage Free Dozen Eggs |  You Pay 2/6.00 | 144 S. Ridge St. | In the Rye Ridge Shopping Center | www.balduccis.com/ryebrook'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/77eb65da-9b5e-49e7-b74b-9c122ea14f8c.jpg?ver=1496855802000'
+
+
