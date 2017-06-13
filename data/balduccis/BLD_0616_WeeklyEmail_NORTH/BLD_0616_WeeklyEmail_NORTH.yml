@@ -1,0 +1,136 @@
+title: 'Dad &#10084; &#39;s Food. We can help with that! '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d8122738-33f3-4181-98ac-dbaf90d937ba.jpg?ver=1497373079000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43ada965-5b9f-4e25-8fa1-be0734094fd5.jpg?ver=1497373079000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1ff67d4-42f0-40dc-86e1-338f5f3a59b7.jpg?ver=1497373080000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+#- type: 'image'
+#  img_link: 'https://vimeo.com/167304429'
+#  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+#  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'GOURMET REWARDS CLUB'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/da11e961-e3a7-4f56-9dce-225f046f962c.jpg?ver=1496764390000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'SHOW DAD SOME LOVE THIS FATHER&#39;S DAY| Create BEEF BURGERS WITH GRILLED ONIONS & HERBED MASCARPONE| VIEW RECIPE >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f6e6b3ad-6431-4750-a547-9e57c8be4b5e.jpg?ver=1497373076000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'FOR THE BURGER CONNOISSEUR'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f6755f81-080c-4dc2-b44e-2799ef66ade4.jpg?ver=1497373076000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'OUR FINEST MEATS Ground Fresh Today| CUSTOM BURGERS, MADE FRESH IN-STORE | Ground freshly daily, our 100% USDA Prime Certified Beef is seasoned to perfection and formed into burgers by our butchers.  Just grab and grill. CHEDDAR CHEESE & BACON| PETER LUGAR STEAK SAUCE & GREEN ONIONS | CRUMBLED BLEU CHEESE | SWISS CHEESE & MUSHROOMS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6843a862-884d-4345-aabe-1232b6437513.jpg?ver=1497373076000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'CATERING | WE BRING THE BBQ TO YOU'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c460bd59-dd21-4649-ac55-e0f201964530.jpg?ver=1497373076000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'A Dad&#39;s Day BBQ Feast | Nothing says Father&#39;s Day like a slow-roasted and smoked to perfection Summer BBQ.  Let us do the work while you celebrate with Dad! ORDER NOW >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/414d1243-093f-4937-ab7d-1cfc86511afc.jpg?ver=1497373077000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'GRILL MASTER MUST-HAVES'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c17ef533-6bc0-4ee2-9394-0ef246d93759.jpg?ver=1497373077000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'BONE SUCKIN&#39; SAUCE SEASONING & RUB'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d94f0b9c-56a3-4a11-9b52-412343e35c09.jpg?ver=1497373077000'
+  
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'BALDUCCI&#39;S STORE-MADE NATURAL BEEF OR CHICKEN SATAY SKEWERS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b8c4688b-d675-48b0-8c26-f3cf31631795.jpg?ver=1497373078000'
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_2_alt: 'STUFFED CLAMS CASINO| AVAILABLE IN THE SEAFOOD DEPT.'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/020866f6-e048-46ba-918b-dbffc0580dd2.jpg?ver=1497373078000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'CHEF PREPARED | GRAB & GO SIDES'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ce65bd38-4106-481c-b19c-06a6972dca48.jpg?ver=1497373078000'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'GRILLED CHICKEN & PINEAPPLE SKEWERS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/577b4ab6-3314-4cc6-900c-ca944b382902.jpg?ver=1497373078000'
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_2_alt: 'BLUEGRASS SLAW '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2593075a-ed9e-4dc3-bdf3-2b6ad9a07063.jpg?ver=1497373078000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'SPIRITED GIFTS | DRINK IDEAS FOR DAD'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e6fcd767-ee7b-4f54-b799-0d6e88fa7c86.jpg?ver=1497373078000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'ALAIN JAUME GRAND VENEUR RESERVE COTES DU RHONE | PAIR WITH BLUE CHEESE CRUSTED RIBEYE. BALDUCCI&#39;S CHARDONNAY | PAIR WITH HALIBUT, OLIVES & CAPERS | * Only at Balducci&#39;s Greenwich, Bethesda, Alexandria & McLean '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/83587199-8c90-42f3-af7a-2f11606c85d6.jpg?ver=1497373079000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'STIRRINGS COCKTAIL MIXERS| Stock Dad&#39;s bar with tasty all-natural mixers and drink rimmers. STONE IPA 6-ACK | This crisp, extra happy brew will be a hit for Father&#39;s Day. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cf531b30-3fab-440e-867f-06beec574020.jpg?ver=1497373079000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'MARK YOUR CALENDAR'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/29f94db5-7209-4874-a849-ec906d7a8e5d.jpg?ver=1497373079000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0616_BLD_Weekly_Email_NORTH'
+  img_alt: 'RYE BROOK FOOD LOVE FEST| Rye Brook In-Store Tasting Events The Grand Opening celebration continues with new tastings every weekend. SAT &  SUN, JUNE 17-18Food Samplings……..11am-4pm VIEW CALENDAR>'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c6c950af-5871-4075-8d36-c590359ce2fc.jpg?ver=1497373079000'
+
+
+
