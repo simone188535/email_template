@@ -1,0 +1,109 @@
+title: 'Treat Dad to an Exclusive Wine Tasting! '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+#- type: 'image'
+#  img_link: 'https://vimeo.com/167304429'
+#  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+#  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2a137c1-f1e7-4b25-b783-2330047913ee.jpg?ver=1484168397000'
+#   img_alt: 'Tex Mex Platter'
+#   img_link_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+#   img_url_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/471eb689-d0f8-4522-8d42-e056b4656dbf.jpg?ver=1484168397000'
+#   img_alt_2: 'Buffalo Chicken Wings'
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'Wine Newsletter June 2017'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c75ac2dc-f1a1-4f18-b6b7-3740a8a699fd.jpg?ver=1497471675000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'FATHER&#39;S DAY WEEKEND WINE &amp; FOOD EVENT SATURDAY, JUNE 17TH Food Tasting:  12pm-5pm Wine Tasting: 2pm-5pm '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4ca365d7-638b-42f2-9ef2-f3c1d224ae99.jpg?ver=1497472215000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'FEATURING• Father&#39;s Day Wines • Wines for the Patio, Beach and Poolside! • Rosé Wines • Extreme Value Wines! '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1b95407a-4e6d-4a4e-a849-3ca52f1170c5.jpg?ver=1497472216000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'MUST HAVE WINES '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/94160f7a-0f5c-40a6-95c7-4a9494d40b3a.jpg?ver=1497472216000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'The wines of summer are here! Juicy, vibrant reds for fire-grilled steaks; crisp and bright whites for seafood and salads – don’t miss these must have wines.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4f310222-4b4e-46c9-9af9-fbcf028ad8f9.jpg?ver=1497472216000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'Michel Gassier Cercius Blanc 2015$14.99/BTLStraw yellow with soft green highlights. Very aromatic, predominantly aromas of citrus, flowers, and flint. Medium bodied and crisp, pairs well with roasted monkfish, paprika grilled game hen, and goat cheeses.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/875a0a76-ed0a-4be0-b65c-9d6352efcb9b.jpg?ver=1497472217000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'Novellum Chardonnay 2015$15.99/BTL &#34;Tasting like it cost three times the price, it offers lots of orchard fruits, white peach, honeysuckle and a hint of vanilla to go with a crisp, yet still textured and mouth-filling style on the palate.&#34;-Robert Parker 90pts. Pair with cured meats and cheeses'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/12965cb3-0aac-4f7d-aba5-26e189c78f46.jpg?ver=1497472217000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'Lafage Tessellae Old Vines GSM 2014$15.99/BTL&#34;A blend of 50% Grenache, 40% Syrah and 10% Mourvedre, all aged in concrete. A delicious, dense ruby wine with notes of red and black cherries, earth, spice, pepper and a touch of Provençal garrigue.&#34;-Robert Parker 90pts.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e00589b4-3877-4290-9c3e-83e158528c76.jpg?ver=1497472217000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'Herencia Altes Garnatxa Blanca 2015$12.99/BTLVery aromatic with notes of melon and white fruits on nose. On the palate it is balanced with a medium body and a nice crisp freshness.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7956fbc2-9a22-4e84-9754-f539186427ae.jpg?ver=1497472218000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'Let’s talk Cinsault Rosé'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f3df8e27-3265-4878-a23a-785943dc4df4.jpg?ver=1497472218000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+  img_alt: '&#34;Summer fare is made for Rosé wines. The Rosé version of Cinsault is simply beautiful and refreshing, showcasing a range of color from light salmon to dark raspberry red with aromas and flavors of cherry, watermelon and strawberry. This versatile wine is a perfect match for cooked shellfish and grilled meats.&#34; -John Coleman, Balducci’s Wine Merchant'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05833a5f-5e17-4ee3-9daa-ac6de5c22287.jpg?ver=1497472218000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0615_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'Le Petit Balthazar Cinsault Rosé 2016$9.99/BTL Top Pick &#34;This delightful, inexpensive rosé is a tremendous value vintage after vintage. It features flavors of tart melons, orange peel and bitter herbs. With just a little imagination, you might even taste sunshine. Enjoy this by itself or with spicy, garlicky foods.&#34; -The Washington Post'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c3845d15-7353-4433-b813-29c6caa642c7.jpg?ver=1497472219000'
+
+
