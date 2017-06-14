@@ -15,7 +15,7 @@ class bbBBuilder(emailBuilder):
     def loadData(self):
         copy_tree("bbB/social_images", self.imagePath)
 
-        if "CANADA" in self.crfFile.upper():
+        if "CANADA" in self.crf_file.upper():
             copy_tree("bbB/CA_images", self.imagePath)
             self.sheetName = "ASF"
             self.altTextColumn = 2
