@@ -1,6 +1,8 @@
 from distutils.dir_util import copy_tree
 import pyexcel as p
 from emailBuildClass import emailBuilder
+import mailChimp
+import os
 
 class bbBBuilder(emailBuilder):
     def __init__(self, **kwargs):
@@ -100,3 +102,16 @@ class bbBBuilder(emailBuilder):
             self.fileContents = self.fileContents.replace("__NAV3_IMAGE__", "bbB_emailheader_NAV3.jpg")
 
         return self.fileContents
+
+    def postProcess(self, **kwargs):
+        for irow in self.sheet.rows():
+            if irow[self.locationColumn].strip() == 'Sub-header' and irow[self.altTextColumn].strip() != '':
+                subject_line = irow[self.altTextColumn]
+                break
+
+
+        #recipients = ["richard.hines@purered.net"]
+        recipients = ["110215SPR@litmustest.com", "devpurered.runme@previews.emailonacid.com", "qa@purered.net"]
+
+        if os.path.isfile("{}/{}.html".format(self.prodPath, self.projectName)):
+            mailChimp.upload(self.prodPath, self.projectName, subject_line, "dev@purered.net", "Pure Red", recipients)
