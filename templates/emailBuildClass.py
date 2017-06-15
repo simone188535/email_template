@@ -96,14 +96,15 @@ class emailBuilder(object):
         return cell
 
     def cellContainsImage(self, data, image):
+        data = str(data)
         match = False
         if data == image:
             match =  True
         elif '-' in data:
             data = self.convertToRange(data)
 
-        if not match and ',' in str(data):
-            dataList = str(data).split(',')
+        if not match and ',' in data:
+            dataList = data.split(',')
             for item in dataList:
                 for extension in self.imageFileExtensions:
                     regPattern = re.compile(".*_{}\.{}".format("{:0>2d}".format(int(item)), extension))
@@ -168,6 +169,7 @@ class emailBuilder(object):
             imgData[4] = height
             imgData[5] = row[self.altTextColumn].encode('ascii','ignore')
 
+            #imgFile.close()
             imgData = self.addAdditionalFields(image, imgData)
 
             tableWidth = tableWidth + width

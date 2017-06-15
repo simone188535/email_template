@@ -14,12 +14,25 @@ class SPRBuilder(emailBuilder):
         self.erbTemplateAuto = "SPR/SPR_Template_Auto.erb"
         self.erbTemplateCustom = "SPR/SPR_Template_Custom.erb"
         self.sheetName = 0
-        self.altTextColumn = 2
-        self.linkColumn = 18
+        self.altTextColumn = "Full Sku"
+        self.linkColumn = "CONCATENATE"
         super(SPRBuilder, self).__init__(**kwargs)
         self.customFieldCount = 1
-        self.pageWidth = 0
         self.customSheet = None
+        self.maxWidth = 580
+
+    def loadData(self):
+        super(SPRBuilder, self).loadData()
+        headerrow = self.sheet.row[0]
+        foundAltText = False
+        foundLink = False
+        for row in headerrow:
+            if not foundAltText and row.strip().upper() == self.altTextColumn.upper():
+                self.altTextColumn = headerrow.index(row)
+                foundAltText = True
+            elif not foundLink and row.strip().upper() == self.linkColumn.upper():
+                self.linkColumn = headerrow.index(row)
+                foundLink = True
 
     def setupTemplates(self):
         copyfile(self.ymlTemplate, self.ymlPath)
@@ -40,20 +53,21 @@ class SPRBuilder(emailBuilder):
             self.customSheet = self.workbook.sheet_by_name("Custom")
 
         if self.customSheet is not None:
-            for row in customSheet.rows():
+            for row in self.customSheet.rows():
                 for value in row:
                     if self.cellContainsImage(value, img):
                         customField = True
 
         return customField
 
-    def addAdditionalFields(self, img, imgData):
+    def addAdditionalFields(self, image, imgData):
 
         textColor = ""
         backgroundColor = ""
 
-        if (self.isImageCustomField(img)):
+        if (self.isImageCustomField(image)):
             imgData[0] = "text"
+            imgFile = Image.open(self.imagePath + "/" + image)
             imgFile = imgFile.convert('RGB')
             colors = imgFile.getcolors(100000000)
             colorSingle = imgFile.getpixel((0, 0))
@@ -74,5 +88,8 @@ class SPRBuilder(emailBuilder):
             self.customFieldCount = self.customFieldCount + 1
         else:
             imgData[0] = "image"
+
+        if image == self.imageList[-1]:
+            imgData[0] = "footer"
 
         return imgData
