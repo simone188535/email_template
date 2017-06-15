@@ -1,0 +1,186 @@
+#TITLE
+title: 'Shop our new arrivals'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Shop our new arrivals'
+preheader_link: 'https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE='
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+# - type: 'image-3-columns'
+#   img_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_alt: 'Crisp & clean, you can&#39;t go wrong with stripes!'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_02.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_2_alt: 'go bold what&#39;s Black & White and always in style? Fun, functional baby gear in this on-trend color scheme.'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_03.jpg'
+#   img_3_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_3_alt: 'Black & White looks best when you add bold pops of color!'
+#   img_3_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_04.jpg'
+
+# - type: 'image-2-columns'
+#   img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+#   img_alt: 'savings center'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_13.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+#   img_2_alt: 'strollers'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true'
+  img_alt: 'see what&#39;s new New items arrive daily. Find out what we&#39;ve got! shop what&#39;s new'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_02.gif'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/whats-new/gear-travel/32145/'
+  img_alt: 'gear on the go'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_03.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/baby-k-39-tan-reg-original-baby-carrier-in-nautical/3318246'
+  img_alt: 'Original Baby Carrier by Baby K&#39;tan® 59.99 FREE SHIPPING '
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_04.jpg'
+  img_2_link: 'http://video.buybuybaby.com/?v=1682421889'
+  img_2_alt: 'A wrap without the wrapping, the Baby K&#39;tan slips on like a t-shirt for easy, hands-free babywearing. watch video'
+  img_2_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/itzy-ritzy-reg-diaper-bag-tote-in-coffee-cream/1061172951'
+  img_alt: 'Diaper Bag Tote by Itzy Ritzy® 169.99 FREE SHIPPING'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/whats-new/health-safety/32150/'
+  img_alt: 'rest easy'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/owlet-smart-sock-2/1046938244'
+  img_alt: 'Smart Sock 2 by Owlet 299.99 FREE SHIPPING Tracks baby&#39;s heart rate & oxygen levels while they sleep. shop now'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/motorola-reg-5-inch-hd-video-baby-monitor-with-wifi-and-two-cameras/1060187253'
+  img_alt: '5-Inch Wi-Fi Video Baby Monitor by Motorola® MBP855CONNECT 249.99 FREE SHIPPING shop now'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/hatch-baby-rest-sound-machine-with-night-light-in-white/1061239272'
+  img_alt: 'Rest Sound Machine with Night Light by Hatch Baby 59.99 FREE SHIPPING shop now'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/whats-new/car-seats/32606/'
+  img_alt: 'let&#39;s ride'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/maxi-cosi-reg-pria-trade-85-max-convertible-car-seat-in-night-black/1061114463'
+  img_alt: 'The ClipQuik™ buckle opens with just one click Pria™ 85 Max Convertible Car Seat by Maxi-Cosi® 349.99 FREE SHIPPING shop now'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/whats-new/furniture/32638/'
+  img_alt: 'a little elegance'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/stone-leigh-by-stanley-furniture-clementine-court-furniture-collection-in-white/230075'
+  img_alt: 'Clementine Court Furniture Collection by Stone & Leigh 219.99-934.99 FREE SHIPPING shop now'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/whats-new/strollers/32589/'
+  img_alt: 'go for a stroll'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_15.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/baby-jogger-reg-2017-city-select-reg-lux-stroller-in-slate/3323323'
+  img_alt: 'Converts from single to double with 20 versitile configurations. 2017 city select® LUX Convertible Stroller by Baby Jogger® 629.99 FREE SHIPPING shop now'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_16.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true'
+  img_alt: 'shop what&#39;s new'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_17.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use the find in-store option for easy pick-up. Prices valid only in contiguous Unites States.'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_18.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/32689/'
+  img_alt: 'registry favorites shop now'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_19.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/images/Gallery'
+  img_alt: 'share your photos! Share photos of your favorite products at buybuy BABY view gallery'
+  img_url: 'images/bbB_195_062617_WhatsNew_v1_r6_DEV_20.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_195_062617_WhatsNew_v1_r6_DEV_21.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_195_062617_WhatsNew_v1_r6_DEV_22.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_195_062617_WhatsNew_v1_r6_DEV_23.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_195_062617_WhatsNew_v1_r6_DEV_24.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_195_062617_WhatsNew_v1_r6_DEV_25.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_195_062617_WhatsNew_v1_r6_DEV_26.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_195_062617_WhatsNew_v1_r6_DEV_27.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
