@@ -105,3 +105,9 @@ class KFLoyalty(emailBuilder):
                 self.generateImage(irow[0], irow[1], irow[2], irow[3])
             elif len(irow) == 5:
                 self.generateImage(irow[0], irow[1], irow[2], irow[3], irow[4])
+
+
+class KFGeneric(KFLoyalty):
+    def __init__(self, **kwargs):
+        super(KFGeneric, self).__init__(**kwargs)
+        self.erbTemplate = "KF/KF_Template_Generic_Email_061617.erb"

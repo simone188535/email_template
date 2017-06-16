@@ -2,12 +2,14 @@ import os
 from sys import argv
 from distutils.dir_util import copy_tree
 from shutil import copyfile
+from shutil import rmtree
 import sys
 import subprocess
 from bbB.bbB import bbBBuilder
 from BLD.BLD import BLDWeekly
 from BLD.BLD import BLDNoHeaderFooter
 from KF.KF import KFLoyalty
+from KF.KF import KFGeneric
 from SPR.SPR import SPRBuilder
 from genericEmail import genericEmailBuilder
 
@@ -22,28 +24,29 @@ class generateEmail(object):
             crf_file = kwargs["crf_file"]
         if "source_images" in kwargs:
             source_images = kwargs["source_images"]
-        if "emailName" in kwargs:
-            emailName = kwargs["emailName"]
 
 
-        if str(project).strip() == str(1):
+        if str(project).strip().upper() == "BBB":
             builder = bbBBuilder(**kwargs)
-        elif str(project).strip() == str(2):
+        elif str(project).strip().upper() == "BLDWEEKLY":
             builder = BLDWeekly(**kwargs)
-        elif str(project).strip() == str(3):
+        elif str(project).strip().upper() == "BLDSIMPLE":
             builder = BLDNoHeaderFooter(**kwargs)
-        elif str(project).strip() == str(4):
+        elif str(project).strip().upper() == "KFLOYALTY":
             builder = KFLoyalty(**kwargs)
-        elif str(project).strip() == str(5):
+        elif str(project).strip().upper() == "KF":
+            builder = KFGeneric(**kwargs)
+        elif str(project).strip().upper() == "GENERIC":
             builder = genericEmailBuilder(**kwargs)
-        elif str(project).strip() == str(6):
+        elif str(project).strip().upper() == "SPR":
             builder = SPRBuilder(**kwargs)
         else:
             printUsageAndExit()
 
         for item in [builder.dataPath, builder.sourcePath, builder.imagePath]:
-            if not os.path.exists(item):
-                os.makedirs(item)
+            if os.path.exists(item):
+                rmtree(item, ignore_errors=True)
+            os.makedirs(item)
 
         builder.setupTemplates()
         builder.copySourceFiles(source_images)
@@ -55,12 +58,14 @@ class generateEmail(object):
         builder.postProcess()
 
 
-projectOptions = "1. BuyBuyBaby\n2. BLD Weekly Email\n3. BLD Simple\n4. KF Loyalty Email\n5. Generic Email\n6. SPR"
+projectOptions = {"BBB":"BuyBuyBaby", "BLDWeekly":"BLD Weekly Email", "BLDSimple":"BLD Simple", "KFLoyalty":"KF Loyalty Email", "KF":"KF Generic Email", "Generic":"Generic Email", "SPR":"SP Richards Email"}
 
 
 def printUsageAndExit():
-    print("Usage: python createEmail.py <projectNumber> <Name> <CRFFile> [<images directory>]")
-    print("Project Number Options:\n" + projectOptions + "\n")
+    print("Usage: python createEmail.py <project> <Name> <CRFFile> [<images directory>]")
+    print("Project Options:")
+    for item in projectOptions:
+        print("\t" + item + ": " + projectOptions[item])
     exit(1)
 
 
