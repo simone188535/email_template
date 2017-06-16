@@ -60,36 +60,42 @@ class SPRBuilder(emailBuilder):
 
         return customField
 
-    def addAdditionalFields(self, image, imgData):
-
-        textColor = ""
+    def getImageColors(self, image):
         backgroundColor = ""
+        textColor = ""
 
+        imgFile = Image.open(self.imagePath + "/" + image)
+        imgFile = imgFile.convert('RGB')
+        colors = imgFile.getcolors(100000000)
+        colorSingle = imgFile.getpixel((0, 0))
+        if len(colors) > 0:
+            count, backgroundColor = colors[0]
+            if count < 250 or colorSingle not in colors:
+                backgroundColor = colorSingle
+            hue = backgroundColor[0] * 0.299 + backgroundColor[1] * 0.587 + backgroundColor[2] * 0.114
+            if (hue) > hueBreakpoint:
+                textColor = "#000000"
+            else:
+                textColor = "#FFFFFF"
+            backgroundColor = '#%02x%02x%02x' % backgroundColor
+
+        return backgroundColor, textColor
+
+    def addCustomFieldData(self, image, imgData):
+        backgroundColor, textColor = self.getImageColors(image)
+
+        imgData.append(backgroundColor.encode('ascii', 'ignore'))
+        imgData.append(textColor.encode('ascii', 'ignore'))
+        imgData.append("linetext" + str(self.customFieldCount) + "_CUS")
+        self.customFieldCount = self.customFieldCount + 1
+
+
+    def addAdditionalFields(self, image, imgData):
         if (self.isImageCustomField(image)):
             imgData[0] = "text"
-            imgFile = Image.open(self.imagePath + "/" + image)
-            imgFile = imgFile.convert('RGB')
-            colors = imgFile.getcolors(100000000)
-            colorSingle = imgFile.getpixel((0, 0))
-            if len(colors) > 0:
-                count, backgroundColor = colors[0]
-                if count < 250:
-                    backgroundColor = colorSingle
-                hue = backgroundColor[0] * 0.299 + backgroundColor[1] * 0.587 + backgroundColor[2] * 0.114
-                if (hue) > hueBreakpoint:
-                    textColor = "#000000"
-                else:
-                    textColor = "#FFFFFF"
-                backgroundColor = '#%02x%02x%02x' % backgroundColor
-
-            imgData.append(backgroundColor.encode('ascii', 'ignore'))
-            imgData.append(textColor.encode('ascii', 'ignore'))
-            imgData.append("linetext" + str(self.customFieldCount) + "_CUS")
-            self.customFieldCount = self.customFieldCount + 1
-        else:
-            imgData[0] = "image"
-
-        if image == self.imageList[-1]:
+            self.addCustomFieldData(image, imgData)
+        elif image == self.imageList[-1]:
             imgData[0] = "footer"
+            self.addCustomFieldData(image, imgData)
 
         return imgData

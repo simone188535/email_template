@@ -7,6 +7,7 @@ import re
 from shutil import copyfile
 from distutils.dir_util import copy_tree
 from PIL import Image
+from natsort import natsorted
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -163,6 +164,7 @@ class emailBuilder(object):
             row = self.findImageRow(image)
 
             width, height = imgFile.size
+            imgData[0] = "image"
             imgData[1] = "images/" + image
             imgData[2] = self.getImageLink(row[self.linkColumn]).encode('ascii','ignore')
             imgData[3] = width
@@ -212,6 +214,13 @@ class emailBuilder(object):
 
         return imagePath, imageValue
 
+    def try_int(s):
+        "Convert to integer if possible."
+        try:
+            return int(s)
+        except:
+            return s
+
     def generateYmlContent(self):
         for file in os.listdir(self.source_images):
             for extension in self.imageFileExtensions:
@@ -219,7 +228,8 @@ class emailBuilder(object):
                 if regPattern.match(file) is not None:
                     self.imageList.append(file)
 
-        self.imageList.sort()
+
+        self.imageList = natsorted(self.imageList)
 
         self.generateImageTables()
 
