@@ -1,0 +1,48 @@
+title: ""
+
+
+hero_img_url: "images/hero.jpg"
+hero_img_link:
+hero_img_alt:
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'images/USF_SummerScoop_email_wave3_Hero.jpg'
+  image_alt: 'AND THE WINNERS ARE…'
+  image_link: 'https://www.usfoods.com/summerpromotion'
+
+- type: 'live-text'
+  live_text: 'Place your next order using <font style="border-bottom: 2px solid #cf4520; color: #cf4520; font-weight: 600;">US Foods Online</font> from <font style="font-weight: 600;"><br>June 12 - August 5,</font> and you will be automatically entered to <br><font style="text-transform: uppercase; color: #5b8726; font-weight: 600;">win a $5,000 gift card.</font>'
+  live_button_text: 'LEARN MORE' 
+
+
+- type: 'header-live-text'
+  header_live_link: '#'
+  header_text: 'YOUR DINERS MIGHT LIKE'
+  header_live_color: '#cf4520'
+
+- type: 'product-left-image'
+  product_left_img: 'images/012616_con_summerwave_18.jpg'
+  product_left_link: 'https://www.usfoods.com/food/scoop/summer-scoop/all-natural-smoked-uncured-beef-navel-bacon.html'
+  product_left_title: 'CHEF&#39;S LINE'
+  product_left_recipe_title: ' All Natural* <br>Smoked Uncured<br> Beef Navel Bacon'
+  product_left_recipe_text: 'In a food culture that&#39;s big on bacon - our beef navel version is a great new way to love it! It&#39;s rubbed in a salt-sugar mix for an unbeatable flavor, a unique alternative for those who don&#39;t eat pork. '
+
+- type: 'product-left-image'
+  product_left_img: 'images/012616_con_summerwave_28.jpg'
+  product_left_link: 'https://www.usfoods.com/food/scoop/summer-scoop/all-natural-uncured-black-forest-ham.html'
+  product_left_title: 'METRO DELI'
+  product_left_recipe_title: ' All Natural* <br> Uncured<br> Black Forest Ham'
+  product_left_recipe_text: 'This ham takes its inspiration from the Black Forest region of Germany - it is seasoned with traditional Black Forest ham spices, netted and naturally hardwood-smoked.'
+
+- type: 'get-the-scoop'
+  scoop_link: 'https://www.usfoods.com/the-scoop.html'
+  scoop_text: 'View Spring Scoop&trade;'
+
+- type: 'how-to-buy'
+
+
+
+
