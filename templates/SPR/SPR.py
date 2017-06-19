@@ -4,8 +4,7 @@ import pyexcel as p
 from emailBuildClass import emailBuilder
 from PIL import Image
 
-hueBreakpoint = 180
-
+hueBreakpoint = 185
 class SPRBuilder(emailBuilder):
     def __init__(self, **kwargs):
         self.projectNamePrefix = "SPR_"
