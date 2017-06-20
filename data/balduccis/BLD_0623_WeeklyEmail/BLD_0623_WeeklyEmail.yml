@@ -1,0 +1,144 @@
+title: 'Want a sundae kinda love?'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d8122738-33f3-4181-98ac-dbaf90d937ba.jpg?ver=1497373079000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43ada965-5b9f-4e25-8fa1-be0734094fd5.jpg?ver=1497373079000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1ff67d4-42f0-40dc-86e1-338f5f3a59b7.jpg?ver=1497373080000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+#- type: 'image'
+#  img_link: 'https://vimeo.com/167304429'
+#  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+#  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'GOURMET REWARDS CLUB'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/410a6ec4-b346-4030-b989-cce0e4099a3f.jpg?ver=1497977317000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'THE SWEET LIFE|Full of sunny days and celebrations, summer calls for special treats.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7635d1c3-bf8f-4ded-af07-a363275068aa.jpg?ver=1497977318000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: '4TH OF JULY CATERING'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3569637a-b004-4a16-ba72-df8dc41ef77d.jpg?ver=1497977318000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'RED, WHITE & BBQ Start your celebration off with a bang, we&#39;ll bring the BBQ and all the trimmings! ORDER NOW > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/38da5b60-77e2-4aad-86dc-cf319f034396.jpg?ver=1497977319000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'GIMME S&#39;MORE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/62499d49-87f4-4e52-bceb-77bbbc1fede4.jpg?ver=1497977318000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'ANNIE&#39;S ORGANIC GRAHAM CRACKERS The perfect base for your s&#39;more, these tasty certified organic Honey Graham Crackers are great for snacking! '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2b9c2bbf-0a3d-453d-951f-f648ed350534.jpg?ver=1497977319000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'SMASHMALLOW™ MARSHMALLOWS These fluffy marshmallow treats are all-natural, organic and gluten-free.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/49a0d292-82d6-4739-a6bc-6f2176e855de.jpg?ver=1497977319000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'MAX BRENNER CHOCOLATE BARS Gourmet chocolate bars filled with decadent delights! Choose from: hacelnut cream & wafer flakes, hazelnut cream & cereal balls, or peanut butter & honey.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/852ca261-4a18-472c-99a3-1446ab4100e4.jpg?ver=1497977319000'
+  
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'EVERY DAY IS LIKE SUNDAE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e357c75d-c84a-46c7-9ae9-17d14959876b.jpg?ver=1497977320000'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'GRAETER&#39;S ICE CREAM The ultimate sundae starts with delicious handcrafted, French Pot method ice cream. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bf0eef91-a521-4724-8918-3ea597ed7c27.jpg?ver=1497977320000'
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_2_alt: 'STONEWALL DESSERT SAUCES Top off your sundae with your favorite flavor of decadent dessert sauce.'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2f27c252-6364-46ca-910d-985bab70f4f9.jpg?ver=1497977320000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'SWEET SNACKS'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ed47f259-f0c0-4f3b-b04c-effc5fd79ffd.jpg?ver=1497977320000'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'AVAILABLE IN OUR PATTISSERIE NEW! CHEESECAKE THINS Made with 100% Greek yogurt, so they have 55% less fat than regular cheescake!'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/593f09b7-c7cb-453b-b65c-a435aa3c6eac.jpg?ver=1497977321000'
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_2_alt: 'MAX BRENNER CHOCOLATE TABLETS Gourmet chocolate bars topped with West African roasted coconut bits for a crunchy finish. '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c0d09694-a94e-4a07-939f-f4faf7362903.jpg?ver=1497977321000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'FRESH PICKED TREATS | SUMMER PRODUCE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5d9607c6-ba7a-40d9-b007-a933da8d772a.jpg?ver=1497977321000'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'SWEET BLUEBERRIES Juicy blueberries are rich in antioxidants, and perfect for summer salads and desserts. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/18054c9e-9d97-4ce4-8193-a472783461ef.jpg?ver=1497977321000'
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_2_alt: 'DRISCOLL&#39;S STRAWBERRIES try fresh strawberries with a drizzle of balsamic glaze for a zesty topping on ice cream. '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/db87666d-2339-4c56-bbe6-30328d3ef0a0.jpg?ver=1497977322000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'Recipe Idea BLUEBERRY CROSTATA WITH LEMON MASCAPONE CREAM VIEW RECIPE >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/362d3733-b90c-497c-b57d-bacb39278aee.jpg?ver=1497977322000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'MEMBER EXCLUSIVE | GREAT FOR GRILLING'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7cf35383-dc5e-4964-a3b7-4e36b72b963b.jpg?ver=1497977322000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'USDA PRIME CERTIFIED ANGUS BEEF TOP ROUND FOR LONDON BROIL MEMBER EXCLUSIVE 5.99/LB Reg 8.49'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/696bef52-0590-4bf4-a824-20d77d2c2386.jpg?ver=1497977322000'
+
+
+
