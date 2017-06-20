@@ -1,0 +1,197 @@
+title: 'TBD'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8821530-b079-427c-96b1-2d07abf11d05.jpg?ver=1495479649000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+#- type: "image"
+#  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d0bb8e77-08e9-4856-8db5-56d72fbecddb.jpg?ver=1495479650000"
+#  img_alt: "RED, WHITE AND BBQ | Kick off the summer with a little relaxation and a lot of delicious food!"
+#  img_link: "https://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN"
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/unique-recipes/how-to-prepare-cowboy-steak?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'ALL FEST. NO FUSSKeep your party planning easy with fresh market specials, grab-and-go sides and simple summer cocktails. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e5ac49bc-3177-44bc-be90-2236f5dc8bce.jpg?ver=1497910677000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'INTRODUCING NEW! FAMILY PACK ENTRÉES '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6c6c61d5-528e-4b4e-a227-1bba553c599a.jpg?ver=1497910677000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'Bring our chefs home to you! Our Family Pack Entrées are ready for the oven, filled with our best Chef Prepared selections. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2552cc17-2257-41dc-a648-f5dfe196436d.jpg?ver=1497910678000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'Fresh FAMILY PACK GET MORE. SAVE MORE! We love families! '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c7825bf9-7547-4627-9119-323fd2486486.jpg?ver=1497910678000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'CHOOSE FROM: CHICKEN PARMESAN• GRILLED LEMON CHICKEN            • GRILLED SALMON• BREADED CHICKEN CUTLETS        • TILAPIA ALMONDINE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eb81dc46-4c84-4ded-b64f-38b37cadf15c.jpg?ver=1497910678000'
+
+- type: 'image'
+  img_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'MARKET SPECIALS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d3cb1b3f-41d5-4513-9802-6bf760e1fdf3.jpg?ver=1497910678000'
+
+- type: 'image-2-columns'
+  img_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'SAVE up to $1.50  lb. PERDUE FARMS FRESH CHICKEN BREAST THIN SLICED, REGULAR OR TENDERLOINS 4.99 LB '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/74441453-2800-4bd1-80e3-4902cbddcc80.jpg?ver=1497910679000'
+  img_2_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_2_alt: 'SAVE $2 lb. NORWEGIAN SKINLESS SALMON PORTIONS 2 PACK, 12 OZ. 16.98 EA. SWEET RED CHERRIES 5.99 LB. '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4b010094-99b1-4b46-83ea-245d07224d7b.jpg?ver=1497910679000'
+
+- type: 'image-2-columns'
+  img_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'SAVE$1 BERETTA ANTIPASTO TRAY 12 OZ. 11.99 EA.  '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ac2a7d9c-ff85-4639-a3c6-8c68fa6b78e2.jpg?ver=1497910679000'
+  img_2_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_2_alt: 'SAVE $2 lb. SWEET RED CHERRIES 5.99 LB. '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e0ce5c9b-f601-4be7-acbf-f550a7c57cac.jpg?ver=1497910679000'
+
+- type: 'image'
+  img_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'View More Specials and Make a ListVIEW HOBOKEN MARKET SPECIALS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6d0e2eab-f76a-4d32-ad7f-194175f749be.jpg?ver=1497910679000'
+
+- type: 'image'
+  img_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'NOT A MEMBER YET? SEE CASHIER FOR DETAILS | Earn 1 point for every qualifying dollar | Receive a $5 reward delivered to your card for every 300 points '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3a14b1db-0964-42d9-bbcb-79ab1adf3206.jpg?ver=1497910679000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'NO-FUSS FAVORITES CHEF PREPARED GRAB-AND-GO GREATS'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c4927560-7e2c-4eca-a85a-7bc5d6b7f8cd.jpg?ver=1497910680000'
+
+- type: 'image-2-columns'
+  img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'KINGS CHEF INSPIRED LEMON GARLIC SHRIMP SKEWER'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f47dec51-c321-4ce9-b42f-d084d1b60caf.jpg?ver=1497910680000'
+  img_2_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_2_alt: 'KINGS BATTER DIPPED CHICKEN TENDERS'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e7ab3bd5-4880-4ccc-8d25-49fa51fe9a43.jpg?ver=1497910680000'
+
+- type: 'image-3-columns'
+  img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'KINGS CHEF INSPIRED CRUNCHY VEGETABLE SALAD'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2dbb2561-1491-4233-8b17-22421d7f132f.jpg?ver=1497910680000'
+  img_2_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_2_alt: 'KINGS CHEF INSPIRED SUMMER CORN SUCCOTASH'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b6aab9f5-a160-4475-b6e6-3cf17ee9072e.jpg?ver=1497910680000'
+  img_3_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_3_alt: 'KINGS CHEF INSPIRED SPRING HERB &amp; VEGETABLE GREEN SALAD'
+  img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b5b84ec5-ba20-4715-a2dc-092b5998593c.jpg?ver=1497910680000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'VIEW MORE CHEF PREPARED >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91306319-6bfd-4818-aea3-c0848464ab15.jpg?ver=1497910681000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'CELEBRATE SIMPLYKINGS SUMMER OCCASIONS CATERING '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cefecc66-37f3-4cd1-8baa-e404a3f6a9db.jpg?ver=1497910681000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'Relax and enjoy your friends and family, and let us prepare the perfect 4TH OF JULY FEAST. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fdd3d3e-385a-4819-9859-20168ce68134.jpg?ver=1497910681000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'VIEW MENU >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5028f009-8369-4529-a693-5e133f18c512.jpg?ver=1497910682000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'STOCK THE BAR CARTBAR ESSENTIALS CHECKLIST '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/258bf708-3954-4634-b276-b9361ab94253.jpg?ver=1497910681000'
+
+- type: 'image-3-columns'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: '✔️MIXERS      '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6a1987c5-ca8f-4184-ab3d-5446f26298d7.jpg?ver=1497910682000'
+  img_2_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_2_alt: '  ✔️FRESH FLAVORS'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8fc37d3e-9362-4dc3-9f0c-67f8fb4ff5dd.jpg?ver=1497910682000'
+  img_3_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_3_alt: '       ✔️TOOLS'
+  img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/39d22fe0-5ac8-43a7-9793-080acb9373d6.jpg?ver=1497910682000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'LEARN MORE >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/81349109-21d0-4cc3-8143-37b53079d76d.jpg?ver=1497910682000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'CHEERS TO THE 4TH SIMPLE SUMMER COCKTAIL RECIPES '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c20236ec-cb7a-455f-8384-4920068c4b8e.jpg?ver=1497910683000'
+
+- type: 'image-2-columns'
+  img_link: 'http://kingsfoodmarkets.com/unique-recipes/peach-rosemary-chardonnay-fizz?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'PEACH, ROSEMARY, CHARDONNAY FIZZ COCKTAIL VIEW RECIPE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cca5e348-0b6f-44f1-ad68-96ebd08c1fc3.jpg?ver=1497910683000'
+  img_2_link: 'http://kingsfoodmarkets.com/unique-recipes/sparkling-raspberry-lemonade-cocktail-with-fresh-mint?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_2_alt: 'SPARKLING RASPBERRY LEMONADE COCKTAIL WITH FRESH MINT VIEW RECIPE '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8bd0b2a-549a-4244-be17-395feb488c79.jpg?ver=1497910683000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/kings-own-brand/kings-sparkling-lemonades?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'WHAT&#39;S NEW IN STORE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/46abf220-75cb-4236-a9a4-a6fc3aac4060.jpg?ver=1497910683000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/kings-own-brand/kings-sparkling-lemonades?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'NEW!KINGS SPARKLING LEMONADES Bright and refreshing, these are perfect served chilled with a garnish of lemon and a sprig of fresh mint.  NEW FLAVORS: PEAR LEMONADE &amp; FRENCH LEMONADE LEARN MORE >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/198d89a5-bc75-43b8-8db3-73e384673d4f.jpg?ver=1497910684000'
+

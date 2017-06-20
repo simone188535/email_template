@@ -138,13 +138,14 @@ class emailBuilder(object):
         for irow in self.sheet.rows():
             if self.cellContainsImage(irow[-1], image):
                 row = irow
+                break
         return row
 
     def getImageLink(self, cell):
         if cell == "NONE":
             return ""
         else:
-            return cell
+            return str(cell).encode('ascii',errors='ignore').strip()
 
     def addAdditionalFields(self, image, imgData):
         return imgData
