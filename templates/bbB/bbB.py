@@ -13,6 +13,12 @@ class bbBBuilder(emailBuilder):
         super(bbBBuilder, self).__init__(**kwargs)
         self.imageRows = []
         self.bodyCounter = 0
+        self.sendEmail = False
+        if "sendEmail" in kwargs:
+            sendEmail = kwargs["sendEmail"]
+            if str(sendEmail).strip().upper() == 'TRUE':
+                self.sendEmail = True
+
 
     def loadData(self):
         copy_tree("bbB/social_images", self.imagePath)
@@ -113,5 +119,5 @@ class bbBBuilder(emailBuilder):
         #recipients = ["richard.hines@purered.net"]
         recipients = ["110215SPR@litmustest.com", "devpurered.runme@previews.emailonacid.com", "qa@purered.net"]
 
-        if os.path.isfile("{}/{}.html".format(self.prodPath, self.projectName)):
+        if self.sendEmail and os.path.isfile("{}/{}.html".format(self.prodPath, self.projectName)):
             mailChimp.upload(self.prodPath, self.projectName, subject_line, "dev@purered.net", "Pure Red", recipients)

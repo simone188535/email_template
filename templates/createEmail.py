@@ -78,7 +78,11 @@ if len(argv) > 1:
             source_images = argv[4]
         else:
             source_images = None
+        if len(argv) > 5:
+            sendEmail = argv[5]
+        else:
+            sendEmail = False
     else:
         printUsageAndExit()
 
-    generateEmail(project=project, crf_file=crf_file, source_images=source_images, emailName=emailName)
+    generateEmail(project=project, crf_file=crf_file, source_images=source_images, emailName=emailName, sendEmail=sendEmail)
