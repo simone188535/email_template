@@ -1,0 +1,190 @@
+	<% require 'active_support/all' %>
+<% instance_variable_set("@base_data_file", data.buybuyBaby.bbB_062217_ToTheTrade.bbB_062217_ToTheTrade) %>
+<% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<style type="text/css">
+    /* This style block will be inlined when running 'grunt build' and stripped from the header */
+
+    table td {
+        border-collapse: collapse;
+		border-spacing: 0; 
+		mso-table-lspace: 0pt; 
+		mso-table-rspace: 0pt; 
+		text-align: left;
+    }
+    img {
+        display: block;
+        margin: 0;
+    }
+	.footer {
+		font: 12pt arial, sans-serif; 
+		color: #666666;
+	}
+	a.footer {
+		font: 12pt arial, sans-serif; 
+		color: #33bbf3;
+	}
+	.topLink {
+		color: #33bbf3; 
+		text-decoration: underline;
+	}
+	.topSection, td.preheader {
+		color: #2a2a2a; 
+		font-family: Arial, Helvetica, sans-serif; 
+		font-weight: normal; 
+		font-size: 12px; 
+		line-height: 16px; 
+		border-collapse: collapse;
+	}
+	.topPreHeader {
+		text-align: left; 
+	}
+	.topViewWebPage {			
+		text-align: right;
+	}	
+
+</style>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+	<tr><td align="center">
+		<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+			<tr> 
+				<td align="center"><font style="FONT-SIZE: 10px; COLOR: #003875; LINE-HEIGHT: 14px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif">&nbsp;</font></td>
+			</tr>
+			
+			<tr><td align="center">
+				<!-- Header -->
+				
+				<!-- Nav -->
+			
+				<!-- Articles -->
+				<% @base_data_file.articles.each do |f| %>
+					<% if f["type"]=="image" %>
+					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+					    <tr>
+					        <td>
+					            <a href="<%= f["img_link"] %>">
+					                <img src="<%= f["img_url"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" border="0">
+					            </a>
+					        </td>
+					    </tr>
+					</table>
+					<% end %>
+					<% if f["type"]=="image-2-columns" %>
+					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+					    <tr>
+					        <td>
+					            <a href="<%= f["img_link"] %>">
+					                <img src="<%= f["img_url"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" border="0">
+					            </a>
+					        </td>
+					        <td>
+					            <a href="<%= f["img_2_link"] %>">
+					                <img src="<%= f["img_2_url"] %>" alt="<%= f["img_2_alt"] %>" title="<%= f["img_2_alt"] %>" border="0">
+					            </a>
+					        </td>
+					    </tr>
+					</table>
+					<% end %>
+
+					<% if f["type"]=="image-3-columns" %>
+					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+					    <tr>
+					        <td>
+					            <a href="<%= f["img_link"] %>">
+					                <img src="<%= f["img_url"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" border="0">
+					            </a>
+					        </td>
+					        <td>
+					            <a href="<%= f["img_2_link"] %>">
+					                <img src="<%= f["img_2_url"] %>" alt="<%= f["img_2_alt"] %>" title="<%= f["img_2_alt"] %>" border="0">
+					            </a>
+					        </td>
+					        <td>
+					            <a href="<%= f["img_3_link"] %>">
+					                <img src="<%= f["img_3_url"] %>" alt="<%= f["img_3_alt"] %>" title="<%= f["img_3_alt"] %>" border="0">
+					            </a>
+					        </td>
+					    </tr>
+					</table>
+					<% end %>
+
+					
+					<% if f["type"]=="images-4-columns" %>
+					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+					    <tr>
+					        <td width="<%= f["imagewidth"] %>" height="<%= f["imageheight"] %>">
+					            <a href="<%= f["imagelink"] %>">
+					                <img src="<%= f["imageurl"] %>" alt="<%= f["imagealt"] %>" title="<%= f["imagealt"] %>" border="0">
+					            </a>
+					        </td>
+					        <td width="<%= f["img_2_width"] %>" height="<%= f["img_2_height"] %>">
+					            <a href="<%= f["img_2_link"] %>">
+					                <img src="<%= f["img_2_url"] %>" alt="<%= f["img_2_alt"] %>" title="<%= f["img_2_alt"] %>" border="0">
+					            </a>
+					        </td>
+					        <td width="<%= f["img_3_width"] %>" height="<%= f["img_3_height"] %>">
+					            <a href="<%= f["img_3_link"] %>">
+					                <img src="<%= f["img_3_url"] %>" alt="<%= f["img_3_alt"] %>" title="<%= f["img_3_alt"] %>" border="0">
+					            </a>
+					        </td>
+							<td width="<%= f["img_4_width"] %>" height="<%= f["img_4_height"] %>">
+					            <a href="<%= f["img_4_link"] %>">
+					                <img src="<%= f["img_4_url"] %>" alt="<%= f["img_4_alt"] %>" title="<%= f["img_4_alt"] %>" border="0">
+					            </a>
+					        </td>
+
+					    </tr>
+					</table>
+					<% end %>
+
+
+
+					<% if f["type"]=="images-5-columns" %>
+					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+					    <tr>
+					        <td width="<%= f["imagewidth"] %>" height="<%= f["imageheight"] %>">
+					            <a href="<%= f["imagelink"] %>">
+					                <img src="<%= f["imageurl"] %>" alt="<%= f["imagealt"] %>" title="<%= f["imagealt"] %>" border="0">
+					            </a>
+					        </td>
+					        <td width="<%= f["img_2_width"] %>" height="<%= f["img_2_height"] %>">
+					            <a href="<%= f["img_2_link"] %>">
+					                <img src="<%= f["img_2_url"] %>" alt="<%= f["img_2_alt"] %>" title="<%= f["img_2_alt"] %>" border="0">
+					            </a>
+					        </td>
+					        <td width="<%= f["img_3_width"] %>" height="<%= f["img_3_height"] %>">
+					            <a href="<%= f["img_3_link"] %>">
+					                <img src="<%= f["img_3_url"] %>" alt="<%= f["img_3_alt"] %>" title="<%= f["img_3_alt"] %>" border="0">
+					            </a>
+					        </td>
+							<td width="<%= f["img_4_width"] %>" height="<%= f["img_4_height"] %>">
+					            <a href="<%= f["img_4_link"] %>">
+					                <img src="<%= f["img_4_url"] %>" alt="<%= f["img_4_alt"] %>" title="<%= f["img_4_alt"] %>" border="0">
+					            </a>
+					        </td>
+							<td width="<%= f["img_5_width"] %>" height="<%= f["img_5_height"] %>">
+					            <a href="<%= f["img_5_link"] %>">
+					                <img src="<%= f["img_5_url"] %>" alt="<%= f["img_5_alt"] %>" title="<%= f["img_5_alt"] %>" border="0">
+					            </a>
+					        </td>
+					    </tr>
+					</table>
+					<% end %>
+
+
+
+
+				
+				<% end %>
+
+					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+			          <!-- Footer nav -->
+
+			          <!-- Social links -->
+			          
+				
+				<!-- Zeta Footer -->
+				
+			</td></tr>
+		</table>
+	</td></tr>
+</table>
