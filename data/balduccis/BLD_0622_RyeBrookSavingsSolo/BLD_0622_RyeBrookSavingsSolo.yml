@@ -1,0 +1,94 @@
+title: 'Save $5 lb. on &#34;Cowboy&#34; Rib Steaks'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+# #header
+# logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+# catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# catering_alt: 'CATERING'
+# chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# chef_prepared_alt: 'CHEF PREPARED'
+# store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# store_locator_alt: 'FIND A STORE'
+# my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+# #footer
+# footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__"
+# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+# footer_site_alt: "balduccis.com"
+# footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+# footer_facebook_alt: "facebook"
+# footer_twitter_link: "https://twitter.com/Balduccis"
+# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+# footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0005bfd1-6c48-4720-b1be-52d55ade3479.jpg?ver=1498137106000'
+  img_alt: "Balducci's® Food Lover's Market™ This Week's Picks in Rye Brook"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0e15cbb0-941e-4635-8324-7e1628032490.jpg?ver=1498137106000'
+  img_alt: "BUY ANY Pre-Packed Cold Sandwich GET 1.00 OFF! Meat & Seafood Valid 6/23/17 - 6/29/17 "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f35317b7-1792-4b17-887a-f96404321779.jpg?ver=1498137106000'
+  img_alt: "Save 4.00 |USDA Choice Loin Lamb Chops, tailless, Bone-in | You Pay 14.99 LB. "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8b189973-a7b0-4e09-b81f-2df8a8f8c28d.jpg?ver=1498137106000'
+  img_alt: "Save 2.00 | Schweid & Sons Custom Blend Burgers or Sliders, 20-21.1 oz | You Pay 8.99 EA. NEW! 5.99 SUSHI WEDNESDAYS | Choose from California, Salmon Avocado, Spicy Tuna, or Tuna Avocado Rolls  "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d26eb84b-607b-4e34-9df2-1ddb81654b29.jpg?ver=1498137106000'
+  img_alt: "Save 1.50 |NEW! Ahi Tuna Poke Rice & Salad Bowl | You Pay 8.99 EA. "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a910e4eb-880d-48d9-a80e-dbeab3661375.jpg?ver=1498137107000'
+  img_alt: "Save 2.00 | Fresh Water Colossal Shrimp on a Skewer, 5.5 oz | You Pay 7.99 EA. "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3bc9fef8-dd15-4651-9d45-e44f569d970c.jpg?ver=1498137107000'
+  img_alt: "Cheese Savings Valid 6/23/17 - 6/29/17 Save 9.00 | Farmhouse Stilton | You Pay 12.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d836727e-a1c1-4d05-b9b2-b8637d73cb1f.jpg?ver=1498137107000'
+  img_alt: "Save 5.00 | Red Wax Gouda | You Pay 6.99 LB. Save 3.00 | Franz Hal Goat Gouda | You Pay 15.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/975a0648-00ea-4e59-9daf-e1a8ee350da6.jpg?ver=1498137107000'
+  img_alt: "RYE BROOK FOOD LOVE FEST | HAVE A FESTIVE FOURTH! | Plan the best BBQ for the holiday with our best Chef Prepared dishes, catering favorites and more selections to complete a perfect party! | Join us for Tastings, SAT & SUN • 6/24-6/25 | 11am - 4pm "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b33297d1-16e6-4f61-850d-61912548250d.jpg?ver=1498137107000'
+  img_alt: "Produce, Bakery & More! Valid 6/23/17 - 6/29/17 Save 2.00 | Sweet Cherries | You Pay 5.99 LB Save 1.00 on 4 | Fresh Corn | You Pay 4/1.99 "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/28941fd1-bdcc-4bbb-9790-a5e73573a474.jpg?ver=1498137107000'
+  img_alt: "Save 2.00 | Balducci's Coffee Cake, Cinnamon Walnut or Marble Crumb, 24 oz. | You Pay 8.99 EA. Save 1.00 | Aegean Bouquet | You Pay 18.99 EA."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d20a4d3d-6987-4cc5-a457-f09cbe110037.jpg?ver=1498137108000'
+  img_alt: "Save 3.98 on 2 | Tate's Cookies or Brownie Thins | 5-7 oz. | You Pay 2/8.00 Save 2.00 | Colavita Extra Virgin Olive Oil | 34 fl oz. | You Pay 14.99 EA Save 2.38 on 2 | Eggo Waffles | 12.3 oz. | You Pay 2/5.00 144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook"
