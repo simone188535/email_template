@@ -45,11 +45,17 @@ class SPRBuilder(emailBuilder):
         self.erbPath = self.erbCustomPath
         self.updateErb()
 
+    def findCustomSheet(self):
+        if self.customSheet is None:
+            for name in self.workbook.sheet_names():
+                if name.strip().upper() == "CUSTOM":
+                    self.customSheet = self.workbook.sheet_by_name(name)
+                    break
+
     def isImageCustomField(self, img):
         customField = False
 
-        if self.customSheet is None and "Custom" in self.workbook.sheet_names():
-            self.customSheet = self.workbook.sheet_by_name("Custom")
+        self.findCustomSheet()
 
         if self.customSheet is not None:
             for row in self.customSheet.rows():
