@@ -116,6 +116,7 @@ class emailBuilder(object):
                 regPattern = re.compile(".*_{}\.{}".format("{:0>2d}".format(int(data)), extension))
                 if regPattern.match(image) is not None:
                     match = True
+                    break
         return match
 
     def convertToRange(self, data):

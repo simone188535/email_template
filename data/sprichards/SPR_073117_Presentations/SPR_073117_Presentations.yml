@@ -1,0 +1,60 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_02.jpg', 'http://www.popgoesthewinner.com', 580, 474, 'Header']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_03.jpg', '/sl-forward-sprisv/BSN/28443/1016643645/826-675', 150, 344, 'BSN28443 - 3"'], ['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_04.jpg', '/sl-forward-sprisv/BSN/28444/1016643646/618-805', 107, 344, 'BSN28444 - 4"'], ['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_05.jpg', '/sl-forward-sprisv/BSN/28445/1016643647/750-646', 323, 344, 'BSN28445 - 5"']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_06.jpg', '/sl-forward-sprisv/BSN/28443/1016643645/826-675', 580, 40, 'BSN28443 - 3"']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_07.jpg', '/sl-forward-sprisv/BSN/28443/1016643645/826-675', 193, 163, 'BSN28443 - 3"'], ['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_08.jpg', '/sl-forward-sprisv/BSN/28444/1016643646/618-805', 194, 163, 'BSN28444 - 4"'], ['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_09.jpg', '/sl-forward-sprisv/BSN/28445/1016643647/750-646', 193, 163, 'BSN28445 - 5"']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_10.jpg', '/sl-forward-sprisv/CCS/26446/1023555997/677-197', 580, 255, 'CCS26466']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_11.jpg', '/sl-forward-sprisv/ELI/75806/1024885890/790-264', 580, 257, 'ELI75806']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_12.jpg', '/sl-forward-sprisv/ELI/75806/1024885890/790-264', 207, 47, 'ELI75806'], ['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_13.jpg', '/sl-forward-sprisv/ELI/75805/1024885889/748-198', 373, 47, 'ELI75805']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_14.jpg', '/sl-forward-sprisv/ELI/75805/1024885889/748-198', 580, 218, 'ELI75805']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_15.jpg', '/sl-forward-sprisv/BSN/38592/1025256776/688-220', 580, 522, 'BSN38592']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_16.jpg', '/sl-forward-sprisv/BSN/26740/1017129425/263-956', 580, 166, 'BSN26740']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_17.jpg', '/sl-forward-sprisv/BSN/26740/1017129425/263-956', 134, 109, 'BSN26740'], ['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_18.jpg', '/sl-forward-sprisv/BSN/90650/1015513907/182-689', 253, 109, 'BSN90650'], ['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_19.jpg', '/sl-forward-sprisv/BSN/26740/1017129425/263-956', 193, 109, 'BSN26740']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_20.jpg', '/sl-forward-sprisv/BSN/90650/1015513907/182-689', 580, 156, 'BSN90650']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_21.jpg', '/sl-forward-sprisv/GJO/11956/1021070756/776-104', 580, 417, 'GJO11956']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_22.jpg', '/sl-forward-sprisv/GJO/11260PK/1023765475/975-607', 203, 224, 'GJO11260PK'], ['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_23.jpg', '/sl-forward-sprisv/GJO/11956/1021070756/776-104', 202, 224, 'GJO11956'], ['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_24.jpg', '/sl-forward-sprisv/GJO/11260PK/1023765475/975-607', 175, 224, 'GJO11260PK']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_25.jpg', '/sl-forward-sprisv/LLR/99762/1035845204/949-994', 580, 370, 'LLR99762']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_124_073117_Q3_PopUp_Presentations_R4_DEV_26.jpg', '', 580, 140, '', '#5cb2ff', '#FFFFFF', 'linetext1_CUS']]
+
