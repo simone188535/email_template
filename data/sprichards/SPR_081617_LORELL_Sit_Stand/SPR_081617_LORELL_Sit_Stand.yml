@@ -1,0 +1,54 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_02.jpg', 'http://bit.ly/2qaIOda', 580, 227, 'Deals']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_03.jpg', '/sl-forward-sprisv/LLR/99761/1035845021/492-549', 580, 75, 'LLR99761']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_04.jpg', '/sl-forward-sprisv/LLR/99761/1035845021/492-549', 319, 97, 'LLR99761'], ['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_05.jpg', '/sl-forward-sprisv/LLR/99762/1035845204/949-994', 261, 97, 'LLR99762']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_06.jpg', '/sl-forward-sprisv/LLR/99761/1035845021/492-549', 331, 155, 'LLR99761'], ['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_07.jpg', '/sl-forward-sprisv/LLR/99763/1035845205/810-885', 249, 155, 'LLR99763']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_08.jpg', '/sl-forward-sprisv/LLR/99761/1035845021/492-549', 580, 181, 'LLR99761']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_09.jpg', '/sl-forward-sprisv/LLR/99761/1035845021/492-549', 193, 115, 'LLR99761'], ['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_10.jpg', '/sl-forward-sprisv/LLR/99762/1035845204/949-994', 194, 115, 'LLR99762'], ['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_11.jpg', '/sl-forward-sprisv/LLR/99763/1035845205/810-885', 193, 115, 'LLR99763']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_12.jpg', '/sl-forward-sprisv/LLR/99761/1035845021/492-549', 21, 33, 'LLR99761'], ['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_13.jpg', '/sl-forward-sprisv/LLR/99761/1035845021/492-549', 172, 33, 'LLR99761'], ['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_14.jpg', '/sl-forward-sprisv/LLR/99762/1035845204/949-994', 14, 33, 'LLR99762'], ['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_15.jpg', '/sl-forward-sprisv/LLR/99762/1035845204/949-994', 180, 33, 'LLR99762'], ['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_16.jpg', '/sl-forward-sprisv/LLR/99763/1035845205/810-885', 6, 33, 'LLR99763'], ['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_17.jpg', '/sl-forward-sprisv/LLR/99763/1035845205/810-885', 187, 33, 'LLR99763']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_18.jpg', '/sl-forward-sprisv/LLR/99761/1035845021/492-549', 193, 65, 'LLR99761'], ['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_19.jpg', '/sl-forward-sprisv/LLR/99762/1035845204/949-994', 194, 65, 'LLR99762'], ['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_20.jpg', '/sl-forward-sprisv/LLR/99763/1035845205/810-885', 193, 65, 'LLR99763']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_21.jpg', '/sl-forward-sprisv/LLR/99761/1035845021/492-549', 580, 323, 'LLR99761']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_22.jpg', '/sl-forward-sprisv/LLR/20990/1035841111/511-920', 580, 131, 'LLR20990']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_23.jpg', '/sl-forward-sprisv/LLR/20990/1035841111/511-920', 21, 34, 'LLR20990'], ['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_24.jpg', '/sl-forward-sprisv/LLR/20990/1035841111/511-920', 152, 34, 'LLR20990'], ['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_25.jpg', '/sl-forward-sprisv/LLR/20990/1035841111/511-920', 407, 34, 'LLR20990']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_26.jpg', '/sl-forward-sprisv/LLR/20990/1035841111/511-920', 580, 458, 'LLR20990']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_27.jpg', '', 580, 141, '']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_119_081617_Q3_LORELL_Sit_Stand_R4_DEV_28.jpg', '', 580, 140, '', '#000000', '#FFFFFF', 'linetext1_CUS']]
+
