@@ -1,0 +1,112 @@
+title: 'TBD'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4906f950-02fc-45a9-9348-12b6647d089c.jpg?ver=1498568979000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7bc30928-e2e9-44c6-b470-50d2555e2326.jpg?ver=1498568979000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ed54e743-7a8a-4d64-98c9-c5b64f465243.jpg?ver=1498568980000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+#- type: 'image'
+#  img_link: 'https://vimeo.com/167304429'
+#  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+#  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+  img_alt: 'GOURMET REWARDS CLUB'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/410a6ec4-b346-4030-b989-cce0e4099a3f.jpg?ver=1497977317000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+  img_alt: '4TH OF JULY FAVES Create BERRY CHEESECAKE TARTS VIEW RECIPE > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/95ae6b6b-4ee6-4c4b-9c06-fffbc969296f.jpg?ver=1498568952000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+  img_alt: 'MEAT LOVERS UNITE | PRIME CUTS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/904ca493-2b7c-4b6c-9616-c9407574e5a6.jpg?ver=1498568952000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0623_BLD_Weekly_Email'
+  img_alt: 'RED, WHITE & BBQ Start your celebration off with a bang, we&#39;ll bring the BBQ and all the trimmings! ORDER NOW > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/38da5b60-77e2-4aad-86dc-cf319f034396.jpg?ver=1497977319000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+  img_alt: 'STEAKHOUSE ELITE KOBE BEEF AMERICA FRANKS JUST ADD BALDUCCI&#39;S HOT DOG BUNS USDA CHOICE NATURAL BEEF NY STRIP STEAKS JUST ADD PETER LUGER STEAK SAUCE BALDUCCI&#39;S CERTIFIED ANGUS PRIME FRESH BEEF BURGERS CHOOSE FROM 4 FLAVORS BELL & EVANS NATURAL FRESH SPLIT CHICKEN BREASTS HORMONE AND ANTIBIOTIC FREE OUR FINEST MEATS GROUND FRESH TODAY We grind fresh cuts of beef, veal and pork in-store every day, and it&#39;s a flavorful difference you can taste.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/503fb026-c40d-435c-9f19-8817779f2c1f.jpg?ver=1498568960000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+  img_alt: 'PRODUCT SPOTLIGHT | MIGHTY MARINADES'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c1e8c3d7-bb2d-44ff-acf2-75bdf77622e5.jpg?ver=1498568960000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+  img_alt: 'SOY VAY MARINADES Let your palate wander with Soy Vay marinades- available in distinctive flavors including: Veri Veri Teriyaki, Hoisin Garlic, Island Teriyaki and more. 2/$5'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4f576a4e-e990-44e2-9572-4f1c2ff6eba7.jpg?ver=1498568963000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+  img_alt: 'A Star-Spangled Soirée'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/53531e51-df7b-4e21-a135-eedd51bd865d.jpg?ver=1498568963000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+  img_alt: 'All-American classics get a touch of gourmet with our BBQ Catering menu and easy grab-and-go side dishes and desserts. ORDER NOW >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d2512d68-48a7-4022-b6e7-0512a369ab11.jpg?ver=1498568965000'
+  
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+  img_alt: 'BALDUCCI&#39;S BBQ BEEF BRISKET BALDUCCI&#39;S BBQ PORK SPARE RIBS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c977989d-f56a-4dca-8f77-bb424c33a3cc.jpg?ver=1498568969000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+  img_alt: 'WHITE MAC &#39;N CHEESE CHOCOLATE CREAM PIE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1f2012aa-ead9-4663-8a16-950fc909d4fe.jpg?ver=1498568974000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+  img_alt: 'STARS, STRIPES & SWEETS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/db61bc3e-918f-4754-a6d8-53fb5d1995fe.jpg?ver=1498568975000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_BLD_Weekly_Email'
+  img_alt: 'RED, WHITE & BLUEBERRY STRAWBERRY SHORTCAKE JARS VIEW RECIPE > PATRIOTIC BERRY KABOBS VIEW RECIPE >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bd223bee-d373-4e34-bece-ddcdab345a9f.jpg?ver=1498568979000'
