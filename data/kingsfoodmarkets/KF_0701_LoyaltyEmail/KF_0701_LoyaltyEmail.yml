@@ -1,0 +1,86 @@
+title: 'July Exclusive Member Offers'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_KF_LoyaltyEmail'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_KF_LoyaltyEmail'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8821530-b079-427c-96b1-2d07abf11d05.jpg?ver=1495479649000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_KF_LoyaltyEmail'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_KF_LoyaltyEmail'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_KF_LoyaltyEmail'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_KF_LoyaltyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+#- type: "image"
+#  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d0bb8e77-08e9-4856-8db5-56d72fbecddb.jpg?ver=1495479650000"
+#  img_alt: "RED, WHITE AND BBQ | Kick off the summer with a little relaxation and a lot of delicious food!"
+#  img_link: "https://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_KF_LoyaltyEmail"
+
+#__IMAGE_TEMPLATES__
+- type: 'image-2-columns'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_KF_LoyaltyEmail'
+  img_alt: 'KINGS REWARDS'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f4c6908c-e425-461d-a5be-21901b26aef4.jpg?ver=1498669938000'
+  img_2_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign='
+  img_2_alt: 'Not A Member? Sign Up At Any Register Today! '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/36a3fdcf-a192-46d3-a1c9-ec7cc4e1ecad.jpg?ver=1498669938000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0701_KF_LoyaltyEmail'
+  img_alt: 'July Exclusive Member Offers'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6c81896a-cf0f-4ffd-a3f5-3a8eb68e074d.jpg?ver=1498669939000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign='
+  img_alt: 'KINGS PRE-PACKED SALAD CLUB!Buy 5 Kings Pre-Packed Salads Get the 6th Free!* (*) The Free Salad will automatically be subtracted from the total. Free value cannot be applied to another item or received as cash.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3c19dca7-41d2-46e4-8a01-1988991f7a25.jpg?ver=1498669939000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=July Exclusive Member Offers'
+  img_alt: ''
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fbbaff51-fa75-4198-8efe-2dd074563fe0.jpg?ver=1498669940000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign='
+  img_alt: 'Don&#39;t Forget! Check in-store for our weekly Member Exclusive Flyer! '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a758b130-b288-4235-854d-273c02761fb3.jpg?ver=1498669940000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=_x000D_This is a solo email - we did not do the creative.'
+  img_alt: 'Remember! Use Your Card Or Phone Number Each Time You Shop To Receive All Your Benefits! '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ac23114-040a-4296-bb2c-69c7fd258065.jpg?ver=1498669940000'
+

@@ -107,10 +107,14 @@ class emailBuilder(object):
         if not match and ',' in data:
             dataList = data.split(',')
             for item in dataList:
-                for extension in self.imageFileExtensions:
-                    regPattern = re.compile(".*_{}\.{}".format("{:0>2d}".format(int(item)), extension))
-                    if regPattern.match(image) is not None:
-                        match = True
+                if item == image:
+                    match = True
+                    break
+                elif data.isdigit():
+                    for extension in self.imageFileExtensions:
+                        regPattern = re.compile(".*_{}\.{}".format("{:0>2d}".format(int(item)), extension))
+                        if regPattern.match(image) is not None:
+                            match = True
         elif not match and data.isdigit():
             for extension in self.imageFileExtensions:
                 regPattern = re.compile(".*_{}\.{}".format("{:0>2d}".format(int(data)), extension))

@@ -1,0 +1,120 @@
+title: 'Grill & Chill with Chef Jesse Jones! '
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8821530-b079-427c-96b1-2d07abf11d05.jpg?ver=1495479649000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+#- type: "image"
+#  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d0bb8e77-08e9-4856-8db5-56d72fbecddb.jpg?ver=1495479650000"
+#  img_alt: "RED, WHITE AND BBQ | Kick off the summer with a little relaxation and a lot of delicious food!"
+#  img_link: "https://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail"
+
+#__IMAGE_TEMPLATES__
+- type: 'image-4-columns'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+  img_alt: 'KINGS'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/23ece22a-e2c3-4783-b050-cc2480b39dac.jpg?ver=1498668065000'
+  img_2_link: ''
+  img_2_alt: ''
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1564df34-4f2d-45bf-9431-be7bbbffd865.jpg?ver=1498668066000'
+  img_3_link: ''
+  img_3_alt: ''
+  img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/deee8b49-505e-4a6b-920f-43e95015e7c6.jpg?ver=1498668066000'
+  img_4_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+  img_4_alt: 'FIND A STORE'
+  img_4_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/31d44cdd-ac5e-4a1e-9c36-effcd1127b71.jpg?ver=1498668066000'
+
+- type: 'image-4-columns'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+  img_alt: 'KINGS'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0618b151-a223-43a5-825c-2d982b6e6159.jpg?ver=1498668066000'
+  img_2_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+  img_2_alt: 'WEEKLY CIRCULAR'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1bcb2502-6fb7-46a6-b7f3-5405ee539504.jpg?ver=1498668066000'
+  img_3_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+  img_3_alt: 'CHEF PREPARED '
+  img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/24087566-8bc8-42c1-a835-b2c04a0cbdd6.jpg?ver=1498668067000'
+  img_4_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+  img_4_alt: 'CATERING'
+  img_4_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/359d931c-81bf-485d-b282-fcaffdab7067.jpg?ver=1498668067000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+  img_alt: 'Grill &amp; Chill Tasting Event | At our Mendham store Saturday, July 1 and Sunday, July 2 11:00 AM - 3:00 PM '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/196d1ba1-5de6-46a3-a7de-1b6117a70c06.jpg?ver=1498667336000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+  img_alt: 'With special guest Chef Jesse Jones Winner of the Ultimate Chef of Bergen County, and 2nd Place at the Summit Wine &amp; Food Festival. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/89aded0c-c99d-4966-887a-2491c88eb345.jpg?ver=1498667337000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/unique-recipes/pork-grilled-vegetable-panini?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+  img_alt: 'Featured Recipe: Pork &amp; Grilled Vegetable Panini'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/90107629-9871-442d-9dd6-e01e1d7419ce.jpg?ver=1498667337000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/unique-recipes/corn-salad-with-smoked-olive-oil?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+  img_alt: 'Also come and sample Corn Salad with Smoked Olive Oil '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3c7f2eef-46b4-4d84-a1cb-29ced7399f31.jpg?ver=1498667338000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/unique-recipes/grilled-peaches-cream?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+  img_alt: 'Grilled Peaches &amp; Cream '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1553afbb-4e09-4a91-be5d-208f9f583bcf.jpg?ver=1498667338000'
+
+- type: 'image-4-columns'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_GrillChill_SoloEmail'
+  img_alt: 'www.kingsfoodmarkets.com'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9d004860-62d8-4bb1-b2d9-b933ba6885b5.jpg?ver=1498668280000'
+  img_2_link: 'https://www.facebook.com/KingsFoodMarkets'
+  img_2_alt: 'facebook'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/385e1a37-4674-446f-af76-bfb1f82474de.jpg?ver=1498668281000'
+  img_3_link: 'https://twitter.com/KingsFoodMkts'
+  img_3_alt: 'twitter'
+  img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d107c9f2-f7cf-4fc3-b8d0-2dd1df49190b.jpg?ver=1498668281000'
+  img_4_link: 'https://www.youtube.com/user/KingsFoodMarkets'
+  img_4_alt: 'youtube'
+  img_4_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f47f5a8c-15af-47ee-b49e-fea558d7ca0b.jpg?ver=1498668281000'
+
