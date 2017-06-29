@@ -1,0 +1,151 @@
+#TITLE
+title: 'Shop baby brezza®'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Shop baby brezza®'
+preheader_link: 'https://www.buybuybaby.com/store/brand/baby-brezza/869'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE='
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+# - type: 'image-3-columns'
+#   img_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_alt: 'Crisp & clean, you can&#39;t go wrong with stripes!'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_02.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_2_alt: 'go bold what&#39;s Black & White and always in style? Fun, functional baby gear in this on-trend color scheme.'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_03.jpg'
+#   img_3_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_3_alt: 'Black & White looks best when you add bold pops of color!'
+#   img_3_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_04.jpg'
+
+# - type: 'image-2-columns'
+#   img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+#   img_alt: 'savings center'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_13.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+#   img_2_alt: 'strollers'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/baby-brezza/869/4294967217-4294965885-4294964335-32055/1-48?pagSortOpt=DEFAULT-0&isFromSWD=false&_requestid=2060816'
+  img_alt: 'baby brezza® made like mom Designed for optimal development, the Baby Brezza Bottle mimics breastfeeding with the most breast-like nipple available. shop now new!'
+  img_url: 'images/bbB_198_070717_BabyBrezza_v1_r6_DEV_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/baby-brezza/869/4294967217-4294965885-4294964335-32055/1-48?pagSortOpt=DEFAULT-0&isFromSWD=false&_requestid=2060816'
+  img_alt: 'a better bottle breast-like nipple Eases transition from breast to bottle & back truflo vent system Keeps baby comfortable by minimizing gas ergonomic shape w/ only 2 parts Comfortable for you & your baby to hold ultra wide mouth opening makes it simple to fill & clean '
+  img_url: 'images/bbB_198_070717_BabyBrezza_v1_r6_DEV_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/s/baby-brezza-glass/4294965885-4294967217-30512/1-48?&view=grid&_dyncharset=UTF-8&isFromSWD=false&_requestid=2076316'
+  img_alt: '2-Pack Glass Bottles Available in 5 oz & 8 oz 24.99 each '
+  img_url: 'images/bbB_198_070717_BabyBrezza_v1_r6_DEV_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/s/baby-brezza-polypropylene/4294967217-4294965885-30512/1-48?&view=grid&_dyncharset=UTF-8&isFromSWD=false&_requestid=2076478'
+  img_alt: '3-Pack Polypropylene Bottles Available in 5 oz & 8 oz 22.99 each '
+  img_url: 'images/bbB_198_070717_BabyBrezza_v1_r6_DEV_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/baby-brezza/869'
+  img_alt: 'more from baby brezza®'
+  img_url: 'images/bbB_198_070717_BabyBrezza_v1_r6_DEV_06.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/baby-brezza-reg-one-step-bottle-sterilizer-and-dryer/1042607892'
+  img_alt: 'One-Step Bottle Sterilizer and Dryer Natural steam kills 99.9% of germs in your baby&#39;s bottles in just 8 minutes 99.99 FREE SHIPPING'
+  img_url: 'images/bbB_198_070717_BabyBrezza_v1_r6_DEV_07.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/babybrezza-reg-safe-and-smart-bottle-warmer-with-bluetooth-in-white/1060088727'
+  img_2_alt: 'Safe and Smart Bottle Warmer with Bluetooth® Features 2 warming options: steady for breastmilk, or fast for formula 69.99 FREE SHIPPING'
+  img_2_url: 'images/bbB_198_070717_BabyBrezza_v1_r6_DEV_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/baby-brezza-reg-formula-pro-formula-dispenser/1042167105?Keyword=42167105'
+  img_alt: 'works with all bottle sizes! Formula Pro Formula Dispenser Prepare a perfect bottle with the push of a button. Bottles are ready in seconds! 179.99 FREE SHIPPING'
+  img_url: 'images/bbB_198_070717_BabyBrezza_v1_r6_DEV_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/baby-brezza/869'
+  img_alt: 'shop baby brezza®'
+  img_url: 'images/bbB_198_070717_BabyBrezza_v1_r6_DEV_10.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States. '
+  img_url: 'images/bbB_198_070717_BabyBrezza_v1_r6_DEV_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/bath-potty/diapers/32539/'
+  img_alt: 'top diapers for every bottom shop diapers'
+  img_url: 'images/bbB_198_070717_BabyBrezza_v1_r6_DEV_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/s/swimwear/4294965885-4294967217-30007/2-48?&view=grid&_dyncharset=UTF-8&isFromSWD=false&_requestid=941413'
+  img_alt: 'splish, splash, it&#39;s summer swimwear shop now'
+  img_url: 'images/bbB_198_070717_BabyBrezza_v1_r6_DEV_13.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_198_070717_BabyBrezza_v1_r6_DEV_14.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_198_070717_BabyBrezza_v1_r6_DEV_15.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_198_070717_BabyBrezza_v1_r6_DEV_16.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_198_070717_BabyBrezza_v1_r6_DEV_17.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_198_070717_BabyBrezza_v1_r6_DEV_18.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_198_070717_BabyBrezza_v1_r6_DEV_19.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_198_070717_BabyBrezza_v1_r6_DEV_20.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
