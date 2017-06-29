@@ -1,0 +1,131 @@
+#TITLE
+title: 'Stylish &amp; Sustainable Cribs'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_Logo.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FreeShipping.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_InStore.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_RegistryLogo.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_NAV1.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_NAV2.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_NAV3.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Stylish &amp; Sustainable Cribs'
+preheader_link: 'https://www.buybuybaby.com/store/brand/carter-39-s-by-davinci/6089?'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE='
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+#- type: 'image'
+#  img_url: 'images/fileName.jpg'
+#  img_alt: 'alt text goes here'
+#  img_link: 'https://www.website.com/path/to/page'
+
+#- type: 'image-2-columns
+#  img_url: 'images/fileName.jpg'
+#  img_alt: 'alt text goes here'
+#  img_link: 'https://www.website.com/path/to/page'
+#  img_2_url: 'images/fileName.jpg'
+#  img_2_alt: 'alt text goes here'
+#  img_2_link: 'https://www.website.com/path/to/page'
+  
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_02.jpg', 'https://www.buybuybaby.com/store/product/carter-39-s-reg-by-davinci-reg-conner-4-in-1-crib-in-white-grey/3326052', 600, 697, 'better for baby better for mother earth Introducing a new line of eco-friendly baby furniture designed to grow with your family for years to come. Connor 4-in-1 Convertible Crib | 229.99 With classic molding & accent paneling, Connor pairs well with modern or traditional style nurseries Available in White, Two-Tone White & Grey FREE SHIPPING safety tip Never use soft bedding, such as quilts, stuffed animals, & pillows in cribs. coordinates with the Morgan Dresser']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_03.jpg', 'https://www.buybuybaby.com/store/brand/carter-39-s-by-davinci/6089?', 600, 288, "breathe easy GREENGUARD Certified products make your baby's room safer by reducing indoor air pollution & chemical exposure"]]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_04.jpg', 'https://www.buybuybaby.com/store/product/carter-39-s-reg-by-davinci-reg-kenzie-4-in-1-crib-in-grey/3326054', 600, 397, 'Kenzie 4-in-1 Convertible Crib Features an elegantly arched headboard & raised molding Available in White, Grey 189.99 FREE SHIPPING coordinates with the Morgan Dresser']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_05.jpg', 'https://www.buybuybaby.com/store/product/carter-39-s-reg-by-davinci-reg-taylor-4-in-1-crib-in-grey-white/3326069', 600, 399, 'Taylor 4-in-1 Convertible Crib With clean lines & curved corners, this crib has a modern feel Available in White, Grey, Two-Toned Grey & White 199.99 FREE SHIPPING coordinates with the Colby Dresser']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_06.jpg', 'https://www.buybuybaby.com/store/product/carter-39-s-reg-by-davinci-reg-colby-6-drawer-dresser-in-grey/3326150', 600, 397, "Colby 6-Drawer Double Dresser A modern, streamlines look with plenty of space for your baby's things Available in White, Grey, Two-Tones Grey & White 329.99 FREE SHIPPING coordinates with the Colby Crib & Taylor Crib"]]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_07.jpg', 'https://www.buybuybaby.com/store/product/carter-39-s-reg-by-davinci-reg-colby-4-in-1-crib-in-white/3326346', 600, 397, 'Colby 4-in-1 Convertible Crib w/ Trundle Drawer Features a sizable, built-in trundle for extra storage space Available in White, Grey, Two-Tone Grey & White 229.99 FREE SHIPPING']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_08.jpg', 'https://www.buybuybaby.com/store/brand/carter-39-s-by-davinci/6089?', 600, 326, 'grow-with-them 4-in-1 convertible cribs easily adapt from crib to cozy toddler bed, daybed & then to a full sized bed. ']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_09.jpg', 'https://www.buybuybaby.com/store/product/carter-39-s-reg-by-davinci-reg-morgan-4-in-1-crib-in-espresso/3326181', 600, 400, 'Morgan 4-in-1 Convertible Crib Raised horizontal molding & a panel headboard give Morgan a contemporary look that can work with many nursery styles Available in White, Grey, & Espresso 199.99 FREE SHIPPING coordinates with the Morgan Dresser']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_10.jpg', 'https://www.buybuybaby.com/store/product/carter-39-s-reg-by-davinci-reg-morgan-3-drawer-dresser-in-white/1061467385', 600, 385, 'Morgan 3-Drawer Dresser Storage meets flexible style Available in White, Grey, & Espresso 249.99 FREE SHIPPING coordinates with the Morgan Crib, Connor Crib, & the Kenzie Crib']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_11.jpg', 'https://www.buybuybaby.com/store/brand/carter-39-s-by-davinci/6089', 600, 61, "shop Carter's by DaVinci "]]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_12.jpg', 'http://www.buybuybaby.com/store/selfservice/FindStore', 600, 80, 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid in contiguous Unites States. ']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_13.jpg', 'https://www.buybuybaby.com/store/static/savingscenter', 300, 61, 'savings center'], ['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_14.jpg', 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/', 300, 61, 'strollers']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_15.jpg', 'https://www.buybuybaby.com/store/category/gifts-more/32641/', 300, 52, 'gifts & more'], ['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_16.jpg', 'https://www.buybuybaby.com/store/category/car-seats/car-seats/32593/', 300, 52, 'car seats']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_17.jpg', 'https://www.buybuybaby.com/store/category/bath-potty/30003/', 300, 61, 'bath & potty'], ['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_18.jpg', 'https://www.buybuybaby.com/store/category/bedding-decor/baby-bedding/30501/', 300, 61, 'baby bedding']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_19.jpg', 'http://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/32689/', 600, 229, 'registry favorites shop now']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_000_070617_MillionDollarBaby_v1_r11_DEV_20.jpg', 'https://www.buybuybaby.com/store/s/diapers', 600, 226, 'top diapers for every bottom shop diapers']]
+
+
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailSocial_LeftMargin.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailSocial_FB.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailSocial_Twitter.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailSocial_Pinterest.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailSocial_YT.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailSocial_Instagram.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_emailSocial_RightMargin.jpg"
+  alt: ""
