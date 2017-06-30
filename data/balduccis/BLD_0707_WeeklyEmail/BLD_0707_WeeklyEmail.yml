@@ -1,0 +1,94 @@
+title: 'TBD '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+#- type: 'image'
+#  img_link: 'https://vimeo.com/167304429'
+#  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+#  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2a137c1-f1e7-4b25-b783-2330047913ee.jpg?ver=1484168397000'
+#   img_alt: 'Tex Mex Platter'
+#   img_link_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0113_BLD_Weekly_Email'
+#   img_url_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/471eb689-d0f8-4522-8d42-e056b4656dbf.jpg?ver=1484168397000'
+#   img_alt_2: 'Buffalo Chicken Wings'
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3de053c9-f843-41e7-a930-e0fdf19dceb2.jpg?ver=1498836401000', 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'GOURMET REWARDS CLUB']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fa97ec63-cec1-4dc2-9b52-cee7358501f4.jpg?ver=1498836402000', 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'SUMMER&#39;S BEST PICKS ']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cd84d928-9faf-4ba2-a011-3130617d75a6.jpg?ver=1498836402000', 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'SUMMER GOODNESS']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d837ce20-fc88-41bb-86d5-018c8f3a0b53.jpg?ver=1498836402000', 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'BEEFSTEAK TOMATOES Enjoy these luscious tomatoes on sandwiches or in salads while they&#39;re at the peak of their season. BRANDT FARMS WHITE PEACHESA delicious treat, fresh or in your favorite desserts. ']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/df29879b-2720-472c-90c3-516fb0a6c682.jpg?ver=1498836403000', 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'BABY SEEDLESS WATERMELON The signature fruit of summer, our baby seedless watermelons make it easy to enjoy this cool, classic treat without the seeds.BALDUCCI&#39;S STORE-CUT MANGO PIECES Perfect for making smoothies, enjoying as a snack or in a salad, mangoes add a tropical vibe to dining with their sweet, juicy flavor. ']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4252c475-75b9-4c22-a674-ba2686ea2fdd.jpg?ver=1498836403000', 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'H2-OH SO GOOD! ']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/72495194-bec3-4bc8-a101-56a524319fd7.jpg?ver=1498836403000', 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'Offer guests the refined refreshment of infused water. They&#39;re good for you, taste great, and look beautiful, too!']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5d5dbfb5-07a9-44e0-828c-0d0fa25979bd.jpg?ver=1498836404000', 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'STRAWBERRY, CUCUMBER, &amp; THYME WATER VIEW RECIPE >'], ['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/84b5f103-a5d7-4fc9-8a77-c5583ccff7d6.jpg?ver=1498836404000', 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'CUCUMBER, LEMON, MINT, &amp; ROSEMARY WATER VIEW RECIPE >']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/48bc2b3a-5de4-44cb-8dcd-c2c4c8e4c391.jpg?ver=1498836404000', 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'MEMBER EXCLUSIVE']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3697e6bd-529d-4011-bb69-29bca7b47a27.jpg?ver=1498836405000', 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'NATURAL FRESH PORK TENDERLOINS BONELESS MEMBER EXCLUSIVE6.99/LBReg 9.99 ']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1fdd06de-6219-408f-8b66-39d76bb3fca7.jpg?ver=1498836405000', 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'SWEET &amp; TANGY | CITRUS DESSERTS ']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4fc08f63-6863-4788-acd5-882ddaeb961b.jpg?ver=1498836405000', 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'BALDUCCI&#39;S KEY LIME PIE8&#34; LEMON MERINGUE PIELEMON BARS ']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/75f32a0d-a980-4a31-91fe-def5875408f3.jpg?ver=1498836405000', '', '', '', 'WHAT&#39;S NEW IN STORE ']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1c84f73d-c089-4414-b40c-376a22f1080f.jpg?ver=1498836406000', 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'Summer BBQ Catering Juicy and perfectly crisp buttermilk fried chicken.  Slow roasted, tender pork shoulder.  Hungry yet? Our Summer BBQ catering menu is calling!  ORDER NOW >']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/68f32ff3-5abd-46d6-8577-7ede629e98db.jpg?ver=1498836406000', 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_BLD_Weekly_Email', '', '', 'Summer Wine &amp; Food Tasting Join us for an exclusive tasting evet. SATURDAY, JULY 15th Food Samplings.12 noon-5pmWine Samplings..2-5pm Only at Balducci&#39;s Alexandria, Bethesda &amp; McLean MORE INFO >']]
+
+

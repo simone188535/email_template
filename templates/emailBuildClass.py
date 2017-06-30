@@ -177,7 +177,7 @@ class emailBuilder(object):
             imgData[2] = self.getImageLink(row[self.linkColumn]).encode('ascii','ignore')
             imgData[3] = width
             imgData[4] = height
-            imgData[5] = row[self.altTextColumn].encode('ascii','ignore')
+            imgData[5] = self.encodeText(row[self.altTextColumn].encode('ascii','ignore'))
 
             #imgFile.close()
             imgData = self.addAdditionalFields(image, imgData)

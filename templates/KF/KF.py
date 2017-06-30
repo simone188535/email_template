@@ -55,7 +55,7 @@ class KFLoyalty(emailBuilder):
             imgData[0] = "image"
             imgData[1] = str(path + imageName).encode('ascii','ignore')
             imgData[2] = self.getImageLink(row[self.linkColumn]).encode('ascii','ignore')
-            imgData[5] = row[self.altTextColumn].encode('ascii','ignore')
+            imgData[5] = self.encodeText(row[self.altTextColumn].encode('ascii','ignore'))
 
             imgData = self.addAdditionalFields(image, imgData)
 
