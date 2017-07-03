@@ -342,6 +342,69 @@
           <!-- Image, Flush : END -->
       <% end %>
 
+      <% if f["type"]=="hero-with-button"%>
+          <!-- 2 Even Columns : BEGIN -->
+          <tr>
+            <td>
+              <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="w100pc" width="100%">
+                <tbody>
+                  <tr>
+                    <td width="30">&nbsp;</td>
+                    <td width="540">
+                    <table align="center" border="0" cellpadding="0" cellspacing="0">
+                      <tbody>
+
+                        <tr>
+                          <td class="hide" height="1" style="line-height:1px; mso-line-height-rule: exactly;"><img border="0" height="1" name="spacer-540-white.png" spname="spacer-540-white.png" src="  https://s3.amazonaws.com/purered/usfoodsimages/spacer-540-white.png" width="540" xt="SPIMAGE"></td>
+                        </tr>
+
+                        <tr>
+                          <td align="center" style="vertical-align: middle;" valign="middle">
+
+                          <!--Left column is a Table aligned to the left-->
+                          <table align="center" border="0" cellpadding="0" cellspacing="0" class="w100pc" valign="middle" width="560">
+                            <tbody>
+                              <!--Spacer 255 pixels to hold Table open in Outlook otherwise Outlook will resize the table width-->
+                              <tr>
+                                <td class="hide" height="1" style="line-height:1px; mso-line-height-rule:exactly;"><img border="0" height="1" name="spacers-255-white.png" spname="spacers-255-white.png" src=" https://s3.amazonaws.com/purered/usfoodsimages/spacers-255-white.png" width="255" xt="SPIMAGE"></td>
+                              </tr>
+                              <tr align="center" bgcolor="#ffffff" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #ffffff;">
+                                  <td align="center">
+                                    <a href="#">
+                                      <img class="desktop" src="<%= f["desktop_image_url"] %>" width="100%" height="259">
+                                    </a>
+                                  </td>
+                              </tr>
+                              <tr class="mobile pad" bgcolor="#ffffff" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; display: none; background-color: #ffffff;">
+                                  <td align="center">
+                                    <a href="#">
+                                      <img class="mobile" src="<%= f["mobile_image_url"] %>" style="display:none;" width="100%" height="259">
+                                    </a>
+                                  </td>
+                              </tr>
+                              <tr>
+                                <td class="h20" height="1" style="line-height: 1px; mso-line-height-rule: exactly;">&nbsp;</td>
+                              </tr>
+                              <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                <td align="center" valign="middle" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: Arial, Helvetica, sans-serif; font-size: 19px; line-height: 28px; color: #000000; padding: 15px;">
+                                  <a href="#"><img border="0" height="40" src="<%= f["button_image_url"] %>" width="260" xt="SPIMAGE"> </a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                          </table>
+                        
+
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                <td width="30">&nbsp;</td>
+              </tr>
+            </tbody>
+          </table>
+      <% end %>
+
 
       <% if f["type"]=="view-more" %>
           <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
@@ -1070,199 +1133,136 @@
 
 
       <% if f["type"]=="how-to-buy" %>
-      <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-            <td height="20" bgcolor="#ffffff" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 0; line-height: 0;">&nbsp;
-              
-            </td>
-          </tr>
+      <!--How-to-Buy Start Here-->
           <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-            <td height="20" bgcolor="#ffffff" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 0; line-height: 0;">&nbsp;
-              
-            </td>
+            <td bgcolor="#5C8727" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+              <table align="center" bgcolor="#5C8727" border="0" cellpadding="0" cellspacing="0" class="w100pc" width="600">
+        <tbody>
+          <tr>
+            <td class="hide" height="1" style="line-height:1px; mso-line-height-rule:exactly;"><img border="0" height="1" name="spacer-540-green.png" spname="spacer-600-green.png" src="spacer-600-green.png" width="600" xt="SPIMAGE"></td>
           </tr>
-          <!--How-to-Buy Start Here-->
-          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-            <td style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
-              <table align="center" bgcolor="#5C8727" border="0" cellpadding="0" cellspacing="0" class="w100pc" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border: 1px solid #aaaaaa; table-layout: fixed; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin: 0 auto;" width="100%">
-                <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                    <td class="hide" height="1" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 1px; mso-line-height-rule: exactly;"><img border="0" height="1" name="spacer-540-green.png" spname="spacer-600-green.png" src="images/spacer-600-green.png" width="100%" xt="SPIMAGE" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;"></td>
-                  </tr>
-                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                    <td class="h25" height="25" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 25px; mso-line-height-rule: exactly;">&nbsp;</td>
-                  </tr>
-                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                    <td style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
-                      <table align="center" bgcolor="#5C8727" border="0" cellpadding="0" cellspacing="0" class="w100pc" width="100%" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; table-layout: auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin: 0 auto;">
-                        <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                            <td width="30" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">&nbsp;</td>
-                            <td width="540" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
-                              <table align="center" border="0" cellpadding="0" cellspacing="0" class="w100pc" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; table-layout: auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin: 0 auto;">
-                                <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                    <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
-                                      <table align="left" border="0" cellpadding="0" cellspacing="0" class="w100pc" width="540" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; table-layout: auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin: 0 auto;">
-                                        <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                            <td class="hide" height="1" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 1px; mso-line-height-rule: exactly;"><img border="0" height="1" name="spacer-540-green.png" spname="spacer-540-green.png" src="images/spacer-540-green.png" width="540" xt="SPIMAGE" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;"></td>
-                                          </tr>
-                                          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                            <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-rspace: 0pt; mso-table-lspace: 0pt; font-family: arial; line-height: 32px; text-align: center; font-size: 32px; mso-line-height-rule: exactly; font-weight: bold; color: #ffffff;">HOW TO BUY</td>
-                                          </tr>
-                                          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                            <td class="h20" height="15" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 15px; mso-line-height-rule: exactly;">&nbsp;</td>
-                                          </tr>
-                                        </tbody>
-                                      </table>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-
-
-                              <table align="center" bgcolor="#5C8727" border="0" cellpadding="0" cellspacing="0" class="w100pc" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; table-layout: auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin: 0 auto;">
-                                <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                    <td class="hide" height="1" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 1px; mso-line-height-rule: exactly;"><img border="0" height="1" name="spacer-540-green.png" spname="spacer-540-green.png" src="images/spacer-540-green.png" width="540" xt="SPIMAGE" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;"></td>
-                                  </tr>
-                                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                    <td align="center" valign="top" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
-
-                                      <table align="left" bgcolor="#5C8727" border="0" cellpadding="0" cellspacing="0" class="w100pc" width="340" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; table-layout: auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin: 0 auto;">
-                                        <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                            <td class="hide" height="1" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 1px; mso-line-height-rule: exactly;"><img border="0" height="1" src="images/spacer-340-green.png" width="340" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;"></td>
-                                          </tr>
-                                          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                            <td style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
-
-                                              <table align="left" bgcolor="#5C8727" border="0" cellpadding="0" cellspacing="0" class="w100pc" width="210" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; table-layout: auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin: 0 auto;">
-                                                <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                    <td class="hide" height="1" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 1px; mso-line-height-rule: exactly;"><img border="0" height="1" src="images/spacer-210-green.png" width="210" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;"></td>
-                                                  </tr>
-                                                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                    <td align="center" valign="top" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
-                                                      <table align="left" border="0" cellpadding="0" cellspacing="0" class="w100pc" width="88" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; table-layout: auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin: 0 auto;">
-                                                        <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                            <td align="center" height="91" valign="bottom" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
-                                                              <a href="https://www3.usfoods.com/order" target="_BLANK" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><img class="" src="images/order-online.png" alt="Order Online" width="80" height="91" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;"></a>
-                                                            </td>
-                                                          </tr>
-                                                          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                            <td class="h15" height="1" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 1px; mso-line-height-rule: exactly;">&nbsp;</td>
-                                                          </tr>
-                                                        </tbody>
-                                                      </table>
-
-                                                      <table align="right" border="0" cellpadding="0" cellspacing="0" class="w100pc" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; table-layout: auto; margin: 0 auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" width="64">
-                                                        <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                            <td align="center" height="91" valign="bottom" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
-                                                              <a href="https://itunes.apple.com/us/app/us-foods-for-iphone/id975383532?mt=8" target="_BLANK" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><img class="" src="images/app-store.png" alt="Apple Store" width="80" height="91" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;"></a>
-                                                            </td>
-                                                          </tr>
-                                                          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                            <td class="h15" height="1" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 1px; mso-line-height-rule: exactly;">&nbsp;</td>
-                                                          </tr>
-                                                        </tbody>
-                                                      </table>
-                                                    </td>
-                                                  </tr>
-                                                </tbody>
-                                              </table>
-
-                                              <table align="left" bgcolor="#5C8727" border="0" cellpadding="0" class="w100pc" cellspacing="0" width="115" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; table-layout: auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin: 0 auto;">
-                                                <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                    <td class="hide" height="1" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 1px; mso-line-height-rule: exactly;"><img border="0" height="1" src="images/spacer-115-green.png" width="115" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;"></td>
-                                                  </tr>
-                                                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                    <td align="center" valign="top" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
-                                                      <table align="right" border="0" cellpadding="0" cellspacing="0" class="w100pc" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; table-layout: auto; margin: 0 auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" width="80">
-                                                        <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                            <td align="center" height="91" valign="bottom" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
-                                                              <a href="https://play.google.com/store/apps/details?id=com.usfoods.mobile&hl=en" target="_BLANK" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><img class="" src="images/google-play.png" alt="Google Play" width="80" height="91" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;"></a>
-                                                            </td>
-                                                          </tr>
-                                                          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                            <td class="h25" height="1" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 1px; mso-line-height-rule: exactly;">&nbsp;</td>
-                                                          </tr>
-                                                        </tbody>
-                                                      </table>
-                                                    </td>
-                                                  </tr>
-                                                </tbody>
-                                              </table>
-                                            </td>
+          <tr>
+            <td bgcolor="#5c8727" class="h25" height="25" style="mso-line-height-rule:exactly;line-height:25px;">&nbsp;</td>
+          </tr>
+          <tr>
+              <td>
+              <table align="center" bgcolor="#5C8727" border="0" cellpadding="0" cellspacing="0" class="w100pc" width="100%">
+                <tbody>
+                  <tr>
+                    <td width="30">&nbsp;</td>
+                    <td width="540">
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" class="w100pc" width="100%">
+                      <tbody>
+                        <tr>
+                          <td align="center">
+                          <table align="center" border="0" cellpadding="0" cellspacing="0" class="w100pc" width="540">
+                            <tbody>
+                              <tr>
+                                <td class="hide" height="1" style="line-height:1px; mso-line-height-rule:exactly;"><img border="0" height="1" name="spacer-540-green.png" spname="spacer-540-green.png" src="spacer-540-green.png" width="540" xt="SPIMAGE"></td>
+                              </tr>
+                              <tr>
+                                <td align="center" style="font-size:36px; line-height: 40px; mso-line-height-rule:exactly; font-weight: bold; font-family:arial; color:#ffffff; text-align:center;">HOW TO BUY</td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="h25" height="25" style="line-height:25px; mso-line-height-rule:exactly;">&nbsp;</td>
+                        </tr>
+                        <!--spacing-->
+                        <tr>
+                          <td>
+                          <table align="center" border="0" cellpadding="0" cellspacing="0" class="w100pc" width="100%">
+                            <tbody>
+                              <tr>
+                                <td class="hide" height="1" style="line-height:1px; mso-line-height-rule: exactly;"><img border="0" height="1" name="spacer-540-green.png" spname="spacer-540-green.png" src="spacer-540-green.png" width="540" xt="SPIMAGE"></td>
+                              </tr>
+                              <tr>
+                                <td align="center" valign="bottom">
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" class="w100pc" style="margin: 0px;" width="100%">
+                                  <tbody>
+                                    <tr>
+                                      <td class="hide" height="1" style="line-height:1px; mso-line-height-rule: exactly;"><img border="0" height="1" name="spacer-540-green.png" spname="spacer-540-green.png" src="spacer-540-green.png" width="540" xt="SPIMAGE"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="center">
+                                      <table align="center" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                          <tr>
+                                            <td><a href="https://www3.usfoods.com/order" name="Order Online" target="_blank" xt="SPCLICK"><img border="0" height="88.649" name="order-online.png" spname="order-online.png" src="order-online.png" style="display:block;" width="80" xt="SPIMAGE"></a></td>
+                                            <td width="30">&nbsp;</td>
+                                            <td><a href="https://itunes.apple.com/us/app/us-foods-for-iphone/id975383532?mt=8" name="Apple Store Link" target="_blank" xt="SPCLICK"><img border="0" height="88" name="app-store.png" spname="app-store.png" src="app-store.png" style="display:block;" width="97" xt="SPIMAGE"></a></td>
+                                            <td width="30">&nbsp;</td>
+                                            <td><a href="https://play.google.com/store/apps/details?id=com.usfoods.mobile&hl=en" name="Google Play Link" target="_blank" xt="SPCLICK"><img border="0" height="88" name="google-play.png" spname="google-play.png" src="google-play.png" style="display:block;" width="97.778" xt="SPIMAGE"></a></td>
                                           </tr>
                                         </tbody>
                                       </table>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="h15" height="15" style="line-height:15px; mso-line-height-rule:exactly;">&nbsp;</td>
+                                    </tr>
+                                    <!--spacing-->
+                                  </tbody>
+                                </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                          <table align="center" border="0" cellpadding="0" cellspacing="0" class="w100pc" width="100%">
+                            <tbody>
+                              <tr>
+                                <td class="hide" height="1" style="line-height:1px; mso-line-height-rule: exactly;"><img border="0" height="1" name="spacer-540-green.png" spname="spacer-540-green.png" src="spacer-540-green.png" width="540" xt="SPIMAGE"></td>
+                              </tr>
+                              <tr>
+                                <td align="center" valign="bottom">
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" class="w100pc" style="margin: 0px;" width="100%">
+                                  <tbody>
+                                    <tr>
+                                      <td class="hide" height="1" style="line-height:1px; mso-line-height-rule: exactly;"><img border="0" height="1" name="spacer-540-green.png" spname="spacer-540-green.png" src="spacer-540-green.png" width="540" xt="SPIMAGE"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="center" class="txtcenter" style="font-size:21px; font-weight:bold; color: #ffffff; font-family: arial; line-height: 33px; mso-line-height-rule:exactly; text-align:center;">Contact Sales Rep</td>
+                                    </tr>
+                                    <tr>
+                                      <td class="h5" height="5" style="line-height:5px; mso-line-height-rule:exactly;">&nbsp;</td>
+                                    </tr>
+                                    <!--spacing-->
+                                    <tr>
+                                      <td align="center" class="txtcenter" style="font-size:14px; line-height: 21px; mso-line-height-rule:exactly; font-weight:normal; color: #ffffff; font-family: arial; text-align:center;">%%tm_name%%<br>
+                                      %%SC_phone_nbr%%<br>
+                                      <a href="mailto:%%tm_email%%" name="usfoods_com" style="text-decoration: none; color: #ffffff;" xt="SPEMAIL">%%tm_email%%</a></td>
+                                    </tr>
+                                    <tr>
+                                      <td class="h25" height="25" style="line-height:25px; mso-line-height-rule:exactly;">&nbsp;</td>
+                                    </tr>
 
-                                      <table align="right" bgcolor="#5C8727" border="0" cellpadding="0" class="w100pc" cellspacing="0" width="185" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; table-layout: auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin: 0 auto;">
-                                        <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                            <td class="hide" height="1" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 1px; mso-line-height-rule: exactly;"><img border="0" height="1" src="images/spacer-185-green.png" width="185" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;"></td>
-                                          </tr>
-                                          <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                            <td align="center" valign="bottom" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
-                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="hide" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; table-layout: auto; margin: 0 auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" width="30">
-                                                <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                    <td class="hide" height="1" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 1px; mso-line-height-rule: exactly;"><img border="0" height="1" src="images/spacer-30-green.png" width="30" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;"></td>
-                                                  </tr>
-                                                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                    <td align="center" height="88" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 88px; mso-line-height-rule: exactly;"><img class="hide" src="images/special-order-white-1.png" height="88" width="24" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;"></td>
-                                                  </tr>
-                                                </tbody>
-                                              </table>
-
-
-                                              <table align="right" border="0" cellpadding="0" cellspacing="0" class="w100pc" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; table-layout: auto; margin: 0 auto; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" width="140">
-                                                <tbody style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                    <td class="hide" height="1" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 1px; mso-line-height-rule: exactly;"><img border="0" height="1" src="images/spacer-140-green.png" width="140" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;"></td>
-                                                  </tr>
-                                                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                    <td align="center" class="txtcenter" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-rspace: 0pt; mso-table-lspace: 0pt; line-height: 33px; font-weight: bold; text-align: left; font-size: 18px; color: #ffffff; font-family: arial; mso-line-height-rule: exactly;">Call Sales Rep</td>
-                                                  </tr>
-                                                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                                                    <td align="center" class="txtcenter" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-rspace: 0pt; mso-table-lspace: 0pt; color: #ffffff; line-height: 19px; text-align: left; font-size: 14px; mso-line-height-rule: exactly; font-weight: normal; font-family: arial;">TM name
-                                                      <br style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"> TM Phone Number
-                                                      <br style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"> TM Email Address </td>
-                                                  </tr>
-                                                </tbody>
-                                              </table>
-
-                                            </td>
-                                          </tr>
-                                        </tbody>
-                                      </table>
-
-
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-
-                            </td>
-                            <td width="30" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">&nbsp;</td>
-                          </tr>
-                        </tbody>
-                      </table>
+                                  </tbody>
+                                </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
                     </td>
+                    <td width="30">&nbsp;</td>
                   </tr>
-                  <tr style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
-                    <td class="h25" height="25" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; line-height: 25px; mso-line-height-rule: exactly;">&nbsp;</td>
-                  </tr>
-                  <!--spacing-->
                 </tbody>
               </table>
-            </td>
-          </tr>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        </td>
+      </tr>
           <!--How-to-Buy End Here-->
       <% end %>
 

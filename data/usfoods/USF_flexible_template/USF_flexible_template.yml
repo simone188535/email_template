@@ -75,5 +75,10 @@ articles:
   live_text: 'Place your next order using <font style="border-bottom: 2px solid #cf4520; color: #cf4520; font-weight: 600;">US Foods Online</font> from <font style="font-weight: 600;"><br>June 12 - August 5,</font> and you will be automatically entered to <br><font style="text-transform: uppercase; color: #5b8726; font-weight: 600;">win a $5,000 gift card.</font>'
   live_button_text: 'LEARN MORE' 
 
+- type: 'hero-with-button'
+  desktop_image_url: 'https://s3.amazonaws.com/purered/usfoodsimages/USF_SummerScoop_email_wave4_desktop_TP.jpg'
+  mobile_image_url: 'https://s3.amazonaws.com/purered/usfoodsimages/USF_SummerScoop_email_wave4_mobile_TP.jpg' 
+  button_image_url: 'https://s3.amazonaws.com/purered/usfoodsimages/viewproduct.jpg' 
+
 
 
