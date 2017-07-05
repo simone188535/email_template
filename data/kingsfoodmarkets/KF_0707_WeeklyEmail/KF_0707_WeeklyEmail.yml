@@ -1,0 +1,140 @@
+title: 'TBD'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8821530-b079-427c-96b1-2d07abf11d05.jpg?ver=1495479649000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+#- type: "image"
+#  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d0bb8e77-08e9-4856-8db5-56d72fbecddb.jpg?ver=1495479650000"
+#  img_alt: "RED, WHITE AND BBQ | Kick off the summer with a little relaxation and a lot of delicious food!"
+#  img_link: "https://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain"
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/31f727a8-11c6-404d-bb2d-196a0d15b361.jpg?ver=1499094405000', 'http://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'HOMEGROWIN goodnessWe&#39;re proud to be a home-grown New Jersey company.  Meet a few of the local farms that grow, harvest and deliver our produce.']]
+
+- type: 'table'
+  data: []
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fc54039f-ba1c-4cc1-8647-f9d8517cc390.jpg?ver=1499094406000', 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'LOCAL FARMS MEET OUR LOCAL FARMERS ']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a48b6252-e5d7-4558-9adb-ee45d0dc9283.jpg?ver=1499094408000', 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'New Jersey JERSEY LEGACY FARMS CEDARVILLE, NEW JERSEY  Crops include tomatoes, peppers, cucumbers, squash, lettuce, sweet corn &amp; eggplant '], ['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7b187096-347d-4bf8-97d6-ccf8c5f33be1.jpg?ver=1499094408000', 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'HEPWORTH FARMS MILTON, NEW YORK  Crops include tomatoes, peppers, eggplant, zucchini, cucumbers &amp; a variety of greens ']]
+
+- type: 'table'
+  data: []
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c9da13eb-fae0-4035-b25b-c331dc9bc27c.jpg?ver=1499094408000', 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'New Jersey CASSADAY FARMS MONROEVILLE, NEW JERSEY  Crops include corn, summer squash, broccoli &amp; strawberries '], ['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/37e06af7-4564-483a-a51d-72e2697900bf.jpg?ver=1499094408000', 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'SHEPPARD FARMS CEDARVILLE, NEW JERSEY  Crops include asparagus, cucumber, lettuce &amp; bell pepper']]
+
+- type: 'table'
+  data: []
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94381058-02ef-46a4-a6d9-cf30f96708ac.jpg?ver=1499094408000', 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'VIEW WEEKLY SPECIALS >']]
+
+- type: 'table'
+  data: []
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a1b32cba-8e36-4cef-bf9b-a4b7d622e819.jpg?ver=1499094409000', 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'MARKET SPECIALS ']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/911a1eb9-784f-492b-ad2d-0d7bb06cc29a.jpg?ver=1499094409000', 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'SAVE $1.70 LB KINGS BELL &amp; EVANS FRESH CHICKEN BREAST 2.99 LB. '], ['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/59419e1e-8c3e-4847-8f09-fe686c137518.jpg?ver=1499094409000', 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'SAVE $4 LB KINGS USDA CHOICE CHAIRMAN&#39;S RESERVE NY STRIP STEAKS 9.99 LB']]
+
+- type: 'table'
+  data: []
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d3be085-75c1-4e5b-b224-34e263e46c1f.jpg?ver=1499094410000', 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'SAVE $3.98 on 2PLUMP &amp; JUICY BLACKBERRIES 2/6'], ['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/69ac217b-07ba-40a4-a95b-f5748174772d.jpg?ver=1499094410000', 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'SAVE $10.95 on 3 POLAND SPRING WATER 24 PACK 3/10 ']]
+
+- type: 'table'
+  data: []
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9481f5f3-d0ce-4d9c-a481-f8f2b15c5f52.jpg?ver=1499094410000', 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'VIEW WEEKLY SPECIALS > ']]
+
+- type: 'table'
+  data: []
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/31b68ff1-60be-4604-80b6-aa6d7f8ecb52.jpg?ver=1499094410000', 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'EASY SUMMER EATING ']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/90d4e340-4dbe-43ad-ae23-67360e32d14e.jpg?ver=1499094411000', 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'Select from our most-loved Grab &amp; Go Meals: ']]
+
+- type: 'table'
+  data: []
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/934c4139-6c2c-4c7d-96ef-a79e5d5d2d3f.jpg?ver=1499094411000', 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'REFRESHING SLAW SIGNATURE SALAD'], ['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/754b4cae-cbc6-46c5-8bbf-c813d5ccc836.jpg?ver=1499094412000', 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'TOMATO &amp; MOZZARELLA FICELLE '], ['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/27f2ed88-b071-4e99-965f-9f828afb9116.jpg?ver=1499094412000', 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'ALMOND ENCRUSTED FLOUNDER OR BREADED FLOUNDER ITALIANO HEAT &amp; EAT']]
+
+- type: 'table'
+  data: []
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f01ec273-0bc2-4e06-8bca-1abea8a8dbc9.jpg?ver=1499094412000', 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'VIEW MORE >']]
+
+- type: 'table'
+  data: []
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bc309069-1b3a-4985-ab28-c850676d9c93.jpg?ver=1499094412000', '', '', '', 'TASTES LIKE SUMMER']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0728d958-6cfa-4f5a-a2d1-6a22443d16d7.jpg?ver=1499094412000', 'http://kingsfoodmarkets.com/unique-recipes/grilled-balsamic-vegetable-salad-with-capers-and-goat-cheese?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'GRILLED BALSAMIC VEGETABLE SALAD VIEW RECIPE '], ['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0e588ec4-da98-47ec-96a7-dcbb8cde6b1e.jpg?ver=1499094412000', 'http://kingsfoodmarkets.com/unique-recipes/grilled-eggplant-rollatini-served-with-tomato-basil-sauce?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'GRILLED EGGPLANT ROLLATINIVIEW RECIPE ']]
+
+- type: 'table'
+  data: []
+
+- type: 'table'
+  data: []
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a8cf954-295f-49ba-b47a-5e24c137d11b.jpg?ver=1499094413000', 'http://vealmadeeasy.com/sweepstakes/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'WHAT&#39;S NEW IN STORE']]
+
+- type: 'table'
+  data: [['image', 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/330a809f-360d-4482-8255-a7b8abccb541.jpg?ver=1499094413000', 'http://vealmadeeasy.com/sweepstakes/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0707_KF_WeeklyEmail_Chain', '', '', 'WIN $500 IN FREE GROCERIES VEAL SUMMER GRILLINGVEAL MAKES A MEAL MEMORABLE Get inspired with recipes like veal &amp; mushroom sliders or veal kabobs, and enter to win $500 of free grocieries! ENTER NOW >']]
+
