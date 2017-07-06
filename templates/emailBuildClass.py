@@ -107,10 +107,16 @@ class emailBuilder(object):
         if not match and ',' in data:
             dataList = data.split(',')
             for item in dataList:
-                for extension in self.imageFileExtensions:
-                    regPattern = re.compile(".*_{}\.{}".format("{:0>2d}".format(int(item)), extension))
-                    if regPattern.match(image) is not None:
-                        match = True
+                item = item.strip()
+                if item == image:
+                    match = True
+                    break
+                elif item.isdigit():
+                    for extension in self.imageFileExtensions:
+                        regPattern = re.compile(".*_{}\.{}".format("{:0>2d}".format(int(item)), extension))
+                        if regPattern.match(image) is not None:
+                            match = True
+                            break
         elif not match and data.isdigit():
             for extension in self.imageFileExtensions:
                 regPattern = re.compile(".*_{}\.{}".format("{:0>2d}".format(int(data)), extension))
@@ -171,7 +177,7 @@ class emailBuilder(object):
             imgData[2] = self.getImageLink(row[self.linkColumn]).encode('ascii','ignore')
             imgData[3] = width
             imgData[4] = height
-            imgData[5] = row[self.altTextColumn].encode('ascii','ignore')
+            imgData[5] = self.encodeText(row[self.altTextColumn].encode('ascii','ignore'))
 
             #imgFile.close()
             imgData = self.addAdditionalFields(image, imgData)

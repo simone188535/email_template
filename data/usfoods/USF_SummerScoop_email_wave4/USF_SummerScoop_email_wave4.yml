@@ -1,0 +1,54 @@
+title: ""
+
+
+hero_img_url: "images/hero.jpg"
+hero_img_link:
+hero_img_alt:
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'images/USF_SummerScoop_email_wave4_desktop_HERO.jpg'
+  image_alt: 'US. FOODS TIPPING POINT™ PLAY THE 5 Rs GAME'
+  image_link: 'https://www.usftippingpoint.com/Tipping_Point_Game/story_html5.html'
+
+- type: 'view-more'
+  view_more_url: 'images/bbB_176_01117_4moms_gear_v2_r4_DEV_08.jpg'
+  view_more_text: 'When servers become more powerful sellers, restaurant profits also increase. Get tips and tools to train your servers how to sell these hot new products.'
+  view_more_link: 'https://www.usftippingpoint.com/'
+  view_more_link_text: 'LEARN MORE'
+  background_color: '#cf4520'
+
+- type: 'header-live-text'
+  header_live_link: 'https://www.usftippingpoint.com/server_products'
+  header_text: 'FEATURED PRODUCTS'
+  header_live_color: '#cf4520'
+
+- type: 'product-left-image'
+  product_left_img: 'images/USF_SummerScoop_email_wave4_desktop_FEATURE01.jpg'
+  product_left_link: 'https://www.usftippingpoint.com/server_products/appetizers'
+  product_left_title: 'MOLLY&#39;S KITCHEN'
+  product_left_recipe_title: 'Battered Elote <br>Corn Bites'
+  product_left_recipe_text: 'When to suggest: Try these tasty bites as a street-food style snack or sharable appetizer.'
+
+- type: 'product-left-image'
+  product_left_img: 'images/USF_SummerScoop_email_wave4_desktop_FEATURE02.jpg'
+  product_left_link: 'https://www.usftippingpoint.com/server_products/desserts'
+  product_left_title: 'CHEF&#39;S LINE'
+  product_left_recipe_title: 'Strawberry Ice Cream with Balsamic Swirl'
+  product_left_recipe_text: 'When to suggest: While guests are waiting for their entrée. This dessert offers a seasonally relevant flavor combination which is on-trend.'
+
+- type: 'hero-with-button'
+  desktop_image_url: 'https://s3.amazonaws.com/purered/usfoodsimages/USF_SummerScoop_email_wave4_desktop_TP.jpg'
+  mobile_image_url: 'https://s3.amazonaws.com/purered/usfoodsimages/USF_SummerScoop_email_wave4_mobile_TP.jpg' 
+  button_image_url: 'https://s3.amazonaws.com/purered/usfoodsimages/viewproduct.jpg'
+
+- type: 'get-the-scoop'
+  scoop_link: 'https://www.usfoods.com/the-scoop.html'
+  scoop_text: 'View Spring Scoop&trade; 2017'
+
+
+
+
+
