@@ -1,0 +1,134 @@
+#TITLE
+title: 'Shop safety'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_Logo_CA.jpg"
+logo_img_alt: "__LOGO_ALT__"
+logo_img_link: "__LOGO_LINK__"
+
+freeshipping_img_url: "images/bbB_emailheader_FreeShipping_CA.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/"
+
+instore_img_url: "images/bbB_emailheader_InStore_CA.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.bedbathandbeyond.ca/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_RegistryLogo_CA.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "https://www.bedbathandbeyond.ca/store/page/BabyCanadaRegistry"
+
+nav1_url: "images/bbB_emailheader_NAV1_CA.jpg"
+nav1_alt: "baby nursery"
+nav1_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/22927"
+
+nav2_url: "images/bbB_emailheader_NAV2_CA.jpg"
+nav2_alt: "nursing &amp; feeding"
+nav2_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/22936/"
+
+nav3_url: "images/bbB_emailheader_NAV3_CA.jpg"
+nav3_alt: "bath &amp; potty"
+nav3_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Shop safety'
+preheader_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/health-safety/22950/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE=H'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+#- type: 'image'
+#  img_url: 'images/fileName.jpg'
+#  img_alt: 'alt text goes here'
+#  img_link: 'https://www.website.com/path/to/page'
+
+#- type: 'image-2-columns
+#  img_url: 'images/fileName.jpg'
+#  img_alt: 'alt text goes here'
+#  img_link: 'https://www.website.com/path/to/page'
+#  img_2_url: 'images/fileName.jpg'
+#  img_2_alt: 'alt text goes here'
+#  img_2_link: 'https://www.website.com/path/to/page'
+  
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_02.jpg', 'https://www.bedbathandbeyond.ca/store/category/baby-kids/health-safety/22950/', 600, 445, 'safe every step of the way shop now']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_03.jpg', '', 600, 77, 'take a peek monitors let you keep a watchful eye on your little one']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_04.jpg', 'https://www.bedbathandbeyond.ca/store/product/project-nursery-reg-4-3-inch-video-baby-monitor-system/1046732293', 600, 267, '4.3-Inch Video Baby Monitor System by Project Nursery&#174; Was 249.99 NOW 229.99 FREE SHIPPING']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_05.jpg', 'https://www.bedbathandbeyond.ca/store/product/angelcare-reg-5-inch-ac517-baby-movement-monitor-with-wireless-sensor-pad/1060264916', 600, 345, '5-Inch AC517 Baby Monitor with Wireless Sensor Pad by Angelcare&#174; 359.99 FREE SHIPPING']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_06.jpg', '', 600, 89, 'baby boundaries little explorers need a safe place to play, crawl, &amp; scoot']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_07.jpg', 'https://www.bedbathandbeyond.ca/store/product/homesafe-multi-use-deco-extra-tall-walk-thru-gate-in-bronze/1016430226', 600, 362, 'Multi-Use Deco Extra Tall Walk-Thru Gate by HomeSafe Shown in Bronze 99.99 FREE SHIPPING']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_08.jpg', 'https://www.bedbathandbeyond.ca/store/product/summer-infant-trade-custom-fit-gate-in-grey/1046106643', 600, 267, 'Custom Fit Gate | 149.99 by Summer Infant&#8482; FREE SHIPPING']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_09.jpg', '', 600, 84, 'play it safe alert drivers to slow down &amp; use caution']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_10.jpg', 'https://www.bedbathandbeyond.ca/store/product/step2-kidalert-pup-visual-warning-buddies/1043730063', 600, 357, 'KidAlert &amp; Pup Visual Warning Buddies by Step2 33.99']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_11.jpg', '', 600, 96, 'protect little hands keep your curious cutie safe by securing cabinets, drawers, &amp; more']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_12.jpg', 'https://www.bedbathandbeyond.ca/store/product/safety-1st-reg-outsmart-trade-2-pack-outlet-shields/1045791956', 236, 623, 'OutSmart&#8482; 2-Pack Outlet Shields by Safety 1st&#174; 6.99'], ['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_13.jpg', 'https://www.bedbathandbeyond.ca/store/product/safety-1st-reg-outsmart-trade-slide-lock/1045791932', 148, 623, 'Outsmart&#8482; Slide Lock by Safety 1st&#8482; 8.99'], ['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_14.jpg', 'https://www.bedbathandbeyond.ca/store/product/safety-1st-reg-outsmart-trade-2-pack-knob-covers/1045791949', 216, 623, 'OutSmart&#8482; 2-Pack Knob Covers by Safety 1st&#174; 9.99']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_15.jpg', '', 600, 103, 'a safe space help them feel safe &amp; secure with soothing sounds &amp; glowing lights']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_16.jpg', 'https://www.bedbathandbeyond.ca/store/product/skip-hop-reg-moonlight-melodies-owl-projection-nightlight-in-white/1043921720', 300, 445, 'Moonlight &amp; Melodies Owl Project Nightlight by SKIP*HOP 49.99 FREE SHIPPING'], ['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_17.jpg', 'https://www.bedbathandbeyond.ca/store/product/skip-hop-reg-moonlight-melodies-elephant-soother/1060110060', 300, 445, 'Moonlight &amp; Melodies Elephant Soother by SKIP*HOP 49.99 FREE SHIPPING']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_18.jpg', 'https://www.bedbathandbeyond.ca/store/category/baby-kids/health-safety/22950/', 600, 67, 'shop safety']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_19.jpg', 'ttps://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator', 600, 56, 'You can purchase any of these items at buybuybaby.ca, order in any of our stores or use our find in-store option for easy pick-up. ']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_20.jpg', 'https://www.bedbathandbeyond.ca/store/category/baby-kids/kids-toys/outdoor-play-toys/23887/', 600, 228, 'splish splash play! Shop water toys']]
+
+- type: 'table'
+  data: [['image', 'images/bbB_198_071817_Safety_CANADA_v1_r3_DEV_21.jpg', 'https://www.bedbathandbeyond.ca/store/category/baby-kids/health-safety/cleaning-products/22956/', 600, 226, 'squeaky clean shop now']]
+
+
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailSocial_LeftMargin.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailSocial_FB.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailSocial_Twitter.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailSocial_Pinterest.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailSocial_YT.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailSocial_Instagram.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_emailSocial_RightMargin.jpg"
+  alt: ""
