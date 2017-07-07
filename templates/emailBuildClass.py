@@ -94,6 +94,9 @@ class emailBuilder(object):
         cell = cell.replace("'", "&#39;")
         cell = cell.replace('"', "&#34;")
         cell = cell.replace('\n', "")
+        cell = cell.replace('™', '&#8482;')
+        cell = cell.replace('®', '&#174;')
+        cell = cell.replace('©', '&#169;')
         return cell
 
     def cellContainsImage(self, data, image):
