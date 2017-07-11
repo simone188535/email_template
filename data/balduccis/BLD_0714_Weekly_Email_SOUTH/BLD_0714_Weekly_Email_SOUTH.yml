@@ -1,0 +1,118 @@
+title: 'Celebrate Ice Cream Day! '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d8122738-33f3-4181-98ac-dbaf90d937ba.jpg?ver=1497373079000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43ada965-5b9f-4e25-8fa1-be0734094fd5.jpg?ver=1497373079000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1ff67d4-42f0-40dc-86e1-338f5f3a59b7.jpg?ver=1497373080000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+#- type: 'image'
+#  img_link: 'https://vimeo.com/167304429'
+#  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+#  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+  img_alt: 'GOURMET REWARDS CLUB'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/da11e961-e3a7-4f56-9dce-225f046f962c.jpg?ver=1496764390000'
+
+- type: 'image'
+  img_link: 'https://vimeo.com/171595127'
+  img_alt: 'A DECADENT SUMMER Sweet, savory and seductive; these summer indulgences are waiting for you!  Create AVOCADO LOBSTER ROLL WATCH VIDEO > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bf33ac22-28e4-4eed-962e-24f774c7d20d.jpg?ver=1499786889000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+  img_alt: 'SUCCULENT SEAFOOD '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f9981bfe-80df-4ec4-b51d-218c522f8476.jpg?ver=1499786889000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+  img_alt: 'LIVE SOUTH ATLANTIC LOBSTERS Steamed, broiled or baked, nothings says decadence like lobster! WILD CAUGHT ALASKAN SOCKEYE SALMON Brilliantly colored, this gourmet fish is prized by chefs for its rich texture and flavor.  '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5eeaef7f-ad32-4c89-a55e-42104a8761ca.jpg?ver=1499786891000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+  img_alt: 'ICE CREAM DAY IS JULY 16TH! '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/519f8d41-ee3f-44b1-90e6-d2eb6ea848b1.jpg?ver=1499786892000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+  img_alt: 'ALDEN&#39;S ORGANIC ICE CREAM Created with only the finest milk and cream, and available in a variety of enticing flavors. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/efcb1ec0-22b6-44a8-af82-393d2c0431d9.jpg?ver=1499786892000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+  img_alt: 'LET&#39;S DO ORGANIC ICE CREAM CONES Crafted from organiz ingredients and free of all artificial ingredients. NEW! S&F DESSERT SAUCES Available in a variety of decadent flavors and handcrafted from the finest ingredients. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cf845412-7aca-4e1b-8f9c-97af37ed1d80.jpg?ver=1499786892000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+  img_alt: 'MEMBER EXCLUSIVE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3ac7e76e-165e-4867-b1d1-ae9b893a8e34.jpg?ver=1499786892000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+  img_alt: 'USDA CHOICE LOIN LAMB CHOPS BONE-IN MEMBER EXCLUSIVE 16.99/LB Reg 18.99'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ad5c18cf-8739-4aaf-9a77-be07aabaef80.jpg?ver=1499786893000'
+
+- type: 'image'
+  img_link: 'www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+  img_alt: 'CRAVE-WORTHY CHEESE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dee8789e-df6e-4b27-a37a-4a38c57cb57e.jpg?ver=1499786893000'
+
+- type: 'image'
+  img_link: 'www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+  img_alt: 'LAUREL CHENEL CABECOU BALDUCCI&#39;S HAND-WRAPPED MOZZARELLA & OVALINE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/96df72ba-504a-40c0-b2ad-388235ee3f9d.jpg?ver=1499786893000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+  img_alt: 'MARK YOUR CALENDAR '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2608129-7b27-45d4-aa26-0669fed2fa3d.jpg?ver=1499791064000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+  img_alt: 'Summer Wine & Food Tasting Join us for an exclusive tasting event. SATURDAY, JULY 15th Food Samplings…..12 noon-5pm Wine Samplings…….2-5pm MORE INFO>'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8bed9c2a-b806-4980-83b1-3fefdc2956c8.jpg?ver=1499791065000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_SOUTH'
+  img_alt: 'Van Cleve Chesapeake Crab & Scallop Pies Originating from a 150-year old family recipe, the Van Cleve family&#39;s seafood pies are baked to perfection in a flaky pastry crust. Stop by and meet the owners! SATURDAY, JULY 15th 12 noon-5pm'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3646f24a-6b43-45ce-8821-c79a7ccc5a65.jpg?ver=1499791065000'
+
