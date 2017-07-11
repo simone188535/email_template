@@ -1,0 +1,105 @@
+title: 'Summer Wine & the Livin&#39;s Easy'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d8122738-33f3-4181-98ac-dbaf90d937ba.jpg?ver=1497373079000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43ada965-5b9f-4e25-8fa1-be0734094fd5.jpg?ver=1497373079000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1ff67d4-42f0-40dc-86e1-338f5f3a59b7.jpg?ver=1497373080000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+#- type: 'image'
+#  img_link: 'https://vimeo.com/167304429'
+#  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+#  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'Wine Newsletter June 2017'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/13723606-c48d-43e5-b78e-4abe1370f35e.jpg?ver=1499783070000'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'SUMMER WINE & FOOD EVENT SATURDAY, JULY 15TH Food Tasting:  12pm-5pm Wine Tasting: 2pm-5pm FEATURING • Wines for the Patio, Beach and Poolside! • Extreme Value Wines! '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a97aa012-badf-45c1-bc09-33a23e21bd60.jpg?ver=1499778271000'
+  img_2_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+  img_2_alt: 'SUMMER WINE & FOOD EVENT SATURDAY, JULY 15TH Food Tasting:  12pm-5pm Wine Tasting: 2pm-5pm FEATURING • Wines for the Patio, Beach and Poolside! • Extreme Value Wines! '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8dfe48fc-efb5-4098-8e5c-4398e9b61cc0.jpg?ver=1499778272000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'WINERY IN FOCUS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/487c7206-ff04-4568-a8f2-173e07a5074e.jpg?ver=1499778272000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'Scott Family Estates is a fourth generation, family farmed winery in the Arroyo Seco region of Monterey that focuses on Dijon clone Chardonnay and Pinot Noir. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/92b37ca4-3958-4103-bec6-c2f43a3399bd.jpg?ver=1499778272000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'Scott Family Chardonnay Arroyo Seco 2015 19.99/BTL Arroyo Secco has a cool climate and long growing season—perfect for Burgundian-styled Chardonnay and Pinot Noir. Vibrant aromas and flavors of pear, fresh apricot, lemon zest and creamy vanilla surround the rich body of this classic Chardonnay.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2b41f74f-be28-42bc-9ff5-068d0266b0ae.jpg?ver=1499785304000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'Scott Family Estate Chardonnay Carneros Napa Valley 2014 29.99/BTL Carneros is the newest family-owned vineyard of the Scott family. With this debut bottling, they bring the rich, creamy mouth-feel and opulent white peach aromas and flavors of this moderate climate, marine influenced region. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a9ebf1f5-cdb7-4321-8547-0b007f64d318.jpg?ver=1499778273000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'Scott Family Pinot Noir Arroyo Seco 2015 24.99/BTL Vibrant aromas and silky flavors or cherry, strawberry, toasty vanilla, toffee and dried herbs kick off this richly textured Pinot Noir.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f65bcf67-c3fe-42d3-926b-35c3af97bd4e.jpg?ver=1499785305000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'Scott Family Pinot Noir Russian River 2014 29.99/BTL Only the second vintage from this new vineyard site for Scott Family, it follows last year&#39s success with soft and decadent aromas and flavors of black cherry, red plums and dark chocolate. Limited supply.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4d3694ae-7574-44df-9df4-712fc0356d8e.jpg?ver=1499778273000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'It&#39;s Bellini Season '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/269ddc84-fe0f-40cc-8e7f-48f5d5686a0b.jpg?ver=1499778273000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+  img_alt: '&#34;When it&#39;s this hot outside you know one thing—we&#39;re in the heart of stone fruit season. Peaches, nectarines, cherries and plums are the best part of summer. Eat them out of hand while sipping a fine Riesling or grill them up for dessert paired with a decadent sauternes. A must try this summer is White Peach Summer Bellini—pairing the juicy flavors of ripe peaches with the toasty, creamy nuances or Prosecco.&#34; - John Coleman, Balducci&#39;s Wine Merchant Create White Peach Summer Bellini View Recipe > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3221ed43-332c-40ad-b35f-7f2698c81dbe.jpg?ver=1499778273000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_Wine_Newsletter_Email_VA'
+  img_alt: 'Top Pick Balducci&#39;s Prosecco 12.99/BTL Hailing from the famous Gasparini estate near the town of Venegazzu, our Prosecco is lively, toasty and creamy with hints of hazelnut and candied fruits and a long, refreshing finish.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/297065f7-1d5b-441f-bd6b-d62bbf97485d.jpg?ver=1499785306000'
