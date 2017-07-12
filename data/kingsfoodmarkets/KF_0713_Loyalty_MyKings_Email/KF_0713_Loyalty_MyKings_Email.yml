@@ -1,0 +1,82 @@
+title: 'Account Update Reminder'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KF_LoyaltyEmail_59_66_68'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KF_LoyaltyEmail_59_66_68'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8821530-b079-427c-96b1-2d07abf11d05.jpg?ver=1495479649000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KF_LoyaltyEmail_59_66_68'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KF_LoyaltyEmail_59_66_68'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KF_LoyaltyEmail_59_66_68'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KF_LoyaltyEmail_59_66_68"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_Loyalty_MyKings_Email'
+  img_alt: 'KINGS REWARDS myKINGS extra! Smart Savings & More '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de875344-061d-47b9-a699-eb758461b1d2.jpg?ver=1499865788000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_Loyalty_MyKings_Email'
+  img_alt: 'MEMBER UPDATE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d3d9eab8-fe62-4a53-9a31-cdee3c908c39.jpg?ver=1499865788000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_Loyalty_MyKings_Email'
+  img_alt: 'Dear Valued Customer, We are excited to introduce our myKINGS Extra Savings Program! As an existing member of our Inspiration Circle REWARDS program, you are automatically enrolled to receive all sale prices and exclusive offers. When you provide your phone number or card at checkout: ! You will continue to earn Points and REWARDS dollards on all of your purchases. ! You will instantly receive all sale prices and member exclusive offers.! Look for more details in store, or call 1.800.325.4647 with any questions. Thanks again for being a valued Kings shopper and we look forward to seeing you soon! Your Kings Store Team  '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8d94fe11-f6bb-4adf-9cdc-8c0cdf56f9c7.jpg?ver=1499865789000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_Loyalty_MyKings_Email'
+  img_alt: 'myKINGS extra! Smart Savings & More extra! Benefits ! Sale prices are for members only! ! No card TO CARRY - just give your phone number at register. ! Exclusive member offers sent to your inbox and mailbox. ! Kids Club - receive a free cookie or fruit for your child while you shop. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1b1a7765-0496-494a-90d3-6b69a8e96042.jpg?ver=1499865789000'
+
+# - type: 'image'
+#   img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0626_KF_LoyaltyEmails_64'
+#   img_alt: 'KINGS PRE-PACKED SANDWICH CLUB! Buy 5 Kings Pre-Packed Sandwiches Get the 6th Free!* VALID 6/1/17 - 6/30/17 '
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ba814e13-872d-4e96-aaf5-4117c66ae03a.jpg?ver=1498150098000'
+
+# - type: 'image'
+#   img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0626_KF_LoyaltyEmails_64'
+#   img_alt: '(*) The Free Sandwich will automatically be subtracted from the total. Free value cannot be applied to another item or received as cash. '
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ead33d1e-de88-4075-85f7-ad1b447077eb.jpg?ver=1498150098000'
+
+# - type: 'image'
+#   img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0626_KF_LoyaltyEmails_64'
+#   img_alt: 'Remember! Use Your Card Or Phone Number Each Time You Shop To Receive All Your Benefits! '
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2cf655af-c4c2-4afe-bd78-5f45c9d127e5.jpg?ver=1498150099000'
