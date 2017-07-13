@@ -1,0 +1,99 @@
+title: 'Save $4 on Wild Caught Key West Shrimp'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+# #header
+# logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+# catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# catering_alt: 'CATERING'
+# chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# chef_prepared_alt: 'CHEF PREPARED'
+# store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# store_locator_alt: 'FIND A STORE'
+# my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+# #footer
+# footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__"
+# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+# footer_site_alt: "balduccis.com"
+# footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+# footer_facebook_alt: "facebook"
+# footer_twitter_link: "https://twitter.com/Balduccis"
+# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+# footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6dcbf666-6827-4c23-b6a3-352708304cab.jpg?ver=1499951198000'
+  img_alt: "Balducci's® Food Lover's Market™ This Week's Picks in Rye Brook Meat & Seafood Valid 7/14/17 - 7/20/17 "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/26805227-93a3-457a-89c1-7640e57f50e6.jpg?ver=1499951198000'
+  img_alt: "Save 2.00 |Balducci's Natural Store Made Chicken Satay, Hormone & Antibiotic Free | You Pay 7.99 LB. "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/35a11e9f-c5a7-4720-bbea-db7925a71de9.jpg?ver=1499951198000'
+  img_alt:  "Save 2.00 |Balducci's Natural Store Made Beef Satay, Hormone & Antibiotic Free | You Pay 9.99 LB. NEW! 5.99 SUSHI WEDNESDAYS | Choose from California, Salmon Avocado, Spicy Tuna, or Tuna Avocado Rolls "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3c20b7f5-6c5b-43d1-b30e-b39e6eb88531.jpg?ver=1499951198000'
+  img_alt: "Get a FREE Green Tea when you buy any Sushi Nigiri Combo Box | Offer valid until 5PM only"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fb2f2d5a-617c-4573-ac3b-1e1c9be9af22.jpg?ver=1499951198000'
+  img_alt: "Save 4.00 | Wild Caught Key West Pink Shrimp 1 lb. Bag, 16/20 ct. | You Pay 16.99 EA. "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d4047ce3-b17b-4432-95fc-32575bdb2a56.jpg?ver=1499951198000'
+  img_alt: "Cheese Savings Valid 7/14/17 - 7/20/17  Save 5.00 | Frans Hal Goat Gouda | You Pay 13.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/196a8dca-c7bc-4de3-9e2c-ec0932c461de.jpg?ver=1499951199000'
+  img_alt: "Save 2.00 | Pomella Buffalo Mozzarella, 7 oz. | You Pay 7.99 EA."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fa9aa3e5-7841-47bd-bdb3-c70f1d1d6c1e.jpg?ver=1499951199000'
+  img_alt: "Produce, Bakery & More! Valid 7/14/17 - 7/20/17 Save 1.00 | Organic Sweet Cherries | You Pay 5.99 Save 1.00 | Red, Green or Black Extra Large Grapes | You Pay 2.99 LB. "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/079326ac-09f1-4fe0-af7e-e64c51306669.jpg?ver=1499951199000'
+  img_alt: "Save 2.00 | Zaro's Sourdough Farm Round Bread, 32 oz. | You Pay 3.99 EA. Save 2.00 | Zaro's Sourdough Farm Round Bread, 32 oz. | You Pay 3.99 EA. Save 1.00 | Aloha Floral Bouquet | You Pay 14.99 EA."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1e603eaa-35bd-4046-96de-2d68eb83b3b5.jpg?ver=1499951199000'
+  img_alt: "Save 1.00 | Balducci's Bluegrass Slaw | You Pay 4.99 LB. Save 3.99 on 2 | Dannon Activia 4PK, all varieties, 16 oz. | You Pay BOGO"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8397b6c6-1664-4daa-9eeb-628a083b4cda.jpg?ver=1499951199000'
+  img_alt: "Save 67¢ on 3 | San Pellegrino Water, 1 Liter | You Pay 3/5.00 Save 1.50 | Lucini Salad Dressing, all varieties, 8.5 fl oz. | You Pay 4.99 EA. 144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook"
+
+# - type: 'image'
+#   img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0706_BLD_RyeBrookSavingsSolo'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e2fd5f91-c938-4e11-b68d-22572b4ac945.jpg?ver=1499350655000'
+#   img_alt: "Save 3.00 on 2 | Bark Thins Chocolate, 4.7 oz. | You Pay 2/7.00 Save 19.90 on 10 | Chobani Yogurt, Regular or Flips, 5.3 oz. | You Pay 10/10.00"
+
+# - type: 'image'
+#   img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0706_BLD_RyeBrookSavingsSolo'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7bdcf075-1dc2-413e-a470-afdad5e5759c.jpg?ver=1499350655000'
+#   img_alt: "144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook"
