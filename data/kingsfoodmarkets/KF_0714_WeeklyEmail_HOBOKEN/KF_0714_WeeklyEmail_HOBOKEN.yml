@@ -1,0 +1,172 @@
+title: 'Watch & Learn: Be a Poke Bowl Pro!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/45db34a0-276a-4746-8284-d77face7a1f1.jpg?ver=1499793322000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+#- type: "image"
+#  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d0bb8e77-08e9-4856-8db5-56d72fbecddb.jpg?ver=1495479650000"
+#  img_alt: "RED, WHITE AND BBQ | Kick off the summer with a little relaxation and a lot of delicious food!"
+#  img_link: "https://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WeeklyEmail_HOBOKEN"
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'https://www.youtube.com/watch?v=GutHt_AWHCs&feature=youtu.be'
+  img_alt: 'A TASTE OF SUMMER Colorful produce, fresh ideas and bright & interesting flavors. Create Ahi Tuna & Sesame Poke Bowl WATCH VIDEO >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4c483173-ef4e-4b00-bdd8-59733ca31154.jpg?ver=1499793323000'
+
+- type: 'image'
+  img_link: 'https://www.youtube.com/watch?v=GutHt_AWHCs&feature=youtu.be'
+  img_alt: 'A TASTE OF SUMMER Colorful produce, fresh ideas and bright & interesting flavors. Create Ahi Tuna & Sesame Poke Bowl WATCH VIDEO >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ffe6eb83-8213-40f7-a1a4-f6bfd50e097d.jpg?ver=1499793324000'
+
+- type: 'image'
+  img_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'MARKET SPECIALS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3c361092-fa88-45b7-a22f-cd66302a46bf.jpg?ver=1499798904000'
+
+- type: 'image-2-columns'
+  img_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'SAVE $5 lb. KINGS USDA PRIME NATURAL ANGUS OR CHOICE BEEF TENDERLOIN STEAKS 18.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57c07b74-c7bf-4452-b272-66e46e997eef.jpg?ver=1499798904000'
+  img_2_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_2_alt: 'SAVE $1 LARGE WHITE RAW SHRIMP, TAIL-ON 10.99 EA.'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6905f9a1-a8f6-4f0d-971c-d69b256d460e.jpg?ver=1499798904000'
+
+- type: 'image'
+  img_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'View More Specials and Make a List VIEW HOBOKEN MARKET SPECIALS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5c933561-6aff-4f7f-9ece-5349c9556c6f.jpg?ver=1499798905000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'COMING SOON'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6b69e71a-911b-4522-a2c2-c5a44431b9e8.jpg?ver=1499798905000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'my KINGS extra! SAVINGS JOIN TODAY! Members Only Savings. Don&#39;t Miss Out! More Savings. No Card to Carry. Exclusive Member Offers & MORE! Coming July 21, 2017 LEARN MORE >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d0859c7c-8935-418a-8c65-ef27021704e6.jpg?ver=1499798905000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'GRAB & GO  SAVORY SUMMER SALADS Ready and waiting for you! These fresh salads are perfect for a quick side or a light meal. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c6131762-538a-4200-a8fd-05c950dc4884.jpg?ver=1499793326000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'GRAB & GO  SAVORY SUMMER SALADS Ready and waiting for you! These fresh salads are perfect for a quick side or a light meal. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0aa31b2-aa7b-4f7a-8ec5-c3145e4017ce.jpg?ver=1499793326000'
+
+- type: 'image-3-columns'
+  img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'LEMON CAPER SHRIMP SALAD PLATE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8bc8d2ee-9f80-471d-8261-d8e7bdcb4214.jpg?ver=1499793326000'
+  img_2_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_2_alt: 'FRESH CUCUMBER & TOMATO SALAD'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a6164f6d-b85d-4161-b683-20a4708ffb8e.jpg?ver=1499793327000'
+  img_3_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_3_alt: 'FRESH TOMATO MOZZARELLA SALAD '
+  img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ed256d46-53aa-417d-94de-971d7110995f.jpg?ver=1499793327000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'VIEW MORE CHEF PREPARED > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ba389daf-72c3-4ec7-af0c-1d4ec8f8165e.jpg?ver=1499793327000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'PATISSERIE FAVES SUMMER SWEETS Sweeten up your summer with an assortment of Patisserie classics. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/60384bc0-bae0-41a4-a37f-1378231d00a2.jpg?ver=1499793327000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'PATISSERIE FAVES SUMMER SWEETS Sweeten up your summer with an assortment of Patisserie classics. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0587c3e8-c278-4923-876e-3bc2caa3049d.jpg?ver=1499793327000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'KINGS PATISSERIE KEY LIME PIE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7030567-6c22-4dc9-b66e-e648308bbdc6.jpg?ver=1499793327000'
+
+- type: 'image-2-columns'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'KINGS PATISSERIE 4&#34; SUMMER CAKES '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/03904753-ebd0-4511-87ac-2b0e2c43a3cf.jpg?ver=1499793328000'
+  img_2_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_2_alt: 'ANGEL FOOD CAKE '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cf2f7b92-a0ef-4dbd-956b-5382c20a5f40.jpg?ver=1499793328000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'LOCAL PRODUCE FRESH FROM THE FARM We&#39;re proud to source produce from local, family farms. Our produce is harvested and sent directly to us so it&#39;s fresh for you. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/421bc1bc-9857-44ac-9b30-4f61ed81b895.jpg?ver=1499793328000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'LOCAL PRODUCE FRESH FROM THE FARM We&#39;re proud to source produce from local, family farms. Our produce is harvested and sent directly to us so it&#39;s fresh for you. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ea2bfa71-1bd8-4fa3-a001-93f01a9f63c9.jpg?ver=1499793328000'
+
+- type: 'image-2-columns'
+  img_link: 'http://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'LOCALLY GROWN ZUCCHINI OR YELLOW SQUASH '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6cf4e524-a463-4439-950b-2458cf8a14d7.jpg?ver=1499793328000'
+  img_2_link: 'http://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_2_alt: 'LOCALLY GROWN ROMAINE, RED OR GREEN LEAF LETTUCE '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e375e9e4-f958-4843-adc5-56e52d9294cb.jpg?ver=1499793329000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'WHAT&#39;S NEW IN STORE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2a56ea3d-5a35-4c2b-b549-5db6cbac9e98.jpg?ver=1499793329000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'FAMILY PACK ENTREES Bring our chefs home to you! Our Family Pack Entrées are ready for the oven, filled with our best Chef Prepared selections.  Choose from a variety of ready-to-go options.  LEARN MORE>'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4547247c-2c5b-4e97-a7fa-9eee6e682aa5.jpg?ver=1499793329000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_HOBOKEN'
+  img_alt: 'VOTED BEST GROCERY STORE IN NEW JERSEY! Kings was voted the best grocery store in New Jersey by Popsugar®, due to the high quality of products that we carry. LEARN MORE>'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d005fb23-7d46-4328-8393-46cd8d421aff.jpg?ver=1499793329000'
