@@ -1,0 +1,105 @@
+title: 'TBD'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d8122738-33f3-4181-98ac-dbaf90d937ba.jpg?ver=1497373079000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43ada965-5b9f-4e25-8fa1-be0734094fd5.jpg?ver=1497373079000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1ff67d4-42f0-40dc-86e1-338f5f3a59b7.jpg?ver=1497373080000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+#- type: 'image'
+#  img_link: 'https://vimeo.com/167304429'
+#  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+#  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+  img_alt: 'GOURMET REWARDS CLUB'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e417b207-052d-4212-ae61-a70686b255bc.jpg?ver=1500341253000'
+
+- type: 'image'
+  img_link: 'www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+  img_alt: 'PICNIC PERFECTION Head outside with these summer picnic favorites. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/09245597-a0d7-4483-a484-d7c3aac48830.jpg?ver=1500341254000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+  img_alt: 'CHEF PREPARED | PICNIC PERFECTION '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/df2aa3b8-f938-45e9-ae69-98c49af18b7e.jpg?ver=1500341254000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+  img_alt: 'ROASTED SALMON SALAD ULTIMATE BLT SANDWICH WITH BACON & HERB MAYO SUMMER STONE FRUIT SALAD CRAB & CHEDDAR QUICHE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3adbddbf-4510-40e2-91fb-27e52bc4ff22.jpg?ver=1500341256000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+  img_alt: 'HAVE WINE | WILL TRAVEL'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/72338fec-8865-474c-bebb-fdeca4ff7e41.jpg?ver=1500341256000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+  img_alt: 'UNDERWOOD PINOT GRIS OR PINOT NOIR Ready-to-travel anywhere, these 375 mL cans don&#39;t sacrifice on quality or taste. ALLOY CHARDONNAY OR GRENACHE ROSE´ Light and refreshing, this is craft California winve that&#39;s ready to go wherever you are! Wine available at Balducci&#39;s Alexandria, McLean, Bethesda and Greenwich'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b3596473-15f3-4465-ab37-58b1e933f8de.jpg?ver=1500341257000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+  img_alt: 'PICNIC PERFECT SNACKS'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4dd05c8c-ca22-4671-b989-e86726d10550.jpg?ver=1500341257000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+  img_alt: 'THREE JERKS BEEF JERKY This truly the aristocrat of beef jerky, made from filet mignon, and only real ingredients. MCCLURE&#39;S PICKLES Perfect with a gourmet sandwich, these pickles are made from a generations-old family recipe YASSO GREEK YOGURT BARS Low in calories, but rich in taste, these frozen Greek yogurts bars have a rich, creamy flavor. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/292da623-69db-4719-9e84-2228bccf152f.jpg?ver=1500341258000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+  img_alt: 'MEMBER EXCLUSIVE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6f976074-318a-456d-ba1a-a142c813d527.jpg?ver=1500341258000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_BLD_Weekly_Email'
+  img_alt: 'STEAKHOUSE ELITE KOBE BEEF AMERICAN FRANKS 12 OZ. MEMBER EXCLUSIVE 6.99/EA Reg 7.99'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/846b3f09-46e4-4226-990b-c4c241df3540.jpg?ver=1500341259000'
+
+# - type: 'image'
+#   img_link: 'www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_BLD_Weekly_Email_NORTH'
+#   img_alt: 'LAUREL CHENEL CABECOU BALDUCCI&#39;S HAND-WRAPPED MOZZARELLA & OVALINE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/96df72ba-504a-40c0-b2ad-388235ee3f9d.jpg?ver=1499786893000'
+
+
+
