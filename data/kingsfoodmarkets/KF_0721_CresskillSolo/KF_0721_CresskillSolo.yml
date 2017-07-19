@@ -1,0 +1,74 @@
+title: 'Just For You, $10 off $75 Offer!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+# logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_CresskillSolo'
+# logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+# logo_alt: 'KINGS'
+# logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+# logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+# store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_CresskillSolo'
+# store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/45db34a0-276a-4746-8284-d77face7a1f1.jpg?ver=1499793322000'
+# store_locator_alt: 'FIND A STORE'
+# weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_CresskillSolo'
+# weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+# weekly_circular_alt: 'WEEKLY CIRCULAR'
+# chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_CresskillSolo'
+# chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+# chef_prepared_alt: 'CHEF PREPARED'
+# catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_CresskillSolo'
+# catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+# catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_CresskillSolo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_CresskillSolo'
+  img_alt: 'KINGS'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3bc1a901-da5d-4c4c-8d92-1cee4471bbe6.jpg?ver=1500318866000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_CresskillSolo'
+  img_alt: 'Take it Outside this Summer! Summertime is all about getting out and about. Pack up the perfect foods to enjoy the season in style. You’ll find restaurant-quality Chef Prepared dishes, summer’s best produce and unique packaged  foods, all ready to pack up and go for summer events.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9dc24d1d-fe8b-46e9-989b-5f4190c30428.jpg?ver=1500318866000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_CresskillSolo'
+  img_alt: 'Just for You! Enjoy $10.00 Off your $75 purchase VALID JULY 21ST - JULY 27TH 2017 As always, I appreciate your continued patronage, and look forward to seeing you next time you shop! - Gabe Corso Cresskill Store Manager'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ec27239-3fc8-4766-8e56-7c088783f8d5.jpg?ver=1500318866000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_CresskillSolo'
+  img_alt: 'Remember, your offer is already loaded onto your card. Present your card or phone number at checkout.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/425d6af8-ee08-42d5-b88d-afb45630d7ff.jpg?ver=1500318866000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_CresskillSolo'
+  img_alt: ''
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2ffc36fc-92a0-474b-a9ac-ec2f3bf956ea.jpg?ver=1500318867000'
+
+
+
