@@ -1,0 +1,61 @@
+title: 'Your 10% Off Coupon is Here!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+# logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+# catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# catering_alt: 'CATERING'
+# chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# chef_prepared_alt: 'CHEF PREPARED'
+# store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# store_locator_alt: 'FIND A STORE'
+# my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0801_BLD_Loyalty_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6a70d8fc-839a-47fb-90a1-2f95c652d306.jpg?ver=1500488972000'
+  img_alt: "myBALDUCCI'S Gourmet Rewards Club"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0801_BLD_Loyalty_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1e54b72d-4809-44a6-9938-db66c3536a94.jpg?ver=1500488972000'
+  img_alt: "Just for you! 10% OFF Your Total Purchase"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0801_BLD_Loyalty_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b15baa6a-b8fe-4331-8917-3733c0d5c889.jpg?ver=1500488973000'
+  img_alt:  "Your 10% OFF Coupons are loaded on your card. Valid through 8/31/17. NO NEED TO CARRY COUPONS. Take it Outside this Summer! The season's best flavors are ready to enjoy at Balducci's! Summertime is all about getting out and about. Pack up the perfect foods to enjoy the season in style. You'll find restaurant-quality Chef Prepared dishes, summer's best produce and unique packaged foods, all ready to pack up and go for summer events. "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0801_BLD_Loyalty_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/25084b36-06b6-46bc-a2b1-65485b865671.jpg?ver=1500488973000'
+  img_alt: "Your Balducci's Store Team | Any Questions? Contact myBalducci's at 1.844.884.9809 or customerservice@mybalduccis.com COUPON TERMS & CONDITIONS: 10% off Total Purchase: Offer valid at all stores, except our airport locations. Must provide Balducci’s Rewards  Card or phone number. Limit one offer per customer per visit. Limit one offer per catering order and must mention  coupon when placing an order. Coupon cannot be combined with any other coupon or used on alcohol purchases. No cash refunds. Not valid on purchase of gift cards and online purchases. 10% Off Fresh Meat: Offer valid at all stores, except our airport locations. Must provide Balducci’s Rewards Card or phone  number. Limit one offer per customer per visit. Not valid on catering or grocery items. Coupon cannot be combined with  any other coupon or used on alcohol purchases. No cash refunds. Not valid on purchase of gift cards or online purchases."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0801_BLD_Loyalty_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bf10b2de-7d65-4297-87a8-bc616d143416.jpg?ver=1500488973000'
+  img_alt: ""
+
+
