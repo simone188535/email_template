@@ -1,0 +1,109 @@
+title: 'Save $2 lb. on Chicken or Beef Store-Made Satay!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: ''
+logo_alt: ''
+catering_link: ''
+catering_alt: ''
+chef_prepared_link: ''
+chef_prepared_alt: ''
+store_locator_link: ''
+store_locator_alt: ''
+my_balduccis_link: ''
+my_balduccis_alt: ''
+
+#footer
+footer_site_link: ""
+footer_site_img: ""
+footer_site_alt: ""
+footer_facebook_link: ""
+footer_facebook_img:  ""
+footer_facebook_alt: ""
+footer_twitter_link: ""
+footer_twitter_img: ""
+footer_twitter_alt: ""
+
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c3b41b15-ac76-44cf-830c-2a94efd257b2.jpg?ver=1500560387000'
+  img_alt: "Balducci&#39;s® Food Lover's Market™ This Week&#39;s Picks in Rye Brook"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1c771e53-cd3d-4183-b45d-7126f722ab3c.jpg?ver=1500560388000'
+  img_alt: "SEAFOOD ROAD SHOW JULY 22-23 SEAFOODFEST! Thick Cut Salmon and Tuna Steaks | Meat & Seafood Valid 7/21/17 - 7/27/17"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f26af33d-35e6-4393-b9af-a90a19b45a6f.jpg?ver=1500560391000'
+  img_alt: "Save 2.00 |Balducci&#39;s Natural Store Made Chicken Satay, Hormone & Antibiotic Free | You Pay 7.99 LB. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1b3e10c9-c617-461e-bd2b-36eae827cc38.jpg?ver=1500560394000'
+  img_alt: "Save 2.00 |Balducci&#39;s Natural Store Made Beef Satay, Hormone & Antibiotic Free | You Pay 9.99 LB. NEW! 5.99 SUSHI WEDNESDAYS | Choose from California, Salmon Avocado, Spicy Tuna, or Tuna Avocado Rolls "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/56fcc018-9c60-4cc9-8e9c-b891e761568a.jpg?ver=1500560395000'
+  img_alt: "Save 1.50 | Crunchy Sushi Roll | Shrimp and imitation Crab wrapped in rice with a crunchy coating, 7 oz. | You Pay 7.49 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9209c286-7470-45ee-a9f6-e928a3375372.jpg?ver=1500560398000'
+  img_alt: "Save 3.00 | Skinless Norwegian Salmon 2PK | You Pay 16.98 EA. Cheese Savings Valid 7/21/17 - 7/27/17 "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b5ac9c28-8d31-4d38-bb86-38f34d5ad30f.jpg?ver=1500560399000'
+  img_alt: "Save 10.00 | Moliterno al Tartufo | Infused with black truffles, giving it a rich and delicate flavor | You Pay 21.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a16db9eb-e3fb-40ed-adb3-4e485193e066.jpg?ver=1500560401000'
+  img_alt: "Save 5.00 | Imported Rougette | You Pay 13.99 LB. Save 5.00 | Swiss Alps Blossom | You Pay 24.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/58562c26-6128-4c56-9a08-28bbef19eb59.jpg?ver=1500560403000'
+  img_alt: "Produce, Bakery & More! Valid 7/21/17 - 7/27/17 IT&#39;S SHOWTIME, RYE BROOK! | Join us at the LawnChair Theatre&#39;s &#34;A Midsummer Night&#39;s Dream&#34; in Crawford Park. Call today and preorder a mouthwatering boxed lunch to be delivered at the show. Meal includes a custom sandwich, bag of chips and a chocolate chip cookie. | 10.99 EA | For more information or to order, call 914-308-3692"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f4d9cd5d-d742-4fa2-bd34-24884c3db196.jpg?ver=1500560407000'
+  img_alt: "Save .50 | Juicy Peaches | You Pay 2.49 LB. Save 2.00 | Organic Blueberries, 6 oz. pkg | You Pay 3.99 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7b55f48f-f89f-42ee-83ac-de463332ac49.jpg?ver=1500560412000'
+  img_alt: "Save 1.00 | Prepacked Grain or Noodle Bowls | You Pay 7.49 EA. Save 2.00 | Balducci&#39;s Rainbow Cookies | You Pay 6.99 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6200cd7b-927b-4690-96c2-e3e0e63f5c8f.jpg?ver=1500560416000'
+  img_alt: "Save 2.00 | Dozen Rose Bouquet | with baby&#39;s breath & greens | You Pay 17.99 EA. Save 1.00 | Filippo Berio Extra Virgin Olive Oil, 50.7 fl. oz. | You Pay 9.99 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6fab749a-6ee8-43bc-86ee-115a70ac55df.jpg?ver=1500560422000'
+  img_alt: "Save 2.00 | Bone Suckin&#39; Sauce, 16 oz. | You Pay 4.99 EA. Save 1.00 |Green Mountain Gringo Tortilla Chips, 8 oz. | You Pay 1.99 EA. Save 9.90 on 10 |Chobani Yogurt, 5.3 oz. | You Pay 10/10.00 144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook"
+
+
+
+
+
+
+
+
+
