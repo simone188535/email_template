@@ -1,0 +1,129 @@
+title: 'New! Ready to Cook Meals - Grill, Bake or Steam!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/45db34a0-276a-4746-8284-d77face7a1f1.jpg?ver=1499793322000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+#- type: "image"
+#  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d0bb8e77-08e9-4856-8db5-56d72fbecddb.jpg?ver=1495479650000"
+#  img_alt: "RED, WHITE AND BBQ | Kick off the summer with a little relaxation and a lot of delicious food!"
+#  img_link: "https://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WeeklyEmail_Hoboken"
+
+# - type: 'image-3-columns'
+#   img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'LEMON CAPER SHRIMP SALAD PLATE '
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8bc8d2ee-9f80-471d-8261-d8e7bdcb4214.jpg?ver=1499793326000'
+#   img_2_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_2_alt: 'FRESH CUCUMBER & TOMATO SALAD'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a6164f6d-b85d-4161-b683-20a4708ffb8e.jpg?ver=1499793327000'
+#   img_3_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_3_alt: 'FRESH TOMATO MOZZARELLA SALAD '
+#   img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ed256d46-53aa-417d-94de-971d7110995f.jpg?ver=1499793327000'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'KINGS PATISSERIE 4&#34; SUMMER CAKES '
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/03904753-ebd0-4511-87ac-2b0e2c43a3cf.jpg?ver=1499793328000'
+#   img_2_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_2_alt: 'ANGEL FOOD CAKE '
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cf2f7b92-a0ef-4dbd-956b-5382c20a5f40.jpg?ver=1499793328000'
+
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+  img_alt: 'NEW READY TO COOK MEALS | grill, bake or steam in minutes AVAILABLE IN THE MEAT DEPARTMENT AT OUR MORRISTOWN, MENDHAM, BOONTON AND FLORHAM PARK LOCATIONS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2786c80e-93be-4671-b00c-310865ee3728.jpg?ver=1500912408000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+  img_alt: 'STEAM BAG MICROWAVE MEALS | Wholesome meals in minutes with the power of steam! '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/38161c10-4114-4dfa-807d-4bf31aa2be3d.jpg?ver=1500912408000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+  img_alt: 'COD EN PAPILLOTE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/642b5df2-af03-4b79-b173-44283ef1d372.jpg?ver=1500912409000'
+
+- type: 'image-2-columns'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+  img_alt: 'DIJON CRUSTED SALMON '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/45dee20e-2418-42f1-8cb0-2b1199a4657d.jpg?ver=1500912410000'
+  img_2_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+  img_2_alt: 'SHRIMP & ZUCCHINI SCAMPI '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/82b3408c-e856-4c54-a5cc-ec2f3762820d.jpg?ver=1500912409000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+  img_alt: 'Chef Inspired entrées and sides in delectable flavors! Coos in minutes in the microwave or oven. Packed fresh in-store daily and crafted with KINGS premium ingredients. BPA-free. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12b565eb-42f3-4a48-9b7e-c7149f8af97b.jpg?ver=1500912409000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+  img_alt: 'FEATURED DISHES'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6f85f814-95b9-4879-9e09-203aea8acfed.jpg?ver=1500912409000'
+
+- type: 'image-2-columns'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+  img_alt: 'BAKE SHRIMP & ZUCCHINI '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12eb6605-2df3-4439-8875-0045bce50c09.jpg?ver=1500912410000'
+  img_2_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+  img_2_alt: 'BAKE SALMON TERIYAKI '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e0067481-450f-4dcc-94bf-204d3d1e2693.jpg?ver=1500912410000'
+
+- type: 'image-2-columns'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+  img_alt: 'GRILL CHIMICHURRI BEEF KABOB '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/376d1445-a12f-4784-a58d-230b2f0784d3.jpg?ver=1500912410000'
+  img_2_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+  img_2_alt: 'BAKE HOMESTYLE MEATLOAF '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/18818dab-b3ab-4297-a931-ac50cad5e8d6.jpg?ver=1500912410000'
+
+- type: 'image-2-columns'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+  img_alt: 'GRILL LEMON GARLIC ASPARAGUS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/48b269a7-a72a-4fcb-9e79-c951805f84ed.jpg?ver=1500912411000'
+  img_2_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0726_KF_ReadytoCook_Solo_Email'
+  img_2_alt: 'BAKE GARLIC ROSEMARY POTATOES '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fede7949-3746-4796-9391-c1b7f3aca874.jpg?ver=1500912411000'
