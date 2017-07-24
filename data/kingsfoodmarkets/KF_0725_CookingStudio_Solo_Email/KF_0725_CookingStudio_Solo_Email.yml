@@ -1,0 +1,87 @@
+title: 'Join Our Backyard Party Cooking Class!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0725_KF_CookingStudio_Solo_Email'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0725_KF_CookingStudio_Solo_Email'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/45db34a0-276a-4746-8284-d77face7a1f1.jpg?ver=1499793322000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0725_KF_CookingStudio_Solo_Email'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0725_KF_CookingStudio_Solo_Email'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0725_KF_CookingStudio_Solo_Email'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0725_KF_CookingStudio_Solo_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+#- type: "image"
+#  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d0bb8e77-08e9-4856-8db5-56d72fbecddb.jpg?ver=1495479650000"
+#  img_alt: "RED, WHITE AND BBQ | Kick off the summer with a little relaxation and a lot of delicious food!"
+#  img_link: "https://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WeeklyEmail_Hoboken"
+
+# - type: 'image-3-columns'
+#   img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'LEMON CAPER SHRIMP SALAD PLATE '
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8bc8d2ee-9f80-471d-8261-d8e7bdcb4214.jpg?ver=1499793326000'
+#   img_2_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_2_alt: 'FRESH CUCUMBER & TOMATO SALAD'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a6164f6d-b85d-4161-b683-20a4708ffb8e.jpg?ver=1499793327000'
+#   img_3_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_3_alt: 'FRESH TOMATO MOZZARELLA SALAD '
+#   img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ed256d46-53aa-417d-94de-971d7110995f.jpg?ver=1499793327000'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'KINGS PATISSERIE 4&#34; SUMMER CAKES '
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/03904753-ebd0-4511-87ac-2b0e2c43a3cf.jpg?ver=1499793328000'
+#   img_2_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_2_alt: 'ANGEL FOOD CAKE '
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cf2f7b92-a0ef-4dbd-956b-5382c20a5f40.jpg?ver=1499793328000'
+
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-events/backyard-party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0725_KF_CookingStudio_Solo_Email'
+  img_alt: 'Cooking Studio Dinner with Chef Natalie Lewis Saturday, August 5 • 6:30 PM-9:30 PM IT&#39;S GOING TO BE A BACKYARD PARTY! Limited to 25 seats. Cost: $50.00 per person Each participant will receive a swag bag! '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/da9ca59b-9337-44c9-8a0d-e46e0c4b85af.jpg?ver=1500910603000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-events/backyard-party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0725_KF_CookingStudio_Solo_Email'
+  img_alt: 'Learn More > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6954b801-473b-4ba1-b116-c90f10d0ef59.jpg?ver=1500910603000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-events/backyard-party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0725_KF_CookingStudio_Solo_Email'
+  img_alt: 'Learn More > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/907a7530-7794-4612-b7be-da18124bac68.jpg?ver=1500910603000'
