@@ -1,0 +1,112 @@
+title: 'Perfect Poke'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0317_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/35b291af-48d8-4aed-9941-a939fea1f16b.jpg?ver=1500920641000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://vimeo.com/224505945?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ec2ba620-9e0d-4fb2-93e4-372ea6f25a81.jpg?ver=1500920641000'
+  img_alt: 'PERFECT POKE Create AHI TUNA & SESAME POKE BOWLS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5f8ae38e-cce7-448e-9a26-bbbf98b531d0.jpg?ver=1500920641000'
+  img_alt: 'POKE BOWLS | MAKE IT OR TAKE IT'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05fb5e79-2b27-4757-a5dc-2546fc65c003.jpg?ver=1500920642000'
+  img_alt: 'SPICY GINGER AHI TUNA POKE Our signature made-in-store tuna is lightly dressed in spicy ginger, ready for you to add to your favorite salad or to enjoy as a refreshing appetizer. MEMBER EXCLUSIVE 11.99/LB Reg 13.99 AVAILABLE IN THE SEAFOOD DEPT.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/609829d8-7efd-4a31-925b-400ae680a12b.jpg?ver=1500920642000'
+  img_alt: 'MEMBER EXCLUSIVE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/73ff3520-5120-401b-92c2-f4dbf250e863.jpg?ver=1500920642000'
+  img_alt: 'BALDUCCI&#39;S NATURAL CHICKEN SATAY STORE MADE ON SKEWERS MEMBER EXCLUSIVE 7.99/LB Reg 9.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d23542f5-140a-42f5-8b08-fe6ffef9e092.jpg?ver=1500920642000'
+  img_alt: 'SUMMER SIMPLE | FOUND HERE'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/90af05c4-68c6-49c0-a336-be61fee59953.jpg?ver=1500920643000'
+  img_alt: 'TAKE IT EASY! Perfect for a picnic or light meal, these dishes let you enjoy the season&#39;s best flavors with grab-and-go ease. CHEF PREPARED GOURMET CHEESE PLATES Try a world of cheeses, including Spanish, Italian and European cheese plates. BIG T&#39;S BLUE CRAB DIP Fantastic Low Country recipe blue crab dip with lots of real crab, sharp cheddar and cream cheeses, and a touch of spice.'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/57b7da81-93b9-447c-8491-3f410d58b0b1.jpg?ver=1500920643000'
+  img_alt_2: 'TAKE IT EASY! Perfect for a picnic or light meal, these dishes let you enjoy the season&#39;s best flavors with grab-and-go ease. CHEF PREPARED GOURMET CHEESE PLATES Try a world of cheeses, including Spanish, Italian and European cheese plates. BIG T&#39;S BLUE CRAB DIP Fantastic Low Country recipe blue crab dip with lots of real crab, sharp cheddar and cream cheeses, and a touch of spice.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cadc8534-c290-4663-b567-dde80d8e2c17.jpg?ver=1500920643000'
+  img_alt: 'CHEF PREPARED CRAB & MANGO STUFFED AVOCADO Tender crab meat, sweet mangoes, scallions and jalapeños are tossed with our cilantro lime dressing and placed in an avocado, ready to beautifully serve.'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e773f1aa-ea55-48d5-b494-208a5ba48224.jpg?ver=1500920643000'
+  img_alt_2: 'CATERING PARTY PLATTERS Get your party started the easy way with our party platters.  Made fresh in-store, and available in a wide variety of foods from cuisines around the world. ORDER NOW >'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
