@@ -1,0 +1,83 @@
+title: 'Low Prices, Great Finds, Every Day – Shop Now!'
+
+logo_img_url: "images/OTP_072817_Email_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com"
+
+products_img_url: "images/OTP_072817_Email_02.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html"
+
+locations_img_url: "images/OTP_072817_Email_03.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations"
+
+inspirations_img_url: "images/OTP_072817_Email_04.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com"
+
+preheader_text: 'Discover Your Next Amazing Find Today!'
+preheader_link: '#'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'images/OTP_080117_Email_02.jpg'
+  image_alt: 'LOW PRICES Every Day Find LOW PRICES & GREAT SELECTION in every aisle! COUNT ON &#39;EM! FIND AMAZING VALUES THROUGHOUT THE STORE & Save Big COMPARED TO OTHER STORES.'
+  image_link: 'http://oldtimepottery.com/low-prices'
+
+- type: 'image'
+  image_url: 'images/OTP_080117_Email_03.jpg'
+  image_alt: 'SEE FEATURED ITEMS '
+  image_link: 'http://oldtimepottery.com/low-prices'
+
+- type: 'image'
+  image_url: 'images/OTP_080117_Email_04.jpg'
+  image_alt: 'Don&#39;t Forget If you&#39;ve shopped during our Lowest Prices of the Season Sale we gave you a 20% coupon. Use it now through Tuesday, 8/15.'
+  image_link: 'http://oldtimepottery.com'
+
+- type: 'image'
+  image_url: 'images/OTP_080117_Email_05.jpg'
+  image_alt: 'THESE DEALS WILL NOT LAST LONG YOUR OUTDOOR SUPERSTORE CLOSE-OUT EVENT UP TO 50% OFF SELECT CATEGORIES Discounts are priced as marked. Selection varies by store While Supplies Last'
+  image_link: 'http://oldtimepottery.com/departments/seasonal/spring.html'
+
+- type: 'image'
+  image_url: 'images/OTP_080117_Email_06.jpg'
+  image_alt: 'NOW 50% OFF ALL YELLOW TAGS! Look for the yellow tag on merchandise throughout the store. HURRY BEFORE THEY&#39;RE GONE!'
+  image_link: 'http://oldtimepottery.com/yellow-tag?adlclick=dwm-yellow-tag'
+
+- type: 'images-3-columns'
+  image_first_url: 'images/OTP_072817_Email_07.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html'
+  image_second_url: 'images/OTP_072817_Email_08.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations'
+  image_third_url: 'images/OTP_072817_Email_09.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com'
+
+socialnav:
+- link: ""
+  img: "images/socialnav_10.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1"
+  img: "images/socialnav_11.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery"
+  img: "images/socialnav_12.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/"
+  img: "images/socialnav_13.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ"
+  img: "images/socialnav_14.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/"
+  img: "images/socialnav_15.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "images/socialnav_16.jpg"
+  alt: ""
