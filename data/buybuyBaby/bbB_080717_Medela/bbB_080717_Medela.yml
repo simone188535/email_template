@@ -1,0 +1,152 @@
+#TITLE
+title: 'The Sonata™ Smart Breastpump'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS29_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS29_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $29 View Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS29_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS29_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS29_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS29_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS29_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'The Sonata™ Smart Breastpump '
+preheader_link: 'https://www.buybuybaby.com/store/product/medela-reg-sonata-trade-deluxe-double-electric-breastpump/3311621'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+# - type: 'image-3-columns'
+#   img_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_alt: 'Crisp & clean, you can&#39;t go wrong with stripes!'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_02.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_2_alt: 'go bold what&#39;s Black & White and always in style? Fun, functional baby gear in this on-trend color scheme.'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_03.jpg'
+#   img_3_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_3_alt: 'Black & White looks best when you add bold pops of color!'
+#   img_3_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_04.jpg'
+
+# - type: 'image-2-columns'
+#   img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+#   img_alt: 'savings center'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_13.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+#   img_2_alt: 'strollers'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/medela-reg-sonata-trade-deluxe-double-electric-breastpump/3311621'
+  img_alt: 'hard-working mamma Whisper quiet so you can discreetly pump in your office, or anywhere. Even on the busiest days, you can keep your pumping sessions on track with the adjustable timer & reminder messages. Sonata™ Deluxe Double Electric Breastpump shop now get a $25 buybuy BABY gift card with purchase'
+  img_url: 'images/bbB_201_080717_Medela_v1_r6_DEV_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/medela-reg-sonata-trade-deluxe-double-electric-breastpump/3311621'
+  img_alt: 'full-time features Everything you need to make the most of your pumping sessions. Smart Connects with Smart Solution to the MyMedela® App iPhone not included fast 2-Phase Expression Technology with 1 touch letdown button comfortable Breast shields designed for easy cleaning & maximum comfort rechargeable Lithium-ion battery for convenient pumping anywhere, anytime'
+  img_url: 'images/bbB_201_080717_Medela_v1_r6_DEV_03.jpg'
+
+- type: 'image'
+  img_link: ''
+  img_alt: 'more from Medela®'
+  img_url: 'images/bbB_201_080717_Medela_v1_r6_DEV_04.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/medela-reg-breastmilk-storage-solution/1040059464'
+  img_alt: 'Breastmilk Storage Solution'
+  img_url: 'images/bbB_201_080717_Medela_v1_r6_DEV_05.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/medela-reg-breastmilk-cooler-set/1041706909'
+  img_2_alt: 'Breastmilk Cooler Set'
+  img_2_url: 'images/bbB_201_080717_Medela_v1_r6_DEV_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/medela-reg-quick-clean-24-count-breastpump-and-accessory-wipes/1014990550'
+  img_alt: 'Quick Clean 24ct Breastpump and Accessory Wipes'
+  img_url: 'images/bbB_201_080717_Medela_v1_r6_DEV_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/medela/471/4294967217-4294965885-4294966226-32067/1-48'
+  img_alt: 'shop Medela™'
+  img_url: 'images/bbB_201_080717_Medela_v1_r6_DEV_08.jpg'
+
+- type: 'image'
+  img_link: ''
+  img_alt: 'more to shop'
+  img_url: 'images/bbB_201_080717_Medela_v1_r6_DEV_10.jpg'
+
+- type: 'image-3-columns'
+  img_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+  img_alt: 'strollers'
+  img_url: 'images/bbB_201_080717_Medela_v1_r6_DEV_11.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/category/car-seats/car-seats/32593/'
+  img_2_alt: 'car seats'
+  img_2_url: 'images/bbB_201_080717_Medela_v1_r6_DEV_12.jpg'
+  img_3_link: 'https://www.buybuybaby.com/store/category/gear-travel/playards-portable-beds/30509/?subCatPlp=true'
+  img_3_alt: 'playards'
+  img_3_url: 'images/bbB_201_080717_Medela_v1_r6_DEV_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/tiny-love/526/4294967217-4294965885-4294966211/1-48'
+  img_alt: 'Tiny Love™ introduces The Meadow Days™ Collection! Save 20% on ALL Tiny Love™ shop now'
+  img_url: 'images/bbB_201_080717_Medela_v1_r6_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/s/sonataaccessories17?ta=typeahead'
+  img_alt: '$10 buybuy BABY Gift Card with purchase of $50 worth of Medela® Sonata™ accessories. shop now'
+  img_url: 'images/bbB_201_080717_Medela_v1_r6_DEV_15.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_201_080717_Medela_v1_r6_DEV_16.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_201_080717_Medela_v1_r6_DEV_17.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_201_080717_Medela_v1_r6_DEV_18.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_201_080717_Medela_v1_r6_DEV_19.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_201_080717_Medela_v1_r6_DEV_20.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_201_080717_Medela_v1_r6_DEV_21.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_201_080717_Medela_v1_r6_DEV_22.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
