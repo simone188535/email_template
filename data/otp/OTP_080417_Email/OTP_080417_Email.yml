@@ -1,0 +1,86 @@
+title: 'Don&#39;t Snooze on These Bedding Bargains!'
+
+logo_img_url: "images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=Discount_Home_Decor&utm_content=Homepage"
+
+products_img_url: "images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=OTP_Store_Departments&utm_content=Departments"
+
+locations_img_url: "images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=Find_A_Store&utm_content=Locations"
+
+inspirations_img_url: "images/OTP_Inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=WeeklyeFlyer8-1&utm_medium=email&utm_campaign=Low_Prices_Everyday&utm_term=OTP_Blog&utm_content=Blog"
+
+preheader_text: 'Get Ready for Back-to-School & Save Big'
+preheader_link: '#'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'images/OTP_080417_Email_02.gif'
+  image_alt: 'BEDROOM BARGAINS FOR Back-to-School'
+  image_link: 'http://oldtimepottery.com/campus-countdown?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=Discount_Home_Decor&utm_content=Back_To_School_Solutions'
+
+- type: 'images-2-columns'
+  image_first_url: 'images/OTP_080417_Email_03.jpg'
+  image_first_alt: ''
+  image_first_link: 'http://oldtimepottery.com/campus-countdown?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=Discount_Home_Decor&utm_content=Back_To_School_Solutions'
+  image_second_url: 'images/OTP_080417_Email_04.jpg'
+  image_second_alt: ''
+  image_second_link: 'http://oldtimepottery.com/campus-countdown?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=Discount_Home_Decor&utm_content=Back_To_School_Solutions'
+
+- type: 'image'
+  image_url: 'images/OTP_080417_Email_05.jpg'
+  image_alt: 'MORE BACK-TO-SCHOOL SOLUTIONS'
+  image_link: 'http://oldtimepottery.com/campus-countdown?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=Discount_Home_Decor&utm_content=Back_To_School_Solutions'
+
+- type: 'image'
+  image_url: 'images/OTP_080417_Email_06.jpg'
+  image_alt: 'COUNTdown to CAMPUS HUGE SELECTION & LOW PRICES FOR YOUR DORM OR APARTMENT'
+  image_link: 'http://oldtimepottery.com/campus-countdown?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=Discount_Home_Decor&utm_content=Back_To_Campus'
+
+- type: 'image'
+  image_url: 'images/OTP_080417_Email_07.jpg'
+  image_alt: 'NOW 50% OFF ALL YELLOW TAGS! Look for the yellow tag on merchandise throughout the store. HURRY BEFORE THEY&#39;RE GONE!'
+  image_link: 'http://oldtimepottery.com/yellow-tag?adlclick=dwm-yellow-tag&utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=Discount_Home_Decor&utm_content=50_Off_Yellow_Tags'
+
+- type: 'images-3-columns'
+  image_first_url: 'images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=OTP_Store_Departments&utm_content=Departments'
+  image_second_url: 'images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=Find_A_Store&utm_content=Locations'
+  image_third_url: 'images/OTP_footer_inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com/?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Bacl_To_Campus&utm_term=OTP_Blog&utm_content=Blog'
+
+socialnav:
+- link: ""
+  img: "images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=OTP_Twittter&utm_content=Twitter"
+  img: "images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=OTP_Facebook&utm_content=Facebook"
+  img: "images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=OTP_Pinterest&utm_content=Pinterest"
+  img: "images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=OTP_YouTube&utm_content=YouTube"
+  img: "images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=OTP_Instagram&utm_content=Instagram"
+  img: "images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "images/spacer2.jpg"
+  alt: ""
