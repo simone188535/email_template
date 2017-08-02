@@ -1,0 +1,343 @@
+title: 'myKINGS extra! Savings...the newest way to save'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/45db34a0-276a-4746-8284-d77face7a1f1.jpg?ver=1499793322000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+weekly_circular_img: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+#- type: "image"
+#  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d0bb8e77-08e9-4856-8db5-56d72fbecddb.jpg?ver=1495479650000"
+#  img_alt: "RED, WHITE AND BBQ | Kick off the summer with a little relaxation and a lot of delicious food!"
+#  img_link: "https://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0630_KF_WeeklyEmail_Hoboken"
+
+#- type: 'image-3-columns'
+#   img_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'LEMON CAPER SHRIMP SALAD PLATE '
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8bc8d2ee-9f80-471d-8261-d8e7bdcb4214.jpg?ver=1499793326000'
+#   img_2_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_2_alt: 'FRESH CUCUMBER & TOMATO SALAD'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a6164f6d-b85d-4161-b683-20a4708ffb8e.jpg?ver=1499793327000'
+#   img_3_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_3_alt: 'FRESH TOMATO MOZZARELLA SALAD '
+#   img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ed256d46-53aa-417d-94de-971d7110995f.jpg?ver=1499793327000'
+
+#- type: 'image-2-columns'
+#   img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'KINGS PATISSERIE 4&#34; SUMMER CAKES '
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/03904753-ebd0-4511-87ac-2b0e2c43a3cf.jpg?ver=1499793328000'
+#   img_2_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0714_KF_WeeklyEmail_Hoboken'
+#   img_2_alt: 'ANGEL FOOD CAKE '
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cf2f7b92-a0ef-4dbd-956b-5382c20a5f40.jpg?ver=1499793328000'
+
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: 'FRESH IDEAS FOR THE GRILL Easy and out-of-the-ordinary grilling recipes.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/852736fe-65c5-47b1-8275-0d6950804a20.jpg?ver=1501704998000'
+
+- type: 'image'
+  img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: 'myKINGS extra! Smart Savings & More JOIN TODAY See cashier to enroll. MEMBERS ONLY SAVINGS. DON’T MISS OUT! extra! benefits: • Sale prices are for members only!•  No card to carry •  Exclusive member offers and more!'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e33d4025-c643-4855-8f91-7d36b5169286.jpg?ver=1501704998000'
+
+- type: 'image'
+  img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: 'LEARN MORE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5ba14fd0-946d-4284-8c8c-9964ce3bba38.jpg?ver=1501704998000'
+
+- type: 'image'
+  img_link: 'hhttp://kingsfoodmarkets.com/in-store-events/backyard-party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: 'myKINGS EXTRA&#33 SAVINGS'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/aeaa16f8-d60a-46ab-a171-faa57337faa3.jpg?ver=1501704998000'
+
+- type: 'image-2-columns'
+  img_link: 'http://kingsfoodmarkets.com/in-store-events/backyard-party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain' 
+  img_alt: 'members extra! SAVINGS SAVE $4lb. KINGS USDA CHOICE CHAIRMAN&#39;S RESERVE NY STRIP STEAKS members pay 9.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2d6cb130-e853-44ae-b4a6-e9341b4ea35f.jpg?ver=1501704999000'
+  img_2_link: 'http://kingsfoodmarkets.com/in-store-events/backyard-party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_2_alt: 'members extra! SAVINGS Organic ORGANIC PEACHES & NECTARINES members pay 3.99 EA.'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/14292bec-5a65-44ae-8d33-810f4462c6e6.jpg?ver=1501705000000'
+
+- type: 'image'
+  img_link: 'hhttp://kingsfoodmarkets.com/in-store-events/backyard-party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: 'VIEW WEEKLY SALES >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8ef0f6a1-f1c8-43a0-9f70-7e5d192bf587.jpg?ver=1501704999000'
+
+- type: 'image'
+  img_link: 'https://kingsfoodmarkets.com/in-store-promotions'
+  img_alt: 'MARK YOUR CALENDAR'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8645ca87-3fd0-4f1e-93a9-03af993fcce5.jpg?ver=1501704999000'
+
+- type: 'image'
+  img_link: 'https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: 'HAPPY CHOCOLATE CHIP COOKIE DAY TODAY ONLY 1/2 OFF FOR CHOCOLATE CHIP COOKIE DAY! Stop by TODAY and indulge with special cookie tastings from the bakery and 1/2 OFF David&#39;s Chocolate Chunk Cookies.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/34fcc3ce-5d45-47ea-9d12-fece214cff20.jpg?ver=1501705000000'
+
+- type: 'image'
+  img_link: 'https://kingsfoodmarkets.com/in-store-events/backyard-party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: 'COOKING Studio DINNER WITH CHEF NATALIE LEWIS Learn how to prepare Tuna Stuffed Avocados, Brussels Sprouts Salad,  Baked Fish En Papillote and more! Each participant will receive a Swag Bag. TOMORROW AUGUST 5TH 6:30 - 9:30 PM  REGISTER NOW >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/14cf5799-f143-4670-933b-504bd690ec43.jpg?ver=1501705000000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/unique-recipes/healtyh-grilled-veggie-pizza?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: 'SHAKE UP YOUR BACKYARD BBQ UNEXPECTEDLY DELICIOUS! Get cooking with these creative ideas for the grill.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fa8f4a7b-1f76-4234-b991-997669dc95ba.jpg?ver=1501705000000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/unique-recipes/healtyh-grilled-veggie-pizza?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: 'SHAKE UP YOUR BACKYARD BBQ UNEXPECTEDLY DELICIOUS! Get cooking with these creative ideas for the grill.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/38b302c7-aa00-4b0f-be38-6ae3e0865bbd.jpg?ver=1501705001000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/unique-recipes/healtyh-grilled-veggie-pizza?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: '1 THROW PIZZA ON THE GRILL use Kings Own pizza or create your own: Create HEALTHY GRILLED VEGGIE PIZZA VIEW RECIPE>'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/454a76f3-25aa-4bb3-a1a9-3f4446b863cf.jpg?ver=1501705001000'  
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/unique-recipes/grilled-stone-fruit-with-almond-mascarpone-dip?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: '2 THROW FRESH LOCAL STONE FRUIT ON THE GRILL Add MASCARPONE WHIPPED CREAM VIEW RECIPE >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/742221c4-42ef-4ee4-9600-adcd569cae8f.jpg?ver=1501705001000'  
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/unique-recipes/grilled-romaine-hearts-with-bleu-cheese?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: '3 THROW YOUR SALAD ON THE GRILL Create GRILLED ROMAINE HEARTS WITH BLEU CHEESE VIEW RECIPE >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e2d8126a-a010-499a-8a40-f85dc97ce95a.jpg?ver=1501705001000' 
+
+
+- type: 'image'
+  img_link: 'https://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: 'WE LOVE LOCAL FEATURED LOCAL FARM'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f6d5647d-44c4-4f26-b214-90b0ca3bf7b7.jpg?ver=1501705001000' 
+
+# - type: 'image'
+#   img_link: 'https://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'New Jersey CASSADAY FARMS MONROEVILLE, NEW JERSEY We&#39;re proud to partner with this local NJ farm with over four generations of family knowledge and over 1,500 acres of non-GMO fruits and vegetables.'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3bbb8031-7b23-47ce-bf26-56e021f14d02.jpg?ver=1501705001000' 
+
+# - type: 'image'
+#   img_link: 'https://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'New Jersey CASSADAY FARMS MONROEVILLE, NEW JERSEY We&#39;re proud to partner with this local NJ farm with over four generations of family knowledge and over 1,500 acres of non-GMO fruits and vegetables.'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c83a8065-5a7e-4f95-b356-350b77295bc0.jpg?ver=1501705002000' 
+
+
+- type: 'image-2-columns'
+  img_link: 'https://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain' 
+  img_alt: 'NEW! MEALS READY IN MINUTES READY TO COOK MEALS Our new, ready to cook meals are cooked and ready to grill, bake or steam.  Choose from a variety of options the whole family will enjoy. Available in the meat department at Morristown, Mendham, Boonton and Florham Park. LEARN MORE >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3bbb8031-7b23-47ce-bf26-56e021f14d02.jpg?ver=1501705001000'
+  img_2_link: 'https://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_2_alt: 'NEW! MEALS READY IN MINUTES READY TO COOK MEALS Our new, ready to cook meals are cooked and ready to grill, bake or steam.  Choose from a variety of options the whole family will enjoy. Available in the meat department at Morristown, Mendham, Boonton and Florham Park. LEARN MORE >'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c83a8065-5a7e-4f95-b356-350b77295bc0.jpg?ver=1501705002000'
+
+- type: 'image'
+  img_link: 'https://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: 'LEARN MORE >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3e40aaa9-78e4-4455-9e8c-7483fa73e986.jpg?ver=1501705002000' 
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: 'WHAT&#39S NEW IN STORE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d6c1d3f4-8268-429f-84f5-fe078ac982b3.jpg?ver=1501705002000' 
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  img_alt: 'NEW! MEALS READY IN MINUTES READY TO COOK MEALS Our new, ready to cook meals are cooked and ready to grill, bake or steam.  Choose from a variety of options the whole family will enjoy. Available in the meat department at Morristown, Mendham, Boonton and Florham Park. LEARN MORE >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/260ddf37-cf3d-42ae-a765-97cd0cfec3c0.jpg?ver=1501705002000'
+#  - type: 'image'
+#   img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'LEARN MORE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8645ca87-3fd0-4f1e-93a9-03af993fcce5.jpg?ver=1501704999000'
+
+#  - type: 'image'
+#   img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'LEARN MORE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8645ca87-3fd0-4f1e-93a9-03af993fcce5.jpg?ver=1501704999000'
+
+#  - type: 'image'
+#   img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'LEARN MORE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/14cf5799-f143-4670-933b-504bd690ec43.jpg?ver=1501705000000'
+
+#  - type: 'image'
+#   img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'LEARN MORE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fa8f4a7b-1f76-4234-b991-997669dc95ba.jpg?ver=1501705000000'
+
+#  - type: 'image'
+#   img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'LEARN MORE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e33d4025-c643-4855-8f91-7d36b5169286.jpg?ver=1501704998000'
+
+#  - type: 'image'
+#   img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'LEARN MORE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e33d4025-c643-4855-8f91-7d36b5169286.jpg?ver=1501704998000'
+
+#  - type: 'image'
+#   img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'LEARN MORE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e33d4025-c643-4855-8f91-7d36b5169286.jpg?ver=1501704998000'
+
+#  - type: 'image'
+#   img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'LEARN MORE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e33d4025-c643-4855-8f91-7d36b5169286.jpg?ver=1501704998000'
+
+#  - type: 'image'
+#   img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'LEARN MORE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e33d4025-c643-4855-8f91-7d36b5169286.jpg?ver=1501704998000'
+
+#  - type: 'image'
+#   img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'LEARN MORE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e33d4025-c643-4855-8f91-7d36b5169286.jpg?ver=1501704998000'
+
+#  - type: 'image'
+#   img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'LEARN MORE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e33d4025-c643-4855-8f91-7d36b5169286.jpg?ver=1501704998000'
+
+#  - type: 'image'
+#   img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'LEARN MORE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e33d4025-c643-4855-8f91-7d36b5169286.jpg?ver=1501704998000'
+
+#  - type: 'image'
+#   img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+#   img_alt: 'LEARN MORE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e33d4025-c643-4855-8f91-7d36b5169286.jpg?ver=1501704998000'
+
+  #- type: 'image'
+  # img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  # img_alt: 'LEARN MORE'
+  # img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e33d4025-c643-4855-8f91-7d36b5169286.jpg?ver=1501704998000'
+
+  #- type: 'image'
+  # img_link: 'kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0804_KF_WeeklyEmail_Chain'
+  # img_alt: 'LEARN MORE'
+  # img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e33d4025-c643-4855-8f91-7d36b5169286.jpg?ver=1501704998000'
+#- type: 'image'
+#   img_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'myKINGS EXTRA! SAVINGS'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ee63f712-e182-41c9-a2d8-0f7c912e7ded.jpg?ver=1500397138000'
+
+#- type: 'image-2-columns'
+#   img_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'members extra! SAVINGS SAVE $2.50 lb. KINGS CERTIFIED ANGUS PRIME BEEF TOP ROUND LONDON BROIL OR ROAST members pay 5.99 LB.'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a06c4c94-0c64-4765-91f4-a458d60467ce.jpg?ver=1500397139000'
+#   img_2_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_2_alt: 'members extra! SAVINGS SAVE $5 lb. WILD CAUGHT FRESH ALASKAN SOCKEYE SALMON FILLET members pay 18.99 LB. '
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/07d5a475-d48c-489e-bee8-ba3ba8579698.jpg?ver=1500397139000'
+
+#- type: 'image-2-columns'
+#   img_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'members extra! SAVINGS SAVE $1 LEMON MERINGUE PIE 8&#34; members pay 7.99 EA.'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/40e42431-2bc4-44e5-9a29-760eee2b5e1d.jpg?ver=1500397140000'
+#   img_2_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_2_alt: 'members extra! SAVINGS SAVE $2 ORGANIC DRISCOLL&#39;S BLUEBERRIES 6 OZ. members pay 3.99 LB. '
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d0a99f68-6c47-43b8-92f7-1c1ddec7ae2a.jpg?ver=1500397140000'
+
+#- type: 'image'
+#   img_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'View More Specials and Make a List VIEW HOBOKEN WEEKLY SALES '
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7f720b28-0c0c-4132-a898-037dbadb7578.jpg?ver=1500397142000'
+
+#- type: 'image'
+#   img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'JERSEY FRESH BLUEBERRIES '
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6bb35e2e-d79d-4b17-87b7-334b6ed35c9d.jpg?ver=1500392057000'
+
+#- type: 'image'
+#   img_link: 'http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'July is National Blueberry Month. JUICY, SWEET and full of ANTIOXIDANTS, our fresh Jersey blueberries certainly deserve a celebration.  Try them in salads, pies or in chilled summer soups! NATIONAL BLUEBERRY MONTH '
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0dbdfd7c-5f4b-41f9-b453-7c6c6276c73e.jpg?ver=1500392058000'
+
+#- type: 'image'
+#   img_link: 'http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'COOL & BLUE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2fe6e55c-0ca3-40dc-b307-aa62545a3fbd.jpg?ver=1500392058000'
+
+#- type: 'image-2-columns'
+#   img_link: 'http://kingsfoodmarkets.com/unique-recipes/blueberry-and-blackberry-infused-ice-cubes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'BLUEBERRY AND BLACKBERRY INFUSED ICE CUBES VIEW RECIPE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1147f04f-15b5-4dff-9a7a-6d2f748d5004.jpg?ver=1500392058000'
+#   img_2_link: 'http://kingsfoodmarkets.com/unique-recipes/blueberry-banana-smoothie-pops?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_2_alt: 'BLUEBERRY BANANA SMOOTHIE POPS VIEW RECIPE '
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/257e6a0c-8434-4151-9cbb-6b59cba7eb14.jpg?ver=1500392059000'
+
+#- type: 'image'
+#   img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'NEW READY TO COOK MEALS | GRILL, STEAM, BAKE'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e57ff0a8-6b15-4b3b-8d71-42380eecbb9b.jpg?ver=1500392064000'
+
+#- type: 'image'
+#   img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'MEALS READY IN MINUTES'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2398ba67-d7f1-4e3c-b120-2107c4b73a15.jpg?ver=1500392065000'
+
+#- type: 'image'
+#   img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'MEALTIME HAS NEVER BEEN EASIER. Our new, ready to cook meals are cooked and ready to grill, bake or steam.  Choose from a variety of options the whole family will enjoy.  Available at Kings Morristown, Mendham, Boonton and Florham Park in the meat department. '
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b69e7852-a0e3-4192-95ef-6b27806c5be9.jpg?ver=1500392065000'
+
+#- type: 'image'
+#   img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'LEARN MORE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fe3dabc4-564c-4200-88bd-bcba5c792747.jpg?ver=1500392065000'
+
+#- type: 'image'
+#   img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'WHAT&#39;S NEW IN STORE '
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94d01a8c-b774-4dd6-9617-b57f8eb6f974.jpg?ver=1500392066000'
+
+#- type: 'image'
+#   img_link: 'http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'SUMMER CATERING From lawn parties to formal occasions, our fresh and seasonal Special Occasions catering menu has you covered. VIEW MENU >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5bff0272-2ebc-4150-9553-d5b895369b7c.jpg?ver=1500392067000'
+
+#- type: 'image'
+#   img_link: 'http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0721_KF_WeeklyEmail_Hoboken'
+#   img_alt: 'FAMILY PACK ENTREES Bring our chefs home to you! Our Family Pack Entrées are ready for the oven, filled with our best Chef Prepared selections. Choose from a variety of ready-to-go-options. LEARN MORE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0c2dc671-418b-4f22-9166-0717a2b087c3.jpg?ver=1500392067000'
+

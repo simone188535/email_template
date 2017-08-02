@@ -1,0 +1,93 @@
+title: 'Get Grilling...Save $2 on Skewered Colossal Shrimp!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: ''
+logo_alt: ''
+catering_link: ''
+catering_alt: ''
+chef_prepared_link: ''
+chef_prepared_alt: ''
+store_locator_link: ''
+store_locator_alt: ''
+my_balduccis_link: ''
+my_balduccis_alt: ''
+
+#footer
+footer_site_link: ""
+footer_site_img: ""
+footer_site_alt: ""
+footer_facebook_link: ""
+footer_facebook_img:  ""
+footer_facebook_alt: ""
+footer_twitter_link: ""
+footer_twitter_img: ""
+footer_twitter_alt: ""
+
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0727_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dc61269e-d48e-4625-88a6-275ffadf5ea4.jpg?ver=1501172137000'
+  img_alt: "Balducci&#39;s&reg; Food Lover's Market™ This Week&#39;s Picks in Rye Brook Meat & Seafood Valid 7/28/17 - 8/3/17 "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0727_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/746b2b80-d58b-4612-9469-ccad049fa493.jpg?ver=1501172137000'
+  img_alt: "Save 1.00 |STORE MADE ITALIAN PORK SAUSAGE | Sweet or Hot, 16 oz. | Great on the grill! | YOU PAY 6.99 EA. "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0727_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2e37ecb-9d7e-4349-83b0-d2f465875d01.jpg?ver=1501172137000'
+  img_alt: "Save 2.00 |FRESH WATER COLOSSAL SHRIMP ON A SKEWER | 5.5 oz. | YOU PAY 7.99 EA. 5.99 SUSHI WEDNESDAYS | Choose from California, Salmon Avocado, Spicy Tuna, or Tuna Avocado Rolls "
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0727_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f1c3b2be-abd3-4278-97c4-434a638fa834.jpg?ver=1501172138000'
+  img_alt: "Save 1.50 | AHI TUNA POKE RICE &amp; SALAD BOWL | YOU PAY 8.99 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0727_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7b342467-772c-4d51-84b1-43780f1821f9.jpg?ver=1501172138000'
+  img_alt: "Cheese Savings Valid 7/28/17 - 8/3/17  Save 5.00 | PARMIGIANO REGGIANO | 2 year Export Quality | YOU PAY 15.99 LB. Save 5.00 | GRATED, SHAVED OR SHREDDED | 17.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0727_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/afd37fed-22ed-4876-8553-9ccf6ade6104.jpg?ver=1501172138000'
+  img_alt: "CATERING | Whether it&#39;s a dinner for family and friends or a corporate function, every catering order is assigned a professional Catering Coordinator to help with party advice, floral recommendations and more. | Call us at: 1-866-278-8866 for your next event!"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0727_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ccf1a9b2-41d2-47fc-9e54-80ca0772d32d.jpg?ver=1501172138000'
+  img_alt: "Produce, Bakery & More! Valid 7/28/17 - 8/3/17 Save up to 1.00 | LOCALLY GROWN GREEN PEPPERS, YELLOW OR GREEN SQUASH, & EGGPLANT | YOU PAY 1.99 LB"
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0727_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d9767af2-0332-4242-aebc-43bb2eac7145.jpg?ver=1501172138000'
+  img_alt: "Save 1.00 | Red or Black Plums | You Pay 2.99 LB. Save 1.00 | Mezze Bar 1LB or more | You Pay 8.99 LB."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0727_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9e18ff0f-7102-459c-9898-9cafdd5e221b.jpg?ver=1501172139000'
+  img_alt: "Save 2.00 | Balducci&#39;s Store Made Apple Horseshoe | You Pay 4.99 EA. Save 1.00 | Petite Bouquet | You Pay 11.99 EA."
+
+- type: 'image'
+  url: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0727_BLD_RyeBrookSavingsSolo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2bf7c260-c0ca-48e4-b068-97c0973cabc8.jpg?ver=1501172139000'
+  img_alt: "Save 7.00 | Justin&#39;s Almond Butter, 16 oz. | You Pay 9.99 EA. Save 3.98 on 2 | Almond Breeze, 64 fl oz. | You Pay 2/6.00 Save 1.00 |Balducci&#39;s Spring Water 24PK, 405.6 fl oz. | You Pay 4.99 EA. 144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook"
+
+
+
+
+
+
+
+
