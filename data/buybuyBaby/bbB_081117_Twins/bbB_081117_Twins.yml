@@ -1,0 +1,161 @@
+#TITLE
+title: 'Free Shipping over $29'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS29_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS29_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $29 View Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS29_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS29_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS29_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS29_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS29_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Free Shipping over $29'
+preheader_link: 'http://www.buybuybaby.com/store/static/ShippingPolicies'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+# - type: 'image-3-columns'
+#   img_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_alt: 'Crisp & clean, you can&#39;t go wrong with stripes!'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_02.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_2_alt: 'go bold what&#39;s Black & White and always in style? Fun, functional baby gear in this on-trend color scheme.'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_03.jpg'
+#   img_3_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_3_alt: 'Black & White looks best when you add bold pops of color!'
+#   img_3_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_04.jpg'
+
+# - type: 'image-2-columns'
+#   img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+#   img_alt: 'savings center'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_13.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+#   img_2_alt: 'strollers'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/milestone-trade-baby-cards-for-twins/1045766084'
+  img_alt: 'cute x 2 Preparing for multiples? From a double stroller to an extra spacious diaper bag, we have everything you need for your darling duo! shop now Milestone™ Baby Cards for Twins | 34.99'
+  img_url: 'images/bbB_201_081117_Twins_v2_r9_DEV_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/s/skip-hop-duo-double-signature-diaper-bag'
+  img_alt: 'Duo Double Signature Diaper Bag by SKIP*HOP® 84.99 FREE SHIPPING shop now'
+  img_url: 'images/bbB_201_081117_Twins_v2_r9_DEV_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/baby-jogger-reg-city-mini-reg-gt-double-stroller-in-charcoal/3286682'
+  img_alt: 'City Mini® GT Double Stroller by Baby Jogger® 599.99 FREE SHIPPING patented quick-fold technology shop now'
+  img_url: 'images/bbB_201_081117_Twins_v2_r9_DEV_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/silly-phillie-trade-creations-two-turtles-gift-set-for-twins/1045557224'
+  img_alt: 'Creations Two Turtles Gift Set for Twins by Silly Phillie® 69.99 FREE SHIPPING gifts that are twice as nice! shop now'
+  img_url: 'images/bbB_201_081117_Twins_v2_r9_DEV_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/twin-z-pillow-reg/3305418'
+  img_alt: 'Nursing Pillow with Slipcover by Twin Z Pillow® 99.99 FREE SHIPPING shop now'
+  img_url: 'images/bbB_201_081117_Twins_v2_r9_DEV_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/graco-reg-pack-39-n-play-reg-playard-with-twin-bassinets-vance-trade/1040169095'
+  img_alt: 'Pack &#39;n Play® Playard with Twin Bassinets by Graco® Shown in Vance™ 219.99 FREE SHIPPING comes with 2 bassinets shop now'
+  img_url: 'images/bbB_201_081117_Twins_v2_r9_DEV_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/baby-brezza-reg-formula-pro-formula-dispenser/1042167105'
+  img_alt: 'Formula Pro Formula Dispenser by Baby Brezza® 179.99 FREE SHIPPING make double the bottles faster! shop now'
+  img_url: 'images/bbB_201_081117_Twins_v2_r9_DEV_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/dwinguler-large-kid-39-s-castle-playpen/3328353'
+  img_alt: 'Large Kid&#39;s castle Playpen by Dwinguler 259.99 FREE SHIPPING shop now'
+  img_url: 'images/bbB_201_081117_Twins_v2_r9_DEV_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/joovy-reg-twin-roo-infant-car-seat-frame-stroller/3260902'
+  img_alt: 'Twin Roo+ Infant Car Seat Frame Stroller by Joovy® FREE SHIPPING shop now Car seats are sold separately'
+  img_url: 'images/bbB_201_081117_Twins_v2_r9_DEV_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/joovy-reg-new-room2-trade-playard-in-black/1045826290'
+  img_alt: 'New Room2™ Playard by Joovy® 149.99 FREE SHIPPING shop now'
+  img_url: 'images/bbB_201_081117_Twins_v2_r9_DEV_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/joovy-reg-room2-twin-nursery-center-in-black/1060962577'
+  img_alt: 'Room2™ Twin Nursery Center by Joovy® 89.99 FREE SHIPPING shop now'
+  img_url: 'images/bbB_201_081117_Twins_v2_r9_DEV_12.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States.'
+  img_url: 'images/bbB_201_081117_Twins_v2_r9_DEV_13.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+  img_alt: 'Get it on Google Play'
+  img_url: 'images/bbB_201_081117_Twins_v2_r9_DEV_14.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'Download on the App Store'
+  img_2_url: 'images/bbB_201_081117_Twins_v2_r9_DEV_15.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_201_081117_Twins_v2_r9_DEV_16.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_201_081117_Twins_v2_r9_DEV_17.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_201_081117_Twins_v2_r9_DEV_18.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_201_081117_Twins_v2_r9_DEV_19.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_201_081117_Twins_v2_r9_DEV_20.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_201_081117_Twins_v2_r9_DEV_21.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_201_081117_Twins_v2_r9_DEV_22.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
