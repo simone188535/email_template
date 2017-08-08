@@ -1,0 +1,96 @@
+title: 'TBD'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/68b375ad-a8e7-43d3-9b3c-b199f7c2634e.jpg?ver=1502215814000'
+  img_alt: "GOURMET REWARDS CLUB"
+
+- type: 'image'
+  img_link: 'https://vimeo.com/224506259?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b7b0e7ba-77af-497e-b86b-60788ec3a48d.jpg?ver=1502215814000'
+  img_alt: "YOU ARE WHAT YOU EAT We've put together a delicious collection of some of our favorite beauty and wellness enhancing foods. Create CHOCOLATE & QUINOA PROTEIN BITES WATCH VIDEO >"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f3151462-5175-420a-b1d9-11b3d3efd388.jpg?ver=1502215814000'
+  img_alt: "EAT WELL | LIVE WELL"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/soup?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/534131ef-da40-43a6-9f1d-44f45804850f.jpg?ver=1502215814000'
+  img_alt: "KETTLE & FIRE BONE BROTH An amazing source of collagen and protein, slow-simmered for 24 hours with organic vegetables, sea salt and herbs. Recipe Idea KOREAN BEEF & NOODLE SOUP VIEW RECIPE >"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/be0253ea-3b82-4362-a0b5-94b62becdb52.jpg?ver=1502215815000'
+  img_alt: "HARMLESS HARVEST PROBIOTIC SMOOTHIES Harmless Coconut® water, coconut meat, and live proviotic cultures support digestive and immune health. PALEONOLA GRAIN FREE GRANOLA Certified gluten-free granola made with all-natural ingredients that improve energy and digestive health. " 
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2a7134ad-064c-410a-823e-16059c0623e8.jpg?ver=1502215815000'
+  img_alt: "ORGANIC COCONUT SNACKS Made with organic coconut, chia, sunflower and pumpkin seeds. BALDUCCI'S TURMERIC A versatile Indian spice known to aid in joint and brain health. "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/40923ef5-f28c-49ad-9ab8-929ade63834a.jpg?ver=1502215815000'
+  img_alt: "DRISCOLL'S STRAWBERRIES Organically grown strawberries loaded with vitamin C and antioxidants to nourish and revitalize skin and hair. Recipe Idea FRESH STRAWBERRY SMOOTHIE VIEW RECIPE>"
+  
+- type: 'image'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2a2781af-8d8a-4fc7-8f45-61ab7c43b16c.jpg?ver=1502215815000'
+  img_alt: "CHEF PREPARED | FRESH TO GO "
+  
+- type: 'image'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4024e059-c436-4d12-b14f-d18573b917c3.jpg?ver=1502215816000'
+  img_alt: "SOUTHWEST CHICKEN SALAD SHRIMP & SNOW PEA LETTUCE WRAP"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a69d6f78-967d-4b1f-9158-6f3daa24eea1.jpg?ver=1502215816000'
+  img_alt: "WHAT'S NEW | IN STORE "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=0811_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e2d9df35-029c-4d59-8d9e-515848a31c1d.jpg?ver=1502215816000'
+  img_alt: "SUMMER BBQ CATERING From slow-roasted, tangy BBQ to quintessential summer sides like brisket baked beans, our summer BBQ catering menue is here to make your mouth water. ORDER NOW >"
