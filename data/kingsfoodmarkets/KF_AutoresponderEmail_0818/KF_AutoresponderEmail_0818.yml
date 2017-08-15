@@ -1,0 +1,124 @@
+title: 'Thank You For Signing Up!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_AutoresponderEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_AutoresponderEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_AutoresponderEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_AutoresponderEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_AutoresponderEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+# footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0313_KF_AutoresponderEmail"
+# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+# footer_site_alt: "www.kingsfoodmarkets.com"
+# footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+# footer_facebook_alt: "facebook"
+# footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+# footer_twitter_alt: "twitter"
+# footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+# footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+# footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1598f29a-5c34-4cfd-8434-291773049a84.jpg?ver=1502804635000"
+  img_alt: "Thank You For Signing Up!"
+  url: "http://kingsfoodmarkets.com/10offTOTAL_081817.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_AutoresponderEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d5e04639-8d91-471e-9e0c-0d466cceaae4.jpg?ver=1502804635000"
+  img_alt: "10% OFF Your Next Purchase | Valid Now - 09/11/17"
+  url: "http://kingsfoodmarkets.com/10offTOTAL_081817.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_AutoresponderEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4e9ced3c-b3b0-4f13-a1cb-cdf542693001.jpg?ver=1502804635000"
+  img_alt: "Print Coupon >"
+  url: "http://kingsfoodmarkets.com/10offTOTAL_081817.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_AutoresponderEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/77f9d465-57f0-454a-83b4-464426d8bbe2.jpg?ver=1502804635000"
+  img_alt: "As a subscriber to our weekly newsletter, you&#39;ll receive inspired ideas for your next meal like: "
+  url: "http://kingsfoodmarkets.com/10offTOTAL_081817.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_AutoresponderEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0e1f1f4-3ebc-400f-be69-26bd288c259c.jpg?ver=1502804635000"
+  img_alt: "Catering > "
+  url: "http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_AutoresponderEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/746ffaeb-c0d7-4a52-b04c-f6b6f54cf30f.jpg?ver=1502804636000"
+  img_alt: "Recipes > "
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_AutoresponderEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e309b68e-0338-44ef-930a-b84188049a66.jpg?ver=1502804636000"
+  img_alt: "Market Specials > "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_AutoresponderEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4159e022-796d-4769-9787-4840d14da42d.jpg?ver=1502804636000"
+  img_alt: ""
+  url: "http://kingsfoodmarkets.com/10offTOTAL_081817.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_AutoresponderEmail"
+
+- type: "image-4-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+  img_alt: "www.kingsfoodmarkets.com"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_AutoresponderEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+  img_alt_2: "facebook"
+  url_2: "https://www.facebook.com/KingsFoodMarkets"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+  img_alt_3: "twitter"
+  url_3: "https://twitter.com/KingsFoodMkts"
+  img_4: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+  img_alt_4: "youtube"
+  url_4: "https://www.youtube.com/user/KingsFoodMarkets"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
