@@ -1,0 +1,96 @@
+title: 'Save $8 lb. on Wild Caught Swordfish Steak'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+# #header
+# logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+# catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# catering_alt: 'CATERING'
+# chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# chef_prepared_alt: 'CHEF PREPARED'
+# store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# store_locator_alt: 'FIND A STORE'
+# my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+# #footer
+# footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__"
+# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+# footer_site_alt: "balduccis.com"
+# footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+# footer_facebook_alt: "facebook"
+# footer_twitter_link: "https://twitter.com/Balduccis"
+# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+# footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/39a667c5-1818-478c-aebb-17c779567a7b.jpg?ver=1502978696000'
+  img_alt: "Balducci&#39;s® Food Lover&#39;s Market™ This Week&#39;s Picks in Rye Brook Meat & Seafood Valid 8/18/17 - 8/24/17"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a30421ed-e51b-4829-96f9-39db65076cfc.jpg?ver=1502978696000'
+  img_alt: "Save 2.00 | NATURAL BEEF FLANK STEAK | Marinade or Season, and Grill! | YOU PAY 14.99LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dd39d942-079e-4043-9707-7067a3a15730.jpg?ver=1502978697000'
+  img_alt:  "Save 1.00 | STORE MADE ITALIAN PORK SAUSAGE | Sweet or Hot, 16 oz. | YOU PAY 6.99EA. 5.99 SUSHI WEDNESDAYS | Choose from California, Salmon Avocado, Spicy Tuna, or Tuna Avocado Rolls "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b2ed6532-251e-4b14-bde4-de03e73561de.jpg?ver=1502978697000'
+  img_alt: "Save 8.00 | Wild Caught Center Cut Swordfish Steak | YOU PAY 18.99LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b709a87d-ee22-4950-b03d-42c762dfb0dc.jpg?ver=1502978698000'
+  img_alt: "Save 2.00 | Wild Caught Littleneck Clams Dozen | from Long Island | YOU PAY 6.99EA."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/27c00c13-b60d-40e7-97d5-938a31461ef1.jpg?ver=1502978700000'
+  img_alt: "Cheese Savings Valid  8/17/17 - 8/24/17  Save 9.00 | Farmhouse Stilton Cheese | Aged 15 wks., Mellow and tangy | YOU PAY 12.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f9065751-fa14-4d20-b0f2-c55bd4797b49.jpg?ver=1502978700000'
+  img_alt: "Save 5.00 | Red Wax Gouda | Mild, nutty and creamy | 6.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/351b4a38-5c76-4275-97af-5e185aba2df7.jpg?ver=1502978701000'
+  img_alt: "CATERING | Whether it&#39;s a dinner for family and friends or a corporate function, every catering order is assigned a professional Catering Coordinator to help with party advice, floral recommendations and more. | Call us at: 1-866-278-8866 for your next event!"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bcc2828d-aabb-494c-95be-7528e35be2ed.jpg?ver=1502978701000'
+  img_alt: "Produce, Bakery & More! Valid  8/17/17 - 8/24/17 BUY ONE Pre-Packed Crab Cake Bistro Meal GET 50% OFF a Second Bistro Meal | Assorted Varieties to choose from"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2b749686-7675-41ba-82dd-866dcd067d0d.jpg?ver=1502978702000'
+  img_alt: "Save 1.00 | Jumbo Sweet Cherries | You Pay 5.99 LB. Save 2.00 | Whole Seedless Watermelon | You Pay 4.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9a1e3e8b-fc59-4530-9dfa-781464edc616.jpg?ver=1502978703000'
+  img_alt: "Save 1.00 | Zaro&#39;s NYC Bakery Baguette | You Pay 1.99 EA.Save 1.00 | 10 Stem Market Bunch Roses | You Pay 8.99 EA."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3acd4bc4-dde7-4973-a5ac-a4ae181c1e44.jpg?ver=1502978704000'
+  img_alt: "Save 1.00 | LaCroix Sparkling Water 12pk 144 fl oz. | You Pay 4.99 EA. Save 1.00 | Fever Tree Soda 4pk All Varieties, 27.2 oz. | You Pay 5.99 EA. Save 3.98 on 2 | Eggland&#39;s Best Cage Free Eggs, dozen | You Pay 2/6.00 144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook"
+
+
