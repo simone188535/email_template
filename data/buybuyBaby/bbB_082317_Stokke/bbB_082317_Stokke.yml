@@ -1,0 +1,143 @@
+title: 'FREE SHIPPING ON ORDERS OVER $29 View Details'
+
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $29 View Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+
+preheader_text: 'Shop Tripp Trapp® High Chairs'
+preheader_link: 'https://www.buybuybaby.com/store/s/stokke-tripp-trapp/4294965885-4294967217-32065/1-48'
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: '#  '
+
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'images/bbB_082317_Stokke_03.jpg'
+  image_alt: 'pull up a chair A chair that grows with your child. Designed to fit right up to your dining table & bring your baby closer to the family. '
+  image_link: 'https://www.buybuybaby.com/store/s/stokke-tripp-trapp/4294965885-4294967217-32065/1-48'
+
+- type: 'image'
+  image_url: 'images/bbB_201_082317_Stokke_v2_r9_DEV_02.gif'
+  image_alt: 'colors inspired by nature Now in three new nature-inspired shades; Forest Green, Moss Green, & Heather Pink. Tripp Trapp® 249.99 FREE SHIPPING Additional colors available'
+  image_link: 'https://www.buybuybaby.com/store/s/stokke-tripp-trapp/4294965885-4294967217-32065/1-48'
+
+- type: 'image'
+  image_url: 'images/bbB_082317_Stokke_05.jpg'
+  image_alt: 'Tripp Trapp® accessories'
+  image_link: ''
+
+- type: "images-2-columns"
+  image_first_url: "images/bbB_082317_Stokke_06.jpg"
+  image_first_alt: "Tripp Trapp® Baby Set Brings children 6 months to 3 years to the table 69.99 FREE SHIPPING Additional colors available"
+  image_first_link: "https://www.buybuybaby.com/store/s/stokke-tripp-trapp/4294965885-4294967217-32065/1-48"
+  image_second_url: "images/bbB_082317_Stokke_07.jpg"
+  image_second_alt: "Tripp Trapp® Cushion Adds cozy comfort & support 44.99 Additional colors available"
+  image_second_link: "https://www.buybuybaby.com/store/s/tripp-trapp-cushion"
+
+- type: "images-2-columns"
+  image_first_url: "images/bbB_082317_Stokke_08.jpg"
+  image_first_alt: "Stokke® Tray Turns your Tripp Trapp® into a stand-alone high chair 49.99 FREE SHIPPING"
+  image_first_link: "https://www.buybuybaby.com/store/product/stokke-reg-tripp-trapp-reg-tray-in-white/1040529882"
+  image_second_url: "images/bbB_082317_Stokke_09.jpg"
+  image_second_alt: "Stokke® Table Top Keeps your little one entertained during meals 89.99 FREE SHIPPING"
+  image_second_link: "https://www.buybuybaby.com/store/product/stokke-reg-tripp-trapp-reg-table-top-set/1016174971"
+
+- type: 'image'
+  image_url: 'images/bbB_082317_Stokke_10.jpg'
+  image_alt: 'shop Stokke® '
+  image_link: ''
+
+- type: 'image'
+  image_url: 'images/bbB_082317_Stokke_11.jpg'
+  image_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use the find in-store option for easy pick-up. Prices valid only in contiguous Unites States.'
+  image_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+
+- type: 'image'
+  image_url: 'images/bbB_082317_Stokke_12.jpg'
+  image_alt: 'more to shop Stokke® '
+  image_link: ''
+
+- type: 'images-3-columns'
+  image_first_url: 'images/bbB_082317_Stokke_13.jpg'
+  image_first_alt: 'strollers'
+  image_first_link: 'https://www.buybuybaby.com/store/brand/stokke/489/4294967217-4294965885-4294966197-32571/1-48'
+  image_second_url: 'images/bbB_082317_Stokke_14.jpg'
+  image_second_alt: 'baby carriers'
+  image_second_link: 'https://www.buybuybaby.com/store/brand/stokke/489/4294967217-4294965885-4294966197-30539/1-48'
+  image_third_url: 'images/bbB_082317_Stokke_15.jpg'
+  image_third_alt: 'furniture'
+  image_third_link: 'https://www.buybuybaby.com/store/brand/stokke/489/4294967217-4294965885-4294966197-32609/1-48'
+
+
+- type: 'image'
+  image_url: 'images/bbB_082317_Stokke_16.jpg'
+  image_alt: 'check out our registry favorites shop now'
+  image_link: 'http://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/32689/'
+
+- type: 'image'
+  image_url: 'images/bbB_082317_Stokke_17.jpg'
+  image_alt: 'top diapers for every botom shop diapers'
+  image_link: 'https://www.buybuybaby.com/store/s/diapers' 
+
+- type: "images-2-columns"
+  image_first_url: "images/bbB_082317_Stokke_18.jpg"
+  image_first_alt: "Get it on Google Play"
+  image_first_link: "https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en"
+  image_second_url: "images/bbB_082317_Stokke_19.jpg"
+  image_second_alt: "Download on the App Store"
+  image_second_link: "https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8"
+
+socialnav:
+- link: ""
+  img: "images/bbB_082317_Stokke_20.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_082317_Stokke_21.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_082317_Stokke_22.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_082317_Stokke_23.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_082317_Stokke_24.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_082317_Stokke_25.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_082317_Stokke_26.jpg"
+  alt: ""
+
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
