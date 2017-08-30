@@ -1,0 +1,179 @@
+title: 'myKINGS extra! Savings...the newest way to save'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/45db34a0-276a-4746-8284-d77face7a1f1.jpg?ver=1499793322000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+weekly_circular_img: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'IT&#39;S SUMMER&#39;S LAST HURRAH! Get inspired with crowd-pleasing recipes and grill master must-haves. HAPPY LABOR DAY!'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e4faf3f5-a4f7-429c-b898-5856f6e7e962.jpg?ver=1503934424000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'IT&#39;S SUMMER&#39;S LAST HURRAH! Get inspired with crowd-pleasing recipes and grill master must-haves. HAPPY LABOR DAY!'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8b1ee50d-ceee-4a02-90bb-bce0ac9b064e.jpg?ver=1503934424000'
+
+- type: 'image'
+  img_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: '4-DAY SALE 9/1 - 9/4 myKINGS EXTRA! SAVINGS'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/89db4508-ec64-4f30-8fb3-006eb331bb21.jpg?ver=1503950811000'
+
+- type: 'image-2-columns'
+  img_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'members extra! SAVINGS SAVE $2 lb. KINGS USDA PRIME CERTIFIED ANGUS BEEF COULOTTE SIRLOIN STEAK members pay 7.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85f38dc1-78a0-4bb7-8678-4040e55abd22.jpg?ver=1503950811000'
+  img_2_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_2_alt: 'members extra! SAVINGS SAVE $2 lb. FRESH WILD CAUGHT SWORDFISH STEAK members pay 18.99 LB.'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/daa68f22-e880-4e5c-a344-d3a4295a49cf.jpg?ver=1503950811000'
+
+- type: 'image-2-columns'
+  img_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'members extra! SAVINGS SAVE $1 lb. YELLOW PEACHES OR NECTARINES members pay 2.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/abffdff1-1095-4a80-9189-c4d4f63da70f.jpg?ver=1503950812000'
+  img_2_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_2_alt: 'members extra! SAVINGS ORGANIC SAVE $3.58 on 2 LAY&#39;S LARGE BAG CHIPS members pay 2/5'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4016c016-f089-4058-a3c4-fe70e8b841f1.jpg?ver=1503950812000'
+
+- type: 'image'
+  img_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'VIEW WEEKLY SALES >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1dc28bb6-6b56-4264-903b-26d2807e6c9c.jpg?ver=1503934426000'
+
+- type: 'image'
+  img_link: 'https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'FRESH SWORDFISH | FROM THE DOCK TO OUR BACK DOOR '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c5fee399-fdc0-43ea-8153-dc5fe55bc04f.jpg?ver=1503934426000'
+
+- type: 'image'
+  img_link: 'https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'FRESH WILD CAUGHT SWORDFISH STEAK Our wild-caught swordfish steaks are hook and line caught off the coasts of New England and Canada. Moist, flavorful and slightly sweet, enjoy this catch while you can!'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8f3d3a02-bb92-456c-8273-96f269636d1f.jpg?ver=1503934426000'
+
+- type: 'image'
+  img_link: 'httphttps://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'SALMON | SPICE THINGS UP '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dd066c5d-7b29-46ab-a55a-90cb59c40b64.jpg?ver=1503934426000' 
+
+- type: 'image'
+  img_link: 'httphttps://www.youtube.com/watch?v=bxqreDhXV4M?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'CREATE SRIRACHA SALMON BURGERS WITH BANH MI SLAW | SALMON BURGERS MADE FRESH IN STORE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c38c3efd-6ce9-4f7e-b146-989d43fcd143.jpg?ver=1503934427000 ' 
+
+- type: 'image'
+  img_link: 'https://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'GRILL MASTER MUST-HAVES '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3e8b4331-4cc3-40d8-a2cf-fa6be446ceb0.jpg?ver=1503934427000'  
+
+- type: 'image'
+  img_link: 'https://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'The ultimate BBQ starts with the basics. Stock up on these KINGS OWN ESSENTIALS. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/48b61aea-eb65-454d-8a78-de0efb067f94.jpg?ver=1503934427000' 
+
+- type: 'image-3-columns'
+  img_link: 'https://kingsfoodmarkets.com/kings-own-brand/marinades?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'KINGS MARINADES '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/98b2fd1b-0832-4121-adab-1b2aa4982c93.jpg?ver=1503934427000' 
+  img_2_link: 'https://kingsfoodmarkets.com/kings-own-brand/kings-cheese?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_2_alt: 'KINGS CHEESE '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/41bf7677-4c36-4bfb-bd19-136190ab8453.jpg?ver=1503934428000' 
+  img_3_link: 'https://kingsfoodmarkets.com/kings-own-brand/snacks?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_3_alt: 'KINGS POTATO CHIPS  '
+  img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/61509c3d-fb4e-407e-bab6-8fb830e25959.jpg?ver=1503934428000' 
+
+
+- type: 'image'
+  img_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'GRAB & GO BACK-TO-SCHOOL DINNER IDEAS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/80c6318b-c005-4b49-9084-299ab4a82f17.jpg?ver=1503934428000' 
+
+
+- type: 'image'
+  img_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'Choose from Chef Inspired favorites including&#58;'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b6af3d80-b0f3-4bc8-83ef-e144bdff1f34.jpg?ver=1503934428000' 
+
+
+- type: 'image-3-columns'
+  img_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'KINGS CHEF INSPIRED BLACK BEAN TACO '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0229f267-de1e-425b-adc7-30392469e843.jpg?ver=1503934428000' 
+  img_2_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_2_alt: 'BELL & EVANS TENDERS OR NUGGETS '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3ed15a4b-fdd6-4df8-b278-acd724d0357c.jpg?ver=1503934429000' 
+  img_3_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_3_alt: 'KINGS CHEF INSPIRED ITALIAN SUB '
+  img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/96345789-f695-47cb-8d06-853e5c4c1004.jpg?ver=1503934429000' 
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/jewish-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'JEWISH HOLIDAY RECIPE INSPIRATION '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/184cb5cc-2f3a-4a65-8c03-2698e7703801.jpg?ver=1503934429000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/jewish-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'ROSH HASHANAH and YOM KIPPUR are right around the corner. Get inspired with these DELICIOUS RECIPES. NEW! PICK UP YOUR JEWISH CALENDAR IN-STORE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ddd1e1c6-4c86-49ae-a486-c439d8989b9a.jpg?ver=1503934429000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/jewish-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'ROSH HASHANAH and YOM KIPPUR are right around the corner. Get inspired with these DELICIOUS RECIPES. NEW! PICK UP YOUR JEWISH CALENDAR IN-STORE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e75ece69-4008-4ee1-9d3e-c06c20890d29.jpg?ver=1503934429000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/jewish-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'VIEW JEWISH RECIPES > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/10d2dbf5-3177-4549-8f37-fbb5085359df.jpg?ver=1503934430000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'WHAT&39;S NEW IN STORE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ca17824f-1a8c-4b6c-83f3-2cc958bc5dba.jpg?ver=1503934430000'
+
+- type: 'image'
+  img_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_KF_WeeklyEmail_Hoboken'
+  img_alt: 'ROSH HASHANAH CATERING Host an elegant Rosh Hashanah gathering and let us prepare a memorable feast for your family. Enjoy our traditional catering with a modern touch. VIEW MENU > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de54f930-cad0-4303-af4e-867e95308f53.jpg?ver=1503934430000'
+
+
+    
