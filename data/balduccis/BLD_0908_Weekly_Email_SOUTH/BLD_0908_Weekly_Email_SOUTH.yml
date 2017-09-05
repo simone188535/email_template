@@ -1,0 +1,118 @@
+title: 'Customize it: Rosh Hashanah catering the easy way.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/68b375ad-a8e7-43d3-9b3c-b199f7c2634e.jpg?ver=1502215814000'
+  img_alt: "GOURMET REWARDS CLUB"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7d01433c-ea1d-4210-8e05-18b02ae640f2.jpg?ver=1504617176000'
+  img_alt: "PLAN THE PERFECT ROSH HASHANAH Our holiday catering menu is full of your traditional favorites and a few fun surprises. VIEW MENU > "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8bbee5a4-9708-47aa-8a4a-f955a671efb1.jpg?ver=1504617176000'
+  img_alt: "CATERING | JEWISH HOLIDAYS "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur/custom_dinner?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/866c3bbc-3e73-4737-9b36-f31e455a1c90.jpg?ver=1504617177000'
+  img_alt: "CHOOSE YOUR CUSTOM DINNER Pick your favorites for a full meal at one great price. 1 Entrée, 2 Starters, 3 Sides, 2 Extras, 1 Bread & 1 Dessert ORDER NOW > "
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur/custom_dinner?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_alt: 'TRADITIONAL BEEF BRISKET DINNER '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8b86ade7-7971-40f5-990f-016dac48ef3a.jpg?ver=1504617177000'
+  img_2_link: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur/custom_dinner?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_2_alt: 'MATZOH BALLS IN BROTH '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/56b6a59d-b2e8-4598-a06f-e2b633724a19.jpg?ver=1504617177000'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur/custom_dinner?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_alt: 'SWEET NOODLE KUGEL TART '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3d8553f5-5f12-4b0a-8cc3-4dde84c1f4b0.jpg?ver=1504617178000'
+  img_2_link: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur/custom_dinner?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_2_alt: 'LILLY&#39;S TRADITIONAL SPONGE CAKE KOSHER '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/55677438-d7e4-4ccc-a5fc-2f9832bd6042.jpg?ver=1504617178000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/db613db4-59de-4e28-a91c-82a3482581bf.jpg?ver=1504617178000'
+  img_alt: "SPICED UP IDEAS | THE FLAVORS OF ASIA " 
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/74dcb57c-b554-40ad-ab88-a0566de3863c.jpg?ver=1504617179000'
+  img_alt: "KEY WEST PINK SHRIMP MEMBER EXCLUSIVE 18.99/LB Reg  20.99 "
+
+- type: 'image'
+  img_link: 'https://vimeo.com/224505634?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f8f76475-1e4e-442f-8198-825fa23fa0a1.jpg?ver=1504617179000'
+  img_alt: "RECIPE VIDEO SPICY THAI MANGO ROLLS WITH SHRIMP "
+  
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/recipes/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_alt: 'SAIGON NOODLE & SHRIMP STIR-FRY VIEW RECIPE > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1a39a59a-030f-4491-a1c8-0eeaaa8b2755.jpg?ver=1504617179000'
+  img_2_link: 'http://www.balduccis.com/recipes/salads?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_2_alt: 'VIETNAMESE BEEF SALAD VIEW RECIPE > '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ffaa3a6e-34da-435e-afd7-94e98dadd8d0.jpg?ver=1504617180000'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_alt: 'MANN&#39;S SUGAR SNAP PEAS & SNOW PEA PODS Colorful and nutritious, they are great in a stir fry, salad or snack.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1e849af7-a692-40a6-af18-6c2742617f59.jpg?ver=1504617180000'
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_2_alt: 'LUNDBERG ORGANIC CALIFORNIA SUSHI RICE Organic, non-GMO rice with just the right amount of stickiness.'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dde26e9a-50cd-4a03-aa5d-f9438068fd15.jpg?ver=1504617180000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8763dc82-8026-4221-ab20-293002705a4d.jpg?ver=1504619965000'
+  img_alt: "WHAT'S NEW IN-STORE "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0908_BLD_Weekly_Email_SOUTH'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8a5849a9-25ee-4503-8d15-668500170471.jpg?ver=1504619965000'
+  img_alt: "Wine & Food Tasting Join us for a free wine tasting event! Meet professional winemakers, importers and aficionados, and sample and learn about a variety of wines. THIS SATURDAY! SEPT. 9 Food Samplings…12 noon-5pm Wine Samplings…2-5pm MORE INFO > "
