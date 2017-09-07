@@ -1,0 +1,81 @@
+title: 'Free Wine Event | The Best of Balducci&#39;s'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e82fc47f-5561-4685-8ab4-435a08e6f33d.jpg?ver=1504708367000'
+  img_alt: 'Wine Newsletter September 2017'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7bf59e88-7115-4d44-8af8-678e2140b5f2.jpg?ver=1504708367000'
+  img_alt: 'WINE & FOOD EVENT SATURDAY, SEPTEMBER 9TH Food Tasting:  12pm-5pm Wine Tasting: 2pm-5pm FEATURING • New Fall Wines • Top Scoring Wines • Extreme Value Wines!'
+  url_2: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/255d9b8e-bde3-45a4-9b10-5abef0854174.jpg?ver=1504708367000'
+  img_alt_2: 'WINE & FOOD EVENT SATURDAY, SEPTEMBER 9TH Food Tasting:  12pm-5pm Wine Tasting: 2pm-5pm FEATURING • New Fall Wines • Top Scoring Wines • Extreme Value Wines!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ac406c46-ebf8-4bbe-b8a4-82106e4343b6.jpg?ver=1504708368000'
+  img_alt: 'MUST HAVE WINES The kids are back in school and the rush hour traffic is back  on the beltway. As we all fall back into our post vacation routines, let&#39;s be sure we have plenty of wine on hand…'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/64b39aef-6e54-4752-9c40-f2b584eef712.jpg?ver=1504708368000'
+  img_alt: 'Balducci&#39;s Prosecco 14.99/BTL Hailing from the famous Gasparini estate near the town of Venegazzu, our Prosecco is lively, toasty and creamy with hints of hazelnut and candied fruits and a long, refreshing finish. Perfect as an aperitif.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d4cf9a60-32ac-43e8-8ca3-1d39a226e65a.jpg?ver=1504708369000'
+  img_alt: 'Balducci&#39;s Pinot Grigio  10.99/BTL Made especially for us by famed enologist  Franco Bernabei at Dell Venecia outside Verona. Fresh, floral, apple-scented fruit and a soft-yet-full finish are the trademarks of this classic white.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4f7c8946-eaef-4396-9f8f-60bf2496fd59.jpg?ver=1504708370000'
+  img_alt: 'Balducci&#39;s Rosé 16.99/BTL Produced by our longtime friend and European winemaking wunderkind Anton Bauer, this special bottling Rosé was drawn from his best lots of the 2016 vintage. It is simply bursting with fresh fruit flavors of red berries and springtime.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6a67afef-2f6e-4372-9079-4e8cab2910f2.jpg?ver=1504708371000'
+  img_alt: 'Balducci&#39;s Old Vines Garnacha 16.99/BTL 100% old-vine Garnacha (from vines planted between 1925 and 1945) made from yields of less than one ton of fruit per acre, this is a full-bodied, pure, lavishly rich, intense Spanish red.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/42502e51-ffc0-422a-97ab-e43eeb24eb5c.jpg?ver=1504708371000'
+  img_alt: 'Balducci&#39;s Organic Chianti 16.99/BTL 100% Sangiovese grapes certified organic by Agricultura Biologica, this rustic Chianti offers classic old world charm.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0907_BLD_Wine_Newsletter_Email_MD'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c5bb1257-7dfe-4304-8db6-0500afc2fe29.jpg?ver=1504708372000'
+  img_alt: 'Balducci&#39;s Cabernet Sauvignon Napa Valley 2012 27.99/BTL Our flagship wine, this stunning Cabernet  is sourced from some of the best vineyards  in Napa Valley. Wonderfully ripe and layered,  with a dense color and palate rich in cassis,  cherry, spice, chocolate and oak flavors.'
