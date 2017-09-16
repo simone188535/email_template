@@ -1,0 +1,88 @@
+title: 'Fall in Love with Our Unique Harvest Décor!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest _headquarters &utm_term=discount_home_decor&utm_content=homepage"
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest _headquarters &utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest _headquarters &utm_term=find_a_store&utm_content=locations"
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer9-14&utm_medium=email&utm_campaign=harvest _headquarters &utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'Check Out Our Huge Selection!'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_091517_Email_02.jpg'
+  image_alt: 'Celebrate Fall with a limited-time coupon Redeem In-Store Friday, 9/15- Monday, 9/18 20% OFF Any One (1) Item  Present coupon prior to transaction and tell cashier which item to discount.  Limit one (1) coupon per customer. Coupon may only be used one time and must be surrendered at the time of purchase.  Offer not valid with any other Old Time Pottery coupon or discount such as the military discount or employee discount. Other restrictions may apply.  Coupon expires end-of day on Monday, Septmenber 18th. USE THIS OFFER TO SAVE BIG ON YOUR NEXT VISIT! GET COUPON'
+  image_link: 'http://oldtimepottery.com/coupons#utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest%20_headquarters&utm_term=celebrate_fall_with_a_limited-time_coupon&utm_content=coupons'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_091517_Email_03.jpg'
+  image_alt: 'SHOP THE LOWEST PRICES ON DÉCOR AT OUR Harvest Headquarters OLD TIME Pottery'
+  image_link: 'http://oldtimepottery.com/harvest#utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest_headquarters&utm_term=shop_the_lowest_prices_on_decor&utm_content=harvest_headquarters'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_091517_Email_04.jpg'
+  image_alt: '6.99- 14.99 Bookend 9.99 10&#34; Fall Arrnagement (Wire Pumpkin).99 3&#34; Foam Pumpkin 3.99 6.5&#34; Fall Bird Décor 7.99 2&#34; x 14&#34; Plaque 19.99 16&#34; Lantern 7.99 23.5&#34; Fall Wall Décor SEE MORE'
+  image_link: 'http://oldtimepottery.com/harvest#utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest_headquarters&utm_term=shop_the_lowest_prices_on_decor&utm_content=see_more'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_091517_Email_05.jpg'
+  image_alt: 'LOW PRICES Every Day COUNT ON &#39;EM! Find LOW PRICES & GREAT SELECTION in every ailse! 9.99 - 19.99 UP TO $25.99 AT OTHER STORES African Themed Figurines'
+  image_link: 'http://oldtimepottery.com/low-prices#utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest_headquarters&utm_term=low_prices_everyday&utm_content=african_figurines'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_091517_Email_06.jpg'
+  image_alt: 'Get Inspired & Share Your Finds Follow @oldtimepottery on Instagram'
+  image_link: 'https://www.instagram.com/oldtimepottery/#utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest_headquarters&utm_term=opt_instagram&utm_content=get_inspired'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_091517_Email_07.jpg'
+  image_alt: 'NOW 50% OFF ALL YELLOW TAGS! Look for the yellow tag on merchandise throughout the store. HURRY BEFORE THEY&#39;RE GONE!'
+  image_link: 'http://oldtimepottery.com/yellow-tag#utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest_headquarters&utm_term=opt_yellow_tag_sale&utm_content=50off '
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest_headquarters&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest_headquarters&utm_term=otp_store_departments&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest_headquarters&utm_term=otp_store_departments&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest_headquarters&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest_headquarter&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest_headquarter&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest_headquarter&utm_term=otp_youtube&utm_content=youtube"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer9_14&utm_medium=email&utm_campaign=harvest_headquarter&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""

@@ -1,0 +1,162 @@
+title: 'Boar&#39;s Head Event at Kings!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8c12d7a7-43c8-4d16-89d8-c0c5bb6912e0.jpg?ver=1500902727000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e3e5e674-e25a-4549-b743-b2a6e81f1cec.jpg?ver=1504878256000"
+  img_alt: "Music and Tastings Your Favorite DJ&#39;s at Kings! Sponsored by Boar&#39;s Head Brand"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a6ac9e0a-e2ca-4317-a77a-02a51767c9eb.jpg?ver=1504878256000"
+  img_alt: "Friday, September 15 12:00 PM to 2:00 PM Come Meet Your Favorite Radio Personalities, Listen to Great Music and Sample Boar&#39;s Head Products."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/37baffa0-5979-46f7-be9c-8b2ac00001c0.jpg?ver=1504878256000"
+  img_alt: "Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0b925f7-a19e-4317-9c58-88f3718dfc65.jpg?ver=1504878257000"
+  img_alt: "Radio Logos"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3a0b6eec-597c-4059-8145-a85e126b5b96.jpg?ver=1504878257000"
+  img_alt: "Special Tastings"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/894db01e-49cc-46df-85fe-704076777c83.jpg?ver=1504878257000"
+  img_alt: "11:00 AM - 3:00 PM White Bean Hummus & Sundriec Tomato Crostini French Onion Crostini Antipasto Bruschetta Crostin>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8ef44703-8232-4cee-9912-07fe8bac778e.jpg?ver=1504878257000"
+  img_alt: "Boar&#39;s Head Deluxe Ham Boar&#39;s Head Everroast® Chicken"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7005b991-3801-4643-b934-59084c978666.jpg?ver=1504878257000"
+  img_alt: "Cooking Studio"
+  url: "https://kingsfoodmarkets.com/in-store-events/deli-for-dinner?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ea4d3a73-8901-4475-99be-2090e63bcc71.jpg?ver=1504878257000"
+  img_alt: "Deli for Dinner Hosted By Boar&#39;s Head Brand Friday, September 15, 2017 6:00 PM - 8:00 PM $40 Per Person with Chef Mike Viola and Steve PopolizioSign Up >"
+  url: "https://kingsfoodmarkets.com/in-store-events/deli-for-dinner?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/020e4e9c-a842-47de-8e24-d7fd5d50b54e.jpg?ver=1504878258000"
+  img_alt: "Kings Short Hills • Cooking Studio • 778 Morris Turnpike To register or for more info call 973.258.4009 or visit us online."
+  url: "https://kingsfoodmarkets.com/in-store-events/deli-for-dinner?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo_Email"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

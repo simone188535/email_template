@@ -1,0 +1,84 @@
+title: 'Support our Hurricane Irma relief efforts'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer9_13&utm_medium=email&utm_campaign=hurricane_irma&utm_term=discount_home_decor&utm_content=homepage"
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer9_13&utm_medium=email&utm_campaign=hurricane_irma&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer9_13&utm_medium=email&utm_campaign=hurricane_irma&utm_term=find_a_store&utm_content=locations"
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer9-13&utm_medium=email&utm_campaign=hurricane_irma&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'Make a difference!'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_091317_Email_02.jpg'
+  image_alt: 'Old Time Pottery has been serving in Florida and the Carolinas for more than 20 years, with more stores in Florida than any other state.   We are fortunate to have such loyal customers, and they depend on our stores to replace their basic home essentials such as linens, storage & organization, cleaning supplies, rugs and furniture. We are currently working with local relief organizations to make donations and provide relief where needed.  We ask that you join us in assisting the rebuilding efforts though your kind and generous donations. To assist, we have a list of charitable organizations to consider on our website.'
+  image_link: '#'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_091317_Email_03.jpg'
+  image_alt: 'Donate Now'
+  image_link: 'http://oldtimepottery.com/irma#utm_source=weeklyflyer9_13&utm_medium=email&utm_campaign=hurricane_irma&utm_term=otp_hurricane_irma&utm_content=donate_now'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_091317_Email_04.jpg'
+  image_alt: 'We also want to offer our customers, and anyone impacted by Hurricane Irma a cost-effective way to rebound from a difficult time.  Follow the link below for a 20% off coupon which is valid until September 24th.'
+  image_link: '#'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_091317_Email_05.jpg'
+  image_alt: 'Get Coupon Now'
+  image_link: 'https://www.oldtimepottery.com/coupons#utm_source=weeklyflyer9_13&utm_medium=email&utm_campaign=hurricane_irma&utm_term=otp_hurricane_irma&utm_content=coupons'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_091317_Email_06.jpg'
+  image_alt: 'Your Friends At Old Time Pottery'
+  image_link: '#'
+
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer9_13&utm_medium=email&utm_campaign=hurricane_irma&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer9_13&utm_medium=email&utm_campaign=hurricane_irma&utm_term=otp_store_departments&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer9_13&utm_medium=email&utm_campaign=hurricane_irma&utm_term=otp_store_departments&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer9_13&utm_medium=email&utm_campaign=hurricane_irma&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer9_13&utm_medium=email&utm_campaign=hurricane_irma&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer9_13&utm_medium=email&utm_campaign=hurricane_irmar&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer9_13&utm_medium=email&utm_campaign=hurricane_irma&utm_term=otp_youtube&utm_content=youtube"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer9_13&utm_medium=email&utm_campaign=hurricane_irma&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""
