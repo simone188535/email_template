@@ -1,0 +1,76 @@
+title: ''
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1002_KF_LetsGo_Boonton_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1002_KF_LetsGo_Boonton_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1002_KF_LetsGo_Boonton_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1002_KF_LetsGo_Boonton_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1002_KF_LetsGo_Boonton_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1002_KF_LetsGo_Boonton_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f113caf0-31a5-431e-a9bf-b18c5474dcec.jpg?ver=1506707244000"
+  img_alt: "INTRODUCING LET'S GO MEAL SOLUTIONS. SEE SPECIAL OFFER BELOW! "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1002_KF_LetsGo_Boonton_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25ab0e57-3d6a-40fe-897a-281107102651.jpg?ver=1506707244000"
+  img_alt: "For what's on your plate. We get it.  You're busy. That's why our chefs have created a selection of fresh, fast and easy meal ideas and dinner solutions to grab & go. Look for the Let's go! Across our store. "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1002_KF_LetsGo_Boonton_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ce3dbe7-60b9-415f-a07c-022b977a0464.jpg?ver=1506707245000"
+  img_alt: "Chef Prepared Meals in our Deli Department Fresh Cut Veggies in our Produce Department "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1002_KF_LetsGo_Boonton_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/227f052f-03a2-4dd6-bd15-7f8027bee2f7.jpg?ver=1506707245000"
+  img_alt: "Grab & Go Salads and Sandwiches in our Deli Department Ready to Cook Meals in our Meat and Seafood Department"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1002_KF_LetsGo_Boonton_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8a934126-31d4-4876-a8a4-bd175816e1d2.jpg?ver=1506707245000"
+  img_alt: "OFFER VALID 10/02/17 - 10/08/17 TRY A LET'S GO! READY TO COOK MEAL TODAY $2.00 OFF Steam Bag Dijon Crusted Salmon Fillet with Haricots Verts found in our Meat and Seafood Department"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1002_KF_LetsGo_Boonton_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de45d8c8-ca5f-43f9-8e8d-c4435eab6eb2.jpg?ver=1506707245000"
+  img_alt: "myKINGS extra! MEMBERS ONLY SAVINGS Offer is already loaded to your myKINGS account. Valid at Kings Boonton. "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1002_KF_LetsGo_Boonton_Email"
