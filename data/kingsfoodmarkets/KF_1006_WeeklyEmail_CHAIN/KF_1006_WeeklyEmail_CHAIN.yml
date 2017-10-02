@@ -1,0 +1,176 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8821530-b079-427c-96b1-2d07abf11d05.jpg?ver=1495479649000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cc242dcc-8354-4b90-82bf-c60416352654.jpg?ver=1506950918000"
+  img_alt: "Viva ITALIA! In Italy, passion for food is a way of life! Bring home the sights, smells and tastes from Kings. "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ba35ee0b-a386-49f4-8b5f-d66076638d2d.jpg?ver=1506950918000"
+  img_alt: "MyKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/33333814-b514-4bda-bc2d-d5040093bde7.jpg?ver=1506950918000"
+  img_alt: "members extra! SAVINGS SAVE $3 lb. KINGS BONELESS VEAL LEG CUTLETS members pay 10.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/81b409db-51bb-4865-80c6-27e4bc3dd850.jpg?ver=1506950919000"
+  img_alt_2: "members extra! SAVINGS BROCCOLI DI RAPA members pay 1.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ad5b896-b07e-4619-8fbf-595d2ad4b486.jpg?ver=1506950919000"
+  img_alt: "members extra! SAVINGS SAVE $1 KINGS CHEF INSPIRED BREADED FLOUNDER ITALIANO 4 OZ. members pay 6.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8abd6381-9369-4655-889d-8cfc0da37e72.jpg?ver=1506950919000"
+  img_alt_2: "members extra! SAVINGS SAVE $4.99 on 2 KINGS PATISSERIE GLASS DESSERTS members pay BUY 1 GET 1 FREE"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2b967a2-2394-4819-8a87-05afe81b1f93.jpg?ver=1506950919000"
+  img_alt: "VIEW WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9c5cda55-d008-4804-8e6a-2c738583ae61.jpg?ver=1506950919000"
+  img_alt: "FROM ITALY WITH LOVE"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e1d1b729-06c8-4422-b7f4-e2c73dfb4e39.jpg?ver=1506950920000"
+  img_alt: "COLAVITA EXTRA VIRGIN OLIVE OIL KINGS FILOTEA EGG PASTA DECECCO PASTA SAN MARZANO WHOLE PEELED TOMATOES Sample our wide variety of authentic IMPORTED ITALIAN PRODUCTS."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/77c6b051-4106-4252-ba92-b9443f4df63f.jpg?ver=1506950920000"
+  img_alt: "WHEREVER YOU ROME Chef Prepared ITALIAN SPECIALTIES to GRAB & GO!"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8bf5d951-e8c6-4aba-a2ee-e2ab28e687d8.jpg?ver=1506950920000"
+  img_alt: "WHEREVER YOU ROME Chef Prepared ITALIAN SPECIALTIES to GRAB & GO!"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b432f530-1a7c-4703-a472-df761d2dafb3.jpg?ver=1506950921000"
+  img_alt: "CHEF INSPIRED STUFFED EGGPLANT CHEF INSPIRED BEEF MEATBALLS CHEF INSPIRED MEAT LASAGNA"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/60e2231d-1d7e-4a6d-9ea7-cd3c8f9237b4.jpg?ver=1506950921000"
+  img_alt: "DOLCE VITA Stop by our patisserie for freshly made ITALIAN SWEETS."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3fc52a72-0a18-47ec-912a-970176561406.jpg?ver=1506950921000"
+  img_alt: "DOLCE VITA Stop by our patisserie for freshly made ITALIAN SWEETS."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/108cf906-4312-42d3-a5bf-6d68795e5d7a.jpg?ver=1506950921000"
+  img_alt: "KINGS PATISSERIE TRIPLE LAYER CANNOLI CAKE"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d5c978ea-0eb4-4305-8221-7cbd982670cc.jpg?ver=1506950921000"
+  img_alt: "KINGS GOURMET ITALIAN COOKIES "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a74d4c98-48c1-42d2-a4b6-d98f5e6a1b21.jpg?ver=1506950921000"
+  img_alt_2: "KINGS MINI CANNOLIS"
+  url_2: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4b5bb454-178a-40e7-a182-c3e66cf3b49d.jpg?ver=1506950922000"
+  img_alt: "STIR UP THE FLAVORS OF ITALY"
+  url: "https://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6cd222cb-7369-41e5-8247-13e11b69c049.jpg?ver=1506950922000"
+  img_alt: "APPLE BRAISED PORK OSSO BUCO VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/apple-braised-pork-osso-buco?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fb06d757-38d5-45fc-9623-8a8436d95d20.jpg?ver=1506950922000"
+  img_alt_2: "LAMB CHOPS WITH FIG BALSAMIC & ROASTED GARLIC GLAZE VIEW RECIPE"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/lamb-chops-with-fig-balsamic-roasted-garlic-glaze?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/232a8beb-3779-477c-bd1a-e8d4daa0ddd4.jpg?ver=1506950922000"
+  img_alt: "WHAT'S NEW IN STORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/45b72810-2dfe-47c8-9866-18898739ff84.jpg?ver=1506950922000"
+  img_alt: "KINGS OWN SINGLE ORIGIN OLIVE OIL Freshly pressed single origin extra virgin olive oil from some of the world's most renowned olive growing regions: Italy, Greece, Spain and California. "
+  url: "https://kingsfoodmarkets.com/kings-own-brand/kings-single-origin-extra-virgin-olive-oil?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/74e24be7-0f19-421b-a6e5-c85042d18a1f.jpg?ver=1506950923000"
+  img_alt: "FAR HILLS RACE CATERING Don't miss a second of the race—let us do the work! Choose from party platters, subs, desserts and more. VIEW RECIPE >" 
+  url: "https://kingsfoodmarkets.com/catering-by-kings/far-hills-race?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/42068f54-5254-44d7-9717-1cafde712293.jpg?ver=1506950923000"
+  img_alt: "PACK A SNAP, WIN A SCHWINN® Spicy, sweet and super juicy, SnapDragon® Apples and Schwinn® have teamed up for a fun fall giveaway. Enter to win a grand prize of 4 Schwinn® bikes for your family! ENTER TO WIN >"
+  url: "http://dev.snapdragon.agency15.com/schwinn"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
