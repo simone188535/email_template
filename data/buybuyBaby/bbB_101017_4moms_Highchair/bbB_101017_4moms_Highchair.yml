@@ -1,0 +1,132 @@
+title: 'Shop 4moms® High Chair'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 View Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "http://www.buybuybaby.com/store/category/whats-new/30008/"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Shop 4moms® High Chair'
+preheader_link: 'https://www.buybuybaby.com/store/category/nursing-feeding/high-chairs/high-chairs/32065/32065-4294965885-4294966037/1-48?pagSortOpt=DEFAULT-0&view=grid&refType=true&_requestid=378503'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: '#'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/nursing-feeding/high-chairs/high-chairs/32065/32065-4294965885-4294966037/1-48?pagSortOpt=DEFAULT-0&view=grid&refType=true&_requestid=378503'
+  img_alt: 'meet the 4moms™ high chair Say goodbye to traditional high chairs! The 4moms™ high chair uses magnetic latches to make it easy to attach the tray so you don&#39;t have to use 2 hands. shop now SMART INNOVATION High Chair Sleek design, no nooks and crannies where food can get stuck 299.99 each FREE SHIPPING'
+  img_url: 'images/bbB_101017_4moms_Highchair_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/4moms-reg-high-chair-starter-set/1046550408?poc=3291359'
+  img_alt: 'magnetic magic - magnets guide the tray into place'
+  img_url: 'images/bbB_101017_4moms_Highchair.gif'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/product/4moms-reg-high-chair-starter-set/1046550408'
+  img_alt: 'minimize the mess! Magnets help to keep bowls and plates in place High Chair Starter Set Set includes 2 large bowls with lids, 2 small bowls with lids, 1 plate, & 1 set of utensils 39.99 Individual items also sold separatly'
+  img_url: 'images/bbB_101017_4moms_Highchair_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/4moms/723'
+  img_alt: 'shop all 4moms®'
+  img_url: 'images/bbB_101017_4moms_Highchair_05.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick up. Prices valid only in contiguous United States.'
+  img_url: 'images/bbB_101017_4moms_Highchair_06.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/category/car-seats/car-seats/32593/'
+  img_alt: 'car seats'
+  img_url: 'images/bbB_101017_4moms_Highchair_07.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+  img_2_alt: 'strollers'
+  img_2_url: 'images/bbB_101017_4moms_Highchair_08.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/category/bedding-decor/baby-bedding/30501/'
+  img_alt: 'bedding'
+  img_url: 'images/bbB_101017_4moms_Highchair_09.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/category/bath-potty/30003/'
+  img_2_alt: 'bath & potty'
+  img_2_url: 'images/bbB_101017_4moms_Highchair_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+  img_alt: 'take a peek at our…special buys & deals shop now'
+  img_url: 'images/bbB_101017_4moms_Highchair_11.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'we&#39;re in your neighborhood find a store'
+  img_url: 'images/bbB_101017_4moms_Highchair_12.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+  img_alt: 'Get it on Google Play'
+  img_url: 'images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_14.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'Download on the App Store'
+  img_2_url: 'images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_15.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_16.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_17.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_18.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_19.jpg"
+  alt: "Pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_20.jpg"
+  alt: "Instagram logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_21.jpg"
+  alt: "YouTube logo"
+- link: ""
+  img: "images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_22.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
