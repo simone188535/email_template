@@ -1,0 +1,91 @@
+title: ''
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/66018d27-0a2a-4035-af7e-c3afd69842cc.jpg?ver=1507749285000"
+  img_alt: "Kings Big Cheese Event An Artisanal Cheese Tasting "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/614d27d7-88a4-4c75-95b8-41de599dac59.jpg?ver=1507749285000"
+  img_alt: "Experience The Many Tastes Of Gourmet Cheese! "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3460c8db-f68d-4ac3-8826-f08b32110bef.jpg?ver=1507749286000"
+  img_alt: "SATURDAY, OCTOBER 21ST FROM 2:00PM - 5:00PM Join Us for Indulgent Demos & Tastings, Meet local Tastemakers & Learn Cheese Craftsmanship Kings Big Cheese Event only at the stores listed below. Demos and sampling subject to change or substitution."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fd30ded3-f03e-4995-9b56-8d905139ceeb.jpg?ver=1507749287000"
+  img_alt: "KINGS GILLETTE • 977 VALLEY ROAD • 908.580.5080"
+  url: "https://kingsfoodmarkets.com/store-locator/gillette?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91549e25-943b-4a18-ae09-16d9002d2053.jpg?ver=1507749288000"
+  img_alt: "KINGS BOONTON • 115 HAWKINS PLACE • 973.257.4899"
+  url: "https://kingsfoodmarkets.com/store-locator/boonton?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7d8901a6-b6c7-4e3f-aedb-57fa69d92633.jpg?ver=1507749288000"
+  img_alt: "KINGS FLORHAM PARK • 184 COLUMBIA TPK • 973.360.1600"
+  url: "https://kingsfoodmarkets.com/store-locator/florham-park?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8e857942-c089-4778-b5c7-8e267cd53d12.jpg?ver=1507749288000"
+  img_alt: "KINGS MENDHAM • 86 EAST MAIN STREET • 973.543.4493"
+  url: "https://kingsfoodmarkets.com/store-locator/mendham?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/690bf08c-d5b9-4271-9762-b0c5b7d5031a.jpg?ver=1507749289000"
+  img_alt: "KINGS CHATHAM • 393 MAIN STREET • 973.635.4400 "
+  url: "https://kingsfoodmarkets.com/store-locator/chatham?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/538ccec1-ccf6-4fd6-a90e-d5142103502d.jpg?ver=1507749289000"
+  img_alt: "KINGS MORRISTOWN • 191 SOUTH STREET • 973.898.4512 "
+  url: "https://kingsfoodmarkets.com/store-locator/morristown?utm_source=weeklyemail&utm_medium=email&utm_campaign=1018_KF_BigCheeseEvent_SoloEmail"
