@@ -1,0 +1,102 @@
+title: ' '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d8122738-33f3-4181-98ac-dbaf90d937ba.jpg?ver=1497373079000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43ada965-5b9f-4e25-8fa1-be0734094fd5.jpg?ver=1497373079000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1ff67d4-42f0-40dc-86e1-338f5f3a59b7.jpg?ver=1497373080000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+#- type: 'image'
+#  img_link: 'https://vimeo.com/167304429'
+#  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+#  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_BLD_Weekly_Email'
+  img_alt: 'TASTES OF ITALY Create SEAFOOD CIOPPINO  VIEW RECIPE>'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4e3833d2-77fc-4d6b-b117-1442cd3d8b80.jpg?ver=1506956379000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_BLD_Weekly_Email'
+  img_alt: 'ITALIAN SPECIALTIES '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/77c22e0d-8938-4467-a226-700d143a94b0.jpg?ver=1506956379000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_BLD_Weekly_Email'
+  img_alt: 'BALDUCCI&#39;S PASTA SAUCES Our exclusive pasta sauces are made from imported Italian tomatoes and ultra-fresh ingredients. - BRUSA BREADSTICKS ALLE OLIVE Handmade in Italy, these breadsticks are perfect with soups or salads. - TRENTASETTE ORGANIC EXTRA VIRGIN OLIVE OIL Bottles just outside Florence, the rich, full-bodied taste makes it an exceptional finishing oil. - COMPAGNIA DEL MONTALE SPECIAL EDITION BALSAMIC VINEGAR Made with Romagna grapes, this vinegar is rich and velvety. - SCYAVURU JAMS Gluten free jam made with Sicilian fruits and sweetened with honey in the Roman tradition. - BALDUCCI&#39;S FILOTEA PASTA Our exclusive filotea pasta is made with fresh eggs for a homemade taste that&#39;s ready to cook anytime!'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/46eff999-1a4d-45d7-88a8-7b4d2c5f45dc.jpg?ver=1506956380000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_BLD_Weekly_Email'
+  img_alt: 'BALDUCCI&#39;S PASTA SAUCES Our exclusive pasta sauces are made from imported Italian tomatoes and ultra-fresh ingredients. - BRUSA BREADSTICKS ALLE OLIVE Handmade in Italy, these breadsticks are perfect with soups or salads. - TRENTASETTE ORGANIC EXTRA VIRGIN OLIVE OIL Bottles just outside Florence, the rich, full-bodied taste makes it an exceptional finishing oil. - COMPAGNIA DEL MONTALE SPECIAL EDITION BALSAMIC VINEGAR Made with Romagna grapes, this vinegar is rich and velvety. - SCYAVURU JAMS Gluten free jam made with Sicilian fruits and sweetened with honey in the Roman tradition. - BALDUCCI&#39;S FILOTEA PASTA Our exclusive filotea pasta is made with fresh eggs for a homemade taste that&#39;s ready to cook anytime!'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d0f05dc8-ccda-4e8a-9138-1d57b093168f.jpg?ver=1506956381000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_BLD_Weekly_Email'
+  img_alt: 'BALDUCCI&#39;S PASTA SAUCES Our exclusive pasta sauces are made from imported Italian tomatoes and ultra-fresh ingredients. - BRUSA BREADSTICKS ALLE OLIVE Handmade in Italy, these breadsticks are perfect with soups or salads. - TRENTASETTE ORGANIC EXTRA VIRGIN OLIVE OIL Bottles just outside Florence, the rich, full-bodied taste makes it an exceptional finishing oil. - COMPAGNIA DEL MONTALE SPECIAL EDITION BALSAMIC VINEGAR Made with Romagna grapes, this vinegar is rich and velvety. - SCYAVURU JAMS Gluten free jam made with Sicilian fruits and sweetened with honey in the Roman tradition. - BALDUCCI&#39;S FILOTEA PASTA Our exclusive filotea pasta is made with fresh eggs for a homemade taste that&#39;s ready to cook anytime!'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2ccf0062-a5fe-45e6-a3d0-df3d55aee2d7.jpg?ver=1506956381000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_BLD_Weekly_Email'
+  img_alt: 'MEMBER EXCLUSIVE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7f0c31cd-624c-4e30-a1c7-20e216a38f32.jpg?ver=1506956381000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_BLD_Weekly_Email'
+  img_alt: 'FRESH STORE-MADE BEEF MEATLOAF OR MEATBALLS MEMBER EXCLUSIVE 6.99/LB Reg 7.99 - BALDUCCI&#39;S BONE-IN RIB VEAL CHOPS MEMBER EXCLUSIVE 19.99/LB Reg 24.99'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4343d82c-00af-4423-a00d-2ee4ac0b638a.jpg?ver=1506956381000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_BLD_Weekly_Email'
+  img_alt: 'WHAT&#39;S NEW | IN STORE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f0d6548d-0db9-48ad-a180-02c709288ea6.jpg?ver=1506956381000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_BLD_Weekly_Email'
+  img_alt: 'Game Day Catering Cater the game and never miss a play! Wings, sliders, subs and more, football meets foodie is found here! ORDER NOW>'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e6bbb2e0-c20c-4ff8-9dc7-7b75d8b8d1be.jpg?ver=1506956382000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_BLD_Weekly_Email'
+  img_alt: 'NEW! Ibérico Ham Produced in the province of Córdoba, Spain, Ibérico ham is aged for 18 months and has a full intense flavor with a sweet finish. *Available in deli department '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/062e11d7-145c-4e56-877d-bc919a89ce9d.jpg?ver=1506956382000https://mlsvc01-prod.s3.amazonaws.com/ad716150601/18998e2f-ec19-4519-824b-0fe942160860.jpg?ver=1506956382000'
+
+- type: 'image'
+  img_link: 'http://dev.snapdragon.agency15.com/schwinn?utm_source=weeklyemail&utm_medium=email&utm_campaign=1006_BLD_Weekly_Email'
+  img_alt: 'Pack A Snap, Win A Schwinn® Spicy, sweet and super juicy, SnapDragon Apples have teamed up for a fun fall giveaway. Enter to win a grand prize of 4 Schwinn bikes for your family! ENTER TO WIN>'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/18998e2f-ec19-4519-824b-0fe942160860.jpg?ver=1506956382000'

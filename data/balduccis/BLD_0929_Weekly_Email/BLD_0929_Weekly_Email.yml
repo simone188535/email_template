@@ -1,0 +1,116 @@
+title: ' '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d8122738-33f3-4181-98ac-dbaf90d937ba.jpg?ver=1497373079000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43ada965-5b9f-4e25-8fa1-be0734094fd5.jpg?ver=1497373079000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1ff67d4-42f0-40dc-86e1-338f5f3a59b7.jpg?ver=1497373080000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+#- type: 'image'
+#  img_link: 'https://vimeo.com/167304429'
+#  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+#  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_SOUTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+  img_alt: 'PUMPKIN PLEASE! We&#39;re celebrating our favorite fall flavor with a delectable selection of pumpkin products!'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0dbb574b-028a-40e6-8cbf-fc0d87aaee33.jpg?ver=1506428554000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+  img_alt: 'PERFECT PUMPKIN PICKS'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a16be586-46cd-48b1-87ff-7404834dbc5e.jpg?ver=1506428554000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email   '
+  img_alt: 'PUMPKIN BARS Stop by the Balducci&#39;s bakery for this seasonal treat that features the taste of autumn. - NOOSA PUMPKIN YOGURT Pumpkin pur&#233;e is seasoned with warm, rich spices to create this unique yogurt with the flavor of pumpkin pie.  -  STONEWALL KITCHEN PUMPKIN HARVEST HAND SOAP & LOTION Softening, soothing hand soap and lotion scented with a blend of cinnamon, clove, nutmeg, cardamom, ginger and pumpkin. -  FARMER&#39;S MARKET ORGANIC PUMPKIN Pure, certified organic pumpkin for all your favorite recipes. -  CREATIVE SNACKS CO. LIMITED EDITION PUMPKIN SPICE YOGURT PRETZELS Crunchy pretzels dipped in sweet pumpkin yogurt.  -  MINI PUMPKINS Versatile, decorative and oh so festive! Perfect as a centerpiece to add some seasonal flair to your fall table.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f3941335-cabd-4a54-89db-95198f6a6d2a.jpg?ver=1506428554000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+  img_alt: 'PUMPKIN BARS Stop by the Balducci&#39;s bakery for this seasonal treat that features the taste of autumn. - NOOSA PUMPKIN YOGURT Pumpkin pur&#233;e is seasoned with warm, rich spices to create this unique yogurt with the flavor of pumpkin pie.  -  STONEWALL KITCHEN PUMPKIN HARVEST HAND SOAP & LOTION Softening, soothing hand soap and lotion scented with a blend of cinnamon, clove, nutmeg, cardamom, ginger and pumpkin. -  FARMER&#39;S MARKET ORGANIC PUMPKIN Pure, certified organic pumpkin for all your favorite recipes. -  CREATIVE SNACKS CO. LIMITED EDITION PUMPKIN SPICE YOGURT PRETZELS Crunchy pretzels dipped in sweet pumpkin yogurt.  -  MINI PUMPKINS Versatile, decorative and oh so festive! Perfect as a centerpiece to add some seasonal flair to your fall table.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/505ed1e3-304d-422f-acb9-0c1e5efc429a.jpg?ver=1506428554000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+  img_alt: 'PUMPKIN BARS Stop by the Balducci&#39;s bakery for this seasonal treat that features the taste of autumn. - NOOSA PUMPKIN YOGURT Pumpkin pur&#233;e is seasoned with warm, rich spices to create this unique yogurt with the flavor of pumpkin pie.  -  STONEWALL KITCHEN PUMPKIN HARVEST HAND SOAP & LOTION Softening, soothing hand soap and lotion scented with a blend of cinnamon, clove, nutmeg, cardamom, ginger and pumpkin. -  FARMER&#39;S MARKET ORGANIC PUMPKIN Pure, certified organic pumpkin for all your favorite recipes. -  CREATIVE SNACKS CO. LIMITED EDITION PUMPKIN SPICE YOGURT PRETZELS Crunchy pretzels dipped in sweet pumpkin yogurt.  -  MINI PUMPKINS Versatile, decorative and oh so festive! Perfect as a centerpiece to add some seasonal flair to your fall table.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d66478c4-f709-4cec-bd0c-fbcad1ee3ba9.jpg?ver=1506521467000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+  img_alt: 'PUMPKIN BARS Stop by the Balducci&#39;s bakery for this seasonal treat that features the taste of autumn. - NOOSA PUMPKIN YOGURT Pumpkin pur&#233;e is seasoned with warm, rich spices to create this unique yogurt with the flavor of pumpkin pie.  -  STONEWALL KITCHEN PUMPKIN HARVEST HAND SOAP & LOTION Softening, soothing hand soap and lotion scented with a blend of cinnamon, clove, nutmeg, cardamom, ginger and pumpkin. -  FARMER&#39;S MARKET ORGANIC PUMPKIN Pure, certified organic pumpkin for all your favorite recipes. -  CREATIVE SNACKS CO. LIMITED EDITION PUMPKIN SPICE YOGURT PRETZELS Crunchy pretzels dipped in sweet pumpkin yogurt.  -  MINI PUMPKINS Versatile, decorative and oh so festive! Perfect as a centerpiece to add some seasonal flair to your fall table.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/71ea0095-2700-4fdf-832b-76618b98fdce.jpg?ver=1506428555000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+  img_alt: 'MEMBER EXCLUSIVE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d3341f94-1563-4996-849d-47b263521aaa.jpg?ver=1506428555000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+  img_alt: 'USDA CHOICE NATURAL BEEF BONELESS MEMBER EXCLUSIVE 7.99/LB Reg 8.99'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/73732743-c2e4-4f39-af77-7143fd189417.jpg?ver=1506521467000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+  img_alt: 'OUR FAVORITE PUMPKIN RECIPES '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a43640eb-b2d4-460b-8110-70a02f9f113c.jpg?ver=1506428556000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+  img_alt: 'CARAMEL GELATO AFFOGATO WITH PUMPKIN WHIPPED CREAM '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c4ecd672-69a5-44be-8d8d-c7d9d6b4f8ae.jpg?ver=1506428556000'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/recipes/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+  img_alt: 'BALDUCCI&#39;S FRESH PUMPKIN RAVIOLI WITH BROWN BUTTER SAGE SAUCE  -  VIEW RECIPE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1402708e-7179-4001-8cce-4bdf2515e22e.jpg?ver=1506428557000'
+  img_2_link: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+  img_2_alt: 'PUMPKIN BREAD PUDDING  -  VIEW RECIPE'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8b07003e-b3fb-456e-8783-73ead582529c.jpg?ver=1506428557000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+  img_alt: 'WHAT&#39;S NEW IN-STORE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fd8d9bbf-3c47-41fe-aa14-d417b1d5d372.jpg?ver=1506428557000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0929_BLD_Weekly_Email'
+  img_alt: 'Game Day Catering Menu Football meets foodie is found here! Let our chefs cater your spread for the game and never miss a play. Choose from wings, sliders, subs and more.  ORDER NOW>'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6311f455-6cde-432a-acdf-6e1e63e447d3.jpg?ver=1506521467000'
+
