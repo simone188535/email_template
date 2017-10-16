@@ -1,0 +1,124 @@
+title: ' '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d8122738-33f3-4181-98ac-dbaf90d937ba.jpg?ver=1497373079000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43ada965-5b9f-4e25-8fa1-be0734094fd5.jpg?ver=1497373079000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1ff67d4-42f0-40dc-86e1-338f5f3a59b7.jpg?ver=1497373080000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+#- type: 'image'
+#  img_link: 'https://vimeo.com/167304429'
+#  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+#  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_alt: 'GOURMET REWARDS CLUB'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/da11e961-e3a7-4f56-9dce-225f046f962c.jpg?ver=1496764390000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_alt: 'FAMILY, FRIENDS & FALL Enjoy all the best Autumn has to offer with our Chef Prepared seasonal specialties and easy entertaining ideas. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e1e667ac-d6a6-4c2c-af91-c4d757747239.jpg?ver=1508183319000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_alt: 'CHEESETOPIA | JOIN US IN-STORE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b2a048df-da9b-4df7-9958-cf9f9004380b.jpg?ver=1508183319000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_alt: 'Experience the ultimate in gourmet cheese at our annual Cheesetopia Tasting Event. Sample cheese from around the world, learn tips from cheesemongers and get inspired by our chefs! 12 NOON-5PM SATURDAY, NOVEMBER 4th GREENWICH & WESTPORT, CT SCARSDALE & RYE BROOK, NY MORE INFO > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/708fba88-5175-4f09-baa0-a78f6ece6ef7.jpg?ver=1508183320000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_alt: 'ENTERTAINING | THE PERFECT CHEESE PLATE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/48f4b5b7-fac3-4c31-89b7-3b1f7182cffa.jpg?ver=1508183320000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_alt: 'NEW! BUILD-YOUR-OWN CHEESE PLATE Built to order and party-perfect, mix and match flavors and textures, pairing salty, crunchy nuts or sweet fruit spreads. Select your favorite 5 cheeses + 3 accompaniments from our menu. SOTTOCENERE AL TARTUFO This classic Venetian cheese is made with raw cow&#39;s milk and truffle slices and rubbed with herbs. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cfe1899e-1980-4a2d-b3dc-6abecb8f8beb.jpg?ver=1508183320000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_alt: 'NEW! BUILD-YOUR-OWN CHEESE PLATE Built to order and party-perfect, mix and match flavors and textures, pairing salty, crunchy nuts or sweet fruit spreads. Select your favorite 5 cheeses + 3 accompaniments from our menu. SOTTOCENERE AL TARTUFO This classic Venetian cheese is made with raw cow&#39;s milk and truffle slices and rubbed with herbs. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fde9312d-5244-4f8e-ae26-a736b228194a.jpg?ver=1508183320000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_alt: 'HALLOWEEN CATERING | PARTY PLATTERS '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/84472268-5f80-4d2f-8ac0-ae7584c2f355.jpg?ver=1508183320000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_alt: 'FRIGHTFULLY DELICIOUS DISHES Our catering platters are a perfectly delicious solution for an easy Halloween gathering. ORDER NOW >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2355f91-143f-4cf4-94e4-b48e88488644.jpg?ver=1508183321000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_alt: 'CHEF PREPARED | GRAB & GO'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f466d0d9-0812-4277-9e7d-74aa9e6eb0aa.jpg?ver=1508183321000'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_alt: 'PORK TENDERLOIN WITH BOURBON GLAZE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ae97c050-d2c2-4afd-b86c-57e5b8ee581b.jpg?ver=1508183322000'
+  img_2_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_2_alt: 'ROASTED PEARS & PARSNIPS '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/10c7492d-9acb-4dde-9533-7e8a1a2a11d6.jpg?ver=1508183322000'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_alt: 'FRENCH CREPE WRAP WITH KOBE ROAST BEEF '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9d1fb81e-daab-4743-ae66-8e05f0881a17.jpg?ver=1508183323000'
+  img_2_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_2_alt: 'SAUTÉED SPINACH '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ac65b306-b7b6-4939-bbc2-215697fac615.jpg?ver=1508183323000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_alt: 'WHAT&#39;S NEW | IN STORE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/df43aea0-ec5f-4e3c-a42a-cce085712ce6.jpg?ver=1508183323000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1020_BLD_Weekly_Email_NORTH'
+  img_alt: 'Check-Out Hunger® Join us this season of giving to help provide Food, Help and Hope to families in need. As a founding Check-Out Hunger® partner, Balducci&#39;s and our shoppers have donated almost $2 million to the Community Food Bank. Please donate in-store at your next visit. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f16f3e82-682f-45af-a991-9e4eb6fae179.jpg?ver=1508183323000'
+
