@@ -1,0 +1,93 @@
+title: 'Visit our Sale for Home Essentials at AMAZING Prices!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer10_07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=discount_home_decor&utm_content=homepage"
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer10_07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer10_07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=find_a_store&utm_content=locations"
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer10-07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'Fall Home Spectacular Event Sale Continues'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_100717_Email_02.jpg'
+  image_alt: 'VISIT TODAY FOR Fall&#39;s Hottest Sale! VIEW AD now & wow 4.99 sale UP TO $19.99 AT OTHER STORES 5&#39; Scarecrows Large selection. SHOP HOME & SEASONAL DISCOUNTS now & wow 4.99 sale UP TO $14.99 AT OTHER STORES 8.75&#34; Monogram Pumpkin'
+  image_link: 'http://oldtimepottery.com/saleflyers#utm_source=weeklyflyer10-07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=shop_home_and_seasonal&utm_content=view_ad'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_100717_Email_03.jpg'
+  image_alt: 'SALE! 20% off OUR ALREADY LOW PRICES Framed & Canvas Art Large selection. SALE PRICE: $1.99-$127.99 UP TO $249.99 AT OTHER STORES SALE! 20% off OUR ALREADY LOW PRICES Decorative Wall Décor Large selection. SALE PRICE: 1.43-$159.99 UP TO $259.99 AT OTHER STORES now & wow 19.99 sale UP TO $49.99 AT OTHER STORES Dinnerware Sets Assorted styles. Service for 4. now & wow 7.99 sale UP TO $14.99 AT OTHER STORES 20pc Stainless Steel Flatware Sets Service for 4. SALE! 20% off OUR ALREADY LOW PRICES ALL Accent Furniture Selection varies by store. SALE PRICE: $39.99-$231.99 UP TO $329.99 AT OTHER STORES now & wow 39.99 sale UP TO $149.99 AT OTHER STORES 5&#39; X 7&#39; Area Rugs Woven, tufted, shag, tapesty, indoor and outdoor.  Large assortment. Sizes are approximate.  Selection varies by store. Plus 25% off Runners & Scatter Rugs.'
+  image_link: 'http://oldtimepottery.com/saleflyers#utm_source=weeklyflyer10-07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=20off_low_prices&utm_content=dinnerware_flatware_wall_decor_and_more'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_100717_Email_04.jpg'
+  image_alt: 'DON&#39;T FORGET YOUR HALLOWEEN DÉCOR! UP TO $19.99 AT OTHER STORES Halloween Doormats Assorted styles. Selection varies by store. Now & wow 3.99 sale Now & wow 14.99 sale UP TO $29.99 AT OTHER STORES Animated Ghost LED Projector Kaleidoscope styles also available.'
+  image_link: 'http://oldtimepottery.com/saleflyers#utm_source=weeklyflyer10-07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=halloween_decor&utm_content=halloween'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_100717_Email_05.jpg'
+  image_alt: 'SALE PRICES UP TO 65% off OTHER STORES&#39; PRICES VIEW AD'
+  image_link: 'http://oldtimepottery.com/saleflyers#utm_source=weeklyflyer10-07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=65off_other_store_prices&utm_content=view_ad'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_100717_Email_06.jpg'
+  image_alt: 'SHOP TREES IN Every Style! SEE SELECTION'
+  image_link: 'http://oldtimepottery.com/departments/seasonal/christmas.html#utm_source=weeklyflyer10-07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=shop_trees&utm_content=see_selection'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_100717_Email_07.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @oldtimepottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer10_07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=otp_instagram&utm_content=get_inspired'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_100717_Email_08.jpg'
+  image_alt: '75% OFF ALL YELLOW TAGS! HURRY BEFORE THEY&#39;RE GONE!'
+  image_link: 'http://oldtimepottery.com/yellow-tag#utm_source=weeklyflyer10_07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=yellow_tags&utm_content=75off'
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer10_07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer10_07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=otp_store_locations&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer10_07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=otp_store_blog&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer10_07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer10_07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer10_07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer10_07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=otp_youtube&utm_content=youtube"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer10_07&utm_medium=email&utm_campaign=home_essentials_amazing_prices&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""

@@ -1,0 +1,83 @@
+title: 'Elegant + Easy. Jewish Holiday Catering. '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0905_BLD_Rosh_Catering_Solo_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/587e76c8-b402-425a-8bf1-b10312431a07.jpg?ver=1504117695000'
+  img_alt: "Balducci's® Food Lover's Market™"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0905_BLD_Rosh_Catering_Solo_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/503c8117-df95-4f8b-8e19-8ef01a3dfb4f.jpg?ver=1504117695000'
+  img_alt: "Impress your friends and let us cater your next holiday party! Jewish Holiday Catering | Let our chefs prepare your entire holiday meal or compliment your menu with our À La Carte selections. "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0905_BLD_Rosh_Catering_Solo_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f3eb61d3-4abc-45d8-b844-73ca9d90feae.jpg?ver=1504117696000'
+  img_alt: "Impress your friends and let us cater your next holiday party! Jewish Holiday Catering | Let our chefs prepare your entire holiday meal or compliment your menu with our À La Carte selections. "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0905_BLD_Rosh_Catering_Solo_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fe43bd56-56af-4110-ae02-0829692f7591.jpg?ver=1504117696000'
+  img_alt: "Our Rosh Hashanah & Yom Kippur Menu Is Here! Order Now > "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0905_BLD_Rosh_Catering_Solo_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1e3916ee-d2f4-45d2-aa3f-5dab3c0b7dfe.jpg?ver=1504117696000'
+  img_alt: "Pick Up In-Store, call 1.866.278.8866, Email catering@balduccis.com or view our catering menu online. "
+
+- type: 'image-5-columns'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0905_BLD_Rosh_Catering_Solo_Email'
+  img_alt: 'www.balduccis.com'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2cc46308-5484-41e5-afb1-8e1f7190ccb4.jpg?ver=1504117696000'
+  img_2_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0905_BLD_Rosh_Catering_Solo_Email'
+  img_2_alt: 'www.balduccis.com'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f51d5478-e86b-428a-b78a-270dde0f8cd2.jpg?ver=1504117696000'
+  img_3_link: 'https://www.facebook.com/balduccisfoodloversmarket'
+  img_3_alt: 'facebook'
+  img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3fcaf465-a03e-45de-9564-de100f24cfdf.jpg?ver=1504117696000'
+  img_4_link: 'https://twitter.com/Balduccis'
+  img_4_alt: 'twitter'
+  img_4_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6e198ebf-abd4-4cb4-989b-03df8f403418.jpg?ver=1504117697000'
+  img_5_link: 'https://twitter.com/Balduccis'
+  img_5_alt: 'twitter'
+  img_5_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bc2ae9cf-44aa-427f-b498-e0c9b8cc317f.jpg?ver=1504117697000'

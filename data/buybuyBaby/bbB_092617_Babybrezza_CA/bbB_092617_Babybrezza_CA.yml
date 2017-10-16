@@ -1,0 +1,127 @@
+title: 'Cheers to bottle time!'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy CA Baby Logo"
+logo_img_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/?"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 View Details "
+freeshipping_img_link: "http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.bedbathandbeyond.ca/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "baby nursery"
+nav1_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/22927"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "nursing &amp; feeding"
+nav2_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/22936/"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "bath &amp; potty"
+nav3_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Cheers to bottle time!'
+preheader_link: 'https://www.bedbathandbeyond.ca/store/s/babybrezza'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE=H'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/babybrezza'
+  img_alt: 'baby brezza® made like mom Designed for optimal development, the Baby Brezza Bottle mimics breastfeeding with the most breast-like nipple available. shop now new!'
+  img_url: 'images/bbB_092617_Babybrezza_CA_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/babybrezza'
+  img_alt: 'a better bottle breast-like nipple Eases transition from breast to bottle & back truflo vent system Keeps baby comfortable by minimizing gas ergonomic shape w/ only 2 parts Comfortable for you & your baby to hold ultra wide mouth opening makes it simple to fill & clean '
+  img_url: 'images/bbB_092617_Babybrezza_CA_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/baby-brezza-2-pack-glass-bottles-in-grey/3333307'
+  img_alt: '2-Pack Glass Bottles Available in 5 oz & 8 oz 34.99 each '
+  img_url: 'images/bbB_092617_Babybrezza_CA_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/babybrezza-3-pack-polypropylene-bottles'
+  img_alt: '3-Pack Polypropylene Bottles Available in 5 oz & 8 oz 32.99 each '
+  img_url: 'images/bbB_092617_Babybrezza_CA_06.jpg'
+
+- type: 'image'
+  img_link: ''
+  img_alt: 'more from baby brezza®'
+  img_url: 'images/bbB_092617_Babybrezza_CA_07.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/babybrezza'
+  img_alt: 'One-Step Bottle Sterilizer and Dryer Natural steam kills 99.9% of germs in your baby&#39;s bottles in just 8 minutes 149.99 FREE SHIPPING'
+  img_url: 'images/bbB_092617_Babybrezza_CA_08.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/babybrezza-reg-safe-and-smart-bottle-warmer-with-bluetooth-in-white/1061908888'
+  img_2_alt: 'Safe and Smart Bottle Warmer with Bluetooth® Features 2 warming options: steady for breastmilk, or fast for formula 99.99 FREE SHIPPING'
+  img_2_url: 'images/bbB_092617_Babybrezza_CA_09.jpg'
+
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/babybrezza'
+  img_alt: 'works with all bottle sizes! Formula Pro Formula Dispenser Prepare a perfect bottle with the push of a button. Bottles are ready in seconds! 199.99 FREE SHIPPING'
+  img_url: 'images/bbB_092617_Babybrezza_CA_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/babybrezza'
+  img_alt: 'shop baby brezza®'
+  img_url: 'images/bbB_092617_Babybrezza_CA_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/what-s-new/baby-kids/22367/'
+  img_alt: 'what&#39;s new shop what&#39;s new'
+  img_url: 'images/bbB_092617_Babybrezza_CA_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/health-safety/cleaning-products/22956/'
+  img_alt: 'squeaky clean shop now'
+  img_url: 'images/bbB_092617_Babybrezza_CA_13.jpg'
+
+socialnav:
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'

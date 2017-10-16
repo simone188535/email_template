@@ -1,0 +1,97 @@
+title: 'Get Cookin&#39; on Campus with Low Prices!'
+
+logo_img_url: "images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=discount_home_decor&utm_content=homepage"
+
+products_img_url: "images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=find_a_store&utm_content=locations"
+
+inspirations_img_url: "images/OTP_footer_inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer8-11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=otp_blog&utm_content=blog"
+
+# preheader_text: 'Get Ready for Back-to-School & Save Big'
+# preheader_link: '#'
+# viewaswebpage_text: 'View this email in your browser'
+# viewaswebpage_link: '#'
+# Loop through articles
+articles:
+# - type: 'images-2-columns'
+#   image_first_url: 'images/OTP_080417_Email_03.jpg'
+#   image_first_alt: ''
+#   image_first_link: 'http://oldtimepottery.com/campus-countdown?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=Discount_Home_Decor&utm_content=Back_To_School_Solutions'
+#   image_second_url: 'images/OTP_080417_Email_04.jpg'
+#   image_second_alt: ''
+#   image_second_link: 'http://oldtimepottery.com/campus-countdown?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=Discount_Home_Decor&utm_content=Back_To_School_Solutions'
+
+# - type: 'images-3-columns'
+#   image_first_url: 'images/OTP_footer_products.jpg'
+#   image_first_alt: 'Products'
+#   image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=OTP_Store_Departments&utm_content=Departments'
+#   image_second_url: 'images/OTP_footer_locations.jpg'
+#   image_second_alt: 'Locations'
+#   image_second_link: 'http://oldtimepottery.com/locations?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Back_To_Campus&utm_term=Find_A_Store&utm_content=Locations'
+#   image_third_url: 'images/OTP_footer_inspirations.jpg'
+#   image_third_alt: 'Inspirations'
+#   image_third_link: 'http://blog.oldtimepottery.com/?utm_source=WeeklyeFlyer8_4&utm_medium=email&utm_campaign=Bacl_To_Campus&utm_term=OTP_Blog&utm_content=Blog'
+
+
+- type: 'image'
+  image_url: 'images/OTP_021_081117_Email_v2_R4_FNL1_05.jpg'
+  image_alt: 'GO BACK TO SCHOOL WITH Kitchen Deals! COUNTdown to CAMPUS HUGE SELECTION & LOW PRICES FOR YOUR DORM OR APARTMENT'
+  image_link: 'http://oldtimepottery.com/campus-countdown?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=discount_home_decor&utm_content=backtoschool_kitchen-deals'
+
+- type: 'image'
+  image_url: 'images/OTP_021_081117_Email_v2_R4_FNL1_06.jpg'
+  image_alt: 'Get Inspired & Share Your Finds! Follow @oldtimepottery on Instagram'
+  image_link: 'https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=otp_on-instagram&utm_content=get_inspired-share_your_finds'
+
+- type: 'image'
+  image_url: 'images/OTP_021_081117_Email_v2_R4_FNL1_07.jpg'
+  image_alt: 'LOW PRICES Every Day COUNT ON &#39;EM! Find LOW PRICES &#38 GREAT SELECTION in every aisle! Featured Item'
+  image_link: 'http://oldtimepottery.com/low-prices?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=discount_home_decor&utm_content=everyday_low-prices'
+
+- type: 'image'
+  image_url: 'images/OTP_021_081117_Email_v2_R4_FNL1_08.jpg'
+  image_alt: 'NOW 50% OFF ALL YELLOW TAGS! Look for the yellow tag on merchandise throughout the store. HURRY BEFORE THEY&#39;RE GONE!'
+  image_link: 'http://oldtimepottery.com/yellow-tag?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=50_off_all_yellow_tags&utm_content=hurry_before_they_are_gone'
+
+- type: 'images-3-columns'
+  image_first_url: 'images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=find_a_store&utm_content=locations'
+  image_third_url: 'images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com/?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=otp_blog&utm_content=blog'
+
+socialnav:
+- link: ""
+  img: "images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=otp_twittter&utm_content=twitter"
+  img: "images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=otp_facebook&utm_content=facebook"
+  img: "images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=otp_youtube&utm_content=youtube"
+  img: "images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer8_11&utm_medium=email&utm_campaign=get_cookin_on_campus&utm_term=otp_instagram&utm_content=instagram"
+  img: "images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "images/spacer2.jpg"
+  alt: ""

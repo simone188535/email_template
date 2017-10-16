@@ -1,0 +1,157 @@
+title: 'Car seat shopping has never been easier.'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_Logo_CA.jpg"
+logo_img_alt: "buybuy CA Baby Logo"
+logo_img_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/?"
+
+freeshipping_img_url: "images/bbB_emailheader_FreeShipping_CA.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details "
+freeshipping_img_link: "http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/"
+
+instore_img_url: "images/bbB_emailheader_InStore_CA.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More "
+instore_img_link: "http://www.bedbathandbeyond.ca/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_RegistryLogo_CA.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "https://www.bedbathandbeyond.ca/store/page/BabyCanadaRegistry"
+
+nav1_url: "images/bbB_emailheader_NAV1_CA.jpg"
+nav1_alt: "baby nursery"
+nav1_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/22927"
+
+nav2_url: "images/bbB_emailheader_NAV2_CA.jpg"
+nav2_alt: "nursing & feeding"
+nav2_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/22936/"
+
+nav3_url: "images/bbB_emailheader_NAV3_CA.jpg"
+nav3_alt: "bath & Potty"
+nav3_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Car seat shopping has never been easier.'
+preheader_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/car-seats/22914/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE=H'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+# - type: 'image-3-columns'
+#   img_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_alt: 'Crisp & clean, you can&#39;t go wrong with stripes!'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_02.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_2_alt: 'go bold what&#39;s Black & White and always in style? Fun, functional baby gear in this on-trend color scheme.'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_03.jpg'
+#   img_3_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_3_alt: 'Black & White looks best when you add bold pops of color!'
+#   img_3_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_04.jpg'
+
+# - type: 'image-2-columns'
+#   img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+#   img_alt: 'savings center'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_13.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+#   img_2_alt: 'strollers'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/car-seats/22914/'
+  img_alt: 'how do you roll? When it comes to car seats, there are a lot of choices: Infant, convertible, or booster. Let us help you find the right seat for your little one! shop now'
+  img_url: 'images/bbB_205_101717_Carseats_CANADA_Update_v1_DEV_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/peg-perego-primo-viaggio-sip-convertible-car-seat-in-atmosphere/1042601739'
+  img_alt: 'Primo Viaggio SIP Convertible Car Seat | 399.99 by Peg-Perego Shown in Atmosphere FREE SHIPPING'
+  img_url: 'images/bbB_205_101717_Carseats_CANADA_Update_v1_DEV_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/car-seats/infant-car-seats/22915/'
+  img_alt: 'infant car seats Safe & convenient for your new arrival. Can be used as a carrier & snaps in & out of compatible car seat bases & strollers. '
+  img_url: 'images/bbB_205_101717_Carseats_CANADA_Update_v1_DEV_04.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/chicco-reg-keyfit-reg-30-infant-car-seat-in-orion/1060076908'
+  img_alt: 'KeyFit 30 Infant Car Seat by Chicco® Shown in Orion 299.99 FREE SHIPPING'
+  img_url: 'images/bbB_205_101717_Carseats_CANADA_Update_v1_DEV_05.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/peg-perego-viaggio-4-35-nido-infant-car-seat-in-atmosphere/1061069268'
+  img_2_alt: 'Primo Viaggio 4-35 Nido Infant Car Seat by Peg-Perego 429.99 FREE SHIPPING'
+  img_2_url: 'images/bbB_205_101717_Carseats_CANADA_Update_v1_DEV_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/car-seats/convertible-car-seats/22916/'
+  img_alt: 'convertible car seats Transforms from rear-facing seat to forward-facing seat as your baby grows. From newborn to toddler, one seat is all you need. '
+  img_url: 'images/bbB_205_101717_Carseats_CANADA_Update_v1_DEV_07.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/britax-boulevard-clicktight-convertible-car-seat-in-circa/1045419850'
+  img_alt: 'Boulevard® ClickTight™ Convertible Car Seat by BRITAX® Shown in Circa 499.99 FREE SHIPPING'
+  img_url: 'images/bbB_205_101717_Carseats_CANADA_Update_v1_DEV_08.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/graco-reg-4ever-trade-all-in-1-convertible-car-seat-in-tuscan-trade/1061206274'
+  img_2_alt: '4Ever™ All-in-One Convertible Car Seat by Graco® Shown in Tuscan 449.99 FREE SHIPPING'
+  img_2_url: 'images/bbB_205_101717_Carseats_CANADA_Update_v1_DEV_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/diono-trade-radian-reg-rxt-convertible-car-seat-and-booster-in-black-mist/1046710192'
+  img_alt: 'Radian® RXT Convertible Car Seat and Booster by Diono™ Shown in Black Mist 399.99 FREE SHIPPING'
+  img_url: 'images/bbB_205_101717_Carseats_CANADA_Update_v1_DEV_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/car-seats/booster-car-seats/22917/'
+  img_alt: 'booster seats Designed to bridge the gap between car seat and seat belt. '
+  img_url: 'images/bbB_205_101717_Carseats_CANADA_Update_v1_DEV_11_01.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/evenflo-reg-securekid-trade-dlx-harnessed-booster-in-grey/1044809058'
+  img_alt: 'SecureKid™ DLX Harnessed Booster by Evenflo® 249.99 FREE SHIPPING'
+  img_url: 'images/bbB_205_101717_Carseats_CANADA_Update_v1_DEV_11_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/car-seats/22914/'
+  img_alt: 'shop car seats'
+  img_url: 'images/bbB_205_101717_Carseats_CANADA_Update_v1_DEV_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/gifts/gifts-for-kids/23596/'
+  img_alt: 'on the nice list shop now'
+  img_url: 'images/bbB_205_101717_Carseats_CANADA_Update_v1_DEV_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: 'stop by your local store find a store'
+  img_url: 'images/bbB_205_101717_Carseats_CANADA_Update_v1_DEV_14.jpg'
+
+- link: ""
+  img: "images/bbB_emailSocial_LeftMargin.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailSocial_FB.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailSocial_Twitter.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailSocial_Pinterest.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailSocial_YT.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailSocial_Instagram.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_emailSocial_RightMargin.jpg"
+  alt: ""
+
+footer_ViewMap: ''
+footer_FindAnotherLocation: ''
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.bedbathandbeyond.ca/store/selfservice/ContactUs'
+footer_PrivacyPolicy: 'http://www.bedbathandbeyond.ca/store/static/PrivacyPolicy'

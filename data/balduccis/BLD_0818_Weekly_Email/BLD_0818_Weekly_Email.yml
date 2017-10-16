@@ -1,0 +1,101 @@
+title: 'It&#39;s hot! We&#39;ll do the cooking. You do the relaxing. '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f7a20e2c-90b6-4db5-97d3-07dc7228b584.jpg?ver=1502821252000'
+  img_alt: "GOURMET REWARDS CLUB"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d1a3d825-c3e5-4ab2-bf1a-ea6c4767469f.jpg?ver=1502821253000'
+  img_alt: "SUMMER SIMPLE We&#39;ve put together a delicious collection of some of our favorite beauty and wellness enhancing foods. Catering SUMMER DELIGHT SALAD VIEW MENU >"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/daff0653-396b-40bf-af8c-9f42d7ea4204.jpg?ver=1502821252000'
+  img_alt: "CHEF PREPARED | GRAB & GO "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b45dd812-1013-4574-ba70-14d83e2ca258.jpg?ver=1502821253000'
+  img_alt: "SESAME GINGER SHRIMP SKEWER WATERMELON, FETA & LENTIL SALAD SUMMER HARVEST SALAD COWBOY STEAK SALAD"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2303c066-be0c-4585-83d8-30cb9c067f34.jpg?ver=1502821253000'
+  img_alt: "SESAME GINGER SHRIMP SKEWER WATERMELON, FETA & LENTIL SALAD SUMMER HARVEST SALAD COWBOY STEAK SALAD"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b8e83a4c-1ad0-463c-8633-ff70395bfa26.jpg?ver=1502821253000'
+  img_alt: "SUMMER SUNSHINE + WINE" 
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d5d9f72f-1dda-494f-8379-0d8672d0d6d5.jpg?ver=1502821254000'
+  img_alt: "NEW! BALDUCCI&#39;S MARLBOROUGH SAUVIGNON BLANC Imported from New Zealand, our new exclusive varietal boasts lively aromas of gooseberry, passionfruit and grapefruit. *Wine available at Balducci&#39;s Alexandria, Bethesda, Greenwich and McLean Create WHITE SANGRIA VIEW RECIPE >"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3557621a-1dda-4473-b5cd-3562c10d85d0.jpg?ver=1502821254000'
+  img_alt: "CATERING | FUSS-FREE FEAST"
+  
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2ac76df6-1a15-454f-b049-87b12206de4b.jpg?ver=1502821254000'
+  img_alt: "SUMMER BBQ CATERING For a memorable meal, our summer BBQ catering menu is deliciously easy! ORDER NOW >"
+  
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d8395cf6-3c37-459a-9d22-d2b265fb82ef.jpg?ver=1502821254000'
+  img_alt: "EASY AS…CAKE"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ae02f045-090c-4243-bde5-1550dc6ddc97.jpg?ver=1502821255000'
+  img_alt: "Zucchini Loaf Cakes For a sweet treat anywhere, grab a delciously moist zucchini loaf cake tapped with delectable cinnamon streusel!"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/231205fd-55bc-40c3-ba49-a43655702192.jpg?ver=1502821255000'
+  img_alt: "Chocolate Lover&#39;s Cake It&#39;s a chocoholic&#39;s dream! Devil&#39;s food cake paired with fudgy bittersweet pudding satisfies chocolate cravings on the go."

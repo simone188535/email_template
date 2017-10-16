@@ -1,0 +1,173 @@
+title: 'Free shipping on orders over $49'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_Logo_CA.jpg"
+logo_img_alt: "buybuy CA Baby Logo"
+logo_img_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/?"
+
+freeshipping_img_url: "images/bbB_emailheader_FreeShipping_CA.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details "
+freeshipping_img_link: "http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/"
+
+instore_img_url: "images/bbB_emailheader_InStore_CA.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More "
+instore_img_link: "http://www.bedbathandbeyond.ca/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_RegistryLogo_CA.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "https://www.bedbathandbeyond.ca/store/page/BabyCanadaRegistry"
+
+nav1_url: "images/bbB_emailheader_NAV1_CA.jpg"
+nav1_alt: "baby nursery"
+nav1_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/22927"
+
+nav2_url: "images/bbB_emailheader_NAV2_CA.jpg"
+nav2_alt: "nursing & feeding"
+nav2_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/22936/"
+
+nav3_url: "images/bbB_emailheader_NAV3_CA.jpg"
+nav3_alt: "bath & Potty"
+nav3_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Free shipping on orders over $49'
+preheader_link: 'http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+# - type: 'image-3-columns'
+#   img_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_alt: 'Crisp & clean, you can&#39;t go wrong with stripes!'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_02.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_2_alt: 'go bold what&#39;s Black & White and always in style? Fun, functional baby gear in this on-trend color scheme.'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_03.jpg'
+#   img_3_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_3_alt: 'Black & White looks best when you add bold pops of color!'
+#   img_3_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_04.jpg'
+
+# - type: 'image-2-columns'
+#   img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+#   img_alt: 'savings center'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_13.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+#   img_2_alt: 'strollers'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_14.jpg'
+
+- type: 'image'
+  img_link: ''
+  img_alt: 'bring on the Labour Day deals! While supplies last. Limited time offers. '
+  img_url: 'images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/4moms-reg-breeze-reg-playard-in-blue/1044489168'
+  img_alt: 'Get a $20 buybuy BABY® gift card with purchase of 4moms® breeze® Playard shop nowhttps://www.bedbathandbeyond.ca/store/product/4moms-reg-breeze-reg-playard-in-blue/1044489168'
+  img_url: 'images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: 'Buy 1 get 1 1/2 off SwaddleMe® In-store Only find a store'
+  img_url: 'images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/chicco-bravo-travel-system?origSearchTerm=chicco+bravo+travel+system'
+  img_alt: 'Get a $50 buybuy BABY® gift card with purchase of Chicco® Bravo® Travel System shop now'
+  img_url: 'images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: 'Ariana 4-in-1 Convertible Crib in Cream In-Store Only NOW 399.99 find a store'
+  img_url: 'images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: 'DaVinci Olive Upholstered Swivel Glider and Ottoman in Grey with Cream Piping In-Store Only NOW 399.99 find a store'
+  img_url: 'images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/brand/vtech/492'
+  img_alt: 'Get a $15 buybuy BABY® gift card with purchase of $50 or more Vtech® Toys shop now'
+  img_url: 'images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/graco-4ever?origSearchTerm=graco+4ever'
+  img_alt: 'Get a $50 buybuy BABY® gift card with purchase of Graco® 4ever™ Car Seats shop now'
+  img_url: 'images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/maxi-cosi?origSearchTerm=Maxi+Cosi'
+  img_alt: 'Get a $50 buybuy BABY® gift card with purchase of Maxi-Cosi® Dana Stroller & Mico Max 30 Infant Car Seat shop now'
+  img_url: 'images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/b-kids-reg-dedee-trade-bath-organizer/1042687177'
+  img_alt: 'Clearance! B&#39;Kids® dedee™ Bath Organizer was 19.99 NOW 11.99 shop now'
+  img_url: 'images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/what-s-new/baby-kids/22367/'
+  img_alt: 'what&#39;s new shop what&#39;s new'
+  img_url: 'images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: 'we&#39;re in your neighbourhood find a store'
+  img_url: 'images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_13.jpg'
+
+# - type: 'image-3-columns'
+#   img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/bib-burp/22939/22939-4294967218-9000093/1-48?pagSortOpt=DEFAULT-0&refType=true&_requestid=1027919'
+#   img_alt: 'bibs'
+#   img_url: 'images/bbB_201_080117_Nursing&Feeding_CANADA_v1_r4_DEV_16.jpg'
+#   img_2_link: 'https://www.bedbathandbeyond.ca/store/s/nursing-covers'
+#   img_2_alt: 'nursing covers'
+#   img_2_url: 'images/bbB_201_080117_Nursing&Feeding_CANADA_v1_r4_DEV_17.jpg'
+#   img_3_link: 'https://www.bedbathandbeyond.ca/store/s/bottle-bag'
+#   img_3_alt: 'bottle bags'
+#   img_3_url: 'images/bbB_201_080117_Nursing&Feeding_CANADA_v1_r4_DEV_18.jpg'
+
+# - type: 'image'
+#   img_link: 'https://www.bedbathandbeyond.ca/store/s/oxo-tot-highchair'
+#   img_alt: 'OXO tot® mess-free mealtime shop OXO tot®'
+#   img_url: 'images/bbB_201_080117_Nursing&Feeding_CANADA_v1_r4_DEV_19.jpg'
+
+# - type: 'image'
+#   img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/infant-toys-ages-0-3-years/books-media/22962/'
+#   img_alt: 'nighttime stories shop now'
+#   img_url: 'images/bbB_201_080117_Nursing&Feeding_CANADA_v1_r4_DEV_20.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_14.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_15.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_16.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_17.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_18.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_19.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_201_083117_LabourDay_CANADA_v1_R5_DEV_20.jpg"
+  alt: ""
+
+footer_ViewMap: ''
+footer_FindAnotherLocation: ''
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.bedbathandbeyond.ca/store/selfservice/ContactUs'
+footer_PrivacyPolicy: 'http://www.bedbathandbeyond.ca/store/static/PrivacyPolicy'

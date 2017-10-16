@@ -1,0 +1,157 @@
+title: ''
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff3d4a6-3dbe-4ad1-a9e8-2b0db6cafee8.jpg?ver=1478028287000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/063c70b2-2f0f-40d6-8e99-69a051f6c04f.jpg?ver=1494434594000"
+  img_alt: "MAKE MOM'S DAY| Get ready for Mother's Day with sweet treats and easy, indulgent meals sure to make her feel special.  "
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain "
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/551c500a-5611-4b43-8a4e-bb6ee8fbb2ea.jpg?ver=1494434594000"
+  img_alt: "MARKET SPECIALS | FOOD & FLOWERS TO MAKE MOM'S DAY "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/36fa4e7c-11c8-427c-ad67-8215a16d6c9c.jpg?ver=1494434594000"
+  img_alt: "FIRST OF THE SEASON FRESH WILD CAUGHT ALASKAN KING SALMON FILLET 26.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/36e8a45e-01a8-41a4-991d-59373c6fde35.jpg?ver=1494434594000"
+  img_alt: "DOZEN ROSE BOUQUET 19.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5fb65d36-d762-4b91-9523-4c4bebac3ce7.jpg?ver=1494434595000"
+  img_alt_2: "KINGS PATISSERIE FRUIT TART 60 OZ. 27.99 EA. "
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fc80c8df-572e-4240-a8d9-970515eff31c.jpg?ver=1494434595000"
+  img_alt: "VIEW WEEKLY SPECIALS >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bec40d2b-8e4e-43ff-b139-7615f1e100ea.jpg?ver=1494434595000"
+  img_alt: "MOM'S DAY MADE EASY | TREAT MOM TO A CATERED FEAST"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/090a6fe1-604f-44ae-8955-ade302793353.jpg?ver=1494434595000"
+  img_alt: "This year, treat mom to a Chef Prepared Mother's Day meal.  Our Special Occasions menu features seasonal dishes ranging from brunch to dinner, perfect for pampering mom! "
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4e7bc928-6eb6-4a8e-854f-294f4dcf9c6f.jpg?ver=1494434595000"
+  img_alt: "This year, treat mom to a Chef Prepared Mother's Day meal.  Our Special Occasions menu features seasonal dishes ranging from brunch to dinner, perfect for pampering mom! "
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/764b8f13-8b00-42cb-b858-a2fab4010001.jpg?ver=1494434596000"
+  img_alt: "VIEW MENU >"
+  url: "http://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c652510c-e1da-451e-9c1f-8b3b4f07ce35.jpg?ver=1494434596000"
+  img_alt: "CHEF PREPARED | SIMPLICITY FOR MOM | Our Chef Prepared dishes make it easy to treat mom! Stop in for your favorite grab-and-go greats: "
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/622e8533-03f9-4396-b9af-956581f122a2.jpg?ver=1494434596000"
+  img_alt: "LIMITED TIME OFFER PURCHASE THIS QUICHE AND GET 50% OFF ONE OF THE SALADS | • ASPARAGUS, MUSHROOM & ASIAGO QUICHE • CHEVRE SPRING MIX SALAD  • TRI-COLORED SALAD WITH BALSAMIC "
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7f600071-7c2e-427f-a93d-3e0dd4b5de53.jpg?ver=1494434596000"
+  img_alt: "LIMITED TIME OFFER PURCHASE THIS QUICHE AND GET 50% OFF ONE OF THE SALADS | • ASPARAGUS, MUSHROOM & ASIAGO QUICHE • CHEVRE SPRING MIX SALAD  • TRI-COLORED SALAD WITH BALSAMIC "
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/db0c7f77-8d41-4ad1-b839-966b812a82c6.jpg?ver=1494434596000"
+  img_alt: "VIEW MORE CHEF PREPARED  >"
+  url: "http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dacf25bf-e6f8-43f9-b667-c27402436756.jpg?ver=1494434596000"
+  img_alt: "BREAKFAST IN BED| START MOM'S DAY OFF IN STYLE "
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8ec40911-4428-4cda-a845-1a629158aa0f.jpg?ver=1494434596000"
+  img_alt: "4 ingredients for the perfect Mother's Day breakfast in bed: • KINGS COFFEE • KINGS ORANGE JUICE • KINGS CAGE-FREE EGGS  • KINGS MUFFIN OF THE MONTH- PEACH "
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain "
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8fe26460-eda7-46e1-b8c5-b1c9bc0f1f21.jpg?ver=1494434597000"
+  img_alt: "VIEW MORE  > "
+  url: "http://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain "
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2849c0eb-3e31-4145-9378-1b854c18bf4c.jpg?ver=1494434597000"
+  img_alt: "LET THE KIDS COOK | EASY KID-FRIENDLY RECIPES FOR MOTHER'S DAY "
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7e3886ce-dbf9-45f8-a353-279ca70bc1a4.jpg?ver=1494434597000"
+  img_alt: "KID-FRIENDLY FRUIT & YOGURT PARFAIT| VIEW RECIPE "
+  url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain "
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bde1eb30-667c-4776-acd8-f60e70c73fc4.jpg?ver=1494434597000"
+  img_alt_2: "EASY MUFFIN- TIN EGGS| VIEW RECIPE "
+  url_2: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0b502880-6514-46b0-badc-ea86d86558c4.jpg?ver=1494434597000"
+  img_alt: "GREAT GIFTS | JUST THE THING TO MAKE MOM'S DAY | JUST THE THING TO MAKE MOM'S DAY "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b8345e12-1ca6-44ce-b553-a33473d328c6.jpg?ver=1494434597000"
+  img_alt: "Put a smile on Mom's face with these thoughtful Mother's Day gifts:  TOUJOURS PARIS COLLECTION • HYDRANGEA PLANTS MIMOSA BLOSSOM BOUQUET • SUGARFINA CUBES COOKING STUDIO GIFT CERTIFICATE "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2ecb8d4c-a1cb-4ba7-bab0-d8c7a5241cf2.jpg?ver=1494434597000"
+  img_alt: "PRE-PACKED CHEF'S MEALS| We took our most popular entrées and side dishes and packaged them into simple, yet delicious meals that can be found in our ready-to-go case. | VIEW MORE &#62;"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0512_KF_WeeklyEmail_Chain"

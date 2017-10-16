@@ -1,0 +1,86 @@
+title: 'Rosh Hashanah Catering'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/29dfd363-9bb0-4c47-a9e6-8bf7f15b2995.jpg?ver=1504815290000'
+  img_alt: "GOURMET REWARDS CLUB"
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43adaf08-1578-4931-b9c0-ddcb081af862.jpg?ver=1504880417000'
+  img_alt: 'JUST FOR YOU FREE'
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/61ac58a3-ea00-4f3f-b989-1d380dac0a53.jpg?ver=1504880418000'
+  img_alt: 'LIMITED TIME OFFER | SEPTEMBER 15-18'
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4618cb5b-eb0e-460b-80a0-683c4c31a0a5.jpg?ver=1504880418000'
+  img_alt: 'SPEND $7 OR MORE AND RECEIVE DARLING® BRAND CLEMENTINES 3 lb. bag A hybrid of Mandarin and sweet oranges, clementines are a sweet, juicy treat! '
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e300e0a8-a4a6-4679-b639-774a215e9ca5.jpg?ver=1504880418000'
+  img_alt: 'IT&#39;S EASY—JUST SHOP WITH YOUR CARD A FREE bag of clementines offer has been loaded to your myBalducci&#39;s Card, with your purchase of $7. '
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2f988df1-7eb2-4fee-90fd-3f837e1122ff.jpg?ver=1504880418000'
+  img_alt: 'Valic at Rye Brook location only. One time use. Excludes purchase of Gift Cards.  '
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1481dffa-53f0-481f-a441-3a71ce1c0703.jpg?ver=1504880419000'
+  img_alt: 'BALDUCCI&#39;S RYE BROOK  '
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4573069d-a24d-4a3c-ba4f-a8f5f5266310.jpg?ver=1504880419000'
+  img_alt: '144 S. Ridge Street • Rye Brook, NY 10573 '
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0913_BLD_Rye_Offer_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e87a541b-1b83-477c-abc3-6286af8dd3ce.jpg?ver=1504880419000'
+  img_alt: ''

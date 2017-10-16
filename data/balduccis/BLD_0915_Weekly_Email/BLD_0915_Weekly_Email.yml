@@ -1,0 +1,115 @@
+title: 'This Rosh Hashanah, relax! Enjoy Chef Prepared meals. '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/29dfd363-9bb0-4c47-a9e6-8bf7f15b2995.jpg?ver=1504815290000'
+  img_alt: "GOURMET REWARDS CLUB"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/poultry?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7ecb6a51-d637-4497-ab73-aedefadf74d3.jpg?ver=1505224709000'
+  img_alt: 'L&#39;SHANAH TOVAH! Wishing you and your loved ones a peaceful and prosperous new year! Create APPLE CIDER & HERB CHICKEN VIEW RECIPE > '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/753749bf-0df1-4104-bda2-772df403bed6.jpg?ver=1505224709000'
+  img_alt: 'TRADITIONAL HOLIDAY FAVORITES '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c426a483-fa43-4373-bea4-046f5b548726.jpg?ver=1505224709000'
+  img_alt: 'BUTCHERY USDA PRIME CERTIFIED BEEF BRISKET This holiday favorite is mouth-watering, cooked low and slow. '
+
+- type: 'image'
+  img_link: 'https://vimeo.com/161853111'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/91d1ff76-4ec4-46b4-ac2c-8fd5e60b34c7.jpg?ver=1505224710000'
+  img_alt: 'Recipe Idea GREMOLATA RUBBED BEEF BRISKET WATCH VIDEO > '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+  img_alt: 'GRAB & GO CHEF PREPARED APPLE GLAZED ROAST CHICKEN Roasted until golden brown and served with apple compote. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6ba329d1-b946-4caa-830e-d9e1a5877f99.jpg?ver=1505224710000'
+  img_2_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+  img_2_alt: 'GRAB & GO CHEF PREPARED SWEET NOODLE KUGEL TART Baked with dried apples, cranberries, golden raisins and honey. '
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c2771d7-c017-4209-b0cd-48919e2edb77.jpg?ver=1505224710000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b265d362-1d4c-40d9-b709-39ca3487b529.jpg?ver=1505224710000'
+  img_alt: 'CATERING | JEWISH HOLIDAYS '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1cdc97d6-d8c4-4bc4-91d5-ae649a0f54d4.jpg?ver=1505224711000'
+  img_alt: 'A CHEF PREPARED HOLIDAY FEAST Our chefs are ready to help you host an elegant and easy Rosh Hashanah dinner or Yom Kippur meal. ORDER NOW > '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/rosh_hashanah_yom_kippur/starters?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/064a695c-6554-442a-86cc-cce40dda005a.jpg?ver=1505224711000'
+  img_alt: 'MATZOH BALLS IN BROTH CARROT & SWEET POTATO TZIMMES CITRUS GLAZED GRILLED SALMON APRICOT GLAZED TURKEY BREAST  '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/244eea60-1240-419f-94fa-5f16012ba49c.jpg?ver=1505224711000'
+  img_alt: 'MEMBER EXCLUSIVE '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9a31c288-cb9e-4810-b270-d12726c98eda.jpg?ver=1505224712000'
+  img_alt: 'BELL & EVANS ORGANIC CHICKEN THIGHS MEMBER EXCLUSIVE 4.49/LB Reg 5.49 '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f02feb4e-74aa-4234-ba70-a753caa5dd0c.jpg?ver=1505224712000'
+  img_alt: 'MACINTOSH APPLES MEMBER EXCLUSIVE 1.99/LB Reg 2.49 '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/08a0f74b-d215-43ed-a371-32c2c2f6b154.jpg?ver=1505224712000'
+  img_alt: 'WHAT&#39;S NEW IN-STORE '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0915_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b789f563-06a0-47b4-9b88-2200340e03b3.jpg?ver=1505224712000'
+  img_alt: 'FREE Artisan French Baguette with the purchase of any wedge of St. Mang Bavarian Made cheese. Celebrate the Bavarian Brotzeit, or bread-time, with a snack of bread, beer and cheese! Enjoy FREE fresh artisan bread and Bavarian Made Double Crème Brie. '
+

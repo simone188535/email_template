@@ -1,0 +1,161 @@
+title: 'Shop Medela® '
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_Logo_CA.jpg"
+logo_img_alt: "buybuy CA Baby Logo"
+logo_img_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/?"
+
+freeshipping_img_url: "images/bbB_emailheader_FreeShipping_CA.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details "
+freeshipping_img_link: "http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/"
+
+instore_img_url: "images/bbB_emailheader_InStore_CA.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More "
+instore_img_link: "http://www.bedbathandbeyond.ca/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_RegistryLogo_CA.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "https://www.bedbathandbeyond.ca/store/page/BabyCanadaRegistry"
+
+nav1_url: "images/bbB_emailheader_NAV1_CA.jpg"
+nav1_alt: "baby nursery"
+nav1_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/22927"
+
+nav2_url: "images/bbB_emailheader_NAV2_CA.jpg"
+nav2_alt: "nursing & feeding"
+nav2_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/22936/"
+
+nav3_url: "images/bbB_emailheader_NAV3_CA.jpg"
+nav3_alt: "bath & Potty"
+nav3_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Shop Medela® '
+preheader_link: 'https://www.bedbathandbeyond.ca/store/brand/medela/471'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE=H'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+# - type: 'image-3-columns'
+#   img_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_alt: 'Crisp & clean, you can&#39;t go wrong with stripes!'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_02.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_2_alt: 'go bold what&#39;s Black & White and always in style? Fun, functional baby gear in this on-trend color scheme.'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_03.jpg'
+#   img_3_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_3_alt: 'Black & White looks best when you add bold pops of color!'
+#   img_3_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_04.jpg'
+
+# - type: 'image-2-columns'
+#   img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+#   img_alt: 'savings center'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_13.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+#   img_2_alt: 'strollers'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/medela-reg-freestyle-double-electric-breastpump/1043554119'
+  img_alt: 'find the perfect pump Breastfeeding is different for everyone. The right pump will help you enjoy your experience more. shop now Freestyle Double Electric Breastpump | 494.99 This hands-free pump is the perfect pump for multi-tasking moms. FREE SHIPPING'
+  img_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_02.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/medela-reg-pump-in-style-double-electric-breastpump/1043554102'
+  img_alt: 'Pump In Style Double Electric Breastpump A great choice for moms who are always on the go. 374.99 FREE SHIPPING comes with a backpack!'
+  img_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_03.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/medela-reg-swing-trade-electric-breastpump/1043554089'
+  img_2_alt: 'Swing™ Electric Breastpump Easy to use during nursing to help increase your supply. 248.99 FREE SHIPPING great for moms who need to pump occasionally. '
+  img_2_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_04.jpg'
+
+- type: 'image'
+  img_link: ''
+  img_alt: 'more from medela® '
+  img_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_05.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/medela-reg-pump-save-trade-50-count-breast-milk-bags/1043554133'
+  img_alt: 'Pump & Save™ 50ct Breast Milk Bags 26.99'
+  img_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_06.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/medela-reg-calma-feeding-system-with-150-ml-bottle/1043554195'
+  img_2_alt: 'Calma Feeding System with 150 ml Bottle 19.99'
+  img_2_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_07.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/medela-reg-calma-solitaire-nipple-set/1043554188'
+  img_alt: 'Calma Solitaire Nipple Set 15.99'
+  img_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_08.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/medela-reg-60-count-disposable-nursing-pads/1043554249'
+  img_2_alt: '60ct Disposable Nursing Pads 19.99'
+  img_2_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_09.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/medela-reg-tender-care-trade-hydrogel-pads/1043554263'
+  img_alt: 'Tender Care™ Hydrogel Pads'
+  img_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_10.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/medela-reg-easy-expression-trade-bustier-in-black/3311673'
+  img_2_alt: 'Easy Expression™ Bustier 47.99'
+  img_2_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/brand/medela/471'
+  img_alt: 'shop Medela® '
+  img_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: 'You can purchase any of these items at buybuybaby.ca, order in any of our stores or use our find in-store option for easy pick-up. '
+  img_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_13.jpg'
+
+- type: 'image'
+  img_link: ''
+  img_alt: 'more to shop'
+  img_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_14.jpg'
+
+- type: 'image-3-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/bib-burp/22939/22939-4294967218-9000093/1-48'
+  img_alt: 'skin care'
+  img_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_15.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/s/nursing-covers'
+  img_2_alt: 'nursing covers'
+  img_2_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_16.jpg'
+  img_3_link: 'https://www.bedbathandbeyond.ca/store/s/bottle-bag'
+  img_3_alt: 'bottle bags'
+  img_3_url: 'images/bbB_201_081517_Medela_CANADA_v1_r2_DEV_17.jpg'
+
+
+# socialnav:
+# - link: ""
+#   img: "images/bbB_emailSocial_LeftMargin.jpg"
+#   alt: ""
+# - link: "http://www.facebook.com/buybuyBABY"
+#   img: "images/bbB_emailSocial_FB.jpg"
+#   alt: "Facebook logo"
+# - link: "https://twitter.com/buybuybaby"
+#   img: "images/bbB_emailSocial_Twitter.jpg"
+#   alt: "Twitter logo"
+# - link: "http://www.pinterest.com/buybuybaby"
+#   img: "images/bbB_emailSocial_Pinterest.jpg"
+#   alt: "Pinterest logo"
+# - link: "http://www.youtube.com/user/buybuybaby"
+#   img: "images/bbB_emailSocial_YT.jpg"
+#   alt: "YouTube logo"
+# - link: "http://instagram.com/buybuybaby"
+#   img: "images/bbB_emailSocial_Instagram.jpg"
+#   alt: "Instagram logo"
+# - link: ""
+#   img: "images/bbB_emailSocial_RightMargin.jpg"
+#   alt: ""
+
+footer_ViewMap: ''
+footer_FindAnotherLocation: ''
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.bedbathandbeyond.ca/store/selfservice/ContactUs'
+footer_PrivacyPolicy: 'http://www.bedbathandbeyond.ca/store/static/PrivacyPolicy'

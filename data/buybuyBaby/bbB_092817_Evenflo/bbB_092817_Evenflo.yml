@@ -1,0 +1,149 @@
+title: 'Pivot Plus Travel System'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 View Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Pivot Plus Travel System'
+preheader_link: 'https://www.buybuybaby.com/store/product/evenflo-reg-pivotplus-travel-system-in-rockland/1061918009'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/evenflo-reg-pivotplus-travel-system-in-rockland/1061918009'
+  img_alt: 'evenflo® ready, set, roll! This 3-in-1 travel system packs a punch with SensorSafe™ Technology and 3 different stroller modes, perfect from birth to 6 years. shop now'
+  img_url: 'images/bbB_092817_Evenflo_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/evenflo-reg-pivotplus-travel-system-in-rockland/1061918009'
+  img_alt: 'PivotPlus Travel System 329.99 FREE SHIPPING With SensorSafe™ Technology'
+  img_url: 'images/bbB_092817_Evenflo_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/evenflo-reg-pivotplus-travel-system-in-rockland/1061918009'
+  img_alt: 'from infant to toddler 3-in-1 stroller, car seat, & carrier From birth to 6 years old Forward- & rear-facing car seat features Anti-rebound bar protects baby Full-coverage canopy 3 different stroller modes'
+  img_url: 'images/bbB_092817_Evenflo_05.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'what is SensorSafe™ Technology? SensorSafe™ will alert you if your child unbuckles the chest clip while the car is in motion and will remind you that your child is in the car upon arrival.'
+  img_url: 'images/bbB_092817_Evenflo.gif'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/evenflo-reg-safemax-all-in-one-car-seat-with-sensorsafe-trade-technology-in-grey/1061167827'
+  img_alt: 'SafeMax™ All-in-One Car Seat with SensorSafe™ Technology 299.99 FREE SHIPPING From birth to big kid in 1 single seat'
+  img_url: 'images/bbB_092817_Evenflo_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/evenflo-reg-safemax-trade-3-in-1-booster-car-seat-with-sensorsafe-technology-in-charcoal-fizz/1061167810'
+  img_alt: 'SafeMax™ 3-in-1 Booster Car Seat with SensorSafe™ Technology 199.99 FREE SHIPPING The perfect big kid seat with 3 booster modes!.'
+  img_url: 'images/bbB_092817_Evenflo_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/evenflo/457'
+  img_alt: 'shop all Evenflo®'
+  img_url: 'images/bbB_092817_Evenflo_09.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States. '
+  img_url: 'images/bbB_092817_Evenflo_10.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'more to shop Evenflo®'
+  img_url: 'images/bbB_092817_Evenflo_11.jpg'
+
+
+- type: 'image-3-columns'
+  img_link: 'https://www.buybuybaby.com/store/brand/evenflo/457/4294967217-4294965885-4294966019-30009/1-48?pagSortOpt=DEFAULT-0&isFromSWD=false&_requestid=138281'
+  img_alt: 'nursing & feeding'
+  img_url: 'images/bbB_092817_Evenflo_12.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/brand/evenflo/457/4294967217-4294965885-4294966019-30002/1-48?pagSortOpt=DEFAULT-0&isFromSWD=false&_requestid=138367'
+  img_2_alt: 'gear & travel'
+  img_2_url: 'images/bbB_092817_Evenflo_13.jpg'
+  img_3_link: 'https://www.buybuybaby.com/store/brand/evenflo/457/4294967217-4294965885-4294966019-30004/1-48?pagSortOpt=DEFAULT-0&isFromSWD=false&_requestid=138449'
+  img_3_alt: 'health & safety'
+  img_3_url: 'images/bbB_092817_Evenflo_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/GiftCardHomePage'
+  img_alt: 'always the perfect gift Gift cards or eGift cards shop now'
+  img_url: 'images/bbB_092817_Evenflo_15.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/static/tcp'
+  img_alt: 'mobile offers 20% off First-time subscribers get a one single item mobile offer for in-store or online use on a future purchase. text OFFER2 to 42229 view details Message and data rates apply. Mobile internet access required. Up to 8 msg/month. Text STOP to 42229 to cancel. Terms, Conditions, and Privacy.®'
+  img_url: 'images/bbB_092817_Evenflo_16.jpg'
+
+
+- type: 'image-2-columns'
+  img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+  img_alt: 'Get it on Google Play'
+  img_url: 'images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_14.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'Download on the App Store'
+  img_2_url: 'images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_15.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_16.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_17.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_18.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_19.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_20.jpg"
+  alt: "Instagram logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_21.jpg"
+  alt: "YouTube logo"
+- link: ""
+  img: "images/bbB_204_091317_Graco_Extend2Fit_v2_r4_DEV_22.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'

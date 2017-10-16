@@ -14,11 +14,11 @@
       /* This style block will be inlined when running 'grunt build' and stripped from the header */
 
       /* Resets */
-	  .preHeader {
-		  display: none !important;
-		  color: #ffffff;
-		  background-color: #ffffff;
-	  }
+    .preHeader {
+      display: none !important;
+      color: #ffffff;
+      background-color: #ffffff;
+    }
 
         .ReadMsgBody {
           width: 100%;
@@ -147,7 +147,7 @@
           }
 
           .orange {
-          	color: <%=@base_primary_color%> !important;
+            color: <%=@base_primary_color%> !important;
           }
 
           .white {
@@ -155,12 +155,12 @@
           }
 
           .cell-height {
-          	line-height:1px;
-          	font-size:1px;
+            line-height:1px;
+            font-size:1px;
           }
 
           .small-text {
-          	font-size: 12px;
+            font-size: 12px;
           }
 
           .hero, .callout {
@@ -271,7 +271,7 @@
             width: 215px;
             -webkit-text-size-adjust:none;
             font-family: Helvetica, Arial, sans-serif;
-			       font-size: 15pt;
+             font-size: 15pt;
             text-decoration: none;
             line-height: 18pt;
             display:inline-block;
@@ -283,10 +283,10 @@
           }
           .article-img img {
           }
-		  .preheader-text {
-			  color: #515151;
-			  font-size: 18px;
-		  }
+      .preheader-text {
+        color: #515151;
+        font-size: 18px;
+      }
 
     </style>
 
@@ -449,33 +449,126 @@
 
             <!-- Articles -->
             <% @base_data_file.articles.each do |f| %>
-			<% if f["type"]== "image" %>
+      <% if f["type"]== "image" %>
             <tr>
               <td valign="top" align="center">
-                <a href="<%= f["url"] %>">
-                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                <a href="<%= f["img_link"] %>">
+                  <img src="<%= f["img_url"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
                 </a>
               </td>
             </tr>
             <% end %>
-			<% if f["type"]== "image-2-columns" %>
+      <% if f["type"]== "image-2-columns" %>
             <tr>
               <td valign="top" align="center">
-				  <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
-					  <tr>
-						  <td>
-			                <a href="<%= f["url"] %>">
-			                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
-			                </a>
+          <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+            <tr>
+              <td>
+                      <a href="<%= f["img_link"] %>">
+                        <img src="<%= f["img_url"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                      </a>
 
-						  </td>
-						  <td>
-			                <a href="<%= f["url_2"] %>">
-			                  <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
-			                </a>
-						  </td>
-					  </tr>
-				  </table>
+              </td>
+              <td>
+                      <a href="<%= f["img_2_link"] %>">
+                        <img src="<%= f["img_2_url"] %>" alt="<%= f["img_2_alt"] %>" title="<%= f["img_2_alt"] %>" class="responsive">
+                      </a>
+              </td>
+            </tr>
+          </table>
+              </td>
+            </tr>
+            <% end %>
+        <% if f["type"]== "image-3-columns" %>
+            <tr>
+              <td valign="top" align="center">
+          <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+            <tr>
+              <td>
+                      <a href="<%= f["img_link"] %>">
+                        <img src="<%= f["img_url"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                      </a>
+
+              </td>
+              <td>
+                      <a href="<%= f["img_2_link"] %>">
+                        <img src="<%= f["img_2_url"] %>" alt="<%= f["img_2_alt"] %>" title="<%= f["img_2_alt"] %>" class="responsive">
+                      </a>
+              </td>
+              <td>
+                      <a href="<%= f["img_3_link"] %>">
+                        <img src="<%= f["img_3_url"] %>" alt="<%= f["img_3_alt"] %>" title="<%= f["img_3_alt"] %>" class="responsive">
+                      </a>
+              </td>
+            </tr>
+          </table>
+              </td>
+            </tr>
+            <% end %>
+        <% if f["type"]== "image-4-columns" %>
+            <tr>
+              <td valign="top" align="center">
+          <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+            <tr>
+              <td>
+                      <a href="<%= f["img_link"] %>">
+                        <img src="<%= f["img_url"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                      </a>
+
+              </td>
+              <td>
+                      <a href="<%= f["img_2_link"] %>">
+                        <img src="<%= f["img_2_url"] %>" alt="<%= f["img_2_alt"] %>" title="<%= f["img_2_alt"] %>" class="responsive">
+                      </a>
+              </td>
+              <td>
+                      <a href="<%= f["img_3_link"] %>">
+                        <img src="<%= f["img_3_url"] %>" alt="<%= f["img_3_alt"] %>" title="<%= f["img_3_alt"] %>" class="responsive">
+                      </a>
+              </td>
+              <td>
+                      <a href="<%= f["img_4_link"] %>">
+                        <img src="<%= f["img_4_url"] %>" alt="<%= f["img_4_alt"] %>" title="<%= f["img_4_alt"] %>" class="responsive">
+                      </a>
+              </td>
+            </tr>
+          </table>
+              </td>
+            </tr>
+            <% end %>
+        <% if f["type"]== "image-5-columns" %>
+            <tr>
+              <td valign="top" align="center">
+          <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+            <tr>
+              <td>
+                      <a href="<%= f["img_link"] %>">
+                        <img src="<%= f["img_url"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                      </a>
+
+              </td>
+              <td>
+                      <a href="<%= f["img_2_link"] %>">
+                        <img src="<%= f["img_2_url"] %>" alt="<%= f["img_2_alt"] %>" title="<%= f["img_2_alt"] %>" class="responsive">
+                      </a>
+              </td>
+              <td>
+                      <a href="<%= f["img_3_link"] %>">
+                        <img src="<%= f["img_3_url"] %>" alt="<%= f["img_3_alt"] %>" title="<%= f["img_3_alt"] %>" class="responsive">
+                      </a>
+              </td>
+              <td>
+                      <a href="<%= f["img_4_link"] %>">
+                        <img src="<%= f["img_4_url"] %>" alt="<%= f["img_4_alt"] %>" title="<%= f["img_4_alt"] %>" class="responsive">
+                      </a>
+              </td>
+              <td>
+                      <a href="<%= f["img_5_link"] %>">
+                        <img src="<%= f["img_5_url"] %>" alt="<%= f["img_5_alt"] %>" title="<%= f["img_5_alt"] %>" class="responsive">
+                      </a>
+              </td>
+            </tr>
+          </table>
               </td>
             </tr>
             <% end %>
@@ -483,29 +576,29 @@
 
 
             <!-- Footer logo -->
-			<tr>
-				<td>
-					<table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
-			            <tr>
-			            	<td valign="top" align="center" bgcolor="#222222">
-				                <a href="<%=@base_footer_site_link%>">
-				            		  <img src="<%=@base_footer_site_img%>" alt="<%=@base_footer_site_alt%>" title="<%=@base_footer_site_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            	<td valign="top" align="center" bgcolor="#222222">
-				                <a href="<%=@base_footer_facebook_link%>">
-				            		  <img src="<%=@base_footer_facebook_img%>" alt="<%=@base_footer_facebook_alt%>" title="<%=@base_footer_facebook_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            	<td valign="top" align="center" bgcolor="#222222">
-				                <a href="<%=@base_footer_twitter_link%>">
-				            		  <img src="<%=@base_footer_twitter_img%>" alt="<%=@base_footer_twitter_alt%>" title="<%=@base_footer_twitter_alt%>" class="responsive">
-				                </a>
-			            	</td>
-			            </tr>
-					</table>
-				</td>
-			</tr>
+      <tr>
+        <td>
+          <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+                  <tr>
+                    <td valign="top" align="center" bgcolor="#222222">
+                        <a href="<%=@base_footer_site_link%>">
+                          <img src="<%=@base_footer_site_img%>" alt="<%=@base_footer_site_alt%>" title="<%=@base_footer_site_alt%>" class="responsive">
+                        </a>
+                    </td>
+                    <td valign="top" align="center" bgcolor="#222222">
+                        <a href="<%=@base_footer_facebook_link%>">
+                          <img src="<%=@base_footer_facebook_img%>" alt="<%=@base_footer_facebook_alt%>" title="<%=@base_footer_facebook_alt%>" class="responsive">
+                        </a>
+                    </td>
+                    <td valign="top" align="center" bgcolor="#222222">
+                        <a href="<%=@base_footer_twitter_link%>">
+                          <img src="<%=@base_footer_twitter_img%>" alt="<%=@base_footer_twitter_alt%>" title="<%=@base_footer_twitter_alt%>" class="responsive">
+                        </a>
+                    </td>
+                  </tr>
+          </table>
+        </td>
+      </tr>
             <!-- /Footer logo -->
 
         

@@ -1,0 +1,90 @@
+title: 'Save $4 lb. on Wild Caught Alaskan Sockeye Salmon'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+# #header
+# logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+# catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# catering_alt: 'CATERING'
+# chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# chef_prepared_alt: 'CHEF PREPARED'
+# store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# store_locator_alt: 'FIND A STORE'
+# my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+# #footer
+# footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__"
+# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+# footer_site_alt: "balduccis.com"
+# footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+# footer_facebook_alt: "facebook"
+# footer_twitter_link: "https://twitter.com/Balduccis"
+# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+# footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4aa6bb46-5461-404e-bb3a-cb46eab1475a.jpg?ver=1502373676000'
+  img_alt: "Balducci's® Food Lover's Market™ This Week's Picks in Rye Brook Meat & Seafood Valid 8/11/17 - 8/17/17 "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/266ecccc-d7de-42a3-a947-78e111fed5d4.jpg?ver=1502373676000'
+  img_alt: "Save 2.00 | NATURAL BEEF FLANK STEAK | Marinade or Season, and Grill! | YOU PAY 14.99LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9ad0ff61-e54c-44cd-8ec4-3272b8157d7b.jpg?ver=1502373676000'
+  img_alt:  "Save 1.00 | STORE MADE ITALIAN PORK SAUSAGE | Sweet or Hot, 16 oz. | YOU PAY 6.99EA."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/322bebbf-4ad6-470f-a691-a777ae909d0b.jpg?ver=1502373677000'
+  img_alt: "5.99 SUSHI WEDNESDAYS | Choose from California, Salmon Avocado, Spicy Tuna, or Tuna Avocado Rolls Save 4.00 | Wild Caught Alaskan Sockeye Salmon Fillet | YOU PAY 18.99LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9d2e22ad-89c3-489c-b0bd-0b904920dedc.jpg?ver=1502373677000'
+  img_alt: "Cheese Savings Valid 8/11/17 - 8/17/17 Save 9.00 | Farmhouse Stilton Cheese | Aged 15 wks., Mellow and tangy | YOU PAY 12.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cad84c44-2840-4b4e-a398-dfeb35b105bc.jpg?ver=1502373677000'
+  img_alt: "Save 5.00 | Red Wax Gouda | Mild, nutty and creamy | 6.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9d8f2139-e342-41cd-b5d4-0b7298713843.jpg?ver=1502373677000'
+  img_alt: "CATERING | Whether it’s a dinner for family and friends or a corporate function, every catering order is assigned a professional Catering Coordinator to help with party advice, floral recommendations and more. | Call us at:1-866-278-8866 for your next event!"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/97367df3-874e-470c-8749-1f71bb3399ac.jpg?ver=1502373677000'
+  img_alt: "Produce, Bakery & More! Valid 8/11/17 - 8/17/17  BUY ONE WHOLE ROTISSERIE CHICKEN, GET 50% OFF A FAMILY SIZED PRE-PACKED GREEN SALAD | Assorted Varieties, 17-23 oz."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2fb7a7a-eaa6-4bad-8523-c7c97bd4554b.jpg?ver=1502373677000'
+  img_alt: "Save 1.00 | Yellow Peaches & Nectarines | You Pay 2.99 LB. Save 98¢ on 2 | Mangoes | You Pay 2/5.00"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/95c83ebc-9d73-47be-a580-01eb092a412b.jpg?ver=1502373678000'
+  img_alt: "Save 5.00 | Balducci’s 7” French Chocolate Mousse Cake | You Pay 19.99 EA. Save 1.00 | Aloha Bouquet | You Pay 14.99 EA."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ea405340-2beb-476f-b70b-91de66c4abfb.jpg?ver=1502373678000'
+  img_alt: "Save 2.00 | San Pellegrino Water 12pk 202.8 fl oz. | You Pay 11.99 EA. Save 2.00 | Rufus Teague BBQ Sauce All Varieties, 16 oz. | You Pay 3.99 EA. Save 2.96 on 4 | Fage Yogurt, all varieties, 5.3 oz | You Pay 4/5.00 144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook"
+

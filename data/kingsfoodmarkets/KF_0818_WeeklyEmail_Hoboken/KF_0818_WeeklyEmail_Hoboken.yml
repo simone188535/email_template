@@ -1,0 +1,207 @@
+title: 'Ultra-fresh seafood, no fishing license required.  '
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de72241c-8f91-4a47-9b9a-de1743b68764.jpg?ver=1478028286000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a86d554-d83a-4774-aea6-7f9676326ae0.jpg?ver=1478028286000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2edaabd5-6839-4cba-8435-3daf2748907c.jpg?ver=1478028287000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8c12d7a7-43c8-4d16-89d8-c0c5bb6912e0.jpg?ver=1500902727000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5acc8f30-479f-4ea5-bb05-f0e9303135c9.jpg?ver=1502716113000"
+  img_alt: "TOP OF THE CATCH Transport yourself seaside with a variety of premium seafood. "
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c1cee40d-cd39-4425-a2ca-4f610fd26233.jpg?ver=1502720529000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d6d7fd4c-2c96-439b-8f7c-ebca7f16cd79.jpg?ver=1502720529000"
+  img_alt: "members extra! SAVINGS WILD CAUGHT ALASKAN COHO SALMON members SAVE 5 LB. "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5bc0ecd0-5605-49c1-84dc-4caaf46382e9.jpg?ver=1502720529000"
+  img_alt_2: "members extra! SAVINGS SAVE $2 lb. EXTRA JUMBO COPANO BAY BLUE SHRIMP members pay 17.99 LB. "
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/78fb885d-7a07-4c59-9564-8c1eba3a79bc.jpg?ver=1502720529000"
+  img_alt: "members extra! SAVINGS SAVE $1 lb. PERDUE FARMS BONELESS CHICKEN BREAST members pay 5.49 LB."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c97238d7-059f-4610-bc64-518869455982.jpg?ver=1502720530000"
+  img_alt_2: "members extra! SAVINGS NEW SAVE 50¢ SHADY BROOK TURKEY SLIDERS Members pay 3.99 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/024d562b-f926-4638-9473-7986d166f64d.jpg?ver=1502720530000"
+  img_alt: "View More Specials and make a List VIEW HOBOKEN WEEKLY SALES "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1c992c24-571b-4053-aed9-8313e40d00fd.jpg?ver=1502716114000"
+  img_alt: "RISE TO THE TOP "
+  url: "https://kingsfoodmarkets.com/our-inspiration/seafood?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c59fcb1d-18b3-405b-a0e5-51487bb07877.jpg?ver=1502716114000"
+  img_alt: "&#34;TOP OF THE CATCH&#34; comes from the fishing business, where buyers know the freshest fish are just caught and placed on &#34;top.&#34; It&#39;s how we describe our PREMIUM, SUSTAINABLE, and RESPONSIBLY SOURCED SEAFOOD."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/23792672-65d9-4793-be80-6843c5f965f2.jpg?ver=1502716114000"
+  img_alt: "FRESH SEAFOOD RECIPES"
+  url: "https://kingsfoodmarkets.com/unique-recipes/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/577c90c0-b336-4c72-ad36-eb6b6e0d2d87.jpg?ver=1502716114000"
+  img_alt: "ALASKAN SALMON WITH FENNEL, WITH FENNEL, TOMATOES & OLIVES VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/roasted-alaskan-sockeye-salmon-w-fennel-tomatoes-and-olives?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0044e6b5-2db9-4be6-a453-cf4455be945c.jpg?ver=1502716115000"
+  img_alt_2: "CAJUN LIME GRILLED SHRIMP VIEW RECIPE "
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/cajun-lime-grilled-shrimp?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5c2f91a8-39f6-4d3b-9c21-96260a4a1224.jpg?ver=1502716115000"
+  img_alt: "ALOHA, POKE!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/35f53018-eacd-40e0-b70a-d7f74d36117d.jpg?ver=1502716115000"
+  img_alt: "LOVE FOR THIS HAWAIIAN DISH IS SWEEPING THE MAINLAND! Tasty and light, our poke bowls are MADE FRESH DAILY with ahi tuna. AVAILABLE IN THE SUSHI DEPT."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/02c2f197-af29-471f-876b-3c681005c67f.jpg?ver=1502716115000"
+  img_alt: "MARK YOUR CALENDAR"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bf35bc70-9a0a-48a8-8558-225b5797dc6d.jpg?ver=1502716115000"
+  img_alt: "SNACK BETTER Stop by select stores for the Krave Airstream; they'll have tasty samples, fun games and a photobooth! TODAY….MORRISTOWN SAT. 8/19…..SHORT HILLS LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3ca83ac1-55c7-491d-a678-f7906d470d52.jpg?ver=1502716115000"
+  img_alt: "WHAT&#39;S NEW IN STORE "
+  url: "http://kingsfoodmarkets.com/extra?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fd09f877-72b2-4818-9fdc-e12217362737.jpg?ver=1502716115000"
+  img_alt: "myKINGS extra! Smart Savings & More JOIN TODAY See cashier to enroll. MEMBERS ONLY SAVINGS. DON&#39;T MISS OUT! Extra! Benefits: • Sale prices are for members only!• No card to carry • Exclusive member offers and more! LEARN MORE>"
+  url: "http://kingsfoodmarkets.com/extra?utm_source=weeklyemail&utm_medium=email&utm_campaign=0818_KF_WeeklyEmail_HOBOKEN"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6e8329e5-1030-4298-bf1c-bcc0af71580d.jpg?ver=1500902726000"
+#   img_alt: "NEW! HEIDELBERG BREAD Made in small batches using traditional methods, this bread contains no additives or preservatives, no sugar or high fructose corn syrup and is non-GMO. $3.99 thru 8/10 "
+#   url: " http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_WeeklyEmail_HOBOKEN"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/52ee7f9a-f6b1-4a96-9c5f-72302294583a.jpg?ver=1500902726000"
+#   img_alt: "HAPPY CHOCOLATE CHIP COOKIE DAY 1/2 OFF FOR CHOCOLATE CHIP COOKIE DAY! Stop by on FRIDAY, AUGUST 4TH, and indulge with special cookie tastings from the bakery and 1/2 OFF David&#39;s Chocolate Chunk Cookies. "
+#   url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0728_KF_WeeklyEmail_HOBOKEN"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

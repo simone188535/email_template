@@ -1,0 +1,98 @@
+title: 'Sales Like This Don&#39;t Last Forever!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=discount_home_decor&utm_content=logo"
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=otp_store_locations&utm_content=locations"
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'Shop Amazing Deals Through Sunday.'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_090717_Email_02.png'
+  image_alt: 'THESE HOT DEALS Won&#39;t Last Long! VIEW AD'
+  image_link: 'http://oldtimepottery.com/saleflyers?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=these_hot_deals_wont_last_long&utm_content=view_ad'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_090717_Email_03.png'
+  image_alt: '89.98 sale  UP TO $199.99 AT OTHER STORES 3pc Papasan Set $49.99 2pc Papasan Chair Frame Set $39.99 46&#34; Cushion LAST CALL SALE ENDS SUNDAY, SEPTEMBER 10TH'
+  image_link: 'http://oldtimepottery.com/saleflyers?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=these_hot_deals_wont_last_long&utm_content=view_ad'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_090717_Email_04.png'
+  image_alt: 'now & wow 9.99 sale UP TO $29.99 AT OTHER STORES Bean Bag Chairs Large selection. Selection varies by store. Now & wow 88¢ sale UP TO $3.99 AT OTHER STORES Glass Drinkware Stems, tumblers, goblets, and more. THE LATEST STYLES AT THE BEST DEALS! 5 x 7 39.99 sale UP TO $149.99 AT OTHER STORES 5&#39; X 7&#39; Rugs Selection varies by store. Sizes are approximate. 4.99 sale UP TO $14.99 AT OTHER STORES 100% Cotton Bath Towels Solid. 30&#34; x 54&#34; $2.99 Hand Towels $1.99 Washcloth PLUS ALL Bath Rugs on SALE THE LATEST STYLES AT THE BEST DEALS! SALE! 20% off OUR ALREADY LOW PRICES ALL Pet Supplies Toys, Beds, Leashes, Collars, Bowls, Kennels and More. SALE PRICE: 63¢-$63.99 UP TO $99.99 AT OTHER STORES'
+  image_link: 'http://oldtimepottery.com/saleflyers?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=these_hot_deals_wont_last_long&utm_content=latest_styles_best_deals'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_090717_Email_05.png'
+  image_alt: 'Autumn Arrivals GET YOUR HARVEST DÉCOR NOW!'
+  image_link: 'http://oldtimepottery.com/saleflyers?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=these_hot_deals_wont_last_long&utm_content=autumn_arrivals'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_090717_Email_06.png'
+  image_alt: '17&#34; 4.99 sale 9.99 saleUP TO $24.99 AT OTHER STORES Potted Mums Assorted colors. 5.99 sale UP TO $19.99 AT OTHER STORES 5&#39; Scarecrows on a Pole Large selection. Now & wow 9.99 sale UP TO $19.99 AT OTHER STORES Harvest Wreaths 16&#34; - 18&#34; Assorted. Select styles. VIEW AD'
+  image_link: 'http://oldtimepottery.com/saleflyers?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=these_hot_deals_wont_last_long&utm_content=autumn_arrivals'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_090717_Email_07.png'
+  image_alt: 'SALE PRICES UP TO 65% OTHER STORES&#39; PRICES'
+  image_link: 'http://oldtimepottery.com/saleflyers?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=these_hot_deals_wont_last_long&utm_content=65off'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_090717_Email_08.png'
+  image_alt: 'Get Inspired & Share Your Finds Follow @oldtimepottery on Instagram'
+  image_link: 'https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=otp_instagramg&utm_content=get_inspired'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_090717_Email_09.png'
+  image_alt: 'NOW 50% OFF ALL YELLOW TAGS! Look for the yellow tag on merchandise throughout the store. HURRY BEFORE THEY&#39;RE GONE!'
+  image_link: 'http://oldtimepottery.com/yellow-tag?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=yellowtag&utm_content=50off'
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=otp_store_locations&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=otp_store_blog&utm_content=blog'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=otp_youtube&utm_content=youtube"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer9_7&utm_medium=email&utm_campaign=last_call_sale_ends_sunday&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""

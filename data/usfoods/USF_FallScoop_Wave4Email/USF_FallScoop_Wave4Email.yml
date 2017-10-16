@@ -1,0 +1,53 @@
+title: ""
+
+
+hero_img_url: "images/012616_con_USF_FallScoop_Email_Wave4_R1_FNL_02.jpg"
+hero_img_link: "https://www.usfoods.com/index.html"
+hero_img_alt: "Scoop™"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'images/012616_con_USF_FallScoop_Email_Wave4_R1_FNL_09_01.jpg'
+  image_alt: 'US. Foods® Keeping Kitchens Cooking®'
+  image_link: 'https://www.usfoods.com/index.html'
+
+- type: 'view-more'
+  view_more_url: 'images/bbB_176_01117_4moms_gear_v2_r4_DEV_08.jpg'
+  view_more_text: 'Our product lineup is designed to unleash your creativity in the kitchen and offer easy alternatives, shortcuts and profit drivers.'
+  view_more_link: 'https://www.usfoods.com/food/scoop.html'
+  view_more_link_text: ''
+  background_color: '#5d8628'
+
+- type: 'get-the-scoop'
+  scoop_link: 'https://www.usfoods.com/food/scoop.html'
+  scoop_text: 'View Fall Scoop&trade;'
+
+- type: 'header-live-text'
+  header_live_link: https://www.usfoods.com/food/scoop/fall-scoop/premium-hardwood-smoked-chicken-wings.html'
+  header_text: 'YOUR DINERS MIGHT LIKE'
+  header_live_color: '#cf4520'
+
+- type: 'product-left-image'
+  product_left_img: 'images/012616_con_USF_FallScoop_Email_Wave4_R1_FNL_11_01.jpg'
+  product_left_link: 'https://www.usfoods.com/food/scoop/fall-scoop/premium-hardwood-smoked-chicken-wings.html'
+  product_left_title: 'PATUXENT FARMS® '
+  product_left_recipe_title: ' PREMIUM HARDWOOD SMOKED CHICKEN WINGS '
+  product_left_recipe_text: 'Achieving the authentic color, flavor and texture of traditionally smoked wings is now easier than ever. '
+
+- type: 'product-left-image'
+  product_left_img: 'images/012616_con_USF_FallScoop_Email_Wave4_R1_FNL_12_01.jpg'
+  product_left_link: 'https://www.usfoods.com/food/scoop/fall-scoop/sweet-chili-gochujang-wing-sauce.html'
+  product_left_title: 'MONARCH® '
+  product_left_recipe_title: ' SWEET CHILI GOCHUJANG WING SAUCE '
+  product_left_recipe_text: 'Take your menu beyond sriracha. When you add this sweet spice and savory zing to your lineup, your global foodies will thank you. '
+
+- type: 'hero-with-button'
+  desktop_image_url: 'images/012616_con_USF_FallScoop_Email_Wave4_R1_FNL_14_01.jpg'
+  mobile_image_url: 'images/012616_con_USF_FallScoop_Email_Wave4_R1_FNL_14_01.jpg' 
+  button_image_url: 'images/viewproduct_05.jpg' 
+
+
+
+
