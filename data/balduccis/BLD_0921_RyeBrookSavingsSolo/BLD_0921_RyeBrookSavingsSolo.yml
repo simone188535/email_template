@@ -1,0 +1,101 @@
+title: 'This Week&#39;s Picks + Seafood Road Show!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+# #header
+# logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+# catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# catering_alt: 'CATERING'
+# chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# chef_prepared_alt: 'CHEF PREPARED'
+# store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# store_locator_alt: 'FIND A STORE'
+# my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+# #footer
+# footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__"
+# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+# footer_site_alt: "balduccis.com"
+# footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+# footer_facebook_alt: "facebook"
+# footer_twitter_link: "https://twitter.com/Balduccis"
+# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+# footer_twitter_alt: "twitter"
+
+#COMMON REPLACEMENT - SINGLE QUOTE - &#39;
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/11a6d5b4-b4b3-4445-9c1b-d7925266c28e.jpg?ver=1506006519000'
+  img_alt: "Balducci&#39;s® Food Lover&#39;s Market™ This Week&#39;s Picks in Rye Brook "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c365b6d9-9db2-4055-96fa-db9eb06157c4.jpg?ver=1506006520000'
+  img_alt: "Meat & Seafood Valid 9/22/17 - 9/28/17 "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cba7da2b-ddcd-4f64-a26a-43a900315571.jpg?ver=1506006521000'
+  img_alt: "Save 4.00 | Fresh Alaskan Coho Salmon Fillet | From the Cook Inlet | YOU PAY 16.99LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8863dbd8-68ae-4e3b-aabc-a50bc5b33fa7.jpg?ver=1506006521000'
+  img_alt: "5.99 SUSHI WEDNESDAYS | Choose from California, Salmon Avocado, Spicy Tuna, or Tuna Avocado Rolls "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/04b67b44-82d8-4360-b6d2-804201edeab3.jpg?ver=1506006521000'
+  img_alt: "Save 2.00 | Natural Hanger Steak | Hormone & Antibiotic Free | YOU PAY 14.99LB. - Save 2.00 | Natural Inside Skirt Steak | Hormone & Antibiotic Free | YOU PAY 15.99LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3982b193-68d6-4545-9550-c94c262c3045.jpg?ver=1506006522000'
+  img_alt: "Cheese Savings Valid 9/22/17 - 9/28/17    "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b8a5399a-5fb2-45db-a39d-c44fcbe075be.jpg?ver=1506006522000'
+  img_alt: "Save 3.00 | Emmi Swiss Gruyere Cheese | Grainy & Complex | YOU PAY 17.99 LB.  -  Save 5.00 | Emmi Gruyere Reserve | Robust with a sweet finish | 19.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/11471384-9815-46ea-8f53-35a9aa786e07.jpg?ver=1506006522000'
+  img_alt: "CATERING | Whether it&#39;s a dinner for family and friends or a corporate function, every catering order is assigned a professional Catering Coordinator to help with party advice, floral recommendations and more. | Call us at:1-866-278-8866 for your next event!"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6946812e-0f09-4982-b1c2-9d5c7f206853.jpg?ver=1506006522000'
+  img_alt: "Produce, Bakery & More! Valid 9/22/17 - 9/28/17       GET $1.00 OFF Balducci&#39;s Rotisserie Chicken | Choose from Lime-Cilantro, Herb, or &#34;Simply&#34; varieties | All Natural, Hormone & Antibiotic Free"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1903c4d-f0f0-4d83-9e1c-9cf94fd92ce6.jpg?ver=1506006523000'
+  img_alt: "Save 3.00 | Balducci&#39;s House Roast Turkey | You Pay 12.99 LB.  -  Save 3.00 | Balducci&#39;s House Roast Beef | You Pay 13.99 LB. "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a43c1809-44f3-43f4-9ac9-683e46473b02.jpg?ver=1506006523000'
+  img_alt: "Save 2.00 | Sweet Clementines 3 lb bag | You Pay 5.99 EA.   -   Save 1.50 | Organic Honeycrisp Apples | You Pay 3.49 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2f493ce2-e875-45d6-bccc-a3a6cd917e69.jpg?ver=1506006523000'
+  img_alt: "Save 2.00 |Balducci&#39;s Pumpkin Pound Cake, 16 oz. | You Pay 5.99 LB.  -  Save 1.00 | Vineyard Bouquet | You Pay 20.99 EA."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3d28681b-6f8d-4eee-8dbb-da3ee7f1d0ff.jpg?ver=1506006524000'
+  img_alt: "Save 1.00 | Michaels of Brooklyn Pasta Sauce, all varieties, 32 oz. | You Pay 8.99 EA.  -  Save 2.50 | Pacific Broth, all varieties, 32 fl oz. | You Pay 2.99 ea.  -  Save up to 1.74 | Birds Eye Steamfresh Vegetables, all varieties, 10-12 oz. | You Pay 1/2 PRICE!  -  144 S. Ridge St. | In the Rye Ridge Shopping Center   -  www.balduccis.com/ryebrook"
+

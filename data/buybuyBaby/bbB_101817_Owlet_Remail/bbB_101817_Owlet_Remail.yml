@@ -1,0 +1,145 @@
+title: 'Check out the Owlet Smart Sock'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 View Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Check out the Owlet Smart Sock'
+preheader_link: 'https://www.buybuybaby.com/store/product/owlet-smart-sock-2/1046938244'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/owlet-smart-sock-2/1046938244'
+  img_alt: 'rest easy Owlet Smart Sock 2 is up all night so you don&#39;t have to be. With clinically proven technology, it tracks heart & oxygen levels & notifies you if anything is wrong. shop now'
+  img_url: 'images/bbB_101817_Owlet_Remail_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/owlet-smart-sock-2/1046938244'
+  img_alt: 'Smart Sock 2 | 299.99 FREE SHIPPING'
+  img_url: 'images/bbB_101817_Owlet_Remail_03.jpg'
+
+- type: 'image'
+  img_link: 'https://video.buybuybaby.com//latest-videos/owlet-smart-sock-2/114050850-114714682/'
+  img_alt: 'learn how it works with this quick video! watch now'
+  img_url: 'images/bbB_101817_Owlet_Remail_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/owlet-smart-sock-2/1046938244'
+  img_alt: 'smart . soft. simple. smart sock Wirelessly tracks baby&#39;s heart rate & oxygen levels up to 100ft. always in the know base station Collects smart sock data and uses light & sound to notify you if heart rate & oxygen levels fall out of range. more data. less worry. mobile app Connects to Base Station & streams live heart rate & oxygen levels from anywhere.'
+  img_url: 'images/bbB_101817_Owlet_Remail_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/owlet/6063'
+  img_alt: 'shop Owlet'
+  img_url: 'images/bbB_101817_Owlet_Remail_06.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick up. Prices valid only in contiguous United States.'
+  img_url: 'images/bbB_101817_Owlet_Remail_07.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+  img_alt: 'savings centers'
+  img_url: 'images/bbB_101817_Owlet_Remail_08.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+  img_2_alt: 'strollers'
+  img_2_url: 'images/bbB_101817_Owlet_Remail_09.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/32641/'
+  img_alt: 'gifts & more'
+  img_url: 'images/bbB_101817_Owlet_Remail_10.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/category/car-seats/car-seats/32593/'
+  img_2_alt: 'car seats'
+  img_2_url: 'images/bbB_101817_Owlet_Remail_11.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/category/clothing-accessories/swaddles-wearable-blankets/swaddle-blankets/32311/'
+  img_alt: 'swaddles'
+  img_url: 'images/bbB_101817_Owlet_Remail_12.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/category/furniture/baby-furniture/bassinets-cradles/32615/'
+  img_2_alt: 'bessinets & cradles'
+  img_2_url: 'images/bbB_101817_Owlet_Remail_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/personalized-gifts/32820/'
+  img_alt: 'add a personal touch start personalizing'
+  img_url: 'images/bbB_101817_Owlet_Remail_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/s/safetytipskus'
+  img_alt: 'don&#39;t forget to use anti-tip kits! Avoid storing items on top of dressers that may encourage climbing. shop anti-tip'
+  img_url: 'images/bbB_101817_Owlet_Remail_15.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+  img_alt: 'Get it on Google Play'
+  img_url: 'images/bbB_201_082317_Kids_II_v2_r5_DEV_11.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'Download on the App Store'
+  img_2_url: 'images/bbB_201_082317_Kids_II_v2_r5_DEV_12.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_201_082317_Kids_II_v2_r5_DEV_13.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_201_082317_Kids_II_v2_r5_DEV_14.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_201_082317_Kids_II_v2_r5_DEV_15.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_201_082317_Kids_II_v2_r5_DEV_16.jpg"
+  alt: "Pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_201_082317_Kids_II_v2_r5_DEV_17.jpg"
+  alt: "Instagram logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_201_082317_Kids_II_v2_r5_DEV_18.jpg"
+  alt: "YouTube logo"
+- link: ""
+  img: "images/bbB_201_082317_Kids_II_v2_r5_DEV_19.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'

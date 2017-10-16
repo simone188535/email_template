@@ -1,0 +1,130 @@
+title: "Game Day Catering: You Cheer. We Cook."
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1fe8e399-4db6-473d-9a39-2dcbdcbfc26f.jpg?ver=1507668744000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/351e8ca6-9444-459a-8483-c0da42a22a1e.jpg?ver=1507668745000'
+  img_alt: 'IT&#39;S GAME TIME! Football and food are the perfect pairing. We&#39;ve got game day favorites with a gourmet spin!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b88225d1-06b9-4822-ab1e-a77fd45f2507.jpg?ver=1488815087000'
+  img_alt: 'GAME PLAN | SNACKS'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d169ee51-8df1-4868-9606-b7264a1282a5.jpg?ver=1507668745000'
+  img_alt: 'COLUMBUS PREMIUM GENOA SALAME Made with extra-lean pork, garlic, black pepper, and wine, then slow aged for at least 30 days.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/86b72098-dc11-4e35-8a1f-00b639646eab.jpg?ver=1507668746000'
+  img_alt_2: 'CHEF PREPARED BALDUCCI&#39;S HOUSE MADE GUACAMOLE Fresh avocados combined with tomatoes, onion, cilantro, lime juice, and a touch of jalapeño.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4cd2536f-8662-49d1-bed1-85903c5a5f26.jpg?ver=1507668746000'
+  img_alt: 'CHEF PREPARED BUFFALO CHICKEN WINGS Classic Buffalo wings, tossed in a spicy sauce and served with blue cheese dressing.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8674a114-46e8-4be5-b5e1-2c5bca1a6dab.jpg?ver=1507668747000'
+  img_alt_2: 'BALDUCCI&#39;S VIRGINIA PEANUTS Premium, extra-large peanuts take snacking to the next level with nutty homestyle flavor.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/af8f2318-8cb8-494d-9c5f-a43699c67f28.jpg?ver=1507668747000'
+  img_alt: 'GREEN MOUNTAIN GRINGO TORTILLA STRIPS Designed for dipping, these all-natural chip strips handle the heartiest dips deliciously.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8f6aaaa9-afa7-4eeb-8164-77c28851193c.jpg?ver=1507668747000'
+  img_alt_2: 'GREEN MOUNTAIN GRINGO SALSA Mild, hot or somewhere in between, these all-natural, small batch salsas are fresh and delicious.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7edd9877-4371-4ce4-9b4a-6c4a6d7fbb5d.jpg?ver=1507668747000'
+  img_alt: 'CATERING | GAME DAY THE EASY WAY'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4bc87ded-e58d-4523-b359-d6f276784408.jpg?ver=1507668748000'
+  img_alt: 'GAME ON! Whether you&#39;re tailgating or gathering with friends, cater all your football favorites and never miss a play! ORDER NOW >'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/85070c05-6d42-4e5d-9b88-b5051f23a67b.jpg?ver=1507668748000'
+  img_alt: 'TEX MEX PLATTER'
+  url_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e368fdcb-27b7-403d-b7f3-d5262abc44bc.jpg?ver=1507668748000'
+  img_alt_2: 'MINI SANDWICH PLATTER'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9616ac0b-9b13-4258-9fb5-7cdcbb5558c6.jpg?ver=1507668749000'
+  img_alt: 'MEMBER EXCLUSIVE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2600109a-2565-4cc4-acb9-e168eab82690.jpg?ver=1507668749000'
+  img_alt: 'LEMON SOLE MEMBER EXCLUSIVE $2 OFF/LB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fbd0b6d5-7c08-4cfc-a8d4-800d07001309.jpg?ver=1507668749000'
+  img_alt: 'WHAT&#39;S NEW | IN STORE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/957db75a-2535-4447-80f9-52aa835f9222.jpg?ver=1507668749000'
+  img_alt: 'The Republic of Tea It&#39;s sipping season! Enjoy the warm flavors of fall with these limited edition tea flavors. 2.8 OZ. 7.99/EA. thru 10/26.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6288a99e-36fc-4f42-a4e6-5d8560254a1b.jpg?ver=1507668750000'
+  img_alt: 'Join Us for Cheesetopia Experience the ultimate in gourmet cheese at our annual Cheesetopia Tasting Event. Get great tips from our cheesemongers and get inspired by our chefs while sampling cheese from around the world. 12 noon-5pm SATURDAY, OCTOBER 28TH ALEXANDRIA & MCLEAN, VA BETHESDA, MD SATURDAY, NOVEMBER 4TH SCARSDALE & RYE BROOK, NY GREENWICH & WESTPORT, CT MORE INFO >'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

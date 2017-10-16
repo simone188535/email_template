@@ -144,6 +144,7 @@ class emailBuilder(object):
 
 
     def findImageRow(self, image):
+
         row = [''] * 100
         for irow in self.sheet.rows():
             if self.cellContainsImage(irow[-1], image):
@@ -168,6 +169,7 @@ class emailBuilder(object):
         thisTable = []
 
         for image in self.imageList:
+            print('the image is' + image)
             imgData = ['']*6
 
             imgFile = Image.open(self.imagePath + "/" + image)
