@@ -1,0 +1,185 @@
+#TITLE
+title: 'Free Shipping over $49'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS29_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS29_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $29 View Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS29_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS29_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS29_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS29_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS29_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Free Shipping over $49'
+preheader_link: 'http://www.buybuybaby.com/store/static/ShippingPolicies'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/halo-trade-bassinest-swivel-sleeper-luxe-in-blue/1060077691'
+  img_alt: 'time for bed, baby Make baby&#39;s nighttime routine as easy as 1, 2, 3! shop now'
+  img_url: 'images/bbB_102317_Bedtime_Story_02.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'step 1 bathtime'
+  img_url: 'images/bbB_102317_Bedtime_Story_03.jpg'
+
+- type: 'image-4-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/honest-12-oz-bubble-bath-in-creamy-lavender/1020360368'
+  img_alt: 'Bubble bath [image]'
+  img_url: 'images/bbB_102317_Bedtime_Story_04.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/honest-10-fl-oz-shampoo-and-body-wash-in-dreamy-lavender/1020360399'
+  img_2_alt: 'Shampoo / Body Wash [image]'
+  img_2_url: 'images/bbB_102317_Bedtime_Story_05.jpg'
+  img_3_link: 'https://www.buybuybaby.com/store/product/honest-10-fl-oz-conditioner-in-dreamy-lavender/1020360375'
+  img_3_alt: 'Conditioner [image]'
+  img_3_url: 'images/bbB_102317_Bedtime_Story_06.jpg'
+  img_4_link: 'https://www.buybuybaby.com/store/product/honest-8-5-oz-face-and-body-lotion-in-dreamy-lavender/1020360382'
+  img_4_alt: 'Face + body lotion [image'
+  img_4_url: 'images/bbB_102317_Bedtime_Story_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/honest-12-oz-bubble-bath-in-creamy-lavender/1020360368'
+  img_alt: 'A. 12 oz Bubble Bath by Honest® | 11.99'
+  img_url: 'images/bbB_102317_Bedtime_Story_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/honest-10-fl-oz-shampoo-and-body-wash-in-dreamy-lavender/1020360399'
+  img_alt: 'B. 10 oz Shampoo and Body Wash by Honest® | 9.99'
+  img_url: 'images/bbB_102317_Bedtime_Story_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/honest-10-fl-oz-conditioner-in-dreamy-lavender/1020360375'
+  img_alt: 'C. 10 oz. Conditioner by Honest® | 9.99 '
+  img_url: 'images/bbB_102317_Bedtime_Story_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/honest-8-5-oz-face-and-body-lotion-in-dreamy-lavender/1020360382'
+  img_alt: 'D. 8.5 oz Face + Body Lotion by Honest® | 9.99'
+  img_url: 'images/bbB_102317_Bedtime_Story_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/johnson-39-s-reg-bedtime-reg-goodnight-kisses-baby-gift-set/1020389888'
+  img_alt: 'Bedtime® Goodnight Kisses Baby Gift Set by Johnson&#39;s® 34.99'
+  img_url: 'images/bbB_102317_Bedtime_Story_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/huggies-reg-overnites-diapers-56-count-size-4-big-pack-diapers/1020206017'
+  img_alt: 'step 2 jammie time Overnites Diapers 56ct Size 4 BigPack Diapers by Huggies® 22.99 Excluded from offer'
+  img_url: 'images/bbB_102317_Bedtime_Story_13.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/goodnight-moon-by-margaret-wise-brown/1015145340'
+  img_alt: 'step 3 story time Goodnight Moon by  Margaret Wise Brown 8.99'
+  img_url: 'images/bbB_102317_Bedtime_Story_14.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/bassetbaby-reg-premier-kendall-swivel-glider-in-fog/3322772'
+  img_2_alt: 'step 4 snuggle time PREMIER Kendall Swivel Glider by Bassetbaby® 599.99 FREE SHIPPING Online Only!'
+  img_2_url: 'images/bbB_102317_Bedtime_Story_15.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/love-you-forever-hardcover-book/1016404217'
+  img_alt: 'Love you Forever Hardcover Book by Robert Munch 14.95'
+  img_url: 'images/bbB_102317_Bedtime_Story_16.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/bassetbaby-reg-premier-kendall-swivel-glider-in-fog/3322772'
+  img_2_alt: 'step 4 snuggle time PREMIER Kendall Swivel Glider by Bassetbaby® 599.99 FREE SHIPPING Online Only'
+  img_2_url: 'images/bbB_102317_Bedtime_Story_17.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'step 5 sleepy time'
+  img_url: 'images/bbB_102317_Bedtime_Story_18.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/marpac-the-original-sound-conditioner-dohm-elite-white-noise-machine-in-grey/1061167544'
+  img_alt: 'new! The Original Sound Conditioner Dohm Elite White Noise Machine by Marpac 49.99 FREE SHIPPING'
+  img_url: 'images/bbB_102317_Bedtime_Story_19.jpg'
+  img_2_link: '#'
+  img_2_alt: 'SleepSack® Stars Multi-Way Adjustable Fleece Swaddle by HALO® Shown in Mint 21.99'
+  img_2_url: 'images/bbB_102317_Bedtime_Story_20.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/halo-trade-bassinest-swivel-sleeper-luxe-in-blue/1060077691'
+  img_alt: 'registry favorite Bassinest swivel sleeper by HALO® 279.99 FREE SHIPPING Excluded from offer'
+  img_url: 'images/bbB_102317_Bedtime_Story_21.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States.'
+  img_url: 'images/bbB_102317_Bedtime_Story_22.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/bedding-decor/30001/'
+  img_alt: 'the perfect nursery is in the details shop bedding & décor Never use soft bedding such as quilts, stuffed animals or pillows, while your baby is in any sleep environment.'
+  img_url: 'images/bbB_102317_Bedtime_Story_23.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/gifts-for-kids/32740/'
+  img_alt: 'unwrap new toys for baby shop gifts for kids'
+  img_url: 'images/bbB_102317_Bedtime_Story_24.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+  img_alt: 'Get it on Google Play'
+  img_url: 'images/bbB_205_101317_HonestCare_v3_r1_DEV_43.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'Download on the App Store'
+  img_2_url: 'images/bbB_205_101317_HonestCare_v3_r1_DEV_44.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_205_101317_HonestCare_v3_r1_DEV_45.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_205_101317_HonestCare_v3_r1_DEV_46.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_205_101317_HonestCare_v3_r1_DEV_47.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_205_101317_HonestCare_v3_r1_DEV_48.jpg"
+  alt: "Pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_205_101317_HonestCare_v3_r1_DEV_49.jpg"
+  alt: "YouTube logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_205_101317_HonestCare_v3_r1_DEV_50.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_205_101317_HonestCare_v3_r1_DEV_51.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
