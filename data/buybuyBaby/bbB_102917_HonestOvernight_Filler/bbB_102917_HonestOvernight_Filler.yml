@@ -1,0 +1,162 @@
+#TITLE
+title: 'These are a dream come true...'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS29_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 View Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS29_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS29_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS29_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS29_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS29_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'These are a dream come true...'
+preheader_link: 'https://www.buybuybaby.com/store/product/honest-overnights-diapers-in-sleepy-sheep/226376'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/honest-overnights-diapers-in-sleepy-sheep/226376'
+  img_alt: 'new Honest® Overnight Diapers With advanced leak protection, ultra-thin Honest Overnights are soft, comfy, & hypoallergenic. Bottom line, they&#39;re a dream come true. shop now Overnight Diapers | 13.99 per pack'
+  img_url: 'images/bbB_102917_HonestOvernight_Filler_02.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'inspire sweet dreams enriched with lavender essential oils, your baby will feel refreshed, relaxed, & calm'
+  img_url: 'images/bbB_102917_HonestOvernight_Filler_03.jpg'
+
+- type: 'image-4-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/honest-10-fl-oz-shampoo-and-body-wash-in-dreamy-lavender/1020360399'
+  img_alt: 'A Shampoo + Body Wash [image]'
+  img_url: 'images/bbB_102917_HonestOvernight_Filler_04.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/honest-10-fl-oz-conditioner-in-dreamy-lavender/1020360375'
+  img_2_alt: 'B. Conditioner [image]'
+  img_2_url: 'images/bbB_102917_HonestOvernight_Filler_05.jpg'
+  img_3_link: 'https://www.buybuybaby.com/store/product/honest-8-5-oz-face-and-body-lotion-in-dreamy-lavender/1020360382'
+  img_3_alt: 'C. Face + Body Lotion [image]'
+  img_3_url: 'images/bbB_102917_HonestOvernight_Filler_06.jpg'
+  img_4_link: 'https://www.buybuybaby.com/store/product/honest-12-oz-bubble-bath-in-creamy-lavender/1020360368'
+  img_4_alt: 'D. Bubble Bath [image]'
+  img_4_url: 'images/bbB_102917_HonestOvernight_Filler_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/honest-10-fl-oz-shampoo-and-body-wash-in-dreamy-lavender/1020360399'
+  img_alt: 'A. Shampoo + Body Wash | 9.99'
+  img_url: 'images/bbB_102917_HonestOvernight_Filler_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/honest-10-fl-oz-conditioner-in-dreamy-lavender/1020360375'
+  img_alt: 'B. Conditioner | 9.99'
+  img_url: 'images/bbB_102917_HonestOvernight_Filler_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/honest-8-5-oz-face-and-body-lotion-in-dreamy-lavender/1020360382'
+  img_alt: 'C. Face + Body Lotion | 9.99'
+  img_url: 'images/bbB_102917_HonestOvernight_Filler_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/honest-12-oz-bubble-bath-in-creamy-lavender/1020360368'
+  img_alt: 'D. Bubble Bath | 11.99'
+  img_url: 'images/bbB_102917_HonestOvernight_Filler_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/the-honest-company/2084'
+  img_alt: 'shop Honest®'
+  img_url: 'images/bbB_102917_HonestOvernight_Filler_12.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of stores or use our find in-store option for easy pick-up. Prices valid only in contigious United States.'
+  img_url: 'images/bbB_102917_HonestOvernight_Filler_13.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'more to shop bedtime essentials'
+  img_url: 'images/bbB_102917_HonestOvernight_Filler_14.jpg'
+
+- type: 'image-3-columns'
+  img_link: 'https://www.buybuybaby.com/store/category/toys-learning/books/30526/'
+  img_alt: 'books'
+  img_url: 'images/bbB_102917_HonestOvernight_Filler_15.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/category/bedding-decor/baby-bedding-accessories/soothers-sound-machines/32991/'
+  img_2_alt: 'soothers & sound machines'
+  img_2_url: 'images/bbB_102917_HonestOvernight_Filler_16.jpg'
+  img_3_link: 'https://www.buybuybaby.com/store/category/toys-learning/infant-toys/security-blankets/32749/'
+  img_3_alt: 'security blankets & lovies'
+  img_3_url: 'images/bbB_102917_HonestOvernight_Filler_17.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/strolleradvisor'
+  img_alt: 'find the perfect stroller in 3 easy steps start finder'
+  img_url: 'images/bbB_102917_HonestOvernight_Filler_18.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'mobile offers 20% off First-time subscribers get a one single item mobile offer for in-store or online use on a future purchase. Text OFFER2 to 42229 Message and data rates may apply. Mobile internet access required. Up to 8 msg/month. Text STOP to 42229 to cancel. Terms, Conditions, and Privacy.'
+  img_url: 'images/bbB_102917_HonestOvernight_Filler_19.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+  img_alt: 'Get it on Google Play'
+  img_url: 'images/bbB_205_101317_HonestCare_v3_r1_DEV_43.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'Download on the App Store'
+  img_2_url: 'images/bbB_205_101317_HonestCare_v3_r1_DEV_44.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_205_101317_HonestCare_v3_r1_DEV_45.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_205_101317_HonestCare_v3_r1_DEV_46.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_205_101317_HonestCare_v3_r1_DEV_47.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_205_101317_HonestCare_v3_r1_DEV_48.jpg"
+  alt: "Pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_205_101317_HonestCare_v3_r1_DEV_49.jpg"
+  alt: "YouTube logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_205_101317_HonestCare_v3_r1_DEV_50.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_205_101317_HonestCare_v3_r1_DEV_51.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
