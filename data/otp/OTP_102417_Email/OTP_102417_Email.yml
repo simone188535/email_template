@@ -1,0 +1,91 @@
+title: 'Discover Décor Deals to Refresh Your Holiday Style'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer10_24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=discount_home_decor&utm_content=homepage"
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer10_24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer10_24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=find_a_store&utm_content=locations"
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer10-24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'Plus 25% OFF Halloween Clearance!'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_102417_Email_02.jpg'
+  image_alt: 'DISCOVER DÉCOR DEALS SHOP OUR BIG & BEAUTIFUL CHRISTMAS SELECTION! (Your Largest Christmas Store!)'
+  image_link: 'http://oldtimepottery.com/christmas#utm_source=weeklyflyer10-24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=largest_christmas_store&utm_content=decor_deals'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_102417_Email_03.jpg'
+  image_first_alt: 'Let it Snow Ornament'
+  image_first_link: 'http://oldtimepottery.com/christmas#utm_source=weeklyflyer10-24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=largest_christmas_store&utm_content=snow_ornament'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_102417_Email_04.jpg'
+  image_second_alt: 'Santa&#39;s Sleigh and Décor'
+  image_second_link: 'http://oldtimepottery.com/christmas#utm_source=weeklyflyer10-24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=largest_christmas_store&utm_content=santa_sleigh_decor'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_102417_Email_05.jpg'
+  image_alt: 'VISIT TODAY'
+  image_link: 'http://oldtimepottery.com/christmas#utm_source=weeklyflyer10-24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=largest_christmas_store&utm_content=visit_today'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_102417_Email_06.jpg'
+  image_alt: 'Countdown 07 DAYS LEFT WE HAVE THE BEST DÉCOR ON SALE! ALL HALLOWEEN 25% OFF! Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://oldtimepottery.com/halloween#utm_source=weeklyflyer10-24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=25off_halloween&utm_content=7_days_left'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_102417_Email_07.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @oldtimepottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer10_24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=otp_instagram&utm_content=get_inspired'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_102417_Email_08.jpg'
+  image_alt: '75% OFF ALL YELLOW TAGS! HURRY BEFORE THEY&#39;RE GONE!'
+  image_link: 'http://oldtimepottery.com/yellow-tag#utm_source=weeklyflyer10_24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=yellow_tags&utm_content=75off'
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer10_24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer10_24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=otp_store_locations&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer10_24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=otp_store_blog&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer10_24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer10_24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer10_24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer10_24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=otp_youtube&utm_content=youtube"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer10_24&utm_medium=email&utm_campaign=refresh_your_holiday_style&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""
