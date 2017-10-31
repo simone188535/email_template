@@ -1,0 +1,103 @@
+title: ' '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d8122738-33f3-4181-98ac-dbaf90d937ba.jpg?ver=1497373079000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43ada965-5b9f-4e25-8fa1-be0734094fd5.jpg?ver=1497373079000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1ff67d4-42f0-40dc-86e1-338f5f3a59b7.jpg?ver=1497373080000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+#- type: 'image'
+#  img_link: 'https://vimeo.com/167304429'
+#  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65797346-bb35-483c-9051-0ba3d832a8ec.jpg?ver=1495221934000'
+#  img_alt: 'AVAILABLE IN THE SEAFOOD DEPT. | Hello, SUMMER | Celebrate the start of the season with BBQ, burgers and more. Recipe Video| SRIRACHA SALMON BURGER WITH BAHN MI SLAW | WATCH VIDEO >'
+
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+#__IMAGE_TEMPLATES__
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+  img_alt: 'GOURMET REWARDS CLUB'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/da11e961-e3a7-4f56-9dce-225f046f962c.jpg?ver=1496764390000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+  img_alt: 'GET READY FOR THANKSGIVING Focus on friends and family and let our chefs do the cooking for you! Plan your complete feast, catered by Balducci&#39;s. ORDER NOW > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8a80d280-5373-4eb8-921a-b51f48f051a3.jpg?ver=1509464895000'
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+  img_alt: 'NEW! GROCERY DELIVERY '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bfac66b0-bad3-4df8-b320-e3ed9550de55.jpg?ver=1509464895000'
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+  img_alt: '$20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER | DELICIOUS DELIVERED IN AS LITTLE AS ONE HOUR | LEARN MORE > | Check your zip code for availability. Powered by instacart. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b3694379-3181-49bf-b98f-4c9df4b30003.jpg?ver=1509464895000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+  img_alt: 'CATERING | THANKSGIVING FEAST '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5b2ed217-5ade-4188-84ba-3db1b38dc21d.jpg?ver=1509464895000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+  img_alt: 'CATERING | THANKSGIVING DINNER MADE EASY! Try our FULL DINNER PACKAGE, and take the fuss out of your feast! All you have to do is set the table and pour the wine. Select your turkey entrée + 3 sides + 2 extras + 1 bread + 1 dessert. ORDER NOW > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/77997a0b-4b08-4ef2-a03c-8ad05d9cd9aa.jpg?ver=1509464896000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+  img_alt: 'WINE PAIRINGS | THE PERFECT COMPLEMENT '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/41bdf5de-b50c-404a-b2bb-50d2f589fa13.jpg?ver=1509464896000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+  img_alt: 'BALDUCCI&#39;S PROSECCO PAIRS WITH: + CHEESE PLATE + CHARCUTERIE + PUMPKIN PIE STRAUSS CHARDONNAY GAMLITZBERG PAIRS WITH: + BUTTERNUT SQUASH SOUP + MASHED POTATOES + GREEN BEAN CASSEROLE'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bf8bede7-7b82-4587-88a4-21b768c905ec.jpg?ver=1509464896000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+  img_alt: 'BAYTEN SAUVIGNON BLANC PAIRS WITH: + CAESAR SALAD  + STUFFING + BRUSSELS SPROUTS ST. COSME COTES DU RHONE PAIRS WITH: + TURKEY, HAM & SALMON + CANDIED YAMS + CRANBERRY  *Wine only available at Balducci&#39;ss Greenwich, CT location. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6def3aa1-8ec0-4397-a8e3-e7cf1db354e1.jpg?ver=1509464897000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+  img_alt: 'CHEESETOPIA | MARK YOUR CALENDAR '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/04fdc65a-e1f6-47a2-a280-76c8f331efc9.jpg?ver=1509464897000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_Weekly_Email_NORTH'
+  img_alt: 'Experience the ultimate in gourmet cheese at our annual Cheesetopia Tasting Event. THIS SATURDAY NOVEMBER 4TH 12 NOON-5PM | RYE BROOK & SCARSDALE, NY | GREENWICH & WESTPORT, CT | MORE INFO > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a44f60e0-f6d8-4df9-8a73-05b23396aa9b.jpg?ver=1509464897000'
+
