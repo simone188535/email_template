@@ -1,0 +1,127 @@
+title: 'Cheers to bottle time!'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_Logo_CA.jpg"
+logo_img_alt: "buybuy CA Baby Logo"
+logo_img_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/?"
+
+freeshipping_img_url: "images/bbB_emailheader_FreeShipping_CA.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 View Details "
+freeshipping_img_link: "http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/"
+
+instore_img_url: "images/bbB_emailheader_InStore_CA.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.bedbathandbeyond.ca/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_RegistryLogo_CA.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/"
+
+nav1_url: "images/bbB_emailheader_NAV1_CA.jpg"
+nav1_alt: "baby nursery"
+nav1_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/22927"
+
+nav2_url: "images/bbB_emailheader_NAV2_CA.jpg"
+nav2_alt: "nursing &amp; feeding"
+nav2_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/22936/"
+
+nav3_url: "images/bbB_emailheader_NAV3_CA.jpg"
+nav3_alt: "bath &amp; potty"
+nav3_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Find a store'
+preheader_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE=H'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: 'ATTENTION CANADIAN MILITARY & VETERANS! Thank you for your service! Regular Force, Reserve Force, Non-Commissioned Members, DND, Retirees, Veterans and Military Spouses IN HONOR OF REMEMBRANCE DAY Canadian Armed Forces  Appreciation Event! Thursday, November 9th - Sunday, November 12th 25% OFF YOUR ENTIRE PURCHASE* In-Store Only! Canadian Armed Forces ID REQUIRED at time of purchase. Valid forms of ID include: CFOne Card with Photo ID NDI 75 Cards Any Veterans Affairs Canada Benefit Card find a store'
+  img_url: 'images/110817_RemembranceDay_CANADA_v1_r1_FNL_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: 'BED BATH & BEYOND® buybuy BABY® Offer cannot be combined with any other coupon or savings certificate '
+  img_url: 'images/110817_RemembranceDay_CANADA_v1_r1_FNL_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: 'Valid in-store only. Copies not accepted. Limit one coupon, Savings Certificate, special offer or discount per item; cannot be combined with a price match. Coupon valid for one use only; electronic copies of physical coupons are treated as one coupon. Any return of purchase will reduce your savings proportionately. The costs of shipping or delivery; taxes or gift cards are not counted toward any minimum purchase required, and coupon cannot be applied to such items. Not valid for wholesale purchases; No discounts or other offers can be applied to payment of membership program fees. Company reserves the right to limit quantities. Valid only in Canada. Offer excludes the following: A Pea in the Pod, Alessi, All-Clad, Amazon, Austlen, Baby Jogger, Baby Tula, BABYZEN, BÉABA, bloom, BOB, BRITAX, Breville Cookware, Breville Oracle,  Breville Precision Brewer, Breville Smart Oven Air Convection Oven, Bugaboo, clek, CYBEX, Diono, DKNY, DockATot, doona, Dyson, Fitbit, franklin & ben, Global Cutlery, Google, HALO Bassinest, HALO SnoozyPod, HP Sprocket, Joolz, kate spade, Kenneth Cole, Jura, Lenox, Le Creuset, Lladró, Magnolia Home, Maxi-Cosi, Medela, Michael Aram, Miele, Motherhood Maternity, Nuna, Nautica, Nest, Owlet, Peg Pérego, Petunia Pickle Bottom, Philips Hue, PlayStation, Quinny, Reliable, Ring, Roomba Vacuums, Shun, Sphero, Star Wars Battle Quads, Stokke, storksak, Svan, Thule, UGG, Under Armour, UPPAbaby, Vera Bradley, Vera Wang, Victorinox Luggage, Vitamix, Waterford, Wedgewood, Wusthof, diapers, wipes, formula, baby food, or portrait studio services. Alcoholic beverages excluded where required by law. Additional online items excluded: Bosch Stand Mixers, Dimond, iComfort, George Kovacs, Karastan, Luminox Watches, Metropolitan, Minka Aire, Minka Lavery, Napolean Grills, Nutrimill, Quoizel, simplehuman sensor mirror pro, or power tools.'
+  img_url: 'images/110817_RemembranceDay_CANADA_v1_r1_FNL_04.jpg'
+
+# - type: 'image'
+#   img_link: 'https://www.bedbathandbeyond.ca/store/s/babybrezza-3-pack-polypropylene-bottles'
+#   img_alt: '3-Pack Polypropylene Bottles Available in 5 oz & 8 oz 32.99 each '
+#   img_url: 'images/bbB_092617_Babybrezza_CA_06.jpg'
+
+# - type: 'image'
+#   img_link: ''
+#   img_alt: 'more from baby brezza®'
+#   img_url: 'images/bbB_092617_Babybrezza_CA_07.jpg'
+
+# - type: 'image-2-columns'
+#   img_link: 'https://www.bedbathandbeyond.ca/store/s/babybrezza'
+#   img_alt: 'One-Step Bottle Sterilizer and Dryer Natural steam kills 99.9% of germs in your baby&#39;s bottles in just 8 minutes 149.99 FREE SHIPPING'
+#   img_url: 'images/bbB_092617_Babybrezza_CA_08.jpg'
+#   img_2_link: 'https://www.bedbathandbeyond.ca/store/product/babybrezza-reg-safe-and-smart-bottle-warmer-with-bluetooth-in-white/1061908888'
+#   img_2_alt: 'Safe and Smart Bottle Warmer with Bluetooth® Features 2 warming options: steady for breastmilk, or fast for formula 99.99 FREE SHIPPING'
+#   img_2_url: 'images/bbB_092617_Babybrezza_CA_09.jpg'
+
+
+# - type: 'image'
+#   img_link: 'https://www.bedbathandbeyond.ca/store/s/babybrezza'
+#   img_alt: 'works with all bottle sizes! Formula Pro Formula Dispenser Prepare a perfect bottle with the push of a button. Bottles are ready in seconds! 199.99 FREE SHIPPING'
+#   img_url: 'images/bbB_092617_Babybrezza_CA_10.jpg'
+
+# - type: 'image'
+#   img_link: 'https://www.bedbathandbeyond.ca/store/s/babybrezza'
+#   img_alt: 'shop baby brezza®'
+#   img_url: 'images/bbB_092617_Babybrezza_CA_11.jpg'
+
+# - type: 'image'
+#   img_link: 'https://www.bedbathandbeyond.ca/store/category/what-s-new/baby-kids/22367/'
+#   img_alt: 'what&#39;s new shop what&#39;s new'
+#   img_url: 'images/bbB_092617_Babybrezza_CA_12.jpg'
+
+# - type: 'image'
+#   img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/health-safety/cleaning-products/22956/'
+#   img_alt: 'squeaky clean shop now'
+#   img_url: 'images/bbB_092617_Babybrezza_CA_13.jpg'
+
+socialnav:
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
