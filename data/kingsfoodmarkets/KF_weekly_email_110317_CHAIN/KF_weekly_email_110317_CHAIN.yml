@@ -1,0 +1,172 @@
+title: 'Get Ready to Gather & Gobble + $20 OFF Gocery Delivery'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/389a12c0-3a19-4b29-a1b0-12f32b189258.jpg?ver=1509382949000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e5a09551-0237-4388-a406-bc04f7a04f2e.jpg?ver=1509382950000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8cca0489-8883-4c47-aefa-04cc14ca5a6a.jpg?ver=1509382950000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/933bf00a-714c-441c-9dce-edd8a4fcbaf1.jpg?ver=1509382950000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/20aec8d8-cf28-462e-9259-65525311fc95.jpg?ver=1509382946000"
+  img_alt: "THANKSGIVING PREP | Check off your to-do list with complete Thanksgiving dinners, freshly baked desserts and more."
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5d9a1c91-f3ce-4f9b-8bdc-f300c68b6884.jpg?ver=1509382946000"
+  img_alt: "NEW! GROCERY DELIVERY"
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/90a1e3ea-ebab-4116-be48-2dfde63c3b84.jpg?ver=1509382946000"
+  img_alt: "NEW! Fast. Fresh. Delivered. Check your zip code for availability. LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9f120443-5b96-4509-b771-53e47a269e0e.jpg?ver=1509382946000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d865bc19-b17d-44cb-9c90-7707e8dbe09c.jpg?ver=1509382947000"
+  img_alt: "members extra! SAVINGS SAVE $3 lb.KINGS FRESH TURKEY MEATBALLS OR MEATLOAF members pay 3.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7acc3f19-c7a0-4111-99e6-d0a73b98ba23.jpg?ver=1509382947000"
+  img_alt_2: "members extra! SAVINGS  SAVE $5 lb. EMMI GRUYÈRE IMPORTED FROM SWITZERLAND members pay 17.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3a0242a7-b216-4b5a-ae61-5b6f6c5b4156.jpg?ver=1509382947000"
+  img_alt: "VIEW WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/21168995-a562-4a99-97d6-482c8392c919.jpg?ver=1509382947000"
+  img_alt: "DINNER IS DONE! CATER YOUR FULL THANKSGIVING DINNER WITH KINGS"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/thanksgiving-catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9868b352-9bc7-4799-aa50-da5ae7c6215d.jpg?ver=1509382947000"
+  img_alt: "Take the fuss out of the feast! Order your full Thanksgiving dinner and enjoy more time with family and friends!"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/thanksgiving-catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/65fc57f9-1465-4d25-8f87-81354c266743.jpg?ver=1509382948000"
+  img_alt: "SELECT YOUR TURKEY ENTRÉE + 3 SIDES + 2 EXTRAS"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/thanksgiving-catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e9a40953-bdf8-4f7f-93e3-2f9c8df44380.jpg?ver=1509382948000"
+  img_alt: "START YOUR ORDER NOW >"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/thanksgiving-catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/105bc553-bafe-4eae-b56e-af78337d76cf.jpg?ver=1509382948000"
+  img_alt: "FRESH BAKED THANKSGIVING DESSERTS"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/44099fcf-c6d6-498d-ad35-7208735a6d04.jpg?ver=1509382948000"
+  img_alt: "KINGS PATISSERIE PUMPKIN TART"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/539da4f1-1911-4d01-bc54-c239a95171a4.jpg?ver=1509382948000"
+  img_alt: "FRESH FRUIT TART"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/56ec0806-ed0e-4426-adf9-e6a2f1d8859e.jpg?ver=1509382948000"
+  img_alt_2: "PECAN PIE"
+  url_2: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/10a02a97-422d-46ad-9a99-66c55eb917d6.jpg?ver=1509382949000"
+  img_alt: "WHAT&#39;S NEW IN STORE "
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f843c7ab-4993-4a5f-b5ad-540db63a6cad.jpg?ver=1509382949000"
+  img_alt: "WARM WINTER DISHES COOKING CLASS Join our cooking studio class and learn how to prepare Creamy Pasta Shells with Aged Piave and more! NOVEMBER 9TH 6-9PM | REGISTER NOW > "
+  url: "https://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a903e5bf-a883-40a7-8b24-6fd51b19b916.jpg?ver=1509382949000"
+  img_alt: "MONINI OLIVE OIL Italy&#39;s #1 selling extra virgin olive oil is obtained from a high quality selection of Italian, Spanish and Greek olives, and has a balanced flavor and aroma for all cooking preparations."
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4b4eddad-7e4d-4c9a-b79b-efa6c04c9a9d.jpg?ver=1509382949000"
+  img_alt: "BREAD LOVERS REJOICE ACE Bakery Breads are now available at Kings. This artisan bakery produces remarkable baguettes, specialty loaves, gourmet rolls and buns."
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b296d358-117d-40bc-b575-6cc5862ae897.jpg?ver=1509382949000"
+  img_alt: "KIDS 360 Kids 360 and these products support LOCAL CHILDREN&#39;S CHARITIES. Visit Kids360charity.org for more information and a chance to WIN $1,000 IN GROCERIES. LEARN MORE > "
+  url: "http://kids360charity.org/"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

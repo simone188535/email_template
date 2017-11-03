@@ -1,0 +1,78 @@
+title: 'The Holiday Preview Spectacular Sale Starts Today!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_103117_Email_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer11_02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=discount_home_decor&utm_content=homepage"
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_103117_Email_02.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer11_02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_103117_Email_03.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer11_02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=find_a_store&utm_content=locations"
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_103117_Email_04.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer11-02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'Unique Décor & Great Deals, Need We Say More?'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_110217_Email_02.gif'
+  image_alt: 'THE HOLIDAY PREVIEW SPECTACULAR GOING ON NOW! VIEW AD (New Arrival) NOW & WOW 14.99 Sale Up To $29.99 AT OTHER STORES LED Animated Projector Assorted designs. Auto timer. SHOP EARLY FOR GREAT SELECTION ON OUR BEST SELLERS AT THE BEST PRICES!'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer11-02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=holiday_preview_spectacular&utm_content=view_ad'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_110217_Email_03.jpg'
+  image_alt: 'NOW & WOW 7.99 Sale Up To $19.99 AT OTHER STORES Solar Christmas Lantern with 39&#34; Shepherd&#39;s Hook Stake (Pre-Lit) 79.99 Sale UP TO $199.99 AT OTHER STORES 7.5&#39; x 41&#34; Pre-Lit Noble Pine Tree 904 branch tips. 500 clear lights. 1.49 | 12&#34; 75 tips 4.99 | 24&#34; 190 tips 14.99 | 36&#34; 290 tips 2.99 | 9&#39; x 6&#34; Noble Garland Pine 160 tips UP TO $39.99 AT OTHER STORES Noble Pine Wreaths NOW & WOW 16.99 Sale Up To $39.99 AT OTHER STORES 6&#39; x 38&#34; Noble Pine Tree Green or white. 380 branch tips. NOW & WOW 1.99 Sale Up To $9.99 AT OTHER STORES 2.5&#34; x 10yd Wire Edge Christmas Ribbon Large selection. (SALE! 20% off OUR ALREADY LOW PRICES) ALL Decorative Holiday Mesh Large selection. SALE PRICE: $5.59-$10.39 UP TO $19.99 AT OTHER STORES 22&#34; X 22&#34; | 12&#34; X 36&#34; | 12&#34; X 18&#34; | 6&#34; X 36&#34;(SALE! 20% off OUR ALREADY LOW PRICES) ALL Framed & Canvas Art SALE PRICE: $1.99-$159.99 UP TO $249.99 AT OTHER STORES (NEW ARRIVAL) (SALE! 20% off OUR ALREADY LOW PRICES) ALL Lamps Selection varies by store. SALE PRICE: $10.39-$47.99 UP TO $99.99 AT OTHER STORES AREA RUGS ON SALE NOW & WOW 39.99 Sale Up To $149.99 AT OTHER STORES 5&#39; x 7&#39; Area Rugs Selection varies by store. Sizes are approximate. NOW & WOW 79.99 Sale Up To $299.99 AT OTHER STORES 8&#39; x 10&#39; Area Rugs Selection varies by store. Sizes are approximate. SALE PRICES UP TO 65% OFF OTHER STORES&#39; PRICES'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer11-02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=sale_prices_up_to_65off_other_stores&utm_content=now_and_wow'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_110217_Email_04.jpg'
+  image_alt: 'VIEW AD'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer11-02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=holiday_preview_spectacular&utm_content=view_ad'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_103117_Email_09.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @oldtimepottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer11_02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=otp_instagram&utm_content=get_inspired'
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer11_02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer11_02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=otp_store_locations&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer11_02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=otp_store_blog&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer11_02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer11_02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer11_02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer11_02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=otp_youtube&utm_content=youtube"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer11_02&utm_medium=email&utm_campaign=holiday_preview_spectacular_starts_today&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""
