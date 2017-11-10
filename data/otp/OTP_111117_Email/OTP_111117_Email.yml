@@ -1,0 +1,104 @@
+title: 'Saturday Sale Prices Make it Merrier!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_103117_Email_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=discount_home_decor&utm_content=homepage"
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_103117_Email_02.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_103117_Email_03.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=find_a_store&utm_content=locations"
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_103117_Email_04.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'More Holiday Deals Inside!'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_111117_Email_02.jpg'
+  image_alt: 'SHOP, DECORATE & BE MERRY! (VIEW AD) SALE! 20%off OUR ALREADY LOW PRICES Christmas Décor Select group. Assorted. SALE PRICE: $7.19-$63.99 UP TO $139.99 AT OTHER STORES DASH IN FOR THE $15 MILLION CHRISTMAS SPECTACULAR SALE!'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=20_percent_off_christmas_d%C3%A9cor&utm_content=oh_what_fun_it_is_to_save'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_111117_Email_03.jpg'
+  image_alt: '9.99sale UP TO $19.99 AT OTHER STORES Christmas Cookie Jars Assorted. | 9.99sale UP TO $19.99 AT OTHER STORES 10&#34; Lighted Top Hats | (Pre-Lit) 49.99sale UP TO $169.99 AT OTHER STORES 6.5&#39; X 40&#34; Pre-Lit Kingston Pine Tree 600 branch tips, 400 clear lights.  | (Pre-Lit) 99.99sale UP TO $249.99 AT OTHER STORES 7.5&#39; x 48&#34; Pre-Lit Briarwood Pine Tree With pine cones and red berries 1,156 branch tips, 650 clear lights.  | 7.99sale UP TO $19.99 AT OTHER STORES 14&#34;-15&#34; Nutcrackers Large selection.  |  now&wow 9.99sale UP TO $24.99 AT OTHER STORES Christmas Decorated Wreaths Assorted.'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=20_percent_off_christmas_d%C3%A9cor&utm_content=pre-lit_trees'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_111117_Email_04.jpg'
+  image_alt: 'SALE! 20%off OUR ALREADY LOW PRICES Christmas Melamine Dinnerware & Serveware SALE PRICE: 95¢-$2.39 UP TO $4.99 AT OTHER STORES  | now&wow 12.99sale UP TO $29.99 AT OTHER STORES Select 4&#39; Lighted Inflatables'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=20_percent_off_christmas_d%C3%A9cor&utm_content=dinnerware_and_inflatables'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_111117_Email_05.jpg'
+  image_alt: 'REFRESH YOUR HOME FOR HOLIDAY GUESTS  |  39.99sale UP TO $149.99 AT OTHER STORES 5&#39; X 7&#39; Area Rugs Selection varies by store. Sizes are approximate. PLUS 20% OFF Runner & Scatter Rugs  |  SALE 20%off OUR ALREADY LOW PRICES (WIDE SELECTION) ALL Accent Furniture Selection varies by store. SALE PRICE: $39.99-$239.99 UP TO $329.99 AT OTHER STORES  | SALE PRICES UP TO 65%off OTHER STORES&#39; PRICES!'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=20_percent_off_christmas_d%C3%A9cor&utm_content=rugs_and_furniture'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_111117_Email_06.jpg'
+  image_alt: 'VIEW AD'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=20_percent_off_christmas_d%C3%A9cor&utm_content=view_ad'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_111117_Email_07.jpg'
+  image_alt: 'In appreciation of our Veterans, Active Military & their Families 10% OFF MILITARY DISCOUNT EVERY DAY'
+  image_link: 'http://oldtimepottery.com/military-discount-program/#utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=military_discounts_everyday&utm_content=10_percent_off_for_the_military'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_111117_Email_08.jpg'
+  image_alt: '(Santa&#39;s TOY SHOP!) FIND THE TOYS THEY WANT FOR LESS'
+  image_link: 'http://oldtimepottery.com/departments/seasonal/santa-s-toy-shop.html#utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=christmas_toys_for_less&utm_content=santas_toy_shop'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_111117_Email_09.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=otp_instagram&utm_content=get_inspired'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_111117_Email_10.jpg'
+  image_alt: 'SALE PRICES All Season Long! NEW SALES START EVERY THURSDAY!'
+  image_link: '#'
+
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=otp_store_locations&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=otp_store_blog&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=otp_youtube&utm_content=youtube"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer11_11&utm_medium=email&utm_campaign=saturday_sale_prices_make_it_merrier&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""

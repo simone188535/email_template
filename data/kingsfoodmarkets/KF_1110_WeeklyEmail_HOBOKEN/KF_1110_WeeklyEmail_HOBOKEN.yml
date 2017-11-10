@@ -1,0 +1,149 @@
+title: 'Bird&#39;s the Word! We&#39;ve got tons of turkey tips.'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/389a12c0-3a19-4b29-a1b0-12f32b189258.jpg?ver=1509382949000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e5a09551-0237-4388-a406-bc04f7a04f2e.jpg?ver=1509382950000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8cca0489-8883-4c47-aefa-04cc14ca5a6a.jpg?ver=1509382950000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/933bf00a-714c-441c-9dce-edd8a4fcbaf1.jpg?ver=1509382950000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/995df251-6ca6-4a12-bf58-c983ff223f43.jpg?ver=1510066270000"
+  img_alt: "LET&#39;S TALK TURKEY We proudly offer the best turkey selection–pre-order with your butcher today!"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/647028bc-d6dc-4e23-9200-9e44378042d7.jpg?ver=1510066270000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fb8251ba-8b71-4d36-a450-0f5198c5da61.jpg?ver=1510066271000"
+  img_alt: "members extra! SAVINGS SAVE UP TO $1.90 lb. KINGS BELL & EVANS FRESH SPLIT OR WHOLE CHICKEN BREASTS members pay 2.99 LB. "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2d2f0a11-4769-4e0c-9cc9-5c1d20ef7751.jpg?ver=1510066271000"
+  img_alt_2: "members extra! SAVINGS SAVE $5 lb. SAINT ANGEL TRIPLE CRÈME BRIE members pay 16.99 LB. "
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/93f87a62-5cd6-43ee-a564-ae86eb395e0f.jpg?ver=1510066271000"
+  img_alt: "View More Specials and Make a List VIEW HOBOKEN WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ae3df741-8c8f-4738-9771-82592d4f184c.jpg?ver=1510066271000"
+  img_alt: "THE BEST TURKEY SELECTION We proudly offer a variety of turkey options for your Thanksgiving dinner."
+  url: "https://kingsfoodmarkets.com/unique-recipes/turkey-101?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f24e1917-f1f7-40bf-a981-6ac186dc7b9f.jpg?ver=1510066271000"
+  img_alt: "LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/unique-recipes/turkey-101?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fe2bc36b-c2e8-4d9e-a66a-bf917768f7e8.jpg?ver=1510066272000"
+  img_alt: "NO-FUSS FEAST THANKSGIVING CATERING Let us do the cooking while you enjoy family and friends! View our menus and start planning your order now."
+  url: "https://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f247544c-2147-4d35-bbfc-0b5637aa8116.jpg?ver=1510066272000"
+  img_alt: "FREE SAMPLES Sample our Thanksgiving catering menu in stores this weekend! SATURDAY 11/11 & SUNDAY 11/12 FROM 11AM - 2PM in the deli department. *Select stores LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1b6af027-f3e1-4f1a-9a21-ad7b29f4eb5d.jpg?ver=1510066272000"
+  img_alt: "NEW! ORDER ONLINE"
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f28bf13c-717a-4e89-9a1f-6a1f2da29eee.jpg?ver=1510066272000"
+  img_alt: "NEW! Fast. Fresh. Delivered. Check your zip code for availability. $20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER* POWERED BY INSTACART LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken" 
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/389c8616-ff31-4320-80df-db55124413e8.jpg?ver=1510066272000"
+  img_alt: "WHAT&#39;S NEW IN STORE"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/145fe9a0-dc2f-479b-a2fd-5406851c247e.jpg?ver=1510066272000"
+  img_alt: "Gobble Gobble KINGS TURKEY DRIVE We&#39;ll be collecting turkeys and food items at select stores. NOVEMBER 18 | 9AM-2PM Short Hills, Gillette, Hillsdale & Garwood"
+  url: "https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c4f38f4e-5bef-4bb5-a809-1df9bdb75067.jpg?ver=1510066272000"
+  img_alt: "PACIFIC BOGO Stock your pantry with Thanksgiving recipe basics. Buy any Pacific Broth, Stock or Soup 32 oz. and GET 1 PACIFIC STUFFING FREE! THRU 11/23 "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/32402ea4-96ae-4206-bea1-758279e34d23.jpg?ver=1510066273000"
+  img_alt: "NEW! PICKALS TASTING Stop by select Kings stores all weekend long to sample PICKALS—the bold, crunchy pickle that raises funds for ALS. NOVEMBER 10-12 | 10AM-2PM LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1110_KF_WeeklyEmail_Hoboken"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
