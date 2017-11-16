@@ -1,0 +1,103 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/61bc5693-38ec-4c50-9dfd-9d5625c1cccd.jpg?ver=1510784445000'
+  img_alt: 'Wine Newsletter November 2017'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/91b64475-b5a8-4440-849a-8ba90850ade0.jpg?ver=1510784446000'
+  img_alt: 'WINE & FOOD EVENT SATURDAY, NOVEMBER 18TH Food Tasting:  12pm-5pm Wine Tasting: 2pm-5pm FEATURING • Wines for Thanksgiving • Top Scoring Wines • Extreme Value Wines • Holiday Menu Tastings '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1e7721ae-7730-4d52-bee2-9835256d75c2.jpg?ver=1510784446000'
+  img_alt: 'Thanksgiving for food lovers is bigger than the game! Don&#39;t miss this holiday tasting extravaganza featuring our top picks. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2fe5720b-6180-48e4-b884-2876eeab3cb8.jpg?ver=1510784446000'
+  img_alt: 'APERITIF '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b38bef30-17a6-4faa-9119-6e45a0b62b12.jpg?ver=1510841616000'
+  img_alt: 'Balducci&#39;s Prosecco 12.99/BTL Hailing from the famous Gasparini estate near the town of Venegazzu, our Prosecco is lively, toasty and creamy with hints of hazelnut and candied fruits and a long, refreshing finish. Perfect as an aperitif.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/aec0ae90-4e76-4bf1-9b51-b007e7fcef9f.jpg?ver=1510841616000'
+  img_alt: 'Tabali Vetas Blancas Chardonnay 16.99/BTL &#34;Intense Chardonnay loaded with fresh fruit/citrus notes and minerality. The French oak barrel ageing adds just the right complexity.&#34; -Tim Healy, Wine Manager Balducci&#39;s Alexandria '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/08fb0f79-c836-41fb-9baf-e1a2e0cd4613.jpg?ver=1510784448000'
+  img_alt: 'THANKSGIVING | TURKEY PAIRINGS '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/242e57b2-8c7f-48e3-96ca-96dcf8477a0c.jpg?ver=1510841617000'
+  img_alt: 'Pairing wine with turkey is easy. Thanksgiving brings an amazing and complex range of flavors to the table, demanding wines that are both versatile and willing to stand in the background a bit. Look for red wines with lower alcohol and higher acidity, like Barbera or Pinot Noir, and whites with no oak, like Pinot Gris. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e405cddd-4d42-44cb-83d7-efb8828c87bb.jpg?ver=1510841617000'
+  img_alt: 'Paul Hobbs Crossbarn Pinot Noir 2014 29.99/BTL REG: $44.99 &#34;This knockout winner exhibits smoky barbecue notes, baking spice, black currant and black cherry fruit, and medium to full body, but the purity of fruit and lusciousness and head-turners.&#34;-Robert Parker 92pts. The classic Thanksgiving turkey wine pairing. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cc46a3cc-4f83-4890-883d-4dddd5710603.jpg?ver=1510841617000'
+  img_alt: 'Tegernseerhof Grüner Veltliner 2016 16.99/BTL &#34;Having lived, worked and held Thanksgiving dinner in Austria, I can personally attest to this perfect pairing! Beautifully balanced and powerful with a dry, mineral-driven finish.&#34;- Peter Bishop, Wine Manager Balducci&#39;s Bethesda A tremendous white for Thanksgiving dinner. '
+  
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/46505c2d-768b-4411-af5c-58079f6e0142.jpg?ver=1510841617000'
+  img_alt: 'Balducci&#39;s Cabernet 2012 24.99/BTL &#34;Having played a role in defining the blend for this incredible Cabernet, I&#39;m beyond partial to its juicy, fruit-forward character and long, seductive finish. Everyone must drink this wine!&#34;- Mark Magness, Wine Manager Balducci&#39;s McLean'
+
+# - type: 'image'
+#   url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email'
+#   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3d1cbad9-2cfa-46d8-857f-b05f6d7072c4.jpg?ver=1481638885000'
+#   img_alt: 'Something with a &#34;WOW&#34; factor… La Rioja Alta Gran Reserva 2005  59.99/BTL *Availability Limited! &#34;One look, one whiff, one taste and you’re swooning. This mature, tawny, ready-to-drink gran reserva with aromas of lemon peel, cedar and dried cherry is the epitome of elegance.&#34; -Wine Enthusiast 96pts., #1 Wine of the Year 2016 -Robert Parker 96pts.'
+
+# - type: 'image'
+#   url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email'
+#   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c3297ab4-5850-458d-b471-5e3351fdaa7e.jpg?ver=1481638885000'
+#   img_alt: 'Meant to cap the night off… Taylor Fladgate 20 Year Tawny Port 2014 55.00/BTL &#34;Rich, with a spicy nose, this wine offers flavors  of fig, dried apricot, mango and ginger. Complex  and elegant, delivering concentrated crème  brûlée and tropical fruit notes that linger on  the vibrant and buttery finish. Drink now.&#34; -Wine Spectator 93pts.'
+
+# - type: 'image'
+#   url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_Wine_Newsletter_Email'
+#   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b067bf23-b159-41b1-b255-756b89731706.jpg?ver=1481638885000'
+#   img_alt: 'Serving Tips | Temperature Matters Get the most out of your wine this holiday season! -John Coleman, Balducci&#39;s Wine Merchant Too often we serve our reds too warm and our whites too cold.  Red wines: For a richer texture  on the palate and a red that  shows better fruit, serve at cellar temperature: 60-65°F. White wines: For a more  full-bodied flavor, serve whites  at a crisp 4 -50°F. Our rule of thumb: 20 minutes before service, bring your white wines out of the refrigerator and put your red wines in!'
