@@ -1,0 +1,200 @@
+title: 'TOP T-Day essentials to finalize your feast.'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/389a12c0-3a19-4b29-a1b0-12f32b189258.jpg?ver=1509382949000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e5a09551-0237-4388-a406-bc04f7a04f2e.jpg?ver=1509382950000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8cca0489-8883-4c47-aefa-04cc14ca5a6a.jpg?ver=1509382950000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/933bf00a-714c-441c-9dce-edd8a4fcbaf1.jpg?ver=1509382950000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a57ce538-0606-47bc-91e7-2e3c832eba3f.jpg?ver=1511273522000"
+  img_alt: "HAPPY THANKSGIVING! Wishing you warm thoughts and full bellies."
+  url: "https://kingsfoodmarkets.com/thanksgiving101?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/60b54be3-1247-47c3-94df-1aab02cae859.jpg?ver=1511273523000"
+  img_alt: "VIEW THANKSGIVING RECIPES >"
+  url: "https://kingsfoodmarkets.com/thanksgiving101?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/126e7572-714a-4f55-8e31-4501ff2d0b16.jpg?ver=1511273523000"
+  img_alt: "IT&#39;S NOT TOO LATE! THANKSGIVING CATERING "
+  url: "https://kingsfoodmarkets.com/catering-by-kings/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a29da4ab-b170-4aa8-bb26-f96ad205ba65.jpg?ver=1511273523000"
+  img_alt: "ORDER YOUR CATERING NOW! This year, spend more time with friends and family. We&#39;re preparing mouth-watering, perfectly moist turkey, delectable sides and delicious desserts."
+  url: "https://kingsfoodmarkets.com/catering-by-kings/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4afea577-2bd5-4177-b9c0-28bad37d44da.jpg?ver=1511279066000"
+  img_alt: "VIEW MENU >"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/34234d1a-cd8d-494a-832c-21ae27f50fae.jpg?ver=1511279067000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/077f229d-4420-4d88-bc19-109e35d37889.jpg?ver=1511279067000"
+  img_alt: "members extra! SAVINGS SAVE $2 lb. KINGS USDA PRIME CERTIFIED ANGUS BEEF PETITE SIRLOIN STEAK 8.99 LB. "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eaa43711-f4a0-4118-8b7c-21ac048a9883.jpg?ver=1511279067000"
+  img_alt_2: "members extra! SAVINGS SAVE $2.30 lb. KINGS CHAIRMAN&#39;S RESERVE FRESH PORK TENDERLOINS 3.99 LB. "
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2ddad49-2ccc-4ed8-8d71-8fae394c5a06.jpg?ver=1511279068000"
+  img_alt: "members extra! SAVINGS SAVE $1 lb. FROMMAGE D&#39;AFFINOIS PLAIN 16.99 LB. "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85f93ec2-42f8-4978-a1ae-98a19f8d6be5.jpg?ver=1511279068000"
+  img_alt_2: "members extra! SAVINGS SAVE $1 PEELED & CUBED BUTTERNUT SQUASH 20 OZ. 3.99 EA. "
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7eddde5d-3251-42dd-853a-a999d9db326c.jpg?ver=1511279068000"
+  img_alt: "View More Specials and Make a List VIEW HOBOKEN WEEKLY SALES "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/005a9843-6369-4b71-9f70-11b1dcb3a72f.jpg?ver=1511273525000"
+  img_alt: "BLACK FRIDAY DEALS ALL WEEK LONG"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec58ce21-2257-4a8d-b659-ff33a5ab0bdd.jpg?ver=1511273526000"
+  img_alt: "Stop by and discover over 50 BOGO SPECIALS throughout the store! Sale starts 11/24/17. While supplies last. BOGO BUY ONE GET ONE "
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2c1931f-8d2d-405a-97b3-6719f852bd01.jpg?ver=1511273526000"
+  img_alt: "BOGO"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/277de4ae-5de5-466e-b367-ebcf63e03d5a.jpg?ver=1511273526000"
+  img_alt: "ENTERTAINING THE EASY WAY"
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3183bb31-e152-41e8-98c6-e335a1a3bf99.jpg?ver=1511273526000"
+  img_alt: "Pick up a few SAVORY PLATTERS for SIMPLE STARTERS. "
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/aa5ea90a-ea32-4f33-9784-4e4c3c2d892b.jpg?ver=1511273527000"
+  img_alt: "KINGS ANTIPASTO PLATTER"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0da10620-534d-4bc0-82f1-acc1efeb50aa.jpg?ver=1511273527000"
+  img_alt_2: "KINGS CHEF PREPARED FRESH SUSHI AND SHRIMP PLATTERS"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e04c5d32-b296-41b5-bcfc-49e852e76807.jpg?ver=1511273527000"
+  img_alt_3: "KINGS CRUDITE AND CHEESE PLATTERS"
+  url_3: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5740ffbd-4975-4407-918f-649d8942e115.jpg?ver=1511273528000"
+  img_alt: "GRAB & GO DESSERTS are a PIECE OF CAKE!"
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image-4-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6e27dc53-77f7-4897-a6f9-232ddd008639.jpg?ver=1511273528000"
+  img_alt: "KINGS CLASSIC HOLIDAY PIES"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f23bddcb-72d3-4e6c-8124-362f250b263d.jpg?ver=1511273528000"
+  img_alt_2: "KINGS BROWNIE PLATTER"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/81d4fe77-d8a2-4aff-ad42-23d7c1cb8490.jpg?ver=1511273528000"
+  img_alt_3: "MINI ITALIAN PASTRY PLATTER"
+  url_3: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+  img_4: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/79963d15-7d7b-4433-8b9b-bbc9ffc701a7.jpg?ver=1511273529000"
+  img_alt_4: "ASHER&#39;S GOURMET PRETZEL PLATTER"
+  url_4: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0ae607ce-c833-47fa-81f3-9c108ef7c705.jpg?ver=1511273529000"
+  img_alt: "Consider your DECORATING DONE!"
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image-4-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d7ea282e-21d9-4b7d-a36d-6b83ffc11b0d.jpg?ver=1511273529000"
+  img_alt: "FANCY CORNUCOPIA"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/41023b70-e5ae-4110-9796-bc4110ae7c50.jpg?ver=1511273529000"
+  img_alt_2: "LARGE CORNUCOPIA"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/641adf7f-d580-4ac7-b50a-b53f891592ee.jpg?ver=1511273529000"
+  img_alt_3: "THE GOBBLER"
+  url_3: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+  img_4: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc2be017-793e-4703-9ab9-0219e302ba33.jpg?ver=1511273530000"
+  img_alt_4: "DOUBLE CANDLE"
+  url_4: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f133b70d-e5ca-4d4c-afcd-4a807aeeb4aa.jpg?ver=1511273530000"
+  img_alt: "HOLIDAY HOURS"
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e33f18a5-2329-4878-8a0a-8fe0486b98f4.jpg?ver=1511273530000"
+  img_alt: "HAPPY THANKSGIVING | OPEN ON THANKSGIVING | Mashed potato meltdown? Cranberry sauce crisis? Good news! WE&#39;RE OPEN THANKSGIVING DAY FROM 7AM-4PM. FIND A STORE "
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_KF_WeeklyEmail_Hoboken"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
