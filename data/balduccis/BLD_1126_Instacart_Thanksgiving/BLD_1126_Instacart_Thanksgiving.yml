@@ -1,0 +1,79 @@
+title: "Get $20 Off Grocery Delivery While You Shop Cyber Monday!"
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/69736c7c-210a-4a9a-83ea-0fa29577a95c.jpg?ver=1511291664000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2d18cca7-6f96-4247-a045-917078658bb3.jpg?ver=1511291664000'
+  img_alt: 'DON&#39;T FORGET TO USE YOUR PROMO CODE! BALDUCCIS20'
+
+- type: 'image'
+  url: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d7083e02-d9eb-4ff0-aff4-7605c7d53932.jpg?ver=1511291665000'
+  img_alt: 'DELICIOUS DELIVERED GROCERY DELIVERY IN AS LITTLE AS ONE HOUR START SHOPPING NOW > Powered by instacart'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bf37b6de-f63e-44f4-b6d2-049b23dc1f10.jpg?ver=1511291665000'
+  img_alt: '$20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER* ORDER ONLINE > WE SHOP > WE DELIVER Use promo code BALDUCCIS20 to receive $20 OFF your first order.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e711b665-1397-411d-86d7-6dbd1f4e7627.jpg?ver=1511291665000'
+  img_alt_2: '$20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER* ORDER ONLINE > WE SHOP > WE DELIVER Use promo code BALDUCCIS20 to receive $20 OFF your first order.'
+
+- type: 'image'
+  url: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f2742a2b-f181-4872-9f89-7c9e3c9bc7b4.jpg?ver=1511291665000'
+  img_alt: 'SEE HOW EASY IT IS TO SHOP '
+
+- type: 'image'
+  url: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/19ac0dc5-2a72-48a4-a3e3-d46cac75438e.jpg?ver=1511291666000'
+  img_alt: 'LEARN MORE > '
+
+- type: 'image'
+  url: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/08defed7-a047-463c-a625-b76622337764.jpg?ver=1511291666000'
+  img_alt: '*Use Promo Code BALDUCCIS20 to receive $20 off your first order of $35 or more.  $5.99 delivery fee waived with first order of $35 or more. Prices on Instacart match our everyday store prices; sale prices are not available online. myBalducci’s Rewards Card and benefits are not applicable with home delivery. $5.99 delivery fee with $35 minimum order. Optional 10% service charge applied during Instacart check out. ©2017 Balducci&#39;s'
+
+
+
+
+
+
+
+

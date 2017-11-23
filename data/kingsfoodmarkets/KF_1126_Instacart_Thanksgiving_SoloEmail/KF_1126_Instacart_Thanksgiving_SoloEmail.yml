@@ -1,0 +1,82 @@
+title: 'Shop Cyber Monday with $20 Off Grocery Delivery!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_KF_Instacart_Thanksgiving_SoloEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_KF_Instacart_Thanksgiving_SoloEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_KF_Instacart_Thanksgiving_SoloEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_KF_Instacart_Thanksgiving_SoloEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_KF_Instacart_Thanksgiving_SoloEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_KF_Instacart_Thanksgiving_SoloEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/389a12c0-3a19-4b29-a1b0-12f32b189258.jpg?ver=1509382949000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e5a09551-0237-4388-a406-bc04f7a04f2e.jpg?ver=1509382950000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8cca0489-8883-4c47-aefa-04cc14ca5a6a.jpg?ver=1509382950000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/933bf00a-714c-441c-9dce-edd8a4fcbaf1.jpg?ver=1509382950000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/54c5a718-ab39-4e7d-a4c5-3af55aaac839.jpg?ver=1511209928000"
+  img_alt: "DON&#39;T FORGET TO USE YOUR PROMO CODE! KINGS20"
+  url: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_KF_Instacart_Thanksgiving_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/83383a28-5cb6-4ef9-bfec-e16a7925ecab.jpg?ver=1511209928000"
+  img_alt: "FAST. FRESH. DELIVERED. IN AS LITTLE AS ONE HOUR START SHOPPING NOW > Powered by instacart"
+  url: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_KF_Instacart_Thanksgiving_SoloEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/184ae095-9f31-40fd-bc18-455456d3006e.jpg?ver=1511209928000"
+  img_alt: "$20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER"
+  url: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_KF_Instacart_Thanksgiving_SoloEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2df30351-ea1e-4bcd-ad40-48e739312595.jpg?ver=1511209928000"
+  img_alt_2: "ORDER ONLINE & WE SHOP & WE DELIVER Use promo code KINGS20 to receive $20 OFF your first order."
+  url_2: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_KF_Instacart_Thanksgiving_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f444fc7c-7d6b-4113-b7e6-1d9dc873641e.jpg?ver=1511209928000"
+  img_alt: "SEE HOW EASY IT IS TO SHOP"
+  url: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_KF_Instacart_Thanksgiving_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a8a6c9d1-7960-4dab-aebc-5430b83b2e39.jpg?ver=1511209929000"
+  img_alt: "LEARN MORE >"
+  url: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_KF_Instacart_Thanksgiving_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/752fde00-d39e-4e81-8ab6-ffe72cbc4c08.jpg?ver=1511209929000"
+  img_alt: "Use Promo Code KINGS20 to receive $20 off your first order of $35 or more.  $5.99 delivery fee waived with first order of $35 or more. Prices on Instacart match our everyday store prices; sale prices are not available online. myKINGS Extra Savings and offers are not applicable with home delivery. $5.99 delivery fee with $35 minimum order. Optional 10% service charge applied during Instacart checkout. ©2017 Kings Food Markets"
+  url: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_KF_Instacart_Thanksgiving_SoloEmail"
+
+
+
