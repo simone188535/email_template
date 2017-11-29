@@ -1,0 +1,183 @@
+#TITLE
+title: 'Shop holiday gifts'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 View Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "holiday & gifts"
+nav2_link: "https://www.buybuybaby.com/store/category/gifts-more/christmas/32732/"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Shop holiday gifts'
+preheader_link: 'https://www.buybuybaby.com/store/static/toystore/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/toystore/'
+  img_alt: 'Christmas morning must-haves shop now'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/toys-learning/toddler-toys/pretend-play/32800/'
+  img_alt: 'pretend play'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-laugh-learn-reg-servin-39-up-fun-food-truck/1061419414'
+  img_alt: 'Fisher-Price® Laugh & Learn® Servin&#39; Up Fun Food Truck 69.99 FREE SHIPPING'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/toys-learning/infant-toys/activity-walkers-tables/32797/'
+  img_alt: 'activity walkers & tables'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/vtech-super-star-learning-table/1044321666'
+  img_alt: 'vtech® Super Star Learning Table 39.99'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_06.jpg' 
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/evenflo-reg-exersaucer-reg-triple-fun-trade-world-explorer-activity-learning-center/1045535017'
+  img_alt: 'ExerSaucer® Triple Fun™ World Explorer Activity Learning Center 129.99 FREE SHIPPING'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_07.jpg' 
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/toys-learning/outdoor-play/push-pedal-ride-ons/32815/'
+  img_alt: 'push & pedal ride ons'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_08.jpg' 
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/s/joovy-tricycoo-4-1-tricycle'
+  img_alt: 'joovy® Tricycoo™ 4.1™ Tricycle Also available in pink Online only 139.99 FREE SHIPPING'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_09.jpg' 
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/licensed-mercedes-4-in-1-amg-push-car-in-red/1061357648'
+  img_alt: 'Licensed Mercedes 4-in-1 Push Car 99.99 FREE SHIPPING'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_10.jpg' 
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/toys-learning/toddler-toys/dolls-dollhouses/32801/'
+  img_alt: 'dolls & dollhouses'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_11.jpg' 
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-disney-reg-princess-magical-wand-palace/1061419391'
+  img_alt: 'Disney® Princess Magical Wand Palace by Fisher-Price® 49.99 FREE SHIPPING'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_12.jpg' 
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/category/toys-learning/toddler-toys/ball-pits/32804/'
+  img_alt: 'ball pits'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_13.jpg'
+  img_2_link: ''
+  img_2_alt: ''
+  img_2_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_14.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/drop-n-pop-ball-pit-in-green/1061286771'
+  img_alt: 'vtech® Drop & Pop Ball Pit™ 49.99 FREE SHIPPING'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_15.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/bright-starts-5-in-1-your-way-ball-play-activity-gym/1046982032'
+  img_2_alt: '5-in-1 Your Way Ball Play Activity Gym by Bright Starts 79.99 FREE SHIPPING'
+  img_2_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_16.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/toys-learning/books/30526/'
+  img_alt: 'books'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_17.jpg' 
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/the-very-hungry-caterpillar-by-eric-carle/1010234468'
+  img_alt: '&#34;The Very Hungry Caterpillar&#34; by Eric Carle 10.99 '
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_18.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/how-the-grinch-stole-christmas-by-dr-seuss/1018433460'
+  img_2_alt: '&#34;How the Grinch Stole Christmas!&#34; by Dr. Seuss 16.99'
+  img_2_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_19.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/toystore/'
+  img_alt: 'shop more toys'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_20.jpg' 
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States. '
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_21.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'creative, colorful, & fun! find a store'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_22.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/hanukkah/32731/'
+  img_alt: 'celebrate the Festival of Lights shop now'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_23.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/tcp'
+  img_alt: 'take a peek at our…special buys & deals shop now'
+  img_url: 'images/bbB_213_120617_Toys3_Category_v1_r5_FNL_24.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailfooter_03.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailfooter_04.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailfooter_05.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailfooter_06.jpg"
+  alt: "Pinterest logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailfooter_07.jpg"
+  alt: "YouTube logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailfooter_08.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_emailfooter_09.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
