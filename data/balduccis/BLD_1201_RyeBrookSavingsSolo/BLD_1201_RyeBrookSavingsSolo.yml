@@ -1,0 +1,150 @@
+title: 'Save $10 on Swordfish & Chocolate Mousse Cake'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+# #header
+# logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+# catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# catering_alt: 'CATERING'
+# chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# chef_prepared_alt: 'CHEF PREPARED'
+# store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# store_locator_alt: 'FIND A STORE'
+# my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+# #footer
+# footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__"
+# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+# footer_site_alt: "balduccis.com"
+# footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+# footer_facebook_alt: "facebook"
+# footer_twitter_link: "https://twitter.com/Balduccis"
+# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+# footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d944ef5a-28cf-4ab5-82f5-86cae5282f80.jpg?ver=1512078150000'
+  img_alt: "Balducci&#44;s® Food Lover&#44;s Market™ This Week&#44;s Picks in Rye Brook "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3aeb4f10-b49d-452b-9f83-a77f580c897f.jpg?ver=1512078151000'
+  img_alt: "Meat & Seafood Valid 12/1 - 12/7/17"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ca3d2218-be8f-46a9-9999-7a9a39204d5e.jpg?ver=1512078151000'
+  img_alt:  "Save 10.00 | Center Cut Swordfish Steak | Domestic | YOU PAY 14.99 LB. Save 5.00 | Loin Veal Chops | Tailless, Bone-in, Brush with olive oil & broil | YOU PAY 12.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12900990-d019-48f6-8bfb-e69c3f468e09.jpg?ver=1512078151000'
+  img_alt:  "Save 10.00 | Center Cut Swordfish Steak | Domestic | YOU PAY 14.99 LB. Save 5.00 | Loin Veal Chops | Tailless, Bone-in, Brush with olive oil & broil | YOU PAY 12.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8d6193aa-39e2-4c43-b87a-8ba0dc08ef93.jpg?ver=1512078151000'
+  img_alt: "Save 1.00 | Live Wild Caught Littleneck Clams, dozen | YOU PAY 7.99 EA."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8075d590-6253-4d76-9781-556af2907f3b.jpg?ver=1512078152000'
+  img_alt: "Save 1.00 | Fresh Store Made Beef Meatloaf | Ready to cook | YOU PAY 6.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/894ae819-8463-4353-8a6d-3df438449d1a.jpg?ver=1512078152000'
+  img_alt: "Cheese Savings Valid 12/1 - 12/7/17 Save 9.00 | Farmhouse Stilton Cheese | Aged to 15 wks, Mellow yet tangy & well-balanced  | YOU PAY 12.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6679658b-259b-432f-bf79-c41e3a6f7385.jpg?ver=1512078153000'
+  img_alt: "Save 5.00 | Red Wax Gouda | Holland's most famous export, Mild & nutty flavor | 6.99 LB."
+
+- type: 'image'
+  img_link: 'https://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/29ff4487-3ad0-49a1-842e-684152f0c668.jpg?ver=1512078153000'
+  img_alt: "CATERING | Whether it’s a dinner for family and friends or a corporate function, every catering order is assigned a professional Catering Coordinator to help with party advice, floral recommendations and more. | Call us at:1-866-278-8866 for your next event!"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b0c7cdeb-7eaf-46fe-93cf-f51866ffcd59.jpg?ver=1512078153000'
+  img_alt: "Produce, Bakery & More! Valid 12/1 - 12/7/17 Save 3.00 | Family Size Green Pre-Packed Salad | 9.99 EA. Save 10.00 | Balducci&#39;s 7&#34; French Chocolate Mousse Cake | You Pay 14.99 EA. "
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/47f597a8-2b19-44de-9b8d-09e41bad2638.jpg?ver=1512078153000'
+  img_alt: "Save 1.00 | Sweet Blackberries, 6 oz. | You Pay 3.99 EA. Save 1.00 | Fresh Green Asparagus | Long & tender | 3.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4ee1cb03-19b0-45da-a7be-d201f2db404b.jpg?ver=1512078154000'
+  img_alt: "Save 2.00 | Balducci&#39;s Spring Water 24PK, 405.6 fl oz. | You Pay 3.99 EA. Save 1.50 | King Arthur Organic Flour, 2 lbs. | You Pay 3.99 EA."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7c115656-5f5b-4d3e-bc83-f68426d2671f.jpg?ver=1512078154000'
+  img_alt: "Save 1.00 | Bays English Muffins, All Varieties, 12 oz. | You Pay 3.99 EA. Save 1.00 | 6&#34; Poinsettia Plant | Bright & festive for the season | You Pay 8.99 EA. 144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook"
+
+# - type: 'image'
+#   img_link: 'https://vimeo.com/161853111'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2c3ce043-af94-4609-9715-27655dabb0ee.jpg?ver=1509642887000'
+#   img_alt: "Save 3.00 | Norwegian Salmon Portions 2PK | 12 oz., Ready to broil or roast with fall vegetables | YOU PAY 16.98 EA."
+
+# - type: 'image'
+#   img_link: '#'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7ce81f11-4a36-47e3-96c4-43e27a6db168.jpg?ver=1509642887000'
+#   img_alt: "Save 50¢ | Local Oysters | Seasonal varieties | YOU PAY 1.49 EA."
+
+# - type: 'image'
+#   img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_RyeBrookSavingsSolo'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2c0ef79d-05cf-4f6c-8f5c-fe79917a3d94.jpg?ver=1509642887000'
+#   img_alt: "Cheese Savings Valid 11/3/17 - 11/9/17 Save 5.00 | Ossau Iraty | A traditional un-pasteurized, semi-soft cheese made from the milk of Manech ewes  | YOU PAY 19.99 LB."
+
+# - type: 'image'
+#   img_link: '#'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e43cad39-2256-4d56-b30b-8251f4545c14.jpg?ver=1509642888000'
+#   img_alt: "Save 5.00 | Lamb Chopper | Buttery & complex with a smooth texture | 21.99 LB."
+
+# - type: 'image'
+#   img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_RyeBrookSavingsSolo'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fce1de9e-3869-4393-89b9-dfc7d64bda12.jpg?ver=1509642888000'
+#   img_alt: "CATERING | Whether it&#39;s a dinner for family and friends or a corporate function, every catering order is assigned a professional Catering Coordinator to help with party advice, floral recommendations and more. | Call us at: 1-866-278-8866 for your next event!"
+
+# - type: 'image'
+#   img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_RyeBrookSavingsSolo'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0f140e8d-1ed6-4859-bf50-116314559b52.jpg?ver=1509642889000'
+#   img_alt: "Produce, Bakery & More! Valid 11/3/17 - 11/9/17 GET $2.00 OFF | Prepacked Grain & Noodle Bowls | 11-13 oz. | 6.49 EA."
+
+# - type: 'image'
+#   img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_RyeBrookSavingsSolo'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e3332486-9358-4117-87d8-2af06ab003b7.jpg?ver=1509642889000'
+#   img_alt: "Save 1.00 | Earthbound Farm Organic 5 oz. Salads | You Pay 3.99 EA. Save 2.00 | Cherry Tomatoes | Nature&#39;s Sweet, 10 oz. | You Pay 299 EA."
+
+# - type: 'image'
+#   img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_RyeBrookSavingsSolo'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0421c839-4b0c-4d52-a3d4-6d19d2f2089f.jpg?ver=1509642889000'
+#   img_alt: "Save 5.00 | Balducci&#39;s Pumpkin Tiramisu | You Pay 19.99 EA. Save 1.00 | Vintage Bouquet | You Pay 23.99 EA. Save 3.00 | Cento San Marzano Tomatoes, 90 oz. | You Pay 6.99 EA. Save 2.98 on 2 | Pacific Organic Free Range Chicken Broth, 32 fl oz. | You Pay 2/7.00 Save 7.90 on 10 | Dannon Greek Yogurt, all varieties, 5.3 oz. | You Pay 10/10.00"
+
+# - type: 'image'
+#   img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_RyeBrookSavingsSolo'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/648e1ee4-b050-47e5-9678-1cd101bde9de.jpg?ver=1509642889000'
+#   img_alt: "Save 5.00 | Balducci&#39;s Pumpkin Tiramisu | You Pay 19.99 EA. Save 1.00 | Vintage Bouquet | You Pay 23.99 EA. Save 3.00 | Cento San Marzano Tomatoes, 90 oz. | You Pay 6.99 EA. Save 2.98 on 2 | Pacific Organic Free Range Chicken Broth, 32 fl oz. | You Pay 2/7.00 Save 7.90 on 10 | Dannon Greek Yogurt, all varieties, 5.3 oz. | You Pay 10/10.00"
+
+# - type: 'image'
+#   img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1103_BLD_RyeBrookSavingsSolo'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3e8bf83b-5253-4424-be12-1a2efa41e8ed.jpg?ver=1509642889000'
+#   img_alt: "144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook"
+
