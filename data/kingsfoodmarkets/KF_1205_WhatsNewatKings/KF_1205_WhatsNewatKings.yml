@@ -1,0 +1,76 @@
+title: ''
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1205_KF_WhatsNewatKings'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1205_KF_WhatsNewatKings'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1205_KF_WhatsNewatKings'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1205_KF_WhatsNewatKings'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1205_KF_WhatsNewatKings'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1205_KF_WhatsNewatKings"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/963b7b0e-ec1e-445c-b9ce-17a157d47bea.jpg?ver=1481912589000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ab7d45fd-6956-402a-91d7-828bedf4ff4c.jpg?ver=1481912589000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7b176d03-2d4c-4ab2-b9fc-3d1a9556f137.jpg?ver=1481912589000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d9cfd47d-f0d5-4869-b808-394cd4f49277.jpg?ver=1481912589000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/62d60495-a610-41fa-b091-4fa8e5f9305b.jpg?ver=1512142625000"
+  img_alt: "WHAT&#39;S NEW IN STORE | MORE CHOICES AND MORE SOLUTIONS "
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1205_KF_WhatsNewatKings"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8fa67c03-0b1c-4094-8e9f-5e5832d907c3.jpg?ver=1512142625000"
+  img_alt: "LOCAL BEEF "
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1205_KF_WhatsNewatKings"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0d34e216-d674-4720-8e22-9da5bbb31c2a.jpg?ver=1512142625000"
+  img_alt: "We&#39;re supporting local farmers to bring you the best selection and quality. Humanely raised Angus beef from New York, Pennsylvania, Virginia & Maryland. LOCALLY SOURCED | HIGHEST QUALITY | STORE CUT "
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1205_KF_WhatsNewatKings"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d8331e1d-387a-4fc8-ad4f-78af62718459.jpg?ver=1512142625000"
+  img_alt: ""
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1205_KF_WhatsNewatKings"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c2fc5c7a-37ed-4654-b532-aa965634b956.jpg?ver=1512142625000"
+  img_alt: "KINGS Own | GLUTEN FREE BAKED GOODS Fresh Baked Especially for Kings • Breads • Cookies • Muffins • Cupcakes "
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1205_KF_WhatsNewatKings"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/31500fef-43c7-47f8-bdca-077ed26c1159.jpg?ver=1512142626000"
+  img_alt: "KINGS Own | Artisan produced Extra Virgin Olive Oils from Spain, Greece, Italy and California. Each olive has a unique, distinctive character due to the rich soil and climate in the country its grown. "
+  url: "https://kingsfoodmarkets.com/kings-own-brand/kings-single-origin-extra-virgin-olive-oil?utm_source=weeklyemail&utm_medium=email&utm_campaign=1205_KF_WhatsNewatKings"
