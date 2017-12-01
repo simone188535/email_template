@@ -1,0 +1,83 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+# #header
+# logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+# catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# catering_alt: 'CATERING'
+# chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# chef_prepared_alt: 'CHEF PREPARED'
+# store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# store_locator_alt: 'FIND A STORE'
+# my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+# #footer
+# footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__"
+# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+# footer_site_alt: "balduccis.com"
+# footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+# footer_facebook_alt: "facebook"
+# footer_twitter_link: "https://twitter.com/Balduccis"
+# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+# footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Instacart_SoloEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/13d4efab-dd5b-4c7e-b508-3568a763cc37.jpg?ver=1512048417000'
+  img_alt: "Balducci&#39;s® Food Lover's Market™"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/chanukah?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Instacart_SoloEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0ef64a3d-5aa3-4ea0-9e83-b752e7e20115.jpg?ver=1512048418000'
+  img_alt: "Impress Your Guests and Let Us Cater Your Party!"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/chanukah?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Instacart_SoloEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/88f7884c-6539-4e6c-82a4-a67fa13be86a.jpg?ver=1512048418000'
+  img_alt: "Chanukah Catering"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/chanukah?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Instacart_SoloEmail'
+  img_url: ' https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8bd4a56c-c74b-4182-9a81-f24fcff7f8e1.jpg?ver=1512048420000'
+  img_alt: "ORDER YOUR HOLIDAY CATERING NOW! This year, spend more time with friends and family. Our chefs are preparing mouth-watering entrées, delectable sides and delicious desserts.ORDER NOW >"
+
+- type: 'image'
+  img_link: 'https://delivery.balduccis.com'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/20fe621d-bc5e-48c5-9fd1-ecb2f988a221.jpg?ver=1512048419000'
+  img_alt: "Powered by instacart. Balducci&#39;s® Food Lover's Market™ DELICIOUS DELIVERED IN AS LITTLE AS ONE HOUR balduccisdelivers.com"
+
+- type: 'image-2-columns'
+  img_link: 'https://delivery.balduccis.com'
+  img_alt: 'Save $20 ON YOUR FIRST ORDER OF $35 OR MORE! VALID THROUGH 12/31/17'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/623f3f7e-12a2-4ba5-b01f-f11a322cf0b5.jpg?ver=1512048419000'
+  img_2_link: 'https://delivery.balduccis.com'
+  img_2_alt: 'Use Promo Code BALDUCCIS20 Plus, free delivery on all first orders!'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/90af5d0e-9bcb-4053-80a2-811fc807a04d.jpg?ver=1512048419000'
+
+- type: 'image'
+  img_link: 'https://delivery.balduccis.com'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8faaad38-5cd5-4a6b-bda7-769ede58c658.jpg?ver=1512048420000'
+  img_alt: "Pick Up In-Store, call 1.866.278.8866, Email catering@balduccis.com or View Our Catering Menu Online."
+
+- type: 'image-3-columns'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1202_BLD_Instacart_SoloEmail'
+  img_alt: 'balduccis.com'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/321136cd-335d-4c90-aff9-f7217cafe98b.jpg?ver=1512048420000'
+  img_2_link: 'https://www.facebook.com/balduccisfoodloversmarket'
+  img_2_alt: 'facebook'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7f750478-c39b-4701-ab86-1838b4999ba2.jpg?ver=1512048420000'
+  img_3_link: 'https://twitter.com/Balduccis'
+  img_3_alt: 'twitter'
+  img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2fbb2db2-7e02-495a-891a-d66e728c5e94.jpg?ver=1512048420000'
