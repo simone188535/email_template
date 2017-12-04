@@ -1,0 +1,134 @@
+title: 'Our Biggest Toys & Gifts Event!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=discount_home_decor&utm_content=homepage"
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=find_a_store&utm_content=locations"
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'Save on Toys, Gifts, & More!'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_038_-120417_v1_r1_Dev_02.jpg'
+  image_alt: 'IT&#39;S THE REAL DEAL! SHOP LIVE POINSETTIAS While Supplies Last'
+  image_link: ''
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_038_-120417_v1_r1_Dev_03.jpg'
+  image_alt: 'Santa&#39;s TOY SHOP! TIME TO LOAD UP THE SLEIGH! VIEW AD 20%off PLAN YOUR VISIT TO OUR BIGGEST GIFT & TOY EVENT!'
+  image_link: 'oldtimepottery.com/ad#utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=gift_and_toy_event&utm_term=holiday_sales_and_great_holiday_deals&utm_content=santas_toy_shop '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_038_-120417_v1_r1_Dev_04.jpg'
+  image_alt: '20%off Games & Puzzles SALE PRICE: $1.00-$19.99 UP TO $29.99 AT OTHER STORES 20%off Plush Toys SALE PRICE: $3.19-$31.99 UP TO $49.99 AT OTHER STORES 20%off Remote Control Vehicles SALE PRICE $6.23-$23.99 UP TO $39.99 AT OTHER STORES 20%off '
+  image_link: 'oldtimepottery.com/ad#utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=gift_and_toy_event&utm_term=holiday_sales_and_great_holiday_deals&utm_content=20off_games '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_038_-120417_v1_r1_Dev_05.jpg'
+  image_alt: 'Educational Toys SALE PRICE: $5.99-$31.99 UP TO $49.99 AT OTHER STORES 20%off Construction Toys SALE PRICE: $5.59-$31.99 UP TO $49.99 AT OTHER STORES 20%off Pre-School Toys SALE PRICE: $2.39-$39.99 UP TO $59.99 AT OTHER STORES 20%off Action Figures & Vehicles SALE PRICE: $1.03-$23.99 UP TO $39.99 AT OTHER STORES'
+  image_link: 'oldtimepottery.com/ad#utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=gift_and_toy_event&utm_term=holiday_sales_and_great_holiday_deals&utm_content=educational_toys '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_038_-120417_v1_r1_Dev_06.jpg'
+  image_alt: '25% off ALL Christmas Wrapping Paper, Tissue, Bags, Boxes, Bows & Tags SALE PRICE: 22¢-$9.74 UP TO $19.99 AT OTHER STORES   25%off SHOP THE HUGE CHRISTMAS SALE! SALE PRICES UP TO 65%off OTHER STORES&#39; PRICES! When theySanta&#39;re gone, theySanta&#39;re gone. Due to the seasonal nature of our products, quantities, assortments and sizes may vary by store. We do not offer rain checks.'
+  image_link: 'oldtimepottery.com/ad#utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=gift_and_toy_event&utm_term=holiday_sales_and_great_holiday_deals&utm_content=wrapping_paper '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_038_-120417_v1_r1_Dev_07.jpg'
+  image_alt: 'VIEW AD'
+  image_link: 'oldtimepottery.com/ad#utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=gift_and_toy_event&utm_term=holiday_sales_and_great_holiday_deals&utm_content=view_ad '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_120217_09.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_instagram&utm_content=get_inspired'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_120217_10.jpg'
+  image_alt: 'SALE PRICES All Season Long!'
+  image_link: ''
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_store_locations&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_store_blog&utm_content=inspirations'
+
+# - type: 'image'
+#   image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_120217_06.jpg'
+#   image_alt: 'ONE STOP FOR ALL YOUR GIFTS! 20%off OUR BIGGEST TOY EVENT EVER! | 25% OFF ALL Christmas Wrapping Paper, Tissue, Bags, Boxes, Bows & Tags SALE PRICE: 22¢-$9.74 UP TO $19.99 AT OTHER STORES | REFRESH YOUR HOME FOR GUESTS 4.96sale UP TO $9.99 AT OTHER STORES 100% Cotton Bath Towels Assorted solids & stripes. $2.96 Hand Towel $1.96 Washcloth | 7.96sale UP TO $19.99 AT OTHER STORES Memory Foam Shag Bath Rugs Assorted colors. $9.99 2pc Bath Rug Set '
+#   image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=holiday_sales_and_great_holiday_deals&utm_content=biggest_toy_event '
+
+# - type: 'image'
+#   image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_120217_07.jpg'
+#   image_alt: '17.96sale UP TO $49.99 AT OTHER STORES Deluxe Drapery Panel Pairs Large selection. Grommets, blackouts. | 9" x 13"  10" x 22" 8" x 10" SALE! 20%off OUR ALREADY LOW PRICES ALL FRAMED & CANVAS ART SALE PRICE: $1.99-$159.99 UP TO $249.99 AT OTHER STORES | SALE PRICES UP TO 65%off OTHER STORES&#39;S PRICES! When they&#39;re gone, they&#39;re gone. Due to the seasonal nature of our products, quantities, assortments and sizes may vary by store. We do not offer rain checks. '
+#   image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=holiday_sales_and_great_holiday_deals&utm_content=drapery_panels'
+
+# - type: 'image'
+#   image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_120217_08.jpg'
+#   image_alt: 'VIEW AD'
+#   image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=holiday_sales_and_great_holiday_deals&utm_content=view_ad '
+
+# - type: 'image'
+#   image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_120217_09.jpg'
+#   image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+#   image_link: 'https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_instagram&utm_content=get_inspired'
+
+# - type: 'image'
+#   image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_120217_10.jpg'
+#   image_alt: 'SALE PRICES All Season Long!'
+#   image_link: ''
+
+# - type: 'images-3-columns'
+#   image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+#   image_first_alt: 'Products'
+#   image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_store_departments&utm_content=departments'
+#   image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+#   image_second_alt: 'Locations'
+#   image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_store_locations&utm_content=locations'
+#   image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+#   image_third_alt: 'Inspirations'
+#   image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_store_blog&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_youtube&utm_content=youtube"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer12_04&utm_medium=email&utm_campaign=christmas_25off_while_supplies_last&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""
