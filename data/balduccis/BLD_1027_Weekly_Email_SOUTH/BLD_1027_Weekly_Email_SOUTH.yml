@@ -1,0 +1,100 @@
+title: 'Make Halloween Drop-Dead Delicious.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d8122738-33f3-4181-98ac-dbaf90d937ba.jpg?ver=1497373079000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43ada965-5b9f-4e25-8fa1-be0734094fd5.jpg?ver=1497373079000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1ff67d4-42f0-40dc-86e1-338f5f3a59b7.jpg?ver=1497373080000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+  img_alt: 'GOURMET REWARDS CLUB'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/da11e961-e3a7-4f56-9dce-225f046f962c.jpg?ver=1496764390000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+  img_alt: 'LAST-MINUTE HALLOWEEN MUST-HAVES You can still throw a frightful feast with ease. Stop by today for festive gourmet treats!'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/53db49bc-5231-4f12-9ddb-c3ddd1fc249e.jpg?ver=1508870172000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+  img_alt: 'CATERING | HALLOWEEN PARTY PLATTERS'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cad5c770-b24e-448d-a8d4-6119f1769e82.jpg?ver=1508870172000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+  img_alt: 'ORDER NOW > ANTIPASTO Select Italian meats and cheeses served with crusty bread and all the accoutrements. MIDDLE EASTERN MEZZE Lightly toasted pita points served with a spread of traditional favorites like hummus, baba ghanoush, and more.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/eaa2a4d2-b685-4ee1-b28f-209ead167720.jpg?ver=1508870173000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+  img_alt: 'TEX MEX House-made guacamole, pico de gallo and more south of the border favorites. SHRIMP TRIO Succulent shrimp cocktail, lemon caper shrimp and spicy chipotle shrimp. ORDER NOW >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1c208047-b79a-48c3-b8d4-2fdcfbf5be58.jpg?ver=1508870173000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+  img_alt: 'SPOOKY DECADENCE | HALLOWEEN TREATS'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d2031360-e207-4526-a3ae-0b3bc52481ad.jpg?ver=1508870173000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+  img_alt: 'Host a frighteningly tasteful Halloween gathering when you treat your guests to our spooky seasonal sensations. Here are just a few of our favorite elegantly eerie edibles! HALLOWEEN MINI BROWNIE PLATTER Our moist mini brownies are dressed up for Halloween, in festive orange and black frosting with a dusting of ghost sprinkles.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c335fa14-90ca-44cf-9b7c-685be0ae9363.jpg?ver=1508870174000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+  img_alt: 'SUGARFINA HALLOWEEN COFFINS Creepy, yet so cute, the set of three Sugarfina Halloween coffins is made with the finest ingredients from candy artisans worldwide. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/57ed8772-c1be-4af8-ad21-c6d4297675cf.jpg?ver=1508870174000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+  img_alt: 'URBAN ACCENT MULLING SPICE Cozy up with a cup of this bewitching blend of natural, fragrant, amazing whole spices steeped with your favorite apple cider. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d28c8e36-bafd-46d7-b654-c2f269362209.jpg?ver=1508870174000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+  img_alt: 'CHEESETOPIA | MARK YOU CALENDAR'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5301a4a3-0f9e-4c3f-b3a6-fd45c1ed828e.jpg?ver=1508873382000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+  img_alt: 'Experience the ultimate in gourmet cheese at our annual Cheesetopia Tasting Event. PLUS, enjoy a special wine tasting from 2PM-5PM. SATURDAY OCTOBER 28th 12 NOON-5PM ALEXANDRIA & MCLEAN, VA BETHESDA, MD MORE INFO > CHEESETOPIA THE ULTIMATE CHEESE TASTING BALDUCCI&#39;S '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6aa125e7-a417-4173-95ce-f5f84d67ea83.jpg?ver=1508873382000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+  img_alt: 'CATERING | THANKSGIVING DINNER '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b180a288-768b-4729-92e2-577aea8a3446.jpg?ver=1508870175000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1027_BLD_Weekly_Email_South'
+  img_alt: 'Thanksgiving Dinner Made Easy! Thanksgiving is simply fabulous with Balducci&#39;s catering! Try our FULL DINNER PACKAGE that includes a Turkey Entrée, 3 Sides, 2 extras, 1 bread and 1 dessert. VIEW MENU >'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/20202429-1b22-4c58-8f1a-ee6f5817c767.jpg?ver=1508870175000'
+
+

@@ -1,0 +1,174 @@
+title: 'FPO'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8821530-b079-427c-96b1-2d07abf11d05.jpg?ver=1495479649000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/77ed924e-ec24-4bad-b5a9-85c2ab2525fe.jpg?ver=1510579010000"
+  img_alt: "THE MAIN ATTRACTION | Your turkey is the star of the show, and we stock the best selection of ultra-fresh, premium turkeys."
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/14edcd0a-98d7-43ec-ba79-3e49984fda46.jpg?ver=1510579010000"
+  img_alt: "We have a mouth-watering selection of premium turkeys available for pre-order! Choose from: Kings, Bell & Evans, Plainville Farms, Murray's, D'Artagnan or Empire. ORGANIC | LOCAL | FREE RANGE "
+  url: "https://kingsfoodmarkets.com/unique-recipes/turkey-101?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f94c7483-4564-461b-9ee6-1b4f849fb638.jpg?ver=1510579010000"
+  img_alt: "LEARN MORE &#62; "
+  url: "https://kingsfoodmarkets.com/unique-recipes/turkey-101?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/be31d01c-f53e-4a82-88e8-3deda3d37cdf.jpg?ver=1510579010000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/60a35431-8a45-4581-bc56-f4642f22f966.jpg?ver=1510579011000"
+  img_alt: "members extra! SAVINGS KINGS FRESH WHOLE TURKEY members pay 1.99 LB. "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c6e7fbdd-90a9-4a5c-af98-9b2b40b935c2.jpg?ver=1510579011000"
+  img_alt_2: "members extra! SAVINGS  KINGS FRESH WHOLE TURKEY BREAST  members pay 3.69 LB. "
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/48aaa09f-085c-427c-b190-3450a8634feb.jpg?ver=1510579011000"
+  img_alt: "LEARN TURKEY TIPS &#62; "
+  url: "https://kingsfoodmarkets.com/unique-recipes/turkey-101?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/defe9696-6c82-4a7f-bad7-558a06149d1f.jpg?ver=1510579011000"
+  img_alt_2: "CREATE HERB ROASTED TURKEY BREAST &#62; "
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/roasted-turkey-with-gravy?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bfc250d7-71a4-4496-b849-6de478c955da.jpg?ver=1510579011000"
+  img_alt: "members extra! SAVINGS SAVE $2 GREEN BEANS 2 LB. BAG members pay 7.99 EA. "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/66ff8be0-c14a-43b7-81ff-4b141f37778d.jpg?ver=1510579012000"
+  img_alt_2: "members extra! SAVINGS FRESH CRANBERRIES 2 LB. BAG members pay 4.99 EA. "
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3a60225e-448a-48fa-b95b-bb296aed2d3d.jpg?ver=1510579012000"
+  img_alt: "CREATE GREEN BEANS WITH WARM BACON VINAIGRETTE &#62; "
+  url: "https://kingsfoodmarkets.com/unique-recipes/green-beans-with-warm-bacon-vinaigrette?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4af55554-84d1-4bee-916e-1fc4a283f39b.jpg?ver=15105790120000"
+  img_alt_2: "CREATE GREEN CRANBERRY AND BOURBON MARMALADE &#62; "
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/cranberry-and-bourbon-marmalade?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f12299d1-047f-46e7-b062-cd270fd363de.jpg?ver=1510579012000"
+  img_alt: "members extra! SAVINGS SAVE $1 PEELED & CUBED BUTTERNUT SQUASH 20 OZ. members pay 3.99 EA. "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ff23469-9664-4b02-87dd-848f48c065d9.jpg?ver=1510579012000"
+  img_alt_2: "members extra! SAVINGS SAVE $1 lb. ORGANIC GARNETT OR JEWEL YAMS members pay 1.99 LB.  "
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cc70eac0-52a2-4966-a6f9-4e95646d0e8f.jpg?ver=1510579012000"
+  img_alt: "CREATE BUTTERNUT SQUASH GRATIN WITH CARAMELIZED APPLES &#62; "
+  url: "https://kingsfoodmarkets.com/unique-recipes/whipped-butternut-squash-gratin-with-caramelized-apples?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/334645d1-8eeb-4ddc-a969-a0f44f22433b.jpg?ver=1510579012000"
+  img_alt_2: "CREATE ROASTED SPICED ORGANIC YAMS &#62; "
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/roasted-spiced-louisiana-yams?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1cd260b4-6897-46dc-bcf3-cc1a6c7c2e79.jpg?ver=1510579013000"
+  img_alt: "VIEW WEEKLY SALES &#62;"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fb362159-9b43-4dea-baff-6ef7ba1a8d77.jpg?ver=1510579013000"
+  img_alt: "ORDER NOW | THANKSGIVING CATERING"
+  url: "https://kingsfoodmarkets.com/unique-recipes/turkey-101?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc7f2b2f-150c-46e2-b641-0e4462620245.jpg?ver=1510579013000"
+  img_alt: "ORDER YOUR CATERING NOW! This year, spend more time with friends and family. We&#39;re preparing mouth-watering, perfectly moist turkey, delectable sides and delicious desserts. NEW! THANKSGIVING MEAL ORDER FORM "
+  url: "https://kingsfoodmarkets.com/unique-recipes/turkey-101?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/596b6fdf-be29-4f07-9be9-5f940de72045.jpg?ver=1510579013000"
+  img_alt: "START YOUR ORDER NOW &#62; "
+  url: "https://kingsfoodmarkets.com/unique-recipes/turkey-101?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ab34ade0-9552-4e81-b37e-a75ff4d212d6.jpg?ver=1510579014000"
+  img_alt: "RECIPE VIDEO | APPLE, FENNEL & WALNUT STUFFING "
+  url: "https://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/662e5407-ec07-4a24-984d-9cd4affa774c.jpg?ver=1510579014000"
+  img_alt: "&#62; APPLE, FENNEL & WALNUT STUFFING"
+  url: "https://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3858bbca-1867-44a9-bdf3-067eab5f884e.jpg?ver=1510579014000"
+  img_alt: "TOP THE TABLE | GIVE THANKS IN FESTIVE STYLE From easy-going to elegant, we have centerpiecs and table décor to suite your style. AVAILABLE MONDAY 11/20."
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c187d3a2-77e5-481a-bb10-a6b03a47a13f.jpg?ver=1510579014000"
+  img_alt: "FANCY CORNUCOPIA | LARGE CORNUCOPIA | THE GOBBLER | DOUBLE CANDLE "
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ce06fda1-0700-4795-9f77-98ae56aca4c3.jpg?ver=1510579014000"
+  img_alt: "WHAT'S NEW IN-STORE"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/04ad8534-15ea-490b-a9f3-b5148dcb2d48.jpg?ver=1510579015000"
+  img_alt: "SEASON, SPICE & EVERYTHING NICE Stock up and save on all the seasonings and spices you need for the holiday season. Choose from Spice Hunter, Morton & Bassett and Simply Organic. BUY 2 and SAVE 20%  | BUY 3 and SAVE 30%  "
+  url: "https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/786fd615-7318-438c-8185-d07f2a01f38d.jpg?ver=1510579015000"
+  img_alt_2: "SEASON, SPICE & EVERYTHING NICE Stock up and save on all the seasonings and spices you need for the holiday season. Choose from Spice Hunter, Morton & Bassett and Simply Organic. BUY 2 and SAVE 20%  | BUY 3 and SAVE 30%  "
+  url_2: "https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bc4d98e4-6426-46a1-a9c8-0c9787a9b1b7.jpg?ver=1510579015000"
+  img_alt: "KINGS AGED CHEDDAR KINGS Premium Aged Cheddars are crafted from 100% pure Wisconsin cheese. They are aged for 5-7 years for a sharp and sophisticated flavor. LEARN MORE &#62; "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d5de480c-4575-4077-9bdc-3ee872c7a6f4.jpg?ver=1510579015000"
+  img_alt_2: "KINGS AGED CHEDDAR KINGS Premium Aged Cheddars are crafted from 100% pure Wisconsin cheese. They are aged for 5-7 years for a sharp and sophisticated flavor. LEARN MORE &#62; "
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1117_KF_WeeklyEmail_Chain"

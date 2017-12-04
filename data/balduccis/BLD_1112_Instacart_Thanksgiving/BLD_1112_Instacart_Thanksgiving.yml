@@ -1,0 +1,84 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  img_link: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c7afc50c-61bb-4233-904e-a61938c3c228.jpg?ver=1508873379000'
+  img_alt: "GOURMET REWARDS CLUB"
+
+- type: 'image'
+  img_link: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/23e97c6b-0796-4b0f-819c-9c77569a5c63.jpg?ver=1510345899000'
+  img_alt: "DON'T FORGET TO USE YOUR PROMO CODE! BALDUCCIS20"
+
+- type: 'image'
+  img_link: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2fe99978-a4d4-428c-9197-15189fecbd58.jpg?ver=1510345899000'
+  img_alt: "DELICIOUS DELIVERED GROCERY DELIVERY IN AS LITTLE AS ONE HOUR START SHOPPING NOW > Powered by instacart "
+
+- type: 'image'
+  img_link: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4b4fae09-287f-4136-a74e-90186ae688ba.jpg?ver=1510345899000'
+  img_alt:  "DELICIOUS DELIVERED GROCERY DELIVERY IN AS LITTLE AS ONE HOUR START SHOPPING NOW > Powered by instacart "
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b95ff10c-1537-4627-a6ea-e7316274a0f2.jpg?ver=1510345900000'
+  img_alt: "$20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER* ORDER ONLINE > WE SHOP > WE DELIVER Use promo code BALDUCCIS20 to receive $20 OFF your first order. "
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8c3f9711-7e22-44b6-9330-a68324123b00.jpg?ver=1510345900000'
+  img_alt: "MAKE YOUR LIFE EASIER "
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6e1cc2e5-b0e0-4984-977d-166a16dd4b0b.jpg?ver=1510345900000'
+  img_alt: "PANTRY STAPLES | FRESH PRODUCE | BAKING NEEDS You&#39;ll find all the solutions for a fabulous feast at Balducci&#39;s. Save by shopping on Instacart for your Turkey Day essentials. "
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0dd149c1-87ea-4be3-bdf1-9bce12b4d44f.jpg?ver=1510345900000'
+  img_alt: "SEE HOW EASY IT IS TO SHOP "
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4fedad18-f23b-4569-adc5-b8654985fb27.jpg?ver=1510345900000'
+  img_alt: "LEARN MORE > "
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_BLD_Instacart_Thanksgiving_1'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/51e32cf1-c339-4b2f-bf54-df093cd55a04.jpg?ver=1510345901000'
+  img_alt: "*Use Promo Code BALDUCCIS20 to receive $20 off your first order of $35 or more.  $5.99 delivery fee waived with first order of $35 or more. Prices on Instacart match our everyday store prices; sale prices are not available online. myBalducci&#39;s Rewards Card and benefits are not applicable with home delivery. $5.99 delivery fee with $35 minimum order. Optional 10% service charge applied during Instacart check out. ©2017 Balducci&#39;s"
+

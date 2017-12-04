@@ -1,0 +1,89 @@
+title: 'FPO'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail'
+
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71b164a7-3069-4738-956b-8b2117e99de0.jpg?ver=1468246669000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eb3efd35-9d8b-49af-833f-11faa5679351.jpg?ver=1468246666000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/592b4972-267b-4a84-a3cb-dcbc9901efbe.jpg?ver=1468246666000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2b03719-5c2d-4e97-87fa-7741acd11156.jpg?ver=1468246666000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b0bfeda0-aaf9-4c23-a9cc-3589ddedf05e.jpg?ver=1510318352000"
+  img_alt: "DON'T FORGET TO USE YOUR PROMO CODE! KINGS20"
+  url: "http://delivery.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dba830ac-4750-4254-865a-1b6c0bbc6329.jpg?ver=1510318353000"
+  img_alt: "FAST. FRESH. DELIVERED. IN AS LITTLE AS ONE HOUR START SHOPPING NOW > Powered by instacart "
+  url: "http://delivery.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a6a49374-f6f0-4e81-ba29-452be080398e.jpg?ver=1510318353000"
+  img_alt: "$20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER* "
+  url: "http://delivery.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f1d0cfdc-dfc2-4399-84f6-d505219126d9.jpg?ver=1510318353000"
+  img_alt_2: "ORDER ONLINE & WE SHOP & WE DELIVER Use promo code KINGS20 to receive $20 OFF your first order. "
+  url_2: "http://delivery.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d3382704-6d28-4d54-8598-a1972bee5fee.jpg?ver=1510318353000"
+  img_alt: "THANKSGIVING ESSENTIALS "
+  url: "http://delivery.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/038ddf8e-a2ae-4091-b62c-b257cd7b1c06.jpg?ver=1510318353000"
+  img_alt: "PANTRY STAPLES | FRESH PRODUCE | BAKING NEEDS | You'll find all the solutions for a fabulous feast at Kings. Save by shopping on Instacart for your Turkey Day essentials. ORDER NOW FOR THANKSGIVING! "
+  url: "http://delivery.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6d92cafc-191e-4366-ad2d-b255fb0d74bb.jpg?ver=1510318353000"
+  img_alt: "SEE HOW EASY IT IS TO SHOP "
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/46443aed-3592-4626-afe0-9070765c10bb.jpg?ver=1510318354000"
+  img_alt: "LEARN MORE > "
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/78f2c594-86f4-4b04-bfca-3d0bda626b71.jpg?ver=1510318354000"
+  img_alt: "*Use Promo Code KINGS20 to receive $20 off your first order of $35 or more. $5.99 delivery fee waived with first order of $35 or more. Prices on Instacart match our everyday store prices; sale prices are not available online. myKINGS Extra Savings and offers are not applicable with home delivery. $5.99 delivery fee with $35 minimum order. Optional 10% service charge applied during Instacart checkout. ©2017 Kings Food Markets"
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1112_KF_Instacart_Thanksgiving_SoloEmail"

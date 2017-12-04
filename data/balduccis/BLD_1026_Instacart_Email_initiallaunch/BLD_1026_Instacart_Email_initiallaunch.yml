@@ -1,0 +1,89 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c7afc50c-61bb-4233-904e-a61938c3c228.jpg?ver=1508873379000'
+  img_alt: "GOURMET REWARDS CLUB"
+
+- type: 'image'
+  img_link: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4f9bc0af-a60e-4bbf-87a9-5f641dd825e8.jpg?ver=1508947755000'
+  img_alt: "DELICIOUS DELIVERED GROCERY DELIVERY IN AS LITTLE AS ONE HOUR START SHOPPING NOW > Powered by instacart "
+
+- type: 'image'
+  img_link: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e1bd0d7d-a7ce-439f-90ae-e90f449b0db3.jpg?ver=1508947755000'
+  img_alt: "$20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER* ORDER ONLINE > WE SHOP > WE DELIVER Use promo code BALDUCCIS20 to receive $20 OFF your first order. "
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c2b30dfe-326a-4864-ac5c-233c01945bca.jpg?ver=1508947755000'
+  img_alt:  "MAKE YOUR LIFE EASIER"
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/54a761f0-a552-48b9-a8c7-62c171b53934.jpg?ver=1508947755000'
+  img_alt: "BUSY DAY | BAD WEATHER | HELPING OTHERS No traffic, no lines or bags to carry—perfect for busy families, working professionals or anyone who needs the time-saving convenience of shopping for groceries online. You can consider this errand done! "
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6c2b6770-fed9-4a7a-8d91-4d1f7a651cfe.jpg?ver=1508947757000'
+  img_alt: "SEE HOW EASY IT IS TO SHOP "
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/45fa4f1d-3fc6-4fe4-b70f-80113c29acd5.jpg?ver=1508947757000'
+  img_alt: "Shop the Whole Store You can shop all the specialty foods, the freshest produce, signature favorites, and Chef Prepared dishes you love from Balducci's—online! "
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f20773f6-91e9-40d2-8126-dc47c142f62f.jpg?ver=1508947758000'
+  img_alt: "Ordering Made Easy It&#39;s as easy as creating an account, selecting items, scheduling delivery and checking out. "
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b68367fc-bd3f-41af-8215-6fe1b3c56880.jpg?ver=1508947759000'
+  img_alt: "Trained Instacart Shoppers Trusted instacart shoppers hand select your choices, pack your order and deliver it to you during the delivery time you selected. "
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fe1ed801-1725-4b87-921e-b69e369bd3f0.jpg?ver=1508947759000'
+  img_alt: "LEARN MORE > "
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_Instacart_Email_initiallaunch'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/63d7d56b-0e00-4d4d-af97-f3a6fea8c4bb.jpg?ver=1508947759000'
+  img_alt: "*Use Promo Code BALDUCCIS20 to receive $20 off your first order of $35 or more. $5.99 delivery fee waived with first order of $35 or more. Prices on Instacart match our everyday store prices; sale prices are not available online. myBalducci’s Rewards Card and benefits are not applicable with home delivery. $5.99 delivery fee with $35 minimum order. Optional 10% service charge applied during Instacart check out. ©2017 Balducci&#39;s"
+
