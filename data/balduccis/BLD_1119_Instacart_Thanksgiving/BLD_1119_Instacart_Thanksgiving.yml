@@ -1,0 +1,64 @@
+title: ' '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1119_BLD_Instacart_Thanksgiving_2'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1119_BLD_Instacart_Thanksgiving_2'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1119_BLD_Instacart_Thanksgiving_2'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1119_BLD_Instacart_Thanksgiving_2'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1119_BLD_Instacart_Thanksgiving_2'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "?utm_source=weeklyemail&utm_medium=email&utm_campaign=1119_BLD_Instacart_Thanksgiving_2"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d8122738-33f3-4181-98ac-dbaf90d937ba.jpg?ver=1497373079000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43ada965-5b9f-4e25-8fa1-be0734094fd5.jpg?ver=1497373079000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1ff67d4-42f0-40dc-86e1-338f5f3a59b7.jpg?ver=1497373080000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1119_BLD_Instacart_Thanksgiving_2'
+  img_alt: 'FABULOUS FEASTS Make this Thanksgiving memorable with the freshest quality ingredients for your favorite family recipes. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/17ca717d-606d-4416-9927-10871569bd57.jpg?ver=1510837855000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1119_BLD_Instacart_Thanksgiving_2'
+  img_alt: 'THANKSGIVING CATERING '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f4302a7f-c0ad-4358-97d5-967441b4f0a0.jpg?ver=1510837855000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1119_BLD_Instacart_Thanksgiving_2'
+  img_alt: 'IT&#39;S NOT TOO LATE TO ORDER! Spend more time with the ones you love. Delicious, Chef Prepared catering makes it easy to create a memorable and mouth-watering experience. ORDER NOW > '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/46290e4d-4b98-4dd7-a7b7-2447e15a9a13.jpg?ver=1510837855000'
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1119_BLD_Instacart_Thanksgiving_2'
+  img_alt: 'WHAT&#39;S NEW IN STORE '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/48d24b8e-e084-40c2-af37-24a3c4ba188e.jpg?ver=1510837856000'
+
+- type: 'image'
+  img_link: 'http://balduccis.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1119_BLD_Instacart_Thanksgiving_2'
+  img_alt: 'DELICIOUS DELIVERED IN AS LITTLE AS ONE HOUR | LEARN MORE > | $20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER | Check your zip code for availability. Powered by instacart. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8017393a-4ff5-4607-a86f-2e05224dacf6.jpg?ver=1510837856000'
+
+
+
+
+

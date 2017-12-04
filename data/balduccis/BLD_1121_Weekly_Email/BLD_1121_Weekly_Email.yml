@@ -1,0 +1,141 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fd622682-ba88-4edf-b556-45fbf298e4e8.jpg?ver=1480433938000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/35be057f-b3ab-4c95-a617-2be63b4ddda0.jpg?ver=1510937044000'
+  img_alt: 'EAT, DRINK & BE THANKFUL | We wish you and yours a happy and healthy holiday season full of great food! '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ef66e42b-0f7c-400f-bcfe-b8fd4438905e.jpg?ver=1510937044000'
+  img_alt: 'THANKSGIVING CATERING '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4ca471de-65c7-43ea-822f-226b81a7660f.jpg?ver=1510937044000'
+  img_alt: 'IT&#39;S NOT TOO LATE TO ORDER! Spend more time with the ones you love. Delicious, Chef Prepared catering makes it easy to create a memorable (and mouth-watering) experience. ORDER NOW > '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/325bd9fb-0d5c-4e50-9660-69993a5f33c9.jpg?ver=1510937045000'
+  img_alt: ''
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/45a6d0f4-ba48-4938-b688-df270e2f2cdb.jpg?ver=1510937045000'
+  img_alt: 'CHEF PREPARED SIDES | GRAB & GO '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e5192ad1-23f5-4722-b629-8cea52a0017c.jpg?ver=1510937045000'
+  img_alt: 'CORNBREAD STUFFING WITH BACON '
+  img_2_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/679033e7-da90-4f32-abae-aa26a683d346.jpg?ver=1510937046000'
+  img_2_alt: 'CREAMED SPINACH '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d3d0a91e-6b8f-4968-90b1-95943dddef86.jpg?ver=1510937046000'
+  img_alt: 'HARICOTS VERTS'
+  img_2_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2acc4907-376e-46f1-bbaa-19e6955ff7da.jpg?ver=1510937046000'
+  img_2_alt: 'ROASTED SWEET POTATOES '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e440f026-ef6d-4472-a0d9-cd67fa358fc2.jpg?ver=1510937046000'
+  img_alt: 'INDULGENT APPS | IMPRESS YOUR GUESTS '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8f449437-5830-4b07-98a3-f7d129e40a6b.jpg?ver=1510937046000'
+  img_alt: 'WILD CAUGHT HOKKAIDO SEA SCALLOPS A special way to start any occasion, these wild caught scallops have a pristine texture and sweet flavor that&#39;s sure to delight. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/359611e9-7e3b-40cb-a340-8e79bfdef644.jpg?ver=1510937047000'
+  img_alt: 'MOLITERNO TARTUFO A raw sheep&#39;s milk cheese from Sardinia with thick veins of black truffle and aromatics that pair beautifully with red or dessert wines. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8ffbf308-1bba-4ed3-882c-6389f3e125fc.jpg?ver=1510937047000'
+  img_alt: 'DUFOUR PASTRY KITCHENS PUFF PASTRY The perfect wrapping for savory or sweet dishes, this delicious puff pastry is made with hundreds of alternating thin layers of pastry and butter. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bb27537f-1925-4fc9-bb41-208a71b11799.jpg?ver=1510937047000'
+  img_alt: 'HEAVENLY HOLIDAY DESSERTS '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/da4b03bf-7603-4f34-a240-7d6e5458821f.jpg?ver=1510937047000'
+  img_alt: 'BALDUCCI&#39;S PUMPKIN PIE Our rich, custard-style pumpkin pie is seasoned with just a hint of fall spice…a holiday classic! '
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/54c93dc6-1b7c-4008-b296-41e91b250e10.jpg?ver=1510937048000'
+  img_2_alt: 'BALDUCCI&#39;S 2-LB. COOKIE PLATTER WITH COPPER BOW 100% handmade, using only the highest quality ingredients. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fdbb8ffe-958c-49a6-9011-f9ab9a279ace.jpg?ver=1510937048000'
+  img_alt: 'SAY "THANKS" TO YOUR HOSTS '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3f246457-263d-4917-a14d-2e8142b3db6e.jpg?ver=1510937048000'
+  img_alt: 'GIFT BASKETS Our gift baskets are sure to please anyone on your list, from friends and family to colleagues and clients. '
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/59b3a65c-c67b-4771-bcf0-1b4704b5cb67.jpg?ver=1510937048000'
+  img_2_alt: 'VINEYARD BOUQUETS With rich texture and gorgeous tones, these fragrant floral bouquets make a lasting impression. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1121_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9666e25c-c36a-4521-ae93-b83487f683b4.jpg?ver=1510937049000'
+  img_alt: 'THANKSGIVING | HOLIDAY HOURS '
+
+- type: 'image'  
+  img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_BLD_Weekly_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ad8301c4-61f9-47a6-8f9e-2e9f9f499559.jpg?ver=1510937049000'
+  img_alt: 'Happy Thanksgiving | WE&#39;VE GOT YOU COVERED Mashed potato meltdown? Cranberry sauce crisis? Good news! OPEN THIS THANKSGIVING! Thursday, Nov 23rd…7am-4pm FIND A STORE > '
+
+
+
+
+
+

@@ -1,0 +1,135 @@
+title: 'Bring on the Brisket!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fd622682-ba88-4edf-b556-45fbf298e4e8.jpg?ver=1480433938000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6e044ed9-d8af-4bec-8741-3a0540d4219e.jpg?ver=1511893102000'
+  img_alt: 'FESTIVE FAVES FOR THE HOLIDAYS Celebrate with friends, family and food. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5688ef8f-cdb8-4d77-9916-3e513a90a19e.jpg?ver=1511893102000'
+  img_alt: 'A FUSS-FREE CHANUKAH FEAST '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/58f281d2-1184-4c17-9436-d186a60da95b.jpg?ver=1511893103000'
+  img_alt: 'Holiday Catering Focus on spending quality time with family and friends, while we do the cooking. Enjoy Chef Prepared classics like mouth-watering brisket, savory matzoh ball soup, and a variety of delectable desserts. ORDER NOW > '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/catering/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fa93765e-e3ac-4f9e-bbed-af57829077c0.jpg?ver=1511893103000'
+  img_alt: 'TRADITIONAL BEEF BRISKET '
+  img_2_link: 'http://www.balduccis.com/catering/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ae471ef4-6a72-4fe3-ab8e-b35b8c079bf6.jpg?ver=1511893104000'
+  img_2_alt: 'CARROT AND SWEET POTATO TZIMMES '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e65353e0-b845-4cf3-8a4f-7b4d5064e8bf.jpg?ver=1511893104000'
+  img_alt: 'MEMBER EXCLUSIVE '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d096e11d-439f-4c92-b4ab-59ab7642dcc2.jpg?ver=1511893104000'
+  img_alt: 'BALDUCCI&#62;S FRESH OVEN-READY HERB MARINATED WHOLE CHICKEN MEMBER EXCLUSIVE 2.79/LB Reg 3.59 '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7916367e-4cc3-4e9b-a565-6fab14f9d313.jpg?ver=1511893105000'
+  img_alt: 'GET THE PARTY STARTED '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a61b36d3-429d-43fa-9d75-872eb6bb738d.jpg?ver=1511893105000'
+  img_alt: 'LIMITED TIME! FRESH WHITE TRUFFLES A rare and delicious delicacy, white truffles are sublime when shaved over buttered pasta or mashed potatoes. Special order at your local store. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/872c2edb-fcd3-41c2-84d5-e4eb9e511df0.jpg?ver=1511893105000'
+  img_alt: 'CHEF PREPARED BEEF SHORTRIB & ROQUEFORT HAND PIE Slow-cooked short ribs and aged Roquefort are wrapped in delicate puff pastry for an unforgettable hors d&#62;oeuvre. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05e7089c-d8bf-47a9-83fa-254856cfc1a2.jpg?ver=1511893106000'
+  img_alt: 'SMERALDO DI CENTRAL AL TARTUFO BIANCO This raw sheep&#62;s milk cheese from Sardegna is stuffed with white truffles. Serve it with your favorite Champagne for a delicious indulgence. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4d6d2c8d-d337-4611-b15e-d2684292aaf2.jpg?ver=1511893106000'
+  img_alt: 'MAISON DE LA TRUFFE Rich, creamy Brie is layered with a mixture of black truffles and mascarpone to create this decadent treat that&#62;s sure to delight cheese fans. '
+
+- type: 'image'  
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ca9d6bf6-630f-4229-8bde-fdbf702a4db7.jpg?ver=1511893106000'
+  img_alt: 'BALDUCCI&#62;S CAVIAR FROM GALILEE OSETRA, ISRAEL Our exclusive caviar hails from closed water farms near the Dan River in Northern Israel. This light brown-to-amber caviar is bright, crisp, and not to be missed! '
+
+- type: 'image'  
+  img_link: 'http://www.balduccis.com/recipes/appetizers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9249b27d-89a8-4cd7-8b61-3fc3fc7dd4b5.jpg?ver=1511893106000'
+  img_alt: 'A PERFECT PAIRING | TRY THIS! '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/recipes/appetizers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a9893195-370a-4487-95d6-8d70e1ca3ba0.jpg?ver=1511893107000'
+  img_alt: 'PINK PEPPERCORN CRUSTED CHEESE BALL VIEW RECIPE > '
+  img_2_link: 'http://www.balduccis.com/recipes/appetizers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9f86847e-dd64-44fd-929f-950a539593f7.jpg?ver=1511893107000'
+  img_2_alt: 'PARMESAN GARLIC CHEESE BREAD TWISTS VIEW RECIPE > '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5d166ccb-d3ae-4854-8627-ae44b5d1030e.jpg?ver=1511893108000'
+  img_alt: 'WHAT&#62;S NEW IN STORE '
+
+- type: 'image'  
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/80f9eb26-edff-4036-944d-6196aa86730c.jpg?ver=1511893108000'
+  img_alt: 'Gluten-Free from the Patisserie This season, enjoy all your favorite sweet treats minus the gluten. Choose from: bread, cookies, muffins and cupcakes. '
+
+- type: 'image'  
+  img_link: 'http://www.balduccis.com/gifts/gift_cards?utm_source=weeklyemail&utm_medium=email&utm_campaign=1201_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1cf6a754-71da-48d3-aa60-fba631ae8adf.jpg?ver=1511893108000'
+  img_alt: 'Gift Cards A Balducci&#62;s gift card makes the perfect gift for the gourmet food lover on your list. ORDER NOW > '
+
+
+
+
+
+
