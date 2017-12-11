@@ -1,0 +1,103 @@
+title: '30% off all Christmas and Toys starts tomorrow.'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_103117_Email_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=christmas_just_got_cozier&utm_term=discount_home_decor&utm_content=homepage"
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_103117_Email_02.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=christmas_just_got_cozier&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_103117_Email_03.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=christmas_just_got_cozier&utm_term=find_a_store&utm_content=locations"
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_103117_Email_04.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=christmas_just_got_cozier&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'VIP PREVIEW: Countdown to Christmas Sale'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_038_-121217_v1_r5_FNL_02.jpg'
+  image_alt: 'EXTENDED HOLIDAY HOURS SEE DETAILS'
+  image_link: 'https://oldtimepottery.com/locations#utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=countdown_to_christmas_sale&utm_term=holiday_sales_and_great_holiday_deals&utm_content=extended_hours'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_038_-121217_v1_r5_FNL_03.jpg'
+  image_alt: 'STARTING TOMORROW Countdown to CHRISTMAS SALE! PREVIEW AD 30%off ALL CHRISTMAS Arrive early for the best selection! Availability varies by store. Excludes $1-$5 everday value toys. SALE STARTS TOMORROW! WEDNESDAY, DECEMBER 13TH'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=countdown_to_christmas_sale&utm_term=holiday_sales_and_great_holiday_deals&utm_content=countdown_to_christmas_sale '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_038_-121217_v1_r5_FNL_04.jpg'
+  image_alt: 'SALE! 20%off OUR ALREADY LOW PRICES ALL AS SEEN ON TV Gotham Products, Better Brella, Dream Tent, Fold-a-Way Mirror. SALE PRICE: $1.99-$79.99 UP TO $99.99 AT OTHER STORES  SALE! 20% off OUR ALREADY LOW PRICES ALL CRYSTAL GIFTS SALE PRICE: 80¢-$23.99 UP TO $39.99 AT OTHER STORES SALE STARTS WEDNESDAY, DECEMBER 13TH 19.99 sale UP TO $39.99 AT OTHER STORES 18pc Stainless Steel Barbecue Tool Set now & wow 9.99 sale UP TO $29.99 AT OTHER STORES Bean Bag Chairs Large selection. Selection varies by store. '
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=countdown_to_christmas_sale&utm_term=holiday_sales_and_great_holiday_deals&utm_content=as_seen_on_tv'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_038_-121217_v1_r5_FNL_05.jpg'
+  image_alt: 'ALL TOYS 30% off '
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=countdown_to_christmas_sale&utm_term=holiday_sales_and_great_holiday_deals&utm_content=all_toys_30_off'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_038_-121217_v1_r5_FNL_06.jpg'
+  image_alt: 'SAVE ON HOSTING & HOME QUEEN OR KING Your CHOICE INCLUDES 4pc SHEET SET now & wow 27.99 sale UP TO $99.99 AT OTHER STORES 8pc Complete Bed Set Assorted patterns. SALE! 20%off OUR ALREADY LOW PRICES ALL QUILT SETS SALE PRICE: $15.99-$63.99 UP TO $99.99 AT OTHER STORES SALE STARTS WEDNESDAY, DECEMBER 13TH  NEW ARRIVAL now & wow 39.99 sale UP TO $149.99 AT OTHER STORES 5&#39; X 7&#39; Area Rugs Woven, tufted, shag, print, indoor/outdoor. Selection varies by store. Sizes are approximate. '
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=countdown_to_christmas_sale&utm_term=holiday_sales_and_great_holiday_deals&utm_content=hosting_sheetsets_quilts_rugs '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_038_-121217_v1_r5_FNL_07.jpg'
+  image_alt: 'SALE PRICES UP TO 65%off OTHER STORES&#39; PRICES! When they&#39;re gone, they&#39;re gone. Due to the seasonal nature of our products, quantities, assortments and sizes may vary by store. We do not offer rain checks.'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=countdown_to_christmas_sale&utm_term=holiday_sales_and_great_holiday_deals&utm_content=65off_other_stores '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_038_-121217_v1_r5_FNL_08.jpg'
+  image_alt: 'Presents for Everyone TEACHERS, CO-WORKERS & NEIGHBORS!'
+  image_link: 'https://oldtimepottery.com/christmasgifts#utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=countdown_to_christmas_sale&utm_term=holiday_sales_and_great_holiday_deals&utm_content=gifts_galore '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_120917_Email_09.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=christmas_just_got_cozier&utm_term=otp_instagram&utm_content=get_inspired'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_120917_Email_10.jpg'
+  image_alt: 'SALE PRICES ALL Season Long!'
+  image_link: '#'
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=christmas_just_got_cozier&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=christmas_just_got_cozier&utm_term=otp_store_locations&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=christmas_just_got_cozier&utm_term=otp_store_blog&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=christmas_just_got_cozier&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=christmas_just_got_cozier&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=christmas_just_got_cozier&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=christmas_just_got_cozier&utm_term=otp_youtube&utm_content=youtube"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer12_12&utm_medium=email&utm_campaign=christmas_just_got_cozier&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""
