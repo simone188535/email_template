@@ -1,0 +1,241 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/963b7b0e-ec1e-445c-b9ce-17a157d47bea.jpg?ver=1481912589000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ab7d45fd-6956-402a-91d7-828bedf4ff4c.jpg?ver=1481912589000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7b176d03-2d4c-4ab2-b9fc-3d1a9556f137.jpg?ver=1481912589000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d9cfd47d-f0d5-4869-b808-394cd4f49277.jpg?ver=1481912589000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1bd3ede5-4d16-466d-9d30-872d8ac5d4c4.jpg?ver=1513361179000"
+  img_alt: "NEW LOW PRICE ALL THE BEST FOR LESS "
+  url: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/729369f3-a420-4a51-830d-2ce450f47c4c.jpg?ver=1513361179000"
+  img_alt: "We believe you should be able to shop fresh, delicious and healthy foods at a good value and never compromise on quality or service. Look for our new low price icon throughout the store and discover all the ways to save. LEARN MORE > "
+  url: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d40af2b-2c1b-4225-a08a-8a2d59a49a73.jpg?ver=1513361180000"
+  img_alt: "FRESH PRODUCE Discover over 200 varieties of Kings quality, local and organic produce at an even better value. "
+  url: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/efd836bf-6a78-4ea4-bcae-5ba3381b5616.jpg?ver=1513361181000"
+  img_alt: "ORGANIC PRODUCE | NEW LOW PRICE | USDA ORGANIC "
+  url: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/db3ae1f9-6281-46b8-ab53-04d7d141402c.jpg?ver=1513361181000"
+  img_alt_2: "COOKING VEGETABLES | NEW LOW PRICE "
+  url_2: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/efd836bf-6a78-4ea4-bcae-5ba3381b5616.jpg?ver=1513361181000"
+  img_alt: "FRESH FRUIT | NEW LOW PRICE "
+  url: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b12c24df-fc86-40f7-92fe-93a90c48d673.jpg?ver=1513361183000"
+  img_alt_2: "SPIRALIZED VEGGIES | NEW LOW PRICE "
+  url_2: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/63b64511-705a-4de0-b3ba-4a78b41b125c.jpg?ver=1513361184000"
+  img_alt: "LEARN MORE > "
+  url: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ccd90cb5-c71a-4bf7-b866-18386a9eb7a3.jpg?ver=1513361184000"
+  img_alt: "MEAT & SEAFOOD Enjoy more high-quality brands, ultra-fresh seafood and all natural meats for less than you'd expect."
+  url: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a6b0b421-8f3b-49a4-a491-49ab7f6c08fe.jpg?ver=1513361184000"
+  img_alt: "ORGANIC, GRASS-FED BEEF TENDERLOIN STEAK | SAVE $8 LB"
+  url: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/26b83554-814e-442a-95fa-68d1e85d32d1.jpg?ver=1513361184000"
+  img_alt_2: "ORGANIC, GRASS-FED 90% LEAN GROUND BEEF | SAVE $3 LB"
+  url_2: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/47a72bfb-69d2-4890-9b11-f94ff1082d7c.jpg?ver=1513361185000"
+  img_alt: "BELL & EVANS BONELESS SKINLESS CHICKEN BREASTS | SAVE 50¢ LB "
+  url: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/206ee7dd-42a3-4cee-9ca3-1635bcc95711.jpg?ver=1513361185000"
+  img_alt_2: "NORWEGIAN SALMON FILLET | SAVE $3 LB "
+  url_2: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fd76b3ac-bf8f-4d0e-84bb-c2db9a5a8ca9.jpg?ver=1513361185000"
+  img_alt: "VIEW MEAT & SEAFOOD RECIPES > "
+  url: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/95c3ee80-9c42-4877-b514-3bddbff1773c.jpg?ver=1513361186000"
+  img_alt: "DELI & CHEF PREPARED Eating on the go can be easy and more affordable with newly lowered prices on our Chef Prepared meals and sides. "
+  url: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7ae09a78-d116-438f-ab5b-fdba5def0ba8.jpg?ver=1513361186000"
+  img_alt: "FRESH FAMILY PACK GET MORE, SAVE MORE! WE LOVE FAMILIES! CHICKEN PARMESAN | SAVE $6 GRILLED SALMON | SAVE $5 Check out other family pack varieties in the deli section. "
+  url: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b62114b7-dc5a-4941-ac21-6d50b585087b.jpg?ver=1513361186000"
+  img_alt: "DISCOVER MORE SAVINGS IN-STORE"
+  url: "http://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1216_KF_NewLowPrices_Email"
+
+# - type: "image-2-columns"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/903b3bb2-f525-4cd4-8e26-1103c23ff330.jpg?ver=1481912581000"
+#   img_alt: "Create Coffee Braised Beef Brisket > Kings USDA Choice Fresh Beef Brisket 6.99 LB. "
+#   url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+#   img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/50678b7a-4089-4703-891a-bd110f49d26a.jpg?ver=1481912581000"
+#   img_alt_2: "Tips & Tricks to Make the Perfect Rib Roast Kings USDA Prime Aged Certified Angus Beef Rib Roast First or Center Cut 14.99 LB. "
+#   url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/75324490-22b4-4c5b-839e-48c30be69ffa.jpg?ver=1481912582000"
+#   img_alt: "View Weekly Specials &#62;"
+#   url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/33fc6f7f-dbfd-42f2-a66c-e78790710089.jpg?ver=1481912582000"
+#   img_alt: "Kings Catering | We've Got You Covered"
+#   url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7fdda53d-b9b8-4fe6-ac6f-8ace4fff0c4e.jpg?ver=1481912582000"
+#   img_alt: "There's still time to order a catered holiday Feast! Let our chefs handle the food—we can create a complete dinner, or choose your favorite delicious desserts, sides and more."
+#   url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/581643b0-9c47-43c7-9aef-d17fcce6e72a.jpg?ver=1481912582000"
+#   img_alt: "View Menus &#62;"
+#   url: "http://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0f2d38a-5e42-428a-b49c-0e59518222b8.jpg?ver=1481912582000"
+#   img_alt: "Grab & Go | Chef Prepared Sides to Fill-Out Your Feast "
+#   url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+# - type: "image-2-columns"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/440d731d-3aaa-4265-bc5b-c1f434b8b593.jpg?ver=1481912583000"
+#   img_alt: "Traditional Potato Latkes "
+#   url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+#   img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0743bc78-4b19-4897-a372-702dfb956bc1.jpg?ver=1481912584000"
+#   img_alt_2: "Kings Freshly Prepared 50 Piece Large Shrimp Platter"
+#   url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec11a4a9-0e69-42a8-a059-928f5319f6d1.jpg?ver=1481912584000"
+#   img_alt: "View More &#62;"
+#   url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"  
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a838c1df-866b-4952-9ac6-e5dacd2eb1d4.jpg?ver=1481912585000"
+#   img_alt: "Stocking Stuffers | Easy Last-Minute Gift Ideas "
+#   url: "http://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+# - type: "image-2-columns"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d4a5f069-0683-4c00-b846-d769118986a5.jpg?ver=1481912585000"
+#   img_alt: "Enjou 3d Chocolate Santa "
+#   url: "http://kingsfoodmarkets.com/unique-recipes/roasted-lobster-with-mint-basil-pesto?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+#   img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc66750d-8ff3-48bf-a54e-4ddb805698ea.jpg?ver=1481912585000"
+#   img_alt_2: "New! Big Picture Farms Bourbon Caramels "
+#   url_2: "http://kingsfoodmarkets.com/unique-recipes/kings-own-cioppino-style-fish-stew?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bc408ede-1518-44d2-a408-eaa7d23382bb.jpg?ver=1481912585000"
+#   img_alt: "View More &#62;"
+#   url: "http://kingsfoodmarkets.com/unique-recipes/kings-own-cioppino-style-fish-stew?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ddc92cec-08ba-4cb2-95fc-ed377dd04b36.jpg?ver=1481912586000"
+#   img_alt: "Decadent Desserts | Grab & Go Goodies From the Bakery "
+#   url: "http://kingsfoodmarkets.com/unique-recipes/classic-prime-rib?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9d0fed6b-bfa6-4565-8f40-e3e992f6a2e8.jpg?ver=1481912586000"
+#   img_alt: "Don't forget dessert! Tempt your sweet tooth with our fresh baked holiday favorites: "
+#   url: "http://kingsfoodmarkets.com/unique-recipes/classic-prime-rib?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/78c5005b-db19-47af-8225-ead3e1f0e6d6.jpg?ver=1481912586000"
+#   img_alt: "Winter Wonderland and Gingerbread House Cakes "
+#   url: "http://kingsfoodmarkets.com/unique-recipes/classic-prime-rib?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c2349139-df51-4417-9c08-7b2b13ba89ef.jpg?ver=1481912587000"
+#   img_alt: "Fresh Fruit Tarts "
+#   url: "http://kingsfoodmarkets.com/unique-recipes/classic-prime-rib?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ddc92cec-08ba-4cb2-95fc-ed377dd04b36.jpg?ver=1481912586000"
+#   img_alt: "Festive Yule Log Cakes and More! "
+#   url: "http://kingsfoodmarkets.com/unique-recipes/classic-prime-rib?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3219621c-c346-4d7a-a878-57216f2eaf9e.jpg?ver=1481912587000"
+#   img_alt: "View More &#62;"
+#   url: "http://kingsfoodmarkets.com/unique-recipes/classic-prime-rib?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9b94e6de-dd21-49e5-b384-182b90155ac7.jpg?ver=1481912587000"
+#   img_alt: "What's New In Store"
+#   url: "http://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+
+# - type: "image-2-columns"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/242f85ce-0b83-4e23-88f5-d85295e6aa4e.jpg?ver=1481912588000"
+#   img_alt: "Holiday Hours Our stores will remain open until 6 PM on Christmas Eve/Chanukah for your last minute needs. All stores will be closed on Christmas day. Find a Store > "
+#   url: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+#   img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a6f8c273-0ca5-4856-9435-a26abde46f11.jpg?ver=1481912588000"
+#   img_alt_2: "Holiday Hours Our stores will remain open until 6 PM on Christmas Eve/Chanukah for your last minute needs. All stores will be closed on Christmas day. Find a Store > "
+#   url_2: "http://www.circular.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"  
+
+# - type: "image-2-columns"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/330496b1-becb-4c36-8f0b-dbfd91df424f.jpg?ver=1481912589000"
+#   img_alt: "NYE Catering 2017 is quickly approaching, and we're here to help you celebrate in style. Let our chefs help you host a New Year's Eve celebration with fabulous food for your family and friends. View Menu > "
+#   url: "http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
+#   img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/38b423a5-4742-4b38-b3e2-74c6756d352a.jpg?ver=1481912588000"
+#   img_alt_2: "NYE Catering 2017 is quickly approaching, and we're here to help you celebrate in style. Let our chefs help you host a New Year's Eve celebration with fabulous food for your family and friends. View Menu > "
+#   url_2: "http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail"
