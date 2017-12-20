@@ -1,0 +1,183 @@
+title: "Christmas Catering & Gifts Yule Love."
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/977e8f2e-c422-49b0-8a53-5a995274d60b.jpg?ver=1513700788000'
+  img_alt: 'COMFORT & CHEER We have your last-minute Christmas list covered with holiday catering, wine, gourmet gifts and more. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a9d3295d-dcd2-4fb4-b705-5472f4011beb.jpg?ver=1513700788000'
+  img_alt: 'LAST-MINUTE CHRISTMAS CATERING '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/10c1e071-7213-4d06-8484-744e61b0cbc9.jpg?ver=1513700788000'
+  img_alt: 'There&#39;s still time to order! From decadent caviar to traditional Christmas ham, our catering menu is full of delicious holiday favorites. ORDER NOW > '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b8f562aa-ff9b-486e-a5e2-8c345325b604.jpg?ver=1513700788000'
+  img_alt: ''
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cc011557-3539-49e3-8a31-597bdb4279d8.jpg?ver=1513700788000'
+  img_alt: 'GIFTS IN THE NICK OF TIME '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c9ca725b-1c31-43d4-ad44-3ba900e03561.jpg?ver=1513700789000'
+  img_alt: 'BALDUCCI&#39;S PANETTONE Our traditional Italian Christmas bread is the perfect unique gift to bring to a holiday breakfast or brunch. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1886a12e-aa0e-45c7-a471-a7c612ef0760.jpg?ver=1513700789000'
+  img_alt: 'SUGARFINA SPARKLING HOLIDAY 3-PC. CANDY BENTO BOX® Beautifully packaged, the box holds three Lucite Candy Cubes filled with Champagne Bears, Sparkle Pops and Bubbly Bears. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9d6815ed-775d-4c26-ad5a-c426e9272910.jpg?ver=1513700789000'
+  img_alt: 'LONG GROVE PEPPERMINT BARK Handmade, artisan holiday chocolate and peppermint bark makes a memorable and delicious holiday gift. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0087cf66-73a5-4f6d-808a-ebd436078a68.jpg?ver=1513700790000'
+  img_alt: 'CANT-MISS CHRISTMAS FAVORITES '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6ade5259-7b34-458c-95a6-f1aeed92f00b.jpg?ver=1513700790000'
+  img_alt: 'USDA CHOICE NATURAL BEEF TENDERLOIN STEAK '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c5c6dbc3-39f9-45d2-85bf-7b267acf64b3.jpg?ver=1513700790000'
+  img_alt: 'NEW! ORGANIC CLEANED RAW SHRIMP '
+  url_2: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2797efac-7b9e-4477-b6b0-b6a11f7e5140.jpg?ver=1513700791000'
+  img_alt_2: 'NEW! WILD CAUGHT NORTH ATLANTIC LEMON SOLE '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e0f34c0-19a1-4ef4-970c-dcf85b796f10.jpg?ver=1513700791000'
+  img_alt: 'LAST-MINUTE DESSERTS '
+
+# - type: 'image-3-columns'
+#   url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+#   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b5c3136b-6e77-4dc0-a9b2-7854372196e8.jpg?ver=1513700791000'
+#   img_alt: 'CLASSIC YULE LOG CAKE '
+#   url_2: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+#   img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/60ffafc1-b34d-40af-9cfe-7015396262ec.jpg?ver=1513700791000'
+#   img_alt_2: 'CANNOLI CHIPS PLATTER '
+#   url_3: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+#   img_3: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b6ff6e3c-ec69-4300-abe7-9039677294fe.jpg?ver=1513700792000'
+#   img_alt_3: 'NEW! WILD CAUGHT NORTH ATLANTIC LEMON SOLE '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/395df023-4c23-4b94-b888-3d4175784976.jpg?ver=1513700792000'
+  img_alt: 'TOAST THE SEASON | TOP WINE PICKS '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2c2328e7-6687-441f-abcc-de7b20532f40.jpg?ver=1513700792000'
+  img_alt: 'BALDUCCI&#39;S PROSECCO From the Gasparini estate near Venegazzù, Italy, our Prosecco is a festive choice that&#39;s lively, toasty and creamy with hints of hazelnut and candied fruits. Serve with holiday brunch.'
+  url_2: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3ff6ab4d-05e2-4ceb-823d-cf7edfffbe7e.jpg?ver=1513700792000'
+  img_alt_2: 'BALDUCCI&#39;S ORGANIC CHIANTI Our own rustic Chianti is made of 100% Sangiovese grapes, certified organic by Agricultura Biologica. It&#39;s a Chianti with classic Old World charm. Serve with Christmas dinner. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f277dc66-52b0-42ed-a77d-e8d1cbfcd445.jpg?ver=1513700793000'
+  img_alt: 'WHAT&#39;S NEW | AT BALDUCCI&#39;S '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fdc69428-2e95-4f06-8312-9492b65f3857.jpg?ver=1513700793000'
+  img_alt: 'HOLIDAY HOURS Our stores are open Christmas Eve until 6pm so that you can stop by and find any final touches! We are closed Christmas Day so our employees can spend time with their loved ones. '
+
+# - type: 'image-3-columns'
+#   img_link: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1210_BLD_Catering_Instacart_SoloEmail'
+#   img_alt: 'balduccis.com'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/321136cd-335d-4c90-aff9-f7217cafe98b.jpg?ver=1512048420000'
+#   img_2_link: 'https://www.facebook.com/balduccisfoodloversmarket'
+#   img_2_alt: 'facebook'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7f750478-c39b-4701-ab86-1838b4999ba2.jpg?ver=1512048420000'
+#   img_3_link: 'https://twitter.com/Balduccis'
+#   img_3_alt: 'twitter'
+#   img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2fbb2db2-7e02-495a-891a-d66e728c5e94.jpg?ver=1512048420000'
+
+
+# - type: 'image'
+#   url: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+#   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2d18cca7-6f96-4247-a045-917078658bb3.jpg?ver=1511291664000'
+#   img_alt: 'DON&#39;T FORGET TO USE YOUR PROMO CODE! BALDUCCIS20'
+
+# - type: 'image'
+#   url: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+#   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d7083e02-d9eb-4ff0-aff4-7605c7d53932.jpg?ver=1511291665000'
+#   img_alt: 'DELICIOUS DELIVERED GROCERY DELIVERY IN AS LITTLE AS ONE HOUR START SHOPPING NOW > Powered by instacart'
+
+# - type: 'image-2-columns'
+#   url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+#   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bf37b6de-f63e-44f4-b6d2-049b23dc1f10.jpg?ver=1511291665000'
+#   img_alt: '$20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER* ORDER ONLINE > WE SHOP > WE DELIVER Use promo code BALDUCCIS20 to receive $20 OFF your first order.'
+#   url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1013_BLD_Weekly_Email'
+#   img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e711b665-1397-411d-86d7-6dbd1f4e7627.jpg?ver=1511291665000'
+#   img_alt_2: '$20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER* ORDER ONLINE > WE SHOP > WE DELIVER Use promo code BALDUCCIS20 to receive $20 OFF your first order.'
+
+# - type: 'image'
+#   url: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+#   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f2742a2b-f181-4872-9f89-7c9e3c9bc7b4.jpg?ver=1511291665000'
+#   img_alt: 'SEE HOW EASY IT IS TO SHOP '
+
+# - type: 'image'
+#   url: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+#   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/19ac0dc5-2a72-48a4-a3e3-d46cac75438e.jpg?ver=1511291666000'
+#   img_alt: 'LEARN MORE > '
+
+# - type: 'image'
+#   url: 'http://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1126_BLD_Instacart_SoloEmail'
+#   img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/08defed7-a047-463c-a625-b76622337764.jpg?ver=1511291666000'
+#   img_alt: '*Use Promo Code BALDUCCIS20 to receive $20 off your first order of $35 or more.  $5.99 delivery fee waived with first order of $35 or more. Prices on Instacart match our everyday store prices; sale prices are not available online. myBalducci’s Rewards Card and benefits are not applicable with home delivery. $5.99 delivery fee with $35 minimum order. Optional 10% service charge applied during Instacart check out. ©2017 Balducci&#39;s'
+
+
+
+
+
+
+
+
