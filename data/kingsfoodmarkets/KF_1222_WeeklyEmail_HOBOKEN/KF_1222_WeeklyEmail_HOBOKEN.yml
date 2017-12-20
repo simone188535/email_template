@@ -1,0 +1,189 @@
+title: 'Christmas dinner + gifts in the nick of time!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/389a12c0-3a19-4b29-a1b0-12f32b189258.jpg?ver=1509382949000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e5a09551-0237-4388-a406-bc04f7a04f2e.jpg?ver=1509382950000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8cca0489-8883-4c47-aefa-04cc14ca5a6a.jpg?ver=1509382950000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/933bf00a-714c-441c-9dce-edd8a4fcbaf1.jpg?ver=1509382950000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bbb357f2-5749-47ac-90c4-bccdce5afaff.jpg?ver=1513611184000"
+  img_alt: "LAST-MINUTE HOLIDAY HEADQUARTERS With perfect party platters, festive desserts and sweet stocking stuffers, we&#39;ve got holly & jolly on every aisle."
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/15fc5962-3c40-40d7-8a37-68610a59b0f5.jpg?ver=1513611185000"
+  img_alt: "CREATE AN ELEGANT HOLIDAY TABLESCAPE WATCH VIDEO >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/elegant-table-setting-using-fresh-fruit-herbs?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ad371ba8-11bc-4d54-aede-d6acbb98a0bd.jpg?ver=1513611185000"
+  img_alt: "myKINGS EXTRA! SAVINGS "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fdf47d7-8459-4ee8-9cfa-a5fa83e376f0.jpg?ver=1513611185000"
+  img_alt: "members extra! SAVINGS SAVE 50¢ lb. PERDUE FARMS OVEN STUFFER ROASTER CHICKEN members pay 1.49 LB. "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2b388a35-fa62-40ee-a2cc-b5de1ebe33c9.jpg?ver=1513611185000"
+  img_alt_2: "members extra! SAVINGS SAVE $2 lb. KINGS EXTRA LARGE COCKTAIL SHRIMP TAIL-ON members pay 15.99 LB. "
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0506de3e-1b0f-48d7-b6cb-cfa40d2063bf.jpg?ver=1513611185000"
+  img_alt: "members extra! SAVINGS SAVE $1 ORGANIC CITTERIO SAUSAGE 7 OZ. members pay 10.99 EA. "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0e7f6e85-4d9c-40d3-ad73-cbd12b04dece.jpg?ver=1513611185000"
+  img_alt_2: "members extra! SAVINGS SAVE $1 lb. FRESH GREEN ASPARAGUS members pay 3.99 LB. "
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1f086bb2-f712-4c23-807f-a3652aa1448b.jpg?ver=1513611185000"
+  img_alt: "View More Specials and Make a List VIEW HOBOKEN WEEKLY SALES "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d17880c4-3666-4cd4-ad83-d2f24fd3909a.jpg?ver=1513611186000"
+  img_alt: "PERFECT PLATTERS FOR HOLIDAY ENTERTAINING "
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/23caeed4-4ff3-4b89-a312-99aea92e0e2e.jpg?ver=1513611187000"
+  img_alt: "CITTERIO FRESCO ANTIPASTO PLATTER "
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/038e1ac7-d6ad-4c4f-9a74-fd6168733302.jpg?ver=1513611186000"
+  img_alt_2: "KINGS MINI CHEESE PLATES "
+  url_2: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/aa65b9d3-82b1-4327-b4c9-0d73742cc0e5.jpg?ver=1513611186000"
+  img_alt_3: "KINGS BRUSCHETTA MODENA"
+  url_3: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3ec9f083-01f3-4e4b-8419-54f87cc7af39.jpg?ver=1513611186000"
+  img_alt: "HUNG BY THE CHIMNEY WITH CARE | LAST-MINUTE GIFTS Stock up on stocking stuffers. "
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2649e039-4214-415e-955a-7687100648e8.jpg?ver=1513611186000"
+  img_alt: "FOILED CHOCOLATE SANTA "
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/51fdcbb3-c9da-456a-b240-7004c02910d4.jpg?ver=1513611187000"
+  img_alt_2: "HAMMOND&#39;S PEPPERMINT CANDY CANES"
+  url_2: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e1676685-fe2f-41de-9abb-a1f285dfeff2.jpg?ver=1513611187000"
+  img_alt_3: "LINDT CHOCOLATE BEAR "
+  url_3: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1762ddcc-68f6-488c-915c-27ceecee816e.jpg?ver=1513611187000"
+  img_alt: "HOLIDAY HOURS | Our stores are open until 6PM on Christmas Eve for your last-minute shopping needs. Our stores are closed on Christmas Day."
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/72ed2a18-77ea-44e7-a154-3afb5be1779c.jpg?ver=1513611187000"
+  img_alt: "NEW LOW PRICES!"
+  url: "https://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ad736cbc-1b12-4124-b596-cd9375be420c.jpg?ver=1513611187000"
+  img_alt: "We believe you should be able to eat fresh, delicious and healthy foods at the best possible prices. Fill your cart with the same Kings quality you trust at an even better value!"
+  url: "https://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/af28733a-f105-4b10-954d-408cf9a15215.jpg?ver=1513611187000"
+  img_alt: "Look for the New Low Price icon throughout the store "
+  url: "https://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b1b14656-235a-4354-bc12-81c636db64d9.jpg?ver=1513611188000"
+  img_alt: "OVER 200 VARIETIES OF FRESH PRODUCE ALL NATURAL CHICKEN & GRASS FED BEEF CHEF PREPARED FAMILY PACK MEALS NORWEGIAN SALMON FILLET "
+  url: "https://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6dfab99e-4361-471d-a651-9c77042a372f.jpg?ver=1513611188000"
+  img_alt: "LEARN MORE > "
+  url: "https://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=1222_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/afc3a587-6265-456c-913c-23392fc613ed.jpg?ver=1513611188000"
+  img_alt: "GROCERY DELIVERY | MAKE THE HOLIDAYS EASY "
+  url: "https://delivery.kingsfoodmarkets.com/"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0b08f14d-f797-4afe-8cb6-94422f746350.jpg?ver=1513611188000"
+  img_alt: "NEW! Fast. Fresh. Delivered. Save yourself one more errand and order online. Get all your favorite fresh Kings groceries or Chef Prepared meals delivered in the twinkling of an eye! SAVE $20 ON YOUR FIRST ORDER of $35 OR MORE 9 DAYS LEFT! Powered by instacart "
+  url: "https://delivery.kingsfoodmarkets.com/"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2e34f475-b846-431f-9e77-7faab59c80c9.jpg?ver=1513611189000"
+  img_alt: "ORDER NOW > "
+  url: "https://delivery.kingsfoodmarkets.com/"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
