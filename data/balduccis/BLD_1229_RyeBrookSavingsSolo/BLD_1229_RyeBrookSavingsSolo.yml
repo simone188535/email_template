@@ -1,0 +1,97 @@
+title: 'Save $2 lb. on David&#39;s Chocolate Chunk Cookies'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+# #header
+# logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+# catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# catering_alt: 'CATERING'
+# chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# chef_prepared_alt: 'CHEF PREPARED'
+# store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# store_locator_alt: 'FIND A STORE'
+# my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__'
+# my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+# #footer
+# footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=__EMAIL_NAME__"
+# footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+# footer_site_alt: "balduccis.com"
+# footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+# footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+# footer_facebook_alt: "facebook"
+# footer_twitter_link: "https://twitter.com/Balduccis"
+# footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+# footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/19b9dfc5-c5fc-47c3-8f95-9a1f83f0e6a5.jpg?ver=1514473478000'
+  img_alt: "Balducci&#39;s® Food Lover's Market™ This Week&#39;s Picks in Rye Brook Meat & Seafood Valid 12/29/17 - 1/4/18"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b75e2722-3b96-405b-9ddb-7d6af6385ee3.jpg?ver=1514473478000'
+  img_alt: "Save 3.00 | Organic Grass Fed Boneless Rib Eye Steaks | 100% Grass Fed & Finished, Born & Raised in the US | YOU PAY 21.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05cc5ed6-cfeb-42b1-8640-c2e7a582432d.jpg?ver=1514473478000'
+  img_alt:  "Save 3.00 | Organic Grass Fed Boneless Rib Eye Steaks | 100% Grass Fed & Finished, Born & Raised in the US | YOU PAY 21.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/54f892ba-2f38-4ad4-b3f3-151a45fecad4.jpg?ver=1514473478000'
+  img_alt: "Save 3.00 | Organic Grass Fed Boneless NY Strip Steaks | 100% Grass Fed & Finished, Born & Raised in the US | YOU PAY 21.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/879ef2dc-37b0-4721-9320-c7190bb2cf20.jpg?ver=1514473478000'
+  img_alt: "Save 1.00 | Norwegian Salmon Fillet | Sustainably harvested from Norway&#39;s cold fjords | YOU PAY 14.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d6d6913d-87c5-421b-9656-26e76a7f271c.jpg?ver=1514473479000'
+  img_alt: "Save 1.00 | Mediterranean Baby Pulpo Salad | Classic Italian seafood salad with tender octopus, kalamata olives, peppers and red pepper flakes | YOU PAY 10.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/01236831-ca84-4ee1-a6d8-a556291eb282.jpg?ver=1514473479000'
+  img_alt: "Cheese Specials Valid 12/29/17 - 1/4/18 Save 5.00 | Parmigiano Reggiano | 2 year export quality | 15.99 LB. Save 5.00 | Grated Shaved or Shredded Parmigiano Reggiano | 2 year export quality | 17.99 LB."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/abb59e89-a30f-4925-b2d5-7983562838f7.jpg?ver=1514473479000'
+  img_alt: "Produce, Bakery & More! Valid 12/29/17 - 1/4/18  Save 2.00 | David&#39;s Fresh Baked Chocolate Chunk Cookies | You Pay 6.99 LB. Save 1.00 | Balducci&#39;s Salad Plate | Choose from Chicken, Curried Chicken, Egg, Hummus & Veggie, or Tuna Salad | You Pay 3.99 EA."
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7915edb7-2c3b-4d07-9fa4-af4ac1e1b76e.jpg?ver=1514473479000'
+  img_alt: "Save 1.00 | Broccoli Crowns | You Pay 1.99 EA. Save 98¢ | Grape Tomatoes | Pint | 2/5.00"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/59162dc9-39e4-447e-916e-68155546fdb6.jpg?ver=1514473479000'
+  img_alt: "Save 1.50 | Xochitl Chips, 16 oz., all varieties | You Pay 3.99 EA.Save 4.98 on 2 | Lacroix Sparkling Water 12PK, 144 fl. oz | You Pay 2/7.00"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_RyeBrookSavingsSolo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a7ce4196-aa3b-4e89-b920-8f5781f54e2d.jpg?ver=1514473480000'
+  img_alt: "Save 7.99 on 2 | Gifford&#39;s Ice Cream, 32 oz. | You Pay Buy One Get One Free Save 1.00 | Garden Naturals Bouquet | You Pay 16.99 EA. 144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook"
+
+
+
+
+
+
+
+
