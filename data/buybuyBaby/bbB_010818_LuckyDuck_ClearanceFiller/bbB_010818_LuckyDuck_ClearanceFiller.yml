@@ -1,0 +1,124 @@
+#TITLE
+title: 'Don&#39;t miss our clearance deals!'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 View Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "https://www.buybuybaby.com/store/category/gifts-more/christmas/32732/"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Don&#39;t miss our clearance deals!'
+preheader_link: 'https://www.buybuybaby.com/store/category/clearance-savings/30010/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/clearance-savings/30010/'
+  img_alt: 'lucky duck the best deals are here! Get exclusive offers before they&#39;re gone! shop all clearance clearance by category'
+  img_url: 'images/bbB_010818_LuckyDuck_ClearanceFiller_02.jpg'
+
+- type: 'image-3-columns'
+  img_link: 'https://www.buybuybaby.com/store/category/clearance/car-seats/32608/'
+  img_alt: 'car seats shop now'
+  img_url: 'images/bbB_010818_LuckyDuck_ClearanceFiller_03.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/category/clearance/gear-travel/32248/'
+  img_2_alt: 'gear & travel shop now'
+  img_2_url: 'images/bbB_010818_LuckyDuck_ClearanceFiller_04.jpg'
+  img_3_link: 'https://www.buybuybaby.com/store/category/clearance/bedding-decor/32252/'
+  img_3_alt: 'bedding shop now'
+  img_3_url: 'images/bbB_010818_LuckyDuck_ClearanceFiller_05.jpg'
+
+- type: 'image-3-columns'
+  img_link: 'https://www.buybuybaby.com/store/category/clearance/nursing-feeding/32250/'
+  img_alt: 'nursing & feeding shop now'
+  img_url: 'images/bbB_010818_LuckyDuck_ClearanceFiller_06.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/category/clearance/clothing-accessories/32254/'
+  img_2_alt: 'clothing shop now'
+  img_2_url: 'images/bbB_010818_LuckyDuck_ClearanceFiller_07.jpg'
+  img_3_link: 'https://www.buybuybaby.com/store/category/clearance/toys-learning/32253/'
+  img_3_alt: 'toys shop now'
+  img_3_url: 'images/bbB_010818_LuckyDuck_ClearanceFiller_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/smart-innovations/32701/'
+  img_alt: 'SMART INNOVATION Stay connected to your home 24/7 shop now'
+  img_url: 'images/bbB_010818_LuckyDuck_ClearanceFiller_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/whats-new/30008/?catFlg=true'
+  img_alt: 'see what&#39;s new We know you&#39;ll love these fresh and exciting finds. shop now'
+  img_url: 'images/bbB_010818_LuckyDuck_ClearanceFiller_10.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: '$100 Graco deals! Save on 4Eever™ Extend2Fit Car Seats. Shop now'
+  img_url: 'images/bbB_010818_LuckyDuck_ClearanceFiller_11.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+  img_alt: 'Get it on Google Play'
+  img_url: 'images/bbB_emailfooter_01.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'Download on the App Store'
+  img_2_url: 'images/bbB_emailfooter_02.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailfooter_03.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailfooter_04.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailfooter_05.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailfooter_06.jpg"
+  alt: "Pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailfooter_07.jpg"
+  alt: "YouTube logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailfooter_08.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_emailfooter_09.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
