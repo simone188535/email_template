@@ -1,0 +1,159 @@
+title: 'Tinsel in a tangle? Check out our holiday solution.'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8821530-b079-427c-96b1-2d07abf11d05.jpg?ver=1495479649000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/49775b6e-1d5e-4043-98ce-3d6864d303ca.jpg?ver=1513177892000"
+  img_alt: "CREATE SOME CHRISTMAS MAGIC | From holiday meats to Chef Prepared catering, we have everything you need to keep bellies full and spirits bright. CREATE THE PERFECT RIB ROAST VIEW TIPS > "
+  img_link: "https://kingsfoodmarkets.com/unique-recipes/classic-prime-rib?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/37c1db70-3233-4aa7-9311-723f9b3b68a6.jpg?ver=1513177893000"
+  img_alt: "A FESTIVE FEAST CHRISTMAS CATERING "
+  img_link: "https://kingsfoodmarkets.com/orderchristmas?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image-2-columns"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fb61dca6-69ae-4ae7-892b-53f5b0f62a03.jpg?ver=1513177895000"
+  img_alt: "NEW! CHRISTMAS MEAL ORDER FORM Choose from traditional favorites like beef tenderloin, slow roasted turkey, creamy mashed potatoes and much more! BUT HURRY, Christmas is right around the corner! MEALS INCLUDE: • 1 ENTRÉE • 3 SIDES • 2 EXTRAS "
+  img_link: "https://kingsfoodmarkets.com/orderchristmas?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+  img_2_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/38afb2be-bde5-4981-a714-dd1bc2c34417.jpg?ver=1513177897000"
+  img_2_alt: "NEW! CHRISTMAS MEAL ORDER FORM Choose from traditional favorites like beef tenderloin, slow roasted turkey, creamy mashed potatoes and much more! BUT HURRY, Christmas is right around the corner! MEALS INCLUDE: • 1 ENTRÉE • 3 SIDES • 2 EXTRAS "
+  img_2_link: "https://kingsfoodmarkets.com/orderchristmas?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6b29e724-6629-4ea0-96fb-b105b704fb75.jpg?ver=1513177898000"
+  img_alt: "START YOUR ORDER NOW > "
+  img_link: "https://kingsfoodmarkets.com/orderchristmas?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/63844f91-6b7c-4bb4-866c-cb8f8c26f9e2.jpg?ver=1513183829000"
+  img_alt: "myKINGS EXTRA! SAVINGS "
+  img_link: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image-2-columns"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e4eb9316-6768-472f-ae1c-89405b9722a6.jpg?ver=1513183831000"
+  img_alt: "SAVE $2 lb. USDA CHOICE BEEF TENDERLOIN TRIMMED ROAST OR STEAKS members pay 22.99 LB. "
+  img_link: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+  img_2_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f6bc58fd-4912-465b-b602-a56d06835b72.jpg?ver=1513183834000"
+  img_2_alt: "SAVE $2 lb. WILD CAUGHT HOKKAIDO SEA SCALLOPS members pay 20.99 LB. "
+  img_2_link: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2eb70138-dc36-438d-baab-cb2aef65a3f8.jpg?ver=1513183834000"
+  img_alt: "View More Specials and Make a List | VIEW HOBOKEN WEEKLY SALES"
+  img_link: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/752dab0c-c9a7-44c8-8320-2a855c05cde7.jpg?ver=1513177906000"
+  img_alt: "FEAST OF THE 7 FISHES | SEAFOOD RECIPES "
+  img_link: "https://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image-2-columns"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3573953d-157f-4c6c-8a85-ac669297b740.jpg?ver=1513177908000"
+  img_alt: "KINGS OWN CIOPPINO STYLE FISH STEW VIEW RECIPE "
+  img_link: "https://kingsfoodmarkets.com/unique-recipes/kings-own-cioppino-style-fish-stew?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+  img_2_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3def2829-11c7-4ed0-a099-4ecdaeaf5b57.jpg?ver=1513177909000"
+  img_2_alt: "LOBSTER RISOTTO VIEW RECIPE "
+  img_2_link: "https://kingsfoodmarkets.com/unique-recipes/lobster-risotto?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8f494b4f-e1c2-4365-a764-a4f69bd07646.jpg?ver=1513177910000"
+  img_alt: "GOURMET GIFT IDEAS "
+  img_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d06bb0b5-3749-4cd3-8e99-fd7f9fd649a8.jpg?ver=1513177914000"
+  img_alt: "HOMEMADE PEPPERMINT MARSHMALLOWS | These DIY homemade peppermint marshmallows make hot cocoa extra special, and are the perfect festive foodie gift! "
+  img_link: "https://kingsfoodmarkets.com/unique-recipes/homemade-peppermint-marshmallows?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/715b903b-30ef-4151-8f83-4eb873b6fa5d.jpg?ver=1513177917000"
+  img_alt: "KINGS GIFT CARD | TORTUGA RUM CAKE | VALENTINO PANETTONE ALMOND CRUST | FRAU HELGA DRESDEN STOLLEN "
+  img_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/530730f7-07a6-4f39-ba2f-9e843d97d923.jpg?ver=1513177920000"
+  img_alt: "GROCERY DELIVERY | MAKE THE HOLIDAYS EASY "
+  img_link: "https://delivery.kingsfoodmarkets.com/"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f892a336-1ba3-4533-9ba1-b8ae73a81d55.jpg?ver=1513177927000"
+  img_alt: "NEW! Fast. Fresh. Delivered. Save yourself one more errand and order online. Get all your favorite fresh Kings groceries or Chef Prepared meals delivered in the twinkling of an eye! ORDER NOW > SAVE $20 ON YOUR FIRST ORDER OF $35 OR MORE | Powered by instacart "
+  img_link: "https://delivery.kingsfoodmarkets.com/"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec897cfe-eb61-46b8-8758-b12a05683e32.jpg?ver=1513177928000"
+  img_alt: "NEW! Fast. Fresh. Delivered. Save yourself one more errand and order online. Get all your favorite fresh Kings groceries or Chef Prepared meals delivered in the twinkling of an eye! ORDER NOW > SAVE $20 ON YOUR FIRST ORDER OF $35 OR MORE | Powered by instacart "
+  img_link: "https://delivery.kingsfoodmarkets.com/"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0dfb196-564b-4f34-897b-b76fb2bde285.jpg?ver=1513177929000"
+  img_alt: "WHAT'S NEW IN STORE "
+  img_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9f934a34-533d-487b-a3ef-2c05aa8298e8.jpg?ver=1513177930000"
+  img_alt: "KINGS KID&#39;S PICKS A grab and go meal that kids will love! Find it in our ready-to-go deli section. "
+  img_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4875801e-b71c-45ea-8877-7bc745ba90e5.jpg?ver=1513177933000"
+  img_alt: "PASS THE PASTA FILOTEA PASTA Perfect for your Feast of the Seven Fishes meal, this dried pasta tastes fresh and homemade, but is ready to heat and eat anytime! LEARN MORE > "
+  img_link: "https://kingsfoodmarkets.com/kings-own-brand/kings-artisan-egg-pasta?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_KF_WeeklyEmail_HOBOKEN"
+
+
+
+
+
+
+
+
+
+
+
+
+
+

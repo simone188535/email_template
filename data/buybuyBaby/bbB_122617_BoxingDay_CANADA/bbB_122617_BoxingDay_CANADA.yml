@@ -1,0 +1,143 @@
+title: 'Hurry, these deals won&#39;t last!'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_CA_FeeShipping49_Header_01.jpg"
+logo_img_alt: "buybuy CA Baby Logo"
+logo_img_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/?"
+
+freeshipping_img_url: "images/bbB_CA_FeeShipping49_Header_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details "
+freeshipping_img_link: "http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/"
+
+instore_img_url: "images/bbB_CA_FeeShipping49_Header_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.bedbathandbeyond.ca/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_CA_FeeShipping49_Header_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "https://www.bedbathandbeyond.ca/store/page/BabyCanadaRegistry"
+
+nav1_url: "images/bbB_CA_FeeShipping49_Header_05.jpg"
+nav1_alt: "baby nursery"
+nav1_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/22927"
+
+nav2_url: "images/bbB_CA_FeeShipping49_Header_06.jpg"
+nav2_alt: "nursing &amp; feeding"
+nav2_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/22936/"
+
+nav3_url: "images/bbB_CA_FeeShipping49_Header_07.jpg"
+nav3_alt: "bath &amp; potty"
+nav3_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Hurry, these deals won&#39;t last!'
+preheader_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE=H'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/'
+  img_alt: 'boxing day deals! While supplies last! shop all deals'
+  img_url: 'images/bbB_122617_BoxingDay_CANADA_03.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'NOW 19.99 Fisher-Price® Laugh &amp; Learn Let&#39;s Get Ready Sink shop now'
+  img_url: 'images/bbB_122617_BoxingDay_CANADA_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-3-in-1-musical-activity-gym/1043718450?Keyword=43718450'
+  img_alt: 'NOW 23.99 Fisher-Price® 3-in-1 Musical Activity Gym shop now'
+  img_url: 'images/bbB_122617_BoxingDay_CANADA_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/fisher-price-reg-3-in-1-musical-activity-gym/1043718450'
+  img_alt: '50% off all Summer Infant® SwaddlerMe® shop now'
+  img_url: 'images/bbB_122617_BoxingDay_CANADA_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/chicco-reg-lullaby-baby-orion-playard-in-black/1046866806'
+  img_alt: '$100 off Chicco Lullaby® Orion Playard shop now'
+  img_url: 'images/bbB_122617_BoxingDay_CANADA_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/baby-gifts/keepsakes/22994/'
+  img_alt: 'up to 50% off Baby Keepsakes shop now'
+  img_url: 'images/bbB_122617_BoxingDay_CANADA_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/fisher-price-classics-toys'
+  img_alt: '40% off Fisher-Price® Classics Toys shop now'
+  img_url: 'images/bbB_122617_BoxingDay_CANADA_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/car-seats/22914/'
+  img_alt: 'up to 30% off select Car Seats shop now'
+  img_url: 'images/bbB_122617_BoxingDay_CANADA_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/health-safety/baby-monitors/22954/'
+  img_alt: 'up to 30% off select Baby Monitors shop now'
+  img_url: 'images/bbB_122617_BoxingDay_CANADA_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/s/just-born-mix-match'
+  img_alt: 'up to 30% off select Just Born® Mix & Match Bedding shop now'
+  img_url: 'images/bbB_122617_BoxingDay_CANADA_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/baby-kids-clothing/22974/'
+  img_alt: 'up to 30% off select Baby Clothing shop now'
+  img_url: 'images/bbB_122617_BoxingDay_CANADA_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/'
+  img_alt: 'shop all deals'
+  img_url: 'images/bbB_122617_BoxingDay_CANADA_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/what-s-new/baby-kids/22367/'
+  img_alt: 'what&#39;s new shop what&#39;s new'
+  img_url: 'images/bbB_122617_BoxingDay_CANADA_15.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: 'we&#39;re in your neighbourhood find a store'
+  img_url: 'images/bbB_122617_BoxingDay_CANADA_16.jpg'
+
+socialnav:
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
