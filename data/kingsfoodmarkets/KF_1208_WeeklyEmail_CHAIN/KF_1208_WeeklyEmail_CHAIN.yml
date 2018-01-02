@@ -1,0 +1,208 @@
+title: 'From making matzoh balls to decking the halls...'
+
+primary_color: '#'
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8821530-b079-427c-96b1-2d07abf11d05.jpg?ver=1495479649000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9d354fdc-1412-4e60-8141-1ad293630d66.jpg?ver=1512416798000"
+  img_alt: "8 NIGHTS FILLED WITH LIGHT | From brisket to blintz, Kings is your holiday solution headquarters! "
+  img_link: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/95613cbc-6ea5-4d16-af55-1616cbaaa274.jpg?ver=1512416798000"
+  img_alt: "CHANUKAH DINNER IS DONE! "
+  img_link: "https://kingsfoodmarkets.com/catering-by-kings/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image-2-columns"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/362449c6-5601-445a-9ec8-1ab972557443.jpg?ver=1512416798000"
+  img_alt: "Order your complete dinner today! Enjoy your favorites like our mouth-watering brisket, savory matzoh ball soup, and a selection of delectable desserts. MEALS INCLUDE: • 1 ENTRÉE • 3 SIDES • 2 EXTRAS "
+  img_link: "https://kingsfoodmarkets.com/catering-by-kings/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+  img_2_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f48ae933-da38-4886-962d-89dde08b01a9.jpg?ver=1512416798000"
+  img_2_alt: "Order your complete dinner today! Enjoy your favorites like our mouth-watering brisket, savory matzoh ball soup, and a selection of delectable desserts. MEALS INCLUDE: • 1 ENTRÉE • 3 SIDES • 2 EXTRAS "
+  img_2_link: "https://kingsfoodmarkets.com/catering-by-kings/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/24037abb-77ad-4609-9f17-6fda3c84e287.jpg?ver=1512416799000"
+  img_alt: "START YOUR ORDER NOW > "
+  img_link: "https://kingsfoodmarkets.com/catering-by-kings/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/73400e09-23d3-4837-b3a4-5946347335bf.jpg?ver=1512416799000"
+  img_alt: "myKINGS EXTRA! SAVINGS "
+  img_link: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image-2-columns"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1edea418-01c7-41c4-a630-ecba4b7d4d4c.jpg?ver=1512416800000"
+  img_alt: "SAVE $3 lb. USDA CHOICE FIRST CUT NATURAL BEEF BRISKET members pay 8.99 LB. "
+  img_link: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+  img_2_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d956532b-9df2-44a8-8964-afbe6f1ec452.jpg?ver=1512416799000"
+  img_2_alt: "HALF PRICE! LILLY'S CHALLAH BREAD 15 OZ. members pay 2.99 EA. "
+  img_2_link: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8160823-7e73-49da-a285-9aac5aceb828.jpg?ver=1512416800000"
+  img_alt: "VIEW WEEKLY SALES >"
+  img_link: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8b9de2d5-99f8-47bc-8acc-2f1a80fdf908.jpg?ver=1512416800000"
+  img_alt: "CHANUKAH RECIPES "
+  img_link: "https://kingsfoodmarkets.com/jewish-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image-2-columns"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cd64dd3e-8436-4fa8-9140-177a50f64645.jpg?ver=1512416800000"
+  img_alt: "DEEP DISH POTATO KUGEL "
+  img_link: "https://kingsfoodmarkets.com/unique-recipes/deep-dish-potato-kugel?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+  img_2_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bf2b02cb-23cc-4f14-bc14-8c20d2bb9364.jpg?ver=1512416800000"
+  img_2_alt: "OLIVE OIL DARK CHOCOLATE MOUSSE "
+  img_2_link: "https://kingsfoodmarkets.com/unique-recipes/olive-oil-dark-chocolate-mousse?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0849345-9343-456e-9f1b-e8d79852404c.jpg?ver=1512416800000"
+  img_alt: "MORE CHANUKAH RECIPES > "
+  img_link: "https://kingsfoodmarkets.com/jewish-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/141c7932-505d-4e58-abb0-8dda4b6ee264.jpg?ver=1512416801000"
+  img_alt: "CHRISTMAS CATERING | NO-FUSS FEAST "
+  img_link: "https://kingsfoodmarkets.com/orderchristmas?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image-2-columns"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5321e5c5-449f-432e-b6dc-8f95dc2cdb86.jpg?ver=1512416801000"
+  img_alt: "Create a complete custom meal. Choose from delectable holiday favorites like beef tenderloin, slow roasted turkey, creamy mashed potatoes and much more! MEALS INCLUDE: • 1 ENTRÉE • 3 SIDES • 2 EXTRAS "
+  img_link: "https://kingsfoodmarkets.com/orderchristmas?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+  img_2_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0aab96d3-fd2d-4362-847a-154aa18a653a.jpg?ver=1512416801000"
+  img_2_alt: "Create a complete custom meal. Choose from delectable holiday favorites like beef tenderloin, slow roasted turkey, creamy mashed potatoes and much more! MEALS INCLUDE: • 1 ENTRÉE • 3 SIDES • 2 EXTRAS "
+  img_2_link: "https://kingsfoodmarkets.com/orderchristmas?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/921eeb09-5060-4617-ae27-d4912c98c6d2.jpg?ver=1512416801000"
+  img_alt: "NEW! Christmas Meal Order Form | START YOUR ORDER NOW > "
+  img_link: "https://kingsfoodmarkets.com/orderchristmas?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6e708f22-65db-43e5-87ef-71bc70f8f5f0.jpg?ver=1512416802000"
+  img_alt: "HOLIDAY ENTERTAINING "
+  img_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ce83f118-10d3-4e8b-8ac9-f4988467dd8e.jpg?ver=1512416802000"
+  img_alt: "Create your own gourmet antipasto holiday platter. Choose from these items in the grocery department: "
+  img_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image-4-columns"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6100b6d2-ecfb-49ab-bd92-bc738a71ab2d.jpg?ver=1512416802000"
+  img_alt: "Citterio Sweet Slicing Sopressata"
+  img_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+  img_2_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ee411cf9-1448-4c61-a386-420be926964f.jpg?ver=1512416802000"
+  img_2_alt: "Bella Sun Luci Sundried Tomatoes"
+  img_2_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+  img_3_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7663b506-9877-495d-9c3e-e53f35c34fcd.jpg?ver=1512416802000"
+  img_3_alt: "Citterio Prosciutto di Parma"
+  img_3_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+  img_4_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9c16b16f-e7d5-41b7-8675-b907af3f3e05.jpg?ver=1512416802000"
+  img_4_alt: "Auricchio Imported Aged Provolone"
+  img_4_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/881800cb-de0a-4a32-9d31-2c3f27b2cda2.jpg?ver=1512416803000"
+  img_alt: "SIGHTS & SCENTS OF THE HOLIDAYS "
+  img_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/acb45e02-1404-4c3b-a4fa-44896f2f0d30.jpg?ver=1512416803000"
+  img_alt: "Beautiful flowers and festive fragrances are sure to make spirits bright. "
+  img_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1e387fe4-3401-48d0-bcf5-f8a3c6fe466b.jpg?ver=1512416803000"
+  img_alt: "HOLIDAY SIGHTS | Festive Holiday Floral "
+  img_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image-3-columns"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7974d6e-35e0-4723-9c9f-1249c586ad3b.jpg?ver=1512416803000"
+  img_alt: "Locally Grown Poinsettias"
+  img_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+  img_2_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3868fded-40a0-4191-8969-e49b02d98120.jpg?ver=1512416803000"
+  img_2_alt: "Vineyard Bouquet "
+  img_2_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+  img_3_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/51bac0b5-a4d0-436c-8f84-fe2d0e9b46a0.jpg?ver=1512416803000"
+  img_3_alt: "Phalaenopsis Orchid "
+  img_3_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a08469b6-4f61-4902-9dc2-00b0fa2ddd9d.jpg?ver=1512416804000"
+  img_alt: "HOLIDAY SCENTS | Michel Design Works Spruce Collection "
+  img_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/34e14c81-423d-4064-9742-abc065c4a643.jpg?ver=1512416804000"
+  img_alt: "WHAT'S NEW IN STORE "
+  img_link: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9c3bc3b9-d6fc-4247-a9ca-ae1f81567c91.jpg?ver=1512416805000"
+  img_alt: "FRESH WHITE TRUFFLES LIMITED QUANTITY! A rare and delicious delicacy, the white truffle comes from northern Italy. They are sublime when shaved over buttered pasta or mashed potatoes. Special order at your local Kings. FIND A STORE "
+  img_link: "https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/24cb5811-9baa-43a4-aaba-b749b64b8d5c.jpg?ver=1512416805000"
+  img_alt: "GROCERY DELIVERY Save yourself one more errand and order online. Get all your favorite fresh Kings groceries or Chef Prepared meals delivered in the twinkling of an eye! ORDER NOW > $20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER | Powered by instacart "
+  img_link: "https://delivery.kingsfoodmarkets.com/"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

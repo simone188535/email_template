@@ -1,0 +1,113 @@
+title: 'SO Many Gifts, SO Little Time! VISIT NOW!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=discount_home_decor&utm_content=homepage"
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=find_a_store&utm_content=locations"
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'Finalize your gift list for less!'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_122317_Email_03.jpg'
+  image_alt: 'COUNTDOWN TO CHRISTMAS Visit Now for Big Savings! 2 DAYS LEFT MON - SAT 8AM - 9PM | CHRISTMAS EVE 9AM - 5PM CHRISTMAS DAY CLOSED '
+  image_link: 'https://oldtimepottery.com/locations#utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=holiday_sales_and_great_holiday_deals&utm_content=extended_hours'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_122317_Email_05.jpg'
+  image_alt: 'Santa&#39;s Toys for Every Kid! 30%off Arrive early for the best selection! Availability varies by store. Excludes $1-$5 everyday value toys. HURRY IN FOR THE BEST TOY BRANDS!'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=holiday_sales_and_great_holiday_deals&utm_content=santas_toys '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_122317_Email_06.jpg'
+  image_alt: 'SPECIAL OFFER 40% off NOW $29.99 Custom Kitchen, Creativity Desk & Easel and Oversized Playsets While supplies last PRESENTS FOR THE NICE LIST  TREND ITEM 9.99 ea UP TO $14.99 AT OTHER STORES Popsocket Assorted. Phone not included. 4.99sale UP TO $19.99 AT OTHER STORES Journals Assorted styles. now & wow 9.99 sale UP TO $19.99 AT OTHER STORES Mini All-Weather Bluetooth Speakers Three styles.'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=holiday_sales_and_great_holiday_deals&utm_content=best_selling_gifts '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_122317_Email_07.jpg'
+  image_alt: 'BEST-SELLING GIFTS Franklin 7.99 ea UP TO $14.99 AT OTHER STORES Franklin Sport Balls Football, soccer & more. 111 PIECES 34.99 sale UP TO $59.99 AT OTHER STORES Lincoln Logs 100th Anniversary tin. 111 all wood pieces. Wishpets 30% off ALL Plush SALE PRICE: 70¢-$34.99 UP TO $59.99 AT OTHER STORES'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=holiday_sales_and_great_holiday_deals&utm_content=best_selling_gifts2 '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_122317_Email_08.jpg'
+  image_alt: '19.99ea UP TO $29.99 AT OTHER STORES Miniature Gaming Arcade 230 games. 19.99ea &#34;poopsie&#34; and &#34;love&#34; Emoji Pillows now & wow 9.99 sale UP TO $29.99 AT OTHER STORES Bean Bag Chairs Large selection. Selection varies by store. SALE PRICES UP TO 65%off OTHER STORES&#39; PRICES! When they&#39;re gone, they&#39;re gone. Due to the seasonal nature of our products,quantities, assortments and sizes may vary by store. We do not offer rain checks. VIEW AD'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=holiday_sales_and_great_holiday_deals&utm_content=view_ad '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_122317_Email_09.jpg'
+  image_alt: 'STOCK UP ON STOCKING STUFFERS!'
+  image_link: '#'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_122317_Email_10.jpg'
+  image_alt: '30%off CHRISTMAS THEMED DINNERWARE'
+  image_link: '#'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_122317_Email_11.jpg'
+  image_alt: 'ALL CHRISTMAS 30%off '
+  image_link: 'https://oldtimepottery.com/christmas#utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=holiday_sales_and_great_holiday_deals&utm_content=30off_christmas '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_122317_Email_12.jpg'
+  image_alt: 'SALE PRICES All Season Long!'
+  image_link: '#'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_122317_Email_13.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=otp_instagram&utm_content=get_inspired'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_122317_Email_14.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=otp_instagram&utm_content=get_inspired'
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=otp_store_locations&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=otp_store_blog&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=otp_youtube&utm_content=youtube"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer12_23&utm_medium=email&utm_campaign=santa_is_loading_his_sleigh&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""

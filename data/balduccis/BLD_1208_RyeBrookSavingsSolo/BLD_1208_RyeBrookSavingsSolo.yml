@@ -1,0 +1,108 @@
+title: ' '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: ''
+logo_alt: ''
+catering_link: ''
+catering_alt: ''
+chef_prepared_link: ''
+chef_prepared_alt: ''
+store_locator_link: ''
+store_locator_alt: ''
+my_balduccis_link: ''
+my_balduccis_alt: ''
+
+#footer
+footer_site_link: ""
+footer_site_img: ""
+footer_site_alt: ""
+footer_facebook_link: ""
+footer_facebook_img:  ""
+footer_facebook_alt: ""
+footer_twitter_link: ""
+footer_twitter_img: ""
+footer_twitter_alt: ""
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Balducci&#39;s® Food Lover&#39;s Market™ This Week&#39;s Picks in Rye Brook Meat & Seafood Valid 12/8 - 12/14/17'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b711c176-64c3-4563-8a47-2f17b930e58e.jpg?ver=1512679285000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 7.00 | Wild Caught Hokkaido Sea Scallops | Pristine 10-20ct., Great for searing, serve with creamy risotto | YOU PAY 19.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dabda2b4-3d0c-4df9-9b07-78a0a132023c.jpg?ver=1512679285000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 7.00 | Wild Caught Hokkaido Sea Scallops | Pristine 10-20ct., Great for searing, serve with creamy risotto | YOU PAY 19.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b450b9a0-f394-45e2-9c15-eb59ba907648.jpg?ver=1512679285000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 1.00 | Fresh Store Made Beef Meatballs | Ready to cook | YOU PAY 6.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4cb2f374-a1b5-4ac2-b275-e638db79ed45.jpg?ver=1512679286000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 2.00 | Norwegian Salmon Fillet | Great roasted with tomatoes & broccoli rabe | YOU PAY 13.99 EA.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1d3e66fa-49fd-4947-a332-6f913739412e.jpg?ver=1512679286000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 1.00 | USDA Choice Loin Lamb Chops | American Lamb, Great broiled | YOU PAY 17.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b447aeb3-cb95-4af8-87e4-f51d6a0b46d2.jpg?ver=1512679286000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Cheese Savings Valid 12/8/17 - 12/14/17 Save 10.00 | Beaufort |Flowery and meaty cheese with a firm yet buttery taste  | YOU PAY 24.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ddcf0d19-a8ea-41fa-8e00-bb7956c58c25.jpg?ver=1512679287000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 5.00 | Gruyere Swiss Wheel | Dense & compact, slightly grainy | YOU PAY 15.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/01f0de60-4b89-4b9d-85c2-273b046f6fcd.jpg?ver=1512679287000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Produce, Bakery & More! Valid 12/8/17 - 12/14/17 GET $1.00 OFF HOT SANDWICHES | Several Varieties to choose from'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5eb1d409-0c62-4ea5-a5d5-b07e215d4d60.jpg?ver=1512679287000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 3.00 | Balducci&#39;s Olive or Antipasti Bar | You Pay 7.99 LB. Save 2.00 | French Braided Brioche Loaf | You Pay 6.99 EA. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6fa06841-f221-44db-ac36-acc000eaddec.jpg?ver=1512679287000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 1.00 | Broccoli Crowns | Hearty | You Pay 1.99 EA. Save 50¢ | Navel Oranges | Sweet & Juicy | You Pay 1.49 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/16b9a26b-5d45-4064-a978-a479c223f2c1.jpg?ver=1512679288000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 7.00 | Colavita Extra Virgin Olive Oil, 34 fl oz. | You Pay 9.99 EA. Save 1.20 | Stonewall Kitchen Traditional Crepe Mix | You Pay 6.99 EA.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/76eec545-2625-4f08-aea3-2255b7bc91cb.jpg?ver=1512679288000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 1.70 | Land O&#39;Lakes Butter, Salted or Unsalted, 16 oz. | You Pay 4.99 EA. Save 1.00 | Holiday Dozen Rose Bouquet | You Pay 18.99 EA. 144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/99f20582-cce1-4951-a55c-a1adb7a13854.jpg?ver=1512679288000'
+
+
+
+
+
+
+
+
+
