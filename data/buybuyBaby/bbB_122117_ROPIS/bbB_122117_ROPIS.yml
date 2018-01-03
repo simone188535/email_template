@@ -1,0 +1,146 @@
+#TITLE
+title: 'Shop now. Pay in-store'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 View Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what's new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "holiday &amp; gifts"
+nav2_link: "https://www.buybuybaby.com/store/category/gifts-more/christmas/32732/"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Shop now. Pay in-store'
+preheader_link: 'https://www.buybuybaby.com/store/static/reserveonline'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View online'
+viewaswebpage_link: '${form(campaign.name,&#39;ONLINE=Y&#39;,ONLINEPARAMS)}'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/reserveonline'
+  img_alt: 'need it today? Use in-store pickup. Reserve your items online and pick them up in-store. learn more'
+  img_url: 'images/bbB_122117_ROPIS_03.jpg'
+
+- type: 'image'
+  img_link: ''
+  img_alt: 'find a lower price? Shop CONFIDENT knowing you&#39;ll always get the best price. view details'
+  img_url: 'images/bbB_122117_ROPIS_04.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/go-go-smart-wheels-reg-race-play-adventure-park-trade-in-blue/1061286801'
+  img_alt: 'Go Go! Smart Wheels® Race & Play Adventure Park™ by Vtech® 39.99'
+  img_url: 'images/bbB_122117_ROPIS_05.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-monster-pop-up-surprise/1061407817'
+  img_2_alt: 'Monster Pop-up Surprise by Fisher-Price® 14.99'
+  img_2_url: 'images/bbB_122117_ROPIS_06.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/vtech-super-star-learning-table/1044321666'
+  img_alt: 'Super Star Learning Table by Vtech® 39.99'
+  img_url: 'images/bbB_122117_ROPIS_07.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/vtech-reg-touch-learn-activity-desk-trade-deluxe/1046605559'
+  img_2_alt: 'Touch & Learn Activity Desk™ Deluxe by Vtech® 49.99 FREE SHIPPING'
+  img_2_url: 'images/bbB_122117_ROPIS_08.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/ultimate-alphabet-cube-in-orange/1061286917'
+  img_alt: 'Ultimate Alphabet Cube by Vtech® 49.99 FREE SHIPPING'
+  img_url: 'images/bbB_122117_ROPIS_09.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/vtech-reg-leapfrog-count-along-register/1060072245'
+  img_2_alt: 'Leapfrog® Count Along Register by Vtech® 19.99'
+  img_2_url: 'images/bbB_122117_ROPIS_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/gifts-for-kids/32740/'
+  img_alt: 'shop all gifts'
+  img_url: 'images/bbB_122117_ROPIS_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States. '
+  img_url: 'images/bbB_122117_ROPIS_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/crayola/453'
+  img_alt: 'creative, colorful, & fun find a store'
+  img_url: 'images/bbB_122117_ROPIS_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/GiftCardHomePage'
+  img_alt: 'always the perfect gift Gift Cards or eGift cards shop now'
+  img_url: 'images/bbB_122117_ROPIS_14.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'introducing the buybuy BABY® Mastercard Credit Card earn 5% back in rewards on purchases made at buybuy BABY click here for details'
+  img_url: 'images/bbB_122117_ROPIS_15.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/tcp'
+  img_alt: 'mobile offers 20% off First-time subscribers get a one single item mobile offer for in-store or online use on a future purchase. text OFFER2 to 42229 view details Message and data rates may apply. Mobile internet access required. Up to 8 msg/month. Text STOP to 42229 to cancel. terms, Conditions, and Privacy. You understand that you do not have to sign up for this program to make any purchases., and your consent above is not a condition of purchase. You understand that we will send mobile text messaged using automated technology.'
+  img_url: 'images/bbB_122117_ROPIS_16.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+  img_alt: 'Get it on Google Play'
+  img_url: 'images/bbB_emailfooter_01.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'Download on the App Store'
+  img_2_url: 'images/bbB_emailfooter_02.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailfooter_03.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailfooter_04.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailfooter_05.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailfooter_06.jpg"
+  alt: "Pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailfooter_07.jpg"
+  alt: "YouTube logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailfooter_08.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_emailfooter_09.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'

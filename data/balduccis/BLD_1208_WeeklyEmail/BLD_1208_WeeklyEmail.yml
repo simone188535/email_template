@@ -1,0 +1,132 @@
+title: '4 Days to Chanukah. Finalize your menu now!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fd622682-ba88-4edf-b556-45fbf298e4e8.jpg?ver=1480433938000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2c0bb533-04fa-451b-a858-e5f256090e20.jpg?ver=1512399867000'
+  img_alt: 'WISHING YOU LIGHT, LAUGHTER & LOVE | Finalize your menu, find the perfect wine and make the holiday shine! '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a57e3866-b797-41a0-a258-77d80a03bfd5.jpg?ver=1512399867000'
+  img_alt: 'CHANUKAH CATERING'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a54fcf1f-3618-4dc6-87c1-4d1227e9eaf7.jpg?ver=1512399868000'
+  img_alt: 'It&#39;s Not Too Late to Order Your Feast! There&#39;s still time to order your favorite Chef Prepared Chanukah classics like our mouth-watering brisket, savory matzoh ball soup, and a selection of delectable desserts. ORDER NOW > '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/67903e8f-a189-41a2-8596-db2edb2c9856.jpg?ver=1512399868000'
+  img_alt: 'LEMON THYME ROASTED CHICKEN '
+  img_2_link: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dad6c284-f44e-4acc-9b28-492d47d2af58.jpg?ver=1512399868000'
+  img_2_alt: 'MATZOH BALLS IN BROTH '
+
+- type: 'image'
+  img_link: 'https://delivery.balduccis.com/'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2c7d1cd0-5e9c-4c6a-87e7-e03522cceb0c.jpg?ver=1512399869000'
+  img_alt: 'HOLIDAY GROCERY DELIVERY '
+
+- type: 'image'
+  img_link: 'https://delivery.balduccis.com/'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2140a0bc-a93e-4d19-86cd-068bcec429f5.jpg?ver=1512399869000'
+  img_alt: 'ORDER ONLINE > WE SHOP > WE DELIVER | Avoid the holiday hustle and bustle. Get the exceptional quality gourmet foods you love—delivered fresh to your doorstep. '
+
+- type: 'image'
+  img_link: 'https://delivery.balduccis.com/'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ea3e5f0e-e355-4447-afa4-d6b0924d36a8.jpg?ver=1512399869000'
+  img_alt: 'DELICIOUS DELIVERED IN AS LITTLE AS ONE HOUR | SHOP NOW > | $20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER | Check your zip code for availability. Powered by instacart. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d262f230-7c4f-4044-9069-48d707b381d5.jpg?ver=1512399869000'
+  img_alt: 'CHANUKAH ESSENTIALS '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2e4528dc-632c-4d0a-9a1a-eba002ca07da.jpg?ver=1512399870000'
+  img_alt: 'USDA CHOICE NATURAL BEEF FIRST CUT BRISKET MEMBER EXCLUSIVE 11.99/LB Reg 13.99'
+
+- type: 'image'
+  img_link: 'https://vimeo.com/161853830'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e44afa19-3425-49b4-9f83-75e9a6d56b5c.jpg?ver=1512399870000'
+  img_alt: 'How To Brisket Prep: 3-Easy Gremolata Recipes Watch Video > '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cfff8036-8043-4f4e-8d7e-f05af1639449.jpg?ver=1512399870000'
+  img_alt: 'FRESH ASPARAGUS Simple to roast, steam or blanch to perfection. Top with a squeeze of lemon for the perfect holiday side dish. '
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3bdb53cf-789c-4522-9554-988724db48eb.jpg?ver=1512399871000'
+  img_2_alt: 'LAKE CHAMPLAIN CHOCOLATES® CHANUKAH CUBE WITH COINS A sweet gift box decorated with dreidels and filled with all-natural, Kosher milk chocolate coins. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cc13da30-0942-4e4f-a918-a8cfe37f6b7a.jpg?ver=1512399871000'
+  img_alt: 'SAVOR THE SEASON '
+
+- type: 'image'  
+  img_link: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cf6d94db-9d77-4523-9248-cfd3587d125c.jpg?ver=1512399871000'
+  img_alt: 'Christmas Catering Make the most out of your time with friends and family, and let us do the cooking. From traditional holiday favorites to more adventurous fare, our catering menu is full of enticing options. ORDER NOW > '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2e95a363-653e-4a7e-a1af-2e1e0e37d996.jpg?ver=1512399871000'
+  img_alt: 'BEEF TENDERLOIN '
+  img_2_link: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f9603ac7-170c-4bc6-bbee-0014701ff2ae.jpg?ver=1512399871000'
+  img_2_alt: 'POTATO & GRUYÈRE GRATIN '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1196131-efc3-4f60-92ba-473d2479cafe.jpg?ver=1512399872000'
+  img_alt: 'MARK YOUR CALENDAR '
+
+- type: 'image'  
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8d8e6eb9-d8dc-439a-9624-c2eea12c7975.jpg?ver=1512399871000'
+  img_alt: 'Sip, Sip, Hooray! Mark your calendar for our free wine tasting and find the perfect wine for your feast! SATURDAY, DECEMBER 16TH • BETHESDA, MD • ALEXANDRIA & MCLEAN, VA Food Samplings…12 noon-5pm Wine Samplings…2-5pm MORE INFO > '
+
+
+
+
+

@@ -1,0 +1,102 @@
+title: ' '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: ''
+logo_alt: ''
+catering_link: ''
+catering_alt: ''
+chef_prepared_link: ''
+chef_prepared_alt: ''
+store_locator_link: ''
+store_locator_alt: ''
+my_balduccis_link: ''
+my_balduccis_alt: ''
+
+#footer
+footer_site_link: ""
+footer_site_img: ""
+footer_site_alt: ""
+footer_facebook_link: ""
+footer_facebook_img:  ""
+footer_facebook_alt: ""
+footer_twitter_link: ""
+footer_twitter_img: ""
+footer_twitter_alt: ""
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Balducci&#39;s® Food Lover&#39;s Market™ This Week&#39;s Picks in Rye Brook Meat & Seafood Valid 12/22 - 12/28/17'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/41a8daae-3ee4-48a2-9830-c564215c0db6.jpg?ver=1513873452000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 6.00 | USDA Prime Certified Angus Beef Rib Roast or Steak | Bone-in | YOU PAY 19.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7c3c268c-ab99-49f3-af6c-8c3ff8139f17.jpg?ver=1513873452000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 6.00 | USDA Prime Certified Angus Beef Rib Roast or Steak | Bone-in | YOU PAY 19.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9fec76dc-f6f6-4a61-930b-38f8a860f2a8.jpg?ver=1513873453000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 5.00 | Extra Jumbo Lobster Tail | 14 oz., Nicaraguan, Ready for a special Surf & Turf dinner | YOU PAY 27.99 EA.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b3ab7315-cbcf-4ead-9b5a-61f40f564f94.jpg?ver=1513873452000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 6.00 | Wild Caught 2 lb bag Raw White Shrimp | Mexican, 16-20 ct. | YOU PAY 38.98 EA.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a254d4ed-66b7-4a87-b559-f3e958eb8723.jpg?ver=1513873453000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Specialty Foods Valid 12/22 - 12/28/17 Balducci’s Galilee Osetra Caviar | 85.00/30g Reg. 115.00 | 125.00/50g Reg. 175.00 | 225.00/125g Reg. 350.00 | 450.00/250g Reg. 650.00 Save 5.00 | Harry & David Moose Munch | 24 oz. | 19.99 EA.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/03e7ca49-8193-41f9-838e-699f3f17c3f1.jpg?ver=1513873453000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Specialty Foods Valid 12/22 - 12/28/17 Balducci’s Galilee Osetra Caviar | 85.00/30g Reg. 115.00 | 125.00/50g Reg. 175.00 | 225.00/125g Reg. 350.00 | 450.00/250g Reg. 650.00 Save 5.00 | Harry & David Moose Munch | 24 oz. | 19.99 EA.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05c186a1-0255-482f-98fe-60a65cb5c7e9.jpg?ver=1513873453000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Specialty Foods Valid 12/22 - 12/28/17 Balducci’s Galilee Osetra Caviar | 85.00/30g Reg. 115.00 | 125.00/50g Reg. 175.00 | 225.00/125g Reg. 350.00 | 450.00/250g Reg. 650.00 Save 5.00 | Harry & David Moose Munch | 24 oz. | 19.99 EA.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/eaca63c3-b705-45e4-a0db-de860fe743d6.jpg?ver=1513873453000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Produce, Bakery & More! Valid 12/22 - 12/28/17 Save 2.00 | House Roasted Virginia Honey Baked Ham | You Pay 12.99 LB. Save 1.00 | Zaro&#39;s NYC Bakery Baguette | You Pay 1.99 EA. '
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d5e4ad59-ee54-47a2-bc22-951f6440e544.jpg?ver=1513873453000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 2.00 | Whole Pineapple | Sweet & Juicy | You Pay 2.99 LB. Save 1.00 | Fresh Asparagus | Long, Green & Tender | 3.99 LB.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9235dde4-18a7-4dda-acce-3e6da4f9468d.jpg?ver=1513873453000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 2.00 | Fever Tree Soda 4PK, 27.2 fl oz., all varieties | You Pay 4.99 EA. Save 2.00 | DeLallo Artichoke Bruschetta, 10 oz | You Pay 3.99 EA.'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/401036a4-0acf-41dd-8b4d-40f20827c5bf.jpg?ver=1513873453000'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/ryebrook/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1208_BLD_RyeBrookSavingsSolo'
+  img_alt: 'Save 3.78 on 2 | Eggland&#39;s Best Large Dozen Eggs | You Pay 2/5.00 Save 1.00 | Vineyard Bouquet | You Pay 20.99 EA. 144 S. Ridge St. | In the Rye Ridge Shopping Center www.balduccis.com/ryebrook'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/71ecf595-3285-41ae-ac1e-7e970bfbed26.jpg?ver=1513873454000'
+
+
+
+
+
+
+
+

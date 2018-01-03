@@ -1,0 +1,138 @@
+title: 'Ring It in Right: Caviar, Catering & More!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2f40c64d-341e-403b-b26d-974e328053c3.jpg?ver=1482383059000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://vimeo.com/185683936'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/79a2d6c0-0cf8-45fa-8a4f-0b0c816c4e00.jpg?ver=1514298561000'
+  img_alt: 'AN ELEGANT EVENING Ring in the New Year with a touch of decadence. Create THE PERFECT CHEESEBOARD WATCH VIDEO >'
+
+- type: 'image'
+  url: 'http://delivery.balduccis.com'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f5ee8ad5-9872-4f49-8cf1-6f4b7c45ab6e.jpg?ver=1514298561000'
+  img_alt: 'GROCERY DELIVERY | 2 DAYS TO SAVE'
+
+- type: 'image'
+  url: 'http://delivery.balduccis.com'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/930733c8-386b-451c-895a-1fe34c8e0cf8.jpg?ver=1514298560000'
+  img_alt: 'ORDER ONLINE WE SHOP WE DELIVER Get everything for NYE brought right to your door. Hurry! Just 2 MORE DAYS to use PROMO CODE: BALDUCCIS20 to get $20 OFF your first order of $35 or more.'
+
+- type: 'image'
+  url: 'http://delivery.balduccis.com'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d04f5367-e545-41b5-801b-625dc9216995.jpg?ver=1514298561000'
+  img_alt: 'DELICIOUS DELIVERED IN AS LITTLE AS ONE HOUR $20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER* SHOP NOW > Check your zip code for availability. Powered by instacart'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e1cf4793-3b88-417c-83d4-050652f14ae0.jpg?ver=1514298561000'
+  img_alt: 'CAVIAR & MORE | CELEBRATE IN STYLE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0dcc96dc-9a29-4c46-8ad5-b300e84a87b8.jpg?ver=1514298562000'
+  img_alt: 'DOMESTIC WILD BALDUCCI&#39;S WILD PADDLEFISH Spoonbill Delectable small silvery pearls with a rich, robust, and creamy taste. FARMED OSETRA BALDUCCI&#39;S GALILEE OSETRA ISRAEL Acipenser Gueldenstaedtii Bright, crisp and close in flavor to wild &#34;Royal&#34; Osetra. VERMONT BUTTER & CHEESE BLINIS CRÈME FRAICHE Pick up these traditional accompaniments to your caviar and create the perfect pairings.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2869e4f9-96da-43e6-a8bd-925a6a3dab19.jpg?ver=1514298561000'
+  img_alt: 'CHEERS TO THE NEW YEAR'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a23e52fb-316e-4c9d-a0b9-78d136261511.jpg?ver=1514298562000'
+  img_alt: 'TENDIL & LOMBARDI BRUT CHAMPAGNE Say &#34;cheers!&#34; to the New Year with this lively Champagne, featuring bright flavors of ripe white cherry, poached quince, biscuit and fruit-forward pineapple. PERFECT FOR NEW YEAR&#39;S EVE PARTIES Only available at Greenwich, CT, Bethesda, MD, McLean, VA and Alexandria, VA.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3b54ebb6-ed22-49c0-891f-64a1e5b42f19.jpg?ver=1514298562000'
+  img_alt: 'PARTY-PERFECT PLATTERS | NYE CATERING'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f2e3cf18-b412-4abb-9d3d-eb219ecf84b8.jpg?ver=1514298563000'
+  img_alt: 'LOBSTER RISOTTO PUFFS MINI MARYLAND CRAB CAKES ORDER NOW >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5700ec21-80e3-4593-8b11-fed31cde017d.jpg?ver=1514298563000'
+  img_alt: 'BEER & CHEESE, PLEASE | PERFECT PAIRINGS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cbec348d-d3fb-4d77-b617-9f97c027f1c7.jpg?ver=1514298563000'
+  img_alt: 'SCOTCH ALE + REMBRANDT GOUDA The full-bodied sweetness of the ale enhances the smooth, creamy, and nutty cheese flavor.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b392cd6e-f753-4f6b-8b11-dd43d3dcef13.jpg?ver=1514298563000'
+  img_alt: 'LAGER + EMMI FONDUE Simply heat and eat this fondue made with all-natural cheese from Switzerland, and pair it with an easy-going Lager.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/47f60344-4165-4df1-9770-733ade6baf4f.jpg?ver=1514298564000'
+  img_alt: 'PORTER + GRUYERE 1655 Aged for one year, this complex and perfectly balanced cheese is just right with a Porter&#39;s cocoa and coffee flavors.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/794cefe1-c56d-4718-b0ec-fa623d25017d.jpg?ver=1514298564000'
+  img_alt: 'HAPPY NEW YEAR!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1229_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d57a3b35-6571-419c-b77d-84eee956906f.jpg?ver=1514298564000'
+  img_alt: 'THANK YOU FOR LETTING US SERVE YOU IN 2017 We wish you a very Happy New Year and look forward to serving you in 2018!'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

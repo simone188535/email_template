@@ -1,0 +1,99 @@
+title: 'FPO'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fd622682-ba88-4edf-b556-45fbf298e4e8.jpg?ver=1480433938000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/499889e3-5084-414f-8c55-2c63f105dc65.jpg?ver=1512501160000'
+  img_alt: 'HOLIDAY MAGIC FOUND HERE '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/23113fb9-e534-488b-ab17-459f20d17e44.jpg?ver=1512501161000'
+  img_alt: 'QUESTIONS? TALK TO OUR WESTPORT STORE MANAGER MARCELO ILOGTI OR ANY BALDUCCI&#39;S ASSOCIATE ABOUT THEIR FAVORITE DISHES AND HOW TO MAKE YOUR HOLIDAYS EASY!'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9addede5-6fa1-4ae0-aaaa-325695595617.jpg?ver=1512501161000'
+  img_alt: 'HOLIDAY CATERING '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2c8c6349-2527-4b56-b4d8-40cc6d360c4e.jpg?ver=1512501161000'
+  img_alt: 'ORDER YOUR HOLIDAY CATERING TODAY! Spend more time with the ones you love. Delicious, Chef Prepared catering makes it easy to create a memorable and mouth-watering experience. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a02dce7c-e70a-4161-afbc-765bfd11d72e.jpg?ver=1512501162000'
+  img_alt: 'START YOUR ORDER NOW > '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7feea31e-f63d-47e0-8f4c-a448a9ce03fc.jpg?ver=1512501162000'
+  img_alt: 'PICK UP IN STORE! '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/04da89c5-c834-4f82-8691-f6b5c5d8eaf7.jpg?ver=1512501162000'
+  img_alt: 'ROASTED BRUSSELS SPROUTS '
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d4a52995-2f29-4210-bd31-9b4ff5458bd2.jpg?ver=1512501162000'
+  img_2_alt: 'LEMON CAPER SHRIMP '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/18d74c62-bba2-4678-9cf5-a472ed834c17.jpg?ver=1512501163000'
+  img_alt: 'GALILEE OSETRA CAVIAR '
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1212_BLD_Westport_SoloEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/609c1cfb-c8a2-49a8-9d01-8ab9d08d924f.jpg?ver=1512501163000'
+  img_2_alt: 'MAISON DE LA TRUFFE BRIE WITH TRUFFLES '
+
+- type: 'image'
+  img_link: 'https://delivery.balduccis.com/'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a10e0bc6-b845-40bc-a8ee-66b0da0d6cf6.jpg?ver=1512501164000'
+  img_alt: 'WHAT&#39;S NEW IN STORE '
+
+- type: 'image'  
+  img_link: 'https://delivery.balduccis.com/'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8f86f25a-33c6-4a4c-9b3b-286527a3731a.jpg?ver=1512501164000'
+  img_alt: 'DELICIOUS DELIVERED IN AS LITTLE AS ONE HOUR | $20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER | LEARN MORE > | Check your zip code for availability. Powered by Instacart '
+
+
+
+
+
