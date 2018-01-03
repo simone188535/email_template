@@ -1,0 +1,100 @@
+title: 'A happy, healthy 2018 starts here.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1105_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fd622682-ba88-4edf-b556-45fbf298e4e8.jpg?ver=1480433938000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b726be77-6db3-4950-88b1-565c309cb077.jpg?ver=1515007836000'
+  img_alt: 'REFRESH Fill your pantry with inspiring ingredients and healthy essentials.'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/71e44ad1-a53b-4abd-9196-fbd9d81652c1.jpg?ver=1515007837000'
+  img_alt: 'MEAT DEPARTMENT BELL & EVANS AIR CHILLED CHICKEN BREASTS Locally raised, air chilled and vegetarian fed with no antibiotics, ever. '
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ec3b4f4c-bb14-4d78-bbdc-4ab297f59cf4.jpg?ver=1515007838000'
+  img_2_alt: 'SEAFOOD DEPARTMENT ICELANDIC COD FILLETS This heart-healthy fish is loaded with Omega 3 fatty acids. Try steamed or baked for delicious, diet-friendly entrees. '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a2ac4efe-97c7-4e9b-ba9f-c004d73c7528.jpg?ver=1515007838000'
+  img_alt: 'ABE&#39;S MUFFINS The perfect vegan option, filled with delicious flavor but free of eggs, dairy, soy, and nuts. '
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ea3cb8da-1bd3-49dc-a780-6e9d29876acc.jpg?ver=1515007839000'
+  img_2_alt: 'PERFECT FOODS BAR Packed with good-for-you nurtients, these bars are great for a quick meal or snack on the go.'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f1e77fb0-f0d0-4983-8fa1-5c82c68a4f39.jpg?ver=1515007840000'
+  img_alt: 'PRIMAL KITCHEN MAYO WITH AVOCADO OIL Nutrient-dense, non-GNO, palep-approved and delicious!'
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/47eed29c-7ce2-480d-bb4d-41511b12b4c8.jpg?ver=1515007840000'
+  img_2_alt: 'LOVE BEETS Gluten-free, certified organic, all-natural, certified Kosher baby beets available in a variety of flavors. Try as a side or on salads.'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/07241bdd-4715-4881-a786-e11cc1fdb9cd.jpg?ver=1515007842000'
+  img_alt: 'DELICIOUS DELIVERED | ORDER ONLINE Experience the joy of grocery delivery! All your favorite foods, delivered to your door in as little as one hour. FREE DELIVERY ON YOUR FIRST ORDER* Powered by instacart SHOP NOW'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/07241bdd-4715-4881-a786-e11cc1fdb9cd.jpg?ver=1515007842000'
+  img_alt: 'ECO-FRIENDLY EATS | ORGANIC & NON-GMO'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/848e8e11-cee7-4b17-bcfb-e833dbf2fa1d.jpg?ver=1515007844000'
+  img_alt: 'MESTEMACHER BREADS Made of whole meals from controlled organic agriculture with no preservatives, these breads promote ecology and protect nature.'
+  img_2_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/655c92ee-5e8e-47b3-bc71-250459faf988.jpg?ver=1515007845000'
+  img_2_alt: 'AMY&#39;S KITCHEN Offering a wide selection of organic, non-GMO foods that taste great and make healthy eating easy!'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/55be34e6-e592-4697-b097-04b0c2401ca8.jpg?ver=1515007846000'
+  img_alt: 'APPLEGATE ORGANICS TURKEY BACON Organic bacon from turkey&#39;s humanly raised on farms where animals are treated with care and respect. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6522c34d-6499-465c-8834-30130deeb273.jpg?ver=1515007846000'
+  img_alt: 'GAME DAY GREATS | CATERING'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fe5f245b-5d9e-43b8-835a-31dda727c4c1.jpg?ver=1515007846000'
+  img_alt: 'FOOTBALL FOOD Let us help make your next game day gathering a breeze. Order up Sesame Chicken Tenders, a Tex Mex Platter, a delicious Seven Layer Dip, and much more! ORDER NOW'
