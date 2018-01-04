@@ -1,0 +1,66 @@
+title: 'Introducing Power Bowls! Try One and Save.'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0107_Kings_PowerBowl_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0107_Kings_PowerBowl_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0107_Kings_PowerBowl_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0107_Kings_PowerBowl_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0107_Kings_PowerBowl_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0107_Kings_PowerBowl_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/963b7b0e-ec1e-445c-b9ce-17a157d47bea.jpg?ver=1481912589000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ab7d45fd-6956-402a-91d7-828bedf4ff4c.jpg?ver=1481912589000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7b176d03-2d4c-4ab2-b9fc-3d1a9556f137.jpg?ver=1481912589000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d9cfd47d-f0d5-4869-b808-394cd4f49277.jpg?ver=1481912589000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3f2f3dbb-f3a4-4ced-b795-1833cc22cd2c.jpg?ver=1515078886000"
+  img_alt: "myKINGS Extra! Smart Savings & More Power Bowl Bar Build Your Own Bowl of Power Foods! Make your own creation in 5 easy steps: 1. Choose a base of Fresh Greens. 2. Add one or more of the Grain Blends. 3. Add your choice of Protein. 4. Select Roasted or Raw Veggies. 5. Top it all off with a Dressing. Enjoy a nutritious & flavor packed meal! Find it in our Deli Department at Kings Cresskill, Morristown, Bedminster and Garden City. Members Save $1.00/lb I reg. 8.99/lb. OFFER IS LOADED TO YOUR ACCOUNT Valid 1/7/18 - 1/18/18"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0107_Kings_PowerBowl_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/47fd484c-a79f-4c5b-89b6-d7d8b969b1e9.jpg?ver=1515078886000"
+  img_alt: "VIEW MEMBER SPECIALS >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0107_Kings_PowerBowl_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fc168974-c592-4d46-816b-eff8ecc61eed.jpg?ver=1515078886000"
+  img_alt: "GET IT DELIVERED IN AS LITTLE AS ONE HOUR"
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=0107_Kings_PowerBowl_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/21f59be9-b549-4dd6-9b98-4b739d4c8fda.jpg?ver=1515078886000"
+  img_alt: "KINGS Fast. Fresh. Delivered. In as little as one hour. kingsdelivers.com FREE DELIVERY ON YOUR FIRST ORDER powered by Instacart"
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=0107_Kings_PowerBowl_Email"
