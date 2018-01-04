@@ -1,0 +1,193 @@
+title: 'Eat Your Colors: A balanced diet + NEW Power Bowls'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/389a12c0-3a19-4b29-a1b0-12f32b189258.jpg?ver=1509382949000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e5a09551-0237-4388-a406-bc04f7a04f2e.jpg?ver=1509382950000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8cca0489-8883-4c47-aefa-04cc14ca5a6a.jpg?ver=1509382950000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/933bf00a-714c-441c-9dce-edd8a4fcbaf1.jpg?ver=1509382950000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6efb90d6-bd1f-4e4e-abaa-0f8832789ffc.jpg?ver=1515017637000"
+  img_alt: "A COLORFUL PLATE A balanced diet starts with healthy proteins and an array of colorful fruits and vegetables. RECIPE IDEA MEDITERRANEAN STYLE COD WATCH VIDEO"
+  url: "https://kingsfoodmarkets.com/unique-recipes/brisket-with-citrus-herb-gremolata?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5be36674-1bce-44f1-994f-e5a7bfc83e8d.jpg?ver=1515017637000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/538ec392-e4ed-4c2f-a409-2eb2ef88182b.jpg?ver=1515017638000"
+  img_alt: "members extra! SAVINGS SAVE $1 lb. BELL & EVANS BONELESS SKINLESS CHICKEN BREAST members pay 5.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0d04a3a6-b2c7-4f8c-8845-f4f1c635342f.jpg?ver=1515017638000"
+  img_alt_2: "members extra! SAVINGS SAVE $4.98 on 2 ORGANIC EARTHBOUND FAR<S SALADS members pay 2/5."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b81c357e-5483-427f-9b9e-a9f501d3f8e1.jpg?ver=1515017638000"
+  img_alt: "members extra! SAVINGS KINGS CHEF INSPIRED TRI_COLORED SALA WITH BALSAMIC VINEGAR members pay 6.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0551bc4b-1e0c-4a1f-8971-69d0e3f92cda.jpg?ver=1515017638000"
+  img_alt_2: "members extra! SAVINGS SAVE $3 KINGS CHEF INSPIRED SPINACH & MUSHROOM QUICHE members pay 11.99"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c8b8688c-905d-406f-a235-afc82c72b1f5.jpg?ver=1515017638000"
+  img_alt: "VIEW WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d04eb5ab-8fa7-45f8-a98f-c42efe8811de.jpg?ver=1515017638000"
+  img_alt: "Fast. Fresh. Delivered. In as little as one hour. FREE DELIVERY ON YOUR FIRST ORDER Powered by instacart ORDER NOW"
+  url: "https://delivery.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a3d12631-8d75-4012-b50b-9852c31121dd.jpg?ver=1515017639000"
+  img_alt: "POWER BOWLS BUILD YOUR OWN BOWL OF POWER FOODS"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3ce65dac-b20f-4495-ab0f-2a8326a23ee7.jpg?ver=1515017639000"
+  img_alt: "ENJOY A NUTRITIOUS & FLAVOR-PACKED MEAL! Make your own creation in 5 EASY STEPS: 1. Choose a base of FRESH GREENS 2. Add one or more of the GRAIN BLENDS 3. ADD your choice of PROTEIN 4. Select ROASTED or RAW VEGGIES 5. Top it all off with a DRESSING Available at Bedminster, Morristown, Cresskill & Garden City"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/207d4d8f-ae55-4f0b-9751-83f45293a4c8.jpg?ver=1515017639000"
+  img_alt: "NEW LOW PRICES!"
+  url: "https://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/374378b9-c2bd-4883-97e5-a735d300174b.jpg?ver=1515017639000"
+  img_alt: "New LOW PRICE LOOK FOR OUR NEW LOW PRICE ICONS THROUGHOUT THE STORE! Fill your cart with the same Kings quality you trust at an even better value! We&#39;ve lowered prices on hundreds of FRESH, DELICIOUS, and HEALTHY FOODS. "
+  url: "https://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9a5b5178-0712-4312-9742-76b6566fb66e.jpg?ver=1515017640000"
+  img_alt: "NOW 5.99 HASS AVOCADO BAG 4 CT."
+  url: "https://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8be6682e-a89a-4600-9dab-9a141e0cff83.jpg?ver=1515017640000"
+  img_alt_2: "SAVE $3LB NORWEGIAN SALMON FILLET"
+  url_2: "https://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5390b9e6-fa62-4dc3-a3d2-516e955cda74.jpg?ver=1515017640000"
+  img_alt: "LEARN MORE"
+  url: "https://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5f1a2f5e-8734-4664-bb75-df7f04a4e3e0.jpg?ver=1515017640000"
+  img_alt: "HEALTHY + DELICIOUS RECIPES"
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5686be45-58be-4b3d-b9bb-0a9c20c68d7b.jpg?ver=1515017640000"
+  img_alt: "KINGS CITRUS & FENNEL & AVOCADO SALAD VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/kings-citrus-fennel-and-avocado-salad?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b7b37821-b08f-4d7d-a383-b203b0475c1d.jpg?ver=1515017640000"
+  img_alt_2: "NORWEGIAN SALMON WITH SAUTÉED BROCCOLI RABE VIEW RECIPE"
+  url_2: "https://kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a8f11bac-5a94-488e-929e-c4fb8f789d28.jpg?ver=1515017641000"
+  img_alt: "GAME DAY EATS CHEF PREPARED CATERING "
+  url: "https://kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4eb9650b-a185-40cd-b548-1e961ac97db2.jpg?ver=1515017641000"
+  img_alt: "HOST A GAME DAY GATHERING WITHOUT ALL THE WORK. Let us cook up your favorites like a Traditional Chili Bar, delicious Chicken Tenders, a Tex Mex Dip Platter and much more!"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d08b201d-c222-4860-a0f9-eaca1f13c6aa.jpg?ver=1515017641000"
+  img_alt: "#"
+  url: "#"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2aa9499d-ec2c-4150-9553-3e5ff7c076e3.jpg?ver=1515017641000"
+  img_alt: "VIEW MENU"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f1fd0e19-23ca-42b6-899e-16df23889c85.jpg?ver=1515017641000"
+  img_alt: "WHAT&#39;S NEW IN STORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0ce7855e-bf5f-4ece-a748-5e12c6a49a34.jpg?ver=1515017642000"
+  img_alt: "EARTHBOUND FARM First day back to the office? Throw this salad together using the new EARTHBOUND FARM CAULIFLOWER & BROCCOLI RICED VEGGIES (and some bacon)! VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9fba7aa1-c176-4f1f-90a9-3cbcb55968f7.jpg?ver=1515017642000"
+  img_alt: "MORE TO LOVE NOW AVAILABLE: Decadent and delicious KINGS Premium Italian Gelato in a NEW LARGER 32OZ. SIZE. VIEW MORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0105_KF_WeeklyEmail_CHAIN"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
