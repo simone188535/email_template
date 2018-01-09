@@ -1,0 +1,104 @@
+title: 'Our main squeeze: Citris. '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fd622682-ba88-4edf-b556-45fbf298e4e8.jpg?ver=1480433938000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ad809460-b8eb-4f06-9785-5db71cb3f06e.jpg?ver=1515509194000'
+  img_alt: 'HELLO, SUNSHINE Celebrate National Citrus Month with a bright and refreshing burst of flavor. Create CREPES WITH ORANGE & HONEY CREAM VIEW RECIPE NEW IN STORE EXCELLENT EGGS Humanely raised chickens produce high-quality, delicious eggs. Our Free Range eggs are all natural, so you can feel good about what you eat. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3a8704e6-2720-4028-8b3e-21843276ea16.jpg?ver=1515509194000'
+  img_alt: 'SEASON&#39;S BEST CITRUS | CHEF PREPARED'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/92831644-13f7-46dd-89c8-715ceca049a1.jpg?ver=1515509195000'
+  img_alt: 'Grapefruit Slaw Citrus Glazed Salmon'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7eb49dea-0ba5-4df0-a04a-697caa9e00fb.jpg?ver=1515509195000'
+  img_alt: 'Winter Greens & Citrus Salad Lemon Garlic Shrimp Skewer'
+  
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b9e65470-5408-4478-b32b-940b0c48816b.jpg?ver=1515509195000'
+  img_alt: 'PULP PARADISE | SEASONAL SPOTLIGHT '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3d8f9545-8d65-45d9-abdc-c5ef7309dc6c.jpg?ver=1515509196000'
+  img_alt: 'LINDT EXCELLENCE ORANGE Delicate orange pieces and slivers of crisp almonds meet rich, premium dark chocolate to create a decadent taste experience. '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/26f46ce0-3780-4830-9136-fbfc6284688f.jpg?ver=1515509196000'
+  img_alt: '3 LB. BAG CLEMENTINES Sweet, juicy, easy to eat clementines are a fresh favorite for kids and grown-ups, too! Get them while they&#39;re at the peak of their season. STONEWALL KITCHEN LEMON DIJON VINAIGRETTE Dress up seafood and vegetables with a subtle taste of tangy Dijon and tart lemon.   '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/70bbdc14-678c-48fc-92b8-9525c4dbd7f1.jpg?ver=1515509196000'
+  img_alt: 'MEMBER EXCLUSIVE '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8ae423d3-90fb-4bf0-89f3-6621c41ce498.jpg?ver=1515509196000'
+  img_alt: 'VEAL OSSO BUCO MEMBER EXCLUSIVE 17.99/LB Reg 19.99'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ac3473d6-b880-4254-b20d-90fdaad4c016.jpg?ver=1515509197000'
+  img_alt: 'GAME DAY GREATS | CATERING'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/66e1c9f8-690a-49b3-87a7-5170540ed9e0.jpg?ver=1515509197000'
+  img_alt: 'FOOTBALL FOOD Host a deliciously easy game day get together! Try Chef Prepared chili with all the fixings, savory BBQ sliders, subs and more!'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4724c25c-70bb-4cd4-9094-95cf1c47a607.jpg?ver=1515509197000'
+  img_alt: 'MARK YOUR CALENDAR'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9fe3c8c3-1b0b-4c41-9c66-19b659c61850.jpg?ver=1515509197000'
+  img_alt: 'Winter Wine Event Mark your calendar for our free tasting event and warm up your winter with wonderful wines. SATURDAY, JANUARY 20th BETHESDA, MD ALEXANDRIA & MCLEAN, VA Food Samplings……12 noon-5pm Wine……………2-5pm MORE INFO'
+  
