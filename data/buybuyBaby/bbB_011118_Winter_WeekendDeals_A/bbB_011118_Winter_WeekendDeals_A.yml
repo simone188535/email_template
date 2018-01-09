@@ -1,0 +1,155 @@
+#TITLE
+title: 'Red hot deals!'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "https://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Red hot deals!'
+preheader_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+  
+articles:
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+  img_alt: 'wonderful winter deals While suppliest last! shop all deals '
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_02.jpg'
+
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/graco-reg-4ever-trade-extend2fit-trade-platinum-all-in-one-convertible-car-seat-in-ottlie/1061382046'
+  img_alt: '$100 off Graco® 4Ever™ Extend2Fit Car Seat in Ottlie shop now'
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/ozlo-baby-galloway-furniture-collection/239394'
+  img_alt: 'Bundle & Save! Save 40% on Ozlo Baby Galloway Furniture Bundle Online only shop now '
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/bob-rambler-jogging-stroller-in-black/3338006'
+  img_alt: '$60 off NEW BOB® Rambler Jogging Stroller Excluded from additional offers shop now'
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/abbyson-living-reg-silo-glider-in-beige/3335171'
+  img_alt: '$100 off select Abbyson Living® Silo Gliders shop now'
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/halo-reg-bassinest-swivel-sleeper-luxe-series-in-lemon-drop/1045748677'
+  img_alt: '20% off HALO® Bassinest™ Swivel Sleeper LUXE Series in Lemon Drop While supplies last Excluded from additional offers shop now '
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/graco-reg-pack-39-n-play-reg-playard-with-cuddle-cove-trade-elite-removable-seat-in-london-trade/1046550569'
+  img_alt: 'Clearance! Graco® Pack &#39;n Play® Playard with Cuddle Cove™ Elite Removable Seat in London™ Was 269.99 NOW 149.99 shop now'
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/s/3pc-westwood-meadowdale'
+  img_alt: 'BUNDLE & SAVE 3pc Westwood Nursery Bundles online only shop now '
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/the-peanut-shell-reg-lil-39-elephant-by-belle-crib-bedding-collection/242428'
+  img_alt: 'SUPER VALUE! The Peanut Shell® Bedding Sets NOW 59.99 each shop now'
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/ozlo-baby-galloway-furniture-collection/239394'
+  img_alt: 'SUPER VALUE! Ti Amo 5pc Furniture Bundle in Onyx 699.99 Online only shop now'
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+  img_alt: 'shop all deals '
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States. '
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+  img_alt: 'take a peek at our… special buys & deals shop now'
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'we&#39;re in your neighborhood find a store'
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_15.jpg'
+
+
+- type: 'image-2-columns'
+  img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+  img_alt: 'Get it on Google Play'
+  img_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_16.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'Download on the App Store'
+  img_2_url: 'images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_17.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_18.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_19.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_20.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_21.jpg"
+  alt: "Pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_22.jpg"
+  alt: "Instagram logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_23.jpg"
+  alt: "Youtube logotestest"
+- link: ""
+  img: "images/bbB_217_011118_Winter_WeekendDeals_A_v4_r2_FNL_24.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
