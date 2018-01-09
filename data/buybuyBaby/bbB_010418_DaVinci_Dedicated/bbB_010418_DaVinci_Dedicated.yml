@@ -1,0 +1,149 @@
+#TITLE
+title: 'Shop DaVinci'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 View Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "https://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Shop DaVinci'
+preheader_link: 'https://www.buybuybaby.com/store/category/bath-potty/30003/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+  
+articles:
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/s/davinci-4-in-1-cribs'
+  img_alt: 'start with DaVinci Choose from quality furnishings & 4-in-1 cribs to create the foundation to your perfect nursery. shop now'
+  img_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/davinci-jayden-4-in-1-convertible-crib-in-white/3266283'
+  img_alt: 'Embrace tradition in the nursery with clean lines & elegant accents. shop now'
+  img_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/s/davinci-fairway'
+  img_alt: 'Bring farmhouse style inside with weathered finishes & bold designs. shop now'
+  img_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/davinci-grove-4-in-1-convertible-crib-in-chestnut/3275062'
+  img_alt: 'A collection full of stylish & simple staples for little one&#39;s bedroom. shop now'
+  img_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/s/anti-tip-kits'
+  img_alt: 'don&#39;t forget to use anti-tip kits! Avoid storing items on top of dressers that may encourage climbing. anti-tip safety'
+  img_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_06.jpg'
+
+- type: 'image'
+  img_link: ''
+  img_alt: 'High back & lumbar pillow offer extra lower back support. shop now'
+  img_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/davinci-autumn-4-in-1-crib-changer-combo-in-slate/3317330'
+  img_alt: 'Attached drawers & back shelves make this crib a functional centerpiece to the nursery. shop now'
+  img_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/davinci-owen-glider-and-ottoman/3346509'
+  img_alt: 'Chair pocket & storage ottoman offer extra nursery storage. shop now'
+  img_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/davinci-kalani-4-in-1-convertible-crib-in-espresso/3291659'
+  img_alt: 'Each piece is designed with rich tones & smooth finishes. shop now'
+  img_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/davinci/2428/4294967217-4294965885-4294633428-32609/1-48'
+  img_alt: 'shop all DaVinci furniture'
+  img_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States. '
+  img_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/account/Login'
+  img_alt: 'see something you like? Login to create an Idea Board. get started'
+  img_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/32689/'
+  img_alt: 'check out our registry favorites shop now'
+  img_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_14.jpg'
+
+
+- type: 'image-2-columns'
+  img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+  img_alt: 'Get it on Google Play'
+  img_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_15.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'Download on the App Store'
+  img_2_url: 'images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_16.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_17.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_18.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_19.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_20.jpg"
+  alt: "Pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_21.jpg"
+  alt: "Instagram logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_22.jpg"
+  alt: "Youtube logo"
+- link: ""
+  img: "images/bbB_217_010418_DaVinci_Dedicated_v2_r5_FNL_23.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'

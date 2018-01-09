@@ -1,0 +1,131 @@
+title: 'Entertaining ideas that&#39;ll have you rocking (around the tree).'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ccca374f-6c7f-4b1c-a645-385b0c9d601b.jpg?ver=1513020336000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/appetizers?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cd39e483-2500-472c-827c-44f99872f0f1.jpg?ver=1513020337000'
+  img_alt: 'MAKE SPIRITS BRIGHT | Get ready for the holidays with gourmet catering, elegant gift baskets and on-trend entertaining ideas. Create PINK PEPPERCORN CRUSTED CHEESE BALL VIEW RECIPE >'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4e3c6e87-0efa-482c-bd5b-e8dad89409df.jpg?ver=1513020337000'
+  img_alt: 'FUSS-FREE & FESTIVE | CHRISTMAS CATERING '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/holiday?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/42b7bcba-dce7-4cf2-8930-f7a6c38a4f88.jpg?ver=1513020337000'
+  img_alt: 'Order your Chef Prepared Holiday Feast! Our catering menu is full of delicious seasonal favorites. Just order online and Christmas dinner is done! ORDER NOW > '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/catering/holiday/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fc779f7d-9a1f-4879-99a2-2872419d7f32.jpg?ver=1513020338000'
+  img_alt: 'ROASTED PRIME RIB '
+  img_2_link: 'http://www.balduccis.com/catering/holiday/side_dishes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fc6e4d9a-1b95-4cca-9f2b-6b7f0820b7e5.jpg?ver=1513020338000'
+  img_2_alt: 'STUFFED MAPLE ACORN SQUASH '
+  
+- type: 'image'
+  img_link: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3bd723be-9b6f-454d-812c-784a6e401519.jpg?ver=1513020338000'
+  img_alt: 'GOURMET GIFT GIVING | ORDER ONLINE '
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0c503b59-574c-4926-a1a9-a1e018970c2d.jpg?ver=1513020338000'
+  img_alt: 'Balducci&#39;s Gift Baskets & Gift Cards Our bountiful gift baskets have made Balducci&#39;s one of the most beloved food markets for over 100 years. Add a Balducci&#39;s gift card and let the recipient choose the gift that suits their taste! ORDER NOW > '
+  img_2_link: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/02cd176c-90cc-4638-a07a-c815d9d9c51f.jpg?ver=1513020339000'
+  img_2_alt: 'Balducci&#39;s Gift Baskets & Gift Cards Our bountiful gift baskets have made Balducci&#39;s one of the most beloved food markets for over 100 years. Add a Balducci&#39;s gift card and let the recipient choose the gift that suits their taste! ORDER NOW > '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5bdf91ec-278e-4c75-b07e-1357625e3f5c.jpg?ver=1513020339000'
+  img_alt: 'HOLIDAY ENTERTAINING IDEAS '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1f0c57b1-d35e-4a5e-a644-1a715544d587.jpg?ver=1513020339000'
+  img_alt: 'FESTIVE FOOD BARS Whether it&#39;s a mashed potato bar with a variety of toppings or a Bloody Mary bar at brunch, a food bar will have guests mixing and mingling! '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/103c1a8f-f37c-4356-ab2c-22fe5b26de7c.jpg?ver=1513020339000'
+  img_alt: 'DON&#39;T COOK EVERYTHING YOURSELF Make a few of your favorite signature favorites, then round out your menu with ready-to-go, Chef Prepared dishes or our gourmet catering options.'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/67c686ea-f72d-43b3-aaf4-3fd6c6a88a94.jpg?ver=1513020340000'
+  img_alt: 'CLASSIC COCKTAILS The hot trend today is tried-and-true cocktails made with high-quality ingredients. A few faves: The Old Fashioned, a Manhattan, a Dry Martini and a Whiskey Sour. Create BRANDY OLD FASHIONED VIEW RECIPE >'
+
+- type: 'image'
+  img_link: 'https://vimeo.com/193609299'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9ce61954-c965-4a19-8e79-d96be3a09b80.jpg?ver=1513020340000'
+  img_alt: 'HOLIDAY INSPIRATION | TABLE SETTING '
+
+- type: 'image'
+  img_link: 'https://vimeo.com/193609299'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b7c9456c-dbb6-4075-ada1-ff01d15d0405.jpg?ver=1513020340000'
+  img_alt: 'How-To Video Elegant Table Setting Using Produce, Herbs & Spices  > '
+
+- type: 'image'
+  img_link: 'https://delivery.balduccis.com/'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3c60a6f5-08b4-442d-b31d-8b793a1b7a36.jpg?ver=1513020340000'
+  img_alt: 'GROCERY DELIVERY '
+
+- type: 'image'
+  img_link: 'https://delivery.balduccis.com/'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dfaa00f1-6f2b-475d-9703-f770132e3b1e.jpg?ver=1513020341000'
+  img_alt: 'ORDER ONLINE > WE SHOP > WE DELIVER | Avoid the holiday hustle and bustle. Get the exceptional quality gourmet foods you love—delivered fresh to your doorstep.'
+
+- type: 'image'
+  img_link: 'https://delivery.balduccis.com/'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ddcb5fef-1a5a-4211-bf8e-a478318284d6.jpg?ver=1513020341000'
+  img_alt: 'DELICIOUS DELIVERED IN AS LITTLE AS ONE HOUR | SHOP NOW > | $20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER | Check your zip code for availability. Powered by instacart.'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/eca932f5-301a-4b70-b397-2081512d100d.jpg?ver=1513020341000'
+  img_alt: 'MARK YOUR CALENDAR '
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1215_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c0e36608-dd8d-4173-ac97-46ca838256a3.jpg?ver=1513020341000'
+  img_alt: 'Sip, Sip, Hooray! Mark your calendar for our free wine tasting and find the perfect wine for your feast! THIS SATURDAY, DECEMBER 16TH • BETHESDA, MD • ALEXANDRIA & MCLEAN, VA Food Samplings…12 noon-5pm Wine Samplings…2-5pm MORE INFO > '
+

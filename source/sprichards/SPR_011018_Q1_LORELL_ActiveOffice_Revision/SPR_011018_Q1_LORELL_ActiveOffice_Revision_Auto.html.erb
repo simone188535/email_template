@@ -1,0 +1,40 @@
+	<% require 'active_support/all' %>
+<% instance_variable_set("@base_data_file", data.sprichards.SPR_011018_Q1_LORELL_ActiveOffice_Revision.SPR_011018_Q1_LORELL_ActiveOffice_Revision) %>
+<% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<!-- WRAP THE CONTENT TABLE WITH A FULL BODY TABLE -->
+<table width="100%" bgcolor="#363636" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td style="border-collapse:collapse;" valign="top">
+            <table align="center" bgcolor="<%=@base_background_color%>" width="580" border="0" cellpadding="0" cellspacing="0" >
+<!-- Save for Web Slices (SPR_123_070517_CA_Canada_R2_DEV.psd) -->
+				<table id="Table_01" width="580" height="3855" border="0" cellpadding="0" cellspacing="0">
+					<!--HEADER-->
+					<table align="center" bgcolor="<%=@base_background_color%>" width="580" border="0" cellpadding="0" cellspacing="0">
+						<tr>
+							<td style="border-collapse:collapse;" valign="top" width="580" height="70" ><a href="*$website_P01$*" sllabel="Website"><img style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block; border: 0; margin: 0;" alt="Company Logo" height="70" src="/images/spacer.png" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block; border: 0px;width:580px;height:70px;" slcomponent="photo1_CUS" sllabel="Logo_580x70" title="photo1_CUS" width="580" /></a></td>
+						</tr>
+					</table>
+					<!--END HEADER-->
+
+					<!--ARTICLES-->
+				<% @base_data_file.articles.each do |f| %>
+					<% if f["type"]=="table" %>
+						<table align="center" bgcolor="<%=@base_background_color%>" width="580" border="0" cellpadding="0" cellspacing="0">
+							<tr>
+								<% f["data"].each do |entry| %>
+								<td style="border-collapse:collapse;" valign="top" width="<%= entry[3] %>" height="<%= entry[4] %>">
+									<a style="text-decoration:none" href="<%= entry[2] %>">
+										<img style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block; border: 0; margin: 0;" src="<%= entry[1] %>"  border="0" alt="" width="<%= entry[3] %>" height="<%= entry[4] %>" />
+									</a>
+								</td>
+								<% end %>
+							</tr>
+						</table>
+					<% end %>
+				<% end %>
+				</table>
+<!-- End Save for Web Slices -->
+            </table>
+        </td>
+    </tr>
+</table>

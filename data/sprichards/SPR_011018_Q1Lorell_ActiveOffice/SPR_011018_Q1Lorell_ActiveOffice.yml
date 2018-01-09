@@ -1,0 +1,99 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_01.jpg', '', 580, 65, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_02.jpg', '/sl-forward-sprisv/LLR/99548/1041663222/791-462', 580, 282, 'LLR99548']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_03.jpg', '/sl-forward-sprisv/LLR/99548/1041663222/791-462', 580, 346, 'LLR99548']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_04.jpg', '/sl-forward-sprisv/LLR/99548/1041663222/791-462', 580, 238, 'LLR99548']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_05.jpg', '/sl-forward-sprisv/LLR/99548/1041663222/791-462', 580, 139, 'LLR99548']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_06.jpg', '/sl-forward-sprisv/LLR/99549/1041663223/612-582', 188, 76, 'LLR99549'], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_07.jpg', '/sl-forward-sprisv/LLR/99548/1041663222/791-462', 392, 76, 'LLR99548']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_08.jpg', '/sl-forward-sprisv/LLR/99548/1041663222/791-462', 21, 23, 'LLR99548'], ['text', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_09.jpg', '/sl-forward-sprisv/LLR/99548/1041663222/791-462', 185, 23, 'LLR99548', '#ffffff', '#000000', 'linetext1_CUS'], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_10.jpg', '/sl-forward-sprisv/LLR/99548/1041663222/791-462', 374, 23, 'LLR99548']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_11.jpg', '/sl-forward-sprisv/LLR/99548/1041663222/791-462', 580, 50, 'LLR99548']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_12.jpg', '/sl-forward-sprisv/LLR/99550/1041663224/743-873', 580, 137, 'LLR99550']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_13.jpg', '/sl-forward-sprisv/LLR/99550/1041663224/743-873', 21, 23, 'LLR99550'], ['text', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_14.jpg', '/sl-forward-sprisv/LLR/99550/1041663224/743-873', 225, 23, 'LLR99550', '#ffffff', '#000000', 'linetext2_CUS'], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_15.jpg', '/sl-forward-sprisv/LLR/99550/1041663224/743-873', 334, 23, 'LLR99550']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_16.jpg', '/sl-forward-sprisv/LLR/99550/1041663224/743-873', 580, 58, 'LLR99550']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_17.jpg', '/sl-forward-sprisv/LLR/99553/1041663227/118-979', 375, 131, 'LLR99553'], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_18.jpg', '/sl-forward-sprisv/LLR/99554/1041663228/630-255', 205, 131, 'LLR99554']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_19.jpg', '/sl-forward-sprisv/LLR/99553/1041663227/118-979', 375, 84, 'LLR99553'], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_20.jpg', '/sl-forward-sprisv/LLR/99553/1041663227/118-979', 205, 84, 'LLR99553']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_21.jpg', '/sl-forward-sprisv/LLR/99553/1041663227/118-979', 393, 23, 'LLR99553'], ['text', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_22.jpg', '/sl-forward-sprisv/LLR/99553/1041663227/118-979', 187, 23, 'LLR99553', '#125e7e', '#FFFFFF', 'linetext3_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_23.jpg', '/sl-forward-sprisv/LLR/99553/1041663227/118-979', 580, 74, 'LLR99553']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_24.jpg', '/sl-forward-sprisv/LLR/42160/1041663062/569-192', 580, 239, 'LLR42160']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_25.jpg', '/sl-forward-sprisv/LLR/42160/1041663062/569-192', 208, 82, 'LLR42160'], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_26.jpg', '/sl-forward-sprisv/LLR/42160/1041663062/569-192', 372, 82, 'LLR42160']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_27.jpg', '/sl-forward-sprisv/LLR/42159/1041663061/618-295', 208, 24, 'LLR42159'], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_28.jpg', '/sl-forward-sprisv/LLR/42159/1041663061/618-295', 372, 24, 'LLR42159']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_29.jpg', '/sl-forward-sprisv/LLR/42160/1041663062/569-192', 208, 79, 'LLR42160'], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_30.jpg', '/sl-forward-sprisv/LLR/42159/1041663061/618-295', 372, 79, 'LLR42159']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_31.jpg', '/sl-forward-sprisv/LLR/42160/1041663062/569-192', 49, 23, 'LLR42160'], ['text', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_32.jpg', '/sl-forward-sprisv/LLR/42160/1041663062/569-192', 182, 23, 'LLR42160', '#ebf3f6', '#000000', 'linetext4_CUS'], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_33.jpg', '/sl-forward-sprisv/LLR/42160/1041663062/569-192', 349, 23, 'LLR42160']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_34.jpg', '/sl-forward-sprisv/LLR/42160/1041663062/569-192', 580, 66, 'LLR42160']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_35.jpg', '/sl-forward-sprisv/LLR/42168 /1041663063/445-191', 580, 130, 'LLR42168']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_36.jpg', '/sl-forward-sprisv/LLR/42168 /1041663063/445-191', 175, 237, 'LLR42168'], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_37.jpg', '/sl-forward-sprisv/LLR/42169/1041663064/246-964', 209, 237, 'LLR42169'], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_38.jpg', '/sl-forward-sprisv/LLR/42168 /1041663063/445-191', 196, 237, 'LLR42168']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_39.jpg', '/sl-forward-sprisv/LLR/42168 /1041663063/445-191', 175, 73, 'LLR42168'], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_40.jpg', '/sl-forward-sprisv/LLR/42169/1041663064/246-964', 209, 73, 'LLR42169'], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_41.jpg', '/sl-forward-sprisv/LLR/42169/1041663064/246-964', 196, 73, 'LLR42169']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_42.jpg', '/sl-forward-sprisv/LLR/42169/1041663064/246-964', 393, 23, 'LLR42169'], ['text', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_43.jpg', '/sl-forward-sprisv/LLR/42168 /1041663063/445-191', 187, 23, 'LLR42168', '#ffffff', '#000000', 'linetext5_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_44.jpg', '/sl-forward-sprisv/LLR/42169/1041663064/246-964', 385, 39, 'LLR42169'], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_45.jpg', '/sl-forward-sprisv/LLR/42168 /1041663063/445-191', 195, 39, 'LLR42168']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_46.jpg', '', 385, 38, ''], ['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_47.jpg', '', 195, 38, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_48.jpg', '', 580, 141, '']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_138_011018_Q1_LORELL_ActiveOffice_R5_DEV_49.jpg', '', 580, 140, '', '#000000', '#FFFFFF', 'linetext6_CUS']]
+

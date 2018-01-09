@@ -7,7 +7,7 @@ logo_img_alt: "buybuy Baby Logo"
 logo_img_link: "http://www.buybuybaby.com/store"
 
 freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
-freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details "
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
 freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
 
 instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
@@ -41,6 +41,7 @@ viewaswebpage_link: 'Oracle to host web page'
 #END DEFAULT VIEW AS WEBPAGE LINK
 
 # Loop through articles
+
 articles:
 
 - type: 'image'
@@ -53,6 +54,7 @@ articles:
   img_alt: 'Soothing River Luxury Calming Vibrations tub by Fisher-Price® 44.99 exclusive color registry favorite'
   img_url: 'images/bbB_010218_Safety_CategoryBath_04.jpg'
 
+
 - type: 'image-3-columns'
   img_link: 'https://www.buybuybaby.com/store/product/babyganics-reg-16-oz-night-time-shampoo-body-wash-in-orange-blossom/1020150983'
   img_alt: '16 oz Night Time Shampoo + Body Wash Shown in Orange Blossom 9.99'
@@ -63,6 +65,7 @@ articles:
   img_3_link: 'https://www.buybuybaby.com/store/product/babyganics-reg-12-oz-say-aahhh-soothing-vapor-bubble-bath/1020150990'
   img_3_alt: 'B. babyganics® Soothing Vapor Rub'
   img_3_url: 'images/bbB_010218_Safety_CategoryBath_07.jpg'
+
 
 - type: 'image-3-columns'
   img_link: 'https://www.buybuybaby.com/store/product/babyganics-reg-12-oz-say-aahhh-soothing-vapor-bubble-bath/1020150990'
@@ -124,20 +127,24 @@ articles:
   img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States. '
   img_url: 'images/bbB_010218_Safety_CategoryBath_21.jpg'
 
+
 - type: 'image'
   img_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
   img_alt: 'in-store clearance up to 50% off original retail prices You&#39;ll find savings throughout the store…on everything you need for your baby! find a store Select styles. While supplies last. Furniture floor models only.'
   img_url: 'images/bbB_010218_Safety_CategoryBath_22.jpg'
+
 
 - type: 'image'
   img_link: 'https://www.buybuybaby.com/store/account/Login'
   img_alt: 'see something you like? Login to create an Idea Board. get started'
   img_url: 'images/bbB_010218_Safety_CategoryBath_23.jpg'
 
+
 - type: 'image'
   img_link: 'https://www.buybuybaby.com/store/static/tcp'
   img_alt: 'mobile offers First-time subscribers get a one single item mobile offer for in-store or online use on a future purchase. Text OFFER2 to 42229 view details Message and data rates apply. Mobile internet access required. Up to 8 msg/month. Text STOP to 42229 to cancel. Terms, Conditions, and Privacy. '
   img_url: 'images/bbB_010218_Safety_CategoryBath_24.jpg'
+
 
 - type: 'image-2-columns'
   img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
