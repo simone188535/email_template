@@ -1,0 +1,39 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_01.jpg', '', 580, 71, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_02.jpg', '', 580, 415, 'HEW113100']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_03.jpg', '', 18, 95, ''], ['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_04.jpg', '', 542, 95, ''], ['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_05.jpg', '', 20, 95, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_06.jpg', '', 18, 305, 'HEW113100'], ['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_07.jpg', '', 542, 305, 'HEW113100'], ['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_08.jpg', '', 20, 305, 'HEW113100']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_09.jpg', '', 18, 281, ''], ['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_10.jpg', '', 18, 281, ''], ['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_11.jpg', '', 345, 281, ''], ['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_12.jpg', '', 179, 281, ''], ['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_13.jpg', '', 20, 281, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_14.jpg', '', 580, 45, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_15.jpg', '', 18, 180, ''], ['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_16.jpg', '', 18, 180, ''], ['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_17.jpg', '', 506, 180, ''], ['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_18.jpg', '', 19, 180, ''], ['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_19.jpg', '', 19, 180, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_139_010318_IP_NewHP_R4_DEV_20.jpg', '', 580, 106, 'HEW113100']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_139_010318_IP_NewHP_R4_DEV_21.jpg', '', 580, 164, '', '#00a3e4', '#FFFFFF', 'linetext1_CUS']]
+

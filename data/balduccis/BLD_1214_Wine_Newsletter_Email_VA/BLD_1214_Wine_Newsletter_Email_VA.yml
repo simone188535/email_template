@@ -1,0 +1,73 @@
+title: 'Free Wine Event | Stock Up for the Holidays! '
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_088_112617_123017_Emails'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_088_112617_123017_Emails'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_088_112617_123017_Emails'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_088_112617_123017_Emails'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_088_112617_123017_Emails'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_088_112617_123017_Emails"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_088_112617_123017_Emails'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ab299020-a518-40c5-b0a4-f2a19eabbbb1.jpg?ver=1513095228000'
+  img_alt: 'Wine Newsletter December 2017'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_088_112617_123017_Emails'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c96ebe06-fc43-46f1-ae62-be2dbbe278db.jpg?ver=1513095228000'
+  img_alt: 'The Heart of the Holiday Season Wine & Food Event Saturday, December 16th Food Tasting: 12pm-5pm Wine Tasting: 2pm-5pm   Save 25% Mix & Match 12 Bottles Or More  FEATURING *Celebratory bubblies *Wine Lover’s Gifts  *Holiday Gatherings '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_088_112617_123017_Emails'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/31a3940f-30e9-48aa-a108-48c18093bd3a.jpg?ver=1513095228000'
+  img_alt: 'Must Have Wines The heart of the holiday season is upon us.  Family gatherings, neighborhood get-togethers and a full social calendar…somebody has to bring the wine!  Try our staff’s Top Picks…'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_088_112617_123017_Emails'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/62780022-b6ae-48fd-8bc4-f30406eeca7f.jpg?ver=1513098203000'
+  img_alt: 'A stunning, small production bubbly… Turgy Brut Champagne 44.99/BTL &#34;Mesnil is an area in Champagne&#39;s Cote des Blancs, where chardonnay achieves its greatest expression. These wines are typically big and bold flavored, but Michel Turgy achieves a remarkable finesse and delicacy. And at this price, it&#39;s a relative value.&#34;  -The Washington Post'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_088_112617_123017_Emails'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/15b12312-54f5-461c-ac5e-56588684ba87.jpg?ver=1513098203000'
+  img_alt: 'A stunning value from Napa… Two Range Napa Red 2015  21.99/BTL &#34;This wine offers high-toned cherry amidst a fresh, acidic backbone. The secondary characteristics are defined by cedar, forest floor, coffee and leather. Light in body, this is a great crowd pleaser.&#34; -Wine Enthusiast 91pts. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_088_112617_123017_Emails'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a56d0a91-3128-46c1-88cb-08cb14f43a31.jpg?ver=1513098203000'
+  img_alt: 'A very pretty Chardonnay… Scott Family Chardonnay 2015 21.99/BTL &#34;This wine&#39;s thick and buttery aromas range from cashew cream and caramel to honeysuckle. Its powerful acidity cuts through the palate&#39;s unctuous qualities, combining for a big personality.&#34; -Wine Enthusiast 90pts. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_088_112617_123017_Emails'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/22b77a1e-ba5b-4191-b13b-46bb567ade72.jpg?ver=1513095229000'
+  img_alt: 'Meant to cap the night off… Taylor Fladgate 20 Year Tawny Port 55.00/BTL  &#34;Rich, with a spicy nose, this wine offers flavors  of fig, dried apricot, mango and ginger. Complex  and elegant, delivering concentrated crème  brûlée and tropical fruit notes that linger on  the vibrant and buttery finish. Drink now.&#34; -Wine Spectator 93pts.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_088_112617_123017_Emails'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7fbe61ad-adb6-48d0-a6f6-86d525672a24.jpg?ver=1513095229000'
+  img_alt: 'Serving Tips | Temperature Matters  Get the most out of your wine this holiday season! -John Coleman, Balducci&#39;s Wine Merchant &#34Too often we serve our reds too warm and our whites too cold.  WHITE WINES: For a more  full-bodied flavor, serve whites  at a crisp 40-50°F. 6/11°C; 43/52° FRED WINES: For a richer texture  on the palate and a red that  shows better fruit, serve at cellar temperature: 60-65°F. 17/18°C; 63/65°F  Our rule of thumb: 20 minutes before service, bring your  white wines out of the refrigerator and put your red wines in!&#34'
