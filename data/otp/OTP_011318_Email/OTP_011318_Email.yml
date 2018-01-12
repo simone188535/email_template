@@ -1,0 +1,79 @@
+title: 'Refresh Your Bedroom for Under $100!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=discount_home_decor&utm_content=homepage"
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=find_a_store&utm_content=locations"
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'From bedding to décor, we&#39;ve got you covered'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_011318_Email_02.jpg'
+  image_alt: 'MORE THAN JUST A WHITE SALE REFRESH YOUR BEDROOM FOR LESS THAN $100 7pc Comforter Sets 39.99 Sale Large selection. UP TO $129.99 AT OTHER STORES ALL SHEETS ON SALE! 9.99 to 49.99 Sale Large selection. UP TO $129.99 AT OTHER STORES ALL PILLOWS ON SALE! 4.99 to 14.99 Sale ALL MATTRESS PADS ON SALE REFRESH YOUR BEDROOM FOR LESS'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=old_time_pottery_home_store_with_more&utm_content=refresh_your_bedroom_for_less'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_011318_Email_03.jpg'
+  image_alt: 'ADD THE FINISHING TOUCHES 2.99 Sale Accent Pillows Huge selection. UP TO $9.99 AT OTHER STORES NEW STYLES 9.99 to 29.99 Sale Framed & Canvas Art Large selection. UP TO $69.99 AT OTHER STORES NEW ARRIVALS TRUCKLOAD RUG SALE! Area Rugs 5&#39; x 7&#39; 39.99 Sale UP TO $149.99 AT OTHER STORES 8&#39; X 10&#39; 99.99 Sale UP TO $299.99 AT OTHER STORES'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=old_time_pottery_home_store_with_more&utm_content=add_the_finishing_touches'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_011318_Email_04.jpg'
+  image_alt: 'NEW STYLES 20%off OUR ALREADY LOW PRICES ALL Accent Furniture Selection varies by store. SALE PRICE $15.99-$239.99 UP TO $329.99 AT OTHER STORES 79.99 to 129.99 Sale Upholstered Chairs Large selection of colors and patterns varies by store. UP TO $249.99 AT OTHER STORES VIEW AD'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=old_time_pottery_home_store_with_more&utm_content=20off_already_low_prices'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_011318_Email_05.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/#utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=old_time_pottery_home_store_with_more&utm_content=get_inspired'
+
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=otp_store_locations&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=otp_store_blog&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=otp_youtube&utm_content=youtube"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer01_13&utm_medium=email&utm_campaign=refresh_your_bed_room_under_100&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""
