@@ -1,0 +1,64 @@
+title: "Introducing New Power Bowls!"
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_PowerBowl_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_PowerBowl_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_PowerBowl_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_PowerBowl_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_PowerBowl_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_PowerBowl_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_PowerBowl_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/69736c7c-210a-4a9a-83ea-0fa29577a95c.jpg?ver=1511291664000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_PowerBowl_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bbdcb4dc-3709-404f-bd86-ea88b763c398.jpg?ver=1515509622000'
+  img_alt: 'NEW! POWER BOWL BAR Build Your Own Bowl of Power Foods! Make Your Own Creation in 5 Easy Steps: 1. Choose a base of Fresh Greens. 2. Add one or more of the Grain Blends. 3. Add you choice of Protein. 4.Select Roasted of Raw Veggies. 5. Top it all off with a Dressing. Enjoy a nutritious & flavor packed meal! myBALDUCCI&#39;S MEMBER EXCLUSIVE 8.99 LB. | REG. 9.99 LB. Valid 1/14/18 - 1/25/18 Find it in our Deli Department at Balducci&#39;s Alexandria, VA. and Balducci&#39;s Rye Brook, NY.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_PowerBowl_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2a1009b6-f540-4a44-bb68-f47919971bdd.jpg?ver=1515509622000'
+  img_alt: 'NEW! POWER BOWL BAR Build Your Own Bowl of Power Foods! Make Your Own Creation in 5 Easy Steps: 1. Choose a base of Fresh Greens. 2. Add one or more of the Grain Blends. 3. Add you choice of Protein. 4.Select Roasted of Raw Veggies. 5. Top it all off with a Dressing. Enjoy a nutritious & flavor packed meal! myBALDUCCI&#39;S MEMBER EXCLUSIVE 8.99 LB. | REG. 9.99 LB. Valid 1/14/18 - 1/25/18 Find it in our Deli Department at Balducci&#39;s Alexandria, VA. and Balducci&#39;s Rye Brook, NY.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/delivers/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_PowerBowl_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/72156918-9988-4453-811c-1a4da9f95548.jpg?ver=1515509622000'
+  img_alt: 'WHAT&#39;S NEW | IN STORE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/delivers/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_BLD_PowerBowl_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/373b9210-a184-4273-a1bd-0838eec0686d.jpg?ver=1515509623000'
+  img_alt: 'DELICIOUS DELIVERED IN AS LITTLE AS ONE HOUR LEAN MORE Check your zip code for availability. Powered by instacart'
+
+
+
+
+
+
