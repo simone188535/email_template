@@ -1,0 +1,75 @@
+title: 'Free Wine Event | Stock Up for the Game!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_Wine_Newsletter_Email_VA'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_Wine_Newsletter_Email_VA'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_Wine_Newsletter_Email_VA'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_Wine_Newsletter_Email_VA'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_Wine_Newsletter_Email_VA'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_Wine_Newsletter_Email_VA"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7175f87f-bb33-4787-948a-43b22973d551.jpg?ver=1516135655000'
+  img_alt: 'Wine Newsletter January 2018'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e0319eda-b3c1-4f9d-b151-f2fd34c84e4d.jpg?ver=1516135655000'
+  img_alt: 'January Wine & Food Event Saturday, January 20th, 2018 Food Tasting: 12pm-5pm Wine Tasting: 2pm-5pm Save 25% Mix & Match 12 Bottles Or More PLUS • Big Game Wines • Great Value Wines • Cold Weather Wines '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/08acb83d-9a74-4444-abfb-ae69b7985787.jpg?ver=1516135656000'
+  img_alt: 'Must Have Wines New Year&#39;s Resolution #1: Try something new! -John Coleman, Balducci&#39;s Wine Merchant Wine&#39;s greatest asset is an amazing breadth of varying tastes and styles. In 2018, let&#39;s be daring and explore the wider world of wine. Happily, our wine experts are on hand to help navigate. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1ccc3e1b-34d2-43d5-a4c0-19431bcf2932.jpg?ver=1516138193000'
+  img_alt: 'Domaine Lafage Bastide &#34;Miraflors&#34; 2015 18.99/BTL *Limited availability! &#39;This wine is almost too good to be true. It&#39;s a ripe, sexy, heady beauty that exhibits a deep, purple color as well as notes of smoked meats, chocolate, blackberry and black raspberries.&#34; -Robert Parker 94pts.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2da00c0d-dc1d-4a74-8ae5-6fa227514419.jpg?ver=1516138193000'
+  img_alt: 'Balducci&#39;s New Zealand Sauvignon Blanc 16.99/BTL Sauvignon Blanc from New Zealand is famous throughout the world as one of the most distinctive styles of wine produced.  Ours boasts lively aromas of gooseberry, passionfruit and grapefruit, which carry through to the palate. Clean and crisp.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7ff9621c-404a-4a36-be75-fe6e5871e12b.jpg?ver=1516138193000'
+  img_alt: 'Balducci&#39;s Chenin Blanc 9.99/BTL  Packed with upfront melon fruit, the nose charms with an abundance of guava and gooseberries, as well as the signature hint of honey. The palate follows through with fruit flavors balanced by a crisp acid to ensure a fresh and fruity style of wine.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/73b388ae-8b8c-4e49-bf04-f484e7d9c01e.jpg?ver=1516135656000'
+  img_alt: 'Balducci&#39;s Organic Chianti 14.99/BTL 100% Sangiovese grapes certified organic by Agricultura Biologica, this rustic Chianti offers classic old world charm.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_Wine_Newsletter_Email_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e29fb5a1-5dba-431e-b596-c769441847a3.jpg?ver=1516138193000'
+  img_alt: 'Recipe | A New Way to Love Prosecco Sgroppino Cocktail View Recipe > Create using Balducci&#39;s Prosecco '
+
+
