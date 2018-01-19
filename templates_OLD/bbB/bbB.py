@@ -46,7 +46,6 @@ class bbBBuilder(emailBuilder):
                     self.imageRows.append(irow)
         row = self.imageRows[self.bodyCounter]
         self.bodyCounter = self.bodyCounter + 1
-
         return row
 
     def update(self):
