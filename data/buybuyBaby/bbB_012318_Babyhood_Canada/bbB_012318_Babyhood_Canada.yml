@@ -1,0 +1,118 @@
+# #TITLE
+# title: 'Shop Joovy® Qool'
+
+# #__DEFAULT_TEMPLATE_HEADERS
+# logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+# logo_img_alt: "buybuy Baby Logo"
+# logo_img_link: "http://www.buybuybaby.com/store"
+
+# freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+# freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 View Details "
+# freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+# instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+# instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+# instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+# babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+# babyreg_img_alt: "baby registry logo"
+# babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+# nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+# nav1_alt: "what&#39;s new"
+# nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+# nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+# nav2_alt: "find a store"
+# nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+# nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+# nav3_alt: "clearance"
+# nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+# #END DEFAULT TEMPLATE HEADERS
+
+# #__TITLE_AND_LINK
+# preheader_text: 'Shop Joovy® Qool'
+# preheader_link: 'https://www.buybuybaby.com/store/product/joovy-reg-qool-trade-stroller/3349733'
+
+# #DEFAULT VIEW AS WEBPAGE LINK
+# viewaswebpage_text: 'View as a web page'
+# viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image-3-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/'
+  img_alt: 'buybuy Baby Logo'
+  img_url: 'images/BBB9073-2_Email_CA_DEV_01.jpg'
+  img_2_link: ''
+  img_2_alt: ''
+  img_2_url: 'images/BBB9073-2_Email_CA_DEV_02.jpg'
+  img_3_link: 'https://www.bedbathandbeyond.ca/store/page/BabyCanadaRegistry'
+  img_3_alt: 'baby registry logo'
+  img_3_url: 'images/BBB9073-2_Email_CA_DEV_03.jpg'
+
+# - type: 'image-2-columns'
+#   img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+#   img_alt: 'savings center'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_13.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+#   img_2_alt: 'strollers'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: 'Welcome to Babyhood. Visit us in-store to start your registry today and receive your $25 gift card*.  Who knew such a tiny bundle of love could need so much stuff? Don&#39;t worry! The buybuy BABY registry has you covered. From the best products to the best advice, a better Babyhood starts here! That&#39;s just the start. At buy buy BABY your registry comes with standard free shipping and gift-wrapping on registry items, plus a complimentary personal shopping experience with a registry expert. Bring this email in-store to receive your $25 gift card when you start your registry. *Offer valid in stores only through May 13, 2018 '
+  img_url: 'images/BBB9073-2_Email_CA_DEV_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: '$25 buybuy BABY (gift card image slice) '
+  img_url: 'images/BBB9073-2_Email_CA_DEV_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/'
+  img_alt: 'Can&#39;t wait to shop? Visit our website before you head to the store '
+  img_url: 'images/BBB9073-2_Email_CA_DEV_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/'
+  img_alt: 'everything for newborns to toddlers.™'
+  img_url: 'images/BBB9073-2_Email_CA_DEV_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: 'Visit a store near you:'
+  img_url: 'images/BBB9073-2_Email_CA_DEV_08.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailfooter_03.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailfooter_04.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailfooter_05.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailfooter_06.jpg"
+  alt: "Pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailfooter_07.jpg"
+  alt: "YouTube logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailfooter_08.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_emailfooter_09.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
