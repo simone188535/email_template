@@ -1,0 +1,96 @@
+title: "1 Week until the big game! ORDER CATERING NOW."
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0128_BLD_GameTime_Solo_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0128_BLD_GameTime_Solo_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0128_BLD_GameTime_Solo_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0128_BLD_GameTime_Solo_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0128_BLD_GameTime_Solo_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0128_BLD_GameTime_Solo_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0128_BLD_GameTime_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7f772d05-4877-4fec-9411-0f46d0bb814e.jpg?ver=1516636602000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0128_BLD_GameTime_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3258a9bd-718c-4dea-9baa-819422435382.jpg?ver=1516636603000'
+  img_alt: 'FOOD, FUN, FOOTBALL! Our team is ready to create a tasty lineup of fan favorites. Order your catering now! ORDER NOW'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0128_BLD_GameTime_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/93477a44-0225-468b-b66b-1f3e8717a3e7.jpg?ver=1516636603000'
+  img_alt: 'FOOTBALL & FOOD | CATERING Our NEW Game Time Party Package is an easy way to treat all your fans to a winning spread. ORDER NOW'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0128_BLD_GameTime_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4e7bf956-7c55-40fb-9821-5c90f2e1af9b.jpg?ver=1516636603000'
+  img_alt: 'BBQ PULLED PORK SLIDER BAR'
+  url_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0128_BLD_GameTime_Solo_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ef01548e-7554-4c4b-9006-4ffa36e935af.jpg?ver=1516636603000'
+  img_alt_2: 'ULTIMATE WING DUO'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0128_BLD_GameTime_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/07e23a73-5fba-4a0a-a989-9310d335ab3f.jpg?ver=1516636604000'
+  img_alt: 'CRUDITE & CHEESE'
+  url_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=0128_BLD_GameTime_Solo_Email'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/19ddd4ea-8464-4712-b168-67ad4d5cf6b8.jpg?ver=1516636604000'
+  img_alt_2: 'SLOPPY JOE PLATTER'
+
+- type: 'image'
+  url: 'https://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0128_BLD_GameTime_Solo_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/63254590-ebc4-4fc3-9dda-8f5cfae60045.jpg?ver=1516636604000'
+  img_alt: 'WHAT&#39;S NEW | IN STORE DELICIOUS DELIVERED IN AS LITTLE AS ONE HOUR LEARN MORE FREE DELIVERY ON YOUR FIRST ORDER'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

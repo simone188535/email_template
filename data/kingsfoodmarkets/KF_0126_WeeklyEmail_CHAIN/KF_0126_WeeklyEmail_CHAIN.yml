@@ -1,0 +1,158 @@
+title: 'Light done right: Recipes & tips.'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5dcf8936-8568-4e4e-bcd4-1305cab5950a.jpg?ver=1516806570000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/230d7c9e-6ffd-4399-8f24-880ab52432a0.jpg?ver=1516806571000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5e03d78a-3c22-4b05-841c-f8cec2778525.jpg?ver=1516806571000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/44d6924e-7198-408b-b81f-63a7da651e0c.jpg?ver=1516806571000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9a4f80c2-e417-427b-a26a-e3cd528b074c.jpg?ver=1516806560000"
+  img_alt: "Healthy INSPIRATION Easy ideas for wholesome eats."
+  url: "https://kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ba7434a1-880d-453b-9c06-d389b5d18c67.jpg?ver=1516806561000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2f4160a-caa8-4429-ba75-4ffc6199d7f3.jpg?ver=1516806561000"
+  img_alt: "members extra! SAVINGS PURDUE FARMS BONELESS CHICKEN BREAST members pay 4.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a19fe6f1-d90b-4cdd-ba57-67320c795bd7.jpg?ver=1516806562000"
+  img_alt_2: "members extra! SAVINGS KINGS LARGE COOKED & CLEANED COCKTAIL SHRIMP TAIL-ON members pay 11.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5ed59778-ab37-4e28-8c5a-02dc04202821.jpg?ver=1516806562000"
+  img_alt: "members extra! SAVINGS SAVE $4.98 on 2 DRISCOLL&#39;S BLUEBERRIES PINT members pay 2/9"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/59bdb3be-5690-40ff-97ef-15a16a70a0b8.jpg?ver=1516806563000"
+  img_alt_2: "members extra! SAVINGS RED & GREEN ANJOU, BARTLETT, BOSC OR COMICE PEARS members pay 1.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cd1a5072-0c60-4b0f-aa6c-b2fd8312c382.jpg?ver=1516806563000"
+  img_alt: "VIEW WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2b6d5aca-45a7-40e9-a509-71d46998f38a.jpg?ver=1516806563000"
+  img_alt: "KINGS IS NEW JERSEY&#39;S BEST!"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/746cd001-8030-4ecf-99f8-acf81b00709d.jpg?ver=1516806564000"
+  img_alt: "VOTED BEST GROCERY STORE IN NEW JERSEY! Kings was named the BEST grocery store in New Jersey by The Daily Meal® for bringing our shoppers &#34;THE QUALITY PRODUCTS CUSTOMERS ARE LOOKING FOR.&#34;"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8f7b545-4258-470b-8a80-84728a3e3db6.jpg?ver=1516806564000"
+  img_alt: "GAME DAY READY CHEF PREPARED CATERING"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/81f91d2c-2f84-4800-90d6-fd7640678291.jpg?ver=1516806564000"
+  img_alt: "Our NEW GAME TIME PARTY PACKAGE is an easy way to treat all your fans to a winning spread. INCLUDES: • Fresh CRUDITÉ & CHEESE • The ULTIMATE WING DUO • BBQ PULLED PORK slider bar • Savory SLOPPY JOE platter!"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eadcca8e-7db7-412c-a8c2-638c4dc077ec.jpg?ver=1516806565000"
+  img_alt: "ORDER NOW"
+  url: "#"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/db283de1-29ed-49b4-a671-f8d45ee7bec3.jpg?ver=1516806565000"
+  img_alt: "Fast. Fresh. Delivered. We&#39;ve partnered with Instacart to provide convenient ONLINE ORDERING, SHOPPING and DELIVERY! FREE DELIVERY ON YOUR FIRST PURCHASE Powered by instacart ORDER NOW"
+  url: "https://delivery.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/898270ec-6c35-45eb-97d6-0a7ab1597707.jpg?ver=1516806565000"
+  img_alt: "WHOLESOME EATS SALAD RECIPES"
+  url: "https://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f69cff90-baaf-477f-a329-9b2289658919.jpg?ver=1516806566000"
+  img_alt: "COCKTAIL SHRIMP OVER BEETS & GREENS VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/roasted-beet-salad-with-arugula-and-watercress?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd91d573-97a3-4db8-88b8-e0c42a8b023f.jpg?ver=1516806567000"
+  img_alt_2: "HERB SALAD WITH ROASTED PEARS VIEW RECIPE"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/herb-salad-w-roasted-pears?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ca02a43b-8736-436a-a23f-5d100eee36d0.jpg?ver=1516806568000"
+  img_alt: "CLEAN EATING TIP FROM KINGS&#39; NUTRITIONIST"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6da024dd-c793-4e03-a7c6-3b3d6a6a4cd8.jpg?ver=1516806568000"
+  img_alt: "EASY & HEALTHY BREAKFAST IDEA: Try a protein-rich BLUEBERRY & POWER GREENS SMOOTHIE for a quick energy boost that will start your day off right. VIEW RECIPE Shari Bilt Boockvar, M.S., R.D. KINGS&#39; NUTRITIONIST"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7001bcd8-17dc-4d14-9385-2cd54219af8a.jpg?ver=1516806568000"
+  img_alt: "WHAT&#39;S NEW IN STORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/efc68144-9e4a-4bcd-92c6-d3b8cff78b0c.jpg?ver=1516806569000"
+  img_alt: "NEW LOW PRICES Eating on the go can be easy and more affordable with newly lowered prices on our CHEF PREPARED CHICKEN PARMESAN and ROASTED POTATOES! FIND A STORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b17201af-706c-434a-81d7-2b31a4cc2fd1.jpg?ver=1516806569000"
+  img_alt: "KINGS OWN SNACKS GOOD FOR YOU GOODIES"
+  url: "https://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2f9d4cb6-56ee-4ef4-8bbf-2b8eb77794e3.jpg?ver=1516806569000"
+  img_alt: "KINGS ORGANIC VEGGIE CHIPS & STICKS"
+  url: "https://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8e81ec0d-4918-4181-b827-3f1d7a3a4db8.jpg?ver=1516806570000"
+  img_alt_2: "KINGS ORGANIC MICROWAVE POPCORN"
+  url_2: "https://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/27e4654c-2af6-4846-ac06-9b9fd7af03d8.jpg?ver=1516806570000"
+  img_alt: "VIEW MORE"
+  url: "https://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0126_KF_WeeklyEmail"
