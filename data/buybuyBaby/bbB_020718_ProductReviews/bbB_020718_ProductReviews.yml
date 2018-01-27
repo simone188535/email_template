@@ -1,0 +1,148 @@
+#TITLE
+title: 'Shop 5-star essentials! '
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "https://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Shop 5-star essentials! '
+preheader_link: 'https://www.buybuybaby.com/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/'
+  img_alt: 'the results are in Find out why parents gave these items 5 stars! shop now'
+  img_url: 'images/bbB_020718_ProductReviews_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/halo-reg-bassinest-trade-premiere-series-swivel-sleeper-in-river-stone/1061921115'
+  img_alt: 'Best piece of baby gear!!! Amazing for nursing, especially in the middle of the night…I didn&#39;t even have to get out of bed to get the baby! -JFELD14 Bassinest™ Premiere Series Swivel Sleeper by HaALO® Shown in NEW River Stone excluded from offer Online Only'
+  img_url: 'images/bbB_020718_ProductReviews_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/chicco-reg-bravo-reg-trio-travel-system-in-orion-trade/3315161'
+  img_alt: 'We love it! It&#39;s easy to assemble, carry, install in the car, and has everything need for the first year of our baby… - Happy MommyMarch Bravo® Trio Travel System by Chicco® Shown in Orion™'
+  img_url: 'images/bbB_020718_ProductReviews_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/graco-reg-4ever-trade-extend2fit-trade-platinum-all-in-one-convertible-car-seat-in-ottlie/1061382046'
+  img_alt: 'exclusively ours Excellent car seat for safety and comfort! The EZ tight latch system made installing the car seat hassle-free and easy to do… - JOJO13 4Ever™ Extend2Fit™ Platinum All-in-One Convertible Car Seat by Graco® Shown in Ottlie'
+  img_url: 'images/bbB_020718_ProductReviews_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/miamily-hipster-plus-3d-baby-carrier-in-charcoal/1061786912'
+  img_alt: 'Carrier well worth the money! Its bottom strap works as a back brace, making back paid a distant memory. - DSILVA Hipster Plus 3D Baby Carrier by MiaMily Shown in Charcoal'
+  img_url: 'images/bbB_020718_ProductReviews_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/graco-reg-table2table-trade-7-in-1-convertible-high-chair-in-sterling-trade/5001126'
+  img_alt: 'TOP NOTCH HIGH CHAIR! When I first received this product I did not know that it becomes a toddler-sized table and chair - HOW COOL IS THAT! - LIZZY G Table2Table™ 7-Iin-1 Convertible High Chair by Graco® Shown in Sterling'
+  img_url: 'images/bbB_020718_ProductReviews_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/dockatot-reg-deluxe-dock-baby-lounger-in-pristine-white/1062264679'
+  img_alt: 'Couldn&#39;t live without it! My baby loves the security of the DockaTot as it reminds him of being held. - MANDYK Deluxe+ Dock Baby Lounger by DockATot® Shown in Prestine White Excluded from offer'
+  img_url: 'images/bbB_020718_ProductReviews_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/motorola-reg-mbp36xl-portable-5-video-baby-monitor-in-white/1060187192'
+  img_alt: 'AMAZING I LOVED how easy the setup was. Just turned both things on and BAM! You&#39;re set! - BECRAMZ93 MBP36XL Portable 5&#34; Video Baby Monitor by Motorola® registry favorite'
+  img_url: 'images/bbB_020718_ProductReviews_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/joovy-reg-boob-trade-3-pack-glass-bottle-with-sleeve-in-turquoise/3302844'
+  img_alt: 'Fantastic Bottles! I love these bottles! No leaks and they clean beautifully! - THEWORKOUTMAMA Boob™ 3-Pack Glass Bottles With Sleeve by Joovy®'
+  img_url: 'images/bbB_020718_ProductReviews_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/fisher-price-reg-4-in-1-sling-39-n-seat-bath-tub/1042192664'
+  img_alt: 'So Many Options I would definitely suffest this tub. It&#39;s truly the only one I&#39;ve ever felt has the safety features to make bathtime comfortable for parent and baby. - LYNSEY 4-in-1 Sling &#39;n Seat Bath Tub by Fisher-Price® registry favorite'
+  img_url: 'images/bbB_020718_ProductReviews_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States.'
+  img_url: 'images/bbB_020718_ProductReviews_12.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'FREE video guestbook We&#39;ve partnered with Tribute.co to offer our registrants a FREE video guestbook! It&#39;s easy to create, collect, & compile video messages from your friends & family. log in to learn more'
+  img_url: 'images/bbB_020718_ProductReviews_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/smart-innovations/32701/'
+  img_alt: 'SMART INNOVATION Stay connected to your home 24/7 shop now'
+  img_url: 'images/bbB_020718_ProductReviews_14.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+  img_alt: 'google play'
+  img_url: 'images/bbB_emailfooter_01.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'app store'
+  img_2_url: 'images/bbB_emailfooter_02.jpg'
+
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailfooter_03.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailfooter_04.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailfooter_05.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailfooter_06.jpg"
+  alt: "Pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailfooter_07.jpg"
+  alt: "Instagram logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailfooter_08.jpg"
+  alt: "YouTube logo"
+- link: ""
+  img: "images/bbB_emailfooter_09.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'

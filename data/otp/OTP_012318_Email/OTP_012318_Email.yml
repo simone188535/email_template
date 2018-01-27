@@ -1,0 +1,89 @@
+title: 'NEW Outdoor Selections Arriving Daily!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=discount_home_decor&utm_content=homepage"
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=find_a_store&utm_content=locations"
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'Come Shop New Arrivals!'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_012318_Email_02.jpg'
+  image_alt: 'NEW OUTDOOR ARRIVALS ARE IN STORES NOW! VISIT SOON FOR THE NEWEST ARRIVALS BEFORE THEY&#39;RE GONE!'
+  image_link: 'https://oldtimepottery.com/outdoor#utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=old_time_pottery_home_store_with_more&utm_content=new_outdoor_arrivals'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_012318_Email_03.jpg'
+  image_first_alt: 'Cushions Give your patio a pop of color!'
+  image_first_link: 'https://oldtimepottery.com/outdoor#utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=old_time_pottery_home_store_with_more&utm_content=cushions'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_012318_Email_04.jpg'
+  image_second_alt: 'Umbrellas Cool off in style for less!'
+  image_second_link: 'https://oldtimepottery.com/outdoor#utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=old_time_pottery_home_store_with_more&utm_content=umbrellas'
+ 
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_012318_Email_05.jpg'
+  image_first_alt: 'Planters Grow a garden with a variety of pot sizes.'
+  image_first_link: 'https://oldtimepottery.com/outdoor#utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=old_time_pottery_home_store_with_more&utm_content=planters'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_012318_Email_06.jpg'
+  image_second_alt: 'Patio Sets Sit back and relax with our selection!'
+  image_second_link: 'https://oldtimepottery.com/outdoor#utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=old_time_pottery_home_store_with_more&utm_content=patio_sets'
+  
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_012318_Email_07.jpg'
+  image_alt: 'PATIO TIP HOW SHOULD I CHOOSE MY PATIO FURNISHINGS? If your furniture cushions are a solid color, use patterned pillows or vice versa! This way your patio achieves the perfect ratio of bold design and vibrant style.'
+  image_link: 'https://oldtimepottery.com/outdoor#utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=old_time_pottery_home_store_with_more&utm_content=patio_tip'
+  
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_012318_Email_08.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/#utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=old_time_pottery_home_store_with_more&utm_content=get_inspired'
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=otp_store_locations&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=otp_store_blog&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=otp_youtube&utm_content=youtube"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer01_23&utm_medium=email&utm_campaign=outdoor_arrivals&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""
