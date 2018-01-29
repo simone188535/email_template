@@ -1,0 +1,80 @@
+title: '$10 off + a BIG Thank You!'
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_Best_in_NJ_Solo'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_Best_in_NJ_Solo'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_Best_in_NJ_Solo'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_Best_in_NJ_Solo'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_Best_in_NJ_Solo'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_Best_in_NJ_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ecc3ce3-c19a-4dda-9147-28f45ff48508.jpg?ver=1481664095000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a1e0df33-7f76-4ebb-849b-4cef8e9a84dd.jpg?ver=1481664095000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5d035714-58a2-4fef-85bc-c099298a6b34.jpg?ver=1481664095000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4168b705-7abd-4f10-812a-7eda471d6cd1.jpg?ver=1481664095000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0d497cfa-22ee-4166-94dc-fc2378c483e8.jpg?ver=1516818488000"
+  img_alt: "KINGS BEST Grocery Store in New Jersey from the dailymeal.com THANK YOU! $10 off $50 Purchase Valid 1/25 - 1/31/18 Offer is loaded to your myKINGS EXTRA! Account"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_Best_in_NJ_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8fb65345-33a9-4522-bbfe-ab395aa811e0.jpg?ver=1516818488000"
+  img_alt: "Kings has been named the BEST grocery store in New Jersey by The Daily Meal®, for providing THE QUALITY PRODUCTS CUSTOMERS ARE LOOKING FOR. PROUD TO OFFER"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_Best_in_NJ_Solo"
+
+- type: "image-3-columns"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0bc1a518-477e-4adf-a0a3-d61aedf1d27b.jpg?ver=1516850984000"
+  img_alt: "A favorite shopping destination in the community SINCE 1936"
+  img_link: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_Best_in_NJ_Solo"
+  img_2_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5a646559-c2de-4f6f-8bf2-1e3e8dda031a.jpg?ver=1516850984000"
+  img_2_alt: "The highest quality FRESH & LOCAL PRODUCE VIEW WEEKLY AD >"
+  img_2_link: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_Best_in_NJ_Solo"
+  img_3_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/285c30c9-1256-42d3-b0a4-888c5b9a2baf.jpg?ver=1516850984000"
+  img_3_alt: "NEW LOW PRICE GREAT VALUE and over 200 lowered prices on produce and key meat, seafood and deli items"
+  img_3_link: "https://kingsfoodmarkets.com/new-low-price?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_Best_in_NJ_Solo"
+
+- type: "image-3-columns"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5a6c57eb-c825-44bb-8ea1-6b264605cdc1.jpg?ver=1516850985000"
+  img_alt: "An array of GOURMET, LOCAL & EVERYDAY GROCERY PRODUCTS"
+  img_link: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_Best_in_NJ_Solo"
+  img_2_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3bc8afbe-8e5e-4fb0-9428-0520168afc2e.jpg?ver=1516850985000"
+  img_2_alt: "DELIVERED TO YOUR DOOR CONVENIENT online ordering and delivery in as little as an hour SHOP NOW >"
+  img_2_link: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_Best_in_NJ_Solo"
+  img_3_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4eb703d4-b827-41c2-96cf-ad3c190d17a5.jpg?ver=1516850986000"
+  img_3_alt: "SUPERIOR CUSTOMER SERVICE above all else"
+  img_3_link: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_Best_in_NJ_Solo"
+
+

@@ -1,0 +1,92 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/389a12c0-3a19-4b29-a1b0-12f32b189258.jpg?ver=1509382949000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e5a09551-0237-4388-a406-bc04f7a04f2e.jpg?ver=1509382950000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8cca0489-8883-4c47-aefa-04cc14ca5a6a.jpg?ver=1509382950000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/933bf00a-714c-441c-9dce-edd8a4fcbaf1.jpg?ver=1509382950000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e0484a6c-8d9f-4e6b-a373-937229582acd.jpg?ver=1515512078000"
+  img_alt: "LOCAL BEEF We&#39;re supporting local farmers to bring you the best selection and quality. LOCALLY SOURCED Humanely raised and a low carbon footprint, these all natrual Angus cattle are from New York, Pennsylvania, Virginia & Maryland. HIGHEST QUALITY Rasied on grass and finished on grain. Never administered antibiotics or added growth hormones. STORE CUT Our expert butchers provide you with the best quality & craftmanship."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3be30d6f-ddd5-4785-bc21-c73bfdda9429.jpg?ver=1515512078000"
+  img_alt: "myKINGS EXTRA! SAVINGS VALID 1/12/18 - 1/18/18"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e0e30e54-9bc2-4e85-98a0-a2b021ca1311.jpg?ver=1515512078000"
+  img_alt: "members extra! SAVINGS 2.50 lb.| LOCALLY RASIED CHUCK STEW, CHUCK ROAST OR 85% LEAN GROUND BEEF | No antibiotics or added hormones. Perfect for stew, pot roast, or chili. | MEMBERS PAY 4.99 lb."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/65876f9a-5e47-4168-96cb-e6b9b106b5c2.jpg?ver=1515512078000"
+  img_alt_2: "members extra! SAVINGS 4.00 lb.| LOCALLY RASIED BONE-IN BEEF RIBEYE STEAKS | No antibiotics or added hormones. Excellent marbling throughout! | MEMBERS PAY 12.99 lb."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/324e4a00-0ef0-41eb-b357-6d30c72ec837.jpg?ver=1515512079000"
+  img_alt: "members extra! SAVINGS 3.00 lb.| LOCALLY RASIED BONELESS BEEF RIBEYE STEAKS | No antibiotics or added hormones. Excellent marbling, and superior taste! | MEMBERS PAY 14.99 lb."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/39333049-84a0-4f0d-986c-28a3f329510f.jpg?ver=1515512079000"
+  img_alt: "GROWN CLOSE TO HOME A Local Partner"
+  url: "https://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/df46fc95-cccb-46f1-8d9a-921fbdea1a9a.jpg?ver=1515512079000"
+  img_alt: "Skip & Stacy Coles Triple C Farms Piles Grove, NJ A multi-generation farm operated on 400 pristine acres in South Jersey. The cow herd spends their grazing season on open and wooded pastures with orchard grass and fescue as the primary forage."
+  url: "https://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/696eb055-7812-4595-a21c-99e06e9c725d.jpg?ver=1515512079000"
+  img_alt: "GET IT DELIVERED IN AS LITTLE AS ONE HOUR"
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6dc09f7c-1070-4cb1-8d96-77fec425db39.jpg?ver=1515512080000"
+  img_alt: "Powered by instacart KINGS Fast. Fresh. Delivered. In as little as one hour. Kingsdelivers.com FREE DELIVER ON YOUR FIRST ORDER"
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=0112_KF_LocalBeef_Solo"
+
+
+

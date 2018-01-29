@@ -1,0 +1,83 @@
+title: 'Shop quilts, towels, and bed sets'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=discount_home_decor&utm_content=homepage "
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=find_a_store&utm_content=locations "
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'Shop quilts, towels, and bed sets'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_010617_Email_05.jpg'
+  image_alt: 'GIVE YOUR BED & BATH A REFRESH UPDATE YOUR BEDROOM WITH QUALITY QUILTS, SOFT TOWELS AND MORE. GET INSPIRED THE HOME STORE WITH MORE!'
+  image_link: 'http://oldtimepottery.com/homestore#utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=old_time_pottery_home_store_with_more&utm_content=update_your_bedroom '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_010617_Email_06.jpg'
+  image_alt: 'Quilts Cuddle up to cozy quilts this winter, offered in a variety of colors and patterns! Complete Bed Sets Discover more bedding for less from our variety of all-in-one sets. Comforter Sets From neutral tones to vibrant designs, stay warm with plush comforters. Hamilton Towels Large, 100% cotton, extra absorbent, super soft and dries quickly Diplomat Waffle Towels 100% Turkish cotton, highly absorbent and soft Arabesque Jacquard Towels New Arrival with pattern woven directly into the fabric for more impactful, longer-lasting look '
+  image_link: 'http://oldtimepottery.com/homestore#utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=old_time_pottery_home_store_with_more&utm_content=quilts '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_010617_Email_07.jpg'
+  image_alt: 'HOME TIP HOW MANY TOWELS DO YOU NEED? A good rule of thumb is to have at least two sets of towels per person, so each person can have one set of towels in use and one set in the laundry. You can always add more if you like to change your towels more often or have frequent guests. '
+  image_link: 'http://oldtimepottery.com/homestore#utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=old_time_pottery_home_store_with_more&utm_content=home_tip_how_many_towels_do_you_need'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_010617_Email_08.jpg'
+  image_alt: 'LOOKING FOR STORAGE SOLUTIONS? GET INSPIRED'
+  image_link: 'https://oldtimepottery.com/departments/storage.html#utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=old_time_pottery_home_store_with_more&utm_content=storage_solutions '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_010617_Email_09.jpg'
+  image_alt: 'In appreciation of our Veterans, Active Military & their Families 10%OFF MILITARY DISCOUNT EVERY DAY '
+  image_link: 'https://oldtimepottery.com/military-discount-program/#utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=old_time_pottery_home_store_with_more&utm_content=military_discount '
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=otp_store_locations&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=otp_store_blog&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=otp_twittter&utm_content=twitter "
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=otp_facebook&utm_content=facebook "
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=otp_pinterest&utm_content=pinterest "
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=otp_youtube&utm_content=youtube "
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer01_06&utm_medium=email&utm_campaign=bed_and_bath&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""
