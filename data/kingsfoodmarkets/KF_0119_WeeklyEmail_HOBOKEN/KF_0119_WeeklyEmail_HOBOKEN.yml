@@ -1,0 +1,171 @@
+title: 'A delicious Game Day starts here.'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/389a12c0-3a19-4b29-a1b0-12f32b189258.jpg?ver=1509382949000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e5a09551-0237-4388-a406-bc04f7a04f2e.jpg?ver=1509382950000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8cca0489-8883-4c47-aefa-04cc14ca5a6a.jpg?ver=1509382950000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/933bf00a-714c-441c-9dce-edd8a4fcbaf1.jpg?ver=1509382950000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dfabadd4-c742-4e50-9877-2072f4c2bf85.jpg?ver=1516210417000"
+  img_alt: "GAME DAY Delicious Order your Game Time Party Package online, and get ready for kickoff! NEW! GAME DAY ORDER FORM "
+  url: "https://kingsfoodmarkets.com/catering-by-kings/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bbe06a24-f37b-459d-9977-c31397859de3.jpg?ver=1516210417000"
+  img_alt: "A FOOTBALL FEAST "
+  url: "https://kingsfoodmarkets.com/ordergametime?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0d866b51-b1af-4010-ac5d-6c4ec2609c9b.jpg?ver=1516210418000"
+  img_alt: "GAME TIME PARTY PACKAGE Our NEW GAME TIME PARTY PACKAGE is an easy way to treat all your fans to a winning spread. Includes: Fresh Crudité & Cheese The Ultimate Wing Due BBQ Pulled Pork Slider Bar Savory Sloppy Joe Platter"
+  url: "https://kingsfoodmarkets.com/ordergametime?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0366eef9-1ff6-43f4-af4b-f640e1f1547d.jpg?ver=1516210418000"
+  img_alt: "ORDER NOW"
+  url: "https://kingsfoodmarkets.com/ordergametime?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5b9a5360-cee7-4d6d-9247-bbe952db9e91.jpg?ver=1516210418000"
+  img_alt: "SWEET DREAMS ARE MADE OF CHEESE CHEESE LOVERS DAY Join us SATURDAY, JANUARY 20TH as we celebrate all things cheese! Enjoy Members Extra! Savings on our finest cheeses all weekend, and join us in-store for exclusive tasting events. CHEESE TASTING EVENTS: SATURDAY 1/20 & SUNDAY 1/21 • 10AM - 1PM Ridgewood & Short Hills •2PM-5PM  Chatham & Hillsdale"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71fd4582-f1db-4cc9-a6fe-94835dce2d65.jpg?ver=1516210419000"
+  img_alt: "VIEW OFFERS"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/20df0e12-7fd4-47d5-84c6-64247b1dc982.jpg?ver=1516210419000"
+  img_alt: "myKINGS EXTRA! SAVINGS "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e596af10-df17-4a64-a2d2-0e1af54eea37.jpg?ver=1516210419000"
+  img_alt: "members extra! SAVINGS SAVE $6 lb. NEW YORK STRIP LOIN STEAK  members pay 8.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0f62702-6579-4685-bcc8-ca0a026450e7.jpg?ver=1516210420000"
+  img_alt_2: "members extra! SAVINGS SAVE .80 lb.    BELL & EVANS WHOLE AIR CHILLED CHICKENS members pay 2.29 LB. "
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d8d7d841-f4f2-4ad2-87f5-525861c333d0.jpg?ver=1516210419000"
+  img_alt: "members extra! SAVINGS SAVE $1 KINGS SIGNATURE NEW ENGLAND CLAM CHOWDER  members pay 9.99 EA. "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2fda3e4c-c63a-45ce-b76d-be5c504b1836.jpg?ver=1516210420000"
+  img_alt_2: "members extra! SAVINGS SAVE $3.99 on 2 BROWNIE BRITTLE members BUY 1 GET 1 FREE"
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/92058527-8411-4103-afc9-257665ab79f9.jpg?ver=1516210420000"
+  img_alt: "VIEW WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e35176ca-fafc-458e-9b6d-742d39f64ede.jpg?ver=1516210420000"
+  img_alt: "Fast. Fresh. Delivered. We&#39;ve partnered with Instacart to provide convenient ONLINE ORDERING, SHOPPING and DELIVERY!  FREE DELIVERY ON YOUR FIRST PURCHASE Powered by instacart ORDER NOW"
+  url: "https://delivery.kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d5fec6dd-6e84-4b04-9fbe-653f0cd1cf3e.jpg?ver=1516210420000"
+  img_alt: "BOGO OFFERS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3939806d-4016-4d40-9d51-ef2fd065cdd0.jpg?ver=1516210421000"
+  img_alt: "BUY ONE GET ONE BOUNTY PAPER TOWELS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a5641fdf-0192-4991-a833-bd9c78d20d86.jpg?ver=1516210421000"
+  img_alt_2: "NABISCO SNACK CRACKERS"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/24de3eff-b01e-4476-8051-2f1e3dfe0387.jpg?ver=1516210421000"
+  img_alt: "OCEAN SPRAY CRANBERRY JUICE"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/aeb2d77b-f3e7-40d9-bd2a-a40f77c7f9c5.jpg?ver=1516210421000"
+  img_alt_2: "POLAND SPRING WATER 12 PK"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/42bd3c15-bf84-4c44-907f-3684131193cd.jpg?ver=1516210421000"
+  img_alt: "VIEW BOGO DEALS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b1902adb-9a62-4ef6-a6c3-ce36080f984c.jpg?ver=1516210421000"
+  img_alt: "WHAT&#39;S NEW IN STORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/023a7516-9444-497c-b7ae-b0a3ee5bbb95.jpg?ver=1516210422000"
+  img_alt: "SUGARFINA + TITO&#39;S CANDY BENTO BOX Vodka-infused candy? Yes, please! Shake up your happy hour with this limited-edition Candy Bento Box filled with Tito&#39;s American Mule Bears, &#34;Martini Olive&#34; Almonds, and a mini mule mug. Beautifully packed and ready for gift giving. "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_KF_WeeklyEmail_HOBOKEN"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

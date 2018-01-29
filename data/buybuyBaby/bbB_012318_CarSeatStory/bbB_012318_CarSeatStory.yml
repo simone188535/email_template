@@ -1,5 +1,9 @@
 #TITLE
+<<<<<<< HEAD
 title: 'Shop Team Stroller'
+=======
+title: 'Shop Car Seats'
+>>>>>>> bbB_011018_WarmUpBaby_CANADA
 
 #__DEFAULT_TEMPLATE_HEADERS
 logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
@@ -32,8 +36,13 @@ nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
 #END DEFAULT TEMPLATE HEADERS
 
 #__TITLE_AND_LINK
+<<<<<<< HEAD
 preheader_text: 'Shop Team Stroller'
 preheader_link: 'https://www.buybuybaby.com/store/s/peg-perego-team-stroller'
+=======
+preheader_text: 'Shop Car Seats'
+preheader_link: 'https://www.buybuybaby.com/store/category/car-seats/car-seats/32593/'
+>>>>>>> bbB_011018_WarmUpBaby_CANADA
 
 #DEFAULT VIEW AS WEBPAGE LINK
 viewaswebpage_text: 'View as a web page'
@@ -44,6 +53,7 @@ viewaswebpage_link: 'Oracle to host web page'
 articles:
 
 - type: 'image'
+<<<<<<< HEAD
   img_link: 'https://www.buybuybaby.com/store/s/peg-perego-team-stroller'
   img_alt: 'for now & for later With a cozy bassinet, reclining seat, & double stroller feature, the all-in-one Peg Perego Team Stroller will grow with your family. shop now'
   img_url: 'images/bbB_011718_PegPerego_02.jpg'
@@ -103,6 +113,72 @@ articles:
   img_link: '#'
   img_alt: 'for Sunday funday! shop now'
   img_url: 'images/bbB_011718_PegPerego_14.jpg'
+=======
+  img_link: 'https://www.buybuybaby.com/store/category/car-seats/car-seats/32593/'
+  img_alt: 'car seat stories 101 From infant car seats to convertible car seats, find out which features you want for your baby&#39;s ride! Shop all car seats '
+  img_url: 'images/bbB_012318_CarSeatStory_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/car-seats/car-seats/infant-car-seats/32594/'
+  img_alt: 'infant car seats safe & sound Bring your baby home straight from the hospital with a rear-facing infant car seat. '
+  img_url: 'images/bbB_012318_CarSeatStory_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/uppababy-reg-mesa-2017-infant-car-seat-in-henry-blue-marl/1060701961'
+  img_alt: 'MESA 2017 Infant Car Seat by UPPAbaby® Shown in Henry (Blue Marl) 349.499 FREE SHIPPING A Carrier handle means your baby can stay asleep on-the-go Extra padding for preemies & newborns Don&#39;t forget an extra base to transfer your baby from car to car easily '
+  img_url: 'images/bbB_012318_CarSeatStory_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/car-seats/car-seats/convertible-car-seats/32595/'
+  img_alt: 'convertible car seats time to grow Add a convertible car seat to your registry to suit your little one through preschool! '
+  img_url: 'images/bbB_012318_CarSeatStory_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/chicco-reg-nextfit-trade-ix-zip-convertible-car-seat-in-crux/5021082'
+  img_alt: 'NextFit™ iX Zip Convertible Car Seat by Chicco® Shown in Crux 349.99 FREE SHIPPING Includes rear-facing & forward facing options A 5-point harness system automatically adjusts to the seat height Check your weight & height fits children up to 65 lbs or up to 49&#34; tall '
+  img_url: 'images/bbB_012318_CarSeatStory_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/car-seats/car-seat-accessories/32598/'
+  img_alt: 'more for your ride ensure eay travels with these car seat accessories'
+  img_url: 'images/bbB_012318_CarSeatStory_08.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/skip-hop-style-driven-backseat-mirror-in-tonal-chevron/1060076595'
+  img_alt: 'Style Driven Backseat Mirror by SKIP*HOP® 19.99'
+  img_url: 'images/bbB_012318_CarSeatStory_09.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/brica-reg-by-munchkin-reg-elite-seat-guardian-trade/1041088852?'
+  img_2_alt: 'Elite Seat Guardian™ by Brica® by Munchkin® 34.99 '
+  img_2_url: 'images/bbB_012318_CarSeatStory_10.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/brica-reg-white-hot-reg-sun-safety-trade-shades-in-black-set-of-2/1044320362'
+  img_alt: 'White Hot® Sun Safety™ Shades by Brica® Set of 2 14.99 '
+  img_url: 'images/bbB_012318_CarSeatStory_11.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/itzy-ritzy-reg-mom-boss-trade-multi-use-cover-in-black-and-white-stripe/1060367907'
+  img_2_alt: 'Mom Boss™ Multi-Use Cover by Itzy Ritzy® 29.99'
+  img_2_url: 'images/bbB_012318_CarSeatStory_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/car-seats/car-seat-accessories/32598/'
+  img_alt: 'shop all car seat accessories'
+  img_url: 'images/bbB_012318_CarSeatStory_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States. '
+  img_url: 'images/bbB_012318_CarSeatStory_14.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'say hello to spring! shop now'
+  img_url: 'images/bbB_012318_CarSeatStory_15.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+  img_alt: 'take a peek at our... special buys & deals shop now'
+  img_url: 'images/bbB_012318_CarSeatStory_16.jpg'
+>>>>>>> bbB_011018_WarmUpBaby_CANADA
 
 - type: 'image-2-columns'
   img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
@@ -112,8 +188,11 @@ articles:
   img_2_alt: 'Download on the App Store'
   img_2_url: 'images/bbB_emailfooter_02.jpg'
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> bbB_011018_WarmUpBaby_CANADA
 socialnav:
 - link: ""
   img: "images/bbB_emailfooter_03.jpg"

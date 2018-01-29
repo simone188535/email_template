@@ -1,0 +1,123 @@
+title: 'Game day match ups your mouth won&#39;t want to miss.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/da4cc326-86c2-40a8-95c5-5cb715db543a.jpg?ver=1516652725000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/40b003aa-2b92-4d4f-a40a-d7516a4867ca.jpg?ver=1516652725000'
+  img_alt: 'KICK OFF THE BIG GAME FEAST Our team is ready to create a tasty lineup of fan favorites. Order your catering now! ORDER NOW'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3bff0cc1-f6fa-460f-b550-c84b0cc63ed0.jpg?ver=1516652725000'
+  img_alt: 'FOOTBALL & FOOD | CATERING'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/56086717-eac7-4f49-b1b7-1769bf1ef7ac.jpg?ver=1516652726000'
+  img_alt: 'Our NEW Game Time Party Package is an easy way to treat all your fans to a winning spread. ORDER NOW'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/53f4136a-21f8-4210-a281-fdd0a6416bef.jpg?ver=1516652726000'
+  img_alt: 'BBQ PULLED PORK SLIDER BAR'
+  url_2: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e4939101-43fb-457c-b678-b55f288b57a0.jpg?ver=1516652726000'
+  img_alt_2: 'ULTIMATE WING DUO'
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/768c523d-b6e2-49e7-a35a-fa90f57fdac9.jpg?ver=1516652726000'
+  img_alt: 'GAME DAY MATCH-UPS | WINE PAIRINGS'
+
+- type: 'image-2-columns'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d166f882-d1f0-404c-8819-24fc8993f7f8.jpg?ver=1516652726000'
+  img_alt: 'MEIOMI PINOT NOIR PAIR WITH: ROOTS HUMMUS & PITA CHIPS'
+  url_2: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2440ef36-ff9b-42e9-8fb4-ed8e0363c0b6.jpg?ver=1516652726000'
+  img_alt_2: 'BUTTER CHARDONNAY PAIR WITH: BALDUCCI&#39;S VIRGINIA PEANUTS'
+
+- type: 'image-2-columns'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/043af3aa-90c3-4371-b305-de9604fa4be6.jpg?ver=1516652727000'
+  img_alt: 'BALDUCCI&#39;S CHARDONNAY PAIR WITH: BUFFALO WINGS'
+  url_2: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1aececee-78f2-40a7-aa75-c5a263e94ce0.jpg?ver=1516652727000'
+  img_alt_2: 'BALDUCCI&#39;S GARNACHA PAIR WITH: TEX-MEX PLATTER'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/35993aa5-7cb9-4d0c-8d9f-b02366ff1573.jpg?ver=1516652727000'
+  img_alt: 'MEMBER EXCLUSIVE '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=01126_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/307f9a36-0f8f-4c43-9fc0-706b226d31b7.jpg?ver=1516652727000'
+  img_alt: 'HOKKAIDO SEA SCALLOPS MEMBER EXCLUSIVE  22.99/LB Reg 26.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4be29940-f76d-44c9-80e5-d8d0a1021b32.jpg?ver=1516652727000'
+  img_alt: 'CHEER WE GO! | DRINK RECIPES'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4d146a76-3742-4ee7-a1bf-447149f6dfdf.jpg?ver=1516652727000'
+  img_alt: 'ROSEMARY TANGERINE COCKTAIL VIEW RECIPE'
+  url_2: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=0119_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e3bf98d2-61a7-4c8b-8638-0ac70f5ba89a.jpg?ver=1516652728000'
+  img_alt_2: 'STONE FRUIT SANGRIA VIEW RECIPE'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

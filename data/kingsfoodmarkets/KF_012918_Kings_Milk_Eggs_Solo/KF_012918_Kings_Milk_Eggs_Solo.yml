@@ -1,0 +1,84 @@
+title: 'Free Dozen Kings Eggs!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0129_KF_Milk&Eggs_Solo'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d911ee3e-db43-4392-acc6-b782e27e8ea5.jpg?ver=1495479648000'
+logo_alt: 'KINGS'
+logo_img_space: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12396fb9-a314-4d0c-9912-bd770d484f43.jpg?ver=1495479648000'
+logo_img_space_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d15ba50-b7bf-4e2a-99ae-6a2408734133.jpg?ver=1495479649000'
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0129_KF_Milk&Eggs_Solo'
+store_locator_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8821530-b079-427c-96b1-2d07abf11d05.jpg?ver=1495479649000'
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0129_KF_Milk&Eggs_Solo'
+weekly_circular_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0129_KF_Milk&Eggs_Solo'
+chef_prepared_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85c77afa-20b5-48e0-96c1-b66963097bed.jpg?ver=1495479649000'
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0129_KF_Milk&Eggs_Solo'
+catering_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e912080c-b3ad-4c11-919e-5cc5dcfb88ea.jpg?ver=1495479650000'
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0129_KF_Milk&Eggs_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1b1ac002-470d-4dba-83c0-7ff15cf2413e.jpg?ver=1516997523000"
+  img_alt: "myKINGS extra! Smart Savings & More FREE DOZEN KINGS EGGS! WHEN YOU PURCHASE A GALLON OF KINGS ORGANIC MILK  VALID JAN. 29 - FEB. 4, 2018 LOCALLY SOURCED NO HORMONES"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0129_KF_Milk&Eggs_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b6fc1e6f-5be6-453c-b07d-9f01ce074575.jpg?ver=1516997523000"
+  img_alt: "VIEW MEMBER SPECIALS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0129_KF_Milk&Eggs_Solo"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/05de6f81-ec3a-43c2-9c16-9c295a84ff06.jpg?ver=1516997523000"
+  img_alt: "A GALLON OF KINGS ORGANIC MILK Free of antibiotics, synthetic hormones or pesticides. All animals are fed certified organic feed and graze freely. "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0129_KF_Milk&Eggs_Solo"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e0d5e749-ad97-4f40-9057-269751267fb2.jpg?ver=1516997523000"
+  img_alt_2: "LARGE OR EXTRA LARGE CAGE FREE OR FREE RANGE EGGS Family-owned local farms where birds are fed 100% vegetarian diets, without hormones or antibiotics."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0129_KF_Milk&Eggs_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a730e0b2-c6f2-4592-bb3e-38b211765b0b.jpg?ver=1516997523000"
+  img_alt: "EVEN MORE EXTRA! BENEFITS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0129_KF_Milk&Eggs_Solo"
+
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9a568354-d6ec-4c02-843b-c91ee00e005b.jpg?ver=1516997523000"
+  img_alt: "Members only sale prices"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0129_KF_Milk&Eggs_Solo"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b44170eb-559f-4246-86cb-c2496956c569.jpg?ver=1516997524000"
+  img_alt_2: "Exclusive email offers"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0129_KF_Milk&Eggs_Solo"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/10b25261-01c3-43a2-b22c-3ed03b46317e.jpg?ver=1516997524000"
+  img_alt_3: "Free fruit or cookie for kids while you shop"
+  url_3: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0129_KF_Milk&Eggs_Solo"
+
+
+
+

@@ -1,0 +1,141 @@
+title: ''
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_CA_FeeShipping49_Header_600px_01.jpg"
+logo_img_alt: "buybuy CA Baby Logo"
+logo_img_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/?babyCA=true"
+
+freeshipping_img_url: "images/bbB_CA_FeeShipping49_Header_600px_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER 49 Get Details "
+freeshipping_img_link: "http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/"
+
+instore_img_url: "images/bbB_CA_FeeShipping49_Header_600px_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.bedbathandbeyond.ca/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_CA_FeeShipping49_Header_600px_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "https://www.bedbathandbeyond.ca/store/page/BabyCanadaRegistry"
+
+nav1_url: "images/bbB_CA_FeeShipping49_Header_600px_05.jpg"
+nav1_alt: "baby nursery"
+nav1_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/22927"
+
+nav2_url: "images/bbB_CA_FeeShipping49_Header_600px_06.jpg"
+nav2_alt: "nursing &amp; feeding"
+nav2_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/22936/"
+
+nav3_url: "images/bbB_CA_FeeShipping49_Header_600px_07.jpg"
+nav3_alt: "bath &amp; potty"
+nav3_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: ''
+preheader_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/gear-travel/cold-weather-accessories/22926/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE=H'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/gear-travel/cold-weather-accessories/22926/'
+  img_alt: 'warm & snug Keep baby cozy during the winter months with warm gear & more! shop now'
+  img_url: 'images/bbB_011018_WarmUpBaby_CANADA_03.gif'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/peg-perego-igloo-in-grey/1044077143?Keyword=44077143'
+  img_alt: 'Igloo Car Seat Shield by Peg Perego 119.99 FREE SHIPPING a weatherproof outer layer & Thermore® inner layer keep your baby warm in the car car seat sold separately'
+  img_url: 'images/bbB_011018_WarmUpBaby_CANADA_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/peg-perego-team-stroller-in-atmosphere/3326859?Keyword=61069398'
+  img_alt: 'Team Stroller by Peg Perego Shown in Atmosphere Available in other fashions 1199.99 FREE SHIPPING converts to a double stroller!'
+  img_url: 'images/bbB_011018_WarmUpBaby_CANADA_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/baby-parka-trade-carrier-coat-with-two-way-hood-in-blue/1062617642?Keyword=baby+parka+carrier+coat+with+two+way+hood'
+  img_alt: 'Carrier Coat by baby parka™ 99.99 FREE SHIPPING'
+  img_url: 'images/bbB_011018_WarmUpBaby_CANADA_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/baby-parka-trade-stroller-cover/3343150?Keyword=stroller+cover+by+baby+parka'
+  img_alt: 'Stroller Cover by baby parka™ 179.99 FREE SHIPPING made in Canada for Canadian winters'
+  img_url: 'images/bbB_011018_WarmUpBaby_CANADA_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/grobag-reg-size-0-6m-grow-your-own-2-5-tog-baby-sleep-bag/1062545778?Keyword=62545778'
+  img_alt: 'Grow Your Own Baby Sleep Bag by Grobag® 59.99 FREE SHIPPING the 2.5 tog warmth rating of this cute sleep bag ensures cozy nights for baby'
+  img_url: 'images/bbB_011018_WarmUpBaby_CANADA_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/jj-cole-reg-bundleme-hat-mitten-booties-set/1040851839?Keyword=40851839'
+  img_alt: 'Bundle Me® Hat, Mittens & Booties Set by JJ Cole® 29.99 layer up your little one with a thermaplush™ fabric hat, mittens, & booties'
+  img_url: 'images/bbB_011018_WarmUpBaby_CANADA_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/prince-lionheart-reg-wipes-warmer-pop/3240785?Keyword=prince+lionheart+wipe+warmer'
+  img_alt: 'Wipes Warmer pop by Prince Lionheart® 44.99 keep baby clean & comfortable with heated wipes'
+  img_url: 'images/bbB_011018_WarmUpBaby_CANADA_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/homedics-reg-mybaby-reg-ultrasonic-cool-mist-humidifer-with-soundspa-reg/1060875785?Keyword=homedics+my+baby+humidifier'
+  img_alt: 'myBaby® Ultrasonic Cool Mist Humidifier with Soundspa® by HoMedics® 79.99 FREE SHIPPING encourages baby to sleep with cool mist and soothing sounds'
+  img_url: 'images/bbB_011018_WarmUpBaby_CANADA_11.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/kushies-reg-chevron-flannel-fitted-crib-sheet/3324536?Keyword=44937058'
+  img_alt: 'Chevron Flannel Fitted Sheet by kushies® 21.99 give baby that cozy feeling 49.99 FREE SHIPPING '
+  img_url: 'images/bbB_011018_WarmUpBaby_CANADA_12.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/elegant-baby-reg-patchwork-knit-blanket-in-multicolor-blue/1047023239?Keyword=47023239'
+  img_2_alt: 'Patchwork Knit Blanket by Elegant Baby® Also available in Pink 49.99 FREE SHIPPING a warm patchwork blanket for the winter months'
+  img_2_url: 'images/bbB_011018_WarmUpBaby_CANADA_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/gear-travel/cold-weather-accessories/22926/'
+  img_alt: 'shop now'
+  img_url: 'images/bbB_011018_WarmUpBaby_CANADA_14.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'see something you like? Login to create an Idea Board. get started '
+  img_url: 'images/bbB_011018_WarmUpBaby_CANADA_15.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/what-s-new/baby-kids/22367/'
+  img_alt: 'what&#39;s new shop what&#39;s new '
+  img_url: 'images/bbB_011018_WarmUpBaby_CANADA_16.jpg'
+
+socialnav:
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
