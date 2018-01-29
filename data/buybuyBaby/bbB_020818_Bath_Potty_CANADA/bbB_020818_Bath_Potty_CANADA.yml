@@ -1,0 +1,187 @@
+#TITLE
+title: ''
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_Logo_CA.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/?babyCA=true"
+
+freeshipping_img_url: "images/bbB_emailheader_FreeShipping_CA.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 View Details "
+freeshipping_img_link: "http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/"
+
+instore_img_url: "images/bbB_emailheader_InStore_CA.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.bedbathandbeyond.ca/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_RegistryLogo_CA.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "https://www.bedbathandbeyond.ca/store/page/BabyCanadaRegistry"
+
+nav1_url: "images/bbB_emailheader_NAV1_CA.jpg"
+nav1_alt: "baby nursery"
+nav1_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/22927"
+
+nav2_url: "images/bbB_emailheader_NAV2_CA.jpg"
+nav2_alt: "nursing &amp; feeding"
+nav2_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/22936/"
+
+nav3_url: "images/bbB_emailheader_NAV3_CA.jpg"
+nav3_alt: "bath &amp; potty"
+nav3_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Shop Bath & Potty '
+preheader_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+# - type: 'image-3-columns'
+#   img_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_alt: 'Crisp & clean, you can&#39;t go wrong with stripes!'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_02.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_2_alt: 'go bold what&#39;s Black & White and always in style? Fun, functional baby gear in this on-trend color scheme.'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_03.jpg'
+#   img_3_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_3_alt: 'Black & White looks best when you add bold pops of color!'
+#   img_3_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_04.jpg'
+
+# - type: 'image-2-columns'
+#   img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+#   img_alt: 'savings center'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_13.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+#   img_2_alt: 'strollers'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/'
+  img_alt: 'scrub-a-dub-dub! From tub toys to towels, here&#39;s our selection of bath & potty must-haves. shop now'
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/fl_toys'
+  img_alt: 'bath toys'
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_03.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/munchkin-reg-paddlin-39-penguin-trade-bath-toy/1062291651'
+  img_alt: 'Paddlin&#39; Penguin™ Bath Toy by Munchkin® 9.99'
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_04.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/product/munchkin-4-piece-1-size-fishin-39-trade-bath-toy-set/1061482005'
+  img_2_alt: '4pc 1-Size Fishin&#39;™ Bath Toy Set by Munchkin® 12.99'
+  img_2_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/nickelodeon-trade-paw-patrol-finger-puppets/1060140906'
+  img_alt: 'PAW Patrol Finger Puppets by Nickelodeon™ Set of 5 8.99'
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/tubs-seats/22947/'
+  img_alt: 'tubs & seats'
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/fisher-price-reg-4-in-1-sling-39-n-seat-bath-tub/1042192664'
+  img_alt: '4-in-1 Sling &#39;n Seat Bath Tub by Fisher-Price® 49.99 FREE SHIPPING'
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/angelcare-reg-bath-tub-support-in-grey/1061225565'
+  img_alt: 'Bath Tub Support by Angelcare® Also available in blue 35.99'
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/bath-accessories/22948/'
+  img_alt: 'bath accessories'
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_10.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/skip-hop-reg-moby-trade-bath-spout-cover/3339747'
+  img_alt: 'Moby™ Bath Spout Cover by SKIP*HOP® Also available in blue Prices vary by colour 17.99'
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_11.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/boon-whale-pod-in-blue/1040420769'
+  img_2_alt: 'Boon Whale Pod Scoops, drains, & stores! 39.99'
+  img_2_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/elegant-baby-reg-unicorn-bath-wrap-towel-in-pink/1060141583'
+  img_alt: 'Bath Wrap Towels by Elegant Baby® Shown in Elephant and Unicorn 34.99 each'
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/aleva-reg-naturals-4-piece-new-born-gift-set/1043125814'
+  img_alt: 'Naturals 4pc New Born Gift Set bt Aleva® 29.99'
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/potty-training/22949/'
+  img_alt: 'potty training'
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_15.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/dreambaby-reg-two-step-stool/1043871131'
+  img_alt: 'Two-Step Stool by Dreambaby® Anti-slip bottom helps keep it from sliding on the floor 22.99'
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_16.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/oxo-potty-chair/3332306'
+  img_2_alt: 'Potty Chair by OXO Tot® Also available in pink, white, & teal 29.99'
+  img_2_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_17.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/'
+  img_alt: 'shop all bath '
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_18.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/baby-gifts/smart-innovations/23750/'
+  img_alt: 'Smart Innovation shop now '
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_19.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: ' we&#39;re in your neighbourhood find a store '
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_20.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/baby-gifts/baby-registry-favorites/23749/'
+  img_alt: ' check out our registry favourites'
+  img_url: 'images/bbB_220_020818_Bath&Potty_CANADA_v2_r1_FNL_21.jpg'
+
+socialnav:
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
