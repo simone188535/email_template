@@ -1,0 +1,101 @@
+title: 'Food for the win!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ccca374f-6c7f-4b1c-a645-385b0c9d601b.jpg?ver=1513020336000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  img_link: 'https://vimeo.com/181937761?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f994fe07-206b-4d5a-82be-e27f42509a80.jpg?ver=1517329187000'
+  img_alt: 'GAME DAY GREATS Winning recipes, cocktails, catering and more. Create MUFFIN TIN CHILAQUILES WATCH VIDEO >'
+
+- type: 'image'
+  img_link: 'https://vimeo.com/181937761?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cb94d109-189a-443d-be90-fd0aea786ba2.jpg?ver=1517329187000'
+  img_alt: 'GAME DAY GREATS Winning recipes, cocktails, catering and more. Create MUFFIN TIN CHILAQUILES WATCH VIDEO >'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/sports_party?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2b1205d3-40dd-4fc7-bf48-df7975a1f200.jpg?ver=1517329188000'
+  img_alt: 'GRIDIRON GOURMET | CATERING Let our catering team create a delicious line-up of all your favorites for the easiest entertaining ever. Try our NEW Game Time Party Package! ORDER NOW >'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/41975fb9-1f36-4984-b462-857539555d90.jpg?ver=1517329188000'
+  img_alt: 'FOOTBALL FOOD | CHEF PREPARED'
+
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/41a5abe7-2291-40d4-b888-040fce84f2c6.jpg?ver=1517329188000'
+  img_alt: 'SWEET & SPICY CHICKEN WINGS'
+  img_2_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3035ca3e-55ac-4571-a00f-4c335ac06d13.jpg?ver=1517329188000'
+  img_2_alt: 'NEW YORKER PANINI'
+  
+- type: 'image-2-columns'
+  img_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1d018990-ec2d-4076-9093-5ff8b4acdbea.jpg?ver=1517329189000'
+  img_alt: 'CHOCOLATE OR ASSORTED BROWNIE PLATTER'
+  img_2_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f7d8a1e7-551e-44f1-8a82-1a6f2ac265f9.jpg?ver=1517329189000'
+  img_2_alt: 'SEVEN LAYER DIP'
+  
+- type: 'image'
+  img_link: 'https://delivery.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5b222825-971a-427e-bb19-a3b27597a9ba.jpg?ver=1517329189000'
+  img_alt: 'DELICIOUS DELIVERED | ORDER ONLINE Get game day ready. No grocery run required. Convenient online ordering, shopping, and delivery powered by Instacart! SHOP NOW >'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering/valentines?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dae6225c-78c0-4dfc-8992-a59f97d02c1e.jpg?ver=1517329189000'
+  img_alt: 'VALENTINE&#39;S CATERING | TABLE FOR TWO THE MOST ROMANTIC RESERVATION IN TOWN IS AT HOME Enjoy a gourmet Valentine&#39;s meal in the comfort of your home. You set the time and we&#39;ll set the mood with an intimate dinner catered by our team of chefs. VIEW MENU >'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/06cc6ca7-3b1b-4be0-bff6-a254355e325d.jpg?ver=1517329191000'
+  img_alt: 'CLASSIC ROMANCE | NOW TRENDING BEAUTIFUL BLOOMS + CHOCOLATE BLISS Choose from a variety of fresh flower arrangements, festive gift baskets and tempting chocolate treats perfect for your Valentine&#39;s sweet.'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/gifts/be_mine?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7df8e002-f5ed-41ae-a1ae-400448344fd3.jpg?ver=1517329190000'
+  img_alt: 'SEND SOME LOVE Better than a box of chocolates! Send your love a Valentine Gift Basket this year, filled with decadent chocolates and exquisite treats that are sure to delight! ORDER NOW >'
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=020218_BLD_WeeklyEmail'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a8a357d3-6e90-48be-adde-f9a154a52170.jpg?ver=1517329190000'
+  img_alt: 'WHAT&#39;S NEW | AT BALDUCCI&#39;S Valentine&#39;s Wine & Food Tasting Event SATURDAY FEBRUARY 10TH BETHESDA, MD ALEXANDRIA & MCLEAN, VA Food Samplings…….12 nooon-5pm Wine Samplings…………….2-5pm MORE INFO >'
+
