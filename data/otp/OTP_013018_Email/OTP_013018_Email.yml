@@ -1,0 +1,125 @@
+title: 'Host the Big Game in style!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=discount_home_decor&utm_content=homepage "
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=find_a_store&utm_content=locations "
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'Host the Big Game in style!'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_05.jpg'
+  image_alt: 'BE A SUPER HOST! GET MORE KITCHEN AND DINING SELECTIONS FOR LESS. NOW THAT&#39;S A TOUCHDOWN! GET INSPIRED'
+  image_link: 'https://oldtimepottery.com/homestore#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=be_a_super_host '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_06.jpg'
+  image_alt: 'GET MORE FOR LESS WHEN YOU VISIT! 19.99 COMPARED TO $39.99 AT OTHER STORES 12pc Handprinted Banded Dinnerware Set Set includes ( 4 of each): 10&#34; dinnerware plates, 6&#34; bowls and 11 oz. mugs. Dishwasher and microwave safe. '
+  image_link: 'https://oldtimepottery.com/homestore#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=dinnerware_sets_19.99 '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_07.jpg'
+  image_alt: 'LOW PRICES Every Day Find LOW PRICES & GREAT SELECTION in every aisle! (COUNT ON &#39;EM!) LEARN MORE'
+  image_link: 'https://oldtimepottery.com/homestore#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=low_prices_everyday '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_08.jpg'
+  image_alt: 'KITCHEN ACCESSORIES '
+  image_link: 'https://oldtimepottery.com/homestore#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=kitchen_accessories '
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_09.jpg'
+  image_first_alt: '3.99 1 Gallon Rubbermaid Plastic Pitcher Assorted colors. COMPARED TO $5.99 AT OTHER STORES '
+  image_first_link: 'https://oldtimepottery.com/homestore#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=rubbermaid_pitchers '
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_10.jpg'
+  image_second_alt: '19.99 195 oz. Dispenser with Base Assorted styles. COMPARED TO $39.99 AT OTHER STORES '
+  image_second_link: 'https://oldtimepottery.com/homestore#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=dispenser_w_base '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_11.jpg'
+  image_alt: 'STYLISH HOME DÉCOR '
+  image_link: 'https://oldtimepottery.com/homestore#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=bedroom_basics '
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_12.jpg'
+  image_first_alt: '6.99 Accent Pillows Assorted colors. Selection varies by store. COMPARED TO $19.99 AT OTHER STORES '
+  image_first_link: 'https://oldtimepottery.com/homestore#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=accent_pillows '
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_13.jpg'
+  image_second_alt: '14.99 14.57&#34; Black Rusty Brush Lantern Assorted sizes. COMPARED TO $19.99 AT OTHER STORES '
+  image_second_link: 'https://oldtimepottery.com/homestore#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=rusty_lanterns '
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_14.jpg'
+  image_third_alt: '$15 24&#34; x 36&#34; Foral Promo Art Wall Décor Assorted styles. Selection varies by store. COMPARED TO $29.99 AT OTHER STORES '
+  image_third_link: 'https://oldtimepottery.com/homestore#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=floral_wall_art_decor '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_15.jpg'
+  image_alt: 'BEDROOM BASICS'
+  image_link: 'https://oldtimepottery.com/homestore#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=bedroom_basics '
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_16.jpg'
+  image_first_alt: '4.99 6pk or 8pk Washcloths Assorted colors and styles. Selection varies by store. COMPARED TO $8.99 AT OTHER STORES '
+  image_first_link: 'https://oldtimepottery.com/homestore#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=washclothes_packs '
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_17.jpg'
+  image_second_alt: '9.99 25pk Hanger Set Assorted colors. COMPARED to $16.99 AT OTHER STORES '
+  image_second_link: 'https://oldtimepottery.com/homestore#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=hanger_packs '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_18.jpg'
+  image_alt: 'DON&#39;T MISS YOUR 15% OFF BIRTHDAY COUPON! UPDATE YOUR PROFILE TO MAKE SURE YOU RECEIVE A 15% OFF COUPON ON YOUR BIRTHDAY! '
+  image_link: 'http://oldtimepottery.us11.list-manage.com/profile?u=8687e651c684d1dbe280a0fa0&id=f042d4a0c5&e=%5BUNIQID%5D&mc_cid=b71f887074&mc_eid=%5BUNIQID%5D#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=15off_bday_coupon '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_013018_Email_19.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery '
+  image_link: 'https://www.instagram.com/oldtimepottery/#utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=old_time_pottery_home_store_with_more&utm_content=get_inspired'
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=otp_store_locations&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=otp_store_blog&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=otp_twittter&utm_content=twitter "
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=otp_facebook&utm_content=facebook "
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=otp_pinterest&utm_content=pinterest "
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=otp_youtube&utm_content=youtube "
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer01_30&utm_medium=email&utm_campaign=super_host&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""
