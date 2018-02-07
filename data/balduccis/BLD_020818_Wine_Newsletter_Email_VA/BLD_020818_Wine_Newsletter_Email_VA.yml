@@ -1,0 +1,68 @@
+title: 'FPO'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0208_BLD_Wine_Solo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0208_BLD_Wine_Solo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0208_BLD_Wine_Solo'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0208_BLD_Wine_Solo'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0208_BLD_Wine_Solo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0208_BLD_Wine_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0208_BLD_Wine_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/64940b4d-d1be-4df6-88f3-2e384199708c.jpg?ver=1518035844000'
+  img_alt: 'Wine Newsletter February 2018'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0208_BLD_Wine_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/22d373d2-7d9d-4d4f-a4cd-50405d43a90b.jpg?ver=1518031307000'
+  img_alt: 'February Wine & Food Event Saturday, February 10th, 2018 Food Tasting: 12pm-5pm Wine Tasting: 2pm-5pm Save 25% Mix & Match 12 Bottles Or More FEATURED • Full-bodied, Cold Weather Wines • Valentine&#39;s Day Wines '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0208_BLD_Wine_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1176dfa4-6285-4078-922a-d62d8d2ce664.jpg?ver=1518031308000'
+  img_alt: 'Must Have Wines Baby, it&#39;s cold outside! Frigid temperatures and a day just for lovers…February is made for wine.  Whether you&#39;re curling up next to the fire, getting together with friends to lament the end of football or looking to make a romantic night even more special, Balducci&#39;s has the perfect wine for you.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0208_BLD_Wine_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1210f412-1410-4a1c-932d-564666956865.jpg?ver=1518034964000'
+  img_alt: 'Villa Jolanda P.S. I Love You Prosecco 12.99/BTL “So cute. The wine features lovely aromas of white flowers, orchard fruits, and a touch of mineral.  Lightly sparkling with very pretty small bubbles, the wine is full of flavor - peach, ripe apple, lemon zest, and a nice mineral streak. Delicious!” -Mark Magness, Wine Manager Balducci&#39;s McLean'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0208_BLD_Wine_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/32f3365d-d811-4ceb-be74-fe0853ceb47b.jpg?ver=1518034964000'
+  img_alt: 'Einaudi Barbera Dogliani Superiore Vigna Tecc 2016 29.99/BTL “A terrific food wine, this dry, medium-bodied red offers refreshing acidity (making it perfect to pair with food) and soft tannins.” -Peter Bishop, Wine Manager Balducci&#39;s Bethesda'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0208_BLD_Wine_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3e1991b2-375b-47da-9301-e5468e1b4902.jpg?ver=1518034964000'
+  img_alt: 'ON SALE 2/3-3/1 Balducci&#39;s Old Vines Garnacha 2012 14.99/BTL REG. 16.99/BTL “100% old-vine Garnacha (from vines planted between 1925 and 1945) made from yields of less than one ton of fruit per acre, this is a full-bodied, pure, lavishly rich, intense Spanish red.” -Tim Healy, Wine Manager Balducci&#39;s Alexandria'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0208_BLD_Wine_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/df6d024a-0636-4928-b357-fc8e25b8f065.jpg?ver=1518034965000'
+  img_alt: 'Banfi Rosa Regale 24.99/BTL “Brachetto is made for Valentine&#39;s Day! Lush rasberries, strawberries and rose petals on the nose and palate. A uniquely festive and seductive sparkling wine. Serve chilled, with chocolate.” -John Coleman, Balducci&#39;s Wine Merchant'
