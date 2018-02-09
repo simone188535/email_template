@@ -1,0 +1,157 @@
+title: ''
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_CA_FeeShipping49_Header_600px_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/?babyCA=true"
+
+freeshipping_img_url: "images/bbB_CA_FeeShipping49_Header_600px_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER 49 Get Details "
+freeshipping_img_link: "http://www.bedbathandbeyond.ca/store/static/ShippingPolicies/"
+
+instore_img_url: "images/bbB_CA_FeeShipping49_Header_600px_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.bedbathandbeyond.ca/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_CA_FeeShipping49_Header_600px_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "https://www.bedbathandbeyond.ca/store/page/BabyCanadaRegistry"
+
+nav1_url: "images/bbB_CA_FeeShipping49_Header_600px_05.jpg"
+nav1_alt: "baby nursery"
+nav1_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/22927"
+
+nav2_url: "images/bbB_CA_FeeShipping49_Header_600px_06.jpg"
+nav2_alt: "nursing &amp; feeding"
+nav2_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/22936/"
+
+nav3_url: "images/bbB_CA_FeeShipping49_Header_600px_07.jpg"
+nav3_alt: "bath &amp; potty"
+nav3_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Diaper bags + accessories'
+preheader_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/gear-travel/diaper-bags/22921/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View online'
+viewaswebpage_link: 'http://view.ed4.net/w/_ECLIENTID__/_ECELLID__/_EOLISTID__/_EOCID__/_MAILACTION__/_EDSECUREID__/FORMATOVERRIDE=H'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/gear-travel/diaper-bags/22921/'
+  img_alt: 'fashion + function Stay stylish with a modern diaper bag full of features & all the space you need! shop now'
+  img_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_02.jpg'
+
+- type: 'image-3-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/honest-city-backpack-diaper-bag-in-black/1044438081'
+  img_alt: 'City Backpack Diaper Bag by Honest® 189.99 FREE SHIPPING'
+  img_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_03.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/xy-by-ju-ju-be-reg-hatch-diaper-bag-in-grey/1061510005'
+  img_2_alt: 'XY Hatch Diaper Bag by Ju-Ju-Be® 199.99 FREE SHIPPING'
+  img_2_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_04.jpg'
+  img_3_link: 'https://www.bedbathandbeyond.ca/store/product/skip-hop-reg-chelsea-downtown-chic-diaper-backpack-in-black/1045741906'
+  img_3_alt: 'Chelsea Downtown Chic Diaper Backpack by SKIP*HOP® 139.99 FREE SHIPPING'
+  img_3_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_05.jpg'
+
+- type: 'image-3-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/honest-city-backpack-diaper-bag-in-black/1044438081'
+  img_alt: 'City Backpack Diaper Bag by Honest® 189.99 FREE SHIPPING'
+  img_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_06.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/xy-by-ju-ju-be-reg-hatch-diaper-bag-in-grey/1061510005'
+  img_2_alt: 'XY Hatch Diaper Bag by Ju-Ju-Be® 199.99 FREE SHIPPING'
+  img_2_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_07.jpg'
+  img_3_link: 'https://www.bedbathandbeyond.ca/store/product/skip-hop-reg-chelsea-downtown-chic-diaper-backpack-in-black/1045741906'
+  img_3_alt: 'Chelsea Downtown Chic Diaper Backpack by SKIP*HOP® 139.99 FREE SHIPPING'
+  img_3_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/gear-travel/diaper-bags/22921/22921-4294967218-9000081/1-48'
+  img_alt: 'diaper bag essentials '
+  img_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_09.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/aleva-reg-naturals-bamboo-baby-reg-30-count-hand-39-n-39-face-wipes/1043125821'
+  img_alt: 'Bamboo Baby® 30ct Hand &#39;n&#39; Face Wipes by Aleva® Naturals 3.99 '
+  img_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_10.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/skip-hop-reg-pronto-changing-station-in-heather-grey/1046016997'
+  img_2_alt: 'Pronto Changing Station by SKIP*HOP® 39.99 Prices vary by calour'
+  img_2_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_11.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/p-honest-40-count-newborn-diapers-in-pandas-pattern-p/1062330121'
+  img_alt: '40ct Newborn Diapers by The Honest Company® Multiple sizes & patterns available Prices vary by size and count 16.99 '
+  img_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_12.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/p-reese-and-luke-reg-1-3-fl-oz-shea-butter-baby-balm-unscented-p/5056690'
+  img_2_alt: 'Shea Butter Baby Balm 1.3 fl oz by Reese & Luke® 13.99 '
+  img_2_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_13.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/wubbanub-trade-elephant-infant-pacifier/1041229675'
+  img_alt: 'Elephant Infant Pacifier by WubbaNub™ 18.99 Prices vary by style'
+  img_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_14.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/skip-hop-reg-grab-go-snug-seal-wipes-case-in-grey/1046069962'
+  img_2_alt: 'Grab & Go Snug Seal Wipes Case by SKIP*HOP® 12.99 '
+  img_2_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_15.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/product/itzy-ritzy-reg-travel-happens-trade-medium-sealed-wet-bag-in-xoxo-black-white/1060744791'
+  img_alt: 'Travel Happens™ Medium Sealed Wet Bag by Itzy Ritzy® Shown in XOXO Black/White 21.99 '
+  img_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_16.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/product/cheeky-chompers-reg-neckerchew-reg-windy-day-2-in-1-teething-bandana-bib-in-green/1060008879'
+  img_2_alt: 'Neckerchew® Windy Day 2-in-1 Teething Bandana Bib by Cheeky Chompers® 25.99 Prices vary by colour'
+  img_2_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_17.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/gear-travel/diaper-bags/22921/'
+  img_alt: 'shop all diaper bags'
+  img_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_18.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/baby-gifts/smart-innovations/23750/'
+  img_alt: 'SMART INNOVATION shop now'
+  img_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_19.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: 'we&#39;re in your neighbourhood find a store '
+  img_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_20.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/what-s-new/baby-kids/22367/'
+  img_alt: 'what&#39;s new shop what&#39;s new '
+  img_url: 'images/bbB_220_022018_DiaperBags_CANADA_V3_r2_FNL_21.jpg'
+
+socialnav:
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+- link: ""
+  img: ""
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
