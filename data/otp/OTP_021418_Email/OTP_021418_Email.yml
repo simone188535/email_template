@@ -1,0 +1,84 @@
+title: 'Find more inspiration here!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=discount_home_decor&utm_content=homepage "
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=otp_store_departments&utm_content=departments"
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=find_a_store&utm_content=locations"
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'Find more inspiration here!'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_021418_v5_R4_FNL_02.jpg'
+  image_alt: 'PRESIDENTS&#39; DAY EVENT & 20% OFF ONE ITEM USE THIS OFFER FROM 2/13 - 2/25 BEFORE IT&#39;S GONE! GET COUPON'
+  image_link: 'https://oldtimepottery.com/presidents#utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=old_time_pottery_home_store_with_more&utm_content=20off_one_item'
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_021418_v5_R4_FNL_03.jpg'
+  image_first_alt: 'THERE ARE ENDLESS WAYS TO SAVE! OUTDOOR FURNITURE Save on big price items like patio sets! RETAIL PRICE: $399.99 YOU SAVE $80 NEW PRICE: $319.99 HAMPTON 4PC SET OR'
+  image_first_link: 'https://oldtimepottery.com/presidents#utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=old_time_pottery_home_store_with_more&utm_content=20off_outdoor_furniture'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_021418_v5_R4_FNL_04.jpg'
+  image_second_alt: 'ACCENT FURNITURE You could save up to $40 on new furniture! RETAIL PRICE: $149.99 YOU SAVE $30 NEW PRICE: $119.99 UPHOLSTERED CHAIRS OR'
+  image_second_link: 'https://oldtimepottery.com/presidents#utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=old_time_pottery_home_store_with_more&utm_content=20off_new_furniture'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_021418_v5_R4_FNL_05.jpg'
+  image_third_alt: 'RUGS Furnish your floors for less! RETAIL PRICE: $49.99 YOU SAVE $10 NEW PRICE: $39.99 5&#39;X7&#39; WOVEN AREA RUGS'
+  image_third_link: 'https://oldtimepottery.com/presidents#utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=old_time_pottery_home_store_with_more&utm_content=20off_bedding_bath'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_021418_v5_R4_FNL_06.jpg'
+  image_alt: 'HAPPY Valentine&#39;s DAY LEARN MORE '
+  image_link: 'https://oldtimepottery.com/homestore/?___store=default%2F#valentine&utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=old_time_pottery_home_store_with_more&utm_content=valentines_day_learn_more'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_021418_v5_R4_FNL_07.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/#utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=old_time_pottery_home_store_with_more&utm_content=get_inspired'
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=otp_store_locations&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=otp_store_blog&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=otp_youtube&utm_content=youtube"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer02_14&utm_medium=email&utm_campaign=valentine&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""
