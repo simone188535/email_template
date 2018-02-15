@@ -1,0 +1,155 @@
+#TITLE
+title: 'Shop these clever products'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS29_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS29_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $29 Get Details"
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS29_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS29_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS29_05.jpg"
+nav1_alt: "what's new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS29_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "https://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS29_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Shop these clever products'
+preheader_link: 'https://www.buybuybaby.com/store/category/gifts-more/smart-innovations/32701/'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View online'
+viewaswebpage_link: '${form(campaign.name,&#39;ONLINE=Y&#39;,ONLINEPARAMS)}'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/ergobaby-trade-180-reversible-stroller-in-black/3335934?categoryId=32702'
+  img_alt: 'SMART INNOVATION oh, that&#39;s smart Clever Solutions that make everyday a bit easier! shop now'
+  img_url: 'images/bbB_220_022218_SmartInnovation_v1_r5_FNL_ANIM.gif'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/ergobaby-trade-180-reversible-stroller-in-black/3335934'
+  img_alt: '180 Reversible Stroller by ergobaby™ 399.99 Reversible handlebar lets your baby go from facing you to facing the world in seconds Available in various colors FREE SHIPPING'
+  img_url: 'images/bbB_022218_SmartInnovation_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/sproutling-reg-wearable-baby-monitor-from-fisher-price/3346441'
+  img_alt: 'Sproutling® Wearable Baby Monitor by Fisher-Price® Smartphone enabled information on your baby&#39;s sleep gives you peace of mind 249.99 FREE SHIPPING smartphone not included Sproutling Wearable Baby Monitor'
+  img_url: 'images/bbB_022218_SmartInnovation_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/nanobebe-3-pack-slow-flow-breast-milk-bottles/3351060'
+  img_alt: '3 Pack Slow Flow Breastmilk Bottles by Nanobebe Concave surface area helps breastmilk heat & cool faster 22.99'
+  img_url: 'images/bbB_022218_SmartInnovation_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/chicco-reg-fit2-reg-le-2-year-rear-facing-infant-toddler-car-seat-in-verso/1061702097'
+  img_alt: 'Fit2® LE 2-Year Rear-Facing Infant & Toddler Car Seat by Chicco® Smart 2-stage design easily converts from infant to toddler position 299.99 FREE SHIPPING exclusive color Verso'
+  img_url: 'images/bbB_022218_SmartInnovation_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/oribel-portaplay-trade-forest-friends-4-in-1-foldable-activity-center-turn-bounce-play-transform/3302351'
+  img_alt: 'PortaPlay™ Forest Friends 4-in-1 Foldable Activity Center Turn Bounce Play Transform by Oribel Bouncer turns into a table that folds flat for easy storage 129.99 FREE SHIPPING'
+  img_url: 'images/bbB_022218_SmartInnovation_07.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/product/doddle-co-pop-silicone-pacifier/3318852'
+  img_alt: 'Pop Silicone Pacifier by Doodle & Co. Designed to pop back into its protective case when it falls on the floor 9.99 each'
+  img_url: 'images/bbB_022218_SmartInnovation_08.jpg'
+  img_2_link: 'https://video.buybuybaby.com//latest-videos/doddle-co-pop-silicone-pacifier/114050850-114774605/'
+  img_2_alt: 'watch video'
+  img_2_url: 'images/bbB_022218_SmartInnovation_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/dreambaby-reg-strollerbuddy-reg-strollaway-reg-over-the-door-hook-in-white/1062785037'
+  img_alt: 'Strollerbuddy® StrollAway® Over-the-Door Hook by Dreambaby® No screws, no drilling– storing your stroller has never been more simple 24.99'
+  img_url: 'images/bbB_022218_SmartInnovation_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/life-in-play-totesavvy-diaper-bag-insert-in-grey/1060668325'
+  img_alt: 'ToteSavvy Diaper Bag Insert by Life in Play Turns your favorite handbag into the best diaper bag ever! 74.99 FREE SHIPPING'
+  img_url: 'images/bbB_022218_SmartInnovation_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/smart-innovations/32701/'
+  img_alt: 'shop all smart innovations'
+  img_url: 'images/bbB_022218_SmartInnovation_12.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States.'
+  img_url: 'images/bbB_022218_SmartInnovation_13.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/the-honest-company/2084'
+  img_alt: '20% off honest personal care shop now valid thru 2/28/18'
+  img_url: 'images/bbB_022218_SmartInnovation_14.jpg'
+
+- type: 'image'
+  img_link: 'http://www.buybuybaby.com/store/page/BabyRegistry'
+  img_alt: 'We&#39;re here to stay… with a price-match promise you&#39;ll love.'
+  img_url: 'images/bbB_022218_SmartInnovation_15.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/whats-new/30008/'
+  img_alt: 'see what&#39;s new We know you&#39;ll love these fresh and exciting finds. shop now'
+  img_url: 'images/bbB_022218_SmartInnovation_16.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+  img_alt: 'google play'
+  img_url: 'images/bbB_emailfooter_01.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'app store'
+  img_2_url: 'images/bbB_emailfooter_02.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailfooter_03.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailfooter_04.jpg"
+  alt: "facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailfooter_05.jpg"
+  alt: "twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailfooter_06.jpg"
+  alt: "pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailfooter_07.jpg"
+  alt: "instagram logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailfooter_08.jpg"
+  alt: "youtube logo"
+- link: ""
+  img: "images/bbB_emailfooter_09.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
