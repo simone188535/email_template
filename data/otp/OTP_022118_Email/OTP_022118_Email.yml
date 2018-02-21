@@ -1,0 +1,104 @@
+title: 'Save 20% on any unique find in our store!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images/Old_Time_Pottery_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=discount_home_decor&utm_content=homepage "
+
+products_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Products.jpg"
+products_img_alt: "Products"
+products_img_link: "http://oldtimepottery.com/departments.html?utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=otp_store_departments&utm_content=departments  "
+
+locations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_Locations.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "http://oldtimepottery.com/locations?utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=find_a_store&utm_content=locations"
+
+inspirations_img_url: "https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_inspirations.jpg"
+inspirations_img_alt: "Inspirations"
+inspirations_img_link: "http://blog.oldtimepottery.com/?utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=otp_blog&utm_content=blog"
+
+preheader_text: 'Save 20% on any unique find in our store!'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_022218_v1_R2_FNL_02.jpg'
+  image_alt: 'PRESIDENTS&#39; DAY EVENT & 20% OFF ONE ITEM USE THIS OFFER FROM 2/13 - 2/25 BEFORE IT&#39;S GONE! (GET COUPON)'
+  image_link: 'http://oldtimepottery.com/presidents#utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=old_time_pottery_home_store_with_more&utm_content=get_coupon'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_022218_v1_R2_FNL_03.jpg'
+  image_alt: 'SWEET DREAMS & SWEET SAVINGS GET YOUR FAVORITE ITEM FOR SIGNIFICANTLY LESS WITH YOUR 20% OFF COUPON! 9pc Jaden Grey Comforter Set retail price: $79.99 COUPON SAVINGS $16 new price: $63.99 GET INSPIRED '
+  image_link: 'http://oldtimepottery.com/presidents#utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=old_time_pottery_home_store_with_more&utm_content=comforter_sets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_022218_v1_R2_FNL_04.jpg'
+  image_alt: 'WITH THE COUPON YOU COULD SAVE ON'
+  image_link: 'http://oldtimepottery.com/presidents#utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=old_time_pottery_home_store_with_more&utm_content=save_on'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_022218_v1_R2_FNL_05.jpg'
+  image_first_alt: '24&#34; x 58&#34; Mansion Mirror retail price:  $69.99 COUPON SAVINGS $14 new price: $55.99 OR '
+  image_first_link: 'http://oldtimepottery.com/presidents#utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=old_time_pottery_home_store_with_more&utm_content=mansion_mirror'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_022218_v1_R2_FNL_06.jpg'
+  image_second_alt: 'Parsons Chairs retail price: $59.99 COUPON SAVINGS $12 new price: $47.99'
+  image_second_link: 'http://oldtimepottery.com/presidents#utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=old_time_pottery_home_store_with_more&utm_content=parsons_chairs'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_022218_v1_R2_FNL_07.jpg'
+  image_first_alt: '5&#39; x 7&#39; Woven Area Rugs retail price: $49.99 COUPON SAVINGS $10 new price: $39.99 '
+  image_first_link: 'http://oldtimepottery.com/presidents#utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=old_time_pottery_home_store_with_more&utm_content=5x7_area_rugs'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_022218_v1_R2_FNL_08.jpg'
+  image_second_alt: '8&#39; x 10&#39; Woven Area Rugs retail price: $99.99 COUPON SAVINGS $20 new price: $79.99 '
+  image_second_link: 'http://oldtimepottery.com/presidents#utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=old_time_pottery_home_store_with_more&utm_content=9x10_area_rugs'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_022218_v1_R2_FNL_09.jpg'
+  image_alt: 'OR USE THE COUPON TO SAVE ON ANY ITEM ACROSS THE STORE '
+  image_link: 'http://oldtimepottery.com/presidents#utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=old_time_pottery_home_store_with_more&utm_content=save_on_any_item'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_022218_v1_R2_FNL_10.jpg'
+  image_alt: 'OLD TIME Pottery COUPON VALID DATES Tuesday, 2/13 - Sunday, 2/25/18 20% OFF ANY ONE (1) ITEM Present coupon before checkout. Tell the cashier which item to apply the discount to. Limit one (1) coupon per customer. Coupon may only be used one time and must be surrendered at the time of purchase. Offer not valid with any other Old Time Pottery coupon or discount including, but not limited to, 10% VIP Coupon, Military Discount or Employee Discount. Other restrictions may apply. Coupon expires end of day on Sunday, February 25th, 2018'
+  image_link: 'http://oldtimepottery.com/presidents#utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=old_time_pottery_home_store_with_more&utm_content=20off_any_1_item '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_047_022218_v1_R2_FNL_11.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/#utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=old_time_pottery_home_store_with_more&utm_content=get_inspired'
+
+- type: 'images-3-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_products.jpg'
+  image_first_alt: 'Products'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_footer_locations.jpg'
+  image_second_alt: 'Locations'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=otp_store_locations&utm_content=locations'
+  image_third_url: 'https://s3.amazonaws.com/pr-otp/email_images/OTP_Inspirations.jpg'
+  image_third_alt: 'Inspirations'
+  image_third_link: 'http://blog.oldtimepottery.com?utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=otp_store_blog&utm_content=inspirations'
+
+socialnav:
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer1.jpg"
+  alt: ""
+- link: "https://twitter.com/oldtimepottery1?utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=otp_twittter&utm_content=twitter "
+  img: "https://s3.amazonaws.com/pr-otp/email_images/twitter.jpg"
+  alt: "Twitter"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=otp_facebook&utm_content=facebook "
+  img: "https://s3.amazonaws.com/pr-otp/email_images/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=otp_pinterest&utm_content=pinterest "
+  img: "https://s3.amazonaws.com/pr-otp/email_images/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://www.youtube.com/channel/UC4RxaPc-6Jvqs2fpN-Uc1EQ?utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=otp_youtube&utm_content=youtube "
+  img: "https://s3.amazonaws.com/pr-otp/email_images/youtube.jpg"
+  alt: "YouTube"
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=weeklyflyer02_22&utm_medium=email&utm_campaign=sweet_dreams_sweet_savings&utm_term=otp_instagram&utm_content=instagram "
+  img: "https://s3.amazonaws.com/pr-otp/email_images/instagram.jpg"
+  alt: "Instagram"
+- link: ""
+  img: "https://s3.amazonaws.com/pr-otp/email_images/spacer2.jpg"
+  alt: ""
