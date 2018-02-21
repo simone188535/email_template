@@ -1,0 +1,121 @@
+title: 'Ooey, gooey, warm & cozy. Lobster Mac & Cheese!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/52d84c09-56ba-478c-9ccc-ecf8b87a7a7e.jpg?ver=1519245256000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/39291fe2-e263-4bc2-87bc-4e37d0615233.jpg?ver=1519245257000'
+  img_alt: 'WARM, RICH & HEARTY Cozy comfort foods that warm your body and soul.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/db10b431-7b53-4a93-bd62-6a8e7df9a434.jpg?ver=1519245257000'
+  img_alt: 'WINTER CLASSICS | CHEF PREPARED'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a182b5a6-f871-4cbb-85c3-55f6f3d81f01.jpg?ver=1519245257000'
+  img_alt: 'TRUFFLED POTATOES WITH SAUTÉED MUSHROOMS'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65d4bec3-fde6-4ad0-83ed-504e3db91815.jpg?ver=1519245258000'
+  img_alt_2: 'SHEPHERD&#39;S PIE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e62eb18c-3295-4698-a647-b20ffdda75ca.jpg?ver=1519245258000'
+  img_alt: 'MEMBER EXCLUSIVE | GRAB & GO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c6935660-4056-4f61-a610-7b39456336de.jpg?ver=1519245258000'
+  img_alt: 'NEW! LOBSTER MAC & CHEESE Stop by our seafood department for a gooey gourmet treat that&#39;s ready to heat and eat - succulent bites of lobster paired with creamy mac & cheese. MEMBER EXCLUSIVE 8.99/EA Reg. 9.99'
+
+- type: 'image'
+  url: 'https://delivery.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/76f5cfb8-eb94-40e5-8e88-845f9e4b32ce.jpg?ver=1519245258000'
+  img_alt: 'DELICIOUS DELIVERED | IT&#39;S COLD OUTSIDE! Let us deliver heart-warming comfort food right to your door with easy online ordering, shopping, and delivery from Instacart! FREE DELIVERY ON YOUR FIRST ORDER Powered by instacart SHOP NOW'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/soup?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/884a9ccf-db7c-482a-b2e4-4d92a9b23bce.jpg?ver=1519245258000'
+  img_alt: 'WARMING RECIPES | CHILI PERFECTION'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/soup?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/30feb618-301d-4fdf-856d-bd1ae55a9bdb.jpg?ver=1519245259000'
+  img_alt: 'CREATE YOUR PERFECT BOWL Find your favorite recipe from our collection and create the ultimate bowl of chili. Choose from favorites like 3 Bean, Vegetarian, Classic Chili and more! VIEW RECIPES'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2ed27fbb-f55f-4947-baee-07c2906c6dfa.jpg?ver=1519245259000'
+  img_alt: 'FRESH BAKED GOODNESS | PATISSERIE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/27c32f0c-4031-4662-a870-b25cfea4f95e.jpg?ver=1519245259000'
+  img_alt: 'MMM…MINI CORNBREAD LOAVES A winter staple, these tasty little loaves are rich, moist and delicious. They pair perfectly with a warm bowl of chili or a hot cup of soup.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1067c417-dd9c-4ca5-a5de-a0765047b38f.jpg?ver=1519245260000'
+  img_alt: 'WHAT&#39;S NEW | AT BALDUCCI&#39;S'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=022318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ad090ce8-573e-46b1-bbda-1696b1876f87.jpg?ver=1519245260000'
+  img_alt: 'Join us for a Wine & Food Tasting Event SATURDAY, MARCH 10TH Meet professional winemakers and fellow wine lovers as we share recommendations, stories and of course, sip wine! MORE INFO >'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
