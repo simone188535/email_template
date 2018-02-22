@@ -1,0 +1,162 @@
+#TITLE
+title: 'Shop HALO®'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS29_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS29_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 View Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS29_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS29_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS29_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS29_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS29_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Shop HALO®'
+preheader_link: 'https://www.buybuybaby.com/store/brand/halo/367'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+# - type: 'image-3-columns'
+#   img_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_alt: 'Crisp & clean, you can&#39;t go wrong with stripes!'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_02.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_2_alt: 'go bold what&#39;s Black & White and always in style? Fun, functional baby gear in this on-trend color scheme.'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_03.jpg'
+#   img_3_link: 'https://www.buybuybaby.com/store/s/blacknwhitetrend17'
+#   img_3_alt: 'Black & White looks best when you add bold pops of color!'
+#   img_3_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_04.jpg'
+
+# - type: 'image-2-columns'
+#   img_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+#   img_alt: 'savings center'
+#   img_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_13.jpg'
+#   img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+#   img_2_alt: 'strollers'
+#   img_2_url: 'images/bbB_195_060617_Black&White_v4_r3_DEV_14.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/halo-reg-bassinest-trade-premiere-series-swivel-sleeper-in-river-stone/1061921115'
+  img_alt: 'close as can be Swivels to help you easily tend to your baby while baby safely rests in their own sleep space shop now Great for mom&#39;s recovery from child birth Bassinest® Premiere Series Swivel Sleeper 249.99 FREE SHIPPING '
+  img_url: 'images/bbB_220_022618_Halo_v1_r6_FNL_02.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/halo-reg-bassinest-trade-premiere-series-swivel-sleeper-in-river-stone/1061921115'
+  img_alt: 'Swivels 360 to bring your baby close NEW in River Stone Sidewall lowers so you can easily tend to your baby from bed Includes soothing features: vibration, nightlight & soothing sounds '
+  img_url: 'images/bbB_220_022618_Halo_v1_r6_FNL_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/halo-trade-bassinest-reg-twin-sleeper-in-sand/1062592925'
+  img_alt: 'Bassinest® Twin Sleeper Your favorite Bassinest® now has room for 2 with this twin sleeper 449.99 FREE SHIPPING shop now NEW for twins!'
+  img_url: 'images/bbB_220_022618_Halo_v1_r6_FNL_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/halo-reg-snoozypod-vibrating-bedtime-soother-in-white/1061203228'
+  img_alt: 'Snoozypod® Vibrating Bedtime Soother Features gentle vibrations soothing sounds, & a soft amber glow nightlight 79.99 FREE SHIPPING shop now'
+  img_url: 'images/bbB_220_022618_Halo_v1_r6_FNL_05.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/halo/367/4294967217-4294965885-4293803863-30007/1-48'
+  img_alt: 'swaddle to sleep! '
+  img_url: 'images/bbB_220_022618_Halo_v1_r6_FNL_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/halo-reg-sleepsack-reg-lilac-lace-multi-way-adjustable-swaddle/3288714'
+  img_alt: 'wear your arms in or out! SleepSack® Lilac Lace Multi-Way Adjustable Swaddle 21.99 shop now'
+  img_url: 'images/bbB_220_022618_Halo_v1_r6_FNL_07.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/halo-reg-sleepsack-reg-lions-tigers-bears-multi-way-adjustable-swaddle-in-grey/3288716'
+  img_alt: 'SleepSack® Lions, Tigers, Bears Multi-Way Adjustable Swaddle 21.99 shop now'
+  img_url: 'images/bbB_220_022618_Halo_v1_r6_FNL_08.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/halo-reg-sleepsack-reg-multi-way-pink-medallion-adjustable-fleece-swaddle-in-ivory/3315336'
+  img_alt: 'SleepSack® Multi-Way Pink Medallion Adjustable Fleece Swaddle 21.99 shop now'
+  img_url: 'images/bbB_220_022618_Halo_v1_r6_FNL_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/halo/367'
+  img_alt: 'shop all HALO® '
+  img_url: 'images/bbB_220_022618_Halo_v1_r6_FNL_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States. '
+  img_url: 'images/bbB_220_022618_Halo_v1_r6_FNL_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/whats-new/30008'
+  img_alt: 'see what&#39;s new We know youwhat&#39;ll love these fresh and exciting finds. shop now '
+  img_url: 'images/bbB_220_022618_Halo_v1_r6_FNL_12.jpg'
+
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/clothing-accessories/outfits-trends/32561/'
+  img_alt: 'say hello to spring! shop now'
+  img_url: 'images/bbB_220_022618_Halo_v1_r6_FNL_13.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+  img_alt: 'Get it on Google Play'
+  img_url: 'images/bbB_emailfooter_01.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'Download on the App Store'
+  img_2_url: 'images/bbB_emailfooter_02.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailfooter_03.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailfooter_04.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailfooter_05.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailfooter_06.jpg"
+  alt: "Pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailfooter_07.jpg"
+  alt: "YouTube logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailfooter_08.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_emailfooter_09.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
