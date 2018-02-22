@@ -1,0 +1,78 @@
+title: 'NEW! Avocado Toast Made to Order'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0223_BLD_AvocadoToast_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0223_BLD_AvocadoToast_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0223_BLD_AvocadoToast_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0223_BLD_AvocadoToast_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0223_BLD_AvocadoToast_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0223_BLD_AvocadoToast_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0223_BLD_AvocadoToast_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/40fcb1f3-f1f8-4f70-9091-dee1ca3db5be.jpg?ver=1519334426000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0223_BLD_AvocadoToast_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/39c8d9ae-09ec-4bd8-bf0f-f4043c247ee0.jpg?ver=1519324933000'
+  img_alt: 'NEW AVOCADO TOAST made fresh! made to order!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0223_BLD_AvocadoToast_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8220013b-c059-4249-a7b4-7abf788a539d.jpg?ver=1519324933000'
+  img_alt: 'MEMBERS SAVE $1.00 4.99-11.99 REG. 5.99-12.99 VALID 2/23/18 - 3/1/18'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0223_BLD_AvocadoToast_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/761a4cf0-3360-4420-a26b-56f1290fd3aa.jpg?ver=1519324934000'
+  img_alt: 'MEMBERS SAVE $1.00 4.99-11.99 REG. 5.99-12.99 VALID 2/23/18 - 3/1/18'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0223_BLD_AvocadoToast_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/794b3b90-8ca7-49c7-849c-246b2c383981.jpg?ver=1519324934000'
+  img_alt: 'Classic • Bacon • An Egg Bacon & An Egg Smoked Salmon & An Egg Smoked Salmon & Red Onion FIND IT AT THE COFFEE BAR BALDUCCI&#39;s WESTPORT, CT.'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
