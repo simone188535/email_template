@@ -1,0 +1,123 @@
+title: 'We&#39;re mad for mint!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dbde55bc-62de-4292-84ba-ad8c26174f74.jpg?ver=1519917884000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0acfe249-4f85-4bfa-bbcb-97a5990316cc.jpg?ver=1519917885000'
+  img_alt: 'MINT CONDITION Light, fresh and bright - nothing says spring quite like mint. Create CUCUMBER, LEMON, MINT, & ROSEMARY WATER VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3ec70b00-3a86-4ded-983a-4ddc96f94658.jpg?ver=1519917885000'
+  img_alt: 'SPRING FAVORITES | SEASONAL SPOTLIGHT'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b2775b6f-96ce-4b8d-bc62-6513d5b24f4f.jpg?ver=1519917885000'
+  img_alt: 'CHEF PREPARED THREE PEA & MINT SALAD Snow peas, sugar snap peas and green peas are lightly cooked and tossed with a fresh mint pesto. Delicious by itself or paired with grilled fish for a light, spring dish.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9918519d-cdce-4503-9b92-6e72025dfd43.jpg?ver=1519917885000'
+  img_alt: 'BALDCUCCI&#39;S POUND CAKES Moist, rich and buttery, try our pound cakes topped with strawberries and a hint of mint.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/aab1aa68-79a1-48e6-8c0f-ba7c87da3155.jpg?ver=1519917885000'
+  img_alt: 'Create STRAWBERRY MINT CHUTNEY VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ea12cc25-d00e-4c11-88e8-0e8c20840c04.jpg?ver=1519917885000'
+  img_alt: 'A HINT OF MINT | FRESH TREATS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/090133a3-37c5-4c46-acd9-12c55898969d.jpg?ver=1519917886000'
+  img_alt: 'BARK THINS SNACK DARK CHOCOLATE MINT LINDT EXCELLENCE BAR INTENSE MINT'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/571f5644-f229-4f64-b87d-6169e66bcc15.jpg?ver=1519917886000'
+  img_alt: 'MINT INFUSED LIBATIONS | RECIPES'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2279718e-0a8c-4df5-a596-dfd1e607f550.jpg?ver=1519917886000'
+  img_alt: 'MELON & MINT WHITE WINE SPRITZER VIEW RECIPE'
+  url_2: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bc59b85d-a695-4dc6-b1b8-73001f9ae0f0.jpg?ver=1519917886000'
+  img_alt_2: 'BALDUCCI&#39;S MINT JULEP VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7d327983-8f23-4cc5-a45e-fd059a8b1e82.jpg?ver=1519917886000'
+  img_alt: 'MEMBER EXCLUSIVE | FRESH SEAFOOD'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ec0958f4-e7b3-40e0-be3a-02ed3668e304.jpg?ver=1519917887000'
+  img_alt: 'NEW! HOLLAND PLAICE FILLET This flaky European flounder fillet is delicate in texture and flavor. Try it dredged in bread crumbs and pan-fried, or roasted. MEMBER EXCLUSIVE 11.99/EA Reg 13.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/703c237b-19e7-4f36-afbb-f8c7edec8c84.jpg?ver=1519917887000'
+  img_alt: 'Recipe idea HOLLAND PLAICE FILLETS WITH MEDITERRANEAN TOMATO SAUCE VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b4056a32-c818-4282-b067-a020e46a81f5.jpg?ver=1519917887000'
+  img_alt: 'WHAT&#39;S NEW | AT BALDUCCI&#39;S'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b1818cce-01d9-4a49-8fe8-3f15da79b112.jpg?ver=1519917887000'
+  img_alt: 'Take a Journey to Cheesetopia Join us at our annual Ultimate Cheese Tasting Event. Get tips from our Balducci&#39;s cheesemongers and chefs, and taste gourmet cheese from around the world. SATURDAY, MARCH 24TH Cheese Tastings……………..2-5pm MORE INFO'
+
+
+
+
+
+
+
+
+
+
+
+
