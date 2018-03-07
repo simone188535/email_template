@@ -1,0 +1,63 @@
+title: 'Check Out this Quick Pick Offer!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_image2/OTP_Logo.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=otp_weekly03_07&utm_medium=email&utm_campaign=introducing_quick_pick&utm_term=discount_home_decor&utm_content=otp_logo"
+
+homestore_img_url: "https://s3.amazonaws.com/pr-otp/email_image2/OTP_Homestore.jpg"
+homestore_img_alt: "THE HOME STORE WITH MORE! (GET INSPIRED)"
+homestore_img_link: "https://oldtimepottery.com/outdoor#utm_source=otp_weekly03_07&utm_medium=email&utm_campaign=introducing_quick_pick&utm_term=discount_home_decor&utm_content=outdoor_superstore"
+
+preheader_text: 'Save 40% While Supplies Last!'
+preheader_link: 'http://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_030718_09.jpg'
+  image_alt: 'Starts Today! Introducing the Quick Pick, a low-priced, one-time-only deal that is available for a limited time! THIS WEEK&#39;S QUICK Pick! While Supplies Last! Super Soft Poly Blanket Twin/Full or Queen/King SAVE UP TO 40%off OUR ALREADY LOW PRICES 14.99 EA Reg. Price $19.99 - $24.99'
+  image_link: 'https://oldtimepottery.com/quickpick#utm_source=otp_weekly03_07&utm_medium=email&utm_campaign=introducing_quick_pick&utm_term=old_time_pottery_home_store_with_more&utm_content=quick_pick_starts_today'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_030718_12.jpg'
+  image_alt: 'HURRY IN & GRAB THIS INCREDIBLE OFFER BEFORE IT&#39;S GONE MARCH 7TH - MARCH 11TH The promotional pricing above is limited to this item: Twin/Full & Queen/King-Super Soft Poly Blanket (SKU 331844, 331845) and is available while supplies last at participating Old Time Pottery locations from 3/7/18-3/11/18. Sell-outs on the promoted item are possible and no rain checks will be available. Not all products and styles are available at all stores. Prices are subject to state,  provincial and local taxes and fees. Arrive early for the best selection. SEE DETAILS'
+  image_link: 'https://oldtimepottery.com/quickpick#utm_source=otp_weekly03_07&utm_medium=email&utm_campaign=introducing_quick_pick&utm_term=old_time_pottery_home_store_with_more&utm_content=supersoft_poly_blankets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_030718_15.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/#utm_source=otp_weekly03_07&utm_medium=email&utm_campaign=introducing_quick_pick&utm_term=old_time_pottery_home_store_with_more&utm_content=get_inspired'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://oldtimepottery.com/departments.html?utm_source=otp_weekly03_07&utm_medium=email&utm_campaign=introducing_quick_pick&utm_term=otp_store_departments&utm_content=departments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=otp_weekly03_07&utm_medium=email&utm_campaign=introducing_quick_pick&utm_term=otp_store_locations&utm_content=locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'http://blog.oldtimepottery.com?utm_source=otp_weekly03_07&utm_medium=email&utm_campaign=introducing_quick_pick&utm_term=otp_store_blog&utm_content=inspirations'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/#utm_source=otp_weekly03_07&utm_medium=email&utm_campaign=introducing_quick_pick&utm_term=discount_home_decor&utm_content=update_profile'
+
+socialnav:
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=otp_weekly03_07&utm_medium=email&utm_campaign=introducing_quick_pick&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly03_06&utm_medium=email&utm_campaign=introducing_quick_pick&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly03_06&utm_medium=email&utm_campaign=introducing_quick_pick&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery1?utm_source=otp_weekly03_06&utm_medium=email&utm_campaign=introducing_quick_pick&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"
