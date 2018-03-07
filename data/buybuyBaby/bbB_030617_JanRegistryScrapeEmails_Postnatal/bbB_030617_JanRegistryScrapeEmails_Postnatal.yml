@@ -1,0 +1,166 @@
+#TITLE
+title: 'Shop now'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS49_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/"
+
+freeshipping_img_url: "images/bbB_emailheader_FS49_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $49 Get Details "
+freeshipping_img_link: "https://www.bedbathandbeyond.ca/store/static/ShippingPolicies/"
+
+instore_img_url: "images/bbB_emailheader_FS49_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "https://www.bedbathandbeyond.ca/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS49_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "https://www.bedbathandbeyond.ca/store/page/BabyCanadaRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "baby nursery"
+nav1_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/22927"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "nursing & feeding"
+nav2_link: "http://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/22936/"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "bath & potty"
+nav3_link: "https://www.bedbathandbeyond.ca/store/category/baby-kids/bath-potty/22945/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: '20% off when you shop in-store for your favorite baby brands'
+preheader_link: 'https://www.bedbathandbeyond.ca/store/static/04174'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View online'
+viewaswebpage_link: '${form(campaign.name,&#39;ONLINE=Y&#39;,ONLINEPARAMS)}'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/?babyCA=true'
+  img_alt: 'every step of the way We&#39;re here to help you and your family with everything you need to make parenting a little easier. shop now'
+  img_url: 'images/bbB_217_Jan_Registry_Scrape_Emails_CANADA_Postnatal_v1_r9_FNL_02.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'get 20% off one single item in-store. Some excusions apply. See certificate for details. Offer valid for this email address only. Expires 09/04/18 get offer '
+  img_2_url: 'images/bbB_217_Jan_Registry_Scrape_Emails_CANADA_Postnatal_v1_r9_FNL_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/22904/?babyCA=true'
+  img_alt: 'find everything you need! As your little one grows from baby to big kid!'
+  img_url: 'images/bbB_217_Jan_Registry_Scrape_Emails_CANADA_Postnatal_v1_r9_FNL_04.jpg'
+
+- type: 'image-3-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/car-seats/22914/'
+  img_alt: 'car seats shop now'
+  img_url: 'images/bbB_217_Jan_Registry_Scrape_Emails_CANADA_Postnatal_v1_r9_FNL_05.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/gear-travel/22920/'
+  img_2_alt: 'gear & travel shop now'
+  img_2_url: 'images/bbB_217_Jan_Registry_Scrape_Emails_CANADA_Postnatal_v1_r9_FNL_06.jpg'
+  img_3_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/baby-nursery/baby-bedding/22928/'
+  img_3_alt: 'bedding shop now '
+  img_3_url: 'images/bbB_217_Jan_Registry_Scrape_Emails_CANADA_Postnatal_v1_r9_FNL_07.jpg'
+
+- type: 'image-3-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/baby-kids-clothing/22974/'
+  img_alt: 'clothing shop now'
+  img_url: 'images/bbB_217_Jan_Registry_Scrape_Emails_CANADA_Postnatal_v1_r9_FNL_08.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/nursing-feeding/22936/'
+  img_2_alt: 'nursing & feeding shop now'
+  img_2_url: 'images/bbB_217_Jan_Registry_Scrape_Emails_CANADA_Postnatal_v1_r9_FNL_09.jpg'
+  img_3_link: 'https://www.bedbathandbeyond.ca/store/category/baby-kids/infant-toys-ages-0-3-years/22957/'
+  img_3_alt: 'toys shop now'
+  img_3_url: 'images/bbB_217_Jan_Registry_Scrape_Emails_CANADA_Postnatal_v1_r9_FNL_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_alt: 'find your store South Edmonton, AB Langley, BC Halifax, NS Woodbridge, ON Whitby, ON Ottawa, ON'
+  img_url: 'images/bbB_217_Jan_Registry_Scrape_Emails_CANADA_Postnatal_v1_r9_FNL_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.bedbathandbeyond.ca/'
+  img_alt: 'NEED MORE FOR YOUR GROWING FAMILY?'
+  img_url: 'images/bbB_217_Jan_Registry_Scrape_Emails_CANADA_Postnatal_v1_r9_FNL_12.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.bedbathandbeyond.ca/store/static/04174'
+  img_alt: 'get 20% off one single item in-store. Some excusions apply. See certificate for details. Offer valid for this email address only. Expires 09/04/18 get offer '
+  img_url: 'images/bbB_217_Jan_Registry_Scrape_Emails_CANADA_Postnatal_v1_r9_FNL_13.jpg'
+  img_2_link: 'https://www.bedbathandbeyond.ca/store/selfservice/CanadaStoreLocator'
+  img_2_alt: 'Shop Bed Bath & Beyond for all your home needs. BED BATH & BEYOND find a store'
+  img_2_url: 'images/bbB_217_Jan_Registry_Scrape_Emails_CANADA_Postnatal_v1_r9_FNL_14.jpg'
+
+# - type: 'image'
+#   img_link: 'https://www.buybuybaby.com/store/category/furniture/baby-furniture/conversion-rails/32777/'
+#   img_alt: 'Most of our cribs are convertible so make sure you check your make and model. Remember, you can only use a conversion kit that is designed to work with your crib. '
+#   img_url: 'images/bbB_010118_NewYear_NewNursery_POSTNATAL_04.jpg'
+
+# - type: 'image'
+#   img_link: 'https://www.buybuybaby.com/store/category/furniture/baby-furniture/conversion-rails/32777/'
+#   img_alt: 'Convert your crib to a toddler or full-size bed with a toddler guard rail or conversion rail kit! shop conversion rails '
+#   img_url: 'images/bbB_010118_NewYear_NewNursery_POSTNATAL_05.jpg'
+
+# - type: 'image'
+#   img_link: 'https://www.buybuybaby.com/store/category/health-safety/babyproofing/bed-rails-guards/32497/'
+#   img_alt: 'Keep your little one safe & sound by adding guard rails to their big kid bed! shop bed rails and guards'
+#   img_url: 'images/bbB_010118_NewYear_NewNursery_POSTNATAL_06.jpg'
+
+# - type: 'image'
+#   img_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+#   img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States. '
+#   img_url: 'images/bbB_010118_NewYear_NewNursery_POSTNATAL_07.jpg'
+
+# - type: 'image'
+#   img_link: 'https://www.buybuybaby.com/store/account/Login'
+#   img_alt: 'see something you like? Login to create an Idea Board. get started'
+#   img_url: 'images/bbB_010118_NewYear_NewNursery_POSTNATAL_08.jpg'
+
+# - type: 'image'
+#   img_link: '#'
+#   img_alt: 'introducing the buybuy BABY® Mastercard Credit Card earn 5% back in rewards on purchases made at buybuy BABY click here for details'
+#   img_url: 'images/bbB_010118_NewYear_NewNursery_POSTNATAL_09.jpg'
+
+
+# - type: 'image-2-columns'
+#   img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+#   img_alt: 'Get it on Google Play'
+#   img_url: 'images/bbB_emailfooter_01.jpg'
+#   img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+#   img_2_alt: 'Download on the App Store'
+#   img_2_url: 'images/bbB_emailfooter_02.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailfooter_03.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailfooter_04.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailfooter_05.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailfooter_06.jpg"
+  alt: "Pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailfooter_07.jpg"
+  alt: "YouTube logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailfooter_08.jpg"
+  alt: "Instagram logo"
+- link: ""
+  img: "images/bbB_emailfooter_09.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
