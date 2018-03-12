@@ -1,0 +1,84 @@
+title: 'Welcome to Cheesetopia!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/56024d11-bd22-4e8b-9bbd-43c9e34752e8.jpg?ver=1520881423000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/488e6bd6-7ac2-4ab0-a36d-d9762c78028f.jpg?ver=1520881423000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/047dc4a1-73ce-462f-b9e7-05372c02271a.jpg?ver=1520881423000"
+footer_twitter_alt: "twitter"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dbde55bc-62de-4292-84ba-ad8c26174f74.jpg?ver=1519917884000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0ad4b43e-fcc0-4481-b1a6-61b1a52e43a2.jpg?ver=1520860208000'
+  img_alt: 'TASTE THE ULTIMATE IN GOURMET CHEESE AT CHEESETOPIA Saturday, March 24 | 2-5pm LEARN MORE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/19c8029c-965a-46a8-858e-68979d6079df.jpg?ver=1520860208000'
+  img_alt: 'CHEESES FROM AROUND THE WORLD'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e2fc34fc-cb4f-46e8-9468-4602f64b612d.jpg?ver=1520860209000'
+  img_alt: 'ALL OF OUR CHEESES ARE HAND-CUT FOR MAXIMUM QUALITY. ALP BLOSSOM Made in the Austrian Alps, locally grown herbs and flowers grace the rind of this Appenzer-like cheese. It&#39;s savory, dense and wonderfully melty!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3bd89cd-182d-4451-b161-621b13f1ef21.jpg?ver=1520860208000'
+  img_alt: 'PARMIGIANO REGGIAGO® There are few matches to the flavor, texture and richness of a perfectly aged, fresh-cut sliver of Parmigiano Reggiano®.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6ce5f44b-9ac2-4e00-a7a3-76359ab4d058.jpg?ver=1520860209000'
+  img_alt: 'GRUYERE 1655 Aged for one year, it offers a complex balance of sweetness and salt with notes of nut, caramel, mushroom and a hint of fruit.'
+
+- type: 'image'
+  url: 'https://vimeo.com/185683936?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6a63692d-e14f-41cd-8224-edc4496298e0.jpg?ver=1520860209000'
+  img_alt: 'VIDEO HOW TO | CHEESE PAIRINGS MAKE THE PERFECT CHEESEBOARD WATCH VIDEO Check out our video for quick tips to create a beautiful cheeseboard. It&#39;s all about combining tastes, textures and toppings, and it&#39;s easy, once you learn the tricks!'
+
+- type: 'image'
+  url: 'https://vimeo.com/185683936?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/855a98a2-3131-4139-9b4c-1fb15b06682b.jpg?ver=1520860218000'
+  img_alt: 'VIDEO HOW TO | CHEESE PAIRINGS MAKE THE PERFECT CHEESEBOARD WATCH VIDEO Check out our video for quick tips to create a beautiful cheeseboard. It&#39;s all about combining tastes, textures and toppings, and it&#39;s easy, once you learn the tricks!'
+
+- type: 'image'
+  url: 'https://vimeo.com/185683936?utm_source=weeklyemail&utm_medium=email&utm_campaign=0314_BLD_Cheesetopia_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3660de28-3ff0-47f8-b0da-06693a2fba8e.jpg?ver=1520860209000'
+  img_alt: 'VIDEO HOW TO | CHEESE PAIRINGS MAKE THE PERFECT CHEESEBOARD WATCH VIDEO Check out our video for quick tips to create a beautiful cheeseboard. It&#39;s all about combining tastes, textures and toppings, and it&#39;s easy, once you learn the tricks!'
+
+
+
+
+
+
+
