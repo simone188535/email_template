@@ -1,0 +1,92 @@
+title: 'NEW! Shop online, $20 off + FREE delivery!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b4de1730-5dae-40c4-81b4-5e7f3c95a5bf.jpg?ver=1520627096000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8a967368-0ca1-4fd6-a9b7-f7c5254f64eb.jpg?ver=1520627096000'
+  img_alt: 'DELICIOUS DELIVERED GROCERY DELIVERY IN AS LITTLE AS ONE HOUR Powered by Instacart'
+
+- type: 'image'
+  url: 'https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ae50c70f-d9d4-4bf7-a065-860f033c1ba4.jpg?ver=1520627096000'
+  img_alt: '$20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER* ORDER ONLINE • WE SHOP • WE DELIVER Now serving Rye Brook & Scarsdale, NY. Use promo code BALDUCCISNY for $20 OFF your first order. Valid through 4/7/18.'
+
+- type: 'image'
+  url: 'https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/33d5ff6a-8972-4219-a167-725cf4cd4010.jpg?ver=1520627096000'
+  img_alt: 'MAKE YOUR LIFE EASIER!'
+
+- type: 'image'
+  url: 'https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b4b6532f-9c57-43ee-a396-614df4fe8c00.jpg?ver=1520627097000'
+  img_alt: 'BUSY DAY • BAD WEATHER • HELPING OTHERS No traffic, no lines, or bags to carry - perfect for busy families, working professionals or anyone who needs the time-saving convenience of shopping for groceries online. You can consider this errand done!'
+
+- type: 'image'
+  url: 'https://youtu.be/dt66HOSZoDw/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ff8eb8e9-028f-4e0c-b3ce-afd802d5fca2.jpg?ver=1520627097000'
+  img_alt: 'SEE HOW EASY IT IS TO SHOP'
+
+- type: 'image'
+  url: 'https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3920eae2-9c29-4954-bca5-d04f0c1f7481.jpg?ver=1520627098000'
+  img_alt: 'Shop the Whole Store You can shop all the specialty foods, the freshest produce, signature favorites, and Chef Prepared dishes you love from Balducci&#39;s - online!
+Ordering Made Easy It&#39;s as easy as creating an account, selecting items, scheduling delivery and checking out. Trained Instacart Shoppers Trusted Instacart shoppers hand select your choices, pack your order, and deliver it to you during the delivery time you selected.'
+
+- type: 'image'
+  url: 'https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/69eb4475-d47d-4483-b40a-5cee952f0261.jpg?ver=1520627097000'
+  img_alt: 'LEARN MORE'
+
+- type: 'image'
+  url: 'https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0310_Instacart_Rye_Scarsdale_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/11368b7f-0b51-4ff4-9245-3e1f847fac2a.jpg?ver=1520627098000'
+  img_alt: '*Use Promo Code BALDUCCISNY to receive $20 off your first order of $35 or more. $5.99 delivery fee waived with first order of $35 or more. Valid through 4/7/18 in Rye Brook & Scarsdale, NY. '
+
+
+
+
+
+
+
+
+
+
+
+
+

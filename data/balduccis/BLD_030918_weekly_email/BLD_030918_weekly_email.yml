@@ -1,0 +1,123 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dbde55bc-62de-4292-84ba-ad8c26174f74.jpg?ver=1519917884000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=030218_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6b84319e-ece3-4b40-bb46-9da5edc2f005.jpg?ver=1520526736000'
+  img_alt: 'A TASTE OF THE EMERALD ISLE Celebrate St. Patrick&#39;s Day with inspired ideas for classic corned beef, Irish coffee and more. Create TRADITIONAL CORNED BEEF & CABBAGE DINNER VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/887b4c6c-7608-4a17-9b37-18ce7b779820.jpg?ver=1520526732000'
+  img_alt: 'MEMBER EXCLUSIVE | IRISH INSPIRED'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f29c54db-34d4-4514-b525-28a4c54e8cbe.jpg?ver=1520526739000'
+  img_alt: 'FIRST CUT BEEF BRISKET A mouthwatering part of a classic St. Patrick&#39;s Day meal, this first cut beef brisket is meltingly tender, and antibiotic-free with no added hormones. MEMBER EXCLUSIVE 12.99/LB Reg 13.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3c378ba7-537d-4db6-96bd-24ec5e055146.jpg?ver=1520526739000'
+  img_alt: 'TRADITIONAL IRISH FAVORITES'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/69080d3b-520e-4b0b-bead-d16484613fa4.jpg?ver=1520526743000'
+  img_alt: 'IRISH SODA BREAD Made in the traditional way, slice this hearty bread and serve with butter, marmalade or a slice of tangy Irish cheese.'
+  url_2: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/62b9d0c1-b50c-42ef-a9f9-be85bc2b83eb.jpg?ver=1520526746000'
+  img_alt_2: 'KERRYGOLD PURE IRISH BUTTER All-natural, cultured-cream Irish butter, made from the milk of grass-fed cows and free of growth hormones.'
+
+- type: 'image'
+  url: 'https://delivery.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0bbe3146-e86d-40f3-8380-505e733cdb9d.jpg?ver=1520526752000'
+  img_alt: 'DELICIOUS DELIVERED | ORDER ONLINE Save time and get St. Patrick&#39;s Day favorites delivered right to your door. It&#39;s not the luck o&#39; the Irish - It&#39;s Instacart! FREE DELIVERY ON YOUR FIRST ORDER* Now serving RYE BROOK, NY & SCARSDALE, NY. Use promo code BALDUCCISNY for $20 OFF your first order. Valid 3/8/18 - 4/7/18. Powered by instacart SHOP NOW'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/479f6910-723f-4129-a0d7-ac45a4e3b5df.jpg?ver=1520526751000'
+  img_alt: 'IRISH EYE OPENER | RECIPE IDEA'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9230b1e2-1062-46cd-9e42-638b02c826c0.jpg?ver=1520526752000'
+  img_alt: 'THE BEST IRISH COFFEE VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0de7f8bc-069f-4e0a-be81-21d90b42f553.jpg?ver=1520526752000'
+  img_alt: 'HAND-CUT CHEESES | TOP PICKS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/131e80c8-55b4-4efa-8bd8-0e06cade4d86.jpg?ver=1520526754000'
+  img_alt: 'GUBBEEN FARMHOUSE CHEESE A washed-rind cheese with a semi-soft, golden interior, its flavors are fresh and buttery, with notes of nuts, bacon and smoke. ALP BLOSSOM Made in the Austrian Aps, locally grown herbs and flowers grace the rind of this Appenzeller-like cheese. It&#39;s savory, dense and wonderfully melty!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8b0e9ec5-3af0-4e44-869f-cda91c579ab3.jpg?ver=1520526757000'
+  img_alt: 'TAKE A JOURNEY TO CHEESETOPIA Join us at our annual Ultimate Cheese Tasting Event, and taste gourmet cheese from around the world. SATURDAY, MARCH 24TH Cheese Tastings………….2-5pm MORE INFO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/432b13d6-09a1-4259-9019-04c4b46a43b6.jpg?ver=1520526757000'
+  img_alt: 'WHAT&#39;S NEW | AT BALDUCCI&#39;S'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/23a7b866-f6b0-48f8-9dae-da60c6846e43.jpg?ver=1520526757000'
+  img_alt: 'Join Us for a Wine & Food Tasting Event THIS SATURDAY MARCH 10th Meet professional winemakers and fellow wine lovers as we share recommendations, stories and of course, sip wine! MORE INFO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=030918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8909f871-6702-4aac-a0a4-b119e789b502.jpg?ver=1520526759000'
+  img_alt: 'Easter & Passover Catering Whether it&#39;s a juicy brisket for Passover or a traditional Easter ham, our Chef Prepared catering will make your holidays elegant and easy. VIEW MENUS'
+
+
+
+
+
+
+
+
+
+
+
+
