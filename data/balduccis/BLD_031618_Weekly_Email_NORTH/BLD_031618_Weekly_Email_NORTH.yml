@@ -1,0 +1,114 @@
+title: 'A few good eggs: Brunch & beyond.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/56024d11-bd22-4e8b-9bbd-43c9e34752e8.jpg?ver=1520881423000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/488e6bd6-7ac2-4ab0-a36d-d9762c78028f.jpg?ver=1520881423000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/047dc4a1-73ce-462f-b9e7-05372c02271a.jpg?ver=1520881423000"
+footer_twitter_alt: "twitter"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/breakfast?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dbde55bc-62de-4292-84ba-ad8c26174f74.jpg?ver=1519917884000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4620d84c-dda8-4cea-abcd-cba711a53c65.jpg?ver=1521039914000'
+  img_alt: 'BRUNCH & BEYOND The elegant egg is an all occasion showstopper. Create ASPARAGUS, LEEK & GRUYÈRE QUICHE VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3f2876cc-11fb-42be-9b0b-f96ab80c3311.jpg?ver=1521039914000'
+  img_alt: 'NEW! BALDUCCI&#39;S FREE RANGE EGGS Free-range chickens produce a better tasting and even healthier egg! These excellent eggs contain ore vitamin A, omega-3 fatty acids and vitamin D than conventional eggs.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b27e51b7-77a2-414f-8023-42e00458fd45.jpg?ver=1521039915000'
+  img_alt: 'BEYOND BREAKFAST | EXCELLENT EGGS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6b90c2f9-5df2-4bde-88b3-7302dc4d1761.jpg?ver=1521039915000'
+  img_alt: 'Create GREEN SHAKSHUKA Shakshuka is Hebrew for &#34;all mixed up.&#34; This savory skillet makes a delicious and savory egg meal any time of day. Touches of green make this a festive St. Patrick&#39;s Day meal! VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c4c993b5-9221-466d-9f64-c73c85f97b1f.jpg?ver=1521039915000'
+  img_alt: 'LUCK OF THE IRISH | ST. PATRICK&#39;S DAY EATS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/59facbf8-1608-48ae-9620-3790eaafd444.jpg?ver=1521039917000'
+  img_alt: 'GARRETT VALLEY FIRST CUT CORNED BEEF BRISKET Humanely raised, antibiotic-free, vegetarian fed beef brisket that&#39;s brined in the famous Irish tradition, giving it the perfect balance of spices, salty and sweet. ST. PATRICK&#39;S DAY IS SATURDAY, MARCH 17th'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/262f9fce-3af5-4f31-81e5-c543dfef1776.jpg?ver=1521039917000'
+  img_alt: 'HAND-CUT CHEESES | CHEESETOPIA'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/12f20f37-f00a-4928-8534-5bc95a39b1f2.jpg?ver=1521039918000'
+  img_alt: 'TAKE A JOURNEY TO CHEESETOPIA Experience the ultimate gourmet cheese tasting with demonstrations by renowned cheesemakers, tips from professionals and more! THIS SATURDAY, MARCH 24th • SCARSDALE & RYE BROOK, NY • GREENWICH & WESTPORT, CT Cheese Tastings………....2-5pm MORE INFO'
+
+- type: 'image'
+  url: 'https://delivery.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e3a5120d-d729-4041-ae16-b9f587a12cfe.jpg?ver=1521039919000'
+  img_alt: 'PARMIGIANO REGGIANO® There are few matches to the flavor, texture, and richness of a perfectly aged, fresh-cut sliver of Parmigiano Reggiano®. GRUYÈRE 1655 Aged for at least one year, this cheese offers a complex balance of sweetness and salt with notes of nut, caramel, mushroom and fruit.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fc31f4cd-6e80-4c70-b1a8-da861c19043c.jpg?ver=1521039919000'
+  img_alt: 'DELICIOUS DELIVERED | ORDER ONLINE Save time this spring and have groceries delivered right to your door! $20 OFF PLUS FREE DELIVERY ON YOUR FIRST ORDER* Now serving RYE BROOK & SCARSDALE, NY. Use promo code BALDUCCISNY for $20 OFF your first order. Valid through 4/7/18. Powered by instacart SHOP NOW'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c88435c8-080a-4c57-94de-eeb5564d7217.jpg?ver=1521039919000'
+  img_alt: 'MEMBER EXCLUSIVE | FROM THE SEA'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fcdb2ee0-e437-4c67-8fd3-a61e0d721612.jpg?ver=1521039920000'
+  img_alt: 'BRISTOL FREE TRADE SEA SCALLOPS Sustainably caught in the ice-cold waters of the North Atlantic, these plump, tender scallops are removed from their shells by hand and flash frozen to lock in freshness. MEMBER EXCLUSIVE 17.99/LB Reg 19.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b2b90505-473a-4dfc-a3e2-d406e632599f.jpg?ver=1521039920000'
+  img_alt: 'WHAT&#39;S NEW | AT BALDUCCI&#39;S'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/terms_and_conditions?utm_source=weeklyemail&utm_medium=email&utm_campaign=031618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9c153c89-0b95-4196-9b51-b20796f14364.jpg?ver=1521039913000'
+  img_alt: 'Updated Rewards Program Terms & Conditions We&#39;re updated our Terms & Conditions for Rewards Program members. VIEW HERE'
+
+
+
+
+
+
+
