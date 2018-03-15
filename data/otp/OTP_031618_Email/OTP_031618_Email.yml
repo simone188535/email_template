@@ -1,0 +1,137 @@
+title: 'ANNIVERSARY SALE! &#1F388 Get Outdoor Items for Less.'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_05.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_06.jpg"
+outdoor_img_alt: "Check Out Our New Ad!"
+outdoor_img_link: "http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=discount_home_decor&utm_content=outdoor_superstore"
+
+preheader_text: 'Huge sale savings all weekend long'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_09.jpg'
+  image_alt: 'ANNIVERSARY Sale SALE GOING ON NOW THROUGH 3/25'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=anniversary_sale_through_3-25'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_12.jpg'
+  image_alt: 'HUGE SAVINGS ALL WEEKEND LONG SHOP TONIGHT UNTIL 9, SATURDAY 8-9 OR SUNDAY 10-7 VIEW AD 6.99 Sale Indoor/Outdoor Accent Pillows 14.99 Sale Deluxe Tufted Chair Cushion 18&#34; x 18&#34; 24.99 Sale Deluxe Tufted Settee Cushion 18&#34; x 44&#34; Large selection. UP TO $39.99 AT OTHER STORES'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=huge_savings_all_weekend'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_15.jpg'
+  image_alt: 'CUSHIONS GALORE! YOUR OUTDOOR SUPERSTORE'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=cushions_galore'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_18.jpg'
+  image_first_alt: '17.99 Sale Bench Cushion 18&#34; x 48&#34; UP TO $29.99 AT OTHER STORES'
+  image_first_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=bench_cushions'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_19.jpg'
+  image_second_alt: '17.99 Sale Chair Cushion 21&#34; x 42&#34; UP TO $49.99 AT OTHER STORES'
+  image_second_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=chair_cushions'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_22.jpg'
+  image_alt: '39.99 Sale 2pc Deep Seat Cushions 24&#34; x 24&#34;. Assorted. UP TO $59.99 AT OTHER STORES'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=deep_seat_cushions'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_25.jpg'
+  image_alt: 'EVERY PLANTER STYLE & SELECTION'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=planters'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_28.jpg'
+  image_first_alt: 'MADE IN THE USA 16.9&#34; 12.2&#34; 14.6&#34; 8.3&#34; 9.99 Sale Red Clay Pottery 14.6&#34; Additional sizes available. UP TO $19.99 AT OTHER STORES $14.99 16.9 | $6.99 12.2&#34; | $2.99 8.3&#34;'
+  image_first_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=red_clay_pottery'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_29.jpg'
+  image_second_alt: 'CLOSEOUT NEW STYLE 23&#34; - 24&#34; 20&#34; - 23&#34; 15&#34; - 17&#34; 29.99 Sale Lightweight Planters 23&#34; to 24&#34; Select group. UP TO $49.99 AT OTHER STORES $19.99 20&#34; to 23&#34; | $14.99 15&#34; to 17&#34;'
+  image_second_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=lightweight_planters'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_32.jpg'
+  image_alt: 'OUR PATIO SETS WON&#39;T LAST LONG! COMBINED PRICE 199.97 Sale What&#39;s Shown $64.99 Sale 66&#34; x 36&#34; Table | $24.75 Sale Stack Chair | $19.99 Sale 7.5&#39; Market Umbrella | $15.99 Sale Umbrella Base UP TO $299.99 AT OTHER STORES'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=patio_sets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_35.jpg'
+  image_alt: '299.99 Sale 4pc Hampton All-Weather Patio Set Includes: 2 chairs, settee, glass inlaid coffee table. UP TO $499.99 AT OTHER STORES'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=hampton_patio_sets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_38.jpg'
+  image_alt: '299.99 Sale 3pc Sierra All-Weather Patio Set Includes cushions. UP TO $419.99 AT OTHER STORES MORE PATIO SETS ON SALE!'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=sierra_patio_sets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_41.jpg'
+  image_alt: 'TRUCKLOAD RUG EVENT! THE HOME STORE WITH MORE! 39.99 Sale 5&#39; x 7&#39; Rugs Woven, printed, tapestry and indoor & outdoor. UP TO $149.99 AT OTHER STORES'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=truckload_rug_event'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_44.jpg'
+  image_alt: '20% OFF ACCENT FURNITURE • LAMPS • FRAMED & CANVAS ART • BATH RUGS • LANTERNS • CANDLE HOLDERS • CANDLE JARS • PHOTO FRAMES • OPEN STOCK DINNERWARE • MELAMINE DINNER & SERVEWARE • GLASS STORAGE • TRAVEL MUGS • PET BEDS • PET CRATES • PET TOYS • WINDCHIMES & MORE!'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=20off_accentfurniture_lamps_framed_art'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_47.jpg'
+  image_alt: '25% OFF OPEN STOCK SHEETS • BARSTOOLS • CARPET RUNNERS • SCATTER RUGS'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=25off_sheets_barstools_runners_rugs'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_50.jpg'
+  image_alt: 'HUGE SAVINGS ACROSS THE STORE ALL FLORAL BUSHES ON SALE VIEW AD'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=view_ad'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_53.jpg'
+  image_alt: '25% OFF EASTER BASKETS & DÉCOR HOP IN'
+  image_link: 'https://oldtimepottery.com/homestore#easter&utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=25off_easter_baskets_decor'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_56.jpg'
+  image_alt: 'CLEARANCE SAVINGS 30% OFF! Search for yellow tags to save more!'
+  image_link: 'http://oldtimepottery.com/yellow-tag#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=30off_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_031618_59.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=get_inspired'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=otp_store_locations&utm_content=locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=old_time_pottery_home_store_with_more&utm_content=otp_gift_cards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/#utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=discount_home_decor&utm_content=update_profile'
+
+socialnav:
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery1?utm_source=otp_weekly03_16&utm_medium=email&utm_campaign=anniversary_sale_going_on_now&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"
