@@ -1,0 +1,143 @@
+title: 'We need to talk about your holiday plans.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dbde55bc-62de-4292-84ba-ad8c26174f74.jpg?ver=1519917884000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e72ef4e-6eac-468c-9664-c11606f53fb4.jpg?ver=1521472757000'
+  img_alt: 'SPRING CELEBRATIONS Fresh recipes, grab-and-go favorites and full catering options make it easy to plan the perfect Passover or Easter.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a021b78d-ba29-480b-8558-b2ea7096fa16.jpg?ver=1521472757000'
+  img_alt: 'THE PERFECT PASSOVER'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/aab4d694-d0ec-4d2d-adbb-efeb296e7f66.jpg?ver=1521472757000'
+  img_alt: 'ORGANIC SCOTTISH SALMON FILLET'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dc6aae5a-ab57-474a-a17b-9b3108ddd71c.jpg?ver=1521472758000'
+  img_alt: 'POTATO LATKES Made with egg, onion and matzoh, and fried in 100% canola oil, our latkes are a tasty tradition.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ee1255d6-f9f8-42cb-87a4-e32c4a4eaef4.jpg?ver=1521472758000'
+  img_alt: 'ABSOLUTELY GLUTEN FREE MACAROONS These classic treats are available in Toasted Coconut or Chocolate flavors.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/854c28a2-242a-4e9e-beb3-4f1475fb78ca.jpg?ver=1521472758000'
+  img_alt: 'EASTER & PASSOVER CATERING'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/316b7a7b-203d-4629-9e7a-64aaa0a4562b.jpg?ver=1521472758000'
+  img_alt: 'Host a memorable Easter Brunch or Passover Seder with our Chef Prepared catering. Let us help you create an unforgettable meal, so you have more time to share special moments.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering/easter?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dc766af7-2867-41a8-b2e0-04f61518d7e2.jpg?ver=1521472758000'
+  img_alt: 'VIEW EASTER MENU'
+  url_2: 'http://www.balduccis.com/catering/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2b6c84b7-16cc-4701-8155-a59e7caf87ea.jpg?ver=1521472758000'
+  img_alt_2: 'VIEW PASSOVER MENU'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0b5f5366-9601-4905-8a88-9c507a061c3c.jpg?ver=1521472758000'
+  img_alt: 'MEMBER EXCLUSIVE | CLASSIC EASTER HAM'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/58f8ec8e-48f3-4510-a709-8d94e090edf3.jpg?ver=1521472759000'
+  img_alt: 'LEIDY&#39;S ALL NATURAL BONE-IN SPIRAL HAM MEMBER EXCLUSIVE 5.99/LB Reg 6.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/sauces?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0d0e126c-a592-4fa2-88c3-658010f4d360.jpg?ver=1521472758000'
+  img_alt: 'MOUTHWATERING HAM GLAZES: CREATE YOUR FAVORITE FLAVOR It&#39;s easy! Just combine ingredients, brush ham with the mixture and let cook just until glazed, approximately 5 minutes.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/sauces??utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5c3e3929-868e-43ac-8f18-38ca0687722e.jpg?ver=1521472759000'
+  img_alt: 'RECIPE BALSAMIC & APRICOT GLAZE Ingredients: • 3/4 cup balsamic vinaigrette • Zest of one orange • 1 tablespoon Dijon mustard • 1/4 cup chopped parsley • 1/3-1/2 cup apricot jam or preserves • Salt, to taste'
+  url_2: 'http://www.balduccis.com/recipes/sauces??utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/00a61a71-4521-433f-942d-9df1b1b98813.jpg?ver=1521472759000'
+  img_alt_2: 'RECIPE: BROWN SUGAR GLAZE Ingredients: • 1 1/2 cups brown sugar • 1 1/2 cups dry mustard • 3/4 tsp ground cloves • 1 tsp chopped organic fresh thyme'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/518e47da-eac9-43e0-8b4f-0b6290cb11d8.jpg?ver=1521472759000'
+  img_alt: 'A TOUCH OF SPRING | CHEF PREPARED'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7ff3f125-3717-4618-a695-91c936be60a9.jpg?ver=1521472759000'
+  img_alt: 'SESAME GINGER SKEWERED SHRIMP'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6b0bb727-7328-441f-bdf0-ba4455413248.jpg?ver=1521472759000'
+  img_alt_2: 'HERBED RICE SALAD'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/38c5ccfe-c010-411e-a27b-f890e63f75bc.jpg?ver=1521472759000'
+  img_alt: 'THE ULTIMATE CHEESE TASTING'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7d1de532-638c-4b65-aabe-eddf9f835a28.jpg?ver=1521472760000'
+  img_alt: 'TAKE A JOURNEY TO CHEESETOPIA Experience the ultimate gourmet cheese tasting with demonstrations, tips from professionals and more! SATURDAY, MARCH 24th • SCARSDALE & RYE BROOK, NY • GREENWICH & WESTPORT, CT Cheese Tastings………..2-5pm MORE INFO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cbbd3f25-be74-402b-8e49-bb77da8d3983.jpg?ver=1521472760000'
+  img_alt: 'WHAT&#39;S NEW | AT BALDUCCI&#39;S'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=032318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c2c2d989-cc49-474e-84ed-04d63ca89a8c.jpg?ver=1521472760000'
+  img_alt: 'Join Us for a Wine & Food Tasting Event SATURDAY MARCH 31st Meet professional winemakers and fellow wine lovers as we share recommendations, stories and of course, sip wine! • BETHESDA, MD • ALEXANDRIA & MCLEAN, VA'
+
+
+
+
+
+
