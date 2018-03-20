@@ -1,0 +1,173 @@
+title: 'We need to talk about your holiday plans.'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/389a12c0-3a19-4b29-a1b0-12f32b189258.jpg?ver=1509382949000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e5a09551-0237-4388-a406-bc04f7a04f2e.jpg?ver=1509382950000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8cca0489-8883-4c47-aefa-04cc14ca5a6a.jpg?ver=1509382950000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/933bf00a-714c-441c-9dce-edd8a4fcbaf1.jpg?ver=1509382950000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f0270eea-a668-4d5f-b5e0-1cbc757ceab8.jpg?ver=1521555417000"
+  img_alt: "SO MUCH TO CELEBRATE Passover and Easter are right around the corner, and we make it easy to plan the perfect meal!"
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5c9c0911-7570-49e5-a4fb-85b3de11fd5f.jpg?ver=1521555417000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/456b9e2f-1469-4614-99b3-436a4f8903a4.jpg?ver=1521555418000"
+  img_alt: "SAVE $2 lb. CHAIRMAN&#39;S RESERVE BONELESS PORK LOIN CHOP members pay 3.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3caf9976-16f2-4012-bca8-fe838a1cb7e5.jpg?ver=1521555418000"
+  img_alt_2: "SAVE $1 lb. FRESH IDAHO TROUT FILLET members pay 11.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1f6c185e-dca1-463e-86ae-7eb2b3fc3f69.jpg?ver=1521555418000"
+  img_alt: "SAVE $2 lb. FRESH GREEN ASPARAGUS members pay 2.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bc9210db-3941-4f4f-b5a9-563c76ecc5d1.jpg?ver=1521555418000"
+  img_alt_2: "SAVE $2.98 on 2 DRISCOLL&#39;S SWEET STRAWBERRIES 16 OZ. Members pay 2/9."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/135e269f-e591-40dd-a3fa-9dceb4ea3f8c.jpg?ver=1521555418000"
+  img_alt: "View More Specials and Make a List VIEW HOBOKEN WEEKLY SALES"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/92223427-7c45-4ac2-aae0-d7b4b577aec9.jpg?ver=1521555418000"
+  img_alt: "PERFECT PASSOVER HOLIDAY FAVORITES"
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/88c22c72-1d77-4fa7-aa10-1325717f104e.jpg?ver=1521555418000"
+  img_alt: "BRAISED BRISKET OF BEEF VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/braised-brisket-of-beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ac8f88b2-e28d-4f8f-a397-c411b663449a.jpg?ver=1521555419000"
+  img_alt: "LILLY&#39;S MACAROONS 12 OZ. Members pay 11.99 EA."
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7410ac14-ac6e-4580-93fc-f5a2284967e3.jpg?ver=1521555419000"
+  img_alt_2: "WHOLE CARP members pay 3.99 LB."
+  url_2: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0ca25631-80c6-4721-996a-9ec8bfd0d51f.jpg?ver=1521555419000"
+  img_alt: "HOLIDAY CATERING EASTER & PASSOVER FAVORITES"
+  url: "https://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/178e1745-6ced-48b5-ba12-acf8f51cd817.jpg?ver=1521555419000"
+  img_alt: "Host a memorable PASSOVER SEDER with our Chef Prepared catering! And, there&#39;s still time to order for EASTER SUNDAY! We&#39;ll do the cooking, so you&#39;ll have more time for friends and family."
+  url: "https://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8f48ff1c-34c6-4a93-9fdd-783403e898b5.jpg?ver=1521555419000"
+  img_alt: "Homestyle Matzo Balls"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3d0d2219-bcc6-40d7-a713-0a1051e4cbd4.jpg?ver=1521555420000"
+  img_alt_2: "Rainbow Carrots with Snap Peas & Fresh Herbs"
+  url_2: "https://kingsfoodmarkets.com/catering-by-kings/easter?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c428d28b-5246-4d79-b259-80998c73ef5c.jpg?ver=1521555419000"
+  img_alt: "VIEW PASSOVER CATERING"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/92fed314-2e79-405e-b5bf-a212c71c1706.jpg?ver=1521555420000"
+  img_alt_2: "VIEW EASTER CATERING"
+  url_2: "https://kingsfoodmarkets.com/catering-by-kings/easter?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/173e6c0a-c859-41e4-8b94-e9488277188f.jpg?ver=1521555420000"
+  img_alt: "EASTER PICKS"
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fd1c9abd-07be-46e9-a151-49667437d76a.jpg?ver=1521555420000"
+  img_alt: "A HOLIDAY HAM Let Kings help you celebrate Easter with the best selection of all-natural hams that are tender and juicy! ANTIBIOTIC FREE No Added Nitrates or Nitrites SPIRAL SLICED HAMS, BONE-IN • Leidy's • McKenzie of Vermont • Niman Ranch BONELESS HAMS • Leidy's •McKenzie of Vermont"
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7a4689f0-3b82-47e2-9cae-528d083c11f8.jpg?ver=1521555420000"
+  img_alt: "ORANGE HONEY GLAZE FOR HAM VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/orange-honey-glaze?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a5540647-0678-423d-998a-10758c5e7f89.jpg?ver=1521555420000"
+  img_alt: "SPRING BLOOMS Fresh flowers and hand-arranged seasonal bouquets add a beautiful pop of color to your holiday table."
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c5d7c4d3-b233-4c6d-b1ac-c351ccb87fa1.jpg?ver=1521555421000"
+  img_alt: "WHAT&#39;S NEW IN STORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/38d4ccc6-f26b-4fa7-bd6f-0a7b6add4d77.jpg?ver=1521555421000"
+  img_alt: "READY-TO-COOK MEALS Our steamer bag meals let you make a homemade meal in minutes. GRILL, BAKE or STEAM wholesome, delicious meals cooked with steam power. LEARN MORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0323_KF_WeeklyEmail"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
