@@ -1,0 +1,60 @@
+title: 'Account Reminder'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0321_KNG_MyKINGS_AccountReminder'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0321_KNG_MyKINGS_AccountReminder'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0321_KNG_MyKINGS_AccountReminder'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0321_KNG_MyKINGS_AccountReminder'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0321_KNG_MyKINGS_AccountReminder'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0321_KNG_MyKINGS_AccountReminder"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/963b7b0e-ec1e-445c-b9ce-17a157d47bea.jpg?ver=1481912589000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ab7d45fd-6956-402a-91d7-828bedf4ff4c.jpg?ver=1481912589000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7b176d03-2d4c-4ab2-b9fc-3d1a9556f137.jpg?ver=1481912589000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d9cfd47d-f0d5-4869-b808-394cd4f49277.jpg?ver=1481912589000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7cf1cca2-3c2a-4d73-afe0-f19e89932463.jpg?ver=1521659734000"
+  img_alt: "KINGS REWARDS"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0321_KNG_MyKINGS_AccountReminder"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/24db678a-3842-4230-a8b0-361c9991b1cf.jpg?ver=1521659735000"
+  img_alt: "Account Reminder! Kings Inspiration Circle Rewards Program and points will end MARCH 31, 2018 Rewards Dollars will remain on your card for 30 days from issuance YOU ARE ENROLLED IN OUR myKINGS extra! PROGRAM As a member, you will receive future emails with additional offers loaded to your account."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0321_KNG_MyKINGS_AccountReminder"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de1fd631-6665-4cd7-988b-0cd665019597.jpg?ver=1521659735000"
+  img_alt: "myKINGS extra! Smart Savings & More"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0321_KNG_MyKINGS_AccountReminder"
