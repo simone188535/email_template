@@ -1,0 +1,137 @@
+title: 'Create a perfect Passover and an elegant Easter.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dbde55bc-62de-4292-84ba-ad8c26174f74.jpg?ver=1519917884000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://vimeo.com/balduccis/brisket?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c87a87f8-189b-4f13-ba2d-daf82d12e54b.jpg?ver=1522239750000'
+  img_alt: 'PASSOVER PERFECTION & EASTER ELEGANCE Celebrate with delicious meal ideas, unique treats, and seasonal inspiration. Recipe Video GREMOLATA RUBBED BRISKET WATCH VIDEO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/484e4b4f-f472-45d7-8953-e9ce3cf88a42.jpg?ver=1522239750000'
+  img_alt: 'MEMBER EXCLUSIVE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9f4c2cf7-8590-461d-9dc5-d3ce71e2fae3.jpg?ver=1522239750000'
+  img_alt: 'CERTIFIED ANGUS USDA PRIME RIB ROAST STEAKS MEMBER EXCLUSIVE 23.99/LB Reg 25.99 HOW BIG OF A ROAST DO I NEED? Plan on a pound for every two guests, and a half-pound per two children. Add an extra pound just in case; leftovers are great future meals. HOW DO I COOK MY ROAST? Cook for 15 minutes at a very high heat (450°F) to sear the outer surface. Then, reduce the heat to 325°F and cook 11 to 13 minutes per pound.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3d11a656-8b50-480a-b0c9-57505d7f41f5.jpg?ver=1522239750000'
+  img_alt: 'SEDER SENSATIONS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e05a93da-96d2-453f-b6c8-97d6703426f2.jpg?ver=1522239751000'
+  img_alt: 'REBECCA & ROSE FRUIT SLICES These all-natural, gluten-free and Kosher candies are a perfect Passover treat.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/side_dishes?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/83e82d21-822e-42c3-88ec-dad97a6d0fea.jpg?ver=1522239751000'
+  img_alt: 'Create SWEET POTATO LATKES WITH BALDUCCI&#39;S COMPOTE AND SOUR CREAM VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3b28cb56-fae0-4336-8133-379dcc5f5449.jpg?ver=1522239751000'
+  img_alt: 'A CUSTOM DINNER | HOLIDAY CATERING'
+
+- type: 'image-3-columns'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9faa5332-a217-4380-904d-7d56bd833bcb.jpg?ver=1522239751000'
+  img_alt: 'Choose a Custom Meal for 6 Host a memorable Easter brunch or Passover Seder with easy catering ideas. Choose your combo: • 1 starter • 1 entrée • 2 sides • 2 extras • 1 dessert'
+  url_2: 'http://www.balduccis.com/catering/easter?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a086c35-acd3-4187-bdca-db3dd75518e6.jpg?ver=1522239751000'
+  img_alt_2: 'VIEW EASTER MENU'
+  url_3: 'http://www.balduccis.com/catering/passover?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img_3: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f598a836-5147-4f09-9b5a-955cde414fd0.jpg?ver=1522239751000'
+  img_alt_3: 'VIEW PASSOVER MENU'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2e1f84d0-37ff-4829-b9fa-981d1d7c18f8.jpg?ver=1522239751000'
+  img_alt: 'EASTER MADE EASY | CHEF PREPARED'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f1005720-30eb-4bfd-9e9a-20723830569b.jpg?ver=1522239752000'
+  img_alt: 'ANTIOXIDANT SALAD'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b3000527-566e-4b69-8362-147507b647c2.jpg?ver=1522239752000'
+  img_alt_2: 'GRILLED CHICKEN & ARTICHOKE SALAD'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6865b521-7780-4e00-9b95-5ea2b49717f8.jpg?ver=1522239752000'
+  img_alt: 'HOT CROSSED BUNS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e41ecfdb-bc93-43dd-ad3d-d6a8a68cdb42.jpg?ver=1522239752000'
+  img_alt: 'ELEGANT EASTER CANDY | FILL YOUR BASKET'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a77f4045-95ea-4e88-a45b-d88a6f14f9d2.jpg?ver=1522239752000'
+  img_alt: 'SUGARFINA SUN&#39;S OUT, BUNS OUT CANDY CUBE Fluffy strawberry marshmallow gummies in the most adorable pink packaging.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8d28de4d-ca24-44e7-97e9-9d5d364177a5.jpg?ver=1522239753000'
+  img_alt: 'BALDUCCI&#39;S CARAMEL ROBIN EGGS TUB Creamy caramel smothered in chocolate and coated with a beautiful blue candy shell.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/376816e2-2f60-4098-bb88-c4ab3aac9e37.jpg?ver=1522239753000'
+  img_alt: 'NEW! DYLAN&#39;S CANDY BAR EASTER SATIN BAG A beautiful silk bag filled with speckled eggs almost too pretty to eat.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2bed1aa2-41d9-4985-b0fb-5dca58ce6558.jpg?ver=1522241161000'
+  img_alt: 'ENJOU FLOPPY EAR BUNNY An adorable, hand-crafted chocolate bunny made from a quarter-pound of rich, decadent chocolate.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0daf61a6-ff51-429d-a8c3-be43f473e033.jpg?ver=1522239753000'
+  img_alt: 'HOLIDAY PAIRINGS | WINE EVENT'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=033018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/807716cd-916e-4a23-8f7e-c284c560648b.jpg?ver=1522239753000'
+  img_alt: 'Spring Wine Event & Food Tasting Event Join us Saturday, March 31st at Balducci&#39;s Alexandria, Bethesda and McLean stores for an elegant wine and food tasting. Food Samplings….12 noon-5pm Wine Samplings……..2-5pm MORE INFO'
