@@ -1,0 +1,154 @@
+#TITLE
+title: 'New Chicco® Car Seat'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS29_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS29_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $29 Get Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS29_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS29_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS49_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS49_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "http://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS49_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'New Chicco® Car Seat'
+preheader_link: '#'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'a NEW fit has arrived! The MyFit™ Harness+Booster™ from Chicco® offers extended 5-point harness security with built in transition to a belt-positioning booster. Chicco® MyFit™ shop now'
+  img_url: 'images/bbB_030218_ChiccoMyFit_03.jpg'
+
+- type: 'image-2-columns'
+  img_link: '#'
+  img_alt: 'MyFit™ in Notte MyFit™ Harness+Booster™ 199.99 FREE SHIPPING 4-position recline 9-position headrest Premium LATCH Attachment LockSure™ Vehicle Belt-Tightening System '
+  img_url: 'images/bbB_030218_ChiccoMyFit_04.jpg'
+  img_2_link: '#'
+  img_2_alt: 'MyFit™ LE in Venture MyFit™ LE Harness+Booster™ 249.99 FREE SHIPPING All the features of MyFit™ PLUS! SuperCinch® LATCH tightener Bonus kid storage console Premium fabrics & mesh vents'
+  img_2_url: 'images/bbB_030218_ChiccoMyFit_05.jpg'
+
+- type: 'image-2-columns'
+  img_link: '#'
+  img_alt: 'harness mode 25-65 lbs Keeps your child secure with a 5-point harness'
+  img_url: 'images/bbB_030218_ChiccoMyFit_06.jpg'
+  img_2_link: '#'
+  img_2_alt: 'booster mode 40-100 lbs Positions the vehicle seat belt for older children'
+  img_2_url: 'images/bbB_030218_ChiccoMyFit_07.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'rest assured MyFit™ offers 4 recline positions, 9 headrest adjustments, and 2 layers of side impact protection. '
+  img_url: 'images/bbB_030218_ChiccoMyFit_08.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'Recline Sure® Adjusts to imporove comort & vehicle fit LockSure™ Tightening system for installation with seat belt SuperCinch® One-pull tightener for installtion with LATCH'
+  img_url: 'images/bbB_030218_ChiccoMyFit_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/chicco/436/4294967217-4294965885-4294966222-32592/1-48'
+  img_alt: 'shop all Chicco car seats® '
+  img_url: 'images/bbB_030218_ChiccoMyFit_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States. '
+  img_url: 'images/bbB_030218_ChiccoMyFit_11.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/chicco/436'
+  img_alt: 'more to shop Chicco®'
+  img_url: 'images/bbB_030218_ChiccoMyFit_12.jpg'
+
+- type: 'image-3-columns'
+  img_link: 'https://www.buybuybaby.com/store/brand/chicco/436/4294967217-4294965885-4294966222-32571/1-48'
+  img_alt: 'strollers'
+  img_url: 'images/bbB_030218_ChiccoMyFit_13.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/brand/chicco/436/4294967217-4294965885-4294966222-30509/1-48'
+  img_2_alt: 'playards '
+  img_2_url: 'images/bbB_030218_ChiccoMyFit_14.jpg'
+  img_3_link: 'https://www.buybuybaby.com/store/brand/chicco/436/4294967217-4294965885-4294966222-30516/1-48'
+  img_3_alt: 'high chairs'
+  img_3_url: 'images/bbB_030218_ChiccoMyFit_15.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/brand/chicco/436/4294967217-4294965885-4294966222-30512/1-48'
+  img_alt: 'bottles & cups for every stage chicco® shop now'
+  img_url: 'images/bbB_030218_ChiccoMyFit_16.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/static/strolleradvisor'
+  img_alt: 'find the perfect stroller in 3 easy steps start finder'
+  img_url: 'images/bbB_030218_ChiccoMyFit_17.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/32689/'
+  img_alt: 'check out our registry favorites shop now'
+  img_url: 'images/bbB_030218_ChiccoMyFit_18.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/32689/'
+  img_alt: 'google play'
+  img_url: 'images/bbB_emailfooter_01.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'app store'
+  img_2_url: 'images/bbB_emailfooter_02.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailfooter_03.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailfooter_04.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailfooter_05.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailfooter_06.jpg"
+  alt: "Pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailfooter_07.jpg"
+  alt: "Instagram logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailfooter_08.jpg"
+  alt: "YouTube logo"
+- link: ""
+  img: "images/bbB_emailfooter_09.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'

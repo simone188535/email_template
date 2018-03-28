@@ -1,0 +1,127 @@
+title: 'For a romantic weeknight at home: Valentine&#39;s Catering'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5669a548-88ad-40cf-b086-f228ecc69c5f.jpg?ver=1518121090000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1fd7b479-f535-4554-8894-b78976000cc7.jpg?ver=1518121090000'
+  img_alt: 'SPEAK THEIR LOVE LANGUAGE: FOOD'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fb223b7d-bddf-46af-a039-c57c50ce8d52.jpg?ver=1518121090000'
+  img_alt: 'Create SCALLOPS WITH PUREED PARSNIPS & BLACK TRUFFLES VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/valentines?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5de31293-b838-4854-99c1-0f65b7f461f4.jpg?ver=1518121090000'
+  img_alt: 'VALENTINE&#39;S CATERING | TABLE FOR TWO THE MOST ROMANTIC RESERVATION IN TOWN IS AT HOME Our Dinner for Two Package includes a Chef Prepared starter, entrée, 2 sides and dessert. ORDER NOW'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/valentines?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/183cc75d-be77-4cb5-8782-dcb094761fdd.jpg?ver=1518121091000'
+  img_alt: 'VALENTINE&#39;S CATERING | TABLE FOR TWO THE MOST ROMANTIC RESERVATION IN TOWN IS AT HOME Our Dinner for Two Package includes a Chef Prepared starter, entrée, 2 sides and dessert. ORDER NOW'
+
+- type: 'image'
+  url: 'https://delivery.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5efb7c81-90b1-42a9-bbff-cfa51c6a6725.jpg?ver=1518121091000'
+  img_alt: 'DELICIOUS DELIVERED | ORDER ONLINE FREE DELIVERY ON YOUR FIRST ORDER LOVE ON WHEELS Flowers, candy and all the ingredients for a delicious romantic meal, delivered fresh to your door! Powered by instacart SHOP NOW'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b58a1a3a-ffe6-403c-8961-79179478f3ce.jpg?ver=1518121091000'
+  img_alt: 'VALENTINE&#39;S GOURMET | CHEF PREPARED'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/326cdb53-2765-4e7c-b33f-a6847270ef34.jpg?ver=1518121092000'
+  img_alt: 'BEEF TENDERLOIN AU POIVRE'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e466fc57-cec6-4e09-96b7-09eef4fa5252.jpg?ver=1518121092000'
+  img_alt_2: 'TRUFFLED POTATOES WITH SAUTEED MUSHROOMS MEMBER EXCLUSIVE  7.99/LB Reg. 8.99'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3a1587c9-b3ac-454d-bee8-89a84b334e52.jpg?ver=1518121092000'
+  img_alt: 'RISOTTO MILANESE'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/79a5360b-6311-40f6-916c-3bf19c5c3550.jpg?ver=1518121092000'
+  img_alt_2: 'GRILLED ASPARAGUS WITH ROASTED TOMATOES & GOAT CHEESE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/32383e01-8028-4a69-b6a0-4d29e6a3e357.jpg?ver=1518121093000'
+  img_alt: 'IT&#39;S TRUFFLE TIME SELEZIONE BLACK TRUFFLE HONEY Perfect paired with cheese, glazed on meats, or drizzled over ice cream - this truffle honey is versatile and delicious! MEMBER EXCLUSIVE  9.99/EA Reg 12.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1640d09a-27ff-42f4-90f3-44cefc55cc93.jpg?ver=1518121093000'
+  img_alt: 'MOLITERNO AL TARTUFU Sharp and beautifully aged, this sheep and goat&#39;s milk cheese is injected with black truffles for an irresistible flavor. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c230eaad-6d1e-48ed-8b63-08b30a8cadd8.jpg?ver=1518121093000'
+  img_alt: 'LOVE IS IN THE AIR | WHAT&#39;S TRENDING FRESH FLOWERS + SWEET TREATS Celebrate all that&#39;s sweet with fresh floral bouquets and decadent chocolate gift ideas for your Valentine. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0f90af6f-3f49-4e54-8428-dc27b25f0c22.jpg?ver=1518121094000'
+  img_alt: 'GIFT BASKETS Better than a box of chocolates! Send your love a Gift Basket this year, filled with decadent chocolates and exquisite treats that are sure to delight! ORDER NOW'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=020918_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bceb3c91-c999-4b9f-91cb-7573401adcf4.jpg?ver=1518121094000'
+  img_alt: 'WHAT&#39;S NEW | AT BALDUCCI&#39;S Valentine&#39;s Wine & Food Tasting Event  THIS SATURDAY! FEBRUARY 10TH BETHESDA, MD ALEXANDRIA & MCLEAN, VA Food Samplings…….12 noon-5pm Wine Samplings…………….2-5pm MORE INFO >'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
