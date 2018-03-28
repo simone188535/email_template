@@ -1,0 +1,170 @@
+title: 'Easter made easy & Passover perfected!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/389a12c0-3a19-4b29-a1b0-12f32b189258.jpg?ver=1509382949000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e5a09551-0237-4388-a406-bc04f7a04f2e.jpg?ver=1509382950000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8cca0489-8883-4c47-aefa-04cc14ca5a6a.jpg?ver=1509382950000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/933bf00a-714c-441c-9dce-edd8a4fcbaf1.jpg?ver=1509382950000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+# 2
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b0eb263b-8fab-49e7-8737-57d8f63b94a4.jpg?ver=1522248942000"
+  img_alt: "EASTER TREATS & PASSOVER EATS All the ingredients for the perfect holiday feast. Create LEG OF LAMB WITH CITRUS AND ROSEMARY VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/kings-semi-boneless-leg-of-lamb-with-citrus-and-rosemary?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+# 3
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eb269445-8110-4f6d-934c-f227c1de14ba.jpg?ver=1522248942000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+# 4, 5
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9c8b4bc1-021f-4ea1-a70c-e96c169d5164.jpg?ver=1522248942000"
+  img_alt: "SAVE $1 FRESH NORWEGIAN SALMON PORTIONS 2 PACK, 12 OZ. members 17.98 EA."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cf9f731a-8ab1-4df9-a1cd-3e10e83f1abe.jpg?ver=1522248942000"
+  img_alt_2: "SAVE $1 lb. PERDUE BONELESS, SKINLESS CHICKEN BREASTS FAMILY PACK, 3 LB. OR MORE members pay 3.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+# 6, 7
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/aee11d6d-3210-40dc-85f2-aa701a0c0ea1.jpg?ver=1522248943000"
+  img_alt: "SAVE $1 CHEF INSPIRED TRI-COLORED SALAD 8 OZ. members pay 6.99"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b5929189-99c1-4743-8dda-75ef6ef3b808.jpg?ver=1522248943000"
+  img_alt_2: "SAVE $1 RED OR GREEN SEEDLESS GRAPES members 2.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+# 8
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/69b871c9-7cbd-42eb-8475-9763ad95f7ee.jpg?ver=1522248943000"
+  img_alt: "View More Specials and Make a List VIEW HOBOKEN WEEKLY SALES"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+# 9
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5127f83c-700a-4331-a15d-35891f46f567.jpg?ver=1522248943000"
+  img_alt: "EASTER MADE EASY EASTER IS THIS SUNDAY"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+# 10
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5a478e79-c062-498b-b057-1389d4d614bc.jpg?ver=1522248943000"
+  img_alt: "GRAB & GO How do you make last-minute Easter dinner effortless? Pick up CHEF PREPARED and ready-to-go STARTERS, ENTRE&Eacute;S, SIDES and DESSERTS. "
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+# 11 and 12
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/955219e4-cd87-4aa1-b117-425d6ca79c1d.jpg?ver=1522248943000"
+  img_alt: "KINGS CHEF INSPIRED ROASTED FINGERLING POTATOES"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cb0a112c-36c3-42d9-b318-5b67d33b6597.jpg?ver=1522248943000"
+  img_alt_2: "TROPICAL FRUIT AND KALE SALAD WITH PINEAPPLE VINAIGRETTE"
+  url_2: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+# 13
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2b31eb2c-8deb-4da7-9fc5-8c4d2ba5aa2c.jpg?ver=1522248944000"
+  img_alt: "EASTER TREATS EVERYBUNNY LOVES &bull; Enjou Chocolate Bunny &bull; Kings Gourmet Jelly Beans &bull; Smashmallow&trade; Gourmet Marshmallows"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+
+# 14
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dcdd9625-41a6-467a-8f0c-dd7d4dfef0aa.jpg?ver=1522248943000"
+  img_alt: "SPRING BLOOMS Add a pop of color to your holiday table with a fragrant bouquet."
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+
+# 15
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7d6e5caa-59f1-4df6-9a65-5d72821e81ce.jpg?ver=1522248943000"
+  img_alt: "FRESHLY BASKED SPRING DESSERTS"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+
+# 16 and 17
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e2a80cf4-226a-46e5-8279-d252a833daab.jpg?ver=1522248944000"
+  img_alt: "KEY LIME PIE"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6b21ff8d-2f21-4a11-8996-e26bfcd9d261.jpg?ver=1522248944000"
+  img_alt_2: "FRESH PATISSERIE FRESH FRUIT TART"
+  url_2: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+
+# 18
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6626bc36-f1bd-4688-a523-19a91c4889bc.jpg?ver=1522248944000"
+  img_alt: "VIEW MORE"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+# 19
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/80309dad-fcc2-4fc9-8927-5f2e79c5a2ef.jpg?ver=1522248944000"
+  img_alt: "WHAT&rsquo;S NEW IN STORE"
+  url: "https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+# 20
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/33fb5750-a10b-4278-952f-2227a4746fb4.jpg?ver=1522248944000"
+  img_alt: "HOLIDAY HOURS KINGS is open 7AM-8PM EASTER SUNDAY for all your last minute needs. FIND A STORE"
+  url: "https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+# 21
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/286e200a-ec6a-4711-9fac-fac91030e4d3.jpg?ver=1522248944000"
+  img_alt: "barkTHINS&reg; AIRSTREAM TOUR! Visit the barkTHINS&reg; Airstream Trailer for food, fun, free samples and a photo booth! 4/3, 11AM-2PM&hellip;SHORT HILLS 4/4, 11AM-2PM&hellip;MORRISTOWN 4/5, 11AM-2PM&hellip;BOONTON FIND A STORE"
+  url: "https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+# 22
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0dddfa31-840f-49bc-a28f-409251b8ea23.jpg?ver=1522248944000"
+  img_alt: "READY-TO-COOK MEALS Our steamer bag meals let you make a homemade meal in minutes. GRILL, BAKE, or STEAM wholesome, delicious meals cooked with steam power. LEARN MORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0330_KF_WeeklyEmail"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
