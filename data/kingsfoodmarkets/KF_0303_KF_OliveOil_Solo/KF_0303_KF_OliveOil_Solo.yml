@@ -1,0 +1,74 @@
+title: ''
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_KNG_OliveOil'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e50c4a0d-2cef-4fd7-9ecf-bb81cda647eb.jpg?ver=1505848983000'
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_KNG_OliveOil'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_KNG_OliveOil'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_KNG_OliveOil'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_KNG_OliveOil'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_KNG_OliveOil"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5ea6e040-d0c8-4ba3-b928-e78c592fa7fb.jpg?ver=1508180682000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8576c28a-82bf-4bae-96b4-da6807bf6a22.jpg?ver=1508180683000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/207e8b90-c2a1-4851-8fce-ddc823afd417.jpg?ver=1508180683000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/05c15402-8453-4d0e-a988-e8a01591bd23.jpg?ver=1508180683000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/456190c8-0d35-4c8f-b595-b620868f30e8.jpg?ver=1519763097000"
+  img_alt: "MAKE YOUR OWN"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_KNG_OliveOil"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/441842a0-dcc6-463e-a61a-c40b60be0a5d.jpg?ver=1519763097000"
+  img_alt: "INFUSED OLIVE OILS & BALSAMIC VINEGARS DRESSINGS • MARINADES MIX IT UP Great fir  Salads • Cooking • Marinating * More SM 8.45 oz.  LG 16.9 oz $11.99"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_KNG_OliveOil"
+
+- type: "image-3-columns"
+  img_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6f906b50-f902-48c1-8f7e-57ff444aab34.jpg?ver=1519763097000"
+  img_alt: "Olive Oil STEP 1 CHOOSE YOUR OLIVE OIL Extra Virgin Garlic Infused Lemon Infused"
+  img_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_KNG_OliveOil"
+  img_2_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de7da6c2-631d-4a45-82b3-bedbea98cac7.jpg?ver=1519763097000"
+  img_2_alt: "Balsamic Vinegar STEP 2 CHOOSE YOUR BALSAMIC VINEGAR Traditional White Summer (Peach) Fig"
+  img_2_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_KNG_OliveOil"
+  img_3_url: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b3bdfba8-1ee2-40f0-8f24-acd195de7feb.jpg?ver=1519763097000"
+  img_3_alt: "STEP # ADJUST YOUR RATIO Finally, create your perfect ratio of Oil and Vinegar!"
+  img_3_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_KNG_OliveOil"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/50343a28-b4a1-405a-9574-aacdb3d9597f.jpg?ver=1519763097000"
+  img_alt: "Enjoy Your Own Creation! ACROSS FROM THE SHORT HILLS COOKING STUDIO"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0303_KNG_OliveOil"
+
+

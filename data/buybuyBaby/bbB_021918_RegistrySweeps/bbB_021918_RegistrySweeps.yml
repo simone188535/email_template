@@ -1,0 +1,151 @@
+#TITLE
+title: 'Check out buybuy BABY&#39;s Registry Favorites Giveaway!'
+
+#__DEFAULT_TEMPLATE_HEADERS
+logo_img_url: "images/bbB_emailheader_FS29_01.jpg"
+logo_img_alt: "buybuy Baby Logo"
+logo_img_link: "http://www.buybuybaby.com/store"
+
+freeshipping_img_url: "images/bbB_emailheader_FS29_02.jpg"
+freeshipping_img_alt: "FREE SHIPPING ON ORDERS OVER $29 Get Details "
+freeshipping_img_link: "http://www.buybuybaby.com/store/static/ShippingPolicies"
+
+instore_img_url: "images/bbB_emailheader_FS29_03.jpg"
+instore_img_alt: "IN-STORE PICKUP RESERVE ONLINE PAY IN-STORE Learn More"
+instore_img_link: "http://www.buybuybaby.com/store/static/reserveonline"
+
+babyreg_img_url: "images/bbB_emailheader_FS29_04.jpg"
+babyreg_img_alt: "baby registry logo"
+babyreg_img_link: "http://www.buybuybaby.com/store/page/BabyRegistry"
+
+nav1_url: "images/bbB_emailheader_FS29_05.jpg"
+nav1_alt: "what&#39;s new"
+nav1_link: "https://www.buybuybaby.com/store/category/whats-new/30008/?subCatPlp=true"
+
+nav2_url: "images/bbB_emailheader_FS29_06.jpg"
+nav2_alt: "find a store"
+nav2_link: "https://www.buybuybaby.com/store/selfservice/FindStore"
+
+nav3_url: "images/bbB_emailheader_FS29_07.jpg"
+nav3_alt: "clearance"
+nav3_link: "http://www.buybuybaby.com/store/category/clearance/30010/"
+#END DEFAULT TEMPLATE HEADERS
+
+#__TITLE_AND_LINK
+preheader_text: 'Check out buybuy BABY&#39;s Registry Favorites Giveaway!'
+preheader_link: '#'
+
+#DEFAULT VIEW AS WEBPAGE LINK
+viewaswebpage_text: 'View as a web page'
+viewaswebpage_link: 'Oracle to host web page'
+#END DEFAULT VIEW AS WEBPAGE LINK
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  img_link: 'https://www.facebook.com/buybuyBABY/'
+  img_alt: 'it&#39;s here! Our Registry Favorites Giveaway! Check out the awesome products you could win - PLUS a $100 buybuyBABY® Gift Card! Enter each week for a chance to win the featured prize package, now thru 3/5/2018. comment on Facebook for a chance to win'
+  img_url: 'images/bbB_021918_RegistrySweeps_03.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/joovy-reg-boob-trade-ultra-premium-ppsu-23-piece-gift-set-in-grey/1042154754'
+  img_alt: 'Boob™ Ultra Premium PPSU 23pc Gift Set by Joovy® A geat gift set to effortlessly transition between breast & bottle Amazing baby bottle!!! There are so many bottles on the market and babies can be really picky when it comes to nipples! I love these bottles because of how easy they are to use, and my baby loves them! @OCMOMMYANDME'
+  img_url: 'images/bbB_021918_RegistrySweeps_04.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/joovy-reg-boob-trade-17-piece-glass-bottle-gift-set/1060011817'
+  img_alt: 'Boob™ 17pc Glass Bottle Gift Set by Joovy® Joovy® drawing ends today! Great for transitioning from breast to bottle  I like the Joovy gift set because it comes with a variety of nipple stages and bottle sizes @GLUESTICKS'
+  img_url: 'images/bbB_021918_RegistrySweeps_05.jpg'
+
+- type: 'image'
+  img_link: '#'
+  img_alt: 'registry favorites giveaway Comment on our weekly Facebook posts to be entered for a chance to win the featured prize package and a $100 buybuy BABY® Gift Card! Enter now thru 3/5/2018! Click here for official rules Limit one (1) entry per person/Facebook account per Post/Entry Period.  No purchase nec. 50 U.S. & D.C.  Sweepstakes end at 11:59:59 p.m. ET on each Entry period end date as follows: Joovy® - Entry Period 1 ends 2/19/18; HALO™ - Entry Period 2 ends 2/26/18; Chicco® - Entry Period 3 ends 3/5/18.'
+  img_url: 'images/bbB_021918_RegistrySweeps_06.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/product/halo-reg-snoozypod-vibrating-bedtime-soother-in-white/1061203228'
+  img_alt: 'HALO® drawing ends 2/26! Snoozypod Vibrating Bedtime Soother by HALO® Great for transitioning baby to crib This product is great help for getting a newborn accustomed to the crib or a toddler transitioned to a toddler bed. The vibration and white noice is the best! @KatieC'
+  img_url: 'images/bbB_021918_RegistrySweeps_07.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/s/chicco-terazza'
+  img_alt: 'Exclusive color Bravo™ LE Stroller by Chicco® Shown in Terazza Black/Grey Great stroller! I loved how easy it was to put together. It&#39;s very sturdy and durable Easy to fold and transport '
+  img_url: 'images/bbB_021918_RegistrySweeps_08.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/s/chicco-terazza'
+  img_2_alt: 'Fit2® 2-Year Rear-Facing Infant & Toddler Car Seat by Chicco® Shown in Terazza Great car seart! Very sturdy, and easy to install in the car. I like how it has multiple stages as my little one grows. Material/padding is very durable and love the design. '
+  img_2_url: 'images/bbB_021918_RegistrySweeps_09.jpg'
+
+- type: 'image'
+  img_link: 'https://www.facebook.com/buybuyBABY/'
+  img_alt: 'comment on Facebook for a chance to win'
+  img_url: 'images/bbB_021918_RegistrySweeps_10.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/selfservice/FindStore'
+  img_alt: 'You can purchase any of these items at buybuybaby.com, order in any of our stores or use our find in-store option for easy pick-up. Prices valid only in contiguous United States. '
+  img_url: 'images/bbB_021918_RegistrySweeps_11.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/category/car-seats/car-seats/32593/'
+  img_alt: 'car seats '
+  img_url: 'images/bbB_021918_RegistrySweeps_12.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/category/strollers/strollers/32572/'
+  img_2_alt: 'strollers'
+  img_2_url: 'images/bbB_021918_RegistrySweeps_13.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://www.buybuybaby.com/store/category/furniture/baby-furniture/nursery-ideas/32819/'
+  img_alt: 'nursery ideas'
+  img_url: 'images/bbB_021918_RegistrySweeps_14.jpg'
+  img_2_link: 'https://www.buybuybaby.com/store/static/savingscenter'
+  img_2_alt: 'savings center'
+  img_2_url: 'images/bbB_021918_RegistrySweeps_15.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/category/gifts-more/baby-registry-favorites/32689/'
+  img_alt: 'check out our registry favorites shop now '
+  img_url: 'images/bbB_021918_RegistrySweeps_16.jpg'
+
+- type: 'image'
+  img_link: 'https://www.buybuybaby.com/store/account/Login'
+  img_alt: 'see something you like? Login to create an Idea Board. get started'
+  img_url: 'images/bbB_021918_RegistrySweeps_17.jpg'
+
+- type: 'image-2-columns'
+  img_link: 'https://play.google.com/store/apps/details?id=com.bbby.buybuybaby&hl=en'
+  img_alt: 'google play'
+  img_url: 'images/bbB_emailfooter_01.jpg'
+  img_2_link: 'https://itunes.apple.com/us/app/buybuy-baby-baby-essentials-registry/id495993925?mt=8'
+  img_2_alt: 'app store'
+  img_2_url: 'images/bbB_emailfooter_02.jpg'
+
+socialnav:
+- link: ""
+  img: "images/bbB_emailfooter_03.jpg"
+  alt: ""
+- link: "http://www.facebook.com/buybuyBABY"
+  img: "images/bbB_emailfooter_04.jpg"
+  alt: "Facebook logo"
+- link: "https://twitter.com/buybuybaby"
+  img: "images/bbB_emailfooter_05.jpg"
+  alt: "Twitter logo"
+- link: "http://www.pinterest.com/buybuybaby"
+  img: "images/bbB_emailfooter_06.jpg"
+  alt: "Pinterest logo"
+- link: "http://instagram.com/buybuybaby"
+  img: "images/bbB_emailfooter_07.jpg"
+  alt: "Instagram logo"
+- link: "http://www.youtube.com/user/buybuybaby"
+  img: "images/bbB_emailfooter_08.jpg"
+  alt: "YouTube logo"
+- link: ""
+  img: "images/bbB_emailfooter_09.jpg"
+  alt: ""
+
+footer_ViewMap: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_FindAnotherLocation: 'http://www.buybuybaby.com/store/selfservice/FindStore?flashEnabled=true'
+footer_subscribehere: 'https://app.buybuybaby.com/prefs/pref.cfm'
+footer_updateyouremailpreferences: 'http://app.buybuybaby.com/prefs/unsub.cfm?e=_OEMAIL__&c=_EOCID__&n=_ECELLID__&order_num=-1'
+footer_contactushere: 'http://www.buybuybaby.com/store/selfservice/contact_us'
+footer_PrivacyPolicy: 'http://www.buybuybaby.com/store/static/PrivacyPolicy'
