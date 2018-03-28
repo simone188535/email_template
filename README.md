@@ -70,6 +70,7 @@ To send your template to Litmus, run `grunt send --template=yourTemplatePath.htm
 
 Litmus Credentials:
 
-User: {- andy.hardy@purered.net -} {+ thomas.kosko@purered.net +}
+- {- User: andy.hardy@purered.net -}
+- {+ Email: thomas.kosko@purered.net +}
 
 Pass: pur3r3d_qa
