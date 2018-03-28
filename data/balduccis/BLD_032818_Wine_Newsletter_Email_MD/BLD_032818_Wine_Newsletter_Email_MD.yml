@@ -1,0 +1,93 @@
+title: 'Get Ready for Spring | Free Wine Event'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25c2e19c-e115-4909-974b-4ae11b2ca630.jpg?ver=1470666625000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a0fecb3d-6ea2-446d-b61a-586f2125461a.jpg?ver=1470666608000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5cec8df-75cb-4d75-9115-3d8c5f6f9233.jpg?ver=1470666608000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2c32a587-0446-4989-b138-f84916db9aa2.jpg?ver=1522260480000'
+  img_alt: 'Wine Newsletter March 2018'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6d93b8e3-c579-4e35-bc33-f5209206561b.jpg?ver=1522260481000'
+  img_alt: 'SPRING WINE & FOOD EVENT SATURDAY, MARCH 31st Food Tasting: 12pm-5pm Wine Tasting: 2pm-5pm PLUS • Spring Wines • Rosè Wines • Extreme Value Wines'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9185bb40-2696-44de-a132-a51b6bcfc19c.jpg?ver=1522260481000'
+  img_alt: 'MUST HAVE WINES'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d4b89699-156c-4697-8009-6ec5dd7b85d5.jpg?ver=1522260481000'
+  img_alt: 'Spring has sprung! Looking forward to warmer days and pleasant evenings outside, our attentions turn to Easter and Passover holiday wines as well as the new vintage of Rosè wines - the oenophile&#39;s harbinger of spring...'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3a3cbccf-6fd2-4407-926f-5503bad68159.jpg?ver=1522260482000'
+  img_alt: 'Le Petit Balthazar Cinsault Rosè 2017 11.99/BTL Our most popular Rosè for the last three years and a top pick by The Washington Post as well, it offers notes of bracing cantaloupe and watermelon alongside aromatic herbs. Celebrate spring with this wine as if you were already at the beach.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8a40f21b-ea19-4434-b112-db2a1853c110.jpg?ver=1522260482000'
+  img_alt: 'Lafage Miraflors Rosè 2017 21.99/BTL &#34;Pure, textured and elegant on the palate, with gorgeous purity, it&#39;s a rocking Rosè that does everything right. Hats off to vigneron Jean-Marc Lafage for another smoking good Rosè!&#34; - Robert Parker 92 pts.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d704eaad-8778-4b3e-9bec-055bf51c7fda.jpg?ver=1522260482000'
+  img_alt: 'Chateau Peuch-Haut Prestige Coteaux du Languedoc 2015 24.99/BTL &#34;The 2015 Saint Drezery Prestige is a ripe, sexy beauty that gives up full-bodied notes of black cherries, melted licorice and roasted herbs. Like all the wines from this estate, it has lots of richness and texture, yet stays balanced, lively and pure.&#34; - Robert Parker, 93pts.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1cab0507-2242-4e4d-a724-dd0803a2dc5e.jpg?ver=1522260482000'
+  img_alt: 'Lafage Bastide Miraflors 2015 21.99/BTL &#34;This wine is almost too good to be true. A blend of 70% Syrah and 30% Grenache that was brought up in concrete tanks (Grenache) and demi-muids (Syrah), the 2015 Bastide Miraflors Vieilles Vignes reminded me of a mini Syrah from California&#39;s Manfred Krankl (yes I just compared a $14 Syrah to Sine Qua Non).&#34; J.D.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4245713a-6d99-4b88-a527-fcf87a51b370.jpg?ver=1522260483000'
+  img_alt: 'WINE OF THE SEASON | DRY ROSÈ'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5f6b3b92-519b-40eb-86eb-c3d3650c6f54.jpg?ver=1522260483000'
+  img_alt: 'WINE OF THE SEASON | DRY ROSÈ'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5139eeef-d97f-433d-8c29-d62b27685026.jpg?ver=1522260483000'
+  img_alt: 'Dry Rosè - Finally, we&#39;re drinking it! - John Coleman, Balducci&#39;s Wine Merchant Soon it will be too hot for Cabernet. Thankfully, there&#39;s no need to despair, Rosè wines are here! Perfect for a warm afternoon, dry (yes, dry) Rosè is refreshing in style, yet bears a strong relationship to red wine. Produced from red wine grapes via short maceration, a technique in which the grapes are only allowed a minimal amount of skin contact with the juice, dry Rosè is truly a red lover&#39;s warm weather wine. Look for Rosés from Provence, Tavel (Rhone Valley), or even Austria, Spain and Portugal. Chill nicely to bring the wines into balance, and serve outside on a sunny deck.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0328_BLD_Wine_Newletter_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/99d4fff8-d9aa-4ca3-b2bc-d4039f388eef.jpg?ver=1522260483000'
+  img_alt: 'Balducci&#39;s Rosè 2017 14.99/BTL Produced by our longtime friend and European winemaking wunderkind Anton Bauer, this special bottling Rosè was drawn from his best lots of the 2017 vintage. It is simply bursting with fresh fruit flavors of red berries and springtime.'

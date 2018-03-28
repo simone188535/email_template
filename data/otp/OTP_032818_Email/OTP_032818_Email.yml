@@ -1,0 +1,77 @@
+title: 'HOT DEAL on Easter Baskets and 20% off Coupon Inside.'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_folder3/OTP_032818_05.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_folder3/OTP_032818_06.jpg"
+outdoor_img_alt: "YOUR OUTDOOR SUPERSTORE FIND YOUR STYLE"
+outdoor_img_link: "http://oldtimepottery.com/outdoor#utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=discount_home_decor&utm_content=home_superstore"
+
+preheader_text: 'Huge savings are waiting at Old Time Pottery'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_032818_09.jpg'
+  image_alt: 'Quick Pick! While Supplies Last! STARTING AT 9.99 LICENSED & PLUSH EASTER BASKETS Save up to $7 per basket VIEW DETAILS HURRY IN & GRAB THIS INCREDIBLE OFFER BEFORE IT&#39;S GONE MARCH 28TH - MARCH 31ST The promotional pricing above is limited to these items: Licensed or Plush Pre-filled Easter'
+  image_link: 'http://oldtimepottery.com/quickpick#utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=old_time_pottery_home_store_with_more&utm_content=view_details'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_032818_12.jpg'
+  image_alt: 'GET READY, THERE IS A 20% OFF COUPON THAT STARTS TOMORROW OLD TIME Pottery ® COUPON VALID DATES Thursday, 3/29 - Sunday, 4/1/18 20% OFF ANY ONE (1) ITEM Present coupon before checkout. Tell the cashier which item to apply the discount to. Limit one (1) coupon per customer. Coupon may only be used one time and must be surrendered at the time of purchase. Offer not valid with any other Old Time Pottery coupon or discount including, but not limited to, 10% VIP Coupon, Military Discount or Employee Discount. Other restrictions may apply. Coupon expires end of day on Sunday, April 1st, 2018'
+  image_link: 'http://oldtimepottery.com/coupons#utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=old_time_pottery_home_store_with_more&utm_content=20off_coupon'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_032818_15.jpg'
+  image_alt: 'WITH THIS COUPON YOU COULD SAVE ON 16pc Pfaltzgraff Dinnerware Low Price $59.99 SAVE $12 WITH COUPON $47.99 OR 5pc Dining Set Low Price $229.99 SAVE $46 WITH COUPON $183.99 OR 4pc Hampton All-Weather Patio Set Low Price $399.99 SAVE $80 WITH COUPON $319.99 OR USE ON ANYTHING ELSE IN STORE. GET COUPON Coupon NOT valid on gift cards, other exclusions may apply.'
+  image_link: 'http://oldtimepottery.com/coupons#utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=old_time_pottery_home_store_with_more&utm_content=get_coupon'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_032818_18.jpg'
+  image_alt: '30% OFF EASTER BASKETS & DÉCOR HOP IN'
+  image_link: 'https://oldtimepottery.com/homestore#easter&utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=old_time_pottery_home_store_with_more&utm_content=30off_easter_baskets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_032818_21.jpg'
+  image_alt: 'CLEARANCE SAVINGS 30% OFF ALL YELLOW TAG MERCHANDISE'
+  image_link: 'http://oldtimepottery.com/yellow-tag#utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=old_time_pottery_home_store_with_more&utm_content=30off_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_052_031318_v1_R2_FNL_13.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/#utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=old_time_pottery_home_store_with_more&utm_content=get_inspired'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/#utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=old_time_pottery_home_store_with_more&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=otp_store_locations&utm_content=locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/#utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=old_time_pottery_home_store_with_more&utm_content=otp_gift_cards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/#utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=discount_home_decor&utm_content=update_profile'
+
+socialnav:
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=otp_instagram&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=otp_facebook&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=otp_pinterest&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery1?utm_source=otp_weekly03_28&utm_medium=email&utm_campaign=hot_deals_on_easter_baskets&utm_term=otp_twittter&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"
