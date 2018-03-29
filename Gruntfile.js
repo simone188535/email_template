@@ -25,18 +25,18 @@ module.exports = function(grunt) {
 		    options: {
 		      encodeSpecialChars: true
 		    }
-		},
-		single: {
-			files: [{
-				expand: true,
-				cwd: grunt.option('path'), // omitting build lets us use tab-complete
-				src: ['**/*.html'],
-				dest: grunt.option('path').replace( /^build\//, 'prod/' )
-			}],
-			options: {
-				encodeSpecialChars: true
-			}
 		}
+		// single: {
+		// 	files: [{
+		// 		expand: true,
+		// 		cwd: grunt.option('path'), // omitting build lets us use tab-complete
+		// 		src: ['**/*.html'],
+		// 		dest: grunt.option('path').replace( /^build\//, 'prod/' )
+		// 	}],
+		// 	options: {
+		// 		encodeSpecialChars: true
+		// 	}
+		// }
 	},
 	
 	// kick off middleman build
@@ -148,7 +148,7 @@ module.exports = function(grunt) {
   // grunt bob --path=source/client_name/project_name
   grunt.registerTask('bob', ['newer:imagemin:bob']);
   // grunt bobbuild --path=build/client_name/project_name
-  grunt.registerTask( 'single', ['newer:copy', 'emailBuilder:single']);
+  //grunt.registerTask( 'single', ['newer:copy', 'emailBuilder:single']);
   grunt.registerTask('build',   ['copy','newer:emailBuilder:inline']);
   grunt.registerTask('send', ['litmus']); // grunt send --template=yourtemplate.html (relative to 'prod' folder)
 };
