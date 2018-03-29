@@ -1,0 +1,60 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_02.jpg', 'http://bit.ly/2qaIOda', 580, 227, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_03.jpg', '/sl-forward-sprisv/LLR/86205/1021069631/166-985', 580, 58, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_04.jpg', '/sl-forward-sprisv/LLR/86205/1021069631/166-985', 153, 120, ''], ['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_05.jpg', 'http://content.etilize.com/360-main-view/1021069631.html', 135, 120, ''], ['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_06.jpg', '/sl-forward-sprisv/LLR/86205/1021069631/166-985', 292, 120, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_07.jpg', '/sl-forward-sprisv/LLR/86205/1021069631/166-985', 580, 398, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_08.jpg', '/sl-forward-sprisv/LLR/85560/1028854042/481-671', 580, 453, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_09.jpg', '/sl-forward-sprisv/LLR/85560/1028854042/481-671', 377, 170, ''], ['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_10.jpg', '/sl-forward-sprisv/LLR/85545/1028683687/294-412', 203, 170, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_11.jpg', '/sl-forward-sprisv/LLR/85560/1028854042/481-671', 580, 169, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_12.jpg', '/sl-forward-sprisv/LLR/85545/1028683687/294-412', 223, 74, ''], ['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_13.jpg', '/sl-forward-sprisv/LLR/85560/1028854042/481-671', 357, 74, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_14.jpg', '/sl-forward-sprisv/LLR/85545/1028683687/294-412', 223, 95, ''], ['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_15.jpg', 'http://content.etilize.com/Tour/1028854042/index.html', 357, 95, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_16.jpg', '/sl-forward-sprisv/LLR/85545/1028683687/294-412', 580, 26, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_17.jpg', '/sl-forward-sprisv/LLR/84589/1035841143/780-565', 580, 90, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_18.jpg', '/sl-forward-sprisv/LLR/84589/1035841143/780-565', 208, 71, ''], ['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_19.jpg', 'http://content.etilize.com/360-main-view/1021069631.html', 169, 71, ''], ['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_20.jpg', '/sl-forward-sprisv/LLR/84589/1035841143/780-565', 203, 71, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_21.jpg', '/sl-forward-sprisv/LLR/84589/1035841143/780-565', 193, 104, ''], ['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_22.jpg', '/sl-forward-sprisv/LLR/59519/1031869866/874-362', 190, 104, ''], ['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_23.jpg', '/sl-forward-sprisv/LLR/84589/1035841143/780-565', 197, 104, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_24.jpg', '/sl-forward-sprisv/LLR/84589/1035841143/780-565', 188, 247, ''], ['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_25.jpg', '/sl-forward-sprisv/LLR/59519/1031869866/874-362', 392, 247, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_26.jpg', '', 580, 140, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_119_071917_Q3_LORELL_Seating_R3_DEV_27.jpg', '', 580, 140, '']]
+

@@ -1,0 +1,138 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_02.jpg', '/sl-forward-sprisv/OIC/22112/11965876/498-874', 580, 465, 'OIC22112']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_03.jpg', '/sl-forward-sprisv/OIC/22112/11965876/498-874', 21, 30, 'OIC22112'], ['text', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_04.jpg', '/sl-forward-sprisv/OIC/22112/11965876/498-874', 140, 30, 'OIC22112', '#d7f4ef', '#000000', 'linetext1_CUS'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_05.jpg', '/sl-forward-sprisv/OIC/22112/11965876/498-874', 419, 30, 'OIC22112']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_06.jpg', '/sl-forward-sprisv/OIC/22112/11965876/498-874', 580, 171, 'OIC22112']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_07.jpg', '/sl-forward-sprisv/OIC/21726/1014570500/844-358', 580, 221, 'OIC21726']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_08.jpg', '/sl-forward-sprisv/OIC/21726/1014570500/844-358', 301, 31, 'OIC21726'], ['text', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_09.jpg', '/sl-forward-sprisv/OIC/21726/1014570500/844-358', 161, 31, 'OIC21726', '#ffffff', '#000000', 'linetext2_CUS'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_10.jpg', '/sl-forward-sprisv/OIC/21726/1014570500/844-358', 118, 31, 'OIC21726']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_11.jpg', '/sl-forward-sprisv/OIC/21726/1014570500/844-358', 580, 196, 'OIC21726']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_12.jpg', '/sl-forward-sprisv/OIC/22502/1018358914/392-405', 580, 255, 'OIC22502']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_13.jpg', '/sl-forward-sprisv/OIC/22502/1018358914/392-405', 43, 30, 'OIC22502'], ['text', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_14.jpg', '/sl-forward-sprisv/OIC/22502/1018358914/392-405', 144, 30, 'OIC22502', '#f5951d', '#FFFFFF', 'linetext3_CUS'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_15.jpg', '/sl-forward-sprisv/OIC/22502/1018358914/392-405', 393, 30, 'OIC22502']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_16.jpg', '/sl-forward-sprisv/OIC/22502/1018358914/392-405', 580, 113, 'OIC22502']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_17.jpg', '/sl-forward-sprisv/WAU/21289/1015513637/323-562', 580, 164, 'WAU21289 - Neon']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_18.jpg', '/sl-forward-sprisv/WAU/21289/1015513637/323-562', 193, 76, 'WAU21289 - Neon'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_19.jpg', '/sl-forward-sprisv/WAU/20274/1015513651/475-775', 194, 76, 'WAU20274 - Cool'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_20.jpg', '/sl-forward-sprisv/WAU/21289/1015513637/323-562', 193, 76, 'WAU21289 - Neon']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_21.jpg', '/sl-forward-sprisv/WAU/21289/1015513637/323-562', 193, 21, 'WAU21289 - Neon'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_22.jpg', '/sl-forward-sprisv/WAU/20274/1015513651/475-775', 194, 21, 'WAU20274 - Cool'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_23.jpg', '/sl-forward-sprisv/WAU/21289/1015513637/323-562', 193, 21, 'WAU21289 - Neon']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_24.jpg', '/sl-forward-sprisv/WAU/21289/1015513637/323-562', 193, 20, 'WAU21289 - Neon'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_25.jpg', '/sl-forward-sprisv/WAU/20274/1015513651/475-775', 387, 20, 'WAU20274 - Cool']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_26.jpg', '/sl-forward-sprisv/WAU/21289/1015513637/323-562', 193, 53, 'WAU21289 - Neon'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_27.jpg', '/sl-forward-sprisv/WAU/20274/1015513651/475-775', 194, 53, 'WAU20274 - Cool'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_28.jpg', '/sl-forward-sprisv/WAU/21289/1015513637/323-562', 193, 53, 'WAU21289 - Neon']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_29.jpg', '/sl-forward-sprisv/WAU/21289/1015513637/323-562', 193, 32, 'WAU21289 - Neon'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_30.jpg', '/sl-forward-sprisv/WAU/20274/1015513651/475-775', 199, 32, 'WAU20274 - Cool'], ['text', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_31.jpg', '/sl-forward-sprisv/WAU/21289/1015513637/323-562', 142, 32, 'WAU21289 - Neon', '#2fba9d', '#FFFFFF', 'linetext4_CUS'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_32.jpg', '/sl-forward-sprisv/WAU/21289/1015513637/323-562', 46, 32, 'WAU21289 - Neon']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_33.jpg', '/sl-forward-sprisv/WAU/21289/1015513637/323-562', 193, 52, 'WAU21289 - Neon'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_34.jpg', '/sl-forward-sprisv/WAU/20274/1015513651/475-775', 194, 52, 'WAU20274 - Cool'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_35.jpg', '/sl-forward-sprisv/WAU/21289/1015513637/323-562', 193, 52, 'WAU21289 - Neon']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_36.jpg', '/sl-forward-sprisv/WAU/82331/10472440/467-580', 193, 115, 'WAU82331 - Yellow'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_37.jpg', '/sl-forward-sprisv/WAU/22401/11971381/630-219', 194, 115, 'WAU22401'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_38.jpg', '/sl-forward-sprisv/WAU/82331/10472440/467-580', 193, 115, 'WAU82331 - Yellow']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_39.jpg', '/sl-forward-sprisv/WAU/82331/10472440/467-580', 193, 23, 'WAU82331 - Yellow'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_40.jpg', '/sl-forward-sprisv/WAU/22401/11971381/630-219', 194, 23, 'WAU22401'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_41.jpg', '/sl-forward-sprisv/WAU/82331/10472440/467-580', 58, 23, 'WAU82331 - Yellow'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_42.jpg', '/sl-forward-sprisv/WAU/22401/11971381/630-219', 135, 23, 'WAU22401']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_43.jpg', '/sl-forward-sprisv/WAU/82331/10472440/467-580', 193, 21, 'WAU82331 - Yellow'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_44.jpg', '/sl-forward-sprisv/WAU/22401/11971381/630-219', 194, 21, 'WAU22401'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_45.jpg', '/sl-forward-sprisv/WAU/22401/11971381/630-219', 193, 21, 'WAU22401']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_46.jpg', '/sl-forward-sprisv/WAU/82341/1011664897/345-685', 193, 24, 'WAU82341 - Gray'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_47.jpg', '/sl-forward-sprisv/WAU/22401/11971381/630-219', 194, 24, 'WAU22401'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_48.jpg', '/sl-forward-sprisv/WAU/22401/11971381/630-219', 193, 24, 'WAU22401']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_49.jpg', '/sl-forward-sprisv/WAU/82331/10472440/467-580', 193, 51, 'WAU82331 - Yellow'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_50.jpg', '/sl-forward-sprisv/WAU/22401/11971381/630-219', 194, 51, 'WAU22401'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_51.jpg', '/sl-forward-sprisv/WAU/22401/11971381/630-219', 193, 51, 'WAU22401']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_52.jpg', '/sl-forward-sprisv/WAU/82331/10472440/467-580', 21, 32, 'WAU82331 - Yellow'], ['text', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_53.jpg', '/sl-forward-sprisv/WAU/82331/10472440/467-580', 172, 32, 'WAU82331 - Yellow', '#2ebb9b', '#FFFFFF', 'linetext5_CUS'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_54.jpg', '/sl-forward-sprisv/WAU/22401/11971381/630-219', 13, 32, 'WAU22401'], ['text', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_55.jpg', '/sl-forward-sprisv/WAU/22401/11971381/630-219', 181, 32, 'WAU22401', '#2fba9d', '#FFFFFF', 'linetext6_CUS'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_56.jpg', '/sl-forward-sprisv/WAU/22401/11971381/630-219', 193, 32, 'WAU22401']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_57.jpg', '/sl-forward-sprisv/WAU/82331/10472440/467-580', 193, 61, 'WAU82331 - Yellow'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_58.jpg', '/sl-forward-sprisv/WAU/22401/11971381/630-219', 387, 61, 'WAU22401']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_59.jpg', '/sl-forward-sprisv/STW/87010/1012680082/304-744', 580, 240, 'STW87010']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_60.jpg', '/sl-forward-sprisv/STW/87010/1012680082/304-744', 300, 31, 'STW87010'], ['text', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_61.jpg', '/sl-forward-sprisv/STW/87010/1012680082/304-744', 162, 31, 'STW87010', '#ffffff', '#000000', 'linetext7_CUS'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_62.jpg', '/sl-forward-sprisv/STW/87010/1012680082/304-744', 118, 31, 'STW87010']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_63.jpg', '/sl-forward-sprisv/STW/87010/1012680082/304-744', 580, 74, 'STW87010']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_64.jpg', '/sl-forward-sprisv/STW/87010/1012680082/304-744', 392, 30, 'STW87010'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_65.jpg', '/sl-forward-sprisv/STW/132501/1023555780/765-109', 78, 30, 'STW132501'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_66.jpg', '/sl-forward-sprisv/STW/87010/1012680082/304-744', 110, 30, 'STW87010']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_67.jpg', '/sl-forward-sprisv/STW/132501/1023555780/765-109', 580, 192, 'STW132501']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_68.jpg', '/sl-forward-sprisv/STW/132501/1023555780/765-109', 21, 33, 'STW132501'], ['text', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_69.jpg', '/sl-forward-sprisv/STW/132501/1023555780/765-109', 147, 33, 'STW132501', '#ffffff', '#000000', 'linetext8_CUS'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_70.jpg', '/sl-forward-sprisv/STW/132501/1023555780/765-109', 412, 33, 'STW132501']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_71.jpg', '/sl-forward-sprisv/STW/132501/1023555780/765-109', 580, 55, 'STW132501']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_72.jpg', '/sl-forward-sprisv/DUC/0007424/1011091069/393-201', 580, 116, 'DUC0007424 - 8 / Pack']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_73.jpg', '/sl-forward-sprisv/DUC/0007424/1011091069/393-201', 227, 233, 'DUC0007424 - 8 / Pack'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_74.jpg', '/sl-forward-sprisv/DUC/CS556PK/11962406/200-760', 353, 233, 'DUCCS556PK - 6 / Pack']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_75.jpg', '/sl-forward-sprisv/DUC/0007424/1011091069/393-201', 290, 164, 'DUC0007424 - 8 / Pack'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_76.jpg', '/sl-forward-sprisv/DUC/CS556PK/11962406/200-760', 290, 164, 'DUCCS556PK - 6 / Pack']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_77.jpg', '/sl-forward-sprisv/DUC/0007424/1011091069/393-201', 20, 32, 'DUC0007424 - 8 / Pack'], ['text', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_78.jpg', '/sl-forward-sprisv/DUC/0007424/1011091069/393-201', 270, 32, 'DUC0007424 - 8 / Pack', '#ffffff', '#000000', 'linetext9_CUS'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_79.jpg', '/sl-forward-sprisv/DUC/CS556PK/11962406/200-760', 11, 32, 'DUCCS556PK - 6 / Pack'], ['text', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_80.jpg', '/sl-forward-sprisv/DUC/CS556PK/11962406/200-760', 279, 32, 'DUCCS556PK - 6 / Pack', '#ffffff', '#000000', 'linetext10_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_81.jpg', '/sl-forward-sprisv/DUC/0007424/1011091069/393-201', 290, 63, 'DUC0007424 - 8 / Pack'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_82.jpg', '/sl-forward-sprisv/DUC/CS556PK/11962406/200-760', 290, 63, 'DUCCS556PK - 6 / Pack']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_83.jpg', '/sl-forward-sprisv/TOM/68720/1012679813/163-117', 580, 211, 'TOM68720 - Original']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_84.jpg', '/sl-forward-sprisv/TOM/68720/1012679813/163-117', 42, 33, 'TOM68720 - Original'], ['text', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_85.jpg', '/sl-forward-sprisv/TOM/68720/1012679813/163-117', 160, 33, 'TOM68720 - Original', '#d6f3ee', '#000000', 'linetext11_CUS'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_86.jpg', '/sl-forward-sprisv/TOM/68720/1012679813/163-117', 378, 33, 'TOM68720 - Original']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_87.jpg', '/sl-forward-sprisv/TOM/68720/1012679813/163-117', 251, 52, 'TOM68720 - Original'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_88.jpg', '/sl-forward-sprisv/TOM/68723/1021069659/448-764', 329, 52, 'TOM68723 - Retro Color Applicators']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_89.jpg', '/sl-forward-sprisv/TOM/68723/1021069659/448-764', 580, 94, 'TOM68723 - Retro Color Applicators']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_90.jpg', '/sl-forward-sprisv/TOM/68723/1021069659/448-764', 42, 32, 'TOM68723 - Retro Color Applicators'], ['text', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_91.jpg', '/sl-forward-sprisv/TOM/68723/1021069659/448-764', 160, 32, 'TOM68723 - Retro Color Applicators', '#d6f3ee', '#000000', 'linetext12_CUS'], ['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_92.jpg', '/sl-forward-sprisv/TOM/68723/1021069659/448-764', 378, 32, 'TOM68723 - Retro Color Applicators']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_93.jpg', '/sl-forward-sprisv/TOM/68723/1021069659/448-764', 580, 88, 'TOM68723 - Retro Color Applicators']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_123_072717_CA_Exclusive_R5_DEV_94.jpg', '', 580, 123, '', '#f36523', '#FFFFFF', 'linetext13_CUS']]
+

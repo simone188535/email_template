@@ -1,0 +1,111 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_02.jpg', '/sl-forward-sprisv/HEW/F1J03A/1033149525/233-447', 580, 318, 'HEWF1J03A']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_03.jpg', '/sl-forward-sprisv/HEW/F1J03A/1033149525/233-447', 580, 298, 'HEWF1J03A']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_04.jpg', '/sl-forward-sprisv/HEW/F1J03A/1033149525/233-447', 580, 156, 'HEWF1J03A']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_05.jpg', '/sl-forward-sprisv/HEW/F1J03A/1033149525/233-447', 390, 35, 'HEWF1J03A'], ['text', 'images/SPR_071317_CA_Tech_06.jpg', '/sl-forward-sprisv/HEW/F1J03A/1033149525/233-447', 190, 35, 'HEWF1J03A', '#ffffff', '#000000', 'linetext1_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_07.jpg', '/sl-forward-sprisv/HEW/F1J03A/1033149525/233-447', 580, 78, 'HEWF1J03A']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_08.jpg', '/sl-forward-sprisv/HEW/F6U63AN/1031247693/319-491', 580, 168, 'HEWF6U63AN']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_09.jpg', '/sl-forward-sprisv/HEW/F6U63AN/1031247693/319-491', 19, 34, 'HEWF6U63AN'], ['text', 'images/SPR_071317_CA_Tech_10.jpg', '/sl-forward-sprisv/HEW/F6U63AN/1031247693/319-491', 140, 34, 'HEWF6U63AN', '#fff192', '#000000', 'linetext2_CUS'], ['image', 'images/SPR_071317_CA_Tech_11.jpg', '/sl-forward-sprisv/HEW/F6U63AN/1031247693/319-491', 195, 34, 'HEWF6U63AN'], ['image', 'images/SPR_071317_CA_Tech_12.jpg', '/sl-forward-sprisv/HEW/F6U64AN/1031247694/203-565', 226, 34, 'HEWF6U64AN']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_13.jpg', '/sl-forward-sprisv/HEW/F6U63AN/1031247693/319-491', 355, 47, 'HEWF6U63AN'], ['image', 'images/SPR_071317_CA_Tech_14.jpg', '/sl-forward-sprisv/HEW/F6U64AN/1031247694/203-565', 225, 47, 'HEWF6U64AN']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_15.jpg', '/sl-forward-sprisv/HEW/F6U64AN/1031247694/203-565', 580, 118, 'HEWF6U64AN']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_16.jpg', '/sl-forward-sprisv/HEW/F6U64AN/1031247694/203-565', 19, 36, 'HEWF6U64AN'], ['text', 'images/SPR_071317_CA_Tech_17.jpg', '/sl-forward-sprisv/HEW/F6U64AN/1031247694/203-565', 140, 36, 'HEWF6U64AN', '#ffef93', '#000000', 'linetext3_CUS'], ['image', 'images/SPR_071317_CA_Tech_18.jpg', '/sl-forward-sprisv/HEW/F6U64AN/1031247694/203-565', 421, 36, 'HEWF6U64AN']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_19.jpg', '/sl-forward-sprisv/HEW/F6U64AN/1031247694/203-565', 580, 62, 'HEWF6U64AN']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_20.jpg', '/sl-forward-sprisv/HEW/203000/1010043987/700-319', 580, 324, 'HEW203000']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_21.jpg', '/sl-forward-sprisv/HEW/203000/1010043987/700-319', 299, 36, 'HEW203000'], ['text', 'images/SPR_071317_CA_Tech_22.jpg', '/sl-forward-sprisv/HEW/203000/1010043987/700-319', 281, 36, 'HEW203000', '#fff192', '#000000', 'linetext4_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_23.jpg', '/sl-forward-sprisv/HEW/203000/1010043987/700-319', 580, 73, 'HEW203000']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_24.jpg', '/sl-forward-sprisv/HEW/CF389A/1032222378/223-299', 580, 258, 'HEWCF389A']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_25.jpg', '/sl-forward-sprisv/HEW/CF389A/1032222378/223-299', 580, 163, 'HEWCF389A']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_26.jpg', '/sl-forward-sprisv/HEW/CF389A/1032222378/223-299', 580, 138, 'HEWCF389A']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_27.jpg', '/sl-forward-sprisv/HEW/CF389A/1032222378/223-299', 390, 36, 'HEWCF389A'], ['text', 'images/SPR_071317_CA_Tech_28.jpg', '/sl-forward-sprisv/HEW/CF389A/1032222378/223-299', 190, 36, 'HEWCF389A', '#ffffff', '#000000', 'linetext5_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_29.jpg', '/sl-forward-sprisv/HEW/CF389A/1032222378/223-299', 580, 66, 'HEWCF389A']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_30.jpg', '/sl-forward-sprisv/HEW/CF410X/1031573711/704-748', 580, 186, 'HEWCF410X - Black']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_31.jpg', '/sl-forward-sprisv/HEW/CF410X/1031573711/704-748', 20, 32, 'HEWCF410X - Black'], ['text', 'images/SPR_071317_CA_Tech_32.jpg', '/sl-forward-sprisv/HEW/CF410X/1031573711/704-748', 136, 32, 'HEWCF410X - Black', '#fff098', '#000000', 'linetext6_CUS'], ['image', 'images/SPR_071317_CA_Tech_33.jpg', '/sl-forward-sprisv/HEW/CF410X/1031573711/704-748', 424, 32, 'HEWCF410X - Black']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_34.jpg', '/sl-forward-sprisv/HEW/CF410X/1031573711/704-748', 580, 60, 'HEWCF410X - Black']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_35.jpg', '/sl-forward-sprisv/HEW/CF411X/1031573712/332-838', 206, 51, 'HEWCF411X - Cyan'], ['image', 'images/SPR_071317_CA_Tech_36.jpg', '/sl-forward-sprisv/HEW/CF410X/1031573711/704-748', 18, 51, 'HEWCF410X - Black'], ['image', 'images/SPR_071317_CA_Tech_37.jpg', '/sl-forward-sprisv/HEW/CF411X/1031573712/332-838', 356, 51, 'HEWCF411X - Cyan']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_38.jpg', '/sl-forward-sprisv/HEW/CF412X/1031573715/143-652', 580, 29, 'HEWCF412X - Yellow']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_39.jpg', '/sl-forward-sprisv/HEW/CF413X/1031573721/195-533', 221, 25, 'HEWCF413X - Magenta'], ['image', 'images/SPR_071317_CA_Tech_40.jpg', '/sl-forward-sprisv/HEW/CF412X/1031573715/143-652', 359, 25, 'HEWCF412X - Yellow']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_41.jpg', '/sl-forward-sprisv/HEW/CF411X/1031573712/332-838', 221, 48, 'HEWCF411X - Cyan'], ['image', 'images/SPR_071317_CA_Tech_42.jpg', '/sl-forward-sprisv/HEW/CF411X/1031573712/332-838', 28, 48, 'HEWCF411X - Cyan'], ['image', 'images/SPR_071317_CA_Tech_43.jpg', '/sl-forward-sprisv/HEW/CF413X/1031573721/195-533', 331, 48, 'HEWCF413X - Magenta']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_44.jpg', '/sl-forward-sprisv/HEW/CF413X/1031573721/195-533', 19, 36, 'HEWCF413X - Magenta'], ['text', 'images/SPR_071317_CA_Tech_45.jpg', '/sl-forward-sprisv/HEW/CF413X/1031573721/195-533', 137, 36, 'HEWCF413X - Magenta', '#fff098', '#000000', 'linetext7_CUS'], ['image', 'images/SPR_071317_CA_Tech_46.jpg', '/sl-forward-sprisv/HEW/CF413X/1031573721/195-533', 93, 36, 'HEWCF413X - Magenta'], ['image', 'images/SPR_071317_CA_Tech_47.jpg', '/sl-forward-sprisv/HEW/CF413X/1031573721/195-533', 331, 36, 'HEWCF413X - Magenta']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_48.jpg', '/sl-forward-sprisv/HEW/CF413X/1031573721/195-533', 249, 50, 'HEWCF413X - Magenta'], ['image', 'images/SPR_071317_CA_Tech_49.jpg', '/sl-forward-sprisv/HEW/CF413X/1031573721/195-533', 331, 50, 'HEWCF413X - Magenta']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_50.jpg', '/sl-forward-sprisv/HEW/113100/1010043980/616-971', 580, 303, 'HEW113100']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_51.jpg', '/sl-forward-sprisv/HEW/113100/1010043980/616-971', 19, 34, 'HEW113100'], ['text', 'images/SPR_071317_CA_Tech_52.jpg', '/sl-forward-sprisv/HEW/113100/1010043980/616-971', 137, 34, 'HEW113100', '#fff098', '#000000', 'linetext8_CUS'], ['image', 'images/SPR_071317_CA_Tech_53.jpg', '/sl-forward-sprisv/HEW/113100/1010043980/616-971', 424, 34, 'HEW113100']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_54.jpg', '/sl-forward-sprisv/HEW/113100/1010043980/616-971', 580, 56, 'HEW113100']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071317_CA_Tech_55.jpg', '', 580, 294, '']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_071317_CA_Tech_56.jpg', '', 580, 124, '', '#05a1de', '#FFFFFF', 'linetext9_CUS']]
+
