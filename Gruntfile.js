@@ -8,24 +8,24 @@ module.exports = function(grunt) {
     // ----------------------
 
     emailBuilder: {
-		// test :{
-		// 	files: [{
-		// 		expand: true,           // Enable dynamic expansion.
-		// 		cwd: 'build',           // Src matches are relative to this path.
-		// 		src: ['**/*.html'],     // Actual pattern(s) to match.
-		// 		dest: 'prod/',          // Destination path prefix.
-		// 		ext: '.html',           // Dest filepaths will have this extension.
-		// 	}],
-		// 	options: {
-		// 		encodeSpecialChars: true
-		// 	}
-		// },
-		inline: {
-		    files: { 'build/**/*.html' : 'prod/**/*.html' },
-		    options: {
-		      encodeSpecialChars: true
-		    }
-		}
+		inline :{
+			files: [{
+				expand: true,           // Enable dynamic expansion.
+				cwd: 'build',           // Src matches are relative to this path.
+				src: ['**/*.html'],     // Actual pattern(s) to match.
+				dest: 'prod/',          // Destination path prefix.
+				ext: '.html',           // Dest filepaths will have this extension.
+			}],
+			options: {
+				encodeSpecialChars: true
+			}
+		},
+		// inline: {
+		//     files: { 'build/**/*.html' : 'prod/**/*.html' },
+		//     options: {
+		//       encodeSpecialChars: true
+		//     }
+		// }
 		// single: {
 		// 	files: [{
 		// 		expand: true,
