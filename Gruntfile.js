@@ -145,10 +145,13 @@ module.exports = function(grunt) {
   // Default task(s).
   grunt.registerTask('default', ['copy','emailBuilder:inline']);
   grunt.registerTask('images', ['newer:imagemin:dynamic']); // grunt images --imgpath=client_name/project_name/images (replative to 'prod' folder, do not include '/' after the images directory path)
-  // grunt bob --path=source/client_name/project_name
-  grunt.registerTask('bob', ['newer:imagemin:bob']);
-  // grunt bobbuild --path=build/client_name/project_name
-  //grunt.registerTask( 'single', ['newer:copy', 'emailBuilder:single']);
   grunt.registerTask('build',   ['copy','newer:emailBuilder:inline']);
   grunt.registerTask('send', ['litmus']); // grunt send --template=yourtemplate.html (relative to 'prod' folder)
+
+  // grunt bob --path=source/client_name/project_name
+  grunt.registerTask('bob', ['newer:imagemin:bob']);
+
+  // grunt single --path=build/client_name/project_name
+  //grunt.registerTask( 'single', ['newer:copy', 'emailBuilder:single']);
+
 };
