@@ -1,0 +1,78 @@
+title: '$15 off $75 Just For You!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_KingsLoyalty_SOLOS - $15_off_$75'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_KingsLoyalty_SOLOS - $15_off_$75'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_KingsLoyalty_SOLOS - $15_off_$75'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_KingsLoyalty_SOLOS - $15_off_$75'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_KingsLoyalty_SOLOS - $15_off_$75'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_KingsLoyalty_SOLOS - $15_off_$75"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22dddff8-58d5-4f38-a2f4-71695dcb0184.jpg?ver=1495479657000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9baa0f8c-b02c-4849-a425-d63c628f7a69.jpg?ver=1495479657000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91956c80-8f43-478e-af44-85f548eac715.jpg?ver=1495479657000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dc345531-fe47-483e-9165-565ab14d796e.jpg?ver=1495479657000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: " https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ab29d319-be48-4db7-9013-653fde5e38f0.jpg?ver=1522434117000"
+  img_alt: "Thank You! $15 OFF $75 PURCHASE Valid 4/5 - 4/12/18 OFFER IS LOADED TO YOUR myKINGS EXTRA! ACCOUNT"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_KingsLoyalty_SOLOS - $15_off_$75"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2da25150-d527-4a34-82e6-3fa4e7dc485e.jpg?ver=1522432732000"
+  img_alt: "for being a valued customer enjoy this offer at your local Kings store. COME EXPERIENCE FOR YOURSELF!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_KingsLoyalty_SOLOS - $15_off_$75"
+
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/82da9c27-22a6-410c-87e5-2248b8603c47.jpg?ver=1522432732000"
+  img_alt: "A favorite shopping destination in the community SINCE 1936"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_KingsLoyalty_SOLOS - $15_off_$75"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/aaa521a8-adf7-470b-b7cc-5ba32aa99c10.jpg?ver=1522432733000"
+  img_alt_2: "The highest quality FRESH & LOCAL PRODUCE VIEW WEEKLY AD"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_KingsLoyalty_SOLOS - $15_off_$75"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a3cfe271-5f82-46da-a3b7-d4010cd353bd.jpg?ver=1522432733000"
+  img_alt_3: "KINGS BEST GROCERY STORE IN NEW JERSEY! from the dailymeal.com 2018"
+  url_3: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_KingsLoyalty_SOLOS - $15_off_$75"
+
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f2947fe6-26e2-4a01-a39c-8ad1f04306b9.jpg?ver=1522432733000"
+  img_alt: "An array of GOURMET, LOCAL & EVERYDAY GROCERY PRODUCTS"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_KingsLoyalty_SOLOS - $15_off_$75"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e5b4f0f4-ffb8-42c0-8c39-b197917e57a0.jpg?ver=1522432733000"
+  img_alt_2: "CONVENIENT online ordering and delivery in as little as an hour SHOP NOW"
+  url_2: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_KingsLoyalty_SOLOS - $15_off_$75"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ac59566e-aba5-4ff8-ade6-d087c291132b.jpg?ver=1522432733000"
+  img_alt_3: "SUPERIOR CUSTOMER SERVICE above all else"
+  url_3: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0405_KingsLoyalty_SOLOS - $15_off_$75"
