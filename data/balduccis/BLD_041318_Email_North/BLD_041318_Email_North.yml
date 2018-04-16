@@ -1,0 +1,110 @@
+title: 'Tips for Spring clean eating!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dbde55bc-62de-4292-84ba-ad8c26174f74.jpg?ver=1519917884000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2062e795-5343-4a19-ad77-a09ae228655f.jpg?ver=1523474178000'
+  img_alt: 'feel good FOOD Wholesome, nutrition-packed products and the freshest spring produce. Grab & Go CHEF PREPARED PROTEIN PACKED GARDEN SALAD VIEW MORE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/67948510-efab-4c18-b95a-956cd30d5c6d.jpg?ver=1523474178000'
+  img_alt: 'VEGGIE INSPIRATION |FRESH RECIPE IDEA'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/entrees?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7df8bdd2-6207-40e7-8ec0-cde5cedaeb0a.jpg?ver=1523474179000'
+  img_alt: 'Create Your Own Veggie &#34;Poke&#34; Just in time for spring! Try this fresh recipe from Executive Chef Jason Miller, featured on WJLA&#39;s Let&#39;s Talk Live. Create SPRING BEETS &#34;POKE&#34; STYLE WITH BLISTERED SHISHITO PEPPERS VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e6d1de22-0e98-4f9d-8c51-0adc29378fc0.jpg?ver=1523474179000'
+  img_alt: 'MEMBER EXCLUSIVE | FRESH PRODUCE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/efd04e0a-1545-4fbc-b33d-3e01c8ad98aa.jpg?ver=1523474180000'
+  img_alt: 'SWEET RED DRISCOLL&#39;S STRAWBERRIES 1 LB. Bright, plump and juicy, nothing says spring like a bowl full of strawberries on top of your table.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1180698d-cca0-4793-a9fc-dcc99c1ec066.jpg?ver=1523474181000'
+  img_alt: 'DRISCOLL&#39;S RASPBERRIES & BLACKBERRIES Sweet and temptingly tart, fresh ripe berries add a burst of flavor to everything from parfaits to pies. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/63c1664e-19c5-44ae-8a6f-b593385dc315.jpg?ver=1523474181000'
+  img_alt: 'A FRESH TAKE | HEALTHY EATS'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/95d6219d-2b14-4f56-833e-837543dd36c8.jpg?ver=1523474182000'
+  img_alt: 'NAVITAS ORGANIC CHIA SEEDS The tiny chia seed is a substantial source of protein, fiber, vitamins, minerals, and antioxidants. '
+  url_2: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/76550c9a-4cc0-482b-b800-ff5d642bcefc.jpg?ver=1523474182000'
+  img_alt_2: 'CAULIPOWER PIZZA This guilt-free, healthy pizza with real cauliflower in the crust is high in protein, full of flavor and gluten free. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2c55e371-2ff1-4b59-ae7f-e46e3c6e0ec5.jpg?ver=1523474182000'
+  img_alt: 'TO YOUR HEALTH! | HEALTHY DRINKS'
+
+- type: 'image-3-columns'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f875572f-0125-488e-a77c-8f216883a014.jpg?ver=1523474182000'
+  img_alt: 'B&#39;More Organic Smoothies'
+  url_2: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c77de0b7-aff9-40d8-aba0-6ee3c3edff4a.jpg?ver=1523474183000'
+  img_alt_2: 'Iconic Protein Golden Milk or Coconut Matcha'
+  url_3: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img_3: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2cecfa3b-53b5-49ea-b796-25ebaf6bfaa6.jpg?ver=1523474183000'
+  img_alt_3: 'Evolution Fresh Cold-Pressed Juices'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/24f0c211-e089-4c2e-8c19-5eaecc92431f.jpg?ver=1523474183000'
+  img_alt: 'WHAT&#39;S NEW'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/493b9dec-ec52-4228-b01c-2275999297a5.jpg?ver=1523474184000'
+  img_alt: 'Celebrate Administrative Professionals Day Administrative Professionals Day is Wednesday, April 25th. Choose from lovely gift baskets, flowers, gift cards and more. VIEW GIFTS'
+
