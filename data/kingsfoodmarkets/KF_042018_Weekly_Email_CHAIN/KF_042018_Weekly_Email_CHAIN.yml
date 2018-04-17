@@ -1,0 +1,144 @@
+title: 'Organic eats, green cleaning & more for Earth Day'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a437bf4a-4893-491e-b02d-d5f426b7fc96.jpg?ver=1523988655000"
+  img_alt: "GO GREEN FOR EARTH DAY! Fresh organic produce, locally raised meat, green cleaning ideas and more. Create Earthbound Farm Apple Kale Salad View Recipe >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/apple-kale-salad?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9cf04873-d38c-4f81-a31f-034a458ebc0a.jpg?ver=1523988655000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/488a7638-50cb-497f-bcd6-32846fb40215.jpg?ver=1523988656000"
+  img_alt: "ORGANIC EARTHBOUND FARM SALADS ALL VARIETIES, 5 OZ. members pay 3.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c1e26995-ee90-4df8-af10-014a3552278a.jpg?ver=1523988656000"
+  img_alt: "LOCALLY RAISED OUTSIDE SKIRT STEAKS members pay 15.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c4d57d40-ec71-4a51-9dcb-69f7abaa0d0a.jpg?ver=1523988656000"
+  img_alt_2: "LOCALLY RAISED 85% LEAN GROUND BEEF members pay 5.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/33b7109d-a40c-44c9-8c9b-486e07a9850f.jpg?ver=1523988656000"
+  img_alt: "ORGANIC BABY CARROTS 16 OZ. members pay 1.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4e368a02-fa4a-4f94-a087-7ee7119d87a4.jpg?ver=1523988656000"
+  img_alt_2: "SAVE $3.98 ON 2 DRISCOLL&#39;S BLUEBERRIES OR RASPBERRIES 6 OZ. members pay 2/8."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9b567a8d-22c2-4431-bf54-d1b4f8de9e83.jpg?ver=1523988656000"
+  img_alt: "VIEW WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8d380a2-a157-4af8-a0cc-ac0d18be6ba2.jpg?ver=1523988656000"
+  img_alt: "LOCAL SPOTLIGHT GRIGGSTOWN FARM NEW! Some of the juiciest and most delicious chicken comes from a family farm in historic Griggstown, NJ. Their FREE-RANGE, ALL-NATURAL POULTRY is processed onsite for the ultimate freshness. Pick up a WHOLE CHICKEN for roasting or their world famous CHICKEN POT PIE today!"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1b7f7594-937e-4386-8237-38769dd103bd.jpg?ver=1523988657000"
+  img_alt: "AVAILABLE IN THE MEAT DEPT LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de483c1e-6368-441a-8a5b-d13f63ed85a6.jpg?ver=1523988657000"
+  img_alt: "TIPS & TRICKS Smart Tips to Reduce Food Waste"
+  url: "https://kingsfoodmarkets.com/unique-recipes/how-to-make-vinegar-from-leftover-wine?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9e87ac8a-85dd-41d0-8010-fdbc2254917f.jpg?ver=1523988657000"
+  img_alt: "HOW TO Make Vinegar from Leftover Wine Learn More >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/how-to-make-vinegar-from-leftover-wine?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/65432406-ae96-4f9a-87d4-d4481c5dd561.jpg?ver=1523988657000"
+  img_alt_2: "HOW TO Make Veggie Broth with Veggie Scraps Learn More >"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/how-to-make-veggie-broth-with-veggie-scraps?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/17e88b15-e689-45cd-89c6-5811221c0ae2.jpg?ver=1523988657000"
+  img_alt_3: "HOW TO Store Fresh Produce Learn More >"
+  url_3: "https://kingsfoodmarkets.com/unique-recipes/how-to-store-fresh-produce?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/83af277a-3407-4009-9319-3a86b5e84f1b.jpg?ver=1523988657000"
+  img_alt: "DID YOU KNOW? WE OFFER ECO-FRIENDLY PACKAGING! In an effort to reduce our environmental impact, we are proud to offer a selection of SUSTAINABLE PACKAGING, BAGS and PAPER PRODUCTS."
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de1476fa-cc29-4f9a-9678-33cf975a714e.jpg?ver=1523988657000"
+  img_alt: "CLEAN GREEN! Earth-Friendly Cleaning Products EARTH FRIENDLY LIQUID ECOS DETERGENT EARTH FRIENDLY DISHMATE SOAP EARTH FRIENDLY ECOS HAND SOAP KINGS INSPIRATION RECYCLE BAG"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/44d0c990-acbd-4d76-a131-7796893c5e86.jpg?ver=1523988657000"
+  img_alt: "VIEW MORE >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6a6b11d4-e809-43e8-ac5f-97c68dbe95eb.jpg?ver=1523988658000"
+  img_alt: "ITALIAN FAVORITES Join us in-store for our AUTHENTIC ITALIAN CELEBRATION! Enjoy PRODUCT DEMOS, TASTINGS and SPECIAL SAVINGS on Italian favorites. DEMOS AT SELECT LOCATIONS SALE 4/13 - 4/26"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/55a375e2-653e-4823-91b4-16f2cce2f4c6.jpg?ver=1523988658000"
+  img_alt: "ILLY COFFEE, KINGS PASTA BY FILOTEA, GIUSTI BALSAMIC GLAZE, COMPAGNIA SANREMO PASTA SAUCE LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4f9ec368-3b73-4f71-af68-453ef46fb789.jpg?ver=1523988658000"
+  img_alt: "WHAT&#39;S NEW IN STORE"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/044ed77e-219a-4a7f-a4bd-2b6be4a56ce5.jpg?ver=1523988658000"
+  img_alt: "ADMINISTRATIVE PROFESSIONALS DAY IS APRIL 25TH! Pre-order the perfect gifts to show your appreciation, including spa and home products, fresh flowers and plants, candies and more! View More >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0420_KF_WeeklyEmail"
+
