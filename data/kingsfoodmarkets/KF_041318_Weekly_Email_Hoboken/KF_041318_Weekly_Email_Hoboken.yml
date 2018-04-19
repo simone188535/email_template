@@ -1,0 +1,181 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5b506972-e2af-4dbd-9674-abee430e5995.jpg?ver=1523539547000"
+  img_alt: "YUM ON THE RUN Pair our hot rotisserie chicken with Chef Prepared sides for a quick and delicious dinner. COMING NEXT WEEK! NEW! HOT SIDES MIX AND MATCH SIDES White Mac & Cheese • Mashed Potatoes Roasted Potatoes with Parmesan & Garlic Carrot Soufflé • Creamed Spinach Find them in the Rotisserie Chicken Warmer. LEARN MORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cc41b328-51e5-4b6e-959a-9b6840318d45.jpg?ver=1523539547000"
+  img_alt: "YUM ON THE RUN Pair our hot rotisserie chicken with Chef Prepared sides for a quick and delicious dinner. COMING NEXT WEEK! NEW! HOT SIDES MIX AND MATCH SIDES White Mac & Cheese • Mashed Potatoes Roasted Potatoes with Parmesan & Garlic Carrot Soufflé • Creamed Spinach Find them in the Rotisserie Chicken Warmer. LEARN MORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2708b93d-e919-4219-a625-dc3a7a844bf9.jpg?ver=1523545172000"
+  img_alt: "myKINGS EXTRA! SAVINGS "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f0607086-cf94-48e5-93f9-5cd53904b476.jpg?ver=1523545173000"
+  img_alt: "SAVE $1.50 lb. LOCALLY RAISED 93% LEAN GROUND BEEF members pay 5.99 LB. "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b26688f5-ce5f-42fa-b0a1-3f3305696bf1.jpg?ver=1523545173000"
+  img_alt_2: "SAVE 70¢ lb. BELL & EVANS WHOLE CHICKEN members pay 2.29 LB. "
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a5c9ae90-4c1a-4d63-9867-865ed3387b50.jpg?ver=1523545173000"
+  img_alt: "SAVE $1 lb. FRESH GREEN ASPARAGUS members pay 3.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c533c8b8-0a87-4a0e-b9d5-767424e38498.jpg?ver=1523545173000"
+  img_alt_2: "SAVE 98¢ on 2 FRESH EXPRESS SALAD BLENDS members pay 2/7. "
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/42876610-8a2d-4795-9a9b-404a0f391831.jpg?ver=1523545173000"
+  img_alt: "View More Specials and Make a List VIEW HOBOKEN WEEKLY SALES "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/353d665d-ddc4-4051-8535-d453f2014deb.jpg?ver=1523539548000"
+  img_alt: "ITALIAN FAVORITES Join us in-store for our AUTHENTIC ITALIAN CELEBRATION! Enjoy PRODUCT DEMOS, TASTINGS and SPECIAL EVENTS on Italian Favorites. DEMOS AT SELECT LOCATIONS SALE 4/13-4/26 ILLY COFFEE KINGS PASTA BY FILOTEA GIUSTI BALSAMIC GLAZE CAMPAGNA SANREMO PASTA SAUCE LEARN MORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/59fefb2d-164a-4ea4-ae47-8c6e6ecf0b57.jpg?ver=1523539548000"
+  img_alt: "ITALIAN FAVORITES Join us in-store for our AUTHENTIC ITALIAN CELEBRATION! Enjoy PRODUCT DEMOS, TASTINGS and SPECIAL EVENTS on Italian Favorites. DEMOS AT SELECT LOCATIONS SALE 4/13-4/26 ILLY COFFEE KINGS PASTA BY FILOTEA GIUSTI BALSAMIC GLAZE CAMPAGNA SANREMO PASTA SAUCE LEARN MORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dd9e1f5d-11ea-49df-b7b7-db96f93f4cca.jpg?ver=1523539548000"
+  img_alt: "ITALIAN FAVORITES Join us in-store for our AUTHENTIC ITALIAN CELEBRATION! Enjoy PRODUCT DEMOS, TASTINGS and SPECIAL EVENTS on Italian Favorites. DEMOS AT SELECT LOCATIONS SALE 4/13-4/26 ILLY COFFEE KINGS PASTA BY FILOTEA GIUSTI BALSAMIC GLAZE CAMPAGNA SANREMO PASTA SAUCE LEARN MORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dd9e1f5d-11ea-49df-b7b7-db96f93f4cca.jpg?ver=1523539548000"
+#   img_alt: "ITALIAN FAVORITES Join us in-store for our AUTHENTIC ITALIAN CELEBRATION! Enjoy PRODUCT DEMOS, TASTINGS and SPECIAL EVENTS on Italian Favorites. DEMOS AT SELECT LOCATIONS SALE 4/13-4/26 ILLY COFFEE KINGS PASTA BY FILOTEA GIUSTI BALSAMIC GLAZE CAMPAGNA SANREMO PASTA SAUCE LEARN MORE"
+#   url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6c27f66e-a7dc-4a38-8e0f-2771aed8dd50.jpg?ver=1523539548000"
+  img_alt: "ITALIAN FAVORITES Join us in-store for our AUTHENTIC ITALIAN CELEBRATION! Enjoy PRODUCT DEMOS, TASTINGS and SPECIAL EVENTS on Italian Favorites. DEMOS AT SELECT LOCATIONS SALE 4/13-4/26 ILLY COFFEE KINGS PASTA BY FILOTEA GIUSTI BALSAMIC GLAZE CAMPAGNA SANREMO PASTA SAUCE LEARN MORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c9143fcf-53da-49ad-a5cd-8ecbe9a3692d.jpg?ver=1523539548000"
+  img_alt: "PRETTY AS A PICNIC CHEF PREPARED"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6b8a1aaf-834f-4047-a0ef-2cfad4bf9cf3.jpg?ver=1523539549000"
+  img_alt: "Bright colors and fresh flavors ready to GRAB AND GO wherever your weekend takes you."
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ed5941b3-d55e-4f79-ab15-626d852fce83.jpg?ver=1523539549000"
+  img_alt: "TOMATO, CUCUMBER & DILL SALAD"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d75b50aa-a0e9-4f07-97eb-3fa1667bf016.jpg?ver=1523539550000"
+  img_alt_2: "CREAMY PESTO PASTA SALAD"
+  url_2: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6b5dfd5c-ae05-4d70-a0e6-5390319984e0.jpg?ver=1523539550000"
+  img_alt: "VIEW MORE"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4aa48744-bd35-4356-9c80-846c0a564a61.jpg?ver=1523539550000"
+  img_alt: "SPRING SOIREE CATERING"
+  url: "https://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5a32a06b-1472-450c-80c1-2743cc047c2d.jpg?ver=1523539550000"
+  img_alt: "From lawn parties to formal occasions, FRESH and SEASONAL items from our CATERING MENU have you covered!"
+  url: "https://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/35e4833b-90d3-448c-88df-468e3ff5f7d1.jpg?ver=1523539550000"
+  img_alt: "VIEW CATERING MENU"
+  url: "https://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/50e8eb4f-cae8-4b05-b27f-9cc0a36bf551.jpg?ver=1523539550000"
+  img_alt: "MAIN SQUEEZE LIMONEIRA SPECIALY LEMONS"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/348ef14d-ac88-4352-a8e3-ce99bc58fcfa.jpg?ver=1523539551000"
+  img_alt: "SALMON SALAD WITH LEMON VINAIGRETTE VIEW RECIPE SATURDAY, 4/21 CRESSKILL*"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/38da24a2-dc2f-4fdf-af42-be1c6d97cf35.jpg?ver=1523539551000"
+  img_alt_2: "PUCKER UP PINK SMOOTHIE VIEW RECIPE SATURDAY, 4/28 BOONTON*"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f47e88a3-3fab-489b-bba2-2c7e8c663ca0.jpg?ver=1523539551000"
+  img_alt_3: "CREAMY MEYER LEMON PENNE PASTA VIEW RECIPE SATURDAY, 4/14 SHORT HILLS*"
+  url_3: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f0dbadce-a45f-41db-af24-8dd6ba4b9322.jpg?ver=1523539551000"
+  img_alt: "*In-store demos help from 10AM - 2PM at the listed locations."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8737d0a9-478f-49e9-9f4f-2b9a538e956f.jpg?ver=1523539551000"
+  img_alt: "LEARN MORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/16ff1992-1d47-48e7-9f5c-7d058f02d602.jpg?ver=1523539552000"
+  img_alt: "WHAT'S NEW TAKE A MEMO"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/da738890-6e4a-47e5-aa5d-075585a9d570.jpg?ver=1523539552000"
+  img_alt: "CALL TO RESERVE YOUR FLOWERS Celebrate ADMINISTRATIVE PROFESSIONAL'S DAY by giving the perfect gifts to show your appreciation, including fresh flowers and plants, candies and more. LEARN MORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0413_KF_WeeklyEmail"

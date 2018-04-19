@@ -1,0 +1,127 @@
+title: 'SAVE BIG! Your Outdoor Oasis Awaits'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_05.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "https://twitter.com/oldtimepottery#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_06.jpg"
+outdoor_img_alt: "Check Out Our New Ad!"
+outdoor_img_link: "http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=otp_ad"
+
+preheader_text: 'Sale prices for your home, inside and out!'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_09.jpg'
+  image_alt: 'CREATE YOUR OWN OASIS FOR LESS! VIEW AD Valid at all stores except Greenville, SC; Knoxville, TN; Marietta, GA; and Orange Park, FL. 99.99 Sale 6pc Patio Set Includes 36&#34; x 36&#34; glass top table, 4 folding chairs and 6&#39; umbrella. REG. PRICE $129.99 SAVE $30 OFF OUR LOW PRICE'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=view_ad'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_12.jpg'
+  image_alt: 'MORE CAN&#39;T-MISS SALE PRICES 299.99 Sale 4pc Hampton All-Weather Conversation Patio Set Includes cushions. REG. PRICE $399.99 SAVE $100 OFF OUR LOW PRICE'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=hampton_patio_set'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_15.jpg'
+  image_alt: 'HOT DEAL! 49.99 Sale 3pc Ashford Bistro Set Includes 2 chairs and 24&#34; table. REG. PRICE $79.99 SAVE $30 OFF OUR LOW PRICE'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=ashford_bistro_set'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_18.jpg'
+  image_alt: 'HOT DEAL! 9.99 Sale 10&#34; Gazing Balls REG. PRICE $14.99 $5.99 Stand REG. PRICE $7.49'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=gazing_balls'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_21.jpg'
+  image_alt: 'OUTDOOR SOLAR DÉCOR ON SALE'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=solar_decor'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_24.jpg'
+  image_alt: 'ALL PLANTERS ON SALE, HURRY IN! SALE PRICES UP TO 30% OFF OUR LOW PRICE'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=all_planters_on-sale'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_27.jpg'
+  image_alt: 'REFRESH YOUR HOME FOR LESS'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=glass_drinkware'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_30.jpg'
+  image_first_alt: 'HOT DEAL! 99¢ Sale Glass Drinkware REG. PRICE $1.49 - $1.69'
+  image_first_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=glass_drinkware'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_31.jpg'
+  image_second_alt: 'QUEEN OR KING HOT DEAL! 29.99 Sale 100% Cotton 400-500 Thread Count Sheet Sets Assorted colors. REG. PRICE $39.99 - $49.99'
+  image_second_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=sheet_sets'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_34.jpg'
+  image_first_alt: 'LOWEST PRICE of the YEAR! HOT DEAL! 29.99 Sale Parsons Chairs Grey, beige or faux leather. Selection varies by store. REG. PRICE $59.99'
+  image_first_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=parsons_chairs'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_35.jpg'
+  image_second_alt: '5&#39; x 7&#39; HOT DEAL! 39.99 Sale Woven, Shag, Tufted, Print, Tapestry, Indoor and Outdoor Sizes are approximate. Selection varies by store. REG. PRICE $49.99'
+  image_second_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=indoor-outdoor_rugs'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_38.jpg'
+  image_alt: '20% off OUR ALREADY LOW PRICES ALL LAMPS & SHADES Selection varies by store. SALE PRICE $7.99 - $47.99 | REG. PRICE $9.99 - $59.99'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=lamps_and_shades_20pff'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_41.jpg'
+  image_alt: '4.88 Sale | REG. PRICE $6.99 7.88 Sale | REG. PRICE $9.99 Silk Floral Bushes Large selection.'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=floral_silk_bushes'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_44.jpg'
+  image_alt: 'WALL DÉCOR, FRAMED & CANVAS ART ON SALE'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=wall_decor'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_041218_47.jpg'
+  image_alt: '20% OFF KITCHEN LINEN SETS ALL PHOTO FRAMES ALL LAMPS & SHADES ALL SCATTER RUGS ALL RUNNERS & SO MUCH MORE! Valid at all stores except Greenville, SC; Knoxville, TN; Marietta, GA; and Orange Park, FL. VIEW AD'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=20off_kitchen_linen-sets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_040318_12.jpg'
+  image_alt: 'CLEARANCE SAVINGS 30% OFF ALL YELLOW TAG MERCHANDISE'
+  image_link: 'http://oldtimepottery.com/yellow-tag#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=yellow-tag_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_052_031318_v1_R2_FNL_13.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=instrgram_otp_style'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=otp_giftcards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=update_your_profile'
+
+socialnav:
+- link: "https://www.instagram.com/oldtimepottery/#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery#utm_source=otp_weekly04_12&utm_medium=email&utm_campaign=outdoor_oasis&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"
