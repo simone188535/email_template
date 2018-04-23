@@ -1,0 +1,68 @@
+title: 'We See a Bright Future for Your Yard'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_folder3/OTP_042418_05.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/#utm_source=otp_weekly04_25&utm_medium=email&utm_campaign=bright_future_for_your_yard&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_folder3/OTP_042418_06.jpg"
+outdoor_img_alt: "YOUR OUTDOOR SUPERSTORE FIND YOUR STYLE!"
+outdoor_img_link: "http://oldtimepottery.com/outdoor#utm_source=otp_weekly04_25&utm_medium=email&utm_campaign=bright_future_for_your_yard&utm_term=discount_home_decor&utm_content=otp_outdoor"
+
+preheader_text: 'Hello, Sunshine!  Visit today for AMAZING prices.'
+preheader_link: 'http://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_042518_Alternate_05.jpg'
+  image_alt: 'GREAT IN THE LIGHT, BETTER AT NIGHT! FIND YOUR STYLE 1.  $6.99 6.5&#34; Deluxe Solar Rock Light 2.  $5.99 16.5&#34; Candle Lantern Stake 3.  $6.99 2pk Step Lights 4. $3.99 16&#34; Pathway, 12.75&#34; Garden or 14&#34; Crackle Glass Lights 5. $9.99 36&#34; Lantern with Shepherd&#39;s Hook'
+  image_link: 'http://oldtimepottery.com/outdoor#utm_source=otp_weekly04_25&utm_medium=email&utm_campaign=bright_future_for_your_yard&utm_term=discount_home_decor&utm_content=find_your_outdoor_style'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_042518_Alternate_08.jpg'
+  image_alt: 'SPRING & FARMHOUSE COLLECTIONS FIND YOUR STYLE'
+  image_link: 'https://oldtimepottery.com/homestore#farmhouse&utm_source=otp_weekly04_25&utm_medium=email&utm_campaign=bright_future_for_your_yard&utm_term=discount_home_decor&utm_content=farmhouse_style'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_041718_Email_05.jpg'
+  image_alt: 'CLEARANCE SAVINGS 30% OFF ALL YELLOW TAG MERCHANDISE'
+  image_link: 'http://oldtimepottery.com/yellow-tag#utm_source=otp_weekly04_25&utm_medium=email&utm_campaign=bright_future_for_your_yard&utm_term=discount_home_decor&utm_content=30off_yellow_tags'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_030718_15.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery#utm_source=otp_weekly04_25&utm_medium=email&utm_campaign=bright_future_for_your_yard&utm_term=discount_home_decor&utm_content=instrgram_otp_style'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/#utm_source=otp_weekly04_25&utm_medium=email&utm_campaign=bright_future_for_your_yard&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations#utm_source=otp_weekly04_25&utm_medium=email&utm_campaign=bright_future_for_your_yard&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/#utm_source=otp_weekly04_25&utm_medium=email&utm_campaign=bright_future_for_your_yard&utm_term=discount_home_decor&utm_content=otp_giftcards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/#utm_source=otp_weekly04_25&utm_medium=email&utm_campaign=bright_future_for_your_yard&utm_term=discount_home_decor&utm_content=update_your_profile'
+
+socialnav:
+- link: "https://www.instagram.com/oldtimepottery/#utm_source=otp_weekly04_25&utm_medium=email&utm_campaign=bright_future_for_your_yard&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery#utm_source=otp_weekly04_25&utm_medium=email&utm_campaign=bright_future_for_your_yard&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/#utm_source=otp_weekly04_25&utm_medium=email&utm_campaign=bright_future_for_your_yard&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery#utm_source=otp_weekly04_25&utm_medium=email&utm_campaign=bright_future_for_your_yard&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"
