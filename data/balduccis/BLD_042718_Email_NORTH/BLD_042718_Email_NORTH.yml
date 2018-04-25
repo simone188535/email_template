@@ -1,0 +1,121 @@
+title: '3 Crostini recipes. 1 word: YUM'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dbde55bc-62de-4292-84ba-ad8c26174f74.jpg?ver=1519917884000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://vimeo.com/215073766?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6d35da0e-9212-464d-80e2-3ec7fb5d3917.jpg?ver=1524571510000'
+  img_alt: 'Spring Soirée Let&#39;s party with ramped up ricotta crostini, sparkling sangria with a twist and flawless catering for your fete. Recipe Idea RICOTTA CROSTINI 3 TASTY WAYS WATCH VIDEO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/856ac66b-bf6a-40bd-921b-e61ee4553e31.jpg?ver=1524571511000'
+  img_alt: 'MOVABLE FEAST | SPRING EVENT CATERING'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/31cce414-1b90-4468-99d8-8443f3a70a51.jpg?ver=1524571512000'
+  img_alt: 'Plan Your Party Today! Let our professional catering coordinators help you build a menu full of fresh spring flavor. Planning the perfect party has never been easier! ORDER NOW Assorted Hors d&#39;oeuvres Antipasto Platter Sandwich Platter'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/000ee556-d3b5-4421-9949-a0bbf13028e8.jpg?ver=1524571511000'
+  img_alt: 'Plan Your Party Today! Let our professional catering coordinators help you build a menu full of fresh spring flavor. Planning the perfect party has never been easier! ORDER NOW Assorted Hors d&#39;oeuvres Antipasto Platter Sandwich Platter'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/567dfc41-cd51-47ce-9251-7a16765a4317.jpg?ver=1524571511000'
+  img_alt: 'Plan Your Party Today! Let our professional catering coordinators help you build a menu full of fresh spring flavor. Planning the perfect party has never been easier! ORDER NOW Assorted Hors d&#39;oeuvres Antipasto Platter Sandwich Platter'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7331d5b1-adea-4643-99c8-f2d04a724d06.jpg?ver=1524571511000'
+  img_alt: 'GRAB & GO | LIGHT & BRIGHT'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/71f7391f-a327-487e-8a9d-21cb79e08833.jpg?ver=1524571512000'
+  img_alt: 'CHICKEN SALAD WITH GRAPES'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/14c56a5f-897e-4447-97bd-dc7289579e91.jpg?ver=1524571512000'
+  img_alt_2: 'GREEK PASTA SALAD'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/38fdefa8-dec6-4b57-9307-28f34411a741.jpg?ver=1524571512000'
+  img_alt: 'SALUTE! | TOP SPRING WINE PICKS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e8522a6-37a3-4a8b-8b1b-f001d5f47768.jpg?ver=1524571512000'
+  img_alt: 'BALDUCCI&#39;S ROSÉ Bursting with fresh fruit flavors, this special Rosé is like springtime in a glass. BALDUCCI&#39;S GARNACHA A lavishly rich wine that is full-bodied, but smooth, silky and subtle enough for spring. BALDUCCI&#39;S PROSECCO From picnics in the park to special celebrations, our Prosecco is a perfect choice. *Only at Balducci&#39;s Greenwich, CT.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/076af5e7-1782-42e5-8468-563b3da8afcf.jpg?ver=1524571512000'
+  img_alt: 'LA VIE EN ROSÉ | SANGRIA WITH A TWIST'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/83b283f6-c16d-4ada-b1cf-3559dcc39e6a.jpg?ver=1524571513000'
+  img_alt: 'Recipe Idea STONE FRUIT SANGRIA VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c476e9df-0f93-45e5-b63f-1f966b729d28.jpg?ver=1524571513000'
+  img_alt: 'SWEET ON YOU | DESSERTS'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c328f1e6-8e45-49ff-9461-adba0c866205.jpg?ver=1524571513000'
+  img_alt: 'BALDUCCI&#39;S DULCE DE LECHE CAKE'
+  url_2: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/98017592-0e86-4cea-8dbc-c053d42f46b2.jpg?ver=1524571513000'
+  img_alt_2: 'BALDUCCI&#39;S CINNAMON WALNUT OR MARBLE COFFEE CAKES'
+
+- type: 'image'
+  url: 'https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d029193a-d13d-4d3b-9a54-ef945001161b.jpg?ver=1524571513000'
+  img_alt: 'WHAT&#39;S NEW'
+
+- type: 'image'
+  url: 'https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=042718_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/39f4e78a-0484-4bc4-b23e-85c4dabaf0f1.jpg?ver=1524571514000'
+  img_alt: 'Let&#39;s Be Social! Food Lover? Us too. Find us on Instagram @balduccismarket and share your foodie favorites using #balduccis. FOLLOW US'
