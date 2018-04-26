@@ -1,0 +1,185 @@
+title: 'Tangy, tart PINK LEMONS are our main squeeze.'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3c043b21-7928-4b62-85c8-935775850a80.jpg?ver=1524691490000"
+  img_alt: "A SQUEEZE OF SUNSHINE Cooking, sipping and even spring cleaning, there&#39;s nothing that sun-kissed citrus can&#39;t improve! Create KINGS CITRUS, FENNEL AND AVOCADO SALAD VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/kings-citrus-fennel-and-avocado-salad?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/60a90c52-0d76-491f-8b4f-fb04be192e64.jpg?ver=1524691490000"
+  img_alt: "CLASSIC OR PINK? LIMONEIRA SPECIALTY LEMONS"
+  url: "https://kingsfoodmarkets.com/"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8674d2b4-5cf1-4947-b38c-becb6a9488f8.jpg?ver=1524691490000"
+  img_alt: "The right lemon juice can make all the difference! Try these RECIPES and look for the LIMONEIRA DEMO IN STORE!"
+  url: "https://kingsfoodmarkets.com/"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c351705f-9725-4d2d-a72f-aa37b578149e.jpg?ver=1524691490000"
+  img_alt: "SALMON SALAD WITH LEMON VINAIGRETTE VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/salmon-salad-with-lemon-vinaigrette"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c1d76f22-efbc-490d-917b-004297a70205.jpg?ver=1524691491000"
+  img_alt_2: "SEASONAL! PUCKER UP PINK SMOOTHIE VIEW RECIPE"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/pucker-up-pink-smoothie"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7fa870fe-46af-4ee0-be1e-f56f14be1b73.jpg?ver=1524691491000"
+  img_alt: "https://kingsfoodmarkets.com/in-store-promotions"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f191012d-b6a7-4408-8128-99d33c9909ba.jpg?ver=1524691491000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d6ae83b-5766-415d-839c-eecc95b18bea.jpg?ver=1524691491000"
+  img_alt: "SAVE 97¢ ea. ORGANIC EARTHBOUND FARM CHOPPED SALAD KITS ALL VARIETIES 8.5-11 OZ. members pay 4.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/afb6bc21-c354-4e5b-927e-231bd269b6dc.jpg?ver=1524691491000"
+  img_alt_2: "SWEET RIPE MANGOES members pay 2/5."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/73a7be57-2a30-44be-a6da-ba062aef35ef.jpg?ver=1524691491000"
+  img_alt: "SAVE $1 lb. BELL & EVANS BONELESS SKINLESS CHICKEN BREASTS members pay 5.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4c4f75ef-1b18-441e-b184-3566d83b6bd5.jpg?ver=1524691493000"
+  img_alt_2: "SAVE $5 lb. FRESH WILD CAUGHT ATLANTIC LEMON SOLE FILLET members pay 18.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/35be981a-c8bc-44fd-a386-977042f75cb0.jpg?ver=1524691493000"
+  img_alt: "VIEW WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/936b77a2-19cc-40a2-9d39-2db7b3276329.jpg?ver=1524691493000"
+  img_alt: "THE FLAVOR OF CINCO DE MAYO!"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1ec892b1-5093-4050-85fd-6ba5b38c0f84.jpg?ver=1524691494000"
+  img_alt: "SAVE $1 lb. SWEET RED, YELLOW OR ORANGE PEPPERS members pay 2.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7429ca8d-f391-4c65-b458-f131c3f7b01e.jpg?ver=1524691494000"
+  img_alt_2: "CREAMY DELICIOUS HASS AVOCADOS members pay 2/5."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3718fd2c-e9a5-43a8-856e-c87bcf315709.jpg?ver=1524691494000"
+  img_alt: "FRESH GUACAMOLE"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/90a8607d-7a66-4316-9b46-8c5d913c3317.jpg?ver=1524691494000"
+  img_alt_2: "NUCHAS HANDMADE EMPANADAS"
+  url_2: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2633e890-814f-411c-8458-d865b9f33aa7.jpg?ver=1524691494000"
+  img_alt: "VIEW MORE"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2d4652ca-54a6-4a8f-a86a-f80455e807d1.jpg?ver=1524691494000"
+  img_alt: "SIP, SIP, HOORAY TRY THIS"
+  url: "https://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0c13e230-2f68-4ab2-b6c7-a3fa16b0bdcd.jpg?ver=1524691495000"
+  img_alt: "KINGS LEMONADES & SPARKLING WATERS Garnished, mixed, spiked or over ice, any way you serve them; they&#39;re refreshing! VIEW MORE"
+  url: "https://kingsfoodmarkets.com/kings-own-brand?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1ed978a8-4e9f-48eb-b4ea-310c77227246.jpg?ver=1524691495000"
+  img_alt: "CITRUS POWER SPRING CLEANING IDEAS"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/056921cb-9097-4622-94fc-2c68553f59e6.jpg?ver=1524691495000"
+  img_alt: "The power of citrus. ALL NATURAL, REFRESHING and ALL PURPOSE - just in time for spring!"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/35deb992-0072-4adb-b7d8-004b79e80c67.jpg?ver=1524691495000"
+  img_alt: "MICHEL DESIGN WORKS PRODUCTS"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f94292be-242e-4a61-921b-5055d13d027a.jpg?ver=1524691495000"
+  img_alt: "CITRUS ROOM SPRAY VIEW RECIPES"
+  url: "https://kingsfoodmarkets.com/unique-recipes/citrus-room-spray?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/144a3e05-ae42-42c9-999f-854460df2d84.jpg?ver=1524691495000"
+  img_alt_2: "CITRUS VINEGAR CLEANER"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/citrus-vinegar-cleaner"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/417c1838-2daa-42ac-ba74-78aa3567dc05.jpg?ver=1524691495000"
+  img_alt: "YUM ON THE RUN! NEW! HOT SIDES"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4174ecc2-b617-48c8-92d9-09323af5cf09.jpg?ver=1524691496000"
+  img_alt: "MIX & MATCH • White Mac & Cheese • Mashed Potatoes • Carrot Soufflé • Roasted Potatoes with Parmesan & Garlic • Creamed Spinach Find them in the ROTISSERIE CHICKEN WARMER! SIDES STARTING AT 6.99 LB."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b41dcee8-46e4-4389-abc9-9126208cce9e.jpg?ver=1524691496000"
+  img_alt: "LEARN MORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7891f669-25c8-4b78-9346-e556901e667d.jpg?ver=1524691496000"
+  img_alt: "FIND US ON INSTAGRAM"
+  url: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e985d5af-b2be-4cb6-ab68-4bcc5125e71b.jpg?ver=1524691496000"
+  img_alt: "FILL YOUR FEED WITH FOOD We want to see your #KingsInspiration! Follow @kingsfoodmarket on Instagram and show us what you&#39;re cooking up. FOLLOW US"
+  url: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0427_KF_WeeklyEmail"
+
