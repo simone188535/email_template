@@ -1,0 +1,72 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0a93cdf4-ed21-4fc6-b28e-e199cdc70f4f.jpg?ver=1485802366000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts/all_baskets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5aaafd7d-85e3-42e4-a66d-1b3c4eaab001.jpg?ver=1524234103000'
+  img_alt: 'Celebrate ADMINISTRATIVE PROFESSIONALS DAY! WEDNESDAY, APRIL 25TH Say &#34;Thank You&#34; with our lovely gift baskets, fresh cut flowers, gourmet chocolates, gift cards and more! Our Chocolate Lover&#39;s Basket includes all our favorite treats to create the perfect gift!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts/all_baskets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6b9826c3-8df8-45db-aebd-2f5fc6290649.jpg?ver=1524234103000'
+  img_alt: 'Celebrate ADMINISTRATIVE PROFESSIONALS DAY! WEDNESDAY, APRIL 25TH Say &#34;Thank You&#34; with our lovely gift baskets, fresh cut flowers, gourmet chocolates, gift cards and more! Our Chocolate Lover&#39;s Basket includes all our favorite treats to create the perfect gift!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts/all_baskets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3fcd076f-45e7-4140-bd1f-e66a062acbd1.jpg?ver=1524234103000'
+  img_alt: 'VIEW GIFT BASKETS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/875423a1-96a8-4de6-8497-cf7cc642ccd4.jpg?ver=1524234103000'
+  img_alt: 'SHOW YOUR APPRECIATION WITH A THOUGHTFUL GIFT CALL 1.866.278.8866 TO RESERVE FOR PICK-UP'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6715c06c-f0cc-4cc1-9564-0592fc7b0e40.jpg?ver=1524234104000'
+  img_alt: '5&#34; ORCHID IN POTASSORTED COLORS 24.99 EA SUCCULENTS ASSORTED VARIETIES 10.99 EA VINEYARD BOUQUET ASSORTED COLORS 21.99 EA. BALDUCCI&#39;S TRUFFLES GIFT BOX 12 PIECE, 4.56 OZ. 17.99 EA. MICHEL DESIGN WORKS ASSORTED BATH & BODY, CANDLES AND HOME DÉCOR. DESIGNS VARY BY STORE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_BLD_Admin_Professionals_Day'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/40f3f0b1-950e-45d3-adfc-78c0b1a72f80.jpg?ver=1524234104000'
+  img_alt: '5&#34; ORCHID IN POTASSORTED COLORS 24.99 EA SUCCULENTS ASSORTED VARIETIES 10.99 EA VINEYARD BOUQUET ASSORTED COLORS 21.99 EA. BALDUCCI&#39;S TRUFFLES GIFT BOX 12 PIECE, 4.56 OZ. 17.99 EA. MICHEL DESIGN WORKS ASSORTED BATH & BODY, CANDLES AND HOME DÉCOR. DESIGNS VARY BY STORE'
+

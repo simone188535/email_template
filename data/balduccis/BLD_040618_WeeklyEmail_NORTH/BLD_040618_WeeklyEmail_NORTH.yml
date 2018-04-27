@@ -1,0 +1,97 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9305955d-9307-45fd-91f9-37f7c5ef8875.jpg?ver=1481654043000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/adfa6973-76f5-4f05-be2d-c33d4c362055.jpg?ver=1481654043000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/96cfd827-a32f-42ad-b48b-1872aa1827f1.jpg?ver=1481654043000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f285a4fa-a726-4c81-ac06-af7fca8e8a4d.jpg?ver=1484773052000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/salads?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f05524fb-c98f-4d0e-a261-adb99256a707.jpg?ver=1522959659000'
+  img_alt: 'Spring Refresh Pair local beef with fresh spring vegetables for simple, delicious seasonal eating. Recipe Idea MEDITERRANEAN STEAK & KALE SALAD VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/salads?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/72108eba-2445-4b99-8fd4-820bf6172970.jpg?ver=1522959659000'
+  img_alt: 'Spring Refresh Pair local beef with fresh spring vegetables for simple, delicious seasonal eating. Recipe Idea MEDITERRANEAN STEAK & KALE SALAD VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/75ef833d-75df-4055-9023-1b61388143a3.jpg?ver=1522959659000'
+  img_alt: 'CLOSE TO HOME | LOCAL BEEF We source LOCAL, ALL-NATURAL ANGUS CATTLE from farms in New York, Pennsylvania, Virginia and Maryland to bring you the highest quality and healthiest beef available. Our expert butchers hand cut in store every day to ensure the perfect cut every time. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/543040c0-b3a5-472b-a0eb-eca0bae85273.jpg?ver=1522959659000'
+  img_alt: 'FEATURED FAMILY FARM THE COLES FAMILY TRIPLE C FARM, NEW JERSEY &#34;We are strictly a family run farm and do not use any growth hormones or antibiotics. We grow all of our own crops that feed our cows.&#34;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9204d895-64c1-4601-ad06-e8ff370a017d.jpg?ver=1522959660000'
+  img_alt: 'MEMBER EXCLUSIVE GET $5 OFF YOUR TOTAL PURCHASE OF $25 OR MORE ON LOCAL BEEF ITEMS 3/30/18 - 4/26/18 EASY SHOP Offer is already loaded to your card!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/341c0b33-4825-4e93-bd03-caaf48a5d63b.jpg?ver=1522959660000'
+  img_alt: 'SAY CHEESE! | CREATE A CHEESE PLATE "SPRING BEAUFORT CHEESE This cheese is firm and flowery, with a milky, smooth taste. MEMBER EXCLUSIVE 29.99/LB. Reg 34.99/LB. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/392d0fe5-4f76-4ea6-bcf8-b64b6084081d.jpg?ver=1522959660000'
+  img_alt: 'ALP BLOSSOM Herbs and flowers grace the rind of this Appenzeller-like cheese. It&#39;s savory, dense and wonderfully melty! MEMBER EXCLUSIVE 27.99/LB. Reg 29.99/LB.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/506f83aa-34a7-4642-b51a-56199cfeab56.jpg?ver=1522959660000'
+  img_alt: 'BALDUCCI&#39;S HOUSE MADE PARMIGIANO REGGIANO CRISPS Export-quality Parmigiano Reggiano baked into perfectly irresistible crisps for a delicious snack. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5c8fa2f8-aa9a-485e-8a3f-d662d543836e.jpg?ver=1522959660000'
+  img_alt: 'LIGHT & BRIGHT | GRAB & GO'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d18deaaa-008f-40b4-a8d1-ef67d23ed22d.jpg?ver=1522959661000'
+  img_alt: 'CARIBBEAN MANGO CHICKEN SALAD'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9d0205cb-f94e-44fe-aeab-58f938dff6d2.jpg?ver=1522959661000'
+  img_alt_2: 'CARROT RISOTTO WITH SNOW PEAS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=040618_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/eaaa767d-67ae-4b60-b8c7-06c493964834.jpg?ver=1522959661000'
+  img_alt: 'CATERING SOLUTIONS | SIMPLE + DELICIOUS CUSTOM MEALS FOR ANY EVENT Created with this season&#39;s freshest ingredients, our Chef Prepared catering menu has just the thing for any occasion. VIEW MENU'
+

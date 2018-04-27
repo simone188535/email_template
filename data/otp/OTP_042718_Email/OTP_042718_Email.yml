@@ -1,0 +1,71 @@
+title: 'Sale Prices for the Perfect Patio'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_folder3/OTP_042718_Email_03.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=otp_weekly04_27&utm_medium=email&utm_campaign=the_perfect_patio&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_folder3/OTP_042718_Email_04.jpg"
+outdoor_img_alt: "YOUR OUTDOOR SUPERSTORE FIND YOUR STYLE!"
+outdoor_img_link: "http://oldtimepottery.com/outdoor#utm_source=otp_weekly04_27&utm_medium=email&utm_campaign=the_perfect_patio&utm_term=discount_home_decor&utm_content=otp_outdoor"
+
+preheader_text: 'Relax, we have this HOT DEAL thing covered.'
+preheader_link: 'http://oldtimepottery.com/'
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_042718_Email_06.jpg'
+  image_alt: '3 GREAT SETSENDLESS POSSIBILITIES VIEW SELECTION 329.99 3pc Sierra All-Weather Patio Set Includes cushions. 399.99 4pc Hampton All-Weather Patio Set  Includes cushions. 399.99 4pc Rockport All-Weather Patio Set Includes cushions Pillows sold separately.'
+  image_link: 'http://oldtimepottery.com/outdoor#utm_source=otp_weekly04_27&utm_medium=email&utm_campaign=the_perfect_patio&utm_term=discount_home_decor&utm_content=3_great_patio_sets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_042718_Email_07.jpg'
+  image_alt: '5&#34; x 7&#34; 49.99 8&#34; x 10&#34; 129.99 Woven, Shag, Tufted, Print, Tapestry, Indoor and Outdoor Sizes are approximate. Selection varies by store.'
+  image_link: ''
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_042718_Email_08.jpg'
+  image_alt: 'Wing Flare Sweetheart MADE IN THE USA 149.99 Upholstered Chairs  Huge selection of colors and patterns. Varies by store. '
+  image_link: ''
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_042718_Email_09.jpg'
+  image_alt: 'CLEARANCE SAVINGS 30% OFF ALL YELLOW TAG MERCHANDISE '
+  image_link: 'http://oldtimepottery.com/yellow-tag#utm_source=otp_weekly04_27&utm_medium=email&utm_campaign=the_perfect_patio&utm_term=discount_home_decor&utm_content=30off_yellowtags'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_042718_Email_10.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery#utm_source=otp_weekly04_27&utm_medium=email&utm_campaign=the_perfect_patio&utm_term=discount_home_decor&utm_content=instrgram_otp_style'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/#utm_source=otp_weekly04_27&utm_medium=email&utm_campaign=the_perfect_patio&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'http://oldtimepottery.com/locations?utm_source=otp_weekly04_27&utm_medium=email&utm_campaign=the_perfect_patio&utm_term=discount_home_decor&utm_content=locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/#utm_source=otp_weekly04_27&utm_medium=email&utm_campaign=the_perfect_patio&utm_term=discount_home_decor&utm_content=otp_gift_cards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/#utm_source=otp_weekly04_10&utm_medium=email&utm_campaign=on_sale_all_wall_decor&utm_term=discount_home_decor&utm_content=update_profile'
+
+socialnav:
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=otp_weekly04_27&utm_medium=email&utm_campaign=the_perfect_patio&utm_term=discount_home_decor&utm_content=instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly04_27&utm_medium=email&utm_campaign=the_perfect_patio&utm_term=discount_home_decor&utm_content=facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly04_27&utm_medium=email&utm_campaign=the_perfect_patio&utm_term=discount_home_decor&utm_content=pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery1?utm_source=otp_weekly04_27&utm_medium=email&utm_campaign=the_perfect_patio&utm_term=discount_home_decor&utm_content=twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"

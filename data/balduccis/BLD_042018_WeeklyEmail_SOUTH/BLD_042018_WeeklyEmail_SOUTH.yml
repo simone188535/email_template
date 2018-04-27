@@ -1,0 +1,109 @@
+title: 'Go Green! Local, fresh & seasonal eats.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0a93cdf4-ed21-4fc6-b28e-e199cdc70f4f.jpg?ver=1485802366000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b0957754-080d-4e04-9dda-3df29d31e07d.jpg?ver=1524062467000'
+  img_alt: 'We Love LOCALThe finest fresh beef, chicken and all-natural foods from right around the corner.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/57576390-916d-4bf4-a964-ebcf9f733b5d.jpg?ver=1524062467000'
+  img_alt: 'We Love LOCALThe finest fresh beef, chicken and all-natural foods from right around the corner.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a09a02b6-2466-4159-95a6-9155aa3b5fae.jpg?ver=1524062469000'
+  img_alt: 'TOP 4 REASONS TO EAT LOCAL 1. FRESH TASTES BESTAll-natural food ships right from the farm to our store 2. STAY SEASONALLocal, seasonal foods offer the highest quality and freshness'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/77a1ec2d-e82b-49e9-b8a0-af83a70e7b19.jpg?ver=1524062469000'
+  img_alt: '3. LOVE THE ENVIRONMENTLocally sourced food produces a low carbon footprint 4. CREATE COMMUNITYEasting local is shopping local, supporting your local economy'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c5d20be1-c51a-49c7-90b1-4bf149cd4450.jpg?ver=1524062470000'
+  img_alt: 'LOCAL SPOTLIGHT GRIGGSTOWN FARMPremium Local Free Range ChickenPick up a fresh Griggstown Farm whole chicken for roasting or try their world-famous chicken pot pie. MEAT DEPARTMENT'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/abcfddbb-73a5-41a1-8ea6-aa22a0b76586.jpg?ver=1524062470000'
+  img_alt: 'MEMBER EXCLUSIVE | LOCAL BEEF GRASS FED, ORGANIC BONELESS NEW YORK STRIP STEAK Prized for its fine texture and buttery flavor, the NY strip is tender with lovely fat marbling. MEMBER EXCLUSIVE 21.99/EA Reg 24.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f4242c97-5159-4bfc-9810-b61212dca12f.jpg?ver=1524062471000'
+  img_alt: 'GO GREEN! | MAKE-AT-HOME INSPIRATION Recipe of the Season SPRING CHOPPED SALAD WITH ARUGULA & ASPARAGUS VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fe1b9dbf-66d2-4092-96c8-716c1ac18707.jpg?ver=1524062471000'
+  img_alt: 'GRAB & GO | CHEF PREPARED '
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/661cdf79-8d30-4dfe-bfcd-45cfd73c6702.jpg?ver=1524062471000'
+  img_alt: 'VIETNAMESE CHICKEN BANH MI SANDWICH'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/123b5c23-cfde-4bf9-8264-b2d2ed166bcc.jpg?ver=1524062472000'
+  img_alt_2: 'HAM, SWISS & ARUGULA CREPE WRAP'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/616bc9ee-11e6-4d2e-a5a9-b93d357f9539.jpg?ver=1524062472000'
+  img_alt: 'GARDEN PARTY | CATERING Try a Custom Catered Salad Bar! Build your own bar from our wide selection of the freshest greens, house-made salad dressings and a variety of delicious proteins and veggies.VIEW MENU'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/63c26105-448c-459e-9427-6805c98d7218.jpg?ver=1524153221000'
+  img_alt: 'Spring It On! Join us Saturday, April 21st at Balducci&#34;s Alexandria, Bethesda and McLean stores for a spring wine and food tasting. Food Samplings…..12 noon-5pm Wine Samplings…..2-5pm MORE INFO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/gifts?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/97dbad63-1e68-4b7d-8640-9b0b02eb8037.jpg?ver=1524153221000'
+  img_alt: 'Celebrate Administrative Professionals Day! Administrative Professionals Day is Wednesday, April 25th. Choose from lovely gift baskets, flowers gift cards and more. VIEW GIFTS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=042018_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f0c7312a-cfe6-441b-b08a-6fc89b727cc7.jpg?ver=1524153221000'
+  img_alt: 'We&#34;re Going Digital! Rewards are now sent directly to your card when you earn 250 points! No more waiting for paper coupons in the mail. Happy shopping! MORE INFO'
