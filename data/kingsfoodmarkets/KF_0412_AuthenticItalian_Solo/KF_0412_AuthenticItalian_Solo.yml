@@ -1,0 +1,85 @@
+title: ''
+
+primary_color: ''
+
+background_color: ''
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0412_Authentic_Italian_Solo'
+logo_img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e50c4a0d-2cef-4fd7-9ecf-bb81cda647eb.jpg?ver=1505848983000'
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0412_Authentic_Italian_Solo'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://www.kingsfoodmarkets.com/circular/all_stores/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0412_Authentic_Italian_Solo'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0412_Authentic_Italian_Solo'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0412_Authentic_Italian_Solo'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0412_Authentic_Italian_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6289d646-393c-49be-842c-e2e2fe67ec22.jpg?ver=1523466261000"
+  img_alt: "AUTHENTIC ITALIAN Shop in-store from 4/13-4/26 to be entered for a chance to win an ITALIAN DINNER FOR 10 WITH CHEF FABIO."
+  url: "https://s3.amazonaws.com/kingscircular/pdf/AUTHENTIC_ITALIA.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0412_Authentic_Italian_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8bd544ee-2f9e-4ddf-a2c4-eeebddb7cb8e.jpg?ver=1523466261000"
+  img_alt: "ITALIAN FAVORITESDEMOS AT SELECT LOCATIONS Join us at your local Kings for in-store demos and sales on delicious authentic Italian cuisine."
+  url: "https://s3.amazonaws.com/kingscircular/pdf/AUTHENTIC_ITALIA.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0412_Authentic_Italian_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6042d801-9f84-4c94-a0eb-85563163ba71.jpg?ver=1523466262000"
+  img_alt: "ITALIAN FAVORITESDEMOS AT SELECT LOCATIONS Join us at your local Kings for in-store demos and sales on delicious authentic Italian cuisine."
+  url: "https://s3.amazonaws.com/kingscircular/pdf/AUTHENTIC_ITALIA.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0412_Authentic_Italian_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3860f927-db89-4abb-8b5b-66f7fa910985.jpg?ver=1523466262000"
+  img_alt: "KINGS PASTA BY FILOTEAGIUSTI BALSAMIC GLAZESAN REMO PASTA SAUCEGENOVESE PESTO SAUCECOLAVITA EXTRA VIRGIN OLIVE OILILLY COFFEE"
+  url: "https://s3.amazonaws.com/kingscircular/pdf/AUTHENTIC_ITALIA.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0412_Authentic_Italian_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d47280c1-2079-475f-849f-6501418df688.jpg?ver=1523466263000"
+  img_alt: "KINGS PASTA BY FILOTEAGIUSTI BALSAMIC GLAZESAN REMO PASTA SAUCEGENOVESE PESTO SAUCECOLAVITA EXTRA VIRGIN OLIVE OILILLY COFFEE"
+  url: "https://s3.amazonaws.com/kingscircular/pdf/AUTHENTIC_ITALIA.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0412_Authentic_Italian_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/483e0d83-6295-49d7-aeb3-c490c61b6b42.jpg?ver=1523466263000"
+  img_alt: "VIEW PRODUCTS & DEMOS"
+  url: "https://s3.amazonaws.com/kingscircular/pdf/AUTHENTIC_ITALIA.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0412_Authentic_Italian_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5a51aa31-47f5-4bdb-96f0-1c30ae7257dd.jpg?ver=1523466263000"
+  img_alt: "*Purchase authentic Italian items from 4/13/18 - 4/26/18 to be entered for the chance to win. One entry for each Authentic Italian item purchased. Offer available to myKings Extra Members with a valid address. "
+  url: "https://s3.amazonaws.com/kingscircular/pdf/AUTHENTIC_ITALIA.pdf?utm_source=weeklyemail&utm_medium=email&utm_campaign=0412_Authentic_Italian_Solo"
+
