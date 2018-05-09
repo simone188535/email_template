@@ -1,0 +1,86 @@
+title: 'Cheers Mom! Enjoy a Wine Tasting this Weekend'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/002295e7-616a-439f-b088-1ff0d5f677eb.jpg?ver=1525894629000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e37d3a68-73a6-49a2-af2b-7fd4388771c9.jpg?ver=1525894629000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1af164bd-3c4f-468e-81ff-32be710f4f4f.jpg?ver=1525894629000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9e1dcd81-0df2-4c3e-b787-43ec67e1bd54.jpg?ver=1525894629000"
+footer_instagram_alt: "instagram"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f9cea7fd-af93-4d98-a879-e92ba92f9a1e.jpg?ver=1525893299000'
+  img_alt: 'Wine Newsletter May 2018'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/06732c33-d8aa-4eb7-9932-1271ba17ce9d.jpg?ver=1525892804000'
+  img_alt: 'mother&#39;s day WEEKEND WINE EVENT SATURDAY, MAY 12th Food Tasting: 12pm-5pm Wine Tasting: 2pm-5pm PLUS • Spring Wines • Rosé Wines • Wines for Mom! SAVE 25% MIX & MATCH 12 BOTTLES OR MORE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c98bc0a5-1588-4199-9012-7d356958936e.jpg?ver=1525892804000'
+  img_alt: 'MUST HAVE WINES Take Spring by the glass and make the most of it with these incredibly refreshing, turn-your-head delicious &#34;must have Rosé wines!&#34;'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d283779b-374e-416a-8fef-8a6afd14b043.jpg?ver=1525895614000'
+  img_alt: 'Amble & Chase Provence Rosé 2017 19.99/800ML 4PK CANS 5.99/200ML CAN &#34;Sure, this wine seems slick to be packaged in cans, but it is quite good - in fact, it&#39;s one of the best Rosés I&#39;ve tasted from the 2017 vintage. These cans offer convenience for picnics or even a restaurant by-the-glass program.&#34; -The Washington Post'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b65647ea-8b52-4845-944e-9a32a7984813.jpg?ver=1525895614000'
+  img_alt: 'Bagordi Organic Rioja Rosado 2017 11.99/BTL &#34;This organic Rosé, made from 100 percent garnacha (garnache) grapes, is juicy with strawberry and raspberry flavors and an appealing bitterness that makes the finish refreshing.&#34; -The Washington Post'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c284061b-18e1-46ca-9301-889fc4f377ae.jpg?ver=1525895615000'
+  img_alt: 'Le Petit Balthazar Cinsault Rosé 2017 9.99/BTL &#34;This lovely, inexpensive Rosé is one of my favorites every year. It&#39;s delightful by itself but is also great with spicy and garlicky foods, so think of this with your Sichuan carryout or light lunches on the patio.&#34; -The Washington Post'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dcfa7fab-91ac-4d92-bb1a-d103da09d30e.jpg?ver=1525895614000'
+  img_alt: 'Lafage Miraflors Rosé 2017 17.99/BTL &#34;Pure, textured and elegant on the palate, with gorgeous purity, it&#39;s a rocking Rosé that does everything right. Hats off to vigneron Jean-Marc Lafage for another smoking good rosé!&#34; -The Washington Advocate 92pts.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/48822646-6b5b-4a8e-9e2f-3a3b801acc3b.jpg?ver=1525892805000'
+  img_alt: 'Balducci&#39;s Rosé 2017 14.99/BTL Produced by our longtime friend and European winemaking wunderkind Anton Bauer, this special bottling Rosé was drawn from his best lots of the 2017 vintage. It is simply bursting with fresh fruit flavors of red berries and springtime.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5dad6eed-f8d2-4cce-a484-3b56956f6494.jpg?ver=1525892805000'
+  img_alt: 'Alain Jaume Cairanne Les Travées 2015 24.99/BLT &#34;…offers copious amounts of blackberries, kirsch, crushed rocks and dried flowers. Full-bodied, layered and downright sexy, with no hard edges and beautiful purity.&#34; -Robert Parker 92pts.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0510_BLD_WineNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/821bf7fc-8448-4fbf-ad43-97946676e8ea.jpg?ver=1525892805000'
+  img_alt: 'COMING SOON BALDUCCI&#39;S SPRING 2018 RESTON, VA'
