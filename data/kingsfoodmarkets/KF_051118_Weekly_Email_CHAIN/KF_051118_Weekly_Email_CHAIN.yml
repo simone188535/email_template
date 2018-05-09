@@ -1,0 +1,183 @@
+title: 'We got you. Mom deserves the best for her special day.'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8b705b95-9ea9-4611-833d-fb5283ef93ea.jpg?ver=1525899011000"
+  img_alt: "Mom&#39;s SPECIAL DAY Celebrate Mom with exquisite eats and beautiful bouquets. Create BELGIAN WAFFLES WITH KINGS ORGANIC MAPLE SYRUP & STRAWBERRIES VIEW RECIPES"
+  url: "https://kingsfoodmarkets.com/unique-recipes/belgian-waffles-with-kings-organic-maple-syrup-and-strawberries?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d26d3909-aa20-4702-bef9-f50852a149c6.jpg?ver=1525899011000"
+  img_alt: "BREAKFAST EATS KINGS OWN MORNING ESSENTIALS Start Mom&#39;s day off with breakfast in bed!"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image-4-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3f8a2dc4-4da6-42d9-9c2a-f15b21c45d3d.jpg?ver=1525899012000"
+  img_alt: "KINGS FRESH BAKED CROISSANTS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6a9fdd22-396e-4db1-acfa-8eb4aa0df0f3.jpg?ver=1525899012000"
+  img_alt_2: "KINGS COFFEE"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71d37c7f-d4a8-40ad-bdc9-dd9e1f174709.jpg?ver=1525899012000"
+  img_alt_3: "KINGS FRESH LEMONADE BUY ONE GET ONE!"
+  url_3: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+  img_4: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/115e4a8a-eeb1-48ec-bd91-045385b0fc30.jpg?ver=1525899012000"
+  img_alt_4: "KINGS LEMON POPPY SEED MUFFINS"
+  url_4: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7a9793d9-3b2a-40d4-bb49-925f4880aa5d.jpg?ver=1525899012000"
+  img_alt: "VIEW MORE"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b3a3020f-21b0-455e-b2db-b256b3af1b05.jpg?ver=1525899012000"
+  img_alt: "BEAUTIFUL BLOOMS HONOR MOM WITH FLOWERS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f0aef8da-eb81-4291-af74-83f09a0ee259.jpg?ver=1525899012000"
+  img_alt: "Fresh and long-lasting roses in an array of colors and varieties. DOZEN ROSE BOUQUET WITH BABY&#39;S BREATH & GREENS Available through 5/13 members pay 19.99 EA. myKINGS extra!"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f0efb480-e31d-4436-9cb9-ae1d6a99d111.jpg?ver=1525899012000"
+  img_alt: "VINEYARD BOUQUET"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a942c553-ec2b-4994-a879-2b48c48f1229.jpg?ver=1525899012000"
+  img_alt_2: "MIMOSA BOUQUET"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c44140f1-39b6-402b-b00e-a4272784a528.jpg?ver=1525899013000"
+  img_alt: "CALL 1-866-446-3560 to place an order for PICK-UP"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2c15bb06-a5f3-4da3-a12f-563b6a16c975.jpg?ver=1525899013000"
+  img_alt: "BEST BRUNCH EVER MOTHER&#39;S DAY CATERING"
+  url: "https://kingsfoodmarkets.com/ordermothersday?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/28648224-6d65-4ac1-8a07-91099e18b02c.jpg?ver=1525899013000"
+  img_alt: "RESERVE A MEAL FOR 8 No reservation needed with MOTHER&#39;S DAY CATERING. [feeds 8-10 people]: • 8&#34; Quiche • Breakfast Pastry Platter • Mousse Cake • Fruit & Cheese Platter"
+  url: "https://kingsfoodmarkets.com/ordermothersday?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/28f718b4-59d3-48bb-9102-5edd6e32e45b.jpg?ver=1525899013000"
+  img_alt_2: "RESERVE A MEAL FOR 8 No reservation needed with MOTHER&#39;S DAY CATERING. [feeds 8-10 people]: • 8&#34; Quiche • Breakfast Pastry Platter • Mousse Cake • Fruit & Cheese Platter"
+  url_2: "https://kingsfoodmarkets.com/ordermothersday?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/75889ce1-2cce-452f-b61d-42da5cea4fb1.jpg?ver=1525899013000"
+  img_alt: "ORDER NOW"
+  url: "https://kingsfoodmarkets.com/ordermothersday?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5fa0db6b-edc3-4362-abab-4b51f72f4401.jpg?ver=1525899013000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fa019706-eaf1-483c-97be-3a0c6e68c61f.jpg?ver=1525899013000"
+  img_alt: "SAVE $5 lb. ORGANIC GRASS FED BEEF TENDERLOIN STEAKS members pay 24.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/22f4227a-943c-45ae-9461-98c2a24151fb.jpg?ver=1525899014000"
+  img_alt_2: "SAVE $5 lb. DRY DAY BOAT SEA SCALLOPS U15 CT. members pay 18.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/489bdaef-0a8d-48d4-a064-7f2b5e12cf10.jpg?ver=1525899014000"
+  img_alt: "SAVE $2 lb. FRESH GREEN ASPARAGUS members pay 2.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/42bbedea-f762-412f-87b4-0e6ae3bf03c5.jpg?ver=1525899014000"
+  img_alt_2: "SAVE $3.98 on 2 DRISCOLL&#39;S STRAWBERRIES 16 OZ. members pay 2/8."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/70b7331b-fcd1-4d98-b29a-4b6f6a96993a.jpg?ver=1525899014000"
+  img_alt: "VIEW WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a8d87746-59e2-4bf9-a320-5667931ee7cc.jpg?ver=1525899014000"
+  img_alt: "TREAT MOM TO A FIVE STAR DINNER"
+  url: "https://kingsfoodmarkets.com/unique-recipes/beef-tenderloin-steaks-with-sauteed-arugula-featuring-kings-peppercorn-stea?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57ba8bcd-39ca-4eed-9ce4-3d350d262cad.jpg?ver=1525899014000"
+  img_alt: "BEEF TENDERLOIN STEAKS WITH SAUTÉED ARUGULA VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/beef-tenderloin-steaks-with-sauteed-arugula-featuring-kings-peppercorn-stea?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/42283f90-686a-4fcc-aa99-9f91d5fc8169.jpg?ver=1525899014000"
+  img_alt_2: "SEARED SCALLOPS WITH TOMATO BEURRE BLANC VIEW RECIPE"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/pan-seared-scallops-withtomato-buerre-blanc?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d8204812-12b0-43c6-a641-9da8ed3fd312.jpg?ver=1525899015000"
+  img_alt: "KINGS PATISSERIE THE SWEETEST GIFT"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/702856d3-c0c5-4207-8812-674317304ffe.jpg?ver=1525899015000"
+  img_alt: "KINGS PATISSERIE FRESH FRUIT TART"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bbeda45d-ad7c-4ad9-9bb5-3eb15daa91eb.jpg?ver=1525899015000"
+  img_alt_2: "KINGS PATISSERIE STRAWBERRY CAKE"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e0113ce2-d000-4c19-b59d-8b8941b6b17b.jpg?ver=1525899015000"
+  img_alt: "VIEW MORE"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fbfbd7a4-7482-4fe5-96ea-1ed6458f9da1.jpg?ver=1525899015000"
+  img_alt: "WHAT&#39;S NEW IN STORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/78211fe8-f714-4b95-a095-163434e681df.jpg?ver=1525899015000"
+  img_alt: "GET A FREE KINGS BAGUETTE Receive a FREE KINGS BAGUETTE with the purchase of a wedge of ST. MANG BAVARIAN MADE DOUBLE CRÈME BRIE from 5/11-5/17. Demos at select stores! LEARN MORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
