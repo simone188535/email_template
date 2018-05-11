@@ -1,0 +1,93 @@
+title: 'Sale Prices, 50% Clearance, Mother&#39;s Day and more, OH MY!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_folder3/OTP_051218_05.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_folder3/OTP_051218_06.jpg"
+outdoor_img_alt: "Check Out Our New Ad!"
+outdoor_img_link: "https://oldtimepottery.com/spring-spectacular#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=spring-spectacular"
+
+preheader_text: 'It’s a great weekend for Old Time Pottery!'
+preheader_link: 'http://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_051218_09.jpg'
+  image_alt: 'SPRING Spectacular OUTDOOR EVENT! (20% OFF) 20% OFF All Outdoor Décor Includes statuary, solar lanterns, solar décor, all stakes, birdhouses/feeders, outdoor lighting, fountains and gazing balls.'
+  image_link: 'https://oldtimepottery.com/spring-spectacular#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=20off_outdoor-event'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_051218_12.jpg'
+  image_alt: '(20% OFF) 20% OFF All Market Umbrellas Excludes bases.'
+  image_link: 'https://oldtimepottery.com/spring-spectacular#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=umbrellas'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_051218_15.jpg'
+  image_alt: 'Wicker Chair Cushion SALE $14.99 Retail $17.99 -- Wicker Settee Cushion SALE $24.99 Retail $29.99'
+  image_link: 'https://oldtimepottery.com/spring-spectacular#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=wicker_chair_cushions'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_051218_18.jpg'
+  image_alt: '6pc Newport All-Weather Conversation Patio Set Includes 3-seater sofa, 2 chairs, 2 ottomans and 1 carefree laminate wood inlaid table.  SALE $499.99 Retail $599.99 THERE ARE MORE SALE PRICES IN-STORE! [SEE MORE SALE ITEMS]'
+  image_link: 'https://oldtimepottery.com/spring-spectacular#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=newport_patio-set '
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_051218_21.jpg'
+  image_alt: '5 WAYS TO MAKE MOM&#39;S DAY [GET INSPIRED] MOTHER&#39;S DAY IS TOMORROW! $9.99 MOM&#39;S FLOWER BASKET Special Offer Available while supplies last. May not be available in all stores.'
+  image_link: 'https://oldtimepottery.com/mothers-day#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=moms_flower-baskets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_051218_24.jpg'
+  image_alt: 'Just Starting 50% OFF YELLOW TAG CLEARANCE ALL DEPARTMENTS [LEARN MORE]'
+  image_link: 'http://oldtimepottery.com/yellow-tag#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=50off_yellow-tag_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_051218_27.jpg'
+  image_alt: 'Quick Pick! While Supplies Last! ENDS SUNDAY, MAY 13TH [SEE DETAILS] SAVE 50% $7.49 THE SANDY PILLOW PET BED | 24&#34; X 36&#34; CHOICE OF 3 PATTERNS REG. $14.99 Interior fill made from recycled bottles Support will not migrate from center of the bed'
+  image_link: 'http://oldtimepottery.com/quickpick#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=50off_pillow_pet_bed'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_051218_30.jpg'
+  image_alt: '30% OFF ALL KITCHEN & TABLE LINENS (LIMITED TIME OFFER!)'
+  image_link: ''
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_030718_15.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=instrgram_otp_style'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=otp_giftcards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/#utm_source=otp_weekly04_28&utm_medium=email&utm_campaign=big_weekend_sale_at_OTP&utm_term=discount_home_decor&utm_content=update_your_profile'
+
+socialnav:
+- link: "https://www.instagram.com/oldtimepottery/#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery#utm_source=otp_weekly05_12&utm_medium=email&utm_campaign=outdoor_event_continues&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"

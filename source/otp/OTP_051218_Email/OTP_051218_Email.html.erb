@@ -1,0 +1,222 @@
+	<% require 'active_support/all' %>
+<% instance_variable_set("@base_data_file", data.otp.OTP_051218_Email.OTP_051218_Email) %>
+<% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<style type="text/css">
+    /* This style block will be inlined when running 'grunt build' and stripped from the header */
+
+    table td {
+        border-collapse: collapse;
+		border-spacing: 0; 
+		mso-table-lspace: 0pt; 
+		mso-table-rspace: 0pt; 
+		text-align: left;
+    }
+    img {
+        display: block;
+        margin: 0;
+    }
+	.footer {
+		font: 10pt arial, sans-serif; 
+		color: #666666;
+		text-align: center;
+	}
+	a.footer {
+		font: 10pt arial, sans-serif; 
+		color: #888888;
+	}
+	.topLink {
+		color: #888888; 
+		text-decoration: underline;
+	}
+	.topSection, td.preheader {
+		color: #2a2a2a; 
+		font-family: Arial, Helvetica, sans-serif; 
+		font-weight: normal; 
+		font-size: 12px; 
+		line-height: 16px; 
+		border-collapse: collapse;
+	}
+	.topPreHeader {
+		text-align: left; 
+	}
+	.topViewWebPage {			
+		text-align: right;
+	}	
+
+</style>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+	<tr><td align="center">
+		<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+			<tr> 
+				<td align="center"><font style="FONT-SIZE: 10px; COLOR: #888888; LINE-HEIGHT: 14px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif">&nbsp;</font></td>
+			</tr>
+			<tr style="text-align: left;">
+				<td class="preheader">
+					<!--[if mso]><table border="0" cellpadding="0"  cellspacing="0" width="100%"><tr><td width="50%" valign="top"><![endif]-->
+					<table width="300" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row topSection">
+						<tr class="topPreHeader">
+							<td class="col column1 topSection topPreHeader" valign="top">
+								<a href="<%= @base_preheader_link %>" class="topLink" target="_blank"><%= @base_preheader_text %></a>
+								<br class="hideOnMob">
+								<br class="hideOnMob">
+							</td>
+						</tr>
+					</table>
+					<!--[if mso]></td><td width="50%" valign="top"><![endif]-->
+					<table width="300" border="0" cellpadding="0" cellspacing="0" align="right" class="force-row topSection">
+						<tr class="topViewWebPage">
+							<td class="col column2 topSection topViewWebPage" valign="top">
+								<a href="<%= @base_viewaswebpage_link %>" class="topLink" target="_blank"><%= @base_viewaswebpage_text %></a>
+								<br class="hideOnMob">
+								<br class="hideOnMob">
+							</td>
+						</tr>
+					</table>
+					<!--[if mso]></td></tr></table><![endif]-->
+				</td>
+			</tr>
+			<tr><td align="center">
+				<!-- Header -->
+				<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+				    <tr>
+				        <td>
+				            <a href="<%=@base_logo_img_link%>">
+				                <img src="<%=@base_logo_img_url%>" alt="<%=@base_logo_img_alt%>" title="<%=@base_logo_img_alt%>" border="0">
+				            </a>
+				        </td>
+
+				         <td>
+				            <a href="<%=@base_outdoor_img_link%>">
+				                <img src="<%=@base_outdoor_img_url%>" alt="<%=@base_outdoor_img_alt%>" title="<%=@base_outdoor_img_alt%>" border="0">
+				            </a>
+				        </td>
+				    </tr>
+				</table>
+		
+				<!-- Articles -->
+				<% @base_data_file.articles.each do |f| %>
+					<% if f["type"]=="image" %>
+					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+					    <tr>
+					        <td>
+					            <a href="<%= f["image_link"] %>">
+					                <img src="<%= f["image_url"] %>" alt="<%= f["image_alt"] %>" title="<%= f["image_alt"] %>" border="0">
+					            </a>
+					        </td>
+					    </tr>
+					</table>
+					<% end %>
+					<% if f["type"]=="images-2-columns" %>
+					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+					    <tr>
+					        <td>
+					            <a href="<%= f["image_first_link"] %>">
+					                <img src="<%= f["image_first_url"] %>" alt="<%= f["image_first_alt"] %>" title="<%= f["image_first_alt"] %>" border="0">
+					            </a>
+					        </td>
+					        <td>
+					            <a href="<%= f["image_second_link"] %>">
+					                <img src="<%= f["image_second_url"] %>" alt="<%= f["image_second_alt"] %>" title="<%= f["image_second_alt"] %>" border="0">
+					            </a>
+					        </td>
+					    </tr>
+					</table>
+					<% end %>
+
+					<% if f["type"]=="images-3-columns" %>
+					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+					    <tr>
+					        <td width="<%= f["image_first_width"] %>" height="<%= f["image_first_height"] %>">
+					            <a href="<%= f["image_first_link"] %>">
+					                <img src="<%= f["image_first_url"] %>" alt="<%= f["image_first_alt"] %>" title="<%= f["image_first_alt"] %>" border="0">
+					            </a>
+					        </td>
+					        <td width="<%= f["image_second_width"] %>" height="<%= f["image_second_height"] %>">
+					            <a href="<%= f["image_second_link"] %>">
+					                <img src="<%= f["image_second_url"] %>" alt="<%= f["image_second_alt"] %>" title="<%= f["image_second_alt"] %>" border="0">
+					            </a>
+					        </td>
+					        <td width="<%= f["image_third_width"] %>" height="<%= f["image_third_height"] %>">
+					            <a href="<%= f["image_third_link"] %>">
+					                <img src="<%= f["image_third_url"] %>" alt="<%= f["image_third_alt"] %>" title="<%= f["image_third_alt"] %>" border="0">
+					            </a>
+					        </td>
+					    </tr>
+					</table>
+					<% end %>
+
+
+					<% if f["type"]=="images-4-columns" %>
+					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+					    <tr>
+					        <td width="<%= f["image_first_width"] %>" height="<%= f["image_first_height"] %>">
+					            <a href="<%= f["image_first_link"] %>">
+					                <img src="<%= f["image_first_url"] %>" alt="<%= f["image_first_alt"] %>" title="<%= f["image_first_alt"] %>" border="0">
+					            </a>
+					        </td>
+					        <td width="<%= f["image_second_width"] %>" height="<%= f["image_second_height"] %>">
+					            <a href="<%= f["image_second_link"] %>">
+					                <img src="<%= f["image_second_url"] %>" alt="<%= f["image_second_alt"] %>" title="<%= f["image_second_alt"] %>" border="0">
+					            </a>
+					        </td>
+					        <td width="<%= f["image_third_width"] %>" height="<%= f["image_third_height"] %>">
+					            <a href="<%= f["image_third_link"] %>">
+					                <img src="<%= f["image_third_url"] %>" alt="<%= f["image_third_alt"] %>" title="<%= f["image_third_alt"] %>" border="0">
+					            </a>
+					        </td>
+					         <td width="<%= f["image_fourth_width"] %>" height="<%= f["image_fourth_height"] %>">
+					            <a href="<%= f["image_fourth_link"] %>">
+					                <img src="<%= f["image_fourth_url"] %>" alt="<%= f["image_fourth_alt"] %>" title="<%= f["image_fourth_alt"] %>" border="0">
+					            </a>
+					        </td>
+					    </tr>
+					</table>
+					<% end %>
+
+				<% end %>
+
+					<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+			          <!-- Footer nav -->
+
+			          <!-- Social links -->
+			          <tr>
+			            <td valign="top" align="center" class="social-links">
+
+							<table  width="600"  border="0" cellpadding="0" cellspacing="0" align="center">
+							        <tr>
+						                  <% @base_data_file.socialnav.each do |f| %>
+							                <td>
+						                        <a href="<%= f["link"] %>">
+						                                <img src="<%= f["img"] %>" alt="<%= f["alt"] %>" title="<%= f["alt"] %>" border="0">
+												</a>
+											</td>
+						                <% end %>
+							        </tr>
+							</table>
+
+			            </td>
+			          </tr>
+					  
+				</table>
+				
+				<!-- Footer -->
+				<table border="0" width="600" cellpadding="0" cellspacing="0" align="center">
+				    <tr>
+								<td class="footer">
+									<br/>
+									<p><span style="font-weight:bold;">ABOUT OLD TIME POTTERY:</span> Old Time Pottery, the place for heart and home, provides customers with a large assortment of home décor products at low prices, highlighted by unique finds through well-selected closeout merchandise and one time buys. With over 100,000 items throughout our stores, Old Time Pottery has savings for every style in Home Décor, Housewares, Bedding, Bath, Window Accents, Rugs, Furniture, Floral, Home Décor, Kitchen, and Dining Essentials.  Additionally, Old Time Pottery has one of the largest Seasonal selections in town, featuring “Your Outdoor Superstore” and “Your Largest Christmas Store.” Founded in 1986, Old Time Pottery is headquartered in Murfreesboro, Tennessee and currently operates 43 stores in 11 states. For more information, visit the company on http://www.oldtimepottery.com or find us on Facebook, Twitter, Pinterest and Instagram.</p>
+									<p>WHAT DOES "AT OTHER STORES" MEAN? The "AT OTHER STORES" is our team's estimate of a public retail price at which a comparable item is sold in department stores, specialty shops, in catalogs or online.</p>
+									<p>Copyright © 2018 Old Time Pottery, All rights reserved.<br>You are receiving this wonderful, inspiring email because you opted in at www.oldtimepottery.com or in one of our stores.</p>
+									<p><span style="font-weight:bold;">Our mailing address is:</span> <br>Old Time Pottery<br>480 River Rock Blvd<br>Murfreesboro, TN 37128</p>
+									<p style="text-decoration: underline;"><a href="http://oldtimepottery.us11.list-manage1.com/vcard?u=8687e651c684d1dbe280a0fa0&id=f042d4a0c5&utm_source=weeklyeflyer&utm_medium=email&utm_campaign=footer&utm_term=Discount_Home_Decor&utm_content=addressbook" style="color: #888888;">Add us to your address book</a></p>
+									<p>Want to change how you receive these emails?<br>You can <a href="http://oldtimepottery.us11.list-manage.com/profile?u=8687e651c684d1dbe280a0fa0&id=f042d4a0c5&e=%5BUNIQID%5D&utm_source=weekly_flyer&utm_medium=email&utm_campaign=footer_links&utm_term=preferences" style="color: #888888;">update your preferences</a> or <a href="http://oldtimepottery.us11.list-manage1.com/unsubscribe?u=8687e651c684d1dbe280a0fa0&id=f042d4a0c5&e=e32434ae45&c=6ae66f5304&utm_source=weeklyewlyer&utm_medium=email&utm_campaign=footer&utm_term=Discount_Home_Decor&utm_content=unsubscribe" style="color: #888888;">unsubscribe from this list</a></p>
+
+
+
+								</td>
+				    </tr>
+				</table>
+			</td></tr>
+		</table>
+	</td></tr>
+</table>
