@@ -1,0 +1,74 @@
+title: 'Register Now for Kings Summer Camps!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0521_KNG_CookingStudio_SummerCamp_Solo'
+logo_img: ''
+logo_alt: 'KINGS'
+
+
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0521_KNG_CookingStudio_SummerCamp_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d6b2d6b5-0f0b-4ded-86e5-341ee6c25fd2.jpg?ver=1526651630000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8927fa14-eed3-4f4d-97ed-45d644ae2db8.jpg?ver=1526651630000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8a2d5d9-a76d-4348-bfbe-930501a17831.jpg?ver=1526651630000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/95df2f40-8468-408a-be9f-5f0161749369.jpg?ver=1526651631000"
+footer_youtube_alt: "youtube"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3f32ca4d-8072-4540-9d11-eade549c30e2.jpg?ver=1526649471000"
+  img_alt: "COOKING STUDIO KIDS, TEENS & COLLEGE BOUND Summer Camps Browse our camps available all summer long"
+  url: "https://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0521_KNG_CookingStudio_SummerCamp_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4b478bf2-a9b9-46c7-b909-6bdc06dfbdab.jpg?ver=1526649471000"
+  img_alt: "VIEW MORE SUMMER CAMPS"
+  url: "https://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0521_KNG_CookingStudio_SummerCamp_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e122a1a4-ffab-40b3-9215-2a256136b953.jpg?ver=1526649471000"
+  img_alt: "SUMMER COOKING STUDIO CAMPS FEATURES CLASSES All camps are held at the Kings Cooking Studio in Short Hills, NJ. Kids Camps are open to children ages 8-12. Teens Camps are open to students ages 13-18."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0423_KF_AdminProfessionalsDay_SOLO"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a8baab2b-5fc1-41e9-bf39-81340f0adda8.jpg?ver=1526649471000"
+  img_alt: "JULY 9-13 MOM-FRI 10 AM-1 PM KIDS CAMPFOOD TRUCK FUN LEARN MORE"
+  url: "https://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0521_KNG_CookingStudio_SummerCamp_Solo"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b8074675-e071-486b-b33b-24b5998c6585.jpg?ver=1526649472000"
+  img_alt_2: "JULY 9-13 MOM-FRI 2-5 PM TEENS CAMP MAGNIFICENT MINIS! LEARN MORE"
+  url_2: "https://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0521_KNG_CookingStudio_SummerCamp_Solo"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0dedc69e-0c54-41f6-a3b3-1e4473b3ad03.jpg?ver=1526649471000"
+  img_alt: "JULY 16-20 MON-FRI 2-5 PM TEENS CAMP THE ESSENTIAL BAKER LEARN MORE"
+  url: "https://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0521_KNG_CookingStudio_SummerCamp_Solo"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/49097b27-b998-4191-abb6-a6237b1cb7b5.jpg?ver=1526649472000"
+  img_alt_2: "AUG 20-24 MON-FRI 2-5PM KIDS CAMP KIDS IN THE ITALIAN KITCHEN LEARN MORE"
+  url_2: "https://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0521_KNG_CookingStudio_SummerCamp_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9cb6119c-8653-41c2-adb6-f173d332646b.jpg?ver=1526649472000"
+  img_alt: "KINGS SHORT HILLS • COOKING STUDIO • 778 MORRIS TURNPIKE To register or for more info call 973.258.4009 or visit us online."
+  url: "https://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=0521_KNG_CookingStudio_SummerCamp_Solo"
+
+
+
+
+
+
