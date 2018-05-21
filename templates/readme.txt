@@ -7,6 +7,7 @@ python createEmail.py {{client name}} {{emailname}} {{xls doc}} {{images folder}
 
 There's a setup.sh file with sudo pip for all the libraries we installed manually.
 
+
 The script creates the logo header automatically; delete that slice from the images folder.
 For SPR, enter the slice numbers in the column next to the Concatenate column.
 Email name should be in the format SPR_XXXXXX_EmailName
@@ -24,15 +25,11 @@ Save, then comment it out
 Plain text—delete
 Full SKU, Description, and Concatenate—copy and paste in plain text
 In Component Layout, move Profile 1 to top, then sort its contents according to setup.html
-Preview and test
-4 tests: SPRID (all three test emails); GOPD; SKU; HEADERLINK
-SPRID goes to: 
+Preview and testAdd address and logo (1st image in 1st folder)
+For CUSTOM, same but add prices (Price1, Price2, etc.) and date
+SPRID goes to:
 qa@purered.net,
 110215SPR@litmustest.com,
 devpurered.runme@previews.emailonacid.com
-
-The rest go to:
+GOPD, SKU, and HEADERLINK go to:
 qa@purered.net
-
-Add address and logo (1st image in 1st folder)
-For CUSTOM, same but add prices (Price1, Price2, etc.) and date
