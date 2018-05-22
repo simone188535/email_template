@@ -1,4 +1,5 @@
 To run Python script, cd to templates folder
+Make sure there are no spaces in any of the file names.
 
 Run this:
 python createEmail.py {{client name}} {{emailname}} {{xls doc}} {{images folder}}
