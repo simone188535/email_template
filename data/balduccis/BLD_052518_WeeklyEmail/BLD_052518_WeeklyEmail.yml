@@ -1,0 +1,114 @@
+title: 'Steak, Burgers, Chops & More for Memorial Day!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dbde55bc-62de-4292-84ba-ad8c26174f74.jpg?ver=1519917884000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6c3a2903-838e-47af-88a7-5dcc65ccc794.jpg?ver=1527107988000'
+  img_alt: 'Fire it Up Great Memorial Day grilling starts with sizzling ribeye steaks, savory salmon burgers, colossal chops and more.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2bf0a400-eed2-4acc-a06a-5cee223fba33.jpg?ver=1527107988000'
+  img_alt: 'GOURMET GREATS | FOR THE GRILL'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/25936aed-0054-4731-94bb-7832d903dafb.jpg?ver=1527107988000'
+  img_alt: 'LOCALLY RAISED COWBOY STEAK Step up your grilling game with a savory 2&#34; thick, richly marbled ribeye steak attached to a long exposed bone. MEMBER EXCLUSIVE 19.99/LB Reg 21.99'
+  url_2: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/01e5f790-f59f-4f06-a4ff-558e4ed2b75a.jpg?ver=1527107988000'
+  img_alt_2: 'LOCALLY RAISED COWBOY STEAK Step up your grilling game with a savory 2&#34; thick, richly marbled ribeye steak attached to a long exposed bone. MEMBER EXCLUSIVE 19.99/LB Reg 21.99'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0e1df846-8e25-44d2-8ba6-5704a438812c.jpg?ver=1527107989000'
+  img_alt: 'BALDUCCI&#39;S STORE MADE SALMON BURGERS MEMBER EXCLUSIVE 4.5 OZ. 5.99/EA Reg 6.99'
+  url_2: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7d307e93-84e4-4f2e-bdf2-8eebba9c9e3a.jpg?ver=1527107989000'
+  img_alt_2: 'BALDUCCI&#39;S BRIOCHE HAMBURGER OR HOT DOG BUNS GLUTEN FREE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c107ab3d-2694-47b8-94ad-ab6e08ddcbaf.jpg?ver=1527107989000'
+  img_alt: 'LOCALLY RAISED VEAL LOIN CHOPS The porterhouse of veal - lean, tender and perfect for the grill. MEMBER EXCLUSIVE 15.99/LB Reg 17.99'
+
+- type: 'image'
+  url: 'https://vimeo.com/balduccis/gremolata?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1227faef-9eb0-482e-bf85-ff557785c078.jpg?ver=1527107989000'
+  img_alt: 'RECIPE VIDEO | GRILLING GO-TO HOW TO 3 EASY GREMOLATA RECIPES ORANGE GARLIC HERB LEMON SPINACH CHILI LEMON GINGER SCALLION 1. Use as a rub or marinade 2. Try on roasted potatoes or veggies 3. Make an inspired salad dressing'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/41980b42-b0aa-416d-b0fd-b76c29fbca3b.jpg?ver=1527107989000'
+  img_alt: 'OH, SAY CAN YOU SWEET! | DESSERTS'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9de612c4-7631-4b85-b95a-1fd5afc44d5e.jpg?ver=1527107989000'
+  img_alt: 'RED, WHITE & BLUEBERRY STRAWBERRY SHORTCAKE JARS VIEW RECIPE"'
+  url_2: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d43ca020-34a9-46c2-b324-7d2d974393b0.jpg?ver=1527107989000'
+  img_alt_2: 'PATRIOTIC BERRY KABOBS VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fc40c150-faa7-4dd7-b04b-88a62c15a127.jpg?ver=15271079900000'
+  img_alt: 'BBQ EATS TO GO | SAVORY SIDES & MORE Chef Prepared BBQ Classics! Let us help you plan the perfect Memorial Day BBQ. Spend less time cooking and more time celebrating with our easy and elegant grab-n-go entrées, sides, desserts and more. VIEW MENU'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/af2f96cd-4abd-44e6-86e0-74c117b4f091.jpg?ver=1527107990000'
+  img_alt: 'BBQ PORK SPARE RIBS'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2e8d0e14-3c89-4204-87c0-d5e3524ccd5c.jpg?ver=1527107990000'
+  img_alt: 'SWEETHEART CAPRESE SALAD'
+  url_2: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005116'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5abe964c-43f3-4679-86b1-357d840c19a0.jpg?ver=1527107990000'
+  img_alt_2: 'REDSKIN POTATO SALAD'
+
+
+
+
+
+
+
