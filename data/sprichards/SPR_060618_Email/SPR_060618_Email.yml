@@ -1,0 +1,45 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_02.jpg', '/sl-forward-sprisv/BSX/VL581ES10T/1041282468/360-984', 580, 252, 'BSXVL581ES10T']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_03.jpg', '/sl-forward-sprisv/BSX/VL581ES10T/1041282468/360-984', 181, 333, 'BSXVL581ES10T'], ['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_04.jpg', '/sl-forward-sprisv/BSX/VL582ES10T/1041282469/925-429', 153, 333, 'BSXVL582ES10T'], ['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_05.jpg', '/sl-forward-sprisv/BSX/VL585ES10T/1041282470/664-451', 246, 333, 'BSXVL585ES10T']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_06.jpg', '/sl-forward-sprisv/BSX/VL581ES10T/1041282468/360-984', 181, 161, 'BSXVL581ES10T'], ['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_07.jpg', '/sl-forward-sprisv/BSX/VL582ES10T/1041282469/925-429', 198, 161, 'BSXVL582ES10T'], ['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_08.jpg', '/sl-forward-sprisv/BSX/VL585ES10T/1041282470/664-451', 201, 161, 'BSXVL585ES10T']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_09.jpg', '/sl-forward-sprisv/BSX/VL581ES10T/1041282468/360-984', 20, 46, 'BSXVL581ES10T'], ['text', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_10.jpg', '/sl-forward-sprisv/BSX/VL581ES10T/1041282468/360-984', 146, 46, 'BSXVL581ES10T', '#ffffff', '#000000', 'linetext1_CUS'], ['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_11.jpg', '/sl-forward-sprisv/BSX/VL582ES10T/1041282469/925-429', 40, 46, 'BSXVL582ES10T'], ['text', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_12.jpg', '/sl-forward-sprisv/BSX/VL582ES10T/1041282469/925-429', 173, 46, 'BSXVL582ES10T', '#ffffff', '#000000', 'linetext2_CUS'], ['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_13.jpg', '/sl-forward-sprisv/BSX/VL585ES10T/1041282470/664-451', 13, 46, 'BSXVL585ES10T'], ['text', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_14.jpg', '/sl-forward-sprisv/BSX/VL585ES10T/1041282470/664-451', 163, 46, 'BSXVL585ES10T', '#ffffff', '#000000', 'linetext3_CUS'], ['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_15.jpg', '/sl-forward-sprisv/BSX/VL585ES10T/1041282470/664-451', 25, 46, 'BSXVL585ES10T']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_16.jpg', '/sl-forward-sprisv/BSX/VL581ES10T/1041282468/360-984', 181, 47, 'BSXVL581ES10T'], ['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_17.jpg', '/sl-forward-sprisv/BSX/VL582ES10T/1041282469/925-429', 198, 47, 'BSXVL582ES10T'], ['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_18.jpg', '/sl-forward-sprisv/BSX/VL585ES10T/1041282470/664-451', 201, 47, 'BSXVL585ES10T']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_19.jpg', '/sl-forward-sprisv/BSX/VL581ES10T/1041282468/360-984', 580, 104, 'BSXVL581ES10T']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_20.jpg', '/sl-forward-sprisv/BSX/VL206MM10T/1041282467/805-713', 373, 324, 'BSXVL206MM10T'], ['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_21.jpg', '/sl-forward-sprisv/BSX/VL995/1035840953/826-190', 207, 324, 'BSXVL995']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_22.jpg', '/sl-forward-sprisv/BSX/VL206MM10T/1041282467/805-713', 206, 46, 'BSXVL206MM10T'], ['text', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_23.jpg', '/sl-forward-sprisv/BSX/VL206MM10T/1041282467/805-713', 167, 46, 'BSXVL206MM10T', '#ffffff', '#000000', 'linetext4_CUS'], ['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_24.jpg', '/sl-forward-sprisv/BSX/VL995/1035840953/826-190', 19, 46, 'BSXVL995'], ['text', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_25.jpg', '/sl-forward-sprisv/BSX/VL995/1035840953/826-190', 163, 46, 'BSXVL995', '#ffffff', '#000000', 'linetext5_CUS'], ['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_26.jpg', '/sl-forward-sprisv/BSX/VL995/1035840953/826-190', 25, 46, 'BSXVL995']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_27.jpg', '/sl-forward-sprisv/BSX/VL206MM10T/1041282467/805-713', 373, 62, 'BSXVL206MM10T'], ['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_28.jpg', '/sl-forward-sprisv/BSX/VL995/1035840953/826-190', 207, 62, 'BSXVL995']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_29.jpg', 'https://www.dropbox.com/s/4r8lht8uf7n3ni7/HON_Q2_2018_Flyer_final_Full%20Flyer.pdf?dl=0', 580, 141, '']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_145_060618_Q2HON_Crio_ValuTask_R4_DEV_30.jpg', '', 580, 140, '', '#015b97', '#FFFFFF', 'linetext6_CUS']]
+
