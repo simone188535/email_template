@@ -11,6 +11,7 @@ There's a setup.sh file with sudo pip for all the libraries we installed manuall
 
 The script creates the logo header automatically; delete that slice from the images folder.
 For SPR, enter the slice numbers in the column next to the Concatenate column.
+Add a sheet to the excel doc named CUSTOM; make a single column with the number of each custom slice each in their own cell
 Email name should be in the format SPR_XXXXXX_EmailName
 Double-check font colors in the Custom email; by default the script only uses black and white, and may need adjusted to match the creative.
 Add Auto and Custom folders to the prod folder
