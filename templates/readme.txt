@@ -13,7 +13,8 @@ The script creates the logo header automatically; delete that slice from the ima
 For SPR, enter the slice numbers in the column next to the Concatenate column.
 Add a sheet to the excel doc named CUSTOM; make a single column with the number of each custom slice each in their own cell
 Email name should be in the format SPR_XXXXXX_EmailName
-Double-check font colors in the Custom email; by default the script only uses black and white, and may need adjusted to match the creative.
+After the script runs, double-check font colors in the Custom email; by default the script only uses black and white, and may need adjusted to match the creative.
+Also, if there are more than 13 linetext items, you will need to increment them manually.
 Add Auto and Custom folders to the prod folder
 Copy the images folder into both; move the html files and rename both to layout1
 Select the images folder and html; compress both
