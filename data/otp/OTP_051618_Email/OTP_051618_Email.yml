@@ -1,0 +1,83 @@
+title: ''
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_051618_v1_R5_FNL_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP060_-051118_v2_R5_FNL_02.jpg"
+outdoor_img_alt: "SPRING Spectacular OUTDOOR EVENT! LEARN MORE"
+outdoor_img_link: "https://oldtimepottery.com/spring-spectacular#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=spring-spectacular"
+
+preheader_text: 'You&#39;re not seeing double: It&#39;s TWO great deals!'
+preheader_link: 'http://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_051618_v1_R5_FNL_03.jpg'
+  image_alt: 'Quick Pick! While Supplies Last! STARTS TODAY, MAY 16TH - MAY 20TH $14.99 KONG AIR SPORTS SETS Several games to choose from. REG. $29.99 50% OFF METAL PLANT STANDS Assorted sizes. REG. $9.99 - $19.99 SEE DETAILS '
+  image_link: 'http://oldtimepottery.com/quickpick#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=kong_air_sports_set'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_051618_v1_R5_FNL_04.jpg'
+  image_alt: 'SPRING Spectacular OUTDOOR EVENT! 3pc Sierra All-Weather Patio Set Includes cushions. SALE $259.99 Retail $329.99'
+  image_link: 'http://oldtimepottery.com/quickpick#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=seirra_patio-set'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_051618_v1_R5_FNL_05.jpg'
+  image_alt: '4pc Cambridge All-Weather Patio Set Includes 2 chairs, love seat, storage table and cushions. SALE $199.99 Retail $249.99 '
+  image_link: 'http://oldtimepottery.com/quickpick#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=cambridge_patio-set'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_051618_v1_R5_FNL_06.jpg'
+  image_alt: 'Glider Loveseat Swing SALE $79.99 Retail $99.99 '
+  image_link: 'http://oldtimepottery.com/quickpick#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=glider_love-seat_swing'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_051618_v1_R5_FNL_07.jpg'
+  image_alt: '20% OFF All Beach FURNITURE, UMBRELLAS & ACCESSORIES THERE ARE MORE SALE PRICES IN-STORE! SEE MORE SALE ITEMS '
+  image_link: 'http://oldtimepottery.com/quickpick#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=20off_all_beach_furniture'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_051618_v1_R5_FNL_08.jpg'
+  image_alt: '50% OFF YELLOW TAG CLEARANCE ALL DEPARTMENTS [LEARN MORE]'
+  image_link: 'http://oldtimepottery.com/yellow-tag#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=yellow-tag-clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_051618_v1_R5_FNL_09.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=instrgram_otp_style'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=otp_giftcards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=update_your_profile'
+
+socialnav:
+- link: "https://www.instagram.com/oldtimepottery/#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery#utm_source=otp_weekly05_16&utm_medium=email&utm_campaign=quick_pick_starts_today&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"

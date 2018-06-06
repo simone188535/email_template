@@ -1,0 +1,153 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/041151b0-b00a-4feb-bdb9-848d2800e87a.jpg?ver=1527101040000"
+  img_alt: "Grilling starts here! BEST BBQ YET Fire up the grill and get ready for Memorial Day."
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/09c39958-a69f-4b0e-ae96-0b41726a8768.jpg?ver=1527101041000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cdd1a1a5-dbb1-45dd-a251-2918fc9f9d9c.jpg?ver=1527101041000"
+  img_alt: "members extra! SAVINGS 4-DAY SALE NATURAL USDA PRIME NEW YORK STRIP STEAK JUICY, TENDER and SUCCULENT- Natural beef with no administered antibiotics or added growth hormones. members pay 11.99 LB. PRICE GOOD THRU MONDAY, 5/28 SAVE $8 lb."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a13a725f-41c9-478a-bf2e-50bc52e484bd.jpg?ver=1527101041000"
+#   img_alt: "members extra! SAVINGS 4-DAY SALE NATURAL USDA PRIME NEW YORK STRIP STEAK JUICY, TENDER and SUCCULENT- Natural beef with no administered antibiotics or added growth hormones. members pay 11.99 LB. PRICE GOOD THRU MONDAY, 5/28 SAVE $8 lb."
+#   url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+#   img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/888ef7b5-e9ec-4805-a7de-ebd1793dc141.jpg?ver=1527101041000"
+#   img_alt_2: "members extra! SAVINGS 4-DAY SALE NATURAL USDA PRIME NEW YORK STRIP STEAK JUICY, TENDER and SUCCULENT- Natural beef with no administered antibiotics or added growth hormones. members pay 11.99 LB. PRICE GOOD THRU MONDAY, 5/28 SAVE $8 lb."
+#   url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a13a725f-41c9-478a-bf2e-50bc52e484bd.jpg?ver=1527101041000"
+  img_alt: "TRY IT WITH TURMERIC GINGER SPICE RUB VIEW RECIPE "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/888ef7b5-e9ec-4805-a7de-ebd1793dc141.jpg?ver=1527101041000"
+  img_alt_2: "members extra! SAVINGS 4-DAY SALE NATURAL USDA PRIME NEW YORK STRIP STEAK JUICY, TENDER and SUCCULENT- Natural beef with no administered antibiotics or added growth hormones. members pay 11.99 LB. PRICE GOOD THRU MONDAY, 5/28 SAVE $8 lb."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2da7fd96-376c-409f-8e13-ce16d895d1af.jpg?ver=1527101042000"
+  img_alt: "SAVE $1 ea. PORTOBELLO MUSHROOMS 6 OZ. members pay 3.99 EA. "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/02f13929-a1f8-441e-8fbc-0f2348adc211.jpg?ver=1527101042000"
+  img_alt_2: "SAVE $2 lb. CALIFORNIA SWEET RED CHERRIES members pay 5.99 LB. "
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5d4dd187-ad0c-43d7-bf05-b18d8069dd28.jpg?ver=1527101042000"
+  img_alt: "SAVE $9.99 on 2 McCLURE&#39;S PICKLES ALL VARIETIES, 32 OZ. members BUY ONE GET 1 FREE"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a63ae98-f58f-431e-928a-201f35271468.jpg?ver=1527101043000"
+  img_alt_2: "SAVE $2.98 on 2 BRASWELL&#39;S BBQ SAUCE OR MARINADES ALL VARIETIES, 13.5 OZ. members pay 2/7."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b6e1aebe-ab8b-45eb-be22-5d6b87d61030.jpg?ver=1527101043000"
+  img_alt: "VIEW WEEKLY SALES"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12c79330-414d-4aad-8e7e-9ec2f3334c1f.jpg?ver=1527101043000"
+  img_alt: "BBQ RECIPES CONQUER YOUR COOKOUT"
+  url: "https://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dbfc291e-4e35-40a6-a8f5-a3b743ba89ab.jpg?ver=1527101044000"
+  img_alt: "BISTECCA ALLA FIORENTINA WITH BALSAMIC VINEGAR VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/556dc110-f0d0-43d1-b225-6928220b6817.jpg?ver=1527101046000"
+  img_alt_2: "GRILLED PESTO VEGETABLE PLATTER VIEW RECIPE"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/grilled-pesto-vegetable-platter-featuring-kings-asparagus?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/59eebc34-f608-4ae9-aa4b-55fc6bde258e.jpg?ver=1527101045000"
+  img_alt: "GET READY TO GRILL with EXPERT ADVICE on cooking up steaks, seafood, burgers, veggies and more! VIEW TIPS"
+  url: "https://kingsfoodmarkets.com/unique-recipes/grilling-tips?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bcb2be87-2231-4476-b8d1-9363e1fbfe9a.jpg?ver=1527101046000"
+  img_alt: "THE BRIGHT SIDE COLORFUL CHEF INSPIRED SALADS"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1037dc66-7001-497f-ac8e-1dd7a6ea1fe7.jpg?ver=1527101046000"
+  img_alt: "4-DAY SALE KINGS CHEF INSPIRED POTATO SALAD"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1e0fd084-7f95-4750-b6b1-78aaf2ff90b7.jpg?ver=1527101046000"
+  img_alt_2: "KINGS CHEF INSPIRED SUPERFOOD SALAD"
+  url_2: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91a6cf07-1bb9-4506-b33e-4619ebd5e0f1.jpg?ver=1527101047000"
+  img_alt: "VIEW MORE CHEF PREPARED"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/589d4153-9be0-47df-a592-a53ea15751cc.jpg?ver=1527101048000"
+  img_alt: "SPECIAL OCCASIONS CATERING KINGS SPECIAL OCCASIONS MENU provides go-to gourmet options for everything from graduations to family gatherings. VIEW MENU"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0525_KNG_WeeklyEmail"
+
+# - type: "image-4-columns"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3f8a2dc4-4da6-42d9-9c2a-f15b21c45d3d.jpg?ver=1525899012000"
+#   img_alt: "KINGS FRESH BAKED CROISSANTS"
+#   url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+#   img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6a9fdd22-396e-4db1-acfa-8eb4aa0df0f3.jpg?ver=1525899012000"
+#   img_alt_2: "KINGS COFFEE"
+#   url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+#   img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71d37c7f-d4a8-40ad-bdc9-dd9e1f174709.jpg?ver=1525899012000"
+#   img_alt_3: "KINGS FRESH LEMONADE BUY ONE GET ONE!"
+#   url_3: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
+#   img_4: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/115e4a8a-eeb1-48ec-bd91-045385b0fc30.jpg?ver=1525899012000"
+#   img_alt_4: "KINGS LEMON POPPY SEED MUFFINS"
+#   url_4: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0511_KNG_WeeklyEmail"
