@@ -1,0 +1,88 @@
+title: ''
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_052818_v1_R2_FNL_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_052818_v1_R2_FNL_02.jpg"
+outdoor_img_alt: "Check Out Our New Ad!"
+outdoor_img_link: "http://oldtimepottery.com/ad#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=otp_ad"
+
+preheader_text: 'Look inside for Hot Deals on Summer Fun.'
+preheader_link: 'http://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_052818_v1_R2_FNL_03.jpg'
+  image_alt: 'Red Hot SUMMER KICK-OFF SALE! EVENT GOING ON NOW RAISE THE FLAG FOR SAVINGS VIEW AD 1.00 Sale 7 Blooms REG. PRICE $1.99  3.99 Sale 10 Blooms REG. PRICE $5.99'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=red-hot_summer'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_052818_v1_R2_FNL_04.jpg'
+  image_alt: 'SHOW YOUR PATRIOTIC PRIDE 11.99 Sale 3&#39; x 5&#39; American Flag Kit Includes flag, pole and eagle topper.  REG. PRICE $14.99 20% OFF ALL AMERICAN FLAGS 3.99 Sale Red, White and Blue Mesh REG. PRICE $4.99 20% OFF ALL OTHER MESH 3.19 Sale Ribbon REG. PRICE $3.99'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=patriotic_pride'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_052818_v1_R2_FNL_05.jpg'
+  image_alt: 'GET OUT AND HAVE SOME FUN HOT DEAL! 19.99 Sale Kong Sports Air Games 4 games to choose from! REG. PRICE $29.99 20% off OUR ALREADY LOW PRICES ALL Beach Towels & Mats 5&#39; x 6&#39; Folding Outdoor Mat SALE PRICE $3.99 - $7.99 REG. PRICE $4.99 - $9.99 '
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=get-out_have_some_fun'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_052818_v1_R2_FNL_06.jpg'
+  image_alt: '20% OFF ALL OTHER YARD GAMES 20% off OUR ALREADY LOW PRICES ALL BBQ Tools SALE PRICE: $1.59 - $11.99 | REG. PRICE $1.99 - $14.99'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=20off_all_yard-games'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_052818_v1_R2_FNL_07.jpg'
+  image_alt: 'MADE IN THE USA HOT DEAL! 5.99 Sale 18 Gallon Bucket REG. PRICE $7.99 $4.99 22qt Styrofoam Cooler with Handle 19.99 Sale 28&#34;&#34; Galvanized Party Bucket with Stand REG. PRICE $24.99'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=18-gallon_bucket'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_052818_v1_R2_FNL_08.jpg'
+  image_alt: 'PLUS 20% OFF THESE ITEMS ALL Beverage Dispensers, Dinnerware Sets, Melamine Dinnerware & Serveware, Slow Cookers, Lanterns, Framed & Canvas Art, Wall Décor, Lamps & Shades & MORE VIEW AD Sale prices effective Thursday, May 24 - Sunday,  June 3, 2018'
+  image_link: 'http://oldtimepottery.com/ad#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=plus-20_off_these-items'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_052818_v1_R2_FNL_09.jpg'
+  image_alt: '50% OFF YELLOW TAG CLEARANCE ALL DEPARTMENTS LEARN MORE '
+  image_link: 'http://oldtimepottery.com/yellow-tag#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=yellow-tag_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_060_052818_v1_R2_FNL_10.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=instrgram_otp_style'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=otp_giftcards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=update_your_profile'
+
+socialnav:
+- link: "https://www.instagram.com/oldtimepottery/#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery#utm_source=otp_weekly05_28&utm_medium=email&utm_campaign=kick-off_sale_going-on&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"
