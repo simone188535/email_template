@@ -1,0 +1,171 @@
+title: 'All-natural rotisserie chicken - $8.99 every day!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/&utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/961398b7-7d43-4a39-92fa-84a1acdc377f.jpg?ver=1527773869000"
+  img_alt: "EASY SUMMER EATS Our healthy and heavenly on-the-go offerings make summer meals a snap!"
+  url: "https://kingsfoodmarkets.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b74ca16c-ee11-4929-b790-fc0bff5934c9.jpg?ver=1527773869000"
+  img_alt: "Create BABY GREENS SALAD WITH CHICKEN, STRAWBERRIES & TOASTED ALMONDS VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/baby-greens-asparagus-strawberry-salad-with-toasted-almonds?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/db93d495-ec72-4650-bbf3-88e3bd4d0dda.jpg?ver=1527773869000"
+  img_alt_2: "NOW $8.99 EVERY DAY! KINGS ROTISSERIE CHICKEN • Raised with NO ANTIBIOTICS • ALL VEGETARIAN diet • NO animal BI-PRODUCTS • ALL-NATURAL INGREDIENTS • Made in small batches ALL DAY LONG LEARN MORE"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions&utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3d8fa938-d8b2-4923-92cd-4fa2c83d2fda.jpg?ver=1527773869000"
+  img_alt: "myKINGS EXTRA! SAVINGS FANTASTIC SEASONAL EATS"
+  url: "http://circular.kingsfoodmarkets.com/&utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6013e853-ed27-4e47-85b4-ac1cac897dab.jpg?ver=1527773869000"
+  img_alt: "SAVE $3 lb. USDA CHOICE BONELESS SIRLOIN STEAKS members pay 4.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/&utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fbb16582-bf88-4a67-8894-d6f67044a3e7.jpg?ver=1527773870000"
+  img_alt_2: "EXTRA LARGE SHRIMP ON SKEWER 4.3 OZ. members pay 3.99 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/&utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f1fe9bf9-ec68-4653-88e3-bf0a148cefd4.jpg?ver=1527773870000"
+  img_alt: "SAVE $6.98 on 2 ORGANIC STRAWBERRIES 6 OZ. Members pay 2/9."
+  url: "http://circular.kingsfoodmarkets.com/&utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3eba33d9-44e4-43dc-9723-e5c6ee3feb37.jpg?ver=1527773870000"
+  img_alt_2: "ORGANIC EARTHBOUND FARM SALADS ALL VARIETIES, 5 OZ. Members pay 3.99 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/&utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/59fcfffd-5938-4174-b181-b653784c0880.jpg?ver=1527773870000"
+  img_alt: "VIEW WEEKLY SALES."
+  url: "http://circular.kingsfoodmarkets.com/&utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4c5196a3-65e6-487a-84f4-043d636b37f1.jpg?ver=1527773870000"
+  img_alt: "CHEF PREPARED CRAVEABLE CONVENIENCE"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7dd55626-8487-44c8-b8c4-ab6a4f91d270.jpg?ver=1527773870000"
+  img_alt: "ENTRÉES ITALIAN SEASONED FLOUNDER"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/519d7bde-550b-4a3a-a8dc-0c84b03bf9b5.jpg?ver=1527773870000"
+  img_alt_2: "SALADS GRILLED CHICKEN, STRAWBERRY & PEA SALAD WITH ORGANIC SPINACH"
+  url_2: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f21358d0-206b-4ef3-bd59-c7925a81760d.jpg?ver=1527773871000"
+  img_alt: "SIDES SUMMER DELIGHT SALAD"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4bdeaa3f-95e9-42c2-8ea7-023816801bcd.jpg?ver=1527773871000"
+  img_alt_2: "SANDWICHES GRILLED CHICKEN & GOAT CHEESE SANDWICH"
+  url_2: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c51327fc-6039-4702-a34b-35a5ba00e2eb.jpg?ver=1527773871000"
+  img_alt: "VIEW MORE CHEF PREPARED"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cb4c3115-4ce3-40b2-980a-53cf85f2ea52.jpg?ver=1527773871000"
+  img_alt: "Fast. Fresh. Delivered. Easier with Instacart Enjoy fresh summertime delights delivered directly to your door Powered by Instacart FREE DELIVERY ON YOUR FIRST ORDER ORDER NOW"
+  url: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de3db080-6a14-4005-9b69-5563d5a82b6f.jpg?ver=1527773871000"
+  img_alt: "WE LOVE CHEESE!CELEBRATE NATIONAL CHEESE DAY WITH SAVINGS SELECT CHEESES $5 OFF JUNE 1ST-7TH NATIONAL CHEESE DAY IS JUNE 6TH! We&#39;re celebrating all week with $5 OFF select cheeses. • Export Quality Parmesan Reggiano • Saint André • Saint Albray • Saint Agur • Old Amsterdam"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/962c74db-8b45-4921-90c8-48dca9d9eb29.jpg?ver=1527773871000"
+  img_alt: "HOW TO MAKE THE PERFECT CHEESEBOARD"
+  url: "https://youtu.be/UoifW8sPizQ?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a507c88-4f22-425b-985d-9048aeb4da2a.jpg?ver=1527773871000"
+  img_alt: "LEARN MORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0601_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/51ce5ad5-82f1-4754-95f3-5f74afccab12.jpg?ver=1527773872000"
+  img_alt: "SPECIAL OCCASIONS CATERING SUMMER EVENTS MADE EASY Create a savory spread for any event with our Special Occasions Menu! VIEW MENU"
+  url: "#"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
