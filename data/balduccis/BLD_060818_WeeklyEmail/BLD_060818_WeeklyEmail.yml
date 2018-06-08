@@ -1,0 +1,124 @@
+title: 'A picnic sensation, no matter the destination!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dbde55bc-62de-4292-84ba-ad8c26174f74.jpg?ver=1519917884000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-0053386'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d77ed109-56a7-4614-837b-db1d38bef068.jpg?ver=1528215291000'
+  img_alt: 'Simply Delicious Savor the season with easy and elegant summer fare. CUSTOM CHEESE PLATE MEMBER EXCLUSIVE 21.99/EA Reg 24.99 MEDIUM 29.99/EA Reg 34.99 LARGE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/04d93a56-cf74-4c73-a4e8-6cd5fc6a5007.jpg?ver=1528215291000'
+  img_alt: 'MEMBER EXCLUSIVE | PICNIC PERFECT'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8e6d4077-e94f-48a3-8f2e-63a06e255d58.jpg?ver=1528215292000'
+  img_alt: 'Travel light with fresh baguettes, cheeses and cured meats. Elegant, yet simple, food paired with the perfect picnic destination can be extraordinary.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1bd0e74f-b6e9-4c77-a7d4-5734551a47c6.jpg?ver=1528215292000'
+  img_alt: 'STONEWALL KITCHEN JAMS MEMBER EXCLUSIVE 6.99/EA Reg 8.99'
+  url_2: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0ec6971e-3cb0-4ddb-a0c1-9f3d89980b1e.jpg?ver=1528215292000'
+  img_alt_2: 'BALDUCCI&#39;S FRESH BAKED OLD WORLD BAGUETTE MEMBER EXCLUSIVE 2.99/EA Reg 3.49'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3f21343a-d2ab-4732-a4bd-48963e75941c.jpg?ver=1528215292000'
+  img_alt: 'SPANISH MANGALICA HAM The ultimate in luxurious eating! This rich, marbled ham is dry-cured in Spain for three years for deliciously developed flavor. MEMBER EXCLUSIVE 22.49 1/4 LB.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f6b6ca20-5212-4eab-942d-5d98f4afbaf5.jpg?ver=1528215292000'
+  img_alt: 'CHEF PREPARED | GARDEN ON THE GO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0a82c4fa-ae05-42ee-94d5-8cc9c24ee764.jpg?ver=1528215292000'
+  img_alt: 'ROASTED CORN SALAD MEMBER EXCLUSIVE 6.99/LB Reg 7.99'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e10dd0c0-9126-4c85-9a84-9e1c8a2a40d7.jpg?ver=1528215293000'
+  img_alt: 'SUMMER EVENT CATERING'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/catering/summer_bbq?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/909c1e4c-f748-41c6-84d3-e2f07ef78f0e.jpg?ver=1528215294000'
+  img_alt: 'Celebrate Summer! Whether it&#39;s a soirée for Dad, a wedding, or a graduation party, our seasonal catering makes entertaining easy. VIEW MENU VEGETABLE CRUDITÉ CREAMY PESTO PASTA SALMON PLATTER'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/df3de76e-40ae-47f7-85b5-a0ba9d81f3cb.jpg?ver=1528215293000'
+  img_alt: 'WHAT&#39;S NEW'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/22167c30-b444-472d-b362-5663dea25e5a.jpg?ver=1528215293000'
+  img_alt: 'NEW Store Opening Reston, VA Balducci&#39;s is bringing our gourmet food and grocery experience to Reston, Virginia on June 22nd! Our grand opening event will feature delicious samplings and can&#39;t-miss chef demos. See you there! Doors Open……….11am MORE INFO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005338'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1aca1b0e-560b-4112-b058-b4f040ea0aaf.jpg?ver=1528215293000'
+  img_alt: 'Father&#39;s Day Wine & Food Tasting Event Join us Saturday, June 16th at Balducci&#39;s Alexandria, Bethesda and McLean stores. Food Samplings….12 noon-5pm Wine Samplings…….2-5pm MORE INFO'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
