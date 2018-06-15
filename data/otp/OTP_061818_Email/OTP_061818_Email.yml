@@ -1,0 +1,108 @@
+title: 'We have several 25% off, 20% off and $9.99 Sale Prices, just for you!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_061818_05.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "https://oldtimepottery.com/#utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_061818_06.jpg"
+outdoor_img_alt: "Check Out Our New Ad!"
+outdoor_img_link: "https://oldtimepottery.com/ad#utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=otp_ad"
+
+preheader_text: 'Visit today for savings, inside and out.'
+preheader_link: 'http://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_061818_09.jpg'
+  image_alt: 'FIND COMFORT IN SAVINGS [VIEW AD] (25% off OUR ALREADY LOW PRICES) ALL QUILT SETS SALE PRICE: $14.99 - $52.49 REG. PRICE $19.99 - $69.99'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=all_quilt_sets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_061818_12.jpg'
+  image_alt: '29.99 Sale 24&#34; or 29&#34; Barstool with Adjustable Legs REG. PRICE $39.99 25% OFF ALL OTHER BARSTOOLS (25% off OUR ALREADY LOW PRICES)  ALL Kitchen and Table Linens SALE PRICE: 45¢ - $14.99 REG. PRICE 60¢ - $19.99'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=barstools_adjustable-legs'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_061818_15.jpg'
+  image_alt: '(20% off OUR ALREADY LOW PRICES) ALL Wall Décor SALE PRICE: $1.59 - $127.99 | REG. PRICE $1.99 - $159.99'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=all_wall-decor'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_061818_18.jpg'
+  image_alt: '20% off OUR ALREADY LOW PRICES ALL Dinnerware Sets and ALL Flatware SALE PRICE: 63¢ - $103.99 REG. PRICE 79¢ - $129.99 25% off OUR ALREADY LOW PRICES 76&#34;-80&#34;W x 84""L Deluxe Drapery Panel Pairs Assorted colors and prints. SALE PRICE: $14.99 - $20.99 REG. PRICE $19.99 - $27.99'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=all_dinnerware_flatware'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_061818_21.jpg'
+  image_alt: '20% off OUR ALREADY LOW PRICES ALL Lamps, Shades and Accent Furniture SALE PRICE: $7.99 - $239.99 | REG. PRICE $9.99 - $299.99'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=all_lamps_shades_accent-furniture'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_061818_24.jpg'
+  image_alt: '9.99 Sale Beautyrest Mattress Pads All sizes. REG. PRICE $12.99 9.99 Sale 2pk Cotton Iso-Pedic Standard Pillows REG. PRICE $12.99 20% OFF ALL OTHER MATTRESS PADS & BED PILLOWS'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=beautyrest_mattress_pads'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_061818_27.jpg'
+  image_alt: '9.99 Sale Bean Bags Huge selection of colors. REG. PRICE $14.99 9.99 Sale Sandy or Quinn Pet Pillow Beds 27&#34; x 36&#34;.  REG. PRICE $14.99 20% off ALL OTHER PET PRODUCTS'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=quinn_pet_pillow_beds'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_061818_30.jpg'
+  image_alt: 'SUMMER *SPECTACULAR* OUTDOOR EVENT! 25% off OUR ALREADY LOW PRICES WHILE THEY LAST! OUTDOOR ACCESSORIES • CUSHIONS & PILLOWS  •  PATIO SETS  • OUTDOOR DÉCOR  • OUTDOOR PLANTERS Selection and availability varies by store. While supplies last.'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=25_off_our_already_low_prices'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_061818_33.jpg'
+  image_alt: 'PLUS 20% OFF THESE ITEMS ALL Shower Curtains, Mirrors, Mattress Pads, Wall Décor, Lamps, Accent Furniture, Bath Rugs & MORE'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=shower_curtains_mirrors_bath-rugs'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_061818_36.jpg'
+  image_alt: '[VIEW AD] Sale effective dates vary by store.'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=view_ad'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_061818_39.jpg'
+  image_alt: '50% OFF YELLOW TAG CLEARANCE ALL DEPARTMENTS [LEARN MORE]'
+  image_link: 'http://oldtimepottery.com/yellow-tag?utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=yellow-tag_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_060218_48.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery#utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=instrgram_otp_style'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/#utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations#utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/#utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=otp_giftcards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/#utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=update_your_profile'
+
+socialnav:
+- link: "https://www.instagram.com/oldtimepottery/#utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery#utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/#utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery#utm_source=otp_weekly06_18&utm_medium=email&utm_campaign=sale_prices_just_for_you&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"
