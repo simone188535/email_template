@@ -1,0 +1,150 @@
+title: 'Reston Grand Opening Celebration + 10% Off!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e796674a-8222-4707-9006-06089c6be723.jpg?ver=1529432909000'
+  img_alt: 'GRAND OPENING JUNE 22ND | 11AM RESTON TOWN CENTER find your inner foodie 10% OFF EVERY PURCHASE, EVERY VISIT THRU 7/1 *Restrictions Apply LEARN MORE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/77100b76-6232-4de1-9b76-0f9e889eb84c.jpg?ver=1529432909000'
+  img_alt: 'A WEEKLONG CELEBRATION!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4103521b-5d58-4679-9272-1d877f3f3298.jpg?ver=1529432909000'
+  img_alt: 'Help us celebrate our Balducci&#39;s Reston Grand Opening with exciting events happening all week long and 10% OFF every purchase, every visit, from June 22-July 1.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fd62d7a4-498a-474a-94cb-f995b13f0d34.jpg?ver=1529432909000'
+  img_alt: 'CHAMPAGNE SABERING CEREMONY JUNE 22 | 11AM'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/52cb1f9d-566b-416d-ae83-b50645bd2b79.jpg?ver=1529432909000'
+  img_alt: 'CHAMPAGNE SABERING CEREMONY JUNE 22 | 11AM'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/15150f6b-c0e1-4b19-b9e9-7267b160dbb6.jpg?ver=1529432909000'
+  img_alt: 'SAVE 25% MIX & MATCH 12 BOTTLES OR MORE 15% OFF 6-11 BOTTLES JUNE 22-24 WINE EVENT ALL WEEKEND PLUS CHEF DEMOS & TASTINGS WINE PAIRINGS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dde4943c-7880-4ec8-a314-8b4886c239e2.jpg?ver=1529432909000'
+  img_alt: 'BEER CROWLER BAR SPECIAL MEMBER EXCLUSIVE OFFERS THROUGHOUT STORE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e766a1c-0be2-493f-94ff-e410f27bd70d.jpg?ver=1529432910000'
+  img_alt: 'STORE FEATURES'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/02186892-90e2-46c5-a8be-1c944656cd1b.jpg?ver=1529432910000'
+  img_alt: 'We know that you recognize the best, and enjoy the rare and wonderful with a relish for celebrating a life well-lived.'
+
+- type: 'image-3-columns'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6dff1ed9-474d-44dd-9e76-74d606384576.jpg?ver=1529432910000'
+  img_alt: 'ARTISAN BUTCHERS Expert cooking advice'
+  url_2: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bf335354-0d39-452c-9471-7d499bf1a499.jpg?ver=1529432910000'
+  img_alt_2: 'SEAFOOD The freshest local seafood'
+  url_3: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img_3: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7ec05295-92ee-46df-935e-00782f07d60a.jpg?ver=1529432911000'
+  img_alt_3: 'LOCAL BEEF VIRGINIA&#39;S FINEST Top quality local steaks'
+
+- type: 'image-3-columns'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8f493d50-380a-48f4-961c-26ee6121ad85.jpg?ver=1529432911000'
+  img_alt: 'CHEF&#39;S TABLE Made-to-order meals'
+  url_2: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/870f6782-eef2-4612-b6a4-9d6c8071d977.jpg?ver=1529432911000'
+  img_alt_2: 'PRODUCE SOUS CHEF Produce chopped for you'
+  url_3: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img_3: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e48810b2-eaa4-4546-8e9f-3dc2c7653ae6.jpg?ver=1529432911000'
+  img_alt_3: 'PERFECT BAGUETTES Hot & fresh from the oven'
+
+- type: 'image-3-columns'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4f9bc80c-90fd-420c-b206-462474fb2e50.jpg?ver=1529432911000'
+  img_alt: 'CROWLER BAR Can a 32 oz craft beer'
+  url_2: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e7b5a9af-1185-4ad0-aec3-f32e8c54ba54.jpg?ver=1529432911000'
+  img_alt_2: 'POKE BOWL BAR Build your own bowl'
+  url_3: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img_3: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0548bc7e-ede2-45ee-94a8-69358e2f91ed.jpg?ver=1529432912000'
+  img_alt_3: 'BRICK-OVEN PIZZA Made fresh to order'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/64e4e03e-cf58-4cdd-b835-b75bd0a10247.jpg?ver=1529432912000'
+  img_alt: 'COME EXPERIENCE IT FOR YOURSELF'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/215b5a5d-496f-4ddc-b626-4657a6365857.jpg?ver=1529432912000'
+  img_alt: 'LEARN MORE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cfcadf08-8419-4213-a854-f26d4361f606.jpg?ver=1529432913000'
+  img_alt: 'BALDUCCI&#39;S® FOOD LOVER&#39;S MARKET RESTON TOWN CENTER 1871 Fountain Drive, Reston, VA 20190 Free 2 hour Customer Parking in the Silver Garage, Level 2. No App Required.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=BLD_Reston_Go_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2e52ebdd-682d-4664-b1a2-40ffdc086f60.jpg?ver=1529432913000'
+  img_alt: 'BALDUCCI&#39;S® FOOD LOVER&#39;S MARKET RESTON TOWN CENTER 1871 Fountain Drive, Reston, VA 20190 Free 2 hour Customer Parking in the Silver Garage, Level 2. No App Required.'
+
+
+
+
+
+
+
+
+
+
+
+
