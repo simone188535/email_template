@@ -1,0 +1,109 @@
+title: '4th of July Kitchen Independence'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cad27c3a-0d32-47d7-b500-953b6af6e650.jpg?ver=1530020419000'
+  img_alt: 'FOURTH OF JULY EASY Entertaining Declare kitchen independence with easy grilled meal ideas. Recipe of the Season GRILLED SHRIMP WITH ZUCCHINI, CORN, WATERMELON & AVOCADO VIEW RECIPE >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4906b384-2c8c-41a4-91bb-8f6be411336e.jpg?ver=1530020420000'
+  img_alt: 'HELLO SUMMER'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b98f17a4-168c-47e4-9bb8-7c0cab63a6db.jpg?ver=1530020420000'
+  img_alt: 'WHOLE SEEDLESS WATERMELON Sweet summer produce at the peak of perfection! Try the freshest, juiciest, most flavorful watermelon of the season.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ebd369ec-facc-4498-b370-ad8e6407f033.jpg?ver=1530020420000'
+  img_alt: 'Recipe idea CUCUMBER WATERMELON MARTINI VIEW RECIPE >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b20bef01-4fab-4156-b20a-bcf6d45e93f5.jpg?ver=1530020420000'
+  img_alt: 'WATERMELON, FETA & LENTIL SALAD 7.5 OZ. myBALDUCCI&#39;S MEMBER EXCLUSIVE 6.99/EA Reg 7.99/EA'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3bed62c4-6c3e-45ee-b0ad-5270a18b3140.jpg?ver=1530020420000'
+  img_alt: 'EASYGOING ELEGANCE | GRAB & GO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/781f3875-8ddc-4411-8488-4ebf7aa45176.jpg?ver=1530020420000'
+  img_alt: 'SPICED PORK CHOP WITH MANGO SALSA CHEF PREPARED'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/26ea6179-1ffc-49dd-93c0-238ad6c712a5.jpg?ver=1530020420000'
+  img_alt: 'TOMATO MOZZARELLA SALAD'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d63bd242-dbe4-4f68-98c5-31cb260f78d8.jpg?ver=1530020420000'
+  img_alt_2: 'SUMMER DELIGHT SALAD'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/13df6508-0b61-4fa8-ac97-ecda5202d195.jpg?ver=1530020420000'
+  img_alt: 'CLAM BAKE | FOR TWO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3cc67a4d-9dcf-4d03-9cf2-5f19f970a4d6.jpg?ver=1530020420000'
+  img_alt: 'BALDUCCI&#39;S CLAM BAKE FOR 2 Our all-in-one clam bake for two is the easiest summer dinner idea yet! Just cook on your grill or stovetop. FEATURING: • 2 whole lobsters • Littleneck clams • Sweet corn • New potatoes myBALDUCCI&#39;S MEMBER EXCLUSIVE $5 OFF/EA'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7b85b639-6981-4d5b-8760-bdac57709b20.jpg?ver=1530020421000'
+  img_alt: 'NOW OPEN!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005716'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c1ffcc1d-3812-4370-9e3d-0a84c88fb498.jpg?ver=1530020421000'
+  img_alt: 'feed your passion Our flagship store is NOW OPEN in Reston, Virginia! Experience our newest features: • Chef&#39;s Table • Produce Sous Chef • Poke Bowl Bar • Crowler Bar and more! MORE DETAILS >'
+
+
+
+
+
+
