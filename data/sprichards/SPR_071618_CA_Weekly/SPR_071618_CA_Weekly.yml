@@ -1,0 +1,111 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_02.jpg', '/sl-forward-sprisv/MMM/XTRM333TRYMX/1045537481/311-544', 580, 257, 'MMMXTRM333TRYMX - Multicolor']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_03.jpg', '/sl-forward-sprisv/MMM/XTRM333TRYMX/1045537481/311-544', 580, 241, 'MMMXTRM333TRYMX - Multicolor']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_04.jpg', '/sl-forward-sprisv/MMM/XTRM333TRYOG/1045537482/366-996', 205, 22, 'MMMXTRM333TRYOG - Orange'], ['image', 'images/SPR_071618_CA_Weekly_05.jpg', '/sl-forward-sprisv/MMM/XTRM333TRYMX/1045537481/311-544', 375, 22, 'MMMXTRM333TRYMX - Multicolor']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_06.jpg', '/sl-forward-sprisv/MMM/XTRM333TRYGN/1045537480/626-749', 205, 27, 'MMMXTRM333TRYGN - Green'], ['image', 'images/SPR_071618_CA_Weekly_07.jpg', '/sl-forward-sprisv/MMM/XTRM333TRYMX/1045537481/311-544', 375, 27, 'MMMXTRM333TRYMX - Multicolor']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_08.jpg', '/sl-forward-sprisv/MMM/XTRM333TRYMX/1045537481/311-544', 187, 43, 'MMMXTRM333TRYMX - Multicolor'], ['image', 'images/SPR_071618_CA_Weekly_09.jpg', '/sl-forward-sprisv/MMM/XTRM333TRYMX/1045537481/311-544', 393, 43, 'MMMXTRM333TRYMX - Multicolor']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_10.jpg', '/sl-forward-sprisv/MMM/XTRM333TRYMX/1045537481/311-544', 20, 45, 'MMMXTRM333TRYMX - Multicolor'], ['text', 'images/SPR_071618_CA_Weekly_11.jpg', '/sl-forward-sprisv/MMM/XTRM333TRYMX/1045537481/311-544', 167, 45, 'MMMXTRM333TRYMX - Multicolor', '#ffffff', '#000000', 'linetext1_CUS'], ['image', 'images/SPR_071618_CA_Weekly_12.jpg', '/sl-forward-sprisv/MMM/XTRM333TRYMX/1045537481/311-544', 393, 45, 'MMMXTRM333TRYMX - Multicolor']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_13.jpg', '/sl-forward-sprisv/MMM/XTRM333TRYMX/1045537481/311-544', 580, 55, 'MMMXTRM333TRYMX - Multicolor']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_14.jpg', '/sl-forward-sprisv/AVE/79199/11960101/159-572', 580, 87, 'AVE79199 - 1&#34; White']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_15.jpg', '/sl-forward-sprisv/AVE/79199/11960101/159-572', 184, 91, 'AVE79199 - 1&#34; White'], ['image', 'images/SPR_071618_CA_Weekly_16.jpg', '/sl-forward-sprisv/AVE/79192/11960098/935-878', 201, 91, 'AVE79192 - 2&#34; White'], ['image', 'images/SPR_071618_CA_Weekly_17.jpg', '/sl-forward-sprisv/AVE/79199/11960101/159-572', 38, 91, 'AVE79199 - 1&#34; White'], ['image', 'images/SPR_071618_CA_Weekly_18.jpg', '/sl-forward-sprisv/AVE/79192/11960098/935-878', 157, 91, 'AVE79192 - 2&#34; White']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_19.jpg', '/sl-forward-sprisv/AVE/79199/11960101/159-572', 38, 46, 'AVE79199 - 1&#34; White'], ['text', 'images/SPR_071618_CA_Weekly_20.jpg', '/sl-forward-sprisv/AVE/79199/11960101/159-572', 146, 46, 'AVE79199 - 1&#34; White', '#01b0e9', '#FFFFFF', 'linetext2_CUS'], ['image', 'images/SPR_071618_CA_Weekly_21.jpg', '/sl-forward-sprisv/AVE/79192/11960098/935-878', 21, 46, 'AVE79192 - 2&#34; White'], ['text', 'images/SPR_071618_CA_Weekly_22.jpg', '/sl-forward-sprisv/AVE/79192/11960098/935-878', 179, 46, 'AVE79192 - 2&#34; White', '#01b0e9', '#FFFFFF', 'linetext3_CUS'], ['image', 'images/SPR_071618_CA_Weekly_23.jpg', '/sl-forward-sprisv/AVE/79192/11960098/935-878', 196, 46, 'AVE79192 - 2&#34; White']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_24.jpg', '/sl-forward-sprisv/AVE/79199/11960101/159-572', 184, 75, 'AVE79199 - 1&#34; White'], ['image', 'images/SPR_071618_CA_Weekly_25.jpg', '/sl-forward-sprisv/AVE/79192/11960098/935-878', 396, 75, 'AVE79192 - 2&#34; White']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_26.jpg', '/sl-forward-sprisv/PEN/BK440A/11966739/521-143', 402, 169, 'PENBK440A - Black'], ['image', 'images/SPR_071618_CA_Weekly_27.jpg', '/sl-forward-sprisv/PEN/BK440B/11966740/875-477', 74, 169, 'PENBK440B - Red'], ['image', 'images/SPR_071618_CA_Weekly_28.jpg', '/sl-forward-sprisv/PEN/BK440C/11966741/998-717', 104, 169, 'PENBK440C - Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_29.jpg', '/sl-forward-sprisv/PEN/BK440A/11966739/521-143', 354, 114, 'PENBK440A - Black'], ['image', 'images/SPR_071618_CA_Weekly_30.jpg', '/sl-forward-sprisv/PEN/BK440B/11966740/875-477', 69, 114, 'PENBK440B - Red'], ['image', 'images/SPR_071618_CA_Weekly_31.jpg', '/sl-forward-sprisv/PEN/BK440C/11966741/998-717', 157, 114, 'PENBK440C - Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_32.jpg', '/sl-forward-sprisv/PEN/BK440B/11966740/875-477', 187, 23, 'PENBK440B - Red'], ['image', 'images/SPR_071618_CA_Weekly_33.jpg', '/sl-forward-sprisv/PEN/BK440A/11966739/521-143', 134, 23, 'PENBK440A - Black'], ['image', 'images/SPR_071618_CA_Weekly_34.jpg', '', 81, 23, ''], ['image', 'images/SPR_071618_CA_Weekly_35.jpg', '/sl-forward-sprisv/PEN/BK440C/11966741/998-717', 178, 23, 'PENBK440C - Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_36.jpg', '/sl-forward-sprisv/PEN/BK440C/11966741/998-717', 187, 68, 'PENBK440C - Blue'], ['image', 'images/SPR_071618_CA_Weekly_37.jpg', '/sl-forward-sprisv/PEN/BK440A/11966739/521-143', 111, 68, 'PENBK440A - Black'], ['image', 'images/SPR_071618_CA_Weekly_38.jpg', '/sl-forward-sprisv/PEN/BK440B/11966740/875-477', 73, 68, 'PENBK440B - Red'], ['image', 'images/SPR_071618_CA_Weekly_39.jpg', '/sl-forward-sprisv/PEN/BK440C/11966741/998-717', 209, 68, 'PENBK440C - Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_40.jpg', '/sl-forward-sprisv/PEN/BK440A/11966739/521-143', 20, 44, 'PENBK440A - Black'], ['text', 'images/SPR_071618_CA_Weekly_41.jpg', '/sl-forward-sprisv/PEN/BK440A/11966739/521-143', 167, 44, 'PENBK440A - Black', '#d3e6f7', '#000000', 'linetext4_CUS'], ['image', 'images/SPR_071618_CA_Weekly_42.jpg', '/sl-forward-sprisv/PEN/BK440A/11966739/521-143', 93, 44, 'PENBK440A - Black'], ['image', 'images/SPR_071618_CA_Weekly_43.jpg', '/sl-forward-sprisv/PEN/BK440B/11966740/875-477', 74, 44, 'PENBK440B - Red'], ['image', 'images/SPR_071618_CA_Weekly_44.jpg', '/sl-forward-sprisv/PEN/BK440C/11966741/998-717', 226, 44, 'PENBK440C - Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_45.jpg', '/sl-forward-sprisv/PEN/BK440A/11966739/521-143', 266, 54, 'PENBK440A - Black'], ['image', 'images/SPR_071618_CA_Weekly_46.jpg', '/sl-forward-sprisv/PEN/BK440B/11966740/875-477', 73, 54, 'PENBK440B - Red'], ['image', 'images/SPR_071618_CA_Weekly_47.jpg', '/sl-forward-sprisv/PEN/BK440C/11966741/998-717', 96, 54, 'PENBK440C - Blue'], ['image', 'images/SPR_071618_CA_Weekly_48.jpg', '/sl-forward-sprisv/PEN/BK440C/11966741/998-717', 145, 54, 'PENBK440C - Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_49.jpg', 'http://content.etilize.com/spr/rebates/RebateOffer_526.pdf', 580, 171, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_50.jpg', '/sl-forward-sprisv/HEW/112000/1010043975/974-951', 290, 302, 'HEW112000'], ['image', 'images/SPR_071618_CA_Weekly_51.jpg', '/sl-forward-sprisv/HEW/112400/1010043979/603-425', 290, 302, 'HEW112400']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_52.jpg', '/sl-forward-sprisv/HEW/112000/1010043975/974-951', 290, 183, 'HEW112000'], ['image', 'images/SPR_071618_CA_Weekly_53.jpg', '/sl-forward-sprisv/HEW/112400/1010043979/603-425', 290, 183, 'HEW112400']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_54.jpg', '/sl-forward-sprisv/HEW/112000/1010043975/974-951', 20, 46, 'HEW112000'], ['text', 'images/SPR_071618_CA_Weekly_55.jpg', '/sl-forward-sprisv/HEW/112000/1010043975/974-951', 254, 46, 'HEW112000', '#ffffff', '#000000', 'linetext5_CUS'], ['image', 'images/SPR_071618_CA_Weekly_56.jpg', '/sl-forward-sprisv/HEW/112000/1010043975/974-951', 23, 46, 'HEW112000'], ['text', 'images/SPR_071618_CA_Weekly_57.jpg', '/sl-forward-sprisv/HEW/112400/1010043979/603-425', 263, 46, 'HEW112400', '#ffffff', '#000000', 'linetext6_CUS'], ['image', 'images/SPR_071618_CA_Weekly_58.jpg', '/sl-forward-sprisv/HEW/112400/1010043979/603-425', 20, 46, 'HEW112400']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_59.jpg', '/sl-forward-sprisv/HEW/112000/1010043975/974-951', 290, 56, 'HEW112000'], ['image', 'images/SPR_071618_CA_Weekly_60.jpg', '/sl-forward-sprisv/HEW/112400/1010043979/603-425', 290, 56, 'HEW112400']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_61.jpg', '/sl-forward-sprisv/RAC/84251/1022221859/668-851', 580, 221, 'RAC84251']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_62.jpg', '/sl-forward-sprisv/RAC/84251/1022221859/668-851', 389, 44, 'RAC84251'], ['text', 'images/SPR_071618_CA_Weekly_63.jpg', '/sl-forward-sprisv/RAC/84251/1022221859/668-851', 170, 44, 'RAC84251', '#ce1443', '#FFFFFF', 'linetext7_CUS'], ['image', 'images/SPR_071618_CA_Weekly_64.jpg', '/sl-forward-sprisv/RAC/84251/1022221859/668-851', 21, 44, 'RAC84251']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_65.jpg', '/sl-forward-sprisv/RAC/84251/1022221859/668-851', 580, 80, 'RAC84251']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_66.jpg', '/sl-forward-sprisv/GOJ/511401/1046761944/954-155', 580, 171, 'GOJ511401']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_67.jpg', '/sl-forward-sprisv/GOJ/511401/1046761944/954-155', 20, 45, 'GOJ511401'], ['text', 'images/SPR_071618_CA_Weekly_68.jpg', '/sl-forward-sprisv/GOJ/511401/1046761944/954-155', 254, 45, 'GOJ511401', '#d3e6f7', '#000000', 'linetext8_CUS'], ['image', 'images/SPR_071618_CA_Weekly_69.jpg', '/sl-forward-sprisv/GOJ/511401/1046761944/954-155', 306, 45, 'GOJ511401']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_70.jpg', '/sl-forward-sprisv/GOJ/511401/1046761944/954-155', 580, 42, 'GOJ511401']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_71.jpg', '/sl-forward-sprisv/GOJ/511203/1045159300/950-155', 275, 84, 'GOJ511203'], ['image', 'images/SPR_071618_CA_Weekly_72.jpg', '/sl-forward-sprisv/GOJ/511401/1046761944/954-155', 185, 84, 'GOJ511401'], ['image', 'images/SPR_071618_CA_Weekly_73.jpg', '/sl-forward-sprisv/GOJ/511203/1045159300/950-155', 120, 84, 'GOJ511203']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_74.jpg', '/sl-forward-sprisv/GOJ/511203/1045159300/950-155', 275, 87, 'GOJ511203'], ['image', 'images/SPR_071618_CA_Weekly_75.jpg', '/sl-forward-sprisv/GOJ/511401/1046761944/954-155', 143, 87, 'GOJ511401'], ['image', 'images/SPR_071618_CA_Weekly_76.jpg', '/sl-forward-sprisv/GOJ/511203/1045159300/950-155', 162, 87, 'GOJ511203']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_77.jpg', '/sl-forward-sprisv/GOJ/511203/1045159300/950-155', 18, 45, 'GOJ511203'], ['text', 'images/SPR_071618_CA_Weekly_78.jpg', '/sl-forward-sprisv/GOJ/511203/1045159300/950-155', 257, 45, 'GOJ511203', '#d3e6f7', '#000000', 'linetext9_CUS'], ['image', 'images/SPR_071618_CA_Weekly_79.jpg', '/sl-forward-sprisv/GOJ/511203/1045159300/950-155', 305, 45, 'GOJ511203']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_071618_CA_Weekly_80.jpg', '/sl-forward-sprisv/GOJ/511203/1045159300/950-155', 580, 55, 'GOJ511203']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_071618_CA_Weekly_81.jpg', '', 580, 127, '', '#0d0d0d', '#FFFFFF', 'linetext10_CUS']]
+
