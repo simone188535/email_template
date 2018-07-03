@@ -1,0 +1,110 @@
+title: 'The Freshest Local Produce - Now in Season!'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/634424b8-8bf6-477c-a8a0-0b87e51c8551.jpg?ver=1530623579000'
+  img_alt: 'FRESH-PICKED PERFECTION We carefully select only the finest produce - larger, fresher, juicier, riper and more flavorful than you&#39;ll find anywhere else.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/92752a15-bd6a-44aa-87f6-2ec9b1b2f9e1.jpg?ver=1530623579000'
+  img_alt: 'LOCALLY GROWN PRODUCE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6662def7-62d2-4913-ab7b-a83d7cd0eb3e.jpg?ver=1530623579000'
+  img_alt: 'LOCAL CORN GROWN WITH CARE One bite of our fresh, sweet, juicy summer bi-color corn is a revelation. Corn, the way it was meant to be - and you can taste the difference.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/side_dishes?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/17d3a125-73fe-48f7-9bca-9c2be7a57e30.jpg?ver=1530623579000'
+  img_alt: 'Recipe idea STREET CORN SALAD VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/29f862db-6b26-488a-bc80-137eaa2a7fd2.jpg?ver=1530623579000'
+  img_alt: 'WE PROUDLY SUPPORT LOCAL FARMS We take pride in sourcing from neighboring family farms, bringing the finest, most flavorful produce to Balducci&#39;s. HUMMINGBIRD FARMS A hydroponic farm growing tons of tomatoes on a mere 1.75 acres for over 30 years. RIDGELY, MARYLAND | MAROLDA FARMS Vineland, NJ | SUN VALLEY FARMS Hammonton, NJ | REED CREEK FARMS Centreville, MD | PAPEN FARMS Dover, DE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ae11cec5-1304-497a-86b6-27bc9cecbe56.jpg?ver=1530623579000'
+  img_alt: 'MEMBER EXCLUSIVE | COOKOUT APPROVED'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/054794c0-3804-4628-a509-2df01a391794.jpg?ver=1530623580000'
+  img_alt: 'CLAM BAKE FOR 2 INCLUDES: 2 whole lobsters, 18 littleneck clams, 2 ears of sweet corn and 10 new potatoes MEMBER EXCLUSIVE $5 OFF/EA'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ad565a2f-8c91-488e-8527-a2d9bd2d63c9.jpg?ver=1530623579000'
+  img_alt: 'CHEF PREPARED SUMMER STONE FRUIT SALAD MEMBER EXCLUSIVE $5.99 LB Reg 7.99/LB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9c9a917d-0401-4032-9c24-e516d64af837.jpg?ver=1530623579000'
+  img_alt: 'SWEET TREATS | DESSERT'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8ab95e89-de1b-44fe-b861-7481db317e74.jpg?ver=1530623579000'
+  img_alt: 'BALDUCCI&#39;S LEMON RASPBERRY CAKE MEMBER EXCLUSIVE $21.99 EA Reg 24.99/EA'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9459fc6e-ee5b-4ef3-81c6-8b3cc730d214.jpg?ver=1530623580000'
+  img_alt: 'RED & BLACK PLUMS MEMBER EXCLUSIVE $2.99 LB Reg 3.99/LB BLUE MARBLE ORGANIC ICE CREAM 2 FOR $10 Reg 8.99/EA'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/aurorasalmon?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ba361c74-d9ca-4797-bd72-d3a8bd68e4ed.jpg?ver=1530623580000'
+  img_alt: 'WHAT&#39;S NEW'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/aurorasalmon?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fc1263ff-32db-4531-bd50-10fff3239088.jpg?ver=1530623580000'
+  img_alt: 'The World&#39;s Finest AURORA® SALMON The finest salmon in the world is now at Balducci&#39;s. This exquisite salmon is slow-raised in Norway&#39;s coldest waters, developing a taste that is sweet, rich, fresh and vibrant. MORE INFO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b7cf7018-21fc-40e2-8aca-4155b99a28d2.jpg?ver=1530623580000'
+  img_alt: 'Summer Wine & Food Tasting Event Join us Saturday, July 14th at Balducci&#39;s Alexandria, Bethesda, McLean and our newest location in Reston, VA! Food Samplings…….12 noon-5pm Wine Samplings…….2-5PM MORE INFO'
