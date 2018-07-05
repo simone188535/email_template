@@ -1,0 +1,91 @@
+title: 'TBD'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/aurorasalmon?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4260bbfb-0d61-4c3c-ad41-3f5d02855c61.jpg?ver=1530803533000'
+  img_alt: 'Introducing Aurora NORWEGIAN SALMON LEARN MORE >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/aurorasalmon?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5022ae3d-71bd-4382-9dc7-013ca6956671.jpg?ver=1530803533000'
+  img_alt: 'EXPERIENCE THE WORLD&#39;S FINEST SALMON We searched six countries and two hemispheres to discover the Aurora Salmon in Northern Norway, and this salmon is truly the finest in the world.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e1193648-33c3-4883-bcec-30349659cd90.jpg?ver=1530803533000'
+  img_alt: 'SENSATIONAL SALMON RECIPES'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/64fdd774-db8a-4e0d-a0d1-8e539fc3321f.jpg?ver=1530803533000'
+  img_alt: 'SALMON & ASPARAGUS FOIL PACKS VIEW RECIPE >'
+  url_2: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3132e7d6-2a1a-4d41-acbf-93b1a505d28f.jpg?ver=1530803533000'
+  img_alt_2: 'ASIAN SALMON WITH STICKY RICE VIEW RECIPE >'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/34841ceb-bde0-4794-93d0-3aab79eb0f60.jpg?ver=1530803533000'
+  img_alt: 'BAKED SALMON WITH PASTA PRIMAVERA VIEW RECIPE >'
+  url_2: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6e39686f-e0e9-4bed-bb12-4d6e757b3a28.jpg?ver=1530803533000'
+  img_alt_2: 'BLACKENED SALMON SALAD VIEW RECIPE >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/26c5a0ba-032e-4da1-9caf-2c83766524eb.jpg?ver=1530803533000'
+  img_alt: 'THE WORLD&#39;S BEST SALMON | READY-TO-GO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5fd3e5e3-3953-40a3-b5ec-48416f665fc4.jpg?ver=1530803534000'
+  img_alt: 'A fresh addition to our Chef Prepared lineup! Aurora salmon is now featured in our ready-to-go meals. Try Citrus Glazed, Sweet & Spicy Sesame Grilled and more.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/02750584-753c-47a8-ab04-1b7c5300c79b.jpg?ver=1530803534000'
+  img_alt: 'COME EXPERIENCE IT FOR YOURSELF'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0a136b8b-7135-449b-b5ec-890987676f01.jpg?ver=1530803534000'
+  img_alt: 'LEARN MORE >'
