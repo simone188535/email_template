@@ -35,8 +35,11 @@ articles:
   data: [['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_11.jpg', '/sl-forward-sprisv/LLR/48826/1041663079/547-940', 392, 43, 'LLR48826'], ['text', 'images/SPR_080818_Q3_LORELL_SoftSeating_12.jpg', '/sl-forward-sprisv/LLR/48826/1041663079/547-940', 167, 43, 'LLR48826', '#729ab4', '#FFFFFF', 'linetext2_CUS'], ['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_13.jpg', '/sl-forward-sprisv/LLR/48826/1041663079/547-940', 21, 43, 'LLR48826']]
 
 - type: 'table'
-  data: [['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_14.jpg', '/sl-forward-sprisv/LLR/48826/1041663079/547-940', 580, 200, 'LLR48826']]
+  data: [['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_14.jpg', '/sl-forward-sprisv/LLR/48826/1041663079/547-940', 580, 59, 'LLR48826']]
 
 - type: 'table'
-  data: [['footer', 'images/SPR_080818_Q3_LORELL_SoftSeating_15.jpg', '', 580, 140, '', '#000000', '#FFFFFF', 'linetext3_CUS']]
+  data: [['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_15.jpg', 'http://content.etilize.com/spr/PDF/Q3LorellGrowth2018.pdf', 580, 141, '']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_080818_Q3_LORELL_SoftSeating_16.jpg', '', 580, 140, '', '#000000', '#FFFFFF', 'linetext3_CUS']]
 
