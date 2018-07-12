@@ -1,0 +1,42 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_02.jpg', '/sl-forward-sprisv/LLR/48160/1041663076/958-196', 580, 286, 'LLR48160']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_03.jpg', '/sl-forward-sprisv/LLR/48160/1041663076/958-196', 580, 251, 'LLR48160']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_04.jpg', '/sl-forward-sprisv/LLR/48160/1041663076/958-196', 580, 129, 'LLR48160']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_05.jpg', '/sl-forward-sprisv/LLR/48160/1041663076/958-196', 19, 41, 'LLR48160'], ['text', 'images/SPR_080818_Q3_LORELL_SoftSeating_06.jpg', '/sl-forward-sprisv/LLR/48160/1041663076/958-196', 189, 41, 'LLR48160', '#ffffff', '#000000', 'linetext1_CUS'], ['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_07.jpg', '/sl-forward-sprisv/LLR/48160/1041663076/958-196', 372, 41, 'LLR48160']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_08.jpg', '/sl-forward-sprisv/LLR/48160/1041663076/958-196', 580, 48, 'LLR48160']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_09.jpg', '/sl-forward-sprisv/LLR/48826/1041663079/547-940', 580, 398, 'LLR48826']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_10.jpg', '/sl-forward-sprisv/LLR/48826/1041663079/547-940', 580, 132, 'LLR48826']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_11.jpg', '/sl-forward-sprisv/LLR/48826/1041663079/547-940', 392, 43, 'LLR48826'], ['text', 'images/SPR_080818_Q3_LORELL_SoftSeating_12.jpg', '/sl-forward-sprisv/LLR/48826/1041663079/547-940', 167, 43, 'LLR48826', '#729ab4', '#FFFFFF', 'linetext2_CUS'], ['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_13.jpg', '/sl-forward-sprisv/LLR/48826/1041663079/547-940', 21, 43, 'LLR48826']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_080818_Q3_LORELL_SoftSeating_14.jpg', '/sl-forward-sprisv/LLR/48826/1041663079/547-940', 580, 200, 'LLR48826']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_080818_Q3_LORELL_SoftSeating_15.jpg', '', 580, 140, '', '#000000', '#FFFFFF', 'linetext3_CUS']]
+
