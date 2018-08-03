@@ -1,0 +1,104 @@
+title: 'Perfect Peaches + Summer Sweets'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3bb7a6ff-ebb8-4647-9f9c-6ffb5f3cfee8.jpg?ver=1533319262000'
+  img_alt: 'LA DOLCE VITA Enjoy summer&#39;s sweetest, plumpest peaches, indulgent organic frozen treats, fresh baked desserts and more.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/04a6b302-8e11-446a-b49e-55b2db6b853c.jpg?ver=1533319263000'
+  img_alt: 'PRETTY AS A PEACH Sweet tree-ripened peaches are at their best. Choose from delicate white flesh peaches or plump, slightly tart yellow flesh peaches or both! YELLOW & WHITE PEACHES MEMBER EXCLUSIVE $2.99/LB Reg 3.99/LB'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/recipes/peach-and-blueberry-galette?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6f4fdc94-59b8-4cb8-ab4d-2107fb7bbde9.jpg?ver=1533319263000'
+  img_alt: 'Peach Recipe ideas PEACH & BLUEBERRY GALETTE VIEW RECIPE >'
+  url_2: 'https://www.balduccis.com/recipes/peach-crisp?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/466f6626-f8c4-4f77-933d-f393dd29fa99.jpg?ver=1533319263000'
+  img_alt_2: 'PEACH CRISP VIEW RECIPE >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail#patisserie'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6046abd0-1563-48d5-91b7-32d0a947204c.jpg?ver=1533319263000'
+  img_alt: 'HAND-CRAFTED CONFECTIONS BALDUCCI&#39;S OLD FASHIONED CRUMB CAKE Pair fresh baked crumb cake with ripe summer fruit, like yellow or white peaches, for a colorful, bright and sweet treat!'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/61b574c2-ed1e-4ee4-a6d8-328387373e1b.jpg?ver=1533319263000'
+  img_alt: 'ORGANIC ICE CREAM | FROZEN & FABULOUS'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d78fb213-9441-42c2-b584-bb1a0ec4cd97.jpg?ver=1533319263000'
+  img_alt: 'SLIM TWIN ORGANIC VANILLA ICE CREAM'
+  url_2: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43211695-06a2-433b-9fb4-9f76ed9f9045.jpg?ver=1533319263000'
+  img_alt_2: 'THREE TWINS ORGANIC ICE CREAM'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/55edfb41-959b-42b0-864e-c90b77de6992.jpg?ver=1533319263000'
+  img_alt: 'Perfect paired with GRILLED PEACHES'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9fc66aa8-7df0-462d-98cf-5bb948367fd8.jpg?ver=1533319264000'
+  img_alt: 'GRAB & GO | FRESH SUMMER SALADS'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c85e76cb-9790-4036-8031-f5cafe7a17ec.jpg?ver=1533319264000'
+  img_alt: 'SPINACH & STRAWBERRY SALAD'
+  url_2: 'https://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e0b02bb5-ca75-407b-9742-74fa340b8345.jpg?ver=1533319264000'
+  img_alt_2: 'CARIBBEAN MANGO CHICKEN SALAD'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bc93fe36-59fb-43a9-b7b2-868721aeafa8.jpg?ver=1533319264000'
+  img_alt: 'MEMBER EXCLUSIVE SANTA CRUZ ORGANIC JUICES 32 OZ. MEMBER EXCLUSIVE 2/$5 Reg 3.69/EA'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b200e612-8723-4233-833e-017207dd3a0d.jpg?ver=1533319265000'
+  img_alt: 'NEW STYLE | PAY US A VISIT CHECK OUT OUR NEW LOOK! We&#39;ve redesigned our website to give you more - from recipes and gifts to Member Offers and catering. It&#39;s more of what you love every single day. SEE THE NEW SITE >'
