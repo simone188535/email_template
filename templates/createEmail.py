@@ -11,6 +11,7 @@ from BLD.BLD import BLDNoHeaderFooter
 from KF.KF import KFLoyalty
 from KF.KF import KFGeneric
 from SPR.SPR import SPRBuilder
+from OTP.OTP import OTPBuilder
 from genericEmail import genericEmailBuilder
 
 reload(sys)
@@ -40,6 +41,8 @@ class generateEmail(object):
             builder = genericEmailBuilder(**kwargs)
         elif str(project).strip().upper() == "SPR":
             builder = SPRBuilder(**kwargs)
+        elif str(project).strip().upper() == "OTP":
+            builder = OTPBuilder(**kwargs)
         else:
             printUsageAndExit()
 
@@ -58,7 +61,7 @@ class generateEmail(object):
         builder.postProcess()
 
 
-projectOptions = {"BBB":"BuyBuyBaby", "BLDWeekly":"BLD Weekly Email", "BLDSimple":"BLD Simple", "KFLoyalty":"KF Loyalty Email", "KF":"KF Generic Email", "Generic":"Generic Email", "SPR":"SP Richards Email"}
+projectOptions = {"BBB":"BuyBuyBaby", "BLDWeekly":"BLD Weekly Email", "BLDSimple":"BLD Simple", "KFLoyalty":"KF Loyalty Email", "KF":"KF Generic Email", "Generic":"Generic Email", "SPR":"SP Richards Email", "OTP":"Old Time Pottery"}
 
 
 def printUsageAndExit():

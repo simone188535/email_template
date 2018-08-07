@@ -3,7 +3,7 @@ import re
 from createEmail import generateEmail
 from shutil import rmtree
 
-projects = {"buybuybaby":"BBB", "sprichards":"SPR"}
+projects = {"buybuybaby":"BBB", "sprichards":"SPR", "otp":"OTP"}
 
 def get_immediate_subdirectories(a_dir):
     return [name for name in os.listdir(a_dir)
