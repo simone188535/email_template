@@ -1,0 +1,88 @@
+title: ''
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_071218_v1_r4_FNL_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "https://oldtimepottery.com/?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_071218_v1_r4_FNL_02.jpg"
+outdoor_img_alt: "Countdown to CAMPUS Logo"
+outdoor_img_link: "https://oldtimepottery.com/campus?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=otp_campuslogo"
+
+preheader_text: 'Visit soon for the best selection.'
+preheader_link: 'https://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_071218_v1_r4_FNL_03.jpg'
+  image_alt: 'STARTS TODAY! 50% off OUTDOOR CLEARANCE PATIO SETS • CUSHIONS UMBRELLAS OUTDOOR DÉCOR & So Much More! While Supplies Last! Selection and availability varies by store. [MORE INFO]'
+  image_link: 'https://oldtimepottery.com/outdoor?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=starts_today_50off'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_071218_v1_r4_FNL_04.jpg'
+  image_alt: 'Campus Quick Pick! While Supplies Last! SAVE 40% 29.99 Sale  6pc Complete Bed Set Twin XL or Full with Body Pillow. | REG. PRICE $49.99'
+  image_link: 'https://oldtimepottery.com/campus-quickpick?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=campus_qp_save40'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_071218_v1_r4_FNL_05.jpg'
+  image_alt: '7.99 Sale Convoluted Mattress Pad, Twin or Full | REG. PRICE $9.99 - $12.99 8.99 Sale 2pk Gusseted Jumbo Bed Pillows | REG. PRICE $12.99'
+  image_link: 'https://oldtimepottery.com/campus-quickpick?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=campus_qp_mattress_pad'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_071218_v1_r4_FNL_06.jpg'
+  image_alt: '2.99 Sale 27&#34; x 54&#34; Hillsboro Bath Towels | REG. PRICE $3.99 11.99 Sale 14pc Shower Curtain Set | REG. PRICE 16.99'
+  image_link: 'https://oldtimepottery.com/campus-quickpick?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=campus_qp_hillsboro'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_071218_v1_r4_FNL_07.jpg'
+  image_alt: 'EVEN MORE STUDENT LIVING SOLUTIONS On Sale! [MORE ON SALE]'
+  image_link: 'https://oldtimepottery.com/campus-quickpick?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=campus_qp_more_on_sale'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_071218_v1_r4_FNL_08.jpg'
+  image_alt: 'CAMPUS STUDENT DISCOUNT SAVE AN ADDITIONAL 15% WITH YOUR COLLEGE ID* *Student ID must be current for any University, College or Trade School. Other restrictions may apply.'
+  image_link: 'https://oldtimepottery.com/campus?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=college_discount'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_071218_v1_r4_FNL_09.jpg'
+  image_alt: '50% OFF YELLOW TAG CLEARANCE ALL DEPARTMENTS'
+  image_link: 'http://oldtimepottery.com/yellow-tag?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=50off_yellow_tag'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_071218_v1_r4_FNL_10.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=otp_instagram'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=otp_giftcards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=update_your_profile'
+
+socialnav:
+- link: "http://instagram.com/oldtimepottery?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery?utm_source=otp_weekly07_12&utm_medium=email&utm_campaign=50off_Outdoor_clearance&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"

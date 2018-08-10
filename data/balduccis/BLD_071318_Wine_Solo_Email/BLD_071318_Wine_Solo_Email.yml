@@ -1,0 +1,55 @@
+title: 'Al fresco dining isn&#39;t just for restaurants.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/710b50d2-cbd8-4c5c-bce1-8f1f67ee7182.jpg?ver=1531405069000'
+  img_alt: 'JULY WINE & FOOD EVENT SATURDAY, JULY 14 WINE TASTING: 2PM - 5PM • FOOD TASTING: 12PM - 5PM'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/83c85f9a-208b-4415-af7c-87ec10e385fd.jpg?ver=1531405069000'
+  img_alt: 'JULY WINE & FOOD EVENT SATURDAY, JULY 14 WINE TASTING: 2PM - 5PM • FOOD TASTING: 12PM - 5PM'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f3f982fc-9529-4975-a458-0a514f1c0319.jpg?ver=1531405070000'
+  img_alt: 'SAVE 25% MIX & MATCH 12 BOTTLES OR MORE SAMPLE SUMMER WINES'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/df1969ed-3339-446a-95c8-dc4e6957a824.jpg?ver=1531405070000'
+  img_alt: 'BALDUCCI&#39;S FOOD LOVER&#39;S MARKET ALEXANDRIA • 600 Franklin Street, VA • 703.549.6611 BETHESDA • 10323 Old Georgetown Road, MD • 301.564.3100 McLEAN • 6655 Old Dominion Drive, VA • 703.448.3828 RESTON TOWN CENTER • 1871 Fountain Drive, VA • 540.317.3631'

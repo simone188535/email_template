@@ -1,0 +1,113 @@
+title: 'Al fresco dining isn&#39;t just for restaurants.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dcdbc61a-6d10-4e06-b533-5166810286fa.jpg?ver=1531231297000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a427e294-8409-4a0a-83e8-b0d06efe6480.jpg?ver=1531231297000'
+  img_alt: 'Let&#39;s eat al fresco Take dinner outside tonight with these top picks for the grill.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/aurorasalmon?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/70afd2a4-f726-4bb2-a5a6-02776a2de95f.jpg?ver=1531231298000'
+  img_alt: 'THE WORLD&#39;S FINEST SALMON'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/aurorasalmon?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c4a14256-4af6-4f7b-8123-0d1d25225892.jpg?ver=1531231297000'
+  img_alt: 'AURORA NORWEGIAN SALMON We searched six countries and two hemispheres to discover the Aurora Salmon in Northern Norway, and this salmon is truly the finest in the world. MEMBER EXCLUSIVE $2 OFF/LB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/fish?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/46c3ba26-9bc4-4229-9e60-2945d19907c2.jpg?ver=1531231297000'
+  img_alt: 'Recipe idea SALMON & ASPARAGUS FOIL PACKS VIEW RECIPE >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/baa60d7d-4a17-4678-82c8-ed686e85cc4f.jpg?ver=1531231298000'
+  img_alt: 'FAN THE FLAMES | SURF & TURF GRILLING'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2cfc3012-8a27-473a-8d05-e901ec63f903.jpg?ver=1531231298000'
+  img_alt: 'COLOSSAL WILD CAUGHT MEXICAN SHRIMP Harvested from the pristine waters of the Sea of Cortez, these shrimp are enormous in size, making them perfect for summer grilling.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bdd5e4fb-70c2-4cbc-ad9c-b36be2085bd3.jpg?ver=1531231298000'
+  img_alt: 'LOCALLY RAISED RIBEYE STEAKS Our local farmers produce the best searing steaks we&#39;ve ever tasted. Their freshness guarantees a deep, dark caramelization of the sear.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b37bdfe0-f949-4805-836e-10207fdfc03b.jpg?ver=1531231298000'
+  img_alt: 'Try your steak with NEW! BORSARI RUBS All natural seasoned salt mixed with herbs.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/28c08a78-05a6-4e53-87f5-8d7453fb4356.jpg?ver=1531231299000'
+  img_alt: 'PEACHY KEEN | FRESH SUMMER FRUIT WHITE & YELLOW PEACHES DRIP DOWN YOUR CHIN JUICY! MEMBER EXCLUSIVE $1 OFF/LB Reg 3.99'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ac583d9a-48c7-41d6-9625-24b1f943083c.jpg?ver=1531231299000'
+  img_alt: 'GRILLED STONE FRUIT WITH ALMOND MASCARPONE DIP VIEW RECIPE >'
+  url_2: 'http://www.balduccis.com/recipes/beverages?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/53b178e7-16b5-43b7-a032-9d66b5989e33.jpg?ver=1531231299000'
+  img_alt_2: 'WHITE PEACH SUMMER BELLINI VIEW RECIPE >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5d98a603-9c75-4ac2-81e4-8765185e69fd.jpg?ver=1531231299000'
+  img_alt: 'WHAT&#39;S NEW'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/444ac326-6e63-4804-a700-aea9d7f55b3c.jpg?ver=1531231299000'
+  img_alt: 'SAVE 25% MIX & MATCH 12 BOTTLES OR MORE Summer Wine & Food Tasting Event Join us Saturday, July 14th at Balducci&#39;s Alexandria, Bethesda, McLean, and our newest location in Reston, VA! Food Samplings…….12 noon-5pm Wine Samplings…….2-5pm MORE INFO >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/reston/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4ad06e88-a37a-42bd-add6-301508ecd908.jpg?ver=1531231299000'
+  img_alt: 'feed your passion NOW OPEN! Balducci&#39;s Reston, VA Experience unique features like: • Chef&#39;s Table Prepared Foods • Artisan Butchers • Poke Bowl Bar • Beer Crowler Bar and more! MORE DETAILS >'
+
+
+
+
+

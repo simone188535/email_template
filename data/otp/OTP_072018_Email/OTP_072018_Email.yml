@@ -1,0 +1,83 @@
+title: ''
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072018_v1_r4_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072018_v1_r4_02.jpg"
+outdoor_img_alt: "Countdown to CAMPUS"
+outdoor_img_link: "http://oldtimepottery.com/campus?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=campus_logo"
+
+preheader_text: 'Oh my, there&#39;s so much to see at Old Time Pottery. '
+preheader_link: 'https://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072018_v1_r4_03.jpg'
+  image_alt: 'Plan your weekend trip to Old Time Pottery Just Beginning 60% OFF YELLOW TAG CLEARANCE ALL DEPARTMENTS'
+  image_link: '#'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072018_v1_r4_04.jpg'
+  image_alt: 'Campus Quick Pick! While Supplies Last! ENDS SUNDAY, JULY 22 SAVE 55% BEST PRICE EVER! 8.99 Sale 6&#34; Himalayan Salt Lamp | REG. PRICE $19.99'
+  image_link: 'https://oldtimepottery.com/campus-quickpick?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=salt_lamp'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072018_v1_r4_05.jpg'
+  image_alt: 'SAVE 50% ALL Bedrests, Body Pillows & Floor Cushions'
+  image_link: 'https://oldtimepottery.com/campus-quickpick?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=bedrests_body_cushions'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072018_v1_r4_06.jpg'
+  image_alt: 'SAVE 50% 19.99 Each Stretch Slipcovers Sofa, Loveseat or Chair | REG. PRICE $39.99 SAVE 50% 4.99 Each Monogram Tote Bag Canvas. Assorted colors. | REG. PRICE $9.99'
+  image_link: 'https://oldtimepottery.com/campus-quickpick?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=slipcovers_totebag'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072018_v1_r4_07.jpg'
+  image_alt: '75¢ Sale Placemats | REG. PRICE $1.00 SAVE OVER 25% 4.99 Sale Bath Towels 30&#34; x 54&#34; Hamilton | REG. PRICE $6.99 [MORE ON SALE]'
+  image_link: 'https://oldtimepottery.com/campus-quickpick?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=placemats_towels'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072018_v1_r4_08.jpg'
+  image_alt: '50% off OUTDOOR CLEARANCE PATIO SETS • CUSHIONS  • UMBRELLAS  •  OUTDOOR DÉCOR & SO MUCH MORE! While Supplies Last! Selection and availability varies by store. [MORE INFO]'
+  image_link: 'https://oldtimepottery.com/outdoor?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=outdoor'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072018_v1_r4_09.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'https://www.instagram.com/oldtimepottery/?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=otp_instagram'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=otp_giftcards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=otp_account'
+
+socialnav:
+- link: "https://www.instagram.com/oldtimepottery/?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery?utm_source=otp_weekly07_20&utm_medium=email&utm_campaign=weekendplans_clearance_outdoor&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"

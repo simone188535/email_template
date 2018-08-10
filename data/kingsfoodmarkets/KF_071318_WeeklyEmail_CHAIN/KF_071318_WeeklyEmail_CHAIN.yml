@@ -1,0 +1,151 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b3c934dc-bda6-46d4-aa34-d3e272df9831.jpg?ver=1531246391000"
+  img_alt: "FIRE UP LOCAL SEAFOOD Distinctively rich taste and bold flavor, perfect for summer grilling. Create BLACKENED YELLOWFIN TUNA TACOS VIEW RECIPE >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/blackened-yellowfin-tuna-tacos?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d66f8e7f-a9fc-4a03-aa0e-da3da5545a8d.jpg?ver=1531246391000"
+  img_alt: "FRESH CATCH LOCALLY HARVESTED TUNA"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d2dcd194-3842-4562-9696-251f35a95adf.jpg?ver=1531246392000"
+  img_alt: "Our LOCAL tuna are hook and line harvested in small boats off the NORTH CAROLINA coast near Cape Hatteras. Time from catch to table is as little as 72 HOURS."
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f172c113-aa41-40cf-9ae6-86d3d4bcb71a.jpg?ver=1531246392000"
+  img_alt: "LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/68e91e89-704e-402a-902c-9f2d47c1d734.jpg?ver=1531246392000"
+  img_alt: "myKINGS EXTRA! SAVINGS LET'S GET GRILLING"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0c1c3a10-4e9f-481e-8329-8df51efc8c46.jpg?ver=1531246392000"
+  img_alt: "LOCAL BEEF SAVE $4 lb. LOCALLY RAISED TOP ROUND LONDON BROIL members pay 4.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/54944738-f539-472f-b157-4e5a3b7f87c4.jpg?ver=1531246392000"
+  img_alt_2: "LOCAL SAVE $3 lb. WILD CAUGHT YELLOWFIN TUNA STEAK members pay 15.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/aeca817b-4566-4eef-acc8-91f590623159.jpg?ver=1531246392000"
+  img_alt: "YELLOW OR WHITE NECTARINES members pay 2.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8f30faec-676e-4dcc-9d0d-ce7fac33d3d2.jpg?ver=1531246392000"
+  img_alt_2: "ORGANIC SAVE $2 lb. ORGANIC CHERRIES members pay 5.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/151351b6-7ecd-48a4-84e1-20916578bc3e.jpg?ver=1531246392000"
+  img_alt: "VIEW WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/334ca0f6-6de4-4e6a-a581-84a596215184.jpg?ver=1531246392000"
+  img_alt: "GET YOUR COOKOUT ON! GRILLING IDEAS"
+  url: "https://kingsfoodmarkets.com/unique-recipes/balsamic-marinated-london-broil?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e4ffaa0c-a2bd-4884-9ce9-228b4c72e91a.jpg?ver=1531246393000"
+  img_alt: "BALSAMIC MARINATED LONDON BROIL VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/balsamic-marinated-london-broil?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/899f819b-83fc-4cb3-ad28-920dc06e535b.jpg?ver=1531246393000"
+  img_alt: "PAIR WITH THESE GREAT-ON-THE-GRILL VEGGIES CORN LEMONS CAULIFLOWER EGGPLANT ROMAINE LETTUCE ZUCCHINI"
+  url: "https://kingsfoodmarkets.com/unique-recipes/grilling-tips?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d7a2921e-8bc4-48fc-abc5-d6bc47d40d27.jpg?ver=1531246393000"
+  img_alt: "VIEW VEGGIE GRILLING TIPS >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/grilling-tips?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/43437b9d-e426-45a6-b062-63f976bee5fa.jpg?ver=1531246393000"
+  img_alt: "THE WORLD'S BEST SALMON GOURMET TO GO A fresh addition to our Chef Prepared lineup! Aurora salmon is now featured in our ready-to-go meals. Try CITRUS GLAZED, SWEET & SPICY SESAME GRILLED and MORE."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b4c44484-3006-48cc-8274-0fe26082f023.jpg?ver=1531246393000"
+  img_alt: "SAVE $1.50 KINGS CHEF INSPIRED GRILLED AURORA SALMON 4 OZ. members pay 9.49 EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/231c57c2-dd3d-47f5-84c6-f1ad8817abdd.jpg?ver=1531246393000"
+  img_alt: "VIEW MORE >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d8af40a-8e86-4637-bd83-e97569473a3e.jpg?ver=1531246393000"
+  img_alt: "CHEF PREPARED SIMPLE SUMMER NIGHTS Forget about heating up your kitchen on a balmy summer evening! Stop in for Chef Prepared ENTREES and SIDES for an easy dinner you'll love."
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0caecfb8-dec0-4628-997b-52728f982ebf.jpg?ver=1531246394000"
+  img_alt: "KINGS CHEF INSPIRED PANKO STYLE TILAPIA"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cc508838-e536-4d8c-834c-422db4e29e31.jpg?ver=1531246394000"
+  img_alt: "SUMMER CORN SUCCOTASH"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1464dea2-c2bd-4609-9108-7207181db644.jpg?ver=1531246394000"
+  img_alt_2: "GRILLED ASPARAGUS WITH GOAT CHEESE"
+  url_2: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e645922a-8652-4e06-8c18-71fdc26e3acf.jpg?ver=1531246394000"
+  img_alt: "VIEW MORE CHEF PREPARED >"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+

@@ -1,0 +1,158 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e518635b-e2e5-48b7-9121-4a6a234b1eeb.jpg?ver=1530035782000"
+  img_alt: "A SAVORY CELEBRATION Spend the 4th of July enjoying the best flavors of the season with friends and family. Create STEAK & VEGGIE KABOBS WITH CREAMY AVOCADO DIPPING SAUCE VIEW RECIPE >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/steak-and-veggie-kabobs-with-creamy-avocado-dipping-sauce?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ca75056e-134f-40ac-aba1-3e40a0f15c6e.jpg?ver=1530040705000"
+  img_alt: "myKINGS EXTRA! SAVINGS STARS, STRIPES & SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8fe163cb-945d-4a97-8cee-a67af7fa9ce5.jpg?ver=1530040705000"
+  img_alt: "SAVE $5 lb. LOCAL BEEF LOCALLY RAISED USDA PRIME SIRLOIN STEAKS Never Administered Antibiotics or Added Growth Hormones members pay 6.99 LB. "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/17930bb6-ff6b-4d3f-a28e-40187eaa12fa.jpg?ver=1530040705000"
+  img_alt_2: "SAVE $4 lb. WILD CAUGHT KEY WEST PINK SHRIMP 16/20 CT. Toss with Old Bay, Steam or Grill for a Spicy Peel and Eat Treat members pay 14.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9c0cd202-446c-4fc8-b2fc-fb85a66d40d9.jpg?ver=1530040705000"
+  img_alt: "SAVE $1.98 on 2 JERSEY FRESH BLUEBERRIES 11 OZ. members pay 2/8."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/78aa8aad-eceb-4c7f-babf-811a1d5ba95f.jpg?ver=1530040705000"
+  img_alt_2: "Sweet Corn SAVE $1.50 on 6 FRESH, SWEET BI-COLOR CORN members pay 6/2.99"
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/470c294a-66eb-48bc-bcef-849f0c73db2a.jpg?ver=1530040705000"
+  img_alt: "View More Specials and Make a List VIEW HOBOKEN WEEKLY SALES"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cbe3ce2a-8312-4add-825e-26c3477ea12a.jpg?ver=1530035782000"
+  img_alt: "RECIPE IDEA SRIRACHA SALMON BURGERS WITH BANH MI SLAW"
+  url: "https://kingsfoodmarkets.com/unique-recipes/banh-mi-slaw-for-sriracha-salmon-burgers?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a4a26124-7e3a-43d6-bd73-8edb96ab31c0.jpg?ver=1530040705000"
+  img_alt: "SEASIDE TO STOVETOP EASIEST SUMMER DINNER EVER"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4bf7a3bd-d7ff-4de6-b929-e86401bee56c.jpg?ver=1530040705000"
+  img_alt: "KINGS CLAM & LOBSTER BAKE FOR 2 KINGS"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/69f6f6b4-1e5a-4c15-9b4d-aeeaf653a172.jpg?ver=1530040706000"
+  img_alt: "VIEW MORE >"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0ad8bf1a-a3e9-4190-8ce7-98fde19caa82.jpg?ver=1530035783000"
+  img_alt: "SALUTE TO SWEETNESS! FESTIVE DESSERTS"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bcc9697c-b864-46d4-be8d-61a478c57063.jpg?ver=1530035783000"
+  img_alt: "Celebrate America and your sweet tooth with timeless DESSERT CLASSICS."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d34ef2bf-d1cb-4246-b8a3-3fb7337cef7a.jpg?ver=1530035783000"
+  img_alt: "GRILLED ANGEL FOOD CAKE VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/grilled-angel-food-cake-w-summer-berries?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/484cd04a-7a0b-46b4-9b39-19252af9ee0c.jpg?ver=1530040706000"
+  img_alt: "SAVE $5 ALL-AMERICAN FAVORITE! KINGS FRESH BAKED APPLE PIE 32 OZ. members pay 6.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c989ce03-8dc7-4c2a-aebf-ee010205f57a.jpg?ver=1530040706000"
+  img_alt_2: "SAVE $6.59 on 2 BUY ONE GET ONE BOGO BLUE BUNNY ICE CREAM ALL VARIETIES 46-48 FL. OZ. members BUY 1 GET 1 FREE"
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/32eb8957-18a7-4c81-b07d-b41c10805fa8.jpg?ver=1530040706000"
+  img_alt: "VIEW MORE >"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2e3089d5-792f-4238-8a8c-a35f545d0f33.jpg?ver=1530035784000"
+  img_alt: "DECLARE KITCHEN INDEPENDENCE HOLIDAY CATERING"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b4093e4d-e0aa-4a13-8adf-900435a5f755.jpg?ver=1530035784000"
+  img_alt: "Our SPECIAL OCCASIONS CATERING MENU offers lots of tasty selections to please your guests and free you up from cooking so you can enjoy the day."
+  url: "https://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5973485a-1bd3-49bf-86bf-fa6f6fda98fe.jpg?ver=1530035784000"
+  img_alt: "BBQ PORK SPARE RIBS"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/26c2c39f-a10b-4228-b0e8-7a7f3c7bc0d8.jpg?ver=1530035784000"
+  img_alt_2: "CRUNCHY VEGETABLE SALAD"
+  url_2: "https://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ff3e985b-5b5b-4706-8bf0-4645c1917620.jpg?ver=1530035784000"
+  img_alt: "VIEW MENU >"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5079f391-9cec-42a1-abc6-b2bf6ab226ad.jpg?ver=1530035785000"
+  img_alt: "WHAT'S NEW IN STORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3fb51f0a-33c3-4b46-8112-f43c8899508d.jpg?ver=1530035784000"
+  img_alt: "LEAN AND GREEN These crunchy and delicious bean snacks from THE GOOD BEAN provide a protein-packed punch of flavor and nutrition that you can't get enough of. GET DETAILS >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0629_KF_WeeklyEmail"

@@ -1,0 +1,73 @@
+title: ''
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072518_v1_r1_FNL_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "https://oldtimepottery.com/?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072518_v1_r1_FNL_02.jpg"
+outdoor_img_alt: "Countdown to CAMPUS [LEARN MORE]"
+outdoor_img_link: "https://oldtimepottery.com/campus?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=otp_campus"
+
+preheader_text: 'Big deals on bedding, storage and more.'
+preheader_link: 'https://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072518_v1_r1_FNL_03.jpg'
+  image_alt: 'SALE STARTS TODAY! Campus Quick Pick! While Supplies Last! Sale ends Sunday, July 29th Featured Offer $9.99 SALE MICROFIBER SHEET SETS Select Twin XL Sets Retail $14.99 - $17.99 (SAVE UP TO $8)'
+  image_link: 'https://oldtimepottery.com/campus-quickpick?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=microfiber_bed-sheets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072518_v1_r1_FNL_04.jpg'
+  image_alt: '19.99 Sale Comforter Sets Select Twin XL Sets | REG. PRICE $29.99 9.99 Sale Sealy® Posturepedic Jumbo Bed Pillow | REG. PRICE $19.99 [MORE ON SALE]'
+  image_link: 'https://oldtimepottery.com/campus-quickpick?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=comforter-sets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072518_v1_r1_FNL_05.jpg'
+  image_alt: '50% off OUTDOOR CLEARANCE PATIO SETS • CUSHIONS UMBRELLAS • OUTDOOR DÉCOR &  SO MUCH MORE! While Supplies Last! Selection and availability varies by store. [MORE INFO]'
+  image_link: 'https://oldtimepottery.com/outdoor?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=50off_outdoor_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072518_v1_r1_FNL_06.jpg'
+  image_alt: '60% OFF YELLOW TAG CLEARANCE ALL DEPARTMENTS HERE TODAY, GONE TOMORROW! '
+  image_link: 'http://oldtimepottery.com/yellow-tag?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=60off_yellow-tag_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_072_-072518_v1_r1_FNL_07.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=otp_instagram'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=otp_gift-cards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=otp_profile'
+
+socialnav:
+- link: "http://instagram.com/oldtimepottery?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery?utm_source=otp_weekly07-25&utm_medium=email&utm_campaign=quick_pick_sale_starts_now&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"

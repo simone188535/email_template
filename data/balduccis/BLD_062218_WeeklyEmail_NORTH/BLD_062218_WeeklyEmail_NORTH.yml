@@ -1,0 +1,116 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c17b49e3-6311-4e2e-8386-9810c9c41cc4.jpg?ver=1529415645000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/appetizers?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/30281fd6-54bc-448b-b28c-8e6e88367e78.jpg?ver=1529415645000'
+  img_alt: 'Sweet PERFECTION Fresh stone fruit, picked at the peak of deliciousness. Recipe idea GRILLED PEACH SALSA VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e7ba9a8e-4fa4-414d-b2be-ed57cdaeaf8e.jpg?ver=1529415645000'
+  img_alt: 'MEET MOONLIGHT FARMS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f45e0c83-6baa-40d2-9471-7c80e807fd32.jpg?ver=1529415646000'
+  img_alt: 'MOONLIGHT This family farm has been sustainably harvesting the finest, freshest fruits since 1918 from vineyards, groves and orchards along the Kings River - stretching through three central California counties. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/85314906-ed95-4fc9-9cf1-d18486614ce1.jpg?ver=1529415645000'
+  img_alt: 'Recipe Idea PEACH & BLUEBERRY GALETTE VIEW RECIPE'
+
+- type: 'image'
+  url: 'https://vimeo.com/balduccis/sourcreampiecrust?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0870929c-ff03-492f-b9a5-1bac08615f23.jpg?ver=1529415645000'
+  img_alt: 'HOW TO VIDEO | BAKING 101'
+
+- type: 'image'
+  url: 'https://vimeo.com/balduccis/sourcreampiecrust?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e49bc655-ada2-4194-8cf8-c4f2802e160e.jpg?ver=1529415645000'
+  img_alt: 'SAVORY SOUR CREAM PIE CRUST'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3188fa0a-d082-4980-a674-6228f199af1f.jpg?ver=1529415645000'
+  img_alt: 'FRESH SIDE IDEAS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b7dd545a-de37-478d-a35e-564a81a3e631.jpg?ver=1529415646000'
+  img_alt: 'TOMATO MOZZARELLA SALAD'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d46daa85-8088-4980-ad44-3b7bba086240.jpg?ver=1529415646000'
+  img_alt: 'NATURE&#39;S CANDY | SUMMER CHERRIES'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/079191a6-a494-4b6a-802a-a7eecea8198e.jpg?ver=1529415646000'
+  img_alt: 'NOW IN SEASON! It&#39;s simple: the bigger the cherry, the tastier it will be. Shop Balducci&#39;s for the biggest, firmest, sweetest cherries you can find all summer long, straight from the majestic mountains of Washington state.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/77e6e6ce-929b-4469-89c9-6aa498f7cdb9.jpg?ver=1529415646000'
+  img_alt: 'Recipe idea SOUR CHERRY PIE WITH LATTICE CRUST VIEW RECIPE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4330d853-7b1e-446d-ae3f-36664a16ea70.jpg?ver=1529415646000'
+  img_alt: 'MEMBER EXCLUSIVE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005667'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f1f5a505-57a2-4d85-9d56-5e260b25d8d2.jpg?ver=1529415647000'
+  img_alt: 'BUILD YOUR OWN CUSTOM CHEESE PLATE The perfect cheese plate adds a distinctive touch to any gathering. Build your own from our assortment of premium cheeses. MEMBER EXCLUSIVE 21.99/EA Reg 24.99 MEDIUM 29.99/EA Reg 34.99 LARGE'
+
+# - type: 'image-2-columns'
+#   url: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+#   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/25936aed-0054-4731-94bb-7832d903dafb.jpg?ver=1527107988000'
+#   img_alt: 'LOCALLY RAISED COWBOY STEAK Step up your grilling game with a savory 2&#34; thick, richly marbled ribeye steak attached to a long exposed bone. MEMBER EXCLUSIVE 19.99/LB Reg 21.99'
+#   url_2: 'http://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=041318_BLD_WeeklyEmail'
+#   img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/01e5f790-f59f-4f06-a4ff-558e4ed2b75a.jpg?ver=1527107988000'
+#   img_alt_2: 'LOCALLY RAISED COWBOY STEAK Step up your grilling game with a savory 2&#34; thick, richly marbled ribeye steak attached to a long exposed bone. MEMBER EXCLUSIVE 19.99/LB Reg 21.99'
+
+
+

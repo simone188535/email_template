@@ -1,0 +1,107 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/26acb24e-9b8d-43ab-8d16-2b5b202affe4.jpg?ver=1531839019000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d6a21a85-a9bd-45e8-96b7-f938f1b43fcf.jpg?ver=1531839019000'
+  img_alt: 'BRILLIANT BLUEBERRIES Fresh, sweet and full of fantastic antioxidants - summer blueberries are here. BLUEBERRIES MEMBER EXCLUSIVE $1 OFF Reg 4.99/PINT'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/788d6460-c4f3-4d5d-aaf4-0949a616cc44.jpg?ver=1531839020000'
+  img_alt: 'Celebrate NATIONAL BLUEBERRY MONTH Whether sprinkled in your favorite salads or atop light cakes and whipped cream, the versatility and fabulous flavor of blueberries can&#39;t be denied.'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/recipes/salads?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a9817dbd-11d9-445a-a517-0112d6863c3c.jpg?ver=1531839020000'
+  img_alt: 'FRESH SPINACH SALAD WITH BLUEBERRIES & BRIE VIEW RECIPE >'
+  url_2: 'http://www.balduccis.com/recipes/desserts?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f5086e4c-c5ce-4972-95d9-5474ff4b2343.jpg?ver=1531839020000'
+  img_alt_2: 'BLUEBERRY CROSTATA WITH LEMON MASCARPONE CREAM VIEW RECIPE >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a6b558fc-8300-41d0-af44-5e32cf4582cb.jpg?ver=1531839020000'
+  img_alt: 'STONEWALL KITCHEN WILD MAINE BLUEBERRY JAM Pairs nicely with a hot, fresh baguette!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/91835263-30b2-474d-898e-0310dfc312f3.jpg?ver=1531839020000'
+  img_alt: 'GREAT FOR GRILLING | FRESH VEGGIES'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/41ad6fcf-836b-4b5a-8a34-252c2e1547d6.jpg?ver=1531839020000'
+  img_alt: 'GREEN ASPARAGUS MEMBER EXCLUSIVE $2 OFF Reg 3.99/LB'
+  url_2: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5a5a7889-9ec4-43ff-b78d-c7df26ddb43d.jpg?ver=1531839020000'
+  img_alt_2: 'WHITE ASPARAGUS MEMBER EXCLUSIVE $1 OFF Reg 5.99/LB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f5561266-9c1c-422e-a005-ce312f8f70bf.jpg?ver=1531839020000'
+  img_alt: 'PORTOBELLA MUSHROOMS A meat alternative! Meaty and flavorful, these huge 5&#34; Portobellas make for a simple meal or a delicious side.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/recipes/appetizers?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ff32c65b-6dcb-4a04-b385-3fb937ae389e.jpg?ver=1531839021000'
+  img_alt: 'Recipe idea SPINACH & CREAMY GOAT CHEESE STUFFED MUSHROOM VIEW RECIPE >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3aa71ba8-606f-43c9-b7bb-a922a5cbf139.jpg?ver=1531839021000'
+  img_alt: 'CHEF PREPARED | FAST & FRESH'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0660b6a3-f22f-4b13-a9e2-c063d7b54a20.jpg?ver=1531839021000'
+  img_alt: 'ZUCCHINI NOODLE MARINARA 22 OZ. Summer squash noodles, marinara sauce, Parmesan cheese and fresh basil are packaged and ready for a quick saute! MEMBER EXCLUSIVE $3 OFF Reg 12.00/EA'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c965705f-7290-40a8-9244-dd4a161c973b.jpg?ver=1531839021000'
+  img_alt: 'MEMBER EXCLUSIVE | PREMIUM BEEF'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/307233c8-551e-4a47-b2af-ce8d45cb8593.jpg?ver=1531839021000'
+  img_alt: 'USDA PRIME CERTIFIED ANGUS BEEF PATTIES & SLIDERS Made using only the finest 90% lean prime beef, ground fresh in-store every day! MEMBER EXCLUSIVE $1 OFF Reg 8.99/LB'
+

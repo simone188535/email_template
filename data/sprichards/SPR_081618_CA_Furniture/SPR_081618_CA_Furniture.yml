@@ -1,0 +1,105 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_02.jpg', '/sl-forward-sprisv/LLR/41306/1023248421/272-386', 580, 283, 'LLR41306']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_03.jpg', '/sl-forward-sprisv/LLR/41306/1023248421/272-386', 580, 212, 'LLR41306']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_04.jpg', '/sl-forward-sprisv/LLR/41306/1023248421/272-386', 580, 119, 'LLR41306']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_05.jpg', '/sl-forward-sprisv/LLR/41306/1023248421/272-386', 299, 25, 'LLR41306'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_06.jpg', '/sl-forward-sprisv/LLR/41308/1023248423/816-330', 184, 25, 'LLR41308'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_07.jpg', '/sl-forward-sprisv/LLR/41306/1023248421/272-386', 97, 25, 'LLR41306']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_08.jpg', '/sl-forward-sprisv/LLR/41306/1023248421/272-386', 580, 50, 'LLR41306']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_09.jpg', '/sl-forward-sprisv/LLR/41306/1023248421/272-386', 299, 34, 'LLR41306'], ['text', 'images/SPR_150_081618_CA_Furniture_R1_DEV_10.jpg', '/sl-forward-sprisv/LLR/41306/1023248421/272-386', 184, 34, 'LLR41306', '#ffffff', '#000000', 'linetext1_CUS'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_11.jpg', '/sl-forward-sprisv/LLR/41306/1023248421/272-386', 97, 34, 'LLR41306']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_12.jpg', '/sl-forward-sprisv/LLR/41308/1023248423/816-330', 77, 80, 'LLR41308'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_13.jpg', '/sl-forward-sprisv/LLR/41306/1023248421/272-386', 503, 80, 'LLR41306']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_14.jpg', '/sl-forward-sprisv/LLR/34410/1035845060/479-178', 580, 183, 'LLR34410']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_15.jpg', '/sl-forward-sprisv/LLR/34411/1035845061/728-430', 154, 21, 'LLR34411 '], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_16.jpg', '/sl-forward-sprisv/LLR/34410/1035845060/479-178', 426, 21, 'LLR34410']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_17.jpg', '/sl-forward-sprisv/LLR/34410/1035845060/479-178', 580, 23, 'LLR34410']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_18.jpg', '/sl-forward-sprisv/LLR/34410/1035845060/479-178', 580, 48, 'LLR34410']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_19.jpg', '/sl-forward-sprisv/LLR/34410/1035845060/479-178', 20, 32, 'LLR34410'], ['text', 'images/SPR_150_081618_CA_Furniture_R1_DEV_20.jpg', '/sl-forward-sprisv/LLR/34410/1035845060/479-178', 134, 32, 'LLR34410', '#e4edfc', '#000000', 'linetext2_CUS'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_21.jpg', '/sl-forward-sprisv/LLR/34410/1035845060/479-178', 273, 32, 'LLR34410'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_22.jpg', '/sl-forward-sprisv/LLR/34411/1035845061/728-430', 77, 32, 'LLR34411 '], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_23.jpg', '/sl-forward-sprisv/LLR/34410/1035845060/479-178', 76, 32, 'LLR34410']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_24.jpg', '/sl-forward-sprisv/LLR/34410/1035845060/479-178', 427, 66, 'LLR34410'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_25.jpg', '/sl-forward-sprisv/LLR/34411/1035845061/728-430', 77, 66, 'LLR34411 '], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_26.jpg', '/sl-forward-sprisv/LLR/34410/1035845060/479-178', 76, 66, 'LLR34410']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_27.jpg', '/sl-forward-sprisv/LLR/34410/1035845060/479-178', 580, 33, 'LLR34410']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_28.jpg', '/sl-forward-sprisv/LLR/41292/1023248407/597-580', 580, 178, 'LLR41292 ']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_29.jpg', '/sl-forward-sprisv/LLR/41292/1023248407/597-580', 291, 21, 'LLR41292 '], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_30.jpg', '/sl-forward-sprisv/LLR/41294/1023248409/793-661', 130, 21, 'LLR41294'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_31.jpg', '/sl-forward-sprisv/LLR/41292/1023248407/597-580', 159, 21, 'LLR41292 ']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_32.jpg', '/sl-forward-sprisv/LLR/41292/1023248407/597-580', 580, 51, 'LLR41292 ']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_33.jpg', '/sl-forward-sprisv/LLR/41292/1023248407/597-580', 216, 31, 'LLR41292 '], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_34.jpg', '/sl-forward-sprisv/LLR/41294/1023248409/793-661', 74, 31, 'LLR41294'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_35.jpg', '/sl-forward-sprisv/LLR/41292/1023248407/597-580', 10, 31, 'LLR41292 '], ['text', 'images/SPR_150_081618_CA_Furniture_R1_DEV_36.jpg', '/sl-forward-sprisv/LLR/41292/1023248407/597-580', 176, 31, 'LLR41292 ', '#ffffff', '#000000', 'linetext3_CUS'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_37.jpg', '/sl-forward-sprisv/LLR/41292/1023248407/597-580', 104, 31, 'LLR41292 ']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_38.jpg', '/sl-forward-sprisv/LLR/41292/1023248407/597-580', 216, 49, 'LLR41292 '], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_39.jpg', '/sl-forward-sprisv/LLR/41294/1023248409/793-661', 75, 49, 'LLR41294'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_40.jpg', '/sl-forward-sprisv/LLR/41292/1023248407/597-580', 289, 49, 'LLR41292 ']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_41.jpg', '/sl-forward-sprisv/LLR/41292/1023248407/597-580', 580, 39, 'LLR41292 ']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_42.jpg', '/sl-forward-sprisv/LLR/41292/1023248407/597-580', 220, 192, 'LLR41292 '], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_43.jpg', '/sl-forward-sprisv/LLR/49204/1028853974/776-783', 360, 192, 'LLR49204']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_44.jpg', '/sl-forward-sprisv/LLR/49204/1028853974/776-783', 580, 229, 'LLR49204']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_45.jpg', '/sl-forward-sprisv/LLR/49204/1028853974/776-783', 19, 31, 'LLR49204'], ['text', 'images/SPR_150_081618_CA_Furniture_R1_DEV_46.jpg', '/sl-forward-sprisv/LLR/49204/1028853974/776-783', 153, 31, 'LLR49204', '#ffffff', '#000000', 'linetext4_CUS'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_47.jpg', '/sl-forward-sprisv/LLR/49204/1028853974/776-783', 408, 31, 'LLR49204']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_48.jpg', '/sl-forward-sprisv/LLR/49204/1028853974/776-783', 580, 61, 'LLR49204']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_49.jpg', '/sl-forward-sprisv/LLR/55630/1031869851/385-427', 193, 65, 'LLR55630'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_50.jpg', '/sl-forward-sprisv/LLR/49204/1028853974/776-783', 194, 65, 'LLR49204'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_51.jpg', '/sl-forward-sprisv/LLR/49204/1028853974/776-783', 193, 65, 'LLR49204']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_52.jpg', '/sl-forward-sprisv/LLR/55630/1031869851/385-427', 193, 124, 'LLR55630'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_53.jpg', '/sl-forward-sprisv/LLR/52564/1035841128/359-764', 194, 124, 'LLR52564'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_54.jpg', '/sl-forward-sprisv/LLR/52561/1031869842/498-682', 193, 124, 'LLR52561']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_55.jpg', '/sl-forward-sprisv/LLR/55630/1031869851/385-427', 193, 226, 'LLR55630'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_56.jpg', '/sl-forward-sprisv/LLR/52564/1035841128/359-764', 194, 226, 'LLR52564'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_57.jpg', '/sl-forward-sprisv/LLR/52561/1031869842/498-682', 193, 226, 'LLR52561']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_58.jpg', '/sl-forward-sprisv/LLR/55630/1031869851/385-427', 193, 204, 'LLR55630'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_59.jpg', '/sl-forward-sprisv/LLR/52564/1035841128/359-764', 194, 204, 'LLR52564'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_60.jpg', '/sl-forward-sprisv/LLR/52561/1031869842/498-682', 193, 204, 'LLR52561']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_61.jpg', '/sl-forward-sprisv/LLR/55630/1031869851/385-427', 18, 32, 'LLR55630'], ['text', 'images/SPR_150_081618_CA_Furniture_R1_DEV_62.jpg', '/sl-forward-sprisv/LLR/55630/1031869851/385-427', 175, 32, 'LLR55630', '#4266b0', '#FFFFFF', 'linetext5_CUS'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_63.jpg', '/sl-forward-sprisv/LLR/52564/1035841128/359-764', 13, 32, 'LLR52564'], ['text', 'images/SPR_150_081618_CA_Furniture_R1_DEV_64.jpg', '/sl-forward-sprisv/LLR/52564/1035841128/359-764', 174, 32, 'LLR52564', '#4367b5', '#FFFFFF', 'linetext6_CUS'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_65.jpg', '/sl-forward-sprisv/LLR/52561/1031869842/498-682', 12, 32, 'LLR52561'], ['text', 'images/SPR_150_081618_CA_Furniture_R1_DEV_66.jpg', '/sl-forward-sprisv/LLR/52561/1031869842/498-682', 188, 32, 'LLR52561', '#4367b5', '#FFFFFF', 'linetext7_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_67.jpg', '/sl-forward-sprisv/LLR/55630/1031869851/385-427', 193, 69, 'LLR55630'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_68.jpg', '/sl-forward-sprisv/LLR/52564/1035841128/359-764', 192, 69, 'LLR52564'], ['image', 'images/SPR_150_081618_CA_Furniture_R1_DEV_69.jpg', '/sl-forward-sprisv/LLR/52561/1031869842/498-682', 195, 69, 'LLR52561']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_150_081618_CA_Furniture_R1_DEV_70.jpg', '', 580, 127, '', '#fcd62b', '#000000', 'linetext8_CUS']]
+

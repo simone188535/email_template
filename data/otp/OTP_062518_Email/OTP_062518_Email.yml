@@ -1,0 +1,88 @@
+title: ''
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_062518_v1_r1_FNL_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=otp_logo"
+
+homestore_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_062518_v1_r1_FNL_02.jpg"
+homestore_img_alt: "YOUR OUTDOOR SUPERSTORE FIND YOUR STYLE!"
+homestore_img_link: "http://oldtimepottery.com/outdoor?utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=otp_outdoor"
+
+preheader_text: 'Big time savings for your outdoor living space.'
+preheader_link: 'http://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_062518_anim_v1_FNL_02.gif'
+  image_alt: 'SUMMER *SPECTACULAR* OUTDOOR EVENT!  SALE CONTINUES! 25% OFF PATIO SETS • OUTDOOR DÉCOR • CUSHIONS • PLANTERS • & MORE! 25% off OUR ALREADY LOW PRICES WHILE THEY LAST! [SEE SALE ITEMS] Selection and availability varies by store.'
+  image_link: 'http://oldtimepottery.com/outdoor?utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=25off_patio-sets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_062518_v1_r1_FNL_04.jpg'
+  image_alt: '25% off OUR ALREADY LOW PRICES Seating, Umbrellas and Gazebos Market umbrellas, offset umbrellas, pop up gazebos, screened gazebos, sling chairs, Adirondack chairs and more. Selection varies by store. While supplies last.'
+  image_link: 'http://oldtimepottery.com/outdoor?utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=seating_umbrellas_and_gazebos'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_062518_v1_r1_FNL_05.jpg'
+  image_alt: '25% off OUR ALREADY LOW PRICES ALL Outdoor Cushions Chair, chaise, bench, settee, deep seat, wicker, accent pillows and more. Selection varies by store. While supplies last.'
+  image_link: 'http://oldtimepottery.com/outdoor?utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=all_outdoor_cushions'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_062518_v1_r1_FNL_06.jpg'
+  image_alt: '25% off OUR ALREADY LOW PRICES ALL Outdoor Décor Lawn ornaments, gazing balls, statues, fountains, solar lighting and more. Selection varies by store. While supplies last.'
+  image_link: 'http://oldtimepottery.com/outdoor?utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=all_outdoor_decor'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_062518_v1_r1_FNL_07.jpg'
+  image_alt: '25% off OUR ALREADY LOW PRICES ALL Planters Huge assortment.  Selection varies by store. While supplies last.'
+  image_link: 'http://oldtimepottery.com/outdoor?utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=all_planters_on-sale'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_062518_v1_r1_FNL_08.jpg'
+  image_alt: 'THERE ARE MORE SALE PRICES IN-STORE! [SEE SALE ITEMS]'
+  image_link: 'http://oldtimepottery.com/outdoor?utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=see_sale_items'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_062518_v1_r1_FNL_09.jpg'
+  image_alt: '50% OFF YELLOW TAG CLEARANCE ALL DEPARTMENTS [LEARN MORE]'
+  image_link: 'http://oldtimepottery.com/yellow-tag?utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=yellow-tag_clearance_sale'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_062518_v1_r1_FNL_10.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery#utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=instrgram_otp_style'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/#utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations#utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/#utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=otp_giftcards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/#utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=update_your_profile'
+
+socialnav:
+- link: "https://www.instagram.com/oldtimepottery/#utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery#utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/#utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery#utm_source=otp_weekly06_25&utm_medium=email&utm_campaign=25off_sale_outdoor-sets_cushions_and_decor&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"
