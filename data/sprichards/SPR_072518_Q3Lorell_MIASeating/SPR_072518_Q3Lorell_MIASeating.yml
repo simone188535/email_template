@@ -1,0 +1,90 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_02.jpg', '/sl-forward-sprisv/LLR/83100/1041663138/946-833', 580, 287, 'LLR83100']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_03.jpg', '/sl-forward-sprisv/LLR/83100/1041663138/946-833', 299, 305, 'LLR83100'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_04.jpg', '/sl-forward-sprisv/LLR/83101/1041663139/551-892', 281, 305, 'LLR83101']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_05.jpg', '/sl-forward-sprisv/LLR/83100/1041663138/946-833', 290, 234, 'LLR83100'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_06.jpg', '/sl-forward-sprisv/LLR/83101/1041663139/551-892', 290, 234, 'LLR83101']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_07.jpg', '/sl-forward-sprisv/LLR/83100/1041663138/946-833', 177, 74, 'LLR83100'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_08.jpg', '/sl-forward-sprisv/LLR/83101/1041663139/551-892', 403, 74, 'LLR83101']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_09.jpg', '/sl-forward-sprisv/LLR/83100/1041663138/946-833', 20, 34, 'LLR83100'], ['text', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_10.jpg', '/sl-forward-sprisv/LLR/83100/1041663138/946-833', 157, 34, 'LLR83100', '#ffffff', '#000000', 'linetext1_CUS'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_11.jpg', '/sl-forward-sprisv/LLR/83101/1041663139/551-892', 29, 34, 'LLR83101'], ['text', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_12.jpg', '/sl-forward-sprisv/LLR/83101/1041663139/551-892', 187, 34, 'LLR83101', '#ffffff', '#000000', 'linetext2_CUS'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_13.jpg', '/sl-forward-sprisv/LLR/83101/1041663139/551-892', 187, 34, 'LLR83101']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_14.jpg', '/sl-forward-sprisv/LLR/83100/1041663138/946-833', 177, 57, 'LLR83100'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_15.jpg', '/sl-forward-sprisv/LLR/83101/1041663139/551-892', 202, 57, 'LLR83101'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_16.jpg', '/sl-forward-sprisv/LLR/83101/1041663139/551-892', 201, 57, 'LLR83101']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_17.jpg', '/sl-forward-sprisv/LLR/83100/1041663138/946-833', 580, 252, 'LLR83100']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_18.jpg', '', 140, 103, ''], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_19.jpg', '/sl-forward-sprisv/LLR/83105/1041663148/190-396', 139, 103, 'LLR83105'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_20.jpg', '', 146, 103, ''], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_21.jpg', '/sl-forward-sprisv/LLR/83104/1041663140/276-278', 155, 103, 'LLR83104']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_22.jpg', '', 82, 69, ''], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_23.jpg', '/sl-forward-sprisv/LLR/83105A203/1041663152/615-263', 82, 69, 'LLR83105A203'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_24.jpg', '/sl-forward-sprisv/LLR/83105/1041663148/190-396', 115, 69, 'LLR83105'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_25.jpg', '', 89, 69, ''], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_26.jpg', '/sl-forward-sprisv/LLR/83104A203/1041663144/479-907', 80, 69, 'LLR83104A203'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_27.jpg', '/sl-forward-sprisv/LLR/83104/1041663140/276-278', 132, 69, 'LLR83104']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_28.jpg', '/sl-forward-sprisv/LLR/83105A204/1041663153/497-940', 97, 88, 'LLR83105A204'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_29.jpg', '/sl-forward-sprisv/LLR/83105A203/1041663152/615-263', 96, 88, 'LLR83105A203'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_30.jpg', '/sl-forward-sprisv/LLR/83105/1041663148/190-396', 97, 88, 'LLR83105'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_31.jpg', '/sl-forward-sprisv/LLR/83104A204/1041663145/888-985', 97, 88, 'LLR83104A204'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_32.jpg', '/sl-forward-sprisv/LLR/83104A203/1041663144/479-907', 96, 88, 'LLR83104A203'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_33.jpg', '/sl-forward-sprisv/LLR/83104/1041663140/276-278', 97, 88, 'LLR83104']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_34.jpg', '/sl-forward-sprisv/LLR/83105A204/1041663153/497-940', 145, 108, 'LLR83105A204'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_35.jpg', '', 145, 108, ''], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_36.jpg', '/sl-forward-sprisv/LLR/83104A204/1041663145/888-985', 145, 108, 'LLR83104A204'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_37.jpg', '', 145, 108, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_38.jpg', '/sl-forward-sprisv/LLR/83105/1041663148/190-396', 290, 155, 'LLR83105'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_39.jpg', '/sl-forward-sprisv/LLR/83104/1041663140/276-278', 290, 155, 'LLR83104']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_40.jpg', '/sl-forward-sprisv/LLR/83105A203/1041663152/615-263', 290, 23, 'LLR83105A203'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_41.jpg', '/sl-forward-sprisv/LLR/83104A203/1041663144/479-907', 290, 23, 'LLR83104A203']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_42.jpg', '/sl-forward-sprisv/LLR/83105A204/1041663153/497-940', 290, 23, 'LLR83105A204'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_43.jpg', '/sl-forward-sprisv/LLR/83104A204/1041663145/888-985', 290, 23, 'LLR83104A204']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_44.jpg', '/sl-forward-sprisv/LLR/83105/1041663148/190-396', 290, 50, 'LLR83105'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_45.jpg', '/sl-forward-sprisv/LLR/83104/1041663140/276-278', 290, 50, 'LLR83104']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_46.jpg', '/sl-forward-sprisv/LLR/83105/1041663148/190-396', 20, 31, 'LLR83105'], ['text', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_47.jpg', '/sl-forward-sprisv/LLR/83105/1041663148/190-396', 173, 31, 'LLR83105', '#dcebf0', '#000000', 'linetext3_CUS'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_48.jpg', '/sl-forward-sprisv/LLR/83105/1041663148/190-396', 97, 31, 'LLR83105'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_49.jpg', '/sl-forward-sprisv/LLR/83104/1041663140/276-278', 11, 31, 'LLR83104'], ['text', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_50.jpg', '/sl-forward-sprisv/LLR/83104/1041663140/276-278', 182, 31, 'LLR83104', '#dcebf0', '#000000', 'linetext4_CUS'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_51.jpg', '/sl-forward-sprisv/LLR/83104/1041663140/276-278', 97, 31, 'LLR83104']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_52.jpg', '/sl-forward-sprisv/LLR/83105/1041663148/190-396', 290, 62, 'LLR83105'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_53.jpg', '/sl-forward-sprisv/LLR/83104/1041663140/276-278', 290, 62, 'LLR83104']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_54.jpg', '/sl-forward-sprisv/LLR/83106/1041663156/349-674', 223, 334, 'LLR83106'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_55.jpg', '/sl-forward-sprisv/LLR/83121/1041663206/858-459', 178, 334, 'LLR83121'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_56.jpg', '/sl-forward-sprisv/LLR/83075/1041663137/112-731', 179, 334, 'LLR83075']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_57.jpg', '/sl-forward-sprisv/LLR/83106/1041663156/349-674', 193, 197, 'LLR83106'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_58.jpg', '/sl-forward-sprisv/LLR/83121/1041663206/858-459', 194, 197, 'LLR83121'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_59.jpg', '/sl-forward-sprisv/LLR/83075/1041663137/112-731', 193, 197, 'LLR83075']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_60.jpg', '/sl-forward-sprisv/LLR/83106/1041663156/349-674', 20, 32, 'LLR83106'], ['text', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_61.jpg', '/sl-forward-sprisv/LLR/83106/1041663156/349-674', 173, 32, 'LLR83106', '#ffffff', '#000000', 'linetext5_CUS'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_62.jpg', '/sl-forward-sprisv/LLR/83121/1041663206/858-459', 13, 32, 'LLR83121'], ['text', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_63.jpg', '/sl-forward-sprisv/LLR/83121/1041663206/858-459', 181, 32, 'LLR83121', '#ffffff', '#000000', 'linetext6_CUS'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_64.jpg', '/sl-forward-sprisv/LLR/83075/1041663137/112-731', 6, 32, 'LLR83075'], ['text', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_65.jpg', '/sl-forward-sprisv/LLR/83075/1041663137/112-731', 187, 32, 'LLR83075', '#ffffff', '#000000', 'linetext7_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_66.jpg', '/sl-forward-sprisv/LLR/83106/1041663156/349-674', 193, 63, 'LLR83106'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_67.jpg', '/sl-forward-sprisv/LLR/83121/1041663206/858-459', 194, 63, 'LLR83121'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_68.jpg', '/sl-forward-sprisv/LLR/83075/1041663137/112-731', 193, 63, 'LLR83075']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_69.jpg', '/sl-forward-sprisv/LLR/83112/1041663167/152-352', 580, 201, 'LLR83112']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_70.jpg', '/sl-forward-sprisv/LLR/83112/1041663167/152-352', 20, 35, 'LLR83112'], ['text', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_71.jpg', '/sl-forward-sprisv/LLR/83112/1041663167/152-352', 173, 35, 'LLR83112', '#729ab3', '#FFFFFF', 'linetext8_CUS'], ['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_72.jpg', '/sl-forward-sprisv/LLR/83112/1041663167/152-352', 387, 35, 'LLR83112']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_73.jpg', '/sl-forward-sprisv/LLR/83112/1041663167/152-352', 580, 104, 'LLR83112']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_74.jpg', '', 580, 141, '']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_147_072518_Q3Lorell_MIASeating_R4_DEV_75.jpg', '', 580, 140, '', '#000000', '#FFFFFF', 'linetext9_CUS']]
+

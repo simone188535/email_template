@@ -1,0 +1,120 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/&utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/33cb676b-9e93-4f4b-b269-54ac43349ea4.jpg?ver=1528306240000"
+  img_alt: "Summer Entertaining DONE RIGHT Get ready for a delicious BBQ celebration. Create GRILLED CHICKEN WITH AVOCADO & MANGO SALSA VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/chicken-with-avocado-and-mango-salsa?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e175672a-94e1-4612-81c5-abc0d4db5428.jpg?ver=1528306240000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/627cd0ea-6fac-4404-918d-c3790257e987.jpg?ver=1528306241000"
+  img_alt: "members extra! SAVINGS BELL & EVANS BONELESS CHICKEN BREAST members pay 5.99 LB. SAVE $1 lb. GREAT ON THE GRILL"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8d03f3b6-fe0d-485d-a1f7-19acae3b7367.jpg?ver=1528306241000"
+  img_alt: "member extra! SAVINGS 4-DAY SALE GOOD THRU MONDAY, 6/11 SAVE $2 lb. KINGS SIGNATURE SWORDFISH OR YELLOWFIN TUNA KABOBS members 9.99 LB. "
+  url: "http://circular.kingsfoodmarkets.com/&utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a859ffff-9138-4cdb-9783-5a82255cf3ca.jpg?ver=1528310952000"
+  img_alt_2: "members extra! SAVINGS JUICY RIPE MANGOES members 2/5."
+  url_2: "http://circular.kingsfoodmarkets.com/&utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8ea66c0a-efef-4c61-86f2-b13bd544ef66.jpg?ver=1528306242000"
+  img_alt: "members extra! SAVINGS 4-DAY SALE GOOD THRU MONDAY, 6/11 SAVE $7 KIND BAR CADDY CASE ASSORTED VARIETIES 16.8 OZ. members pay 11.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/&utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e38cf2b2-26a1-4da1-84fe-87cc4fcb1b77.jpg?ver=1528306242000"
+  img_alt_2: "member extra! SAVINGS 4-DAY SALE GOOD THRU MONDAY, 6/11 SAVE $6.98 on 2 CIAO BELLA GELATO ALL VARIETIES 16 FL. OZ. members pay 2/5."
+  url_2: "http://circular.kingsfoodmarkets.com/&utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/be2305b7-b89e-4145-a9be-71934099b277.jpg?ver=1528306242000"
+  img_alt: "VIEW WEEKLY SALES"
+  url: "http://circular.kingsfoodmarkets.com/&utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/516b7028-735c-44f9-8de1-fab921443053.jpg?ver=1528306243000"
+  img_alt: "DRESS IT UP FRESH SUMMER RECIPES Try these tasty recipes to spice up your favorite grilled meals. Create delicious sauces and salsas, or skewer to perfection - take your pick!"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/090acec2-5a1f-4df9-aeeb-98ee3ebfa4bf.jpg?ver=1528306243000"
+  img_alt: "FRESH PEACH & NECTARINE KABOBS VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/fresh-peaches-and-nectarine-kabobs?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/23206c25-313c-446f-b91f-3a1afb02c0c4.jpg?ver=1528306244000"
+  img_alt: "GRILLED PINEAPPLE & SCALLION TOPPING VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/grilled-pineapple-scallion-topping?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/965e2095-1f1f-4ffb-aa19-492394f7b04a.jpg?ver=1528306244000"
+  img_alt_2: "ORGANIC CHICKEN BREAST WITH FRESH SALSA VIEW RECIPE"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/grilled-organic-chicken-breast-with-fresh-salsa?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/193fcc53-a6c5-4db4-b368-623e709116b3.jpg?ver=1528306244000"
+  img_alt: "Fast. Fresh. Delivered. Enjoy fresh summertime eats just in time to keep your weekend plans on track. FREE DELIVERY ON YOUR FIRST ORDER Powered by Instacart ORDER NOW"
+  url: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+ 
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8756f4a0-87c5-4949-be86-a1dacd646ce9.jpg?ver=1528306246000"
+  img_alt: "THIS FATHER&#39;S DAY CONQUER YOUR COOKOUT Our Catering Menu offers lots of scrumptious sides, entrées and more - perfect for planning Dad&#39;s special day. "
+  url: "https://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9461ea41-1c01-4831-a821-72ec1998603c.jpg?ver=1528306245000"
+  img_alt: "VIEW CATERING MENU"
+  url: "https://kingsfoodmarkets.com/catering-by-kings/special-occasions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5e0a2b7-332c-4f85-a972-67c924949677.jpg?ver=1528306246000"
+  img_alt: "SUMMER SWEETS BUY ONE GET ONE BOGO TEA CAKES All Varieties, 9 oz. This BOGO deal is sure to satisfy any sweet tooth."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0608_KNG_WeeklyEmail"

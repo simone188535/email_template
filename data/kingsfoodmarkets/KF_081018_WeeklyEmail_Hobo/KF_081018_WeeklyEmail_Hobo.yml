@@ -1,0 +1,155 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/16a56a5c-38c7-427a-90d6-1bb1f95ff7b2.jpg?ver=1533649570000"
+  img_alt: "SUMMER IN A BOWL Create GRILLED PEACH, SHRIMP & GOAT CHEESE SALAD VIEW RECIPE >"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7402d14d-c4fe-42f7-b2ca-3fb9655a043a.jpg?ver=1533649571000"
+  img_alt: "GROWER SPOTLIGHT This fifth-generation stone fruit farm is dedicated to harvesting only FULLY RIPENED FRUIT throughout the season to capture its PEAK COLOR and FLAVOR. Available in select stores. LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a7889af-b5aa-4f92-bcbc-62af73a0c33c.jpg?ver=1533649571000"
+  img_alt: "PEACH FESTIVAL! Peach season is at its peak, and we have a colorful selection of FRESH, SWEET and JUICY PEACHES. Try varieties like:"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+- type: "image-4-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b30cd940-ce15-4ee2-9ebe-2db575847f77.jpg?ver=1533649571000"
+  img_alt: "LOCALLY GROWN JERSEY FRESH"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/76c0a7f8-3a17-42e0-8d87-919b215bbdac.jpg?ver=1533649571000"
+  img_alt_2: "CERTIFIED ORGANIC"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3318b914-11c5-4e6a-b50d-c446943e846a.jpg?ver=1533649571000"
+  img_alt_3: "WHITE AND YELLOW"
+  url_3: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+  img_4: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/92216d1a-e971-4fa8-b675-36b4fd420a73.jpg?ver=1533649571000"
+  img_alt_4: "DONUT"
+  url_4: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/80a86dd5-a43c-46db-8038-42d9c2d3f6f3.jpg?ver=1533649571000"
+  img_alt: "VIEW PEACH RECIPES >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4705726e-6b4c-43a9-93d4-ce420c4f247d.jpg?ver=1533649571000"
+  img_alt: "myKINGS EXTRA! SAVINGS SURF AND SWEET 4-DAY SALE 8/9-8/12/18 SWORDFISH members pay 15.99 LB. SAVE $7 lb."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2ad557a1-3738-42ed-8399-b4bde3311689.jpg?ver=1533663845000"
+  img_alt: "ORGANIC SAVE $1 lb. CERTIFIED ORGANIC PEACHES members pay 3.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2e704cbb-26d1-484a-a86d-4e3b78cfc5d1.jpg?ver=1533663845000"
+  img_alt_2: "SAVE $1 FRESH EXPRESS SALAD KITS 7.5-11.7 OZ. members pay 3.99 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eb284de3-0d9d-4d4e-9c81-8091c92d4353.jpg?ver=1533663845000"
+  img_alt: "SAVE $3 lb. MURRAY'S NON-GMO BONELESS, SKINLESS CHICKEN BREASTS members pay 4.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/60dba637-7e8d-4bf0-b4f3-e18708b3b42d.jpg?ver=1533663845000"
+  img_alt_2: "SAVE $3 lb. KINGS EXTRA JUMBO COCKTAIL SHRIMP 16/20 CT members pay 16.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7514136c-e641-467e-8fb5-9fc1b37719ad.jpg?ver=1533663845000"
+  img_alt: "View More Specials and Make a List VIEW HOBOKEN WEEKLY SALES"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91430227-afc2-4105-b61e-8633a5481bca.jpg?ver=1533649572000"
+  img_alt: "PERFECTLY SIZED The key to picking the BEST SHRIMP: the SMALLER the NUMBER, the LARGER the SHRIMP! Our big, meaty shrimp are great for GRILLING and perfect for PLUNGING into sweet, tangy sauces!"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a4f25f46-9f74-409d-b726-1b5dbc8c2f52.jpg?ver=1533671758000"
+  img_alt: "COLOSSAL 6/8 CT COLOSSAL 13/15 CT EXTRA JUMBO 16/20 CT JUMBO 21/25 CT EXTRA LARGE 26/30 CT LARGE 31/40 CT"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3c1706ac-236c-4095-b4a1-a65cc44f02dc.jpg?ver=1533649573000"
+  img_alt: "LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9c8c1d00-787f-4ee9-aa03-6ebfbcff020c.jpg?ver=1533649573000"
+  img_alt: "INSPIRED RECIPE IDEAS"
+  url: "https://kingsfoodmarkets.com/unique-recipes/spicy-shrimp-and-kings-cantaloupe-kabobs?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/995f8a82-eced-4d90-845b-fc2a7f302bba.jpg?ver=1533649573000"
+  img_alt: "LARGE SHRIMP SPICY SHRIMP & CANTALOUPE KABOBS VIEW RECIPE >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/spicy-shrimp-and-kings-cantaloupe-kabobs?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ba2fa54c-aa91-44bc-a91c-3b72d18079e4.jpg?ver=1533649573000"
+  img_alt: "JUMBO SHRIMP SWEET SHRIMP BRUSCHETTA VIEW RECIPE >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/sweet-shrimp-bruschetta?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5a8e3303-b90e-4b5d-ac96-3dbe18fcb6e6.jpg?ver=1533649573000"
+  img_alt_2: "DIP FOR SHRIMP MANGO BASIL DIPPING SAUCE VIEW RECIPE >"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/mango-basil-dipping-sauce?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f640407c-6bf4-4491-8808-f5744b86fadb.jpg?ver=1533649573000"
+  img_alt: "LOCALLY GROWN The freshest local produce is ripe for the picking! Our team of LOCAL FARMERS brings the best produce from FARM TO STORE all season long. LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/farm-fresh?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7e9fd21b-b24d-4d74-a4ed-4b66f76718cf.jpg?ver=1533649573000"
+  img_alt: "WHAT'S NEW IN STORE OLD AMSTERDAM CHEESE TASTING Join us at select stores to enjoy FREE fresh-cut samples of Old Amsterdam Aged Gouda. THURSDAY, 8/16 11AM-1PM | HOBOKEN NORTH 4PM-6PM | HOBOKEN SOUTH SATURDAY, 8/18 11AM-1PM | CRESSKILL 4PM-6PM | MIDLAND PARK FIND A STORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_KF_WeeklyEmail"
+
+
+
+

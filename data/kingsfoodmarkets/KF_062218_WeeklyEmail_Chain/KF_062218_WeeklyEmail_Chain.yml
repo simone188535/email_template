@@ -1,0 +1,135 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KNG_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KNG_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KNG_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KNG_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b3c2bee8-b887-49fd-933e-3de8b89e3eb8.jpg?ver=1529500238000"
+  img_alt: "SAVOR SUMMER DELIGHTS Enjoy fresh stone fruit at the peak of ripeness. Create GRILLED PEACHES WITH HOT BUTTERED RUM SAUCE VIEW RECIPE >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/grilled-peaches-with-hot-buttered-rum-sauce%C2%A0?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c9977cc1-5663-42ca-9243-dcea2a9f17ec.jpg?ver=1529500239000"
+  img_alt: "MOONLIGHT FARMS FINEST, FRESHEST, JUICIEST FRUIT UNDER THE MOON MOONLIGHT Since 1918, this family farm has harvested fruit from vineyards, groves and orchards along the Kings River - stretching through three central California counties."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/75722bdd-4476-4808-be94-ed1b1f9bc978.jpg?ver=1529500239000"
+  img_alt: "FRESH PEACH & NECTARINE KABOBS VIEW RECIPE > HAND-PICKED at their PEAK OF RIPENESS, these peaches and nectarines make the perfect SUMMERTIME SNACK!"
+  url: "https://kingsfoodmarkets.com/unique-recipes/fresh-peaches-and-nectarine-kabobs?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/299d12f6-5cd2-44fb-af65-a70abf0e6c91.jpg?ver=1529500239000"
+  img_alt: "LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f8283a53-bae4-41fe-84d4-c422d3d663b5.jpg?ver=1529500239000"
+  img_alt: "myKINGS EXTRA! SAVINGS EARTH, SURF OR TURF!"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8686587f-b593-4428-8419-a7e8c56d624d.jpg?ver=1529500240000"
+  img_alt: "SAVE $4 lb. LOCAL BEEF LOCALLY RAISED TOP ROUND LONDON BROIL members pay 4.99 LB. "
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1562ea01-2e9a-4628-b3a6-05f1b7732ecb.jpg?ver=1529500240000"
+  img_alt_2: "KINGS MARYLAND STYLE CRAB CAKE 4 OZ. members pay 6.99 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5bf004f2-cb00-4d26-8c65-10634949942e.jpg?ver=1529500240000"
+  img_alt: "ORGANIC ORGANIC EARTHBOUND FARM SALADS 5 OZ. members pay 3.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a4281c2-7982-4da5-bf18-ca64fc2609ac.jpg?ver=1529500240000"
+  img_alt_2: "ORGANIC SAVE $2 lb. ORGANIC CHERRIES members pay 6.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ecebde1c-aec6-45aa-a4d6-ce88023bcef9.jpg?ver=1529500241000"
+  img_alt: "VIEW WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/39a53762-cb20-47bb-8ec2-86097ce5c3b3.jpg?ver=1529500241000"
+  img_alt: "SAVORY SIDES LIGHT & HEALTHY IDEAS These side dishes are natural accompaniments for sumptuous summer foods."
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0764eeff-696c-45dd-9c54-b600a22a742e.jpg?ver=1529500241000"
+  img_alt: "CHEF PREPARED ANTIOXIDANT SALAD"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/79a13bef-0753-418a-926c-f6d600285f0e.jpg?ver=1529500242000"
+  img_alt_2: "CHEF PREPARED SUMMER CORN SUCCOTASH"
+  url_2: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bcf0c850-0462-4f6d-93f0-3c6a9c90b8ee.jpg?ver=1529500242000"
+  img_alt: "VIEW MORE CHEF PREPARED >"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/498dee72-de59-4e05-be25-b2c1d43c9eb7.jpg?ver=1529500242000"
+  img_alt: "APPLE KALE SALAD VIEW RECIPE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/apple-kale-salad?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/feec628d-cf02-45d6-bac3-30bc5ea0a065.jpg?ver=1529500242000"
+  img_alt: "INDULGE YOUR SWEET TOOTH"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7fd4af7b-ca3a-4638-8d77-d005a3837117.jpg?ver=1529500243000"
+  img_alt: "KINGS PATISSERIE GLASS DESSERTS VIEW MORE"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9086ae78-9dd1-4530-b53d-1ff78bf2cd38.jpg?ver=1529500244000"
+  img_alt: "WHAT'S NEW IN STORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f9a8dfe3-d00f-4787-b344-9f80d21b34f3.jpg?ver=1529500243000"
+  img_alt: "SUMMER GRILLING SWEEPSTAKES Enter to win THE ULTIMATE GRILL GIVEAWAY June 29-July 6, 2018. Available only at SHORT HILLS. Sign up in-store! GET DETAILS >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0622_KF_WeeklyEmail"

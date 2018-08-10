@@ -1,0 +1,131 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0713_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/742d3a6b-cfac-45f1-a6cb-829aefcde061.jpg?ver=1533061442000"
+  img_alt: "CREATE YOUR MASTERPIECE"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/390f35c8-c4aa-4af4-9872-a0f7d2fa06e2.jpg?ver=1533061442000"
+  img_alt: "SANDWICH ART AT ITS FINEST Some call it lunch. We call it a work of art. Here's a step-by-step guide to creating your very own. "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f9951549-526c-4f6c-9fa7-1523e60407a8.jpg?ver=1533061442000"
+  img_alt: "1. START WITH THE PERFECT CANVAS KINGS OWN BREADS offer a variety of healthy options guaranteed to support your toppings."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d49df2c8-3c0f-4586-a837-522fe31f3227.jpg?ver=1533061442000"
+  img_alt_2: "2. CHOOSE YOUR SUBJECT Artists need meaty sources of inspiration. KINGS ROTISSERIE CHICKEN is a great option at $8.99 EVERY DAY!"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1ef15d42-a806-4106-b79c-daaf78b4b5c7.jpg?ver=1533061443000"
+  img_alt: "3. PILE ON THE COLOR Vibrant, local JERSEY FRESH PRODUCE gives you a tasty palette to draw from."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d8d85f57-7297-4f3f-80f3-7b88a5aa2d87.jpg?ver=1533061443000"
+  img_alt_2: "4. ADD A STROKE OF GENIUS Avocado-fueled AVONAISE makes for a delicious, yet healthy vegan mayo substitute! "
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5aed70b9-358e-4a07-828e-3410b0bce47f.jpg?ver=1533061443000"
+  img_alt: "5. FRAME IT WITH FRESHNESS Add naturally floral and savory notes with our assortment of KINGS ORGANIC FRESH HERBS. "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e8e46f46-bd0e-4d01-bfd1-ad7e09acdc21.jpg?ver=1533061443000"
+  img_alt_2: "6. GIVE IT THE FINISHING TOUCH The homemade garlicky crunch of PICKALS lends a sturdy, delicious bite to complete your work of art. "
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/012117d8-9d0c-4cd6-9772-ad0390c4b1ab.jpg?ver=1533063941000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/64f44afd-72a3-4da5-8ed2-2f2124441b19.jpg?ver=1533063941000"
+  img_alt: "SAVE $2.89 lb. MURRAY'S NON-GMO CHICKEN LEGS, DRUMSTICKS OR THIGHS members pay 1.49 LB. "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bb2da312-fe71-4f81-a7eb-d351b0539fe1.jpg?ver=1533063941000"
+  img_alt_2: "SAVE $3 ORGANIC GRASS FED 90% LEAN GROUND BEEF 16 OZ. members pay 7.99 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f2151033-bb55-4450-a14d-0f665e9538c2.jpg?ver=1533063941000"
+  img_alt: "SAVE $1 KINGS ORGANIC HUMMUS 10 OZ. members pay 3.99 EA. "
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d821d35a-65b5-45c2-b9f3-ac2856f4ef95.jpg?ver=1533063941000"
+  img_alt_2: "SAVE $1 lb. RED OR GREEN SEEDLESS GRAPES members pay 2.99 LB. "
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a783844b-ba94-4fd4-a853-d41d1aba5eca.jpg?ver=1533063941000"
+  img_alt: "View More Specials and Make a List VIEW HOBOKEN WEEKLY SALES"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d3753690-89c1-4d20-82be-4d0799afd3df.jpg?ver=1533061444000"
+  img_alt: "SANDWICH RECIPES ELEGANT EATS"
+  url: "https://kingsfoodmarkets.com/unique-recipes/chicken-salad-w-apples?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/33557fa8-2c00-4e83-b601-ec84934c701e.jpg?ver=1533061444000"
+  img_alt: "CHICKEN SALAD WITH APPLES VIEW RECIPES"
+  url: "https://kingsfoodmarkets.com/unique-recipes/chicken-salad-w-apples?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1d9a0a4b-be74-4335-9f0f-c5de511f83ba.jpg?ver=1533061445000"
+  img_alt_2: "APPLE, BACON & ARUGULA SANDWICH VIEW RECIPES"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/apple-bacon-and-arugula-sandwich?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f2fc21fd-63d4-4454-b7a6-7b74f75fd34e.jpg?ver=1533061444000"
+  img_alt: "CHEF PREPARED GRAB & GO GOODNESS"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/abfd3f56-2c56-40d6-a625-8a9759c5fa24.jpg?ver=1533061444000"
+  img_alt: "KOBE ROAST BEEF & SWISS VIEW MORE CHEF PREPARED"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0803_KF_WeeklyEmail"
+
+  

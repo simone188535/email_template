@@ -1,0 +1,98 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7aec7e16-64a1-4a0e-b2fc-85a7e9e17f67.jpg?ver=1532439922000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f8c194ca-3bb1-414e-9c6c-68754d6f78c4.jpg?ver=1532439922000'
+  img_alt: 'A Summer Soiree Make your summer celebrations special with perfect party appetizers and beverages.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1f4b98ed-c022-4840-8239-e0cb65f4e163.jpg?ver=1532439922000'
+  img_alt: 'CHEESE CRAVING | PARTY PICKS'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4ff9eba1-19e8-4fbe-b7e7-c90db1eb7c8c.jpg?ver=1532439922000'
+  img_alt: 'LAURA CHENEL CABECOU HERB'
+  url_2: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/51ccedda-ff98-4586-a7de-7b44e22a2c33.jpg?ver=1532439922000'
+  img_alt_2: 'BALDUCCI&#39;S HAND WRAPPED MOZZARELLA'
+
+- type: 'image'
+  url: 'https://vimeo.com/185683936?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0eb22854-f7bf-48fe-a43d-caefc1993360.jpg?ver=1532439922000'
+  img_alt: 'HOW TO MAKE THE PERFECT CHEESEBOARD'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/092883b3-1b0f-49d7-8f1e-94d705ef2d51.jpg?ver=1532439922000'
+  img_alt: 'RAISE A CAN | SUMMER WINE TO GO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/72ace459-7443-4e64-8bf1-cd2f4e5899f9.jpg?ver=1532439923000'
+  img_alt: 'Cool off with panache at your poolside and beachfront gatherings with these exquisitely made canned wines. ALLOY CHARDONNAY & GRENACHE ROSE UNDERWOOD PINOT GRIS AMBLE & CHASE PROVENCE ROSE 4PK *Not available in Westport, Rye Brook or Scarsdale'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dd11d0fb-a818-4ade-a822-91b54498ac4f.jpg?ver=1532439923000'
+  img_alt: 'MEMBER EXCLUSIVE | PRIME CUTS'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/631068f8-ad64-49b3-92d9-c06ad403e403.jpg?ver=1532439923000'
+  img_alt: 'USDA PRIME CERTIFIED ANGUS BEEF TENDERLOIN STEAKS Our most tender cut of beef, meeting all 10 USDA quality specifications. MEMBER EXCLUSIVE $5 OFF Reg 39.99/LB'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7732ce2d-1b28-4a58-8fc5-1005eef95a9f.jpg?ver=1532439923000'
+  img_alt: 'Pair with STONEWALL KITCHEN AIOLI'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/de7f314f-b19b-4acd-a836-009dd9b3f79d.jpg?ver=1532439923000'
+  img_alt: 'A COLORFUL TABLEAU'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=18-KNGBAL-005890-JulyProjects'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/102e08c2-3ecf-461e-9c42-a8ea6a88bc44.jpg?ver=1532439923000'
+  img_alt: 'BALDUCCI&#39;S MACARONS These tasty meringue confections are available in a rainbow of colors, and add a sweet, bold finish to any summer gathering.'

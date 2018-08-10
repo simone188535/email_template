@@ -1,0 +1,133 @@
+title: ''
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/#utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=otp_logo"
+
+homestore_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_02.jpg"
+homestore_img_alt: "Check Out Our New Ad!"
+homestore_img_link: "oldtimepottery.com/ad#utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=otp_ad"
+
+preheader_text: 'Visit this weekend for the best selection.'
+preheader_link: 'http://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_03.jpg'
+  image_alt: 'SUMMER OF SPECTACULAR SAVINGS! – GOING ON NOW! – Sale starts June 17th for our Casselberry, Ocoee and Orlando, FL locations. Selection varies by store. While supplies last. [VIEW AD]'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=summer_spectacular_savings'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_04.jpg'
+  image_alt: '25% off ALL PATIO SETS & FURNITURE ALSO 25% OFF ALL OUTDOOR DÉCOR • CUSHIONS • PLANTERS • & MORE!'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=25off_all_patio-sets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_05.jpg'
+  image_alt: 'BASK IN THE SAVINGS 25% off OUR ALREADY LOW PRICES Seating, Umbrellas and Gazebos Market umbrellas, offset umbrellas, pop up gazebos, screened gazebos, sling chairs, Adirondack chairs and more. Selection varies by store. While supplies last.'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=seating_umbrellas_gazebos'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_06.jpg'
+  image_alt: 'BEAUTIFY YOUR HOME 20% off OUR ALREADY LOW PRICES ALL Lamps, Shades and Accent Furniture SALE PRICE: $7.99 - $239.99 | REG. PRICE $9.99 - $299.99'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=lamps_shades_accent-furniture'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_07.jpg'
+  image_alt: 'HOT DEAL! 39.99 Sale 5&#39; X 7&#39; Woven, Shag, Tufted, Print, Tapestry, Indoor and Outdoor Sizes are approximate. Selection varies by store. REG. PRICE $49.99'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=5x7_rugs'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_08.jpg'
+  image_alt: 'HOT DEAL! 19.99 Sale Stretch Slip Covers Sofa, loveseat or chair. Assorted. REG. PRICE $39.99 - $49.99'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=slip_covers'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_09.jpg'
+  image_alt: '20% off OUR ALREADY LOW PRICES ALL Wall Décor SALE PRICE: $1.59 - $127.99 | REG. PRICE $1.99 - $159.99'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=all_wall-decor'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_10.jpg'
+  image_alt: 'Art on Sale HUNDREDS OF STYLES! 9.99 Sale 12&#34; x 12&#34; REG. PRICE $10.99 - $14.99 14.99 Sale 12&#34; x 18&#34; REG. PRICE $15.99 - $19.99 19.99 Sale 18&#34; x 18&#34; REG. PRICE $21.99 - $29.99 14.99 Sale 8&#34; x 20&#34; REG. PRICE $15.99 - $19.99 19.99 Sale 24&#34; x 24&#34; REG. PRICE $21.99 - $29.99'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=all_art-on-sale'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_11.jpg'
+  image_alt: '20% off OUR ALREADY LOW PRICES ALL Glass Vases SALE PRICE: 20¢ - $63.99 REG. PRICE 25¢ - $79.99 25% off OUR ALREADY LOW PRICES 76&#34;-80&#34;W x 84&#34;L Deluxe Drapery Panel Pairs Assorted colors and prints. SALE PRICE: $14.99 - $20.99 REG. PRICE $19.99 - $27.99'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=all_glass_vases'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_12.jpg'
+  image_alt: '25% off OUR ALREADY LOW PRICES ALL Kitchen and Table Linens SALE PRICE: 45¢ - $14.99 REG. PRICE 60¢ - $19.99'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=all_kitchen_table-linens'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_13.jpg'
+  image_alt: 'Delicious Dining Deals 20% OFF! 20% off OUR ALREADY LOW PRICES ALL Dinnerware Sets and ALL Flatware SALE PRICE: 63¢ - $103.99 REG. PRICE 79¢ - $129.99 20% off OUR ALREADY LOW PRICES ALL Bakeware Includes ceramic, glass and metal. SALE PRICE: $1.19 - $31.99 REG. PRICE $1.49 - $39.99'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=all_bakeware'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_14.jpg'
+  image_alt: '29.99 Sale Comforter Sets Sheet set not included. REG. PRICE $49.99 Also 30% off ALL OTHER MULTI-PIECE COMFORTER SETS REG. PRICE $59.99 - $129.99 Sale Price $41.99 - $90.99'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=multi-piece_comforter-sets'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_15.jpg'
+  image_alt: 'PLUS 20% OFF THESE ITEMS ALL Bed Pillows, Mattress Pads, Wall Décor, Bath Rugs, Shower Curtains, Doormats, Scatter Rugs, Runners & MORE!'
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=bed-pillows_mattress-pads'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_16.jpg'
+  image_alt: '[VIEW AD] Sale starts June 17th for our Casselberry, Ocoee and Orlando, FL locations. '
+  image_link: 'https://oldtimepottery.com/ad?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=view_ad'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_17.jpg'
+  image_alt: 'SHOW HIM Some Love [FATHER&#39;S DAY IS TOMORROW] Find the perfect gifts for everyone&#39;s favorite guy. [SEE MORE]'
+  image_link: 'https://oldtimepottery.com/fathersday?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=fathers-day'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_18.jpg'
+  image_alt: '50% OFF YELLOW TAG CLEARANCE ALL DEPARTMENTS [LEARN MORE]'
+  image_link: 'http://oldtimepottery.com/yellow-tag?utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_outdoor-sets_rugs_art&utm_term=discount_home_decor&utm_content=yellow-tag_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_066_061618_v2_R2_FNL_19.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery#utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_out-sets_rugs_art&utm_term=discount_home_decor&utm_content=instrgram_otp_style'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/#utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_out-sets_rugs_art&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations#utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_out-sets_rugs_art&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/#utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_out-sets_rugs_art&utm_term=discount_home_decor&utm_content=otp_giftcards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/#utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_out-sets_rugs_art&utm_term=discount_home_decor&utm_content=update_your_profile'
+
+socialnav:
+- link: "https://www.instagram.com/oldtimepottery/#utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_out-sets_rugs_art&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery#utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_out-sets_rugs_art&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/#utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_out-sets_rugs_art&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery#utm_source=otp_weekly06_16&utm_medium=email&utm_campaign=sale_prices_out-sets_rugs_art&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"

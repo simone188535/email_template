@@ -1,0 +1,92 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/002295e7-616a-439f-b088-1ff0d5f677eb.jpg?ver=1525894629000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e37d3a68-73a6-49a2-af2b-7fd4388771c9.jpg?ver=1525894629000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1af164bd-3c4f-468e-81ff-32be710f4f4f.jpg?ver=1525894629000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9e1dcd81-0df2-4c3e-b787-43ec67e1bd54.jpg?ver=1525894629000"
+footer_instagram_alt: "instagram"
+
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/759c426d-c5d9-45dc-a41d-7dfe6f7ff7fe.jpg?ver=1529003191000'
+  img_alt: 'WINE NEWSLETTER JUNE 2018'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fb59b4fa-2a44-4a38-89b0-ae9289b05494.jpg?ver=1529003191000'
+  img_alt: 'FATHER&#39;S DAY WEEKEND WINE & FOOD EVENT SATURDAY, JUNE 16th Food Tasting: 12pm-5pm Wine Tasting: 2pm-5pm FEATURING • Father&#39;s Day Wines • Wines for the Patio, Beach and Poolside • Rosé Wines • Extreme Value Wines SAVE 25% MIX & MATCH 12 BOTTLES OR MORE'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/87cabfaf-bfa2-4737-a3e8-ff5b1fb2353a.jpg?ver=1529003191000'
+  img_alt: 'MUST HAVE WINES THE WINES OF SUMMER ARE HERE Juicy, vibrant reds for fire-grilled steaks; crisp and bright whites for seafood and salads - don&#39;t miss these must have wines. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/88e7f3b5-573d-4030-8880-cab90ab87098.jpg?ver=1529003191000'
+  img_alt: 'MUST HAVE WINES THE WINES OF SUMMER ARE HERE Juicy, vibrant reds for fire-grilled steaks; crisp and bright whites for seafood and salads - don&#39;t miss these must have wines. '
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cd4d6689-047f-49b1-aebb-612b4aa59af0.jpg?ver=1529003192000'
+  img_alt: 'Balducci&#39;s Sauvignon Blanc Marlborough 2016 16.99/BTL Sauvignon Blanc from New Zealand is famous throughout the world as one of the most distinctive styles of wine produced. Ours boasts lively aromas of gooseberry, passionfruit and grapefruit which carry through to the palate. Clean and crisp.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9edb48b9-4665-43d9-82f0-77fbf671247b.jpg?ver=1529003192000'
+  img_alt: 'Domaine Naturaliste Discovery Chardonnay 2016 21.99/BTL Bruce Dukes at his best, conjuring up the complexity of a top French white burgundy. The texture of the wine builds progressively until it moves through towards the exceptionally long finish and aftertaste. –James Halliday 96pts.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d5c13931-90ef-42d0-8df5-04b0ccfdb635.jpg?ver=1529003192000'
+  img_alt: 'Novellum Chardonnay 2016 16.99/BTL &#34;A sensational wine that will compete with wines five times the price. White peach, crushed rocks and spice notes all emerge from this medium to full-bodied Chardonnay that has depth, layered texture and length. Buy it.&#34; –Robert Parker 92pts. PAIR WITH CURED MEATS AND CHEESES'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8da76137-bf44-4c6b-a75c-ffa5119fb1ca.jpg?ver=1529003193000'
+  img_alt: 'Balducci&#39;s Old Vines Garnacha 2012 16.99/BTL 100% old-vine Garnacha (from vines planted between 1925 and 1945) made from yields of less than one ton of fruit per acre, this is a full-bodied, pure, lavishly rich, intense Spanish red.&#34; –Tim Healy, Wine Manager Balducci&#39;s Alexandria'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b4fd5654-a664-4192-b39d-791f762d3c67.jpg?ver=1529003193000'
+  img_alt: 'Alain Jaume Cairanne Les Travées 2015 24.99/BTL &#34;This wine offers copious amounts of blackberries, kirsch, crushed rocks and dried flowers. Full-bodied, layered and downright sexy, with no hard edges and beautiful purity.&#34; –Robert Parker (90-92pts.) A PERFECT FATHER&#39;S DAY GIFT!'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/72c7ff1e-1940-4cb2-be1c-c7c10a49575f.jpg?ver=1529003193000'
+  img_alt: 'LET&#39;S TALK CINSAULT ROSÉ &#34;Summer fare is made for rosé wines. The rosé version of Cinsault is simply beautiful and refreshing, showcasing a range of color from light salmon to dark raspberry red with aromas and flavors of cherry, watermelon and strawberry. A perfect match for cooked shellfish such as crab, lobster or shrimp prepared either simply or spiced up with garlic or chorizo.&#34; –John Coleman, Balducci&#39;s Wine Merchant'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/news_events/wine_events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0613_BLD_WIneNewsletter_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a07f1e3d-d140-4801-bb87-f98b05689fb3.jpg?ver=1529003193000'
+  img_alt: 'LET&#39;S TALK CINSAULT ROSÉ &#34;Summer fare is made for rosé wines. The rosé version of Cinsault is simply beautiful and refreshing, showcasing a range of color from light salmon to dark raspberry red with aromas and flavors of cherry, watermelon and strawberry. A perfect match for cooked shellfish such as crab, lobster or shrimp prepared either simply or spiced up with garlic or chorizo.&#34; –John Coleman, Balducci&#39;s Wine Merchant'
+
