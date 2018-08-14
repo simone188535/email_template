@@ -1,0 +1,115 @@
+title: 'Boat-to-table tuna in 72 hours. Simply sublime.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/recipes/seared-yellowfin-tuna-avocado?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f8fa33a9-aab2-4ec2-ac9f-47f1f27375b4.jpg?ver=1534260135000'
+  img_alt: 'THE FRESHEST CATCH Yellowfin tuna from off Cape Hatteras, NC; caught and to your table in as little as 72 hours. Recipe idea SEARED YELLOWFIN TUNA WITH AVOCADO VIEW RECIPE >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail#seafood'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7c40ff96-faae-4462-b32c-89be3a80fd87.jpg?ver=1534260135000'
+  img_alt: 'MEMBER EXCLUSIVE | SEARING PERFECTION'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail#seafood'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a92463f2-e6e2-4fb3-81fe-8dbbd8555efa.jpg?ver=1534260135000'
+  img_alt: 'YELLOWFIN TUNA STEAK Seared, sizzling tuna steaks deliver rich, bold flavor, and are just the thing for a gourmet meal that&#39;s simple and healthy. MEMBER EXCLUSIVE $3 OFF MARKET PRICE'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/recipes/black-and-white-sesame-crusted-yellowfin-tuna?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a172d5d2-5fe6-4369-b071-e34eb044c908.jpg?ver=1534260136000'
+  img_alt: 'FRESH PREPARATIONS | TUNA RECIPES'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/recipes/black-and-white-sesame-crusted-yellowfin-tuna?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e0402102-90eb-4d40-8f6d-9979797b92ed.jpg?ver=1534260136000'
+  img_alt: 'BLACK & WHITE SESAME CRUSTED YELLOWFIN TUNA VIEW RECIPE >'
+  url_2: 'https://www.balduccis.com/recipes/blackened-yellowfin-tuna-tacos?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/73be72cc-0da3-4c3b-b785-8fec6d20537d.jpg?ver=1534260136000'
+  img_alt_2: 'BLACKENED YELLOWFIN TUNA TACOS VIEW RECIPE >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail#seafood'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b7fdfca1-f8f6-4162-a951-a1ff30319309.jpg?ver=1534260136000'
+  img_alt: 'MORE FAVORITES FROM THE SEA'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail#seafood'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5bcd4cb9-ec51-4b5a-abf1-b1c4e3befb3f.jpg?ver=1534260136000'
+  img_alt: 'LIVE NORTH ATLANTIC LOBSTERS MEMBER EXCLUSIVE $5 OFF MARKET PRICE'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail#seafood'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e21ea873-c398-409d-ae24-55e691ee7347.jpg?ver=1534260136000'
+  img_alt: 'BALDUCCI&#39;S EXTRA JUMBO COCKTAIL SHRIMP'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail#seafood'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b197dfb1-61ab-4e9a-b431-12e128f4154c.jpg?ver=1534260136000'
+  img_alt: 'Perfect paired with BALDUCCI&#39;S SIGNATURE COCKTAIL SAUCE'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/087615be-8d8b-42e6-9b89-2144e5bcfa82.jpg?ver=1534260137000'
+  img_alt: 'CHEF PREPARED | GRAB & GO'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0e553a52-fae6-45a5-a086-77fc42cd3d8f.jpg?ver=1534260137000'
+  img_alt: 'GRILLED SALMON WITH TOMATO & CORN BRUSCHETTA'
+  url_2: 'https://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/43480a8e-ae94-467e-b3ac-c0ec14375be6.jpg?ver=1534260137000'
+  img_alt_2: 'TUNA SALAD CREPE WRAP'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a4e81cd3-6c8c-4e4c-9c48-c19ff7071149.jpg?ver=1534260137000'
+  img_alt: 'NEW STYLE | PAY US A VISIT'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0817_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5806e7ed-ac1f-4f21-8f17-b821c6f605a4.jpg?ver=1534260137000'
+  img_alt: 'CHECK OUT OUR NEW LOOK! We&#39;ve redesigned our website to give you more - from recipes and gifts to Member Offers and catering. It&#39;s more of what you love every single day. SEE THE NEW SITE >'
+
+
+
+
