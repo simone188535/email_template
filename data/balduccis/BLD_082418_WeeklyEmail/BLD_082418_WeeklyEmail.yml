@@ -1,0 +1,100 @@
+title: 'Grilled peaches + pork = your new favorite recipe.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com/home?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/recipes/grilled-balsamic-peach-pork-tenderloin?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/122acdff-04de-448b-9263-5d9079dbfc85.jpg?ver=1534770982000'
+  img_alt: 'Summer Indulgences Celebrate the end of Summer with the season&#39;s finest meat and produce. Recipe of the Season GRILLED BALSAMIC PEACH PORK TENDERLOIN VIEW RECIPE >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail#butchery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/40db08ce-c877-432d-9f0c-5f3d179ce302.jpg?ver=1534770982000'
+  img_alt: 'BERKSHIRE PORK | TASTE THE DIFFERENCE'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail#butchery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/948c6fae-fa97-408d-aa37-6f0f9681999e.jpg?ver=1534770982000'
+  img_alt: 'BERKSHIRE HERITAGE BREED BONELESS PORK CHOPS Berkshire is to pork what Wagyu is to beef - a symbol of the juiciest, most well-marbled and tender meat. MEMBER EXCLUSIVE 9.99/LB Reg 12.99'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1b480b1e-8457-4b0f-9623-e20901daf750.jpg?ver=1534770982000'
+  img_alt: 'A DELICIOUS DECISION | FRESH PRODUCE'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dac9df27-e8b3-4fed-8dd6-253772e8f5b6.jpg?ver=1534770982000'
+  img_alt: 'Brush with olive oil & grill to perfection! WHITE & YELLOW PEACHES Choose between tree-ripened sweet white flesh peaches or tangy yellow flesh peaches for a tantalizing taste of end-of-Summer freshness.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d7cee234-e807-4056-8b90-012b049a8e30.jpg?ver=1534770982000'
+  img_alt: 'SAVOR THE SAUCE | PANTRY PAIRING'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3d3ce4d1-9937-4060-8957-06ce1699f223.jpg?ver=1534770982000'
+  img_alt: 'STONEWALL KITCHEN ROASTED PEACH WHISKEY SAUCE The combination of slow-roasted peaches, smooth whiskey and piquant spices makes for an unforgettable finish to any grilled meat.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c17ad3df-60d2-4121-8b9b-3555c9a67be9.jpg?ver=1534770982000'
+  img_alt: 'CRUNCH TIME | GRAB & GO'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/30aca230-f7b5-48e2-a80e-92338e5e883f.jpg?ver=1534770982000'
+  img_alt: 'SHREDDED BRUSSELS SPROUTS SLAW Fresh-made with shredded Brussels sprouts, cabbage, scallions, dried cranberries, sunflower seeds and a coleslaw dressing.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail#cheese'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/020171d5-348a-4d55-906c-1d4b15677869.jpg?ver=1534770983000'
+  img_alt: 'SUMMER CHEESE PLATE'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail#cheese'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6c1ee19a-f213-4b40-8688-05898c60dec7.jpg?ver=1534770983000'
+  img_alt: 'CREAMY CRAVINGS A great Summer cheese plate is a world of possibilities. Sweet, spicy, semi-soft or all of the above, you can&#39;t lose.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_BLD_WeeklyEmail#cheese'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bc28f89c-a734-48b0-ad7c-7344be8b82f8.jpg?ver=1534770983000'
+  img_alt: 'CYPRESS GROVE MIDNIGHT MOON | HATCH CHILE GOUDA'
