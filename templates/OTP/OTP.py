@@ -1,4 +1,5 @@
 from distutils.dir_util import copy_tree
+from shutil import copyfile
 import pyexcel as p
 from emailBuildClass import emailBuilder
 import mailChimp
@@ -8,6 +9,7 @@ class OTPBuilder(emailBuilder):
     def __init__(self, **kwargs):
         self.projectNamePrefix = "OTP_"
         self.folderPath = "otp"
+        self.sheetName = 0
         self.ymlTemplate = "OTP/OTP_Template_080318_Email.yml"
         self.erbTemplate = "OTP/OTP_Template_080318_Email.erb"
         super(OTPBuilder, self).__init__(**kwargs)
@@ -19,36 +21,55 @@ class OTPBuilder(emailBuilder):
             if str(sendEmail).strip().upper() == 'TRUE':
                 self.sendEmail = True
 
-    ## Use this to load the footer images if those are being pulled from a folder instead of being in the template
+    # Use this to load the footer images if those are being pulled from a folder instead of being in the template
 
-    # def loadData(self):
-    #     copy_tree("OTP/social_images", self.imagePath)
+    def loadData(self):
+        #self.sheetName = "Link Table"
+        self.altTextColumn = 2
+        self.linkColumn = 5
+        self.locationColumn = 0
+        super(OTPBuilder, self).loadData()
 
-    #     if "CANADA" in self.crf_file.upper():
-    #         copy_tree("OTP/CA_images", self.imagePath)
-    #         self.sheetName = "ASF"
-    #         self.altTextColumn = 2
-    #         self.linkColumn = 5
-    #         self.locationColumn = 1
-    #         self.canada = True
-    #     else:
-    #         copy_tree("OTP/US_images", self.imagePath)
-    #         self.sheetName = "Link Table"
-    #         self.altTextColumn = 1
-    #         self.linkColumn = 4
-    #         self.locationColumn = 0
-    #         self.canada = False
-    #     super(OTPBuilder, self).loadData()
+    # def findImageRow(self, image):
+    #     if len(self.imageRows) < 1:
+    #         for irow in self.sheet.rows():
+    #             if irow[self.locationColumn].strip() == 'Body' and irow[self.linkColumn].strip() != '':
+    #                 self.imageRows.append(irow)
+    #     row = self.imageRows[self.bodyCounter]
+    #     self.bodyCounter = self.bodyCounter + 1
 
-    def findImageRow(self, image):
-        if len(self.imageRows) < 1:
-            for irow in self.sheet.rows():
-                if irow[self.locationColumn].strip() == 'Body' and irow[self.linkColumn].strip() != '':
-                    self.imageRows.append(irow)
-        row = self.imageRows[self.bodyCounter]
-        self.bodyCounter = self.bodyCounter + 1
+    #     return row
 
-        return row
+    def generateImage(self, images):
+        articleType = "table"
+
+        table = []
+
+        for image in images:
+            imgData = ['']*6
+
+            row = self.findImageRow(image)
+
+            path, imageName = self.getImageRelativePathAndName(image)
+
+            imgData[0] = "image"
+            imgData[1] = str(path + imageName).encode('ascii','ignore')
+            imgData[2] = self.getImageLink(row[self.linkColumn]).encode('ascii','ignore')
+            imgData[5] = self.encodeText(row[self.altTextColumn].encode('ascii','ignore'))
+
+            imgData = self.addAdditionalFields(image, imgData)
+
+            table.append(imgData)
+
+        self.contents.insert(self.insertRow(), "- type: '" + articleType + "'" + self.newLine)
+        self.contents.insert(self.insertRow(), "  data: " + str(table) + "" + self.newLine)
+        self.contents.insert(self.insertRow(), self.newLine)
+
+    def generateYmlContent(self):
+        for irow in self.layoutsheet.rows():
+            while '' in irow:
+                irow.remove('')
+            self.generateImage(irow)
 
     def update(self):
         self.updateHeader()
