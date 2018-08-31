@@ -1,0 +1,73 @@
+title: 'WOW! $25 5&#39; x 7&#39; Rugs While Supplies Last'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_083118_05.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "http://oldtimepottery.com/?utm_source=otp_weekly08-31&utm_medium=email&utm_campaign=laborday-friday&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_083118_06.jpg"
+outdoor_img_alt: "HARVEST IS HERE [Get Inspired]"
+outdoor_img_link: "https://oldtimepottery.com/harvest?utm_source=otp_weekly08-31&utm_medium=email&utm_campaign=labor_day-friday&utm_term=discount_home_decor&utm_content=otp_harvest_logo"
+
+preheader_text: 'Plus, our Christmas Preview, just inside.'
+preheader_link: 'https://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_083118_09.jpg'
+  image_alt: 'LIMITED QUANTITIES AVAILABLE WHILE THEY LAST   $25 5&#39; X 7&#39; WOVEN AREA RUGS Limited quantities available & selection varies by store. Sellouts will happen. Other exclusions may apply. May not be available at all stores. AMAZING EVERYDAY RUG VALUES EVERY DAY! Tufted, Woven, Shag, Indoor/Outdoor & More! 5&#39; x 7&#39; 49.99 | 8&#39; x 10&#39; 129.99 Scatters, Runners, other types and shapes are available in-store.'
+  image_link: 'https://oldtimepottery.com/departments/home-decor/rugs.html?utm_source=otp_weekly08-31&utm_medium=email&utm_campaign=labor_day-friday&utm_term=discount_home_decor&utm_content=woven_area_rugs'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_083118_12.jpg'
+  image_alt: 'LABOR DAY Weekend Savings 50% off Citronella & Tiki Torches 50% off Last Chance Outdoor 60% off Yellow Tag Clearance 70% off Spring Floral'
+  image_link: ''
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_083118_15.jpg'
+  image_alt: 'YOUR LARGEST CHRISTMAS STORE! THE BEST OF THE SEASON IS ON THE WAY! OUTDOOR LIGHTING Brighten up your yard with our huge assortment! SHATTERPROOF ORNAMENTS Beautiful tree accessories for every budget! CHRISTMAS FLORAL The season&#39;s best selection of holiday foliage. [VIEW MORE]'
+  image_link: 'https://oldtimepottery.com/christmas-preview?utm_source=otp_weekly08-31&utm_medium=email&utm_campaign=laborday-friday&utm_term=discount_home_decor&utm_content=christmas_preview'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_083118_18.jpg'
+  image_alt: 'Campus GRAND PRIZE WINNER Thank you to all who participated!'
+  image_link: ''
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_060218_48.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery?utm_source=otp_weekly08-31&utm_medium=email&utm_campaign=labor_day-friday&utm_term=discount_home_decor&utm_content=otp_instagram'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/?utm_source=otp_weekly08-31&utm_medium=email&utm_campaign=labor_day-friday&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly08-31&utm_medium=email&utm_campaign=labor_day-friday&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/?utm_source=otp_weekly08-31&utm_medium=email&utm_campaign=labor_day-friday&utm_term=discount_home_decor&utm_content=otp_gift-cards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/?utm_source=otp_weekly08-31&utm_medium=email&utm_campaign=labor_day-friday&utm_term=discount_home_decor&utm_content=otp_profile'
+
+socialnav:
+- link: "http://instagram.com/oldtimepottery?utm_source=otp_weekly08-31&utm_medium=email&utm_campaign=labor_day-friday&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly08-31&utm_medium=email&utm_campaign=labor_day-friday&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly08-31&utm_medium=email&utm_campaign=labor_day-friday&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery?utm_source=otp_weekly08-31&utm_medium=email&utm_campaign=labor_day-friday&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"
