@@ -1,0 +1,105 @@
+title: 'Gourmet Game Day Eats'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'http://www.balduccis.com/rewards/overview?utm_source=weeklyemail&utm_medium=email&utm_campaign=0901_BLD_Weekly_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=08118_BLD_Weekly_Email"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/862e0ecf-6e9d-45e2-9dfb-e567ee619749.jpg?ver=1495221937000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d08a27bc-2c8f-415f-8cba-21ef83f1f509.jpg?ver=1495221937000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e310408-a229-473a-a2b6-706703457b0f.jpg?ver=1495221937000"
+footer_twitter_alt: "twitter"
+
+
+# Loop through articles
+articles:
+# - type: 'image-2-columns'
+#   img_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_alt: 'NY STRIP STEAK | TRY WITH: Turmeric Ginger Spice Rub | VIEW RECIPE >'
+#   img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4a7f506b-a593-47cb-9dd1-36cf6018c32f.jpg?ver=1496764388000'
+#   img_2_link: 'http://www.balduccis.com/recipes/beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0609_BLD_Weekly_Email_NORTH'
+#   img_2_alt: 'RIB VEAL CHOP | TRY WITH: Cinnamon Coriander Spice Rub | VIEW RECIPE >'
+#   img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/05da7c08-ac0d-4409-9480-16e4799edf1d.jpg?ver=1496764385000'
+
+- type: 'image'
+  img_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0904_BLD_GameTime_Solo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0614345b-9dcd-4e46-9b2c-c88d18185775.jpg?ver=1535465930000'
+  img_alt: "Balducci's® Food Lover's Market™"
+
+- type: 'image'
+  img_link: 'https://www.balduccis.com/catering/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0904_BLD_GameTime_Solo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7b69d3fa-d4ab-45cd-a28c-b3ec34b183b3.jpg?ver=1535465931000'
+  img_alt: "RELAX, ENJOY THE GAME AND LET US CATER YOUR PARTY! Game Day Catering"
+
+- type: 'image'
+  img_link: 'https://www.balduccis.com/catering/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0904_BLD_GameTime_Solo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/76a1e2e9-d7db-4332-aeb5-dbda03bd9ee7.jpg?ver=1535465931000'
+  img_alt: "ORDER YOUR GAME DAY CATERING NOW! This year, spend more time cheering on your favorite team. Our chefs are preparing mouth-watering entrées, delectable sides and delicious desserts. ORDER NOW >"
+
+- type: 'image'
+  img_link: 'https://www.balduccis.com/catering/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0904_BLD_GameTime_Solo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c094253e-239a-4c01-96dc-7a00d307acfa.jpg?ver=1535465931000'
+  img_alt: "CATERING | ONLINE ORDERING"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0905_BLD_Rosh_Catering_Solo_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1e3916ee-d2f4-45d2-aa3f-5dab3c0b7dfe.jpg?ver=1504117696000'
+  img_alt: "CHECK OUT OUR NEW LOOK! We&#39;ve updated our website to serve you better. Visit us today to see for yourself. SEE THE NEW SITE >"
+
+- type: 'image'
+  img_link: 'https://www.balduccis.com/user/password?utm_source=weeklyemail&utm_medium=email&utm_campaign=0904_BLD_GameTime_Solo'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f58f1085-c2d7-4409-993f-19b378c21bf6.jpg?ver=1535465931000'
+  img_alt: "Do you have a catering account? Please update your Account Password. UPDATE YOUR PASSWORD"
+
+- type: 'image'
+  img_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0905_BLD_Rosh_Catering_Solo_Email'
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2c4ae19e-a088-401e-ad0d-1db7247245aa.jpg?ver=1535465931000'
+  img_alt: "Pick Up In-Store, call 1.866.278.8866, Email catering@balduccis.com or View Our Catering Menu Online."
+
+- type: 'image-6-columns'
+  img_link: ''
+  img_alt: ''
+  img_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/65d98d35-3733-4c61-8cd4-9cf03c84c7a9.jpg?ver=1535465931000'
+  img_2_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0904_BLD_GameTime_Solo'
+  img_2_alt: 'www.balduccis.com'
+  img_2_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/386d4c8f-336b-41a1-bfc0-b62f98bd2e4b.jpg?ver=1535465931000'
+  img_3_link: 'https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=0904_BLD_GameTime_Solo'
+  img_3_alt: 'facebook'
+  img_3_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0bc0eb19-e42a-4d73-bc80-18c41ffd7218.jpg?ver=1535465931000'
+  img_4_link: 'https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0904_BLD_GameTime_Solo'
+  img_4_alt: 'twitter'
+  img_4_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b73875e5-1c7f-49dd-b4b6-d1c5b43f6ab7.jpg?ver=1535465931000'
+  img_5_link: 'https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0904_BLD_GameTime_Solo'
+  img_5_alt: 'instagram'
+  img_5_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6593266b-e779-4098-abfd-e4ee30af80b4.jpg?ver=1535465931000'
+  img_6_link: ''
+  img_6_alt: ''
+  img_6_url: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d15e76f5-6da2-411c-9f35-cf9ec16e40e1.jpg?ver=1535465932000'
+
+
+
+
+
+
+
+
+
