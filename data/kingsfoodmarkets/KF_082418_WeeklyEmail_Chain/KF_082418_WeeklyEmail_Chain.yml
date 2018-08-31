@@ -1,0 +1,152 @@
+title: 'School nights are back, now add delicious.'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7afd9d20-b978-421c-9ceb-ef6f1af04e74.jpg?ver=1534902424000"
+  img_alt: "LESSON PLAN: EASY MEALS FOR BACK TO SCHOOL"
+  url: "https://kingsfoodmarkets.com/unique-recipes/steak-skillet-fajitas?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a040fc7d-db86-481f-9f20-d8733f4f95f2.jpg?ver=1534902424000"
+  img_alt: "A+ IDEAS FOR WEEKNIGHT MEAL PLANNING"
+  url: "https://kingsfoodmarkets.com/unique-recipes/tips-for-make-ahead-meal-planning?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f0085167-67de-4b8d-89bb-6b292c49c9ae.jpg?ver=1534902424000"
+  img_alt: "USE A CALENDAR to plan meals for the week, and buy everything at once to save time. For family favorites, DOUBLE THE RECIPE and store for a quick meal later. FILL THE FREEZER with meals like casseroles and soups that can be stored for up to a month!"
+  url: "https://kingsfoodmarkets.com/unique-recipes/tips-for-make-ahead-meal-planning?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1b38bbfb-1836-45e4-8d49-9989b397cb20.jpg?ver=1534902424000"
+  img_alt: "VIEW MORE TIPS >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/tips-for-make-ahead-meal-planning?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/02b5b882-1eac-4edc-9934-dd87572d785d.jpg?ver=1534902425000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85224eb1-1dd9-47fb-945b-b406ff7ab72e.jpg?ver=1534946279000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ab4ecdfe-4651-4ea1-870d-9dad8a49fa10.jpg?ver=1534946279000"
+  img_alt: "1/2 OFF SAVE $14 lb. USDA PRIME CERTIFIED ANGUS BEEF NEW YORK STRIP STEAKS members pay 13.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ad919328-65fe-41c4-b8f1-7954ecdca54e.jpg?ver=1534946279000"
+  img_alt_2: "RED, YELLOW OR ORANGE PEPPERS members pay 2.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/81fd99a6-6359-4cdd-af3e-66c41b80e672.jpg?ver=1534946280000"
+  img_alt: "VIEW WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/76d47a90-bbdc-4ff6-b7cf-e46571cf7970.jpg?ver=1534902426000"
+  img_alt: "EASY RECIPES THE WHOLE FAMILY WILL LOVE"
+  url: "https://kingsfoodmarkets.com/unique-recipes/weeknight-skillet-fajitas?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b3d2e9de-500c-4ef4-8c86-38737917e10e.jpg?ver=1534902426000"
+  img_alt: "WEEKNIGHT SKILLET FAJITAS VIEW RECIPE >"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/712f5142-c529-4689-a1d5-20a9fe9db678.jpg?ver=1534902426000"
+  img_alt_2: "CLASSIC CHILI VIEW RECIPE >"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/classic-chili?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4f5c97a8-b010-48c5-9643-6bcd05c1864a.jpg?ver=1534902426000"
+  img_alt: "DINNER IS READY! For the busiest of school nights, pick up a complete meal for your family from our CHEF PREPARED GRAB & GO CASE."
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a2da229c-6826-4034-82a0-326e717af4bc.jpg?ver=1534902426000"
+  img_alt: "PRE-PACKED CHEF&#39;S MEALS CHOOSE AN ENTRÉE + 2 SIDES"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4c87fad3-5fbd-411f-8436-39dcd5c24da7.jpg?ver=1534902427000"
+  img_alt_2: "$8.99 EVERY DAY! KINGS ROTISSERIE CHICKEN EVERY DAY PRICE OF $8.99!"
+  url_2: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ffe17a07-550f-44e3-8b57-1e35c2d18b22.jpg?ver=1534902426000"
+  img_alt: "VIEW MORE CHEF PREPARED >"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/81c12a2a-4df1-4c70-aa30-96e89c9da7f5.jpg?ver=1534902426000"
+  img_alt: "SNACKS & HACKS Power through busy days with HEALTHY SCHOOL SNACKS and LUNCH IDEAS!"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f90f6922-e27c-4efc-8aa0-e76f05af629c.jpg?ver=1534902427000"
+  img_alt: "CRANRAISIN OAT CEREAL BARS VIEW RECIPE >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/cranraisin-oat-cereal-bars?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/10c6a58a-92d7-4341-ae9a-e155ef8877f9.jpg?ver=1534902427000"
+  img_alt_2: "RAINBOW CRUDITÉ CUP VIEW RECIPE >"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/rainbow-crudite-cup?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fdaaa3e4-e418-40a2-b46e-c99917447873.jpg?ver=1534902427000"
+  img_alt: "NEW! FROM THE GROUND UP CAULIFLOWER CRACKERS MUNK PACK OATMEAL FRUIT SQUEEZE UTZ BARREL SNACKS SPROUT ORGANIC CURLZ"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6161d0c7-c947-46f8-92f6-9de4fd72b37e.jpg?ver=1534902427000"
+  img_alt: "VIEW LUNCH IDEAS >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a63c3d4c-b563-4e9f-b18d-335c072af905.jpg?ver=1534902427000"
+  img_alt: "WHAT&#39;S NEW ROSH HASHANAH CATERING MENU LET US DO THE COOKING! Host an elegant and stress-free ROSH HASHANAH dinner! Our menu of deliciously authentic CHEF PREPARED FAVORITES is now available. VIEW MENU >"
+  url: "https://kingsfoodmarkets.com/catering/jewish-holidays?utm_source=weeklyemail&utm_medium=email&utm_campaign=0824_KF_WeeklyEmail"
+
+
+
+
