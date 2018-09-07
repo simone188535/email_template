@@ -1,0 +1,95 @@
+title: 'Effortless Jewish Holiday Entertaining'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0810_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/14ebdcd3-b6e6-461b-b5a6-f377e6975806.jpg?ver=1535384720000'
+  img_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4b70827d-4f7c-447d-a78a-18c1666b9b25.jpg?ver=1535384720000'
+  img_alt: 'Effortless Entertaining ENJOY YOUR FAMILY AND LET US CATER YOUR MEAL!'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0314f509-1bb9-47fa-a7cc-d71b0bcaee6c.jpg?ver=1535384721000'
+  img_alt: 'Rosh Hashanah & Yom Kippur'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/07a6c6cc-f999-4ca4-ac1a-a1abcce5f00e.jpg?ver=1535384721000'
+  img_alt: 'HOLIDAY TRADITIONS Celebrate one of the happiest days of the Jewish calendar with full-featured menus of favorites, to delight your families and closest friends. Our catering team can make your occasions easy, elegant and memorable. ORDER NOW >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4edb1398-6edf-4ea6-b85b-6e0d83f84b07.jpg?ver=1535384721000'
+  img_alt: 'CATERING | ONLINE ORDERING'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/66377056-9b42-46a2-9bb5-7fb17b13cafc.jpg?ver=1535384721000'
+  img_alt: 'CHECK OUT OUR NEW LOOK! We&#39;ve updated our website to serve you better. Visit us today to see for yourself. SEE THE NEW SITE >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/user/password?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/677093b2-f121-47ef-a442-9e3474bb56df.jpg?ver=1535384721000'
+  img_alt: 'Do you have a catering account? Please update your Account Password. UPDATE YOUR PASSWORD'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/733169d0-3c47-4478-921c-68e9bba70cb8.jpg?ver=1535384721000'
+  img_alt: 'Pick Up In-Store, call 1.866.278.8866, Email catering@balduccis.com or View Our Catering Menu Online.'
+
+- type: 'image-6-columns'
+  url: '#'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c7104d59-3e15-4ada-95b1-3d2150c15104.jpg?ver=1535384721000'
+  img_alt: ''
+  url_2: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d59428a0-ba78-4b53-88fb-dd8f617af405.jpg?ver=1535384721000'
+  img_alt_2: 'www.balduccis.com'
+  url_3: 'https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo'
+  img_3: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/91817e20-410a-401f-b011-1d9c8dee98af.jpg?ver=1535384721000'
+  img_alt_3: 'facebook'
+  url_4: 'https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo'
+  img_4: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e1cb6758-2b79-46d0-a5c0-87663fa69f7a.jpg?ver=1535384722000'
+  img_alt_4: 'twitter'
+  url_5: 'https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0830_BLD_Rosh_Yom_Solo'
+  img_5: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e3ce13ee-5bca-4ea1-bf2b-fe0eab587ac7.jpg?ver=1535384722000'
+  img_alt_5: 'instagram'
+  url_6: '#'
+  img_6: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6a19f655-24a9-4ce3-ac4d-a7613b0a77e1.jpg?ver=1535384722000'
+  img_alt_6: ''

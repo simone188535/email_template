@@ -1,0 +1,87 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4e63cdc9-98d5-440d-8840-f29b388cda4f.jpg?ver=1536332852000"
+  img_alt: "Ready for Back to School HOSTED BY Boar's Head"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a40b713a-0484-4f93-a5f7-41c458f82cf9.jpg?ver=1536332852000"
+  img_alt: "NEW LUNCH IDEAS! Pinwheels & Buffalo Chicken Salad"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e1dcaf46-c94e-4c90-92c7-3608578e396b.jpg?ver=1536332853000"
+  img_alt: "TASTING EVENTS SELECT STORES | 11 AM - 3 PM 9/14 FRIDAY SHORT HILLS COOKING studio HOSTED BY Boar's Head Lunch Made Simple for Back to School or Work Time: 11 AM - 1 PM | Cost: $40 per person | DETAILS BELOW 9/14 FRIDAY GARWOOD 9/15 SATURDAY BOONTON 9/16 SUNDAY CRESSKILL FLORHAM PARK HILLSDALE 9/17 MONDAY BEDMINSTER 9/18 TUESDAY WHITEHOUSE 9/19 WEDNESDAY MENDHAM 9/20 THURSDAY MORRISTOWN"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a7e87ed9-d22c-4ff1-a3d6-4536b1015b78.jpg?ver=1536332853000"
+  img_alt: "COOKING studio 3 EASY WAYS TO REGISTER ONLINE kingsfoodmarkets.com/cooking-studio PHONE 973-258-4009 Monday - Friday IN PERSON when you shop at Kings Short Hills"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/41e1aa11-ea30-43c2-b4b6-9bfeeee9a1e9.jpg?ver=1536332853000"
+  img_alt: "Lunch Made Simple for Back to School or Work Watch Boar's Head Chef Mike Viola make Pinwheels and Buffalo Chicken Salad. At the end of class, enter for a chance to win Mets tickets and Boar's Head Baskets! Time: 11 AM - 1 PM Cost: $40 per person"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6ef7ee59-b28a-4876-8469-04c82ec78ccb.jpg?ver=1536332853000"
+  img_alt: "Lunch Made Simple for Back to School or Work Watch Boar's Head Chef Mike Viola make Pinwheels and Buffalo Chicken Salad. At the end of class, enter for a chance to win Mets tickets and Boar's Head Baskets! Time: 11 AM - 1 PM Cost: $40 per person"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cb2eec04-a820-42ce-841b-41e34a856758.jpg?ver=1536332853000"
+  img_alt: "KINGS SHORT HILLS • COOKING STUDIO • 778 MORRIS TURNPIKE To register or for more info call 973.258.4009 or visit us online."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0910_KF_BoarsHead_Solo"
+
+
+
