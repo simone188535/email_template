@@ -1,0 +1,78 @@
+title: 'A Coupon, a $5 Sale Item and a NEW 70% Savings Offer, Just for You.'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_082418_05.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "https://oldtimepottery.com/?utm_source=otp_weekly08-24&utm_medium=email&utm_campaign=great_crate&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_082418_06.jpg"
+outdoor_img_alt: "Come in for the BEST OF FALL! [See Preview]"
+outdoor_img_link: "https://oldtimepottery.com/fall-preview?utm_source=otp_weekly08-24&utm_medium=email&utm_campaign=great_crate&utm_term=discount_home_decor&utm_content=otp_fall_logo"
+
+preheader_text: 'Plan your big deal weekend trip now.'
+preheader_link: 'https://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_082418_09.jpg'
+  image_alt: 'STARTS TODAY! FRIDAY, AUGUST 24TH - SUNDAY, AUGUST 26TH FALL PREVIEW Coupon! SEE & SAVE ON NEW HALLOWEEN & HARVEST STYLES [GET COUPON]'
+  image_link: 'https://oldtimepottery.com/fall-preview?utm_source=otp_weekly08-24&utm_medium=email&utm_campaign=great_crate&utm_term=discount_home_decor&utm_content=fall_coupon'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_082418_12.jpg'
+  image_alt: 'FRIDAY - SUNDAY THE GREAT CRATE SALE $5 EACH! SO MANY USES: Shelves, Organizers, TV Stands, Bike Baskets, Planters, Step Stools and MORE! [Find a Store]'
+  image_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly08-24&utm_medium=email&utm_campaign=great_crate&utm_term=discount_home_decor&utm_content=great_crate_sale'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_082418_15.jpg'
+  image_alt: 'THE HAUNTED HOUSE COLLECTION Exclusively at Old Time Pottery [Fall Preview] HAUNTED HOUSE Collection'
+  image_link: 'https://oldtimepottery.com/fall-preview?utm_source=otp_weekly08-24&utm_medium=email&utm_campaign=great_crate&utm_term=discount_home_decor&utm_content=haunted_house'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_082418_18.jpg'
+  image_alt: 'WHILE SUPPLIES LAST! 70% OFF ALL Spring Floral'
+  image_link: ''
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_080718_18.jpg'
+  image_alt: '60% OFF YELLOW TAG CLEARANCE ALL DEPARTMENTS HERE TODAY, GONE TOMORROW!'
+  image_link: ''
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_060218_48.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery?utm_source=otp_weekly08-24&utm_medium=email&utm_campaign=great_crate&utm_term=discount_home_decor&utm_content=otp_instagram'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/?utm_source=otp_weekly08-24&utm_medium=email&utm_campaign=great_crate&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly08-24&utm_medium=email&utm_campaign=great_crate&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/?utm_source=otp_weekly08-24&utm_medium=email&utm_campaign=great_crate&utm_term=discount_home_decor&utm_content=otp_giftcards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/?utm_source=otp_weekly08-24&utm_medium=email&utm_campaign=great_crate&utm_term=discount_home_decor&utm_content=otp_account'
+
+socialnav:
+- link: "http://instagram.com/oldtimepottery?utm_source=otp_weekly08-24&utm_medium=email&utm_campaign=great_crate&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly08-24&utm_medium=email&utm_campaign=great_crate&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly08-24&utm_medium=email&utm_campaign=great_crate&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery?utm_source=otp_weekly08-24&utm_medium=email&utm_campaign=great_crate&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"

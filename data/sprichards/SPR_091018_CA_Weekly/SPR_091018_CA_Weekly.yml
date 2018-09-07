@@ -1,0 +1,126 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_02.jpg', '/sl-forward-sprisv/MEA/609940620/1041663236/620-703', 580, 374, 'MEA609940620 - Blue/Navy Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_03.jpg', '/sl-forward-sprisv/MEA/609940620/1041663236/620-703', 580, 336, 'MEA609940620 - Blue/Navy Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_04.jpg', '/sl-forward-sprisv/MEA/609940620/1041663236/620-703', 166, 58, 'MEA609940620 - Blue/Navy Blue'], ['image', 'images/SPR_091018_CA_Weekly_05.jpg', '/sl-forward-sprisv/MEA/609940627/1041663237/976-836', 113, 58, 'MEA609940627 - Pink Cover'], ['image', 'images/SPR_091018_CA_Weekly_06.jpg', '/sl-forward-sprisv/MEA/609940620/1041663236/620-703', 301, 58, 'MEA609940620 - Blue/Navy Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_07.jpg', '/sl-forward-sprisv/MEA/609940627/1041663237/976-836', 580, 69, 'MEA609940627 - Pink Cover']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_08.jpg', '/sl-forward-sprisv/MEA/609940627/1041663237/976-836', 297, 44, 'MEA609940627 - Pink Cover'], ['text', 'images/SPR_091018_CA_Weekly_09.jpg', '/sl-forward-sprisv/MEA/609940627/1041663237/976-836', 283, 44, 'MEA609940627 - Pink Cover', '#ffffff', '#000000', 'linetext1_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_10.jpg', '/sl-forward-sprisv/MEA/609940627/1041663237/976-836', 580, 53, 'MEA609940627 - Pink Cover']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_11.jpg', '/sl-forward-sprisv/KMW/33084/1013041119/115-836', 580, 249, 'KMW33084']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_12.jpg', '/sl-forward-sprisv/KMW/33084/1013041119/115-836', 18, 43, 'KMW33084'], ['text', 'images/SPR_091018_CA_Weekly_13.jpg', '/sl-forward-sprisv/KMW/33084/1013041119/115-836', 279, 43, 'KMW33084', '#a5ae79', '#FFFFFF', 'linetext2_CUS'], ['image', 'images/SPR_091018_CA_Weekly_14.jpg', '/sl-forward-sprisv/KMW/33084/1013041119/115-836', 283, 43, 'KMW33084']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_15.jpg', '/sl-forward-sprisv/KMW/33084/1013041119/115-836', 580, 58, 'KMW33084']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_16.jpg', '/sl-forward-sprisv/MMM/65424SSMIACP/1033902887/292-547', 580, 288, 'MMM65424SSMIACP']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_17.jpg', '/sl-forward-sprisv/MMM/65424SSMIACP/1033902887/292-547', 18, 43, 'MMM65424SSMIACP'], ['text', 'images/SPR_091018_CA_Weekly_18.jpg', '/sl-forward-sprisv/MMM/65424SSMIACP/1033902887/292-547', 256, 43, 'MMM65424SSMIACP', '#ffffff', '#000000', 'linetext3_CUS'], ['image', 'images/SPR_091018_CA_Weekly_19.jpg', '/sl-forward-sprisv/MMM/65424SSMIACP/1033902887/292-547', 306, 43, 'MMM65424SSMIACP']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_20.jpg', '/sl-forward-sprisv/MMM/65424SSMIACP/1033902887/292-547', 580, 52, 'MMM65424SSMIACP']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_21.jpg', 'https://content.etilize.com/spr/rebates/RebateOffer_628.pdf', 580, 148, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_22.jpg', '/sl-forward-sprisv/MMM/R33012WDVA/1041663284/604-442', 580, 230, 'MMMR33012WDVA']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_23.jpg', '/sl-forward-sprisv/MMM/R33012WDVA/1041663284/604-442', 391, 44, 'MMMR33012WDVA'], ['text', 'images/SPR_091018_CA_Weekly_24.jpg', '/sl-forward-sprisv/MMM/R33012WDVA/1041663284/604-442', 189, 44, 'MMMR33012WDVA', '#ffffff', '#000000', 'linetext4_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_25.jpg', '/sl-forward-sprisv/MMM/R33012WDVA/1041663284/604-442', 580, 50, 'MMMR33012WDVA']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_26.jpg', '/sl-forward-sprisv/QRT/G4836W/1028414577/436-867', 580, 285, 'QRTG4836W']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_27.jpg', '/sl-forward-sprisv/QRT/G4836W/1028414577/436-867', 16, 44, 'QRTG4836W'], ['text', 'images/SPR_091018_CA_Weekly_28.jpg', '/sl-forward-sprisv/QRT/G4836W/1028414577/436-867', 180, 44, 'QRTG4836W', '#a6af7a', '#FFFFFF', 'linetext5_CUS'], ['image', 'images/SPR_091018_CA_Weekly_29.jpg', '/sl-forward-sprisv/QRT/G4836W/1028414577/436-867', 384, 44, 'QRTG4836W']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_30.jpg', '/sl-forward-sprisv/QRT/G4836W/1028414577/436-867', 580, 53, 'QRTG4836W']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_31.jpg', 'https://content.etilize.com/spr/rebates/RebateOffer_654.pdf', 580, 149, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_32.jpg', '/sl-forward-sprisv/QRT/79552/1037699676/159-935', 580, 177, 'QRT79552']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_33.jpg', '/sl-forward-sprisv/QRT/79552/1037699676/159-935', 19, 43, 'QRT79552'], ['text', 'images/SPR_091018_CA_Weekly_34.jpg', '/sl-forward-sprisv/QRT/79552/1037699676/159-935', 233, 43, 'QRT79552', '#a5ad7a', '#FFFFFF', 'linetext6_CUS'], ['image', 'images/SPR_091018_CA_Weekly_35.jpg', '/sl-forward-sprisv/QRT/79552/1037699676/159-935', 328, 43, 'QRT79552']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_36.jpg', '/sl-forward-sprisv/QRT/79552/1037699676/159-935', 580, 53, 'QRT79552']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_37.jpg', 'https://content.etilize.com/spr/rebates/RebateOffer_645.pdf', 580, 169, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_38.jpg', '/sl-forward-sprisv/SMD/73380/1010040905/271-790', 290, 195, 'SMD73380 - 800 Sheet Capacity - 3 1/2&#34; Expansion'], ['image', 'images/SPR_091018_CA_Weekly_39.jpg', '/sl-forward-sprisv/SMD/73390/1010040906/591-992', 290, 195, 'SMD73390 - 1200 Sheet Capacity - 5 1/4&#34; Expansion']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_40.jpg', '/sl-forward-sprisv/SMD/73380/1010040905/271-790', 18, 44, 'SMD73380 - 800 Sheet Capacity - 3 1/2&#34; Expansion'], ['text', 'images/SPR_091018_CA_Weekly_41.jpg', '/sl-forward-sprisv/SMD/73380/1010040905/271-790', 272, 44, 'SMD73380 - 800 Sheet Capacity - 3 1/2&#34; Expansion', '#ffffff', '#000000', 'linetext7_CUS'], ['image', 'images/SPR_091018_CA_Weekly_42.jpg', '/sl-forward-sprisv/SMD/73390/1010040906/591-992', 290, 44, 'SMD73390 - 1200 Sheet Capacity - 5 1/4&#34; Expansion']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_43.jpg', '/sl-forward-sprisv/SMD/73380/1010040905/271-790', 290, 39, 'SMD73380 - 800 Sheet Capacity - 3 1/2&#34; Expansion'], ['image', 'images/SPR_091018_CA_Weekly_44.jpg', '/sl-forward-sprisv/SMD/73390/1010040906/591-992', 290, 39, 'SMD73390 - 1200 Sheet Capacity - 5 1/4&#34; Expansion']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_45.jpg', '/sl-forward-sprisv/SMD/73390/1010040906/591-992', 580, 67, 'SMD73390 - 1200 Sheet Capacity - 5 1/4&#34; Expansion']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_46.jpg', '/sl-forward-sprisv/SMD/73390/1010040906/591-992', 18, 42, 'SMD73390 - 1200 Sheet Capacity - 5 1/4&#34; Expansion'], ['text', 'images/SPR_091018_CA_Weekly_47.jpg', '/sl-forward-sprisv/SMD/73390/1010040906/591-992', 272, 42, 'SMD73390 - 1200 Sheet Capacity - 5 1/4&#34; Expansion', '#ffffff', '#000000', 'linetext8_CUS'], ['image', 'images/SPR_091018_CA_Weekly_48.jpg', '/sl-forward-sprisv/SMD/73390/1010040906/591-992', 290, 42, 'SMD73390 - 1200 Sheet Capacity - 5 1/4&#34; Expansion']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_49.jpg', '/sl-forward-sprisv/SMD/73390/1010040906/591-992', 580, 54, 'SMD73390 - 1200 Sheet Capacity - 5 1/4&#34; Expansion']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_50.jpg', 'https://content.etilize.com/spr/rebates/RebateOffer_618.pdf', 580, 150, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_51.jpg', '/sl-forward-sprisv/PAP/89465/11966594/229-872', 298, 125, 'PAP89465 - Translucent Black Barrel'], ['image', 'images/SPR_091018_CA_Weekly_52.jpg', '/sl-forward-sprisv/PAP/89466/11966595/413-391', 89, 125, 'PAP89466 - Blue Barrel'], ['image', 'images/SPR_091018_CA_Weekly_53.jpg', '/sl-forward-sprisv/PAP/89465/11966594/229-872', 193, 125, 'PAP89465 - Translucent Black Barrel']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_54.jpg', '/sl-forward-sprisv/PAP/89465/11966594/229-872', 252, 79, 'PAP89465 - Translucent Black Barrel'], ['image', 'images/SPR_091018_CA_Weekly_55.jpg', '/sl-forward-sprisv/PAP/89466/11966595/413-391', 135, 79, 'PAP89466 - Blue Barrel'], ['image', 'images/SPR_091018_CA_Weekly_56.jpg', '/sl-forward-sprisv/PAP/89465/11966594/229-872', 193, 79, 'PAP89465 - Translucent Black Barrel']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_57.jpg', '/sl-forward-sprisv/PAP/89465/11966594/229-872', 181, 69, 'PAP89465 - Translucent Black Barrel'], ['image', 'images/SPR_091018_CA_Weekly_58.jpg', '/sl-forward-sprisv/PAP/89466/11966595/413-391', 399, 69, 'PAP89466 - Blue Barrel']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_59.jpg', '/sl-forward-sprisv/PAP/89465/11966594/229-872', 123, 44, 'PAP89465 - Translucent Black Barrel'], ['image', 'images/SPR_091018_CA_Weekly_60.jpg', '/sl-forward-sprisv/PAP/89466/11966595/413-391', 268, 44, 'PAP89466 - Blue Barrel'], ['text', 'images/SPR_091018_CA_Weekly_61.jpg', '/sl-forward-sprisv/PAP/89466/11966595/413-391', 189, 44, 'PAP89466 - Blue Barrel', '#ffffff', '#000000', 'linetext9_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_62.jpg', '/sl-forward-sprisv/PAP/89465/11966594/229-872', 92, 63, 'PAP89465 - Translucent Black Barrel'], ['image', 'images/SPR_091018_CA_Weekly_63.jpg', '/sl-forward-sprisv/PAP/89466/11966595/413-391', 488, 63, 'PAP89466 - Blue Barrel']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_091018_CA_Weekly_64.jpg', '/sl-forward-sprisv/XER/3R11540/1010055130/100-853', 185, 314, 'XER3R11540 - 24 lb Basis Weight - 98 Brightness'], ['image', 'images/SPR_091018_CA_Weekly_65.jpg', '/sl-forward-sprisv/XER/3R11760/1011752698/741-258', 395, 314, 'XER3R11760 - 28 lb Basis Weight - 100 Brightness']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_091018_CA_Weekly_66.jpg', '', 580, 127, '', '#0d0d0d', '#FFFFFF', 'linetext10_CUS']]
+

@@ -1,0 +1,51 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_090518_Q3_LORELL_ACASeating_02.jpg', '/sl-forward-sprisv/LLR/48848/1041663084/776-424', 580, 286, 'LLR48848']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_090518_Q3_LORELL_ACASeating_03.jpg', '/sl-forward-sprisv/LLR/48848/1041663084/776-424', 580, 256, 'LLR48848']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_090518_Q3_LORELL_ACASeating_04.jpg', '/sl-forward-sprisv/LLR/48848/1041663084/776-424', 580, 259, 'LLR48848']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_090518_Q3_LORELL_ACASeating_05.jpg', '/sl-forward-sprisv/LLR/48848/1041663084/776-424', 388, 46, 'LLR48848'], ['text', 'images/SPR_090518_Q3_LORELL_ACASeating_06.jpg', '/sl-forward-sprisv/LLR/48848/1041663084/776-424', 173, 46, 'LLR48848', '#ffffff', '#000000', 'linetext1_CUS'], ['image', 'images/SPR_090518_Q3_LORELL_ACASeating_07.jpg', '/sl-forward-sprisv/LLR/48848/1041663084/776-424', 19, 46, 'LLR48848']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_090518_Q3_LORELL_ACASeating_08.jpg', '/sl-forward-sprisv/LLR/48848/1041663084/776-424', 580, 220, 'LLR48848']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_090518_Q3_LORELL_ACASeating_09.jpg', '/sl-forward-sprisv/LLR/48730/1041663077/382-713', 580, 358, 'LLR48730']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_090518_Q3_LORELL_ACASeating_10.jpg', '/sl-forward-sprisv/LLR/48730/1041663077/382-713', 20, 45, 'LLR48730'], ['text', 'images/SPR_090518_Q3_LORELL_ACASeating_11.jpg', '/sl-forward-sprisv/LLR/48730/1041663077/382-713', 222, 45, 'LLR48730', '#dcebf2', '#000000', 'linetext2_CUS'], ['image', 'images/SPR_090518_Q3_LORELL_ACASeating_12.jpg', '/sl-forward-sprisv/LLR/48730/1041663077/382-713', 338, 45, 'LLR48730']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_090518_Q3_LORELL_ACASeating_13.jpg', '/sl-forward-sprisv/LLR/48730/1041663077/382-713', 580, 53, 'LLR48730']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_090518_Q3_LORELL_ACASeating_14.jpg', '/sl-forward-sprisv/LLR/47921/1035845071/238-971', 580, 382, 'LLR47921']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_090518_Q3_LORELL_ACASeating_15.jpg', '/sl-forward-sprisv/LLR/47921/1035845071/238-971', 391, 44, 'LLR47921'], ['text', 'images/SPR_090518_Q3_LORELL_ACASeating_16.jpg', '/sl-forward-sprisv/LLR/47921/1035845071/238-971', 170, 44, 'LLR47921', '#ffffff', '#000000', 'linetext3_CUS'], ['image', 'images/SPR_090518_Q3_LORELL_ACASeating_17.jpg', '/sl-forward-sprisv/LLR/47921/1035845071/238-971', 19, 44, 'LLR47921']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_090518_Q3_LORELL_ACASeating_18.jpg', '/sl-forward-sprisv/LLR/47921/1035845071/238-971', 580, 63, 'LLR47921']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_090518_Q3_LORELL_ACASeating_19.jpg', 'http://content.etilize.com/spr/PDF/Q3LorellGrowth2018.pdf', 580, 142, '']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_090518_Q3_LORELL_ACASeating_20.jpg', '', 580, 139, '', '#000000', '#FFFFFF', 'linetext4_CUS']]
+

@@ -1,0 +1,155 @@
+title: 'Savor the End of Summer'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71d4a56c-1409-4cc6-918c-4e28463c52cd.jpg?ver=1535567609000"
+  img_alt: "SIZZLING SUMMER SEND-OFF Your Labor Day weekend BBQ isn&#39;t complete without a savory cowboy steak. HOW TO PREPARE COWBOY STEAK VIEW RECIPE >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/how-to-prepare-cowboy-steak?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/960b106d-7a2b-4478-a0b3-2b181b70978c.jpg?ver=1535567609000"
+  img_alt: "COOKOUT MUST-HAVE BEEF UP YOUR BBQ GAME"
+  url: "https://kingsfoodmarkets.com/local-beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ceb96d0b-0870-4fc9-9658-652a770841e7.jpg?ver=1535567610000"
+  img_alt: "LOCAL BEEF CERTIFIED ANGUS BEEF Everything you want and nothing you don&#39;t, our beautifully lean beef elevates your flame-grilled flavor and forges the lusciously tender beef you crave. • GRASS FED • NUTRIENT-RICH • HORMONE-FREE • LOCALLY SOURCED from NY, PA, VA and MD"
+  url: "https://kingsfoodmarkets.com/local-beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/95d9c021-4c4b-4e18-8c1b-8006bd2d95c4.jpg?ver=1535567610000"
+  img_alt: "LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/local-beef?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b567cebe-aa06-4f0e-a27f-7cd643bda6b6.jpg?ver=1535567610000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/39e976f4-e840-4a99-9933-0725724dd250.jpg?ver=1535567610000"
+  img_alt: "LOCAL BEEF SAVE $6 lb. LOCALLY RAISED COWBOY RIBEYE STEAK members pay 10.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7d17013c-56bf-4115-a3b1-d07a8beb6aef.jpg?ver=1535575130000"
+  img_alt_2: "SAVE $8 CLAM & LOBSTER BAKE FOR TWO members pay 36.99 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a816e95c-d978-4b8d-8f9a-a533ca61eb80.jpg?ver=1535567611000"
+  img_alt: "ORGANIC SAVE $2 ORGANIC LIL&#39; SNAPPERS 3 LB. BAG APPLES members pay 5.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/384d61eb-6853-4044-b2b1-7c8b704426df.jpg?ver=1535567611000"
+  img_alt_2: "LIMITED TIME ONLY! TOSCA PEARS members pay 1.49 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/50a30479-07e6-4e47-a587-edbe48cb478d.jpg?ver=1535567611000"
+  img_alt: "VIEW WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/70ad4322-6096-427a-8b74-53f0c0e53b92.jpg?ver=1535567611000"
+  img_alt: "TOSCA PEARS GREEN, SWEET AND JUICY!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a358941f-4725-4f1e-ab76-9266bbe4e328.jpg?ver=1535567612000"
+  img_alt: "A cross between America's crisp, aromatic Bartlett and Tuscany&#39;s subtly creamy Coscia, TOSCA PEARS provide the perfect marriage of the SEASON&#39;S MOST SUCCULENT FRUIT. AVAILABLE FOR A LIMITED TIME!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8c68d8be-c07b-468a-887f-8d2f806e6170.jpg?ver=1535567613000"
+  img_alt: "Create APPLE, PEAR & PROSCIUTTO PIZZA VIEW RECIPE >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/apple-pear-prosciutto-pizza?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4bfe0fd2-99d5-4ad8-8e8d-4c7d234db922.jpg?ver=1535567612000"
+  img_alt: "LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/apple-pear-prosciutto-pizza?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2b8bdf70-2f54-4b68-9635-1797e8872538.jpg?ver=1535567613000"
+  img_alt: "A PERFECTLY POSH ROSH HASHANAH"
+  url: "https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/97458c3c-8fd4-4092-a65a-1d171a3d8cbd.jpg?ver=1535567613000"
+  img_alt: "EFFORTLESS ENTERTAINING Start the Jewish new year off right with a sensational spread from KINGS CATERING! A beautiful brisket and some oh-so-savory latkes will refresh your palate for the new year. VIEW MENU >"
+  url: "https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/de773760-ef97-4457-90fd-415b203810dc.jpg?ver=1535567613000"
+  img_alt: "CHEF MADE BRISKET"
+  url: "https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/547bae34-a511-44b3-910e-8e493f029ff2.jpg?ver=1535567614000"
+  img_alt_2: "L&#39;Shana Tova! POTATO OR SWEET POTATO LATKES"
+  url_2: "https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cc503452-963a-4e72-a714-90dc14683187.jpg?ver=1535567614000"
+  img_alt: "ROSH HASHANAH SPECIALS SAVE on a wide selection of TRADITIONAL FAVORITES."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bcf66e94-9ed0-43fd-9ce1-da9c95d7d2a4.jpg?ver=1535567614000"
+  img_alt: "ROSH HASHANAH SPECIALS SAVE on a wide selection of TRADITIONAL FAVORITES."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ebfd74b4-a524-4ef2-bfb6-10950a5dc2b3.jpg?ver=1535567615000"
+  img_alt: "VIEW WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a5d6e830-29cb-413c-8928-bc19932acf0a.jpg?ver=1535567615000"
+  img_alt: "JEWISH RECIPE CALENDAR Mark the days ahead with inspiring and delectable RECIPES and PREP TIPS."
+  url: "https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1023da35-7510-4800-9ae6-87e0a168e2e0.jpg?ver=1535567615000"
+  img_alt: "PICK UP YOUR CALENDAR IN-STORE"
+  url: "https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0831_KF_WeeklyEmail"
