@@ -11,6 +11,7 @@ articles:
 
 #__IMAGE_TEMPLATES__
 - type: 'table'
+
   data: [['image', 'images/SPR_090418_02.jpg', '/sl-forward-sprisv/FEL/8032001/10271055/0', 580, 386, 'FEL8032001']]
 
 - type: 'table'
@@ -135,4 +136,5 @@ articles:
 
 - type: 'table'
   data: [['footer', 'images/SPR_090418_104.jpg', '', 580, 127, '', '#0d0d0d', '#FFFFFF', 'linetext1_CUS']]
+
 

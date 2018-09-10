@@ -1,0 +1,69 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0829_KF_Rosh_Yom_Solo'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0829_KF_Rosh_Yom_Solo'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0829_KF_Rosh_Yom_Solo'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0829_KF_Rosh_Yom_Solo'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0829_KF_Rosh_Yom_Solo'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0829_KF_Rosh_Yom_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0829_KF_Rosh_Yom_Solo"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0829_KF_Rosh_Yom_Solo"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0829_KF_Rosh_Yom_Solo"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0829_KF_Rosh_Yom_Solo"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a67c06b7-37dc-46a0-8cc9-77ca442c8c9b.jpg?ver=1535132670000"
+  img_alt: "ROSH HASHANAH & YOM KIPPUR CATERING Make Your Holidays Easy, Elegant and Memorable."
+  url: "https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0829_KF_Rosh_Yom_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a9631856-50a3-4814-a522-0aa3e3237468.jpg?ver=1535132670000"
+  img_alt: "ROSH HASHANAH & YOM KIPPUR CATERING Make Your Holidays Easy, Elegant and Memorable."
+  url: "https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0829_KF_Rosh_Yom_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c261d2ae-8e00-490c-ace2-436e3cb6a4c3.jpg?ver=1535132670000"
+  img_alt: "NEW! ONLINE ORDERING"
+  url: "https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0829_KF_Rosh_Yom_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4d665c2f-23ff-428e-923c-a3dfd12dfa13.jpg?ver=1535132670000"
+  img_alt: "OUR ROSH HASHANAH & YOM KIPPUR MENU IS HERE! Celebrate the holidays with a selection of favorite dishes to delight your family and friends. New! Plan your menu online! ORDER ONLINE >"
+  url: "https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0829_KF_Rosh_Yom_Solo"
+
+
+
