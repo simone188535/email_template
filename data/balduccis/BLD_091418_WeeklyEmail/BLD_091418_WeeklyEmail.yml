@@ -1,0 +1,118 @@
+title: 'A taste of Autumn'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/recipes/spatchcock-chicken-apples-leeks?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c31d7978-07fa-47b2-98d5-119eff5fd154.jpg?ver=1536611942000'
+  img_alt: 'fall in love Recipes and inspiration using fall&#39;s signature ingredients. Recipe idea SPATCHCOCK CHICKEN WITH APPLES AND LEEKS VIEW RECIPE >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail#butchery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/116d819b-da48-4e5a-adf4-d5881dfd5c37.jpg?ver=1536611942000'
+  img_alt: 'COOK WITH THE SEASON! This sweet and savory chicken and apple dish is truly worthy of the season&#39;s best ingredients. Let our butchers spatchcock, quarter or custom cut your chicken in-store.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail#butchery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f29f04d7-2b09-4d5f-84c5-98bffca9ebe8.jpg?ver=1536611943000'
+  img_alt: 'SPATCHCOCK CHICKEN NY STATE APPLES'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cd9fb504-daa3-4162-9412-c9a046defe6e.jpg?ver=1536611943000'
+  img_alt: 'AUTUMN VEGETABLES'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c1753bc1-d6ba-4126-8e07-fc99da6e7f94.jpg?ver=1536611943000'
+  img_alt: 'Fall marks the peak of sweet and versatile SQUASH, like butternut, acorn and spaghetti. Autumn squash is ideal for roasting or braising.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/recipes/sweet-and-spicy-acorn-squash?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/027ab3fb-2587-4435-9996-4220691d23e8.jpg?ver=1536611943000'
+  img_alt: 'Recipe idea SWEET & SPICY ACORN SQUASH VIEW RECIPE >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a72dae9c-40e4-48fc-b8d1-530e628998a1.jpg?ver=1536611944000'
+  img_alt: 'CHEF PREPARED | AUTUMN ON HAND'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c0cdb224-694f-421d-8128-7be226b8f6b1.jpg?ver=1536611944000'
+  img_alt: 'ROASTED CHICKEN WITH LEMON, GARLIC & HERBS'
+  url_2: 'https://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7d5db802-131f-4db5-bdb0-e7a81d190d68.jpg?ver=1536611944000'
+  img_alt_2: 'HARVEST PEAR & BLUE CHEESE SALAD'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail#wine'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9b7aed9f-8029-46a4-b77c-ad523505b910.jpg?ver=1536611944000'
+  img_alt: 'MEMBER EXCLUSIVE | FALL WINES'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail#wine'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/059de5d2-7a64-4145-b697-7baf4c3b6e02.jpg?ver=1536611944000'
+  img_alt: 'WINE PAIRING ORSOLANI ERBALUCE &#34;LA RUSTIA&#34; A perfect partner to rich entrees, Erbaluce offers refreshing scents of spring flowers, citrus and tropical fruit with undertones of mint and sage.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail#wine'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/3ba6f2a1-3975-4a15-af67-4566c53f1042.jpg?ver=1536611945000'
+  img_alt: 'WINERY SPOTLIGHT SCOTT FAMILY CHARDONNAY & PINOT NOIR ARROYO SECO *Wine only at Greenwich, Bethesda, Alexandria, McLean & Reston stores.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/yom-kippur?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e48b0a0-d9f3-4520-91b1-8a8f460e59b5.jpg?ver=1536611945000'
+  img_alt: 'CATERING | BREAK THE FAST'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/yom-kippur?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e60b7fbf-52b7-4e41-90b9-cf4103fd94d7.jpg?ver=1536611945000'
+  img_alt: 'YOM KIPPUR CLASSICS Enjoy a stress-free Yom Kippur with our full-featured menu of favorites like authentic New York bagels, smoked salmon and cream cheese. ORDER ONLINE and let us take care of your holiday spread.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail#grocery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/18ba74fe-dd54-4679-a3ac-f811f6d88f8d.jpg?ver=1536611945000'
+  img_alt: 'WHAT&#39;S NEW'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_BLD_WeeklyEmail#grocery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ea1bc7e9-909a-4db0-8c27-940ca85cac3d.jpg?ver=1536611945000'
+  img_alt: 'AUTHENTIC ITALIAN In-Store Event COMING SOON Join us from 9/21-10/4 for tastings and special savings on a variety of authentic Italian favorites.'
