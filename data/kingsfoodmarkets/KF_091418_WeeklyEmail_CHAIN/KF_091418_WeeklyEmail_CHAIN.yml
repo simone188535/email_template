@@ -1,0 +1,173 @@
+title: 'Sheet pan meals: The weekday wonder'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/57511f7a-9880-4652-a771-11fb7bd15543.jpg?ver=1523539552000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d35f8a9e-2686-4c7a-a7c7-8124147c0255.jpg?ver=1523539552000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3054ff99-7b18-4e91-9586-6b92ec27b279.jpg?ver=1523539552000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec4a23a5-5d59-4058-90ae-7624e03d591e.jpg?ver=1523539552000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4fce3eb0-c9c4-4175-8dad-c02e478c5ea5.jpg?ver=1523539552000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6fa515ca-7053-4d75-9c4c-b29cfdc5c085.jpg?ver=1536680535000"
+  img_alt: "SIMPLY DELICIOUS Savory sheet pan meals are quick, easy and full of flavor. Recipe idea LEMON SOLE WITH WHITE WINE CAPER SAUCE VIEW RECIPE >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/lemon-sole-with-white-wine-caper-sauce?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/65203dca-4a9a-4c16-9050-9f86a37db85e.jpg?ver=1536680535000"
+  img_alt: "SEAFOOD STAFF PICK WHOLE HOLLAND LEMON SOLE"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/41e48d63-5f16-4cd3-b7c5-7012a96dbb25.jpg?ver=1536680535000"
+  img_alt: "PERFECT PAIRING"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/63df3e7d-a4c5-4fd7-b1a6-ab7bf27c78a5.jpg?ver=1536680535000"
+  img_alt: "WHOLE HOLLAND LEMON SOLE This sweet, flaky and firm-fleshed fish makes a SOPHISTICATED CENTERPIECE to any meal, especially when served whole."
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6bcb1cd6-c747-42e3-bf26-9747fcbe7693.jpg?ver=1536680535000"
+  img_alt_2: "LAUREL HILL CAPERBERRIES These tiny delights are HAND PICKED AND PACKED on the hillsides of Spain. Perfect to complement the rich flavor of sole."
+  url_2: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ee09504d-896b-4010-abf5-7d85475bb930.jpg?ver=1536680535000"
+  img_alt: "VIEW MORE >"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3ee7ce1b-cadb-4d8f-9046-82fe3b724023.jpg?ver=1536680536000"
+  img_alt: "FALL COOKING SEASONAL PERFECTION"
+  url: "https://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/70cc6b83-a047-413f-8b75-2d7290ce5248.jpg?ver=1536680536000"
+  img_alt: "Fall brings a bounty of versatile vegetables that shine when braised and roasted. Now is the time to enjoy CARROTS, PARSNIPS, SQUASH and MORE."
+  url: "https://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/925eb7a3-7967-49c5-91ce-5cb0b5e238d8.jpg?ver=1536680536000"
+  img_alt: "SWEET & SPICY ACORN SQUASH VIEW RECIPE >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/sweet-and-spicy-acorn-squash?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8d615fe-52b6-4766-b152-8e70796172c3.jpg?ver=1536680536000"
+  img_alt_2: "FARRO & CURRIED YOGURT WITH RAINBOW CARROTS WATCH VIDEO >"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/farro-with-roasted-carrots-currants-honey-curry-yogurt?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/48445bec-226e-4143-925b-2b1e4ff461bb.jpg?ver=1536680536000"
+  img_alt: "HERB OF THE MONTH SEPTEMBER TARRAGON ONE OF 4 FINES HERBES OF FRENCH COOKING ANISE-LIKE PEPPERY, SPICY"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b4e07162-e940-4a60-b33a-b18309826b4b.jpg?ver=1536680536000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f175ddf8-38e7-42a8-a1da-138c28881bbb.jpg?ver=1536680536000"
+  img_alt: "SAVE $7 lb. USDA KINGS CHOICE PORTERHOUSE STEAK members pay 7.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/910f2407-74b7-42c0-b1a4-9f8b8d8f3f37.jpg?ver=1536680536000"
+  img_alt_2: "SAVE $3 lb. MURRAY&#39;S NON-GMO BONELESS SKINLESS BREASTS members pay 4.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/195c1fcb-6497-4b1c-9f53-521a0447d42b.jpg?ver=1536680537000"
+  img_alt: "GALA APPLES members pay 1.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/28a115d9-39c5-4b0a-bdd5-97d1f0f074ac.jpg?ver=1536680537000"
+  img_alt_2: "ORGANIC PEELED CARROTS 1 LB. BAG members pay 2/4."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7c8d0838-b823-4312-9321-f6e5d12b5d49.jpg?ver=1536680537000"
+  img_alt: "VIEW WEEKLY SALES >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d7c91aa4-6646-4b8e-ab78-51e5d6c5ec6d.jpg?ver=1536680537000"
+  img_alt: "SEASONAL RECIPE COOKING WITH FALL&#39;S FRESHEST FLAVORS"
+  url: "https://kingsfoodmarkets.com/unique-recipes/spatchcock-chicken?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c03af6bf-5440-4c73-a009-3b2bb9da3c1f.jpg?ver=1536680537000"
+  img_alt: "This savory combination of EXCEPTIONAL POULTRY, PEAK-HARVESTED PRODUCE and FRESH HERBS offers a remarkable showcase of the flavors of fall."
+  url: "https://kingsfoodmarkets.com/unique-recipes/spatchcock-chicken?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5fea6209-3603-4fa8-8e2e-55ef2ab3d1e0.jpg?ver=1536680537000"
+  img_alt: "SPATCHCOCK CHICKEN WITH APPLES & LEEKS VIEW RECIPE >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/spatchcock-chicken?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/245ee7d7-af90-4a4b-8aba-e6e12b638035.jpg?ver=1536680538000"
+  img_alt: "NY STATE APPLES LOCAL PROVIDER SPOTLIGHT"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c9ec97d7-4112-44cb-80ad-6e6bc5b539d9.jpg?ver=1536680538000"
+  img_alt: "LOCAL APPLES HUDSON RIVER FRUIT DISTRIBUTORS Our apples are sourced from NEW YORK-AREA GROWERS who provide us with the sweetest, juiciest apples of the season. HUDSON RIVER FRUIT DISTRIBUTORS, one of the largest growers in the region, is a 4TH GENERATION FAMILY OWNED FARM that has been producing apples since 1963."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4db9dda9-2e52-4bcc-9996-79e6e6a4f188.jpg?ver=1536680538000"
+  img_alt: "LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/396c7ffe-87be-4d6e-9326-d8d766e8d9e8.jpg?ver=1536680538000"
+  img_alt: "YOM KIPPUR CATERING HOLIDAY FAVORITES"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/rosh-hashanah-yom-kippur-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/295c1e6e-5150-4ef7-85a9-8957031f83ab.jpg?ver=1536680538000"
+  img_alt: "Bring a beautiful and stress-free end to your YOM KIPPUR with our catering menu featuring favorites like SMOKED SALMON, BAGELS and CREAM CHEESE. ORDER ONLINE >"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/rosh-hashanah-yom-kippur-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a553fd12-c149-4b7c-8b1d-7b65b43b1571.jpg?ver=1536680535000"
+  img_alt: "WHAT&#39;S NEW IN STORE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/78fda895-7a39-4657-bde6-45d4fab54014.jpg?ver=1536680535000"
+  img_alt: "COMING SOON! IN-STORE ITALIAN EVENT Join us from 9/21-10/4 for tastings and special savings on a variety of authentic Italian favorites. LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0914_KF_WeeklyEmail"
