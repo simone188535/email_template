@@ -1,4 +1,10 @@
+from distutils.dir_util import copy_tree
+from shutil import copyfile
+import pyexcel as p
 from emailBuildClass import emailBuilder
+# Needed for automatically sending tests in Mailchimp
+#import mailChimp
+#import os
 
 class OTPBuilder(emailBuilder):
     def __init__(self, crf_file, source_images, emailName):
