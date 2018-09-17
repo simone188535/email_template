@@ -25,6 +25,7 @@ class OTPBuilder(emailBuilder):
         # find and update title
         nameFound = False
         titleFound = False
+        preheaderFound = False
 
         for irow in self.sheet.rows():
             for x in range(0, len(irow) -1):
@@ -34,6 +35,9 @@ class OTPBuilder(emailBuilder):
                 elif irow[x].strip() == "Subject Line:":
                     self.fileContents = self.fileContents.replace("__TITLE__", irow[x+1])
                     titleFound = True
+                elif irow[x].strip() == "Pre-header:":
+                    self.fileContents = self.fileContents.replace("__PREHEADER__", irow[x+1])
+                    preheaderFound = True
                 if nameFound and titleFound:
                     break
             if nameFound and titleFound:
