@@ -17,35 +17,12 @@ viewaswebpage_link: '#'
 # Loop through articles
 articles:
 
-- type: 'image'
-  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_091418_09.jpg'
-  image_alt: 'Fall Customer Appreciation 20% OFF COUPON ONE REGULAR PRICED ITEM | Friday, September 14TH - Sunday, September 16TH [Get Coupon]'
-  image_link: 'https://oldtimepottery.com/coupons?utm_source=otp_weekly09_14&utm_medium=email&utm_campaign=3day_chair_Sale&utm_term=discount_home_decor&utm_content=coupon'
+#- type: 'image'
+#  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_091418_09.jpg'
+#  image_alt: 'Fall Customer Appreciation 20% OFF COUPON ONE REGULAR PRICED ITEM | Friday, September 14TH - Sunday, September 16TH [Get Coupon]'
+#  image_link: 'https://oldtimepottery.com/coupons?utm_source=otp_weekly09_14&utm_medium=email&utm_campaign=3day_chair_Sale&utm_term=discount_home_decor&utm_content=coupon'
 
-- type: 'image'
-  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_091418_12.jpg'
-  image_alt: 'UPHOLSTERED CHAIR 3-DAY SALE SAVE BIG THIS WEEKEND ONLY! THREE FAVORITE STYLES TO CHOOSE FROM! [See More] Selection varies by store.'
-  image_link: 'https://oldtimepottery.com/departments/home-decor/furniture.html?utm_source=otp_weekly09_14&utm_medium=email&utm_campaign=3day_chair_Sale&utm_term=discount_home_decor&utm_content=chair_Hero'
-
-- type: 'image'
-  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_091418_15.jpg'
-  image_alt: 'SAVE $50 FRI-SUN ONLY ONLY ON THESE FAVORITES! Flare SALE $99.99 REG. $149.99 Sweetheart SALE $99.99 REG. $149.99 Track Arm SALE $99.99 REG. $149.99'
-  image_link: 'https://oldtimepottery.com/departments/home-decor/furniture.html?utm_source=otp_weekly09_14&utm_medium=email&utm_campaign=3day_chair_Sale&utm_term=discount_home_decor&utm_content=flare_sweetheart_trackArm'
-
-- type: 'image'
-  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_091418_18.jpg'
-  image_alt: 'PLUS, BROWSE OUR NEWEST STYLES AT GREAT LOW PRICES! Settee REG. $199.99 Wing Slipper REG. $129.99 Ottomans REG. $59.99 - $129.99 [See More]'
-  image_link: 'https://oldtimepottery.com/departments/home-decor/furniture.html?utm_source=otp_weekly09_14&utm_medium=email&utm_campaign=3day_chair_Sale&utm_term=discount_home_decor&utm_content=Browse_selection'
-
-- type: 'image'
-  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_091418_21.jpg'
-  image_alt: 'RED TAG CLEARANCE 14,000 ITEMS INCLUDED 25% OFF LOOK FOR THE RED STICKER & SAVE! YELLOW TAG CLEARANCE ALL ACROSS THE STORE 60% OFF GET THEM WHILE YOU STILL CAN! [Save] Red Tag Clearance will be arriving at all stores soon, but is currently unavailable at the following locations: Fort Myers, FL; Largo, FL; New Port Richey, FL; Stuart, FL; Fairview Heights, IL; Rockford, IL & Murfreesboro, TN.'
-  image_link: 'https://oldtimepottery.com/clearance?utm_source=otp_weekly09_14&utm_medium=email&utm_campaign=3day_chair_Sale&utm_term=discount_home_decor&utm_content=redtag_yellowtag'
-
-- type: 'image'
-  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_084_090318_v1_r4_FNL_07.jpg'
-  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
-  image_link: 'http://instagram.com/oldtimepottery?utm_source=otp_weekly09_14&utm_medium=email&utm_campaign=3day_chair_Sale&utm_term=discount_home_decor&utm_content=otp_Instagram'
+#__IMAGE_TEMPLATES__
 
 - type: 'images-2-columns'
   image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'

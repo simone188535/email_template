@@ -45,11 +45,5 @@ class OTPBuilder(emailBuilder):
 
         # More work needed here...See (defunct) bbB.py file for an example
 
-
-    def loadData(self):
-        super(KFLoyalty, self).loadData()
-        self.layoutSheetName = "Layout"
-        self.layoutsheet = self.workbook.sheet_by_name(self.layoutSheetName)
-
     def generateYmlContent(self):
     	# Do we need to hook into this to adjust how the images are found and pulled in? See KF.py for reference.
