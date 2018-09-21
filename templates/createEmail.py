@@ -11,7 +11,7 @@ from BLD.BLD import BLDNoHeaderFooter
 from KF.KF import KFLoyalty
 from KF.KF import KFGeneric
 from SPR.SPR import SPRBuilder
-from OTP.OTP import OTPBuilder
+#from OTP.OTP import OTPBuilder
 from genericEmail import genericEmailBuilder
 
 reload(sys)
@@ -41,8 +41,8 @@ class generateEmail(object):
             builder = genericEmailBuilder(**kwargs)
         elif str(project).strip().upper() == "SPR":
             builder = SPRBuilder(**kwargs)
-        elif str(project).strip().upper() == "OTP":
-            builder = OTPBuilder(**kwargs)
+ #       elif str(project).strip().upper() == "OTP":
+ #           builder = OTPBuilder(**kwargs)
         else:
             printUsageAndExit()
 
