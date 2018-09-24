@@ -1,0 +1,129 @@
+title: 'Sophisticated. Delicious. Whole Holland Dover Sole.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/recipes/dover-sole-white-wine-caper-sauce?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/89bfa585-360f-4049-9dae-83d25d7a5b5a.jpg?ver=1537815139000'
+  img_alt: 'Roasting Perfection Fresh fish and fall vegetables are ready for the oven. Recipe idea Dover Sole with White Wine Caper Sauce View Recipe >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail#seafood'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/14fb1470-094b-4ec9-a2a6-3573e10b1f49.jpg?ver=1537815139000'
+  img_alt: 'Seafood Staff Pick'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail#seafood'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ed1b5688-1f3b-4ded-9b39-22d2cf37e3cd.jpg?ver=1537815139000'
+  img_alt: 'Whole Holland Dover Sole The stately flavor of this fish shines in a variety of preparations. Ask our fishmongers for a fillet of Dover sole that is ready for the oven.'
+
+- type: 'image'
+  url: '#'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0998b4fb-19ca-4685-ab58-5d14f00cd07f.jpg?ver=1537815139000'
+  img_alt: 'Perfect Pairings'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail#wine'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6b82e701-39dd-406d-bfc4-046b8c9a5106.jpg?ver=1537815139000'
+  img_alt: 'Orsolani Erbaluce &#34;La Rustia&#34; A crisp white with a refreshing acidity and hints of exotic fruit, licorice, mint and sage.'
+  url_2: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail#wine'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/673d8ee0-a58b-49ec-be68-b1b8212d6b7a.jpg?ver=1537815139000'
+  img_alt_2: 'Laurel Hill Caperberries These tiny delights are hand-picked and packed on the hillsides of Spain. Perfect to complement the rich flavor of sole.'
+
+- type: 'image'
+  url: '#'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b3869072-ebb9-47ae-ae33-bf9959a70618.jpg?ver=1537815139000'
+  img_alt: '*Wine only at Greenwich, Bethesda, Alexandria, McLean & Reston stores.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/58dd8c10-d971-4050-87f4-0d17130bef14.jpg?ver=1537815140000'
+  img_alt: 'Roasted Perfection | Harvest Veggies'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/16ce724b-d4cd-4d1b-b632-4962cf7bfb27.jpg?ver=1537815140000'
+  img_alt: 'Halved or Shaved Brussels Sprouts Member Exclusive 5.49/LB Reg 6.99'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/recipes/brussels-sprouts-applewood-smoked-bacon?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0a205e70-c0b1-4a29-90d3-512abd3cbb12.jpg?ver=1537815140000'
+  img_alt: 'Recipe idea Brussels Sprouts with Applewood Smoked Bacon View Recipe >'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4e0165d4-6697-4b20-b1ca-e561ee079bad.jpg?ver=1537815140000'
+  img_alt: 'Organic Honeycrisp Apples Member Exclusive 3.99/LB Reg 4.99'
+  url_2: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail#produce'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b60d95e9-9421-46e6-b3e7-b633b629120e.jpg?ver=1537815140000'
+  img_alt_2: 'Broccoli'
+
+- type: 'image'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d8a727bf-5652-40b8-8643-3e1125bdffb1.jpg?ver=1537815140000'
+  img_alt: 'Chef Prepared | Seasonal Sensations'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/429baa1f-9bdc-4bca-ada4-6ff4f930e3ac.jpg?ver=1537815140000'
+  img_alt: 'Apple Glazed Roast Chicken'
+  url_2: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f535f143-f152-4a4b-83da-57c358b1e5c4.jpg?ver=1537815140000'
+  img_alt_2: 'Roasted Squash & Parsnips with Apples'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail#patisserie'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e4d7d26-a962-43c6-933c-6c6b97c70f0a.jpg?ver=1537815140000'
+  img_alt: 'Patisserie | Fresh Baked Fall Flavor'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail#patisserie'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6c4c1d20-6121-4da7-8e89-cba73781760f.jpg?ver=1537815141000'
+  img_alt: 'Balducci&#39;s Apple Pie'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail#grocery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0da76b56-359e-4eec-923f-cd9b33b10ea1.jpg?ver=1537815141000'
+  img_alt: 'Join Us For An Italian Event'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0928_BLD_WeeklyEmail#grocery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/30d08449-16cf-45e9-abda-c74fc649fd5f.jpg?ver=1537815141000'
+  img_alt: 'Celebrate Italian Join us in-store through Oct. 4th for a showcase of authentic Italian products, specials and tasting demos. Tastings at select locations Learn More >'
