@@ -1,0 +1,66 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_02.jpg', '/sl-forward-sprisv/LLR/83109A203/1041663161/577-854', 580, 377, 'LLR83109A203 - Orange']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_03.jpg', '/sl-forward-sprisv/LLR/83109A203/1041663161/577-854', 242, 162, 'LLR83109A203 - Orange'], ['image', 'images/SPR_101818_CA_Furniture_04.jpg', '/sl-forward-sprisv/LLR/83109/1041663157/257-218', 62, 162, 'LLR83109 - Black'], ['image', 'images/SPR_101818_CA_Furniture_05.jpg', '/sl-forward-sprisv/LLR/83109A204/1041663162/637-406', 76, 162, 'LLR83109A204 - Dark Blue'], ['image', 'images/SPR_101818_CA_Furniture_06.jpg', '/sl-forward-sprisv/LLR/83109A203/1041663161/577-854', 200, 162, 'LLR83109A203 - Orange']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_07.jpg', '/sl-forward-sprisv/LLR/83109A203/1041663161/577-854', 380, 291, 'LLR83109A203 - Orange'], ['image', 'images/SPR_101818_CA_Furniture_08.jpg', '/sl-forward-sprisv/LLR/83109/1041663157/257-218', 200, 291, 'LLR83109 - Black']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_09.jpg', '/sl-forward-sprisv/LLR/83109A203/1041663161/577-854', 580, 22, 'LLR83109A203 - Orange']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_10.jpg', '/sl-forward-sprisv/LLR/83109A203/1041663161/577-854', 380, 70, 'LLR83109A203 - Orange'], ['image', 'images/SPR_101818_CA_Furniture_11.jpg', '/sl-forward-sprisv/LLR/83109A204/1041663162/637-406', 200, 70, 'LLR83109A204 - Dark Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_12.jpg', '/sl-forward-sprisv/LLR/83109A203/1041663161/577-854', 391, 44, 'LLR83109A203 - Orange'], ['text', 'images/SPR_101818_CA_Furniture_13.jpg', '/sl-forward-sprisv/LLR/83109A203/1041663161/577-854', 189, 44, 'LLR83109A203 - Orange', '#ffffff', '#000000', 'linetext1_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_14.jpg', '/sl-forward-sprisv/LLR/83109A203/1041663161/577-854', 580, 69, 'LLR83109A203 - Orange']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_15.jpg', '/sl-forward-sprisv/DEF/CM11142PC/1021070157/382-970', 580, 222, 'DEFCM11142PC - 48&#34; Length x 36&#34; Width']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_16.jpg', '/sl-forward-sprisv/DEF/CM11142PC/1021070157/382-970', 193, 179, 'DEFCM11142PC - 48&#34; Length x 36&#34; Width'], ['image', 'images/SPR_101818_CA_Furniture_17.jpg', '/sl-forward-sprisv/DEF/CM11242PC/1021070158/835-191', 187, 179, 'DEFCM11242PC - 53&#34; Length x 45&#34; Width'], ['image', 'images/SPR_101818_CA_Furniture_18.jpg', '/sl-forward-sprisv/DEF/CM11442FPC/1021070159/465-556', 200, 179, 'DEFCM11442FPC - 60&#34; Length x 46&#34; Width']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_19.jpg', '/sl-forward-sprisv/DEF/CM11142PC/1021070157/382-970', 19, 44, 'DEFCM11142PC - 48&#34; Length x 36&#34; Width'], ['text', 'images/SPR_101818_CA_Furniture_20.jpg', '/sl-forward-sprisv/DEF/CM11142PC/1021070157/382-970', 174, 44, 'DEFCM11142PC - 48&#34; Length x 36&#34; Width', '#ffffff', '#000000', 'linetext2_CUS'], ['image', 'images/SPR_101818_CA_Furniture_21.jpg', '/sl-forward-sprisv/DEF/CM11242PC/1021070158/835-191', 12, 44, 'DEFCM11242PC - 53&#34; Length x 45&#34; Width'], ['text', 'images/SPR_101818_CA_Furniture_22.jpg', '/sl-forward-sprisv/DEF/CM11242PC/1021070158/835-191', 175, 44, 'DEFCM11242PC - 53&#34; Length x 45&#34; Width', '#ffffff', '#000000', 'linetext3_CUS'], ['image', 'images/SPR_101818_CA_Furniture_23.jpg', '/sl-forward-sprisv/DEF/CM11442FPC/1021070159/465-556', 12, 44, 'DEFCM11442FPC - 60&#34; Length x 46&#34; Width'], ['text', 'images/SPR_101818_CA_Furniture_24.jpg', '/sl-forward-sprisv/DEF/CM11442FPC/1021070159/465-556', 188, 44, 'DEFCM11442FPC - 60&#34; Length x 46&#34; Width', '#ffffff', '#000000', 'linetext4_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_25.jpg', '/sl-forward-sprisv/DEF/CM11142PC/1021070157/382-970', 193, 50, 'DEFCM11142PC - 48&#34; Length x 36&#34; Width'], ['image', 'images/SPR_101818_CA_Furniture_26.jpg', '/sl-forward-sprisv/DEF/CM11242PC/1021070158/835-191', 187, 50, 'DEFCM11242PC - 53&#34; Length x 45&#34; Width'], ['image', 'images/SPR_101818_CA_Furniture_27.jpg', '/sl-forward-sprisv/DEF/CM11442FPC/1021070159/465-556', 200, 50, 'DEFCM11442FPC - 60&#34; Length x 46&#34; Width']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_28.jpg', '/sl-forward-sprisv/LLR/83113/1041663168/843-385', 123, 214, 'LLR83113 - Black'], ['image', 'images/SPR_101818_CA_Furniture_29.jpg', '/sl-forward-sprisv/LLR/83113A203/1041663169/445-214', 115, 214, 'LLR83113A203 - Orange'], ['image', 'images/SPR_101818_CA_Furniture_30.jpg', '/sl-forward-sprisv/LLR/83113A204/1041663170/313-784', 342, 214, 'LLR83113A204 - Dark Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_31.jpg', '/sl-forward-sprisv/LLR/83113/1041663168/843-385', 193, 216, 'LLR83113 - Black'], ['image', 'images/SPR_101818_CA_Furniture_32.jpg', '/sl-forward-sprisv/LLR/83113A204/1041663170/313-784', 387, 216, 'LLR83113A204 - Dark Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_33.jpg', '/sl-forward-sprisv/LLR/83113A203/1041663169/445-214', 193, 23, 'LLR83113A203 - Orange'], ['image', 'images/SPR_101818_CA_Furniture_34.jpg', '/sl-forward-sprisv/LLR/83113A204/1041663170/313-784', 387, 23, 'LLR83113A204 - Dark Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_35.jpg', '/sl-forward-sprisv/LLR/83113A204/1041663170/313-784', 580, 70, 'LLR83113A204 - Dark Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_36.jpg', '/sl-forward-sprisv/LLR/83113A204/1041663170/313-784', 18, 43, 'LLR83113A204 - Dark Blue'], ['text', 'images/SPR_101818_CA_Furniture_37.jpg', '/sl-forward-sprisv/LLR/83113A204/1041663170/313-784', 175, 43, 'LLR83113A204 - Dark Blue', '#ffffff', '#000000', 'linetext5_CUS'], ['image', 'images/SPR_101818_CA_Furniture_38.jpg', '/sl-forward-sprisv/LLR/83113A204/1041663170/313-784', 387, 43, 'LLR83113A204 - Dark Blue']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101818_CA_Furniture_39.jpg', '/sl-forward-sprisv/LLR/83113A204/1041663170/313-784', 580, 62, 'LLR83113A204 - Dark Blue']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_101818_CA_Furniture_40.jpg', '', 580, 127, '', '#7a432f', '#FFFFFF', 'linetext6_CUS']]
+
