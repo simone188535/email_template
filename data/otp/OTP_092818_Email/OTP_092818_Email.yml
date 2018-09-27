@@ -1,0 +1,83 @@
+title: 'Fall and Winter Holiday Fun Galore! U+1F383 U+1F384'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_092718_05.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "https://oldtimepottery.com/?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=opt_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_092718_06.jpg"
+outdoor_img_alt: "HARVEST IS HERE [Get Inspired]"
+outdoor_img_link: "https://oldtimepottery.com/harvest?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=opt_harvest"
+
+preheader_text: 'Come in now for our best holiday styles!'
+preheader_link: 'https://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_092718_09.jpg'
+  image_alt: 'SPOOKY, SWEET AND FUN! We&#39;ve got all you need to keep Halloween on the adorable side. [Learn More]'
+  image_link: 'https://oldtimepottery.com/halloween?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=opt_halloween'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/harvest_anim_r3_FNL.gif'
+  image_alt: 'FALL IN LOVE WITH BEAUTIFUL FLORAL Refresh your home with beautiful harvest hues you&#39;ll love. [Learn More]'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/harvest-88/fall-floral.html?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=fall_floral'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_092718_15.jpg'
+  image_alt: 'FALL IN LOVE WITH BEAUTIFUL FLORAL Refresh your home with beautiful harvest hues you&#39;ll love. [Learn More]'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/harvest-88/fall-floral.html?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=fall_floral'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_092718_18.jpg'
+  image_alt: '&#39;TIS THE SEASON FOR A GREAT SELECTION! Light up the holidays with our amazing assortment of trees! [Learn More]'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/christmas/christmas-trees.html?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=christmas_tree_selection'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_092718_21.jpg'
+  image_alt: 'Get Game Day Ready! 25% OFF College Gear Selection Varies by Store'
+  image_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=game_day_ready'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_092718_24.jpg'
+  image_alt: 'RED TAG CLEARANCE 14,000 ITEMS INCLUDED 25% OFF LOOK FOR THE RED STICKER & SAVE! YELLOW TAG CLEARANCE ALL ACROSS THE STORE 60% OFF GET THEM WHILE YOU STILL CAN! [Save]'
+  image_link: 'https://oldtimepottery.com/clearance?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=red_tag_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_084_090318_v1_r4_FNL_07.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=otp_instagram'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=otp_giftcards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=otp_account'
+
+socialnav:
+- link: "http://instagram.com/oldtimepottery?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=spooky_sweet_fun&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"
