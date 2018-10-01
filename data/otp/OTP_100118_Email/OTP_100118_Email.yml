@@ -1,0 +1,96 @@
+title: 'Thank You for Being a Wholesale Business Partner!'
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_100118_05.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "https://oldtimepottery.com/?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_100118_06.jpg"
+outdoor_img_alt: "Old Time Pottery Logo"
+outdoor_img_link: "https://oldtimepottery.com/?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_logo"
+
+preheader_text: 'Use your OTP Bucks across the store!'
+preheader_link: 'https://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_100118_09.jpg'
+  image_alt: 'THANK YOU! Thank you for using Old Time Pottery as a partner for your business or organization and being a part of our Wholesale Discount Program.  As a special incentive for every Wholesale Discount purchase you make from now until October 21, you will receive $5 OTP Bucks to use on any purchase before October 31. $5 OTP Bucks For your reference below is a list of our Wholesale Partner benefits. Tax Exempt & Resale Businesses 20% Off: Wicker Baskets | Floral Bushes | Stems and Sprays | Greenery | Greenery Bushes 10% off all other merchandise. $100 minimum purchase for discount to be applied. Nonprofit 20% Off: Wicker Baskets | Floral Bushes | Stems and Sprays | Greenery | Greenery Bushes 10% off all other merchandise. No minimum purchase requirement for registered Nonprofit members. Other Terms • The wholesale discount is valid only at the store that you registered at and not valid at all Old Time Pottery locations. • Wholesale purchases can only be made at the customer service register. • No refunds or exchanges are allowed on wholesale merchandise. • Wholesale discounts do not apply to the following items: Sale Merchandise, Clearance Merchandise, Red Tagged Merchandise, Distressed or other reduced pricing.'
+  image_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_100118_12.jpg'
+  image_alt: 'MORE SOLUTIONS, MORE SELECTION Rugs & Floor Covering'
+  image_link: 'https://oldtimepottery.com/departments/home-decor/rugs.html?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_rugs'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_100118_15.jpg'
+  image_first_alt: 'Open Stock Glassware'
+  image_first_link: 'https://oldtimepottery.com/departments/dining-entertaining/drinkware.html?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_drinkware'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_100118_16.jpg'
+  image_second_alt: 'Open Stock Dinnerware'
+  image_second_link: 'https://oldtimepottery.com/departments/dining-entertaining/dinnerware.html?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_dinnerware'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_100118_19.jpg'
+  image_first_alt: 'Accent Furniture & Lighting'
+  image_first_link: 'https://oldtimepottery.com/departments/home-decor.html?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_decor'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_100118_20.jpg'
+  image_second_alt: 'Seating'
+  image_second_link: 'https://oldtimepottery.com/departments/home-decor.html?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_decor'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_100118_23.jpg'
+  image_alt: 'Wall Décor & Art'
+  image_link: 'https://oldtimepottery.com/departments/home-decor/wall-decor.html?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_wall_decor'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_100118_26.jpg'
+  image_first_alt: 'Decorative Items'
+  image_first_link: 'https://oldtimepottery.com/departments/home-decor/decorative-accessories.html?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_decorative_accessories'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_100118_27.jpg'
+  image_second_alt: 'Floral'
+  image_second_link: 'https://oldtimepottery.com/departments/floral.html?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_floral'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_100118_30.jpg'
+  image_alt: 'Planters & Plant Stands'
+  image_link: 'https://oldtimepottery.com/?utm_source=otp_weekly09-28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_logo'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_084_090318_v1_r4_FNL_07.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_instagram'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_giftcards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_account'
+
+socialnav:
+- link: "http://instagram.com/oldtimepottery?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "hhttps://www.facebook.com/oldtimepottery?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "hhttps://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery?utm_source=otp_weekly09_28&utm_medium=email&utm_campaign=otp_wholeseller&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"
