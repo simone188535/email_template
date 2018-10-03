@@ -1,0 +1,88 @@
+title: 'Branzino: The most important fish story of the year.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail'
+  img: ''
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail#seafood'
+  img: ''
+  img_alt: 'Exclusive First Harvest Branzino'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail#seafood'
+  img: ''
+  img_alt: 'The Most Important Fish Story of the Year Born in the Mediterranean, raised in Waterbury, CT, by methods so basic, so logical and responsible, that these fish are the cleanest, safest, purest - and most delicious you&#39;ll find. Our Branzino is at its peak of freshness, delivered to our stores in less than 48 hours.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail#seafood'
+  img: ''
+  img_alt: 'How to Buy | Pick the Purest Fish'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail#seafood'
+  img: ''
+  img_alt: 'Our fishmongers carefully inspect every fish for freshness, and all of our Branzino have clear eyes and bright, firm gills - telltale signs of quality. We offer our fish two ways for your convenience: • Cleaned and prepped whole, ready for your favorite herbs and seasonings • Ready for the oven, dressed with lemon and herbs by our fishmongers'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail#seafood'
+  img: ''
+  img_alt: 'Fresh Whole Fish Branzino are best cooked whole, and serve 1-2 people per fish. We will happily remove the scales for you.'
+  url_2: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail#seafood'
+  img_2: ''
+  img_alt_2: 'Or Oven-Ready Choose a cleaned and dressed fish, stuffed with lemon & herbs by our fishmongers.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail#seafood'
+  img: ''
+  img_alt: 'Just drizzle with olive oil, cracked black pepper and sea salt, and roast at 425˚ for 12-15 min.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/recipes/sheet-pan-roasted-branzino-fennel?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail'
+  img: ''
+  img_alt: 'Recipe idea Sheet Pan Roasted Branzino with Fennel and Mint View Recipe >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail#seafood'
+  img: ''
+  img_alt: 'Purveyor Spotlight | Ideal Fish'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_BLD_WeeklyEmail#seafood'
+  img: ''
+  img_alt: 'Ideal Fish chose Balducci&#39;s as their exclusive retail partner to offer the first harvest of their superbly fresh Branzino. Raised in a sustainable closed aquaculture system facility utilizing no GMOs, pathogens or antibiotics, these fish are healthy, pure and meet the highest standards of quality.'
