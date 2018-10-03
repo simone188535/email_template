@@ -1,0 +1,105 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_02.jpg', '/sl-forward-sprisv/QRT/G5028E/1041663354/683-932', 580, 377, 'QRTG5028E']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_03.jpg', '/sl-forward-sprisv/QRT/79552/1037699676/159-935', 197, 156, 'QRT79552'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_04.jpg', '/sl-forward-sprisv/QRT/GDP186/1035845365/810-746', 383, 156, 'QRTGDP186']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_05.jpg', '/sl-forward-sprisv/QRT/79552/1037699676/159-935', 286, 100, 'QRT79552'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_06.jpg', '/sl-forward-sprisv/QRT/GDP186/1035845365/810-746', 294, 100, 'QRTGDP186']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_07.jpg', '/sl-forward-sprisv/QRT/G5028E/1041663354/683-932', 193, 175, 'QRTG5028E'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_08.jpg', '/sl-forward-sprisv/QRT/79552/1037699676/159-935', 194, 175, 'QRT79552'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_09.jpg', '/sl-forward-sprisv/QRT/GDP186/1035845365/810-746', 193, 175, 'QRTGDP186']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_10.jpg', '/sl-forward-sprisv/QRT/G5028E/1041663354/683-932', 59, 43, 'QRTG5028E'], ['text', 'images/SPR_101018_Q4Fave_AutumnLeaves_11.jpg', '/sl-forward-sprisv/QRT/G5028E/1041663354/683-932', 179, 43, 'QRTG5028E', '#ece3c4', '#000000', 'linetext1_CUS'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_12.jpg', '/sl-forward-sprisv/QRT/79552/1037699676/159-935', 21, 43, 'QRT79552'], ['text', 'images/SPR_101018_Q4Fave_AutumnLeaves_13.jpg', '/sl-forward-sprisv/QRT/79552/1037699676/159-935', 161, 43, 'QRT79552', '#ece3c4', '#000000', 'linetext2_CUS'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_14.jpg', '/sl-forward-sprisv/QRT/GDP186/1035845365/810-746', 17, 43, 'QRTGDP186'], ['text', 'images/SPR_101018_Q4Fave_AutumnLeaves_15.jpg', '/sl-forward-sprisv/QRT/GDP186/1035845365/810-746', 143, 43, 'QRTGDP186', '#ece3c4', '#000000', 'linetext3_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_16.jpg', '/sl-forward-sprisv/QRT/G5028E/1041663354/683-932', 193, 43, 'QRTG5028E'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_17.jpg', '/sl-forward-sprisv/QRT/79552/1037699676/159-935', 194, 43, 'QRT79552'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_18.jpg', '/sl-forward-sprisv/QRT/GDP186/1035845365/810-746', 193, 43, 'QRTGDP186']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_19.jpg', '/sl-forward-sprisv/SWI/64702/1041663461/905-232', 324, 356, 'SWI64702'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_20.jpg', '/sl-forward-sprisv/SWI/35481/1041663453/453-538', 256, 356, 'SWI35481']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_21.jpg', '/sl-forward-sprisv/SWI/64702/1041663461/905-232', 290, 141, 'SWI64702'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_22.jpg', '/sl-forward-sprisv/SWI/35481/1041663453/453-538', 290, 141, 'SWI35481']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_23.jpg', '/sl-forward-sprisv/SWI/64702/1041663461/905-232', 112, 44, 'SWI64702'], ['text', 'images/SPR_101018_Q4Fave_AutumnLeaves_24.jpg', '/sl-forward-sprisv/SWI/64702/1041663461/905-232', 257, 44, 'SWI64702', '#8d3c29', '#FFFFFF', 'linetext4_CUS'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_25.jpg', '/sl-forward-sprisv/SWI/35481/1041663453/453-538', 25, 44, 'SWI35481'], ['text', 'images/SPR_101018_Q4Fave_AutumnLeaves_26.jpg', '/sl-forward-sprisv/SWI/35481/1041663453/453-538', 186, 44, 'SWI35481', '#8d3c29', '#FFFFFF', 'linetext5_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_27.jpg', '/sl-forward-sprisv/SWI/64702/1041663461/905-232', 290, 43, 'SWI64702'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_28.jpg', '/sl-forward-sprisv/SWI/35481/1041663453/453-538', 290, 43, 'SWI35481']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_29.jpg', '/sl-forward-sprisv/FLR/FCDE2036G/1041662987/913-614', 580, 208, 'FLRFCDE2036G']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_30.jpg', '/sl-forward-sprisv/FLR/FCDE2036G/1041662987/913-614', 390, 42, 'FLRFCDE2036G'], ['text', 'images/SPR_101018_Q4Fave_AutumnLeaves_31.jpg', '/sl-forward-sprisv/FLR/FCDE2036G/1041662987/913-614', 190, 42, 'FLRFCDE2036G', '#8d3c29', '#FFFFFF', 'linetext6_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_32.jpg', '/sl-forward-sprisv/FLR/FCDE2036G/1041662987/913-614', 580, 42, 'FLRFCDE2036G']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_33.jpg', '/sl-forward-sprisv/FLR/FCDE1924G/1041662986/742-711', 580, 74, 'FLRFCDE1924G']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_34.jpg', '/sl-forward-sprisv/FEL/4656201/1041662975/180-200', 394, 42, 'FEL4656201 - 10 sheets per pass'], ['text', 'images/SPR_101018_Q4Fave_AutumnLeaves_35.jpg', '/sl-forward-sprisv/FLR/FCDE1924G/1041662986/742-711', 186, 42, 'FLRFCDE1924G', '#8b3d29', '#FFFFFF', 'linetext7_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_36.jpg', '/sl-forward-sprisv/FEL/4656201/1041662975/180-200', 346, 42, 'FEL4656201 - 10 sheets per pass'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_37.jpg', '/sl-forward-sprisv/FLR/FCDE1924G/1041662986/742-711', 234, 42, 'FLRFCDE1924G']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_38.jpg', '/sl-forward-sprisv/FEL/4656201/1041662975/180-200', 290, 370, 'FEL4656201 - 10 sheets per pass'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_39.jpg', '/sl-forward-sprisv/FEL/4680001/1027900701/797-710', 290, 370, 'FEL4680001 - 130 sheets per pass']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_40.jpg', '/sl-forward-sprisv/FEL/4656201/1041662975/180-200', 197, 164, 'FEL4656201 - 10 sheets per pass'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_41.jpg', '/sl-forward-sprisv/FEL/4680001/1027900701/797-710', 383, 164, 'FEL4680001 - 130 sheets per pass']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_42.jpg', '/sl-forward-sprisv/FEL/4656201/1041662975/180-200', 62, 42, 'FEL4656201 - 10 sheets per pass'], ['text', 'images/SPR_101018_Q4Fave_AutumnLeaves_43.jpg', '/sl-forward-sprisv/FEL/4656201/1041662975/180-200', 163, 42, 'FEL4656201 - 10 sheets per pass', '#ffffff', '#000000', 'linetext8_CUS'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_44.jpg', '/sl-forward-sprisv/FEL/4680001/1027900701/797-710', 22, 42, 'FEL4680001 - 130 sheets per pass'], ['text', 'images/SPR_101018_Q4Fave_AutumnLeaves_45.jpg', '/sl-forward-sprisv/FEL/4680001/1027900701/797-710', 144, 42, 'FEL4680001 - 130 sheets per pass', '#ffffff', '#000000', 'linetext9_CUS'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_46.jpg', '/sl-forward-sprisv/FEL/4680001/1027900701/797-710', 189, 42, 'FEL4680001 - 130 sheets per pass']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_47.jpg', '/sl-forward-sprisv/FEL/4656201/1041662975/180-200', 197, 49, 'FEL4656201 - 10 sheets per pass'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_48.jpg', '/sl-forward-sprisv/FEL/4680001/1027900701/797-710', 383, 49, 'FEL4680001 - 130 sheets per pass']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_49.jpg', '/sl-forward-sprisv/DAX/186S3T/1021069832/992-245', 580, 425, 'DAX1826S3T']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_50.jpg', '/sl-forward-sprisv/DAX/186S3T/1021069832/992-245', 373, 178, 'DAX1826S3T'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_51.jpg', '/sl-forward-sprisv/MMM/810P10K/11965472/809-398', 207, 178, 'MMM810P10K']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_52.jpg', '/sl-forward-sprisv/DAX/186S3T/1021069832/992-245', 159, 43, 'DAX1826S3T'], ['text', 'images/SPR_101018_Q4Fave_AutumnLeaves_53.jpg', '/sl-forward-sprisv/DAX/186S3T/1021069832/992-245', 257, 43, 'DAX1826S3T', '#f3e3a8', '#000000', 'linetext10_CUS'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_54.jpg', '/sl-forward-sprisv/MMM/810P10K/11965472/809-398', 19, 43, 'MMM810P10K'], ['text', 'images/SPR_101018_Q4Fave_AutumnLeaves_55.jpg', '/sl-forward-sprisv/MMM/810P10K/11965472/809-398', 145, 43, 'MMM810P10K', '#f3e3a8', '#000000', 'linetext11_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_56.jpg', '/sl-forward-sprisv/DAX/186S3T/1021069832/992-245', 373, 40, 'DAX1826S3T'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_57.jpg', '/sl-forward-sprisv/MMM/810P10K/11965472/809-398', 207, 40, 'MMM810P10K']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_58.jpg', '/sl-forward-sprisv/MMM/810P10K/11965472/809-398', 580, 304, 'MMM810P10K']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_59.jpg', '/sl-forward-sprisv/MMM/STL330BK/1041663286/341-737', 350, 216, 'MMMSTL330BK'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_60.jpg', '/sl-forward-sprisv/MMM/XTRM3312TRYX/1045537478/774-764', 230, 216, 'MMMXTRM3312TRYX - 12 Pads/Pack']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_61.jpg', '/sl-forward-sprisv/MMM/XTRM3312TRYX/1045537478/774-764', 580, 129, 'MMMXTRM3312TRYX - 12 Pads/Pack']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_62.jpg', '/sl-forward-sprisv/MMM/STL330BK/1041663286/341-737', 193, 165, 'MMMSTL330BK'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_63.jpg', '/sl-forward-sprisv/MMM/XTRM3312TRYX/1045537478/774-764', 194, 165, 'MMMXTRM3312TRYX - 12 Pads/Pack'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_64.jpg', '/sl-forward-sprisv/MMM/XTRM3332CBNT/1045537479/211-429', 193, 165, 'MMMXTRM3332CBNT - 36 Pads/Pack']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_65.jpg', '/sl-forward-sprisv/MMM/STL330BK/1041663286/341-737', 75, 44, 'MMMSTL330BK'], ['text', 'images/SPR_101018_Q4Fave_AutumnLeaves_66.jpg', '/sl-forward-sprisv/MMM/STL330BK/1041663286/341-737', 160, 44, 'MMMSTL330BK', '#fefefe', '#000000', 'linetext12_CUS'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_67.jpg', '/sl-forward-sprisv/MMM/XTRM3312TRYX/1045537478/774-764', 20, 44, 'MMMXTRM3312TRYX - 12 Pads/Pack'], ['text', 'images/SPR_101018_Q4Fave_AutumnLeaves_68.jpg', '/sl-forward-sprisv/MMM/XTRM3312TRYX/1045537478/774-764', 166, 44, 'MMMXTRM3312TRYX - 12 Pads/Pack', '#fefefe', '#000000', 'linetext13_CUS'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_69.jpg', '/sl-forward-sprisv/MMM/XTRM3332CBNT/1045537479/211-429', 15, 44, 'MMMXTRM3332CBNT - 36 Pads/Pack'], ['text', 'images/SPR_101018_Q4Fave_AutumnLeaves_70.jpg', '/sl-forward-sprisv/MMM/XTRM3332CBNT/1045537479/211-429', 144, 44, 'MMMXTRM3332CBNT - 36 Pads/Pack', '#fefefe', '#000000', 'linetext14_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_71.jpg', '/sl-forward-sprisv/MMM/STL330BK/1041663286/341-737', 193, 63, 'MMMSTL330BK'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_72.jpg', '/sl-forward-sprisv/MMM/XTRM3312TRYX/1045537478/774-764', 194, 63, 'MMMXTRM3312TRYX - 12 Pads/Pack'], ['image', 'images/SPR_101018_Q4Fave_AutumnLeaves_73.jpg', '/sl-forward-sprisv/MMM/XTRM3332CBNT/1045537479/211-429', 193, 63, 'MMMXTRM3332CBNT - 36 Pads/Pack']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_101018_Q4Fave_AutumnLeaves_74.jpg', '', 580, 125, '', '#468c8e', '#FFFFFF', 'linetext15_CUS']]
+
