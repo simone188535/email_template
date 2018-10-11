@@ -1,0 +1,125 @@
+title: 'Rotisserie Chicken + Two Hot Sides, Save $5'
+  
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/11c21459-bda0-423f-b05a-e879c1857f91.jpg?ver=1539177851000"
+  img_alt: "Hello Fall! Warm up with these easy autumn meal ideas."
+  url: "https://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b8737bd2-4651-4213-b81f-f87fe27ae52f.jpg?ver=1539177852000"
+  img_alt: "Hot & Fresh Rotisserie Family Meal Buy any Chicken Antibiotic-free, Provencal or Organic Add any two hot sides Save $5!"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ef14a42d-8974-4800-bbaf-1776c9cf0f3a.jpg?ver=1539177852000"
+  img_alt: "Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4885f95a-400d-424e-844c-2cfd97185c58.jpg?ver=1539177852000"
+  img_alt: "Fall Roasting Savory Seasonal Meat & Produce Roasting seasonal meats and produce takes their taste to another level. The longer process and even cooking temperature brings out deep, savory flavors perfect for the season."
+  url: "https://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d16cace2-c7b7-4f6e-a4a8-169f71ba08e9.jpg?ver=1539177852000"
+  img_alt: "Roasted Leg of Lamb with Red Potatoes View Recipe >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/roasted-garlic-infused-leg-of-lamb-with-red-potatoes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c66e63b5-16b9-431d-a7fa-8bac79bef332.jpg?ver=1539177852000"
+  img_alt: "Brussels Sprouts with Applewood Smoked Bacon View Recipe >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/brussels-sprouts-with-bacon-and-apples?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/85abdbad-eda6-4724-973d-9b7631c4e23e.jpg?ver=1539177853000"
+  img_alt_2: "Pork Tenderloin with Honeycrisp Apples View Recipe >"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/pork-tenderloin-with-honeycrisp-apples?nocache?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ae05db1c-ce4e-4d11-8846-d5100aab13fd.jpg?ver=1539177853000"
+  img_alt: "Homegrown American Lamb"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/af4d2319-a5bb-4d02-9b73-be06ba1e912e.jpg?ver=1539177853000"
+  img_alt: "Feed Your Adventurous Side! The network of family farmers under the American Lamb banner provide domestic-raised meat with incredible freshness and mild flavor. Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ee038116-75fd-4eb2-85c1-3bfd5d2a8ccb.jpg?ver=1539177853000"
+  img_alt: "Seasonal Squash Flavorful Fall Produce"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/38c291fc-6b6d-4092-a16a-d0c6d7cb738d.jpg?ver=1539177854000"
+  img_alt: "Our colorful collection of Fall squash and pumpkins is here! Roast them for a sweet, rich flavor, or use them as festive décor."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2127e3e7-8a08-4ef8-88d0-ea86dd24fde5.jpg?ver=1539177854000"
+  img_alt: "myKINGS EXTRA! SAVINGS 3-Day Special | Valid 10/12-10/14/18"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/403f03cf-0838-4e34-b851-ad474854d8ad.jpg?ver=1539177854000"
+  img_alt: "Save $4 Aurora 2-Pack Norwegian Salmon 12 OZ. members pay 14.98 EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/353ad5db-62e2-41ff-a26d-3d1c4287b793.jpg?ver=1539177854000"
+  img_alt: "Chairman&#39;s Reserve Pork Tenderloin members pay 3.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6789a765-1da0-40a3-b192-13ffbc36ee8f.jpg?ver=1539177854000"
+  img_alt_2: "Brussels Sprouts 16 OZ. Bag members pay 3.99 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2449d15c-0017-45fc-b852-e68946f1f0e9.jpg?ver=1539177855000"
+  img_alt: "View Weekly Sales >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1012_KF_WeeklyEmail"
