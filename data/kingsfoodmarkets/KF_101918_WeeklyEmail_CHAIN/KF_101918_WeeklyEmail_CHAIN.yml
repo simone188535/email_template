@@ -1,0 +1,138 @@
+title: 'Rotisserie Chicken + Two Hot Sides, Save $5'
+  
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'https://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/461dbfaf-4ccd-41d9-80e1-b5d15b613d43.jpg?ver=1539782911000"
+  img_alt: "Bold & Bite-Size 4 New Chef Curated Dry Rub Wing Flavors Now Available."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3d7c7c85-33d9-4807-900e-4dd29d3051f0.jpg?ver=1539782911000"
+  img_alt: "Fantastic Wings Four Flavors In the Meat Dept. Prepared in-store and ready for your oven or grill, we offer a variety of sweet, savory and spicy dry rub options that deliver a punch of intense flavor. Coffee Cajun Lemon Pepper Honey BBQ Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/859c6a96-396f-43d0-a53e-43c656678aa0.jpg?ver=1539782912000"
+  img_alt: "Game Day Eats Our game time catering menu is full of crowd-pleasing snacks, platters and food bars. Delight your guests with this mouthwatering BBQ Pulled Pork Slider Bar, complete with sliced brioche slider rolls and coleslaw."
+  url: "https://catering.kingsfoodmarkets.com/site?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f851ef0d-5f4f-4526-98c0-a2b892d574f4.jpg?ver=1539782912000"
+  img_alt: "BBQ Pulled Pork Slider Bar Order Now >"
+  url: "https://catering.kingsfoodmarkets.com/site?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4e2742b6-0375-4baf-bc46-bd6868e86d5e.jpg?ver=1539782912000"
+  img_alt: "Chili Your Way Warm, comforting chili is a perennial game day favorite for large gatherings. Whether you choose to make your own or take it home ready to serve, we have you covered."
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7717fd15-10df-41e3-bf6d-817422ca49ae.jpg?ver=1539782912000"
+  img_alt: "Make It…"
+  url: "https://kingsfoodmarkets.com/unique-recipes/three-bean-chili?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b9b9a011-4c6d-4c68-bc7e-e168b06e8385.jpg?ver=1539782912000"
+  img_alt: "Stonewall Kitchen Chili Starter"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/33be9cde-c5f6-4df0-bab2-b5806a0c1ed4.jpg?ver=1539782912000"
+  img_alt_2: "Recipe Idea: Three Bean Chili View Recipe >"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/three-bean-chili?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3335ee0c-10f6-4ccd-a8d5-993246ccb2c1.jpg?ver=1539782913000"
+  img_alt: "Or Take It Catered Chili Bar with Cornbread & Toppings Order Now >"
+  url: "https://catering.kingsfoodmarkets.com/site?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8411929a-def3-4e56-8c05-e50489d029f9.jpg?ver=1539782913000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b2353a94-8f5b-46e4-9ce7-ebe8a734080c.jpg?ver=1539782913000"
+  img_alt: "Save $4 lb. Locally Raised USDA Prime Sirloin Steaks members pay 7.99 LB. Local Beef"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/19c2bdb6-8ad4-4ab7-a49e-15bf90af3951.jpg?ver=1539782913000"
+  img_alt_2: "USDA Choice 80% Lean Ground Beef members pay 3.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/259304db-ac2f-439a-94a9-9fcd2c210724.jpg?ver=1539782913000"
+  img_alt: "A2 Milk 59 FL. OZ. members pay 3.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/257f647a-e5d0-4fae-a77c-ceb9c53b0cb9.jpg?ver=1539782913000"
+  img_alt_2: "Save $2 lb. Organic Honeycrisp Apples members pay 2.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/851f6fa7-142e-40b8-8194-3f6d379442fd.jpg?ver=1539782914000"
+  img_alt: "Weekend Sale! | Valid 10/19 - 10/21/18"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/65b3e2b8-a415-4db9-ae47-908c3c7b55c6.jpg?ver=1539782914000"
+  img_alt: "Save $4.99 Kings Apple Pie 32 OZ. Give in to cravings for fall&#39;s most iconic dessert. Our apple pie is a certified classic with fresh Ida Red apples, real sugar and a hint of cinnamon wrapped in a buttery crust. members pay 7. EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ec9af786-6ca5-4cea-9496-4e89b50367de.jpg?ver=1539782914000"
+  img_alt: "View Weekly Sales >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ff444706-b3ea-4cd8-9db0-42126a45d85f.jpg?ver=1539782914000"
+  img_alt: "Gourmet Finds In store"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/40e00820-c8c8-425c-bb30-878d52592151.jpg?ver=1539782914000"
+  img_alt: "PARMIGIANO REGGIANO® Made with raw milk, this &#34;King of Italian Cheeses&#34; is certified as 2-Year Export Quality - a premium designation signifying 24 months of deep, mature flavor development. Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1019_KF_WeeklyEmail"
