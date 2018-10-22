@@ -43,9 +43,14 @@ articles:
   image_third_link: 'https://twitter.com/OldTimePottery?utm_source=otp_thank_you&utm_medium=email&utm_campaign=thank_you_email&utm_content=otp_on_twitter'
 
 - type: 'image'
-  image_url: 'https://d3t447bp0gr77f.cloudfront.net/email_images4/OTP_Welcome_23.jpg'
+  image_url: 'https://d3t447bp0gr77f.cloudfront.net/email_images4/OTP_Welcome_23_A.jpg'
   image_alt: 'WE GOT YOU SOMETHING Go ahead and save a little more on us.'
-  image_link: '#'
+  image_link: ''
+
+- type: 'image'
+  image_url: 'https://d3t447bp0gr77f.cloudfront.net/email_images4/OTP_Welcome_23_B.jpg'
+  image_alt: 'WE GOT YOU SOMETHING Go ahead and save a little more on us.'
+  image_link: ''
 
 - type: 'image'
   image_url: 'https://d3t447bp0gr77f.cloudfront.net/email_images4/OTP_Welcome_26.jpg'
