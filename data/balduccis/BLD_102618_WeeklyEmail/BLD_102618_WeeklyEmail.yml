@@ -1,0 +1,103 @@
+title: 'Devilish delights for Halloween'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e51506c5-949f-4a68-8d2a-b3c9e5f3f246.jpg?ver=1540314500000'
+  img_alt: 'Devilish Delights Make some mischief with these sinfully sumptuous Halloween bites. Catering Meatball Parm Slider Bar Order Now >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/classic?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6953d357-5ac1-4103-9ff5-5154543033d8.jpg?ver=1540314500000'
+  img_alt: 'Catering | Crowd-Pleasers'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/classic?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/87cd8b9f-87a0-40c7-8028-17e676d9b7b1.jpg?ver=1540314500000'
+  img_alt: 'Sushi Platter'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/classic?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/752658c7-9240-4642-b020-269d4ecc61a9.jpg?ver=1540314500000'
+  img_alt: 'Ultimate Wing Duo'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail#wine'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ef3b5f87-21b5-489c-ac1d-44881d33c242.jpg?ver=1540314500000'
+  img_alt: 'Classic Combinations'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail#wine'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/18a38a13-04ba-4ab3-8341-f1e65ecfdaee.jpg?ver=1540314501000'
+  img_alt: 'The Velvet Devil Merlot | Smooth, naughty and nice? This deep, intense red is all three, featuring hints of cocoa and smoke.'
+  url_2: 'https://www.balduccis.com/explore/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail#cheese'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e166f9f-dc58-46f0-8118-7ddf333a94b0.jpg?ver=1540314501000'
+  img_alt_2: 'Enchant your guests with a seductive wine and cheese pairing this Halloween. The Red Witch Cheese Cast a culinary spell with this paprika-rubbed peppery Swiss cheese that pairs perfectly with wine.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/438bda14-9cbf-4110-8866-522d129180d5.jpg?ver=1540314501000'
+  img_alt: 'Wine Event Saturday, Oct. 27th Enjoy some adult pre-Halloween fun featuring importers, food and wine samples and more. Food Samplings…... 12 noon-5pm Wine Samplings…… 2-5pm Wine available at Alexandria, Bethesda, McLean, Reston & Greenwich stores.'
+
+- type: 'image'
+  url: ''
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2ca66594-b1ca-4dbb-8d20-f01cb97869a4.jpg?ver=1540314501000'
+  img_alt: 'Spooky Sips | Festive Drinks Illy Coffee'
+
+- type: 'image'
+  url: ''
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/24e52d5f-9a89-44b3-92cc-e8803e3747b2.jpg?ver=1540314502000'
+  img_alt: 'Drink recipe idea Dark Night of the Soul View Recipe >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail#patisserie'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7cb7aa0d-3f5a-4a2a-be74-3c0333a9ef6a.jpg?ver=1540314502000'
+  img_alt: 'Patisserie | Say Yes to Decadence Balducci&#39;s Autumn Harvest Chocolate Cake'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2999869a-bbf6-46c4-a582-b3c938b9a677.jpg?ver=1540314502000'
+  img_alt: 'All Treats, No Tricks | Candy Long Grove Day of the Dead Crispie Pop Thompson Crispy Pumpkin Mesh Bag Balducci&#39;s Gourmet Candy Corn Enjou Box of Chocolate Spiders'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1fca8787-f2d4-4814-ba9c-c632d3238f91.jpg?ver=1540314503000'
+  img_alt: 'What&#39;s New Trick or Treat Stop by your local Balducci&#39;s for a special treat from 4-6pm on 10/31.'
