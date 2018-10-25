@@ -1,0 +1,83 @@
+title: 'TBD'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fffc5078-f39d-46bb-a252-3834639a4cbc.jpg?ver=1540500647000"
+  img_alt: "Artisanal Cheese Event Saturday, November 3rd, 2-5 PM Ridgewood, Midland Park, Hillsdale, Cresskill Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7d6efd98-e6e3-4600-9443-21ba07f4feac.jpg?ver=1540500647000"
+  img_alt: "Featured Pairings Experience the ultimate gourmet cheese tasting with demonstrations by renowned cheesemakers, tips from professionals and more!"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9e7c4453-c504-44a5-9f4e-ff4a3a69857c.jpg?ver=1540500647000"
+  img_alt: "Parmigiano Reggiano 2 Year Export & Acacia Truffle Honey"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fa10f363-766d-4b65-a89c-f7d4eec15602.jpg?ver=1540500647000"
+  img_alt_2: "Cheeses of the Lyonnais Vacherousse & Brebirousse D&#39;Argental"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/32929828-b828-40c0-9efa-05958417d897.jpg?ver=1540500647000"
+  img_alt: "Dorothy&#39;s Comeback Cow & Keep Dreaming!"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a92c348f-7ea8-4a6c-a7cb-2970737429d0.jpg?ver=1540500647000"
+  img_alt_2: "Grand Noir Champignon"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b6a86a14-ff6f-40aa-9b22-d739d74cab7a.jpg?ver=1540500647000"
+  img_alt: "Scyavuru Sicilian Jams Black Fig Jam & Onion Jam"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/619850f0-e552-429d-8790-e5620ec5006e.jpg?ver=1540500648000"
+  img_alt_2: "Kings Organic Honey"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=103018_KF_ArtisanalCheese_Solo"
