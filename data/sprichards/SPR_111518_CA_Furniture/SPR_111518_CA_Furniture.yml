@@ -1,0 +1,105 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_02.jpg', '/sl-forward-sprisv/LLR/52507/1031869833/272-859', 580, 435, 'LLR52507 - White Surface']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_03.jpg', '/sl-forward-sprisv/LLR/52507/1031869833/272-859', 580, 62, 'LLR52507 - White Surface']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_04.jpg', '/sl-forward-sprisv/LLR/52507/1031869833/272-859', 116, 28, 'LLR52507 - White Surface'], ['image', 'images/SPR_111518_CA_Furniture_05.jpg', '/sl-forward-sprisv/LLR/55655/1041663087/150-799', 464, 28, 'LLR55655 - Black Surface']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_06.jpg', '/sl-forward-sprisv/LLR/52507/1031869833/272-859', 116, 32, 'LLR52507 - White Surface'], ['image', 'images/SPR_111518_CA_Furniture_07.jpg', '/sl-forward-sprisv/LLR/55655/1041663087/150-799', 77, 32, 'LLR55655 - Black Surface'], ['image', 'images/SPR_111518_CA_Furniture_08.jpg', '/sl-forward-sprisv/LLR/55656/1041663088/745-616', 387, 32, 'LLR55656 - Blue Surface']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_09.jpg', '/sl-forward-sprisv/LLR/52507/1031869833/272-859', 116, 145, 'LLR52507 - White Surface'], ['image', 'images/SPR_111518_CA_Furniture_10.jpg', '/sl-forward-sprisv/LLR/55655/1041663087/150-799', 77, 145, 'LLR55655 - Black Surface'], ['image', 'images/SPR_111518_CA_Furniture_11.jpg', '/sl-forward-sprisv/LLR/55656/1041663088/745-616', 75, 145, 'LLR55656 - Blue Surface'], ['image', 'images/SPR_111518_CA_Furniture_12.jpg', '/sl-forward-sprisv/LLR/55657/1041663089/129-540', 312, 145, 'LLR55657 - Green Surface']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_13.jpg', '/sl-forward-sprisv/LLR/52507/1031869833/272-859', 268, 121, 'LLR52507 - White Surface'], ['image', 'images/SPR_111518_CA_Furniture_14.jpg', '/sl-forward-sprisv/LLR/55655/1041663087/150-799', 312, 121, 'LLR55655 - Black Surface']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_15.jpg', '/sl-forward-sprisv/LLR/52507/1031869833/272-859', 268, 23, 'LLR52507 - White Surface'], ['image', 'images/SPR_111518_CA_Furniture_16.jpg', '/sl-forward-sprisv/LLR/55656/1041663088/745-616', 312, 23, 'LLR55656 - Blue Surface']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_17.jpg', '/sl-forward-sprisv/LLR/52507/1031869833/272-859', 268, 71, 'LLR52507 - White Surface'], ['image', 'images/SPR_111518_CA_Furniture_18.jpg', '', 312, 71, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_19.jpg', '/sl-forward-sprisv/LLR/52507/1031869833/272-859', 21, 44, 'LLR52507 - White Surface'], ['text', 'images/SPR_111518_CA_Furniture_20.jpg', '/sl-forward-sprisv/LLR/52507/1031869833/272-859', 247, 44, 'LLR52507 - White Surface', '#ffffff', '#000000', 'linetext1_CUS'], ['image', 'images/SPR_111518_CA_Furniture_21.jpg', '/sl-forward-sprisv/LLR/55657/1041663089/129-540', 31, 44, 'LLR55657 - Green Surface'], ['text', 'images/SPR_111518_CA_Furniture_22.jpg', '/sl-forward-sprisv/LLR/55657/1041663089/129-540', 281, 44, 'LLR55657 - Green Surface', '#ffffff', '#000000', 'linetext2_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_23.jpg', '/sl-forward-sprisv/LLR/52507/1031869833/272-859', 268, 59, 'LLR52507 - White Surface'], ['image', 'images/SPR_111518_CA_Furniture_24.jpg', '/sl-forward-sprisv/LLR/55657/1041663089/129-540', 312, 59, 'LLR55657 - Green Surface']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_25.jpg', '/sl-forward-sprisv/BIC/DECP41ASST/1010657816/442-524', 342, 407, 'BICDECP41ASST'], ['image', 'images/SPR_111518_CA_Furniture_26.jpg', '/sl-forward-sprisv/LLR/52559/1031869840/293-595', 238, 407, 'LLR52559']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_27.jpg', '/sl-forward-sprisv/BIC/DECP41ASST/1010657816/442-524', 284, 174, 'BICDECP41ASST'], ['image', 'images/SPR_111518_CA_Furniture_28.jpg', '/sl-forward-sprisv/LLR/52559/1031869840/293-595', 296, 174, 'LLR52559']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_29.jpg', '/sl-forward-sprisv/BIC/DECP41ASST/1010657816/442-524', 20, 43, 'BICDECP41ASST'], ['text', 'images/SPR_111518_CA_Furniture_30.jpg', '/sl-forward-sprisv/BIC/DECP41ASST/1010657816/442-524', 264, 43, 'BICDECP41ASST', '#03ccfa', '#FFFFFF', 'linetext3_CUS'], ['image', 'images/SPR_111518_CA_Furniture_31.jpg', '/sl-forward-sprisv/LLR/52559/1031869840/293-595', 14, 43, 'LLR52559'], ['text', 'images/SPR_111518_CA_Furniture_32.jpg', '/sl-forward-sprisv/LLR/52559/1031869840/293-595', 282, 43, 'LLR52559', '#04ccfd', '#FFFFFF', 'linetext4_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_33.jpg', '/sl-forward-sprisv/BIC/DECP41ASST/1010657816/442-524', 284, 52, 'BICDECP41ASST'], ['image', 'images/SPR_111518_CA_Furniture_34.jpg', '/sl-forward-sprisv/LLR/52559/1031869840/293-595', 296, 52, 'LLR52559']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_35.jpg', '/sl-forward-sprisv/ICE/69112/1050279331/655-822', 580, 221, 'ICE69112 - Black']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_36.jpg', '/sl-forward-sprisv/ICE/69117/1050279332/674-499', 245, 74, 'ICE69117 - Silver/Gray '], ['image', 'images/SPR_111518_CA_Furniture_37.jpg', '/sl-forward-sprisv/ICE/69112/1050279331/655-822', 335, 74, 'ICE69112 - Black']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_38.jpg', '/sl-forward-sprisv/ICE/69117/1050279332/674-499', 20, 42, 'ICE69117 - Silver/Gray '], ['text', 'images/SPR_111518_CA_Furniture_39.jpg', '/sl-forward-sprisv/ICE/69117/1050279332/674-499', 225, 42, 'ICE69117 - Silver/Gray ', '#ffffff', '#000000', 'linetext5_CUS'], ['image', 'images/SPR_111518_CA_Furniture_40.jpg', '/sl-forward-sprisv/ICE/69112/1050279331/655-822', 190, 42, 'ICE69112 - Black'], ['image', 'images/SPR_111518_CA_Furniture_41.jpg', '/sl-forward-sprisv/ICE/69117/1050279332/674-499', 145, 42, 'ICE69117 - Silver/Gray ']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_42.jpg', '/sl-forward-sprisv/ICE/69117/1050279332/674-499', 245, 84, 'ICE69117 - Silver/Gray '], ['image', 'images/SPR_111518_CA_Furniture_43.jpg', '/sl-forward-sprisv/ICE/69112/1050279331/655-822', 190, 84, 'ICE69112 - Black'], ['image', 'images/SPR_111518_CA_Furniture_44.jpg', '/sl-forward-sprisv/ICE/69117/1050279332/674-499', 145, 84, 'ICE69117 - Silver/Gray ']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_45.jpg', '/sl-forward-sprisv/ICE/68911/1050279329/139-368', 290, 68, 'ICE68911 - Green'], ['image', 'images/SPR_111518_CA_Furniture_46.jpg', '', 290, 68, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_47.jpg', '/sl-forward-sprisv/ICE/68911/1050279329/139-368', 339, 165, 'ICE68911 - Green'], ['image', 'images/SPR_111518_CA_Furniture_48.jpg', '/sl-forward-sprisv/ICE/68917/1050279330/546-191', 241, 165, 'ICE68917 - Gray']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_49.jpg', '/sl-forward-sprisv/ICE/68911/1050279329/139-368', 580, 123, 'ICE68911 - Green']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_50.jpg', '/sl-forward-sprisv/ICE/68917/1050279330/546-191', 580, 73, 'ICE68917 - Gray']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_51.jpg', '/sl-forward-sprisv/ICE/68911/1050279329/139-368', 21, 42, 'ICE68911 - Green'], ['text', 'images/SPR_111518_CA_Furniture_52.jpg', '/sl-forward-sprisv/ICE/68911/1050279329/139-368', 318, 42, 'ICE68911 - Green', '#83e169', '#FFFFFF', 'linetext6_CUS'], ['image', 'images/SPR_111518_CA_Furniture_53.jpg', '/sl-forward-sprisv/ICE/68911/1050279329/139-368', 241, 42, 'ICE68911 - Green']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_54.jpg', '/sl-forward-sprisv/ICE/68911/1050279329/139-368', 580, 52, 'ICE68911 - Green']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_55.jpg', '/sl-forward-sprisv/LLR/83111/1041663166/724-793', 207, 313, 'LLR83111 - Black Seat'], ['image', 'images/SPR_111518_CA_Furniture_56.jpg', '/sl-forward-sprisv/LLR/83111A203/1041702815/523-460', 176, 313, 'LLR83111A203 - Red Seat'], ['image', 'images/SPR_111518_CA_Furniture_57.jpg', '/sl-forward-sprisv/LLR/83111A204/1041702816/350-100', 197, 313, 'LLR83111A204 - Dark Blue Seat']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_58.jpg', '/sl-forward-sprisv/LLR/83111/1041663166/724-793', 580, 145, 'LLR83111 - Black Seat']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_59.jpg', '/sl-forward-sprisv/LLR/83111A203/1041702815/523-460', 580, 23, 'LLR83111A203 - Red Seat']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_60.jpg', '/sl-forward-sprisv/LLR/83111A204/1041702816/350-100', 580, 73, 'LLR83111A204 - Dark Blue Seat']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_61.jpg', '/sl-forward-sprisv/LLR/83111/1041663166/724-793', 298, 42, 'LLR83111 - Black Seat'], ['text', 'images/SPR_111518_CA_Furniture_62.jpg', '/sl-forward-sprisv/LLR/83111/1041663166/724-793', 282, 42, 'LLR83111 - Black Seat', '#ffffff', '#000000', 'linetext7_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111518_CA_Furniture_63.jpg', '/sl-forward-sprisv/LLR/83111/1041663166/724-793', 580, 99, 'LLR83111 - Black Seat']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_111518_CA_Furniture_64.jpg', '', 580, 127, '', '#04bee7', '#FFFFFF', 'linetext8_CUS']]
+
