@@ -1,0 +1,51 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_111418_CA_Keurig_02.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 580, 292, 'GMT6204']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111418_CA_Keurig_03.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 580, 292, 'GMT6204']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111418_CA_Keurig_04.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 193, 154, 'GMT6204'], ['image', 'images/SPR_111418_CA_Keurig_05.jpg', '/sl-forward-sprisv/GMT/7674/1054111980/496-274', 186, 154, 'GMT7674'], ['image', 'images/SPR_111418_CA_Keurig_06.jpg', '/sl-forward-sprisv/GMT/79742/1036175945/646-393', 201, 154, 'GMT79742']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111418_CA_Keurig_07.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 198, 78, 'GMT6204'], ['image', 'images/SPR_111418_CA_Keurig_08.jpg', '/sl-forward-sprisv/GMT/7674/1054111980/496-274', 57, 78, 'GMT7674'], ['image', 'images/SPR_111418_CA_Keurig_09.jpg', '/sl-forward-sprisv/GMT/53091/1036175942/309-669', 325, 78, 'GMT53091']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111418_CA_Keurig_10.jpg', '/sl-forward-sprisv/GMT/79742/1036175945/646-393', 255, 114, 'GMT79742'], ['image', 'images/SPR_111418_CA_Keurig_11.jpg', '/sl-forward-sprisv/GMT/53091/1036175942/309-669', 325, 114, 'GMT53091']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111418_CA_Keurig_12.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 18, 58, 'GMT6204'], ['text', 'images/SPR_111418_CA_Keurig_13.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 237, 58, 'GMT6204', '#ffffff', '#000000', 'linetext1_CUS'], ['image', 'images/SPR_111418_CA_Keurig_14.jpg', '/sl-forward-sprisv/GMT/53091/1036175942/309-669', 325, 58, 'GMT53091']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111418_CA_Keurig_15.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 145, 208, 'GMT6204'], ['image', 'images/SPR_111418_CA_Keurig_16.jpg', '/sl-forward-sprisv/GMT/7674/1054111980/496-274', 145, 208, 'GMT7674'], ['image', 'images/SPR_111418_CA_Keurig_17.jpg', '/sl-forward-sprisv/GMT/79742/1036175945/646-393', 145, 208, 'GMT79742'], ['image', 'images/SPR_111418_CA_Keurig_18.jpg', '/sl-forward-sprisv/GMT/53091/1036175942/309-669', 145, 208, 'GMT53091']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111418_CA_Keurig_19.jpg', '/sl-forward-sprisv/GJO/19047PK/1023765414/147-506', 580, 106, 'GJO19047PK - 12 fl oz ']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111418_CA_Keurig_20.jpg', '/sl-forward-sprisv/GJO/19046PK/1023765412/286-359', 181, 236, 'GJO19046PK - 10 fl oz '], ['image', 'images/SPR_111418_CA_Keurig_21.jpg', '/sl-forward-sprisv/GJO/19046PK/1023765412/286-359', 206, 236, 'GJO19046PK - 10 fl oz '], ['image', 'images/SPR_111418_CA_Keurig_22.jpg', '/sl-forward-sprisv/GJO/19047PK/1023765414/147-506', 193, 236, 'GJO19047PK - 12 fl oz ']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111418_CA_Keurig_23.jpg', '/sl-forward-sprisv/GJO/19046PK/1023765412/286-359', 181, 79, 'GJO19046PK - 10 fl oz '], ['image', 'images/SPR_111418_CA_Keurig_24.jpg', '/sl-forward-sprisv/GJO/19047PK/1023765414/147-506', 399, 79, 'GJO19047PK - 12 fl oz ']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111418_CA_Keurig_25.jpg', '/sl-forward-sprisv/GJO/19046PK/1023765412/286-359', 20, 41, 'GJO19046PK - 10 fl oz '], ['text', 'images/SPR_111418_CA_Keurig_26.jpg', '/sl-forward-sprisv/GJO/19046PK/1023765412/286-359', 161, 41, 'GJO19046PK - 10 fl oz ', '#232f3d', '#FFFFFF', 'linetext2_CUS'], ['image', 'images/SPR_111418_CA_Keurig_27.jpg', '/sl-forward-sprisv/GJO/19047PK/1023765414/147-506', 8, 41, 'GJO19047PK - 12 fl oz '], ['text', 'images/SPR_111418_CA_Keurig_28.jpg', '/sl-forward-sprisv/GJO/19047PK/1023765414/147-506', 179, 41, 'GJO19047PK - 12 fl oz ', '#232f3d', '#FFFFFF', 'linetext3_CUS'], ['image', 'images/SPR_111418_CA_Keurig_29.jpg', '/sl-forward-sprisv/GJO/19047PK/1023765414/147-506', 212, 41, 'GJO19047PK - 12 fl oz ']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_111418_CA_Keurig_30.jpg', '/sl-forward-sprisv/GJO/19046PK/1023765412/286-359', 181, 61, 'GJO19046PK - 10 fl oz '], ['image', 'images/SPR_111418_CA_Keurig_31.jpg', '/sl-forward-sprisv/GJO/19047PK/1023765414/147-506', 399, 61, 'GJO19047PK - 12 fl oz ']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_111418_CA_Keurig_32.jpg', '', 580, 125, '', '#d3d4d8', '#000000', 'linetext4_CUS']]
+
