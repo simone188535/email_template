@@ -1,0 +1,76 @@
+title: 'TBD'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a7a19346-2860-48c4-962f-6faba57c970c.jpg?ver=1541540840000'
+  img_alt: 'Thanksgiving Catering 2018 Edition'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/94f31be4-59b5-4701-b3f5-d5ff633ac120.jpg?ver=1541540840000'
+  img_alt: 'Harvest & Holidays This surely is the season when we all seem to gather around food. And what could be nicer? Make it delicious. Make it welcoming. And this year - make it a little easier by letting us do some (or all) of the work!'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/df9ca81a-1c17-48c0-bce7-fe3bff5eabf0.jpg?ver=1541540840000'
+  img_alt: 'Artisanal Cheese Platter'
+  url_2: 'https://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/94a2c3f5-d7f3-48af-bc9b-f14b09f5a304.jpg?ver=1541540841000'
+  img_alt_2: 'Traditional Herb Stuffing'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d99d4955-6d95-444f-8e5c-f6c0590b785c.jpg?ver=1541540840000'
+  img_alt: 'Stuffed Mushrooms'
+  url_2: 'https://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1f49bc60-3d6f-439d-a3d8-0e3c73ec2d72.jpg?ver=1541540840000'
+  img_alt_2: 'Apple Pie'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8ad63b80-d500-4254-bf88-a613e1d04612.jpg?ver=1541540840000'
+  img_alt: 'Mark Your Calendar Come Taste Our Thanksgiving Menu!'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_BLD_ThanksgivingCatering_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6a9975fc-1186-402d-b5f6-82b89ac64da0.jpg?ver=1541540840000'
+  img_alt: 'Friday, Nov. 9 11:30am - 1:30pm 4:00pm - 6:00pm | Saturday, Nov. 10 12:00pm - 4:00pm | Sunday, Nov. 11 12:00pm - 4:00pm | Thursday, Nov. 15 11:00am - 2:00pm | Friday, Nov. 16 11:30am - 1:30pm 4:00pm - 6:00pm | Saturday, Nov. 17 12:00pm - 4:00pm | Sunday, Nov. 18 12:00pm - 4:00pm'
