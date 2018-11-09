@@ -1,0 +1,71 @@
+title: 'Old Time Pottery is grateful for our Veterans!'
+
+logo_img_url: "https://d3t447bp0gr77f.cloudfront.net/email_images4/OTP_111118_Veterans_Day-Email_05.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "https://oldtimepottery.com/?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=otp_logo"
+
+locations_img_url: "https://d3t447bp0gr77f.cloudfront.net/email_images4/OTP_111118_Veterans_Day-Email_06.jpg"
+locations_img_alt: "Locations"
+locations_img_link: "https://oldtimepottery.com/locations?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=otp_locations"
+
+products_img_url: "https://d3t447bp0gr77f.cloudfront.net/email_images4/OTP_111118_Veterans_Day-Email_07.jpg"
+products_img_alt: "Products"
+products_img_link: "https://oldtimepottery.com/departments/home-decor.html?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=otp_home_decor"
+
+inspiration_img_url: "https://d3t447bp0gr77f.cloudfront.net/email_images4/OTP_111118_Veterans_Day-Email_08.jpg"
+inspiration_img_alt: "Inspiration"
+inspiration_img_link: "http://blog.oldtimepottery.com/?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=otp_blog"
+
+preheader_text: 'and we honor them year round.'
+preheader_link: 'https://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://d3t447bp0gr77f.cloudfront.net/email_images4/OTP_111118_Veterans_Day-Email_11.jpg'
+  image_alt: 'WE ARE GRATEFUL FOR OUR VETERANS. WE THANK YOU FOR YOUR DEDICATION TO OUR COUNTRY.'
+  image_link: 'https://oldtimepottery.com/military-discount-program/?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=vets_discount_program'
+
+- type: 'image'
+  image_url: 'https://d3t447bp0gr77f.cloudfront.net/email_images4/OTP_111118_Veterans_Day-Email_14.jpg'
+  image_alt: 'ALL VETERANS AND ACTIVE MILITARY RECEIVE A 10% DISCOUNT YEAR-ROUND WHEN SHOPPING IN OUR STORES. THE DISCOUNT APPLIES TO CURRENT PERSONNEL, VETERANS, VA RECIPIENTS AND IMMEDIATE FAMILY. [LEARN MORE]'
+  image_link: 'https://oldtimepottery.com/military-discount-program/?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=learn_more'
+
+- type: 'image'
+  image_url: 'https://d3t447bp0gr77f.cloudfront.net/email_folder3/OTP_084_090318_v1_r4_FNL_07.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=otp_instagram'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://d3t447bp0gr77f.cloudfront.net/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://d3t447bp0gr77f.cloudfront.net/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://d3t447bp0gr77f.cloudfront.net/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=otp_gift_cards'
+  image_second_url: 'https://d3t447bp0gr77f.cloudfront.net/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=otp_account_login'
+
+socialnav:
+- link: "http://instagram.com/oldtimepottery?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://d3t447bp0gr77f.cloudfront.net/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://d3t447bp0gr77f.cloudfront.net/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://d3t447bp0gr77f.cloudfront.net/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery?utm_source=otp_weekly11_11&utm_medium=email&utm_campaign=vets_day&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://d3t447bp0gr77f.cloudfront.net/email_image2/twitter.jpg"
+  alt: "Twitter"
