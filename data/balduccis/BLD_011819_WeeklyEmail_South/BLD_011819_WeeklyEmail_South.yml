@@ -1,0 +1,83 @@
+title: 'Step Up Your Cooking Game Plan for Sunday.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a66ce120-6081-4994-ac1d-58b2d8dc3de1.jpg?ver=1547654562000'
+  img_alt: 'GAME ON! Catering and football – the perfect call. Up your entertaining game this football season with our fresh, citrus-inspired Chef Prepared catering. Order ahead to make extra sure your game is covered, or call an audible with our grab and go, ready to heat and eat prepared foods. It&#39;s a win-win.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0895bb9a-93be-4239-83ca-28318c44f136.jpg?ver=1547654562000'
+  img_alt: 'GAME ON! Catering and football – the perfect call. Up your entertaining game this football season with our fresh, citrus-inspired Chef Prepared catering. Order ahead to make extra sure your game is covered, or call an audible with our grab and go, ready to heat and eat prepared foods. It&#39;s a win-win.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/6da5579e-d28e-4f45-9c95-723ab5b053d2.jpg?ver=1547654562000'
+  img_alt: 'GAME DAY TASTING JOIN US SATURDAY, JANUARY 19TH, 12-5 PM Discover new ideas for entertaining while you sample our delicious game day menu, plus, place your catering order while you shop.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/recipes/yuzu-miso-wings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/41f292a1-ada0-48fa-984f-f51fc6ef2c2a.jpg?ver=1547654563000'
+  img_alt: 'YUZU MISO WINGS'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/recipes/yuzu-miso-wings?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/478cab32-cdfd-4014-bf69-308f1e0a46e1.jpg?ver=1547654563000'
+  img_alt: 'MAKE IT... We have everything you need to make these yummy wings at home; from the fresh, antibiotic-free chicken wings, to the makings of the brilliant rub, to the Namikura Yuzu Miso paste. VIEW RECIPE>'
+  url_2: 'https://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0da94d68-83d8-47a6-9511-fe634f33791a.jpg?ver=1547654563000'
+  img_alt_2: 'OR TAKE IT Don&#39;t feel like cooking? Come right to our Prepared Foods counter and walk away with your wings done up and ready to reheat and serve. LEARN MORE>'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South#seafood'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9530491c-e61e-4224-81b2-0433fe81fd5a.jpg?ver=1547654563000'
+  img_alt: 'SHAKE UP THE SHRIMP COCKTAIL Extra Jumbo Shrimp. Serve them cold with an unexpected side dip of Hotaru&#39;s Yuzu Mayo, spiked with a generous squeeze of lime, a dash of hot sauce and a lively sprinkling of lime zest.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d699d402-2b8f-4aaf-932d-d13c8e567a4c.jpg?ver=1547654563000'
+  img_alt: 'MONKFISH - READY FOR THE OVEN Rich, meaty Monkfish stands up to heady spices, green beans, peppers, purple onion, and the distinctive tang of Preserved Lemon, in a completely delicious, ready-for-oven stew. Available in our Seafood Department.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_BLD_WeeklyEmail_South'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b6a930cb-a022-486a-8f12-c5e62edfbed1.jpg?ver=1547654563000'
+  img_alt: 'WHAT&#39;S NEW | WINE TASTING EVENT JOIN US SATURDAY, JANUARY 19TH 12-5PM Let us help you pick the perfect beverages for your big game party. Food Samplings…..12PM - 5PM Wine Samplings…..2 -5PM Balducci&#39;s Alexandria, Bethesda, McLean & Reston stores. 25% OFF ANY 12 BOTTLES OR MORE, MIX OR MATC'

@@ -1,0 +1,97 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+# logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo'
+# logo_img: ''
+# logo_alt: 'KINGS'
+# logo_img_space: ''
+# logo_img_space_2: ''
+# store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo'
+# store_locator_img: ''
+# store_locator_alt: 'FIND A STORE'
+# weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo'
+# weekly_circular_img: ''
+# weekly_circular_alt: 'WEEKLY CIRCULAR'
+# chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo'
+# chef_prepared_img: ''
+# chef_prepared_alt: 'CHEF PREPARED'
+# catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo'
+# catering_img: ''
+# catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/54760eb7-8428-4599-af5b-eb9e06acf54f.jpg?ver=1544454740000"
+  img_alt: "KINGS"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a920eefe-67a3-4022-90d9-fb0132e1c519.jpg?ver=1544454740000"
+  img_alt: "Cooking Studio Give the Gift of Great Cooking"
+  url: "https://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a73049cd-0371-4bed-9eb7-da9015a29bce.jpg?ver=1544454740000"
+  img_alt: "Shop Gift Certificates Inspire the Passionate Cooks in your life with our adult or kids class gift certificates online. Or, for a custom amount call 973.258.4009 or visit us in store!"
+  url: "https://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/427163b3-33d8-4248-91f0-7f22ed31ef37.jpg?ver=1544454740000"
+  img_alt: "Adult"
+  url: "https://store.kingsfoodmarkets.com/adult-gift-certificate-900-html.html?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/436352f8-c1bb-4932-a38d-83b68298fa16.jpg?ver=1544454741000"
+  img_alt_2: "Kids"
+  url_2: "https://store.kingsfoodmarkets.com/childrens-gift-certificate-901-html.html?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b458fece-92ea-4c44-bdb4-ceae0842c25f.jpg?ver=1544454741000"
+  img_alt: "Featured Upcoming Classes"
+  url: "https://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5e3ad4f3-b6ce-496c-9a7e-6a19350148f4.jpg?ver=1544454741000"
+  img_alt: "24 January 6:30-9:30pm Chicken Around the World Instructor: Kathleen Sanderson"
+  url: "https://kingsfoodmarkets.com/in-store-events/chicken-around-the-world?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0d8831b4-f5bd-456c-a48b-540e58e9a000.jpg?ver=1544454741000"
+  img_alt: "7 February 6:30-9:30pm Valentine Surf and Turf Instructor: Suzanne Lowery"
+  url: "https://kingsfoodmarkets.com/in-store-events/valentine-surf-and-turf?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c5686896-f55b-418a-b536-59b96c2d69a9.jpg?ver=1544454741000"
+  img_alt: "20 February 6:30-9:30pm Vegan Comfort Food Instructor: Eileen Mallor"
+  url: "https://kingsfoodmarkets.com/in-store-events/vegan-comfort-food?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b36d47fb-b05c-46e3-a94f-75264f32de81.jpg?ver=1544454741000"
+  img_alt: "28 February 6:30-9:30pm Simply Delicious Instructor: Guddia Singh"
+  url: "https://kingsfoodmarkets.com/in-store-events/simply-delicious?utm_source=weeklyemail&utm_medium=email&utm_campaign=121118_KF_CookingStudio_Solo"

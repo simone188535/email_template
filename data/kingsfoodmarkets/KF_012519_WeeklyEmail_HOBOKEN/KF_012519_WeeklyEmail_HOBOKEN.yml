@@ -1,0 +1,118 @@
+title: 'Squeeze in a little sunshine - it&#39;s citrus season!'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5039b4f1-29a6-405b-a1c5-1cdfee9f2172.jpg?ver=1548257396000"
+  img_alt: "A New Way To Stew Cooking With A Tagine"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/594688fd-c8f7-4ee9-8200-febc9e2105f7.jpg?ver=1548257397000"
+  img_alt: "What Is A Tagine? Some say Tagines are the best stews; long-cooked in clay vessels with distinctive lids that concentrate flavor in steam. A perfect place to mix the beauty of preserved lemons with your favorite recipes. Ready to get started? Pick up your own Tagine at select Kings locations. Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9b92840e-0a49-4ecb-953b-8d7d8e55b179.jpg?ver=1548250252000"
+  img_alt: "What Is A Tagine? Some say Tagines are the best stews; long-cooked in clay vessels with distinctive lids that concentrate flavor in steam. A perfect place to mix the beauty of preserved lemons with your favorite recipes. Ready to get started? Pick up your own Tagine at select Kings locations. Learn More >"
+  url: "https://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71d4b19b-f029-49dd-9f26-fbfc3945e0b1.jpg?ver=1548250252000"
+  img_alt: "Exotic & Tangy Tagine Recipes"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6af98c62-4240-46e2-890d-bf8199b9561f.jpg?ver=1548250252000"
+  img_alt: "Essential Ingredient Les Moulins Mahjoub Preserved Lemons Salted and pickled in their own juices, these flavorful lemons create the perfect addition to a number of recipes. Here are two of our favorites. Available in the Grocery Department"
+  url: "https://kingsfoodmarkets.com/unique-recipes/tagine-chicken?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dafbf95b-7142-42e6-9689-37351dcc10e6.jpg?ver=1548250253000"
+  img_alt: "Preserved Lemon Tagine Chicken Begin with a spectacularly fresh chicken from Mary&#39;s Chicken, and go on to create this tender and glorious stew, using preserved lemon as the magic ingredient. View Recipe >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/tagine-chicken?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/73dc18c8-2f18-4715-8025-1249f5507f1b.jpg?ver=1548250253000"
+  img_alt_2: "Make It or Take It Monkfish With Preserved Lemon We have everything you need to make this savory stew of monkfish, roasted vegetables and preserved lemon. Or take it home ready for the oven from our Seafood Department. View Recipe >"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/pan-roasted-monkfish-tagine-with-tomato-green-beans-and-potatoes?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4ef10e88-5485-4eb5-bbd6-ea2f360fa9f8.jpg?ver=1548250253000"
+  img_alt: "Game Time Catering It&#39;s Not Too Late To Order! Order your Chef Prepared game day spread today. We also offer a new selection of dishes that allow your guests to make their own custom creations, like our BBQ Pulled Pork Slider Bar, Meatball Parm Slider Bar, Avocado Toast Bar and more! Order Now >"
+  url: "https://catering.kingsfoodmarkets.com/site?utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ce78fdba-261e-4684-8427-10a62b42f52e.jpg?ver=1548250253000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/06d9eea5-fa08-45f4-b8ce-ff1371a2f8d0.jpg?ver=1548257398000"
+  img_alt: "Weekend Deal | Valid 1/25-1/27/19 Michael's of Brooklyn Pasta Sauce All Varieties, 32 oz. Save $5 members pay 4.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cd3d5ce4-a148-472b-9009-370f716a412e.jpg?ver=1548257398000"
+  img_alt: "Save $6 lb. USDA Choice Beef Porterhouse, T-Bone or Shell Steak members pay 8.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/34c62f50-a7bd-4648-957d-da04eb60b0b3.jpg?ver=1548257398000"
+  img_alt_2: "Save $3 lb. Organic Mary's Boneless Skinless Chicken Breasts members pay 7.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/50848840-8460-4ed8-825f-314b4e76ffc1.jpg?ver=1548257398000"
+  img_alt: "Save $1 Halo Clementines 3 lb. Bag members pay 6.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/717ec9b5-b790-48dd-84d1-8eaaae1e297f.jpg?ver=1548257398000"
+  img_alt_2: "Save $2.98 on 2 Fresh Express Chopped Salad Kits All Varieties members pay 2/7."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6301236d-74e3-42ad-b4bb-748bb67c6e0d.jpg?ver=1548257398000"
+  img_alt: "View Hoboken Weekly Sales >"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0125_KF_WeeklyEmail"

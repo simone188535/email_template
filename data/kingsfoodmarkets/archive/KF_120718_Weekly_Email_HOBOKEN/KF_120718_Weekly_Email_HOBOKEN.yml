@@ -1,0 +1,143 @@
+title: 'Holiday Indulgences: Make It Yours.'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/113cfcec-f3cc-4bbc-955c-6e58429d8a6e.jpg?ver=1544103695000"
+  img_alt: "Make the Holidays Yours Add a unique touch to your holidays with our selection of sweet treats."
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5f4b144b-4f1e-424f-9017-7890b99f80e9.jpg?ver=1544103695000"
+  img_alt: "Limited Edition! Winter Wonderland Cake This moist orange cake is infused with real cranberries and a hint of spice. Sprinkle it with confectioners sugar before serving for a personal touch! Learn More >"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9cf8c67b-7edc-4b1d-bd0f-8bce8b261cee.jpg?ver=1544103695000"
+  img_alt: "Craveable Candy Seasonal Indulgences"
+  url: "https://kingsfoodmarkets.com/unique-recipes/ritter-chocloate-and-cheese-platter?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ca65591c-58a7-492c-8368-dc5f81f79e17.jpg?ver=1544103696000"
+  img_alt: "Create savory dishes by pairing Ritter Chocolate with Gorgonzola, Bacon and store-made Parmesan Crisps! Or create a fondue with cinnamon or chipotle chili."
+  url: "https://kingsfoodmarkets.com/unique-recipes/ritter-chocloate-and-cheese-platter?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cd5ac7be-0ae3-4894-97c8-fc3d3cae29aa.jpg?ver=1544103696000"
+  img_alt: "Ritter Chocolate & Cheese Platter View Recipe >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/ritter-chocloate-and-cheese-platter?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a4dfb394-eb93-4e14-b35b-394e7bf58a76.jpg?ver=1544103696000"
+  img_alt_2: "Ritter Dark Chocolate Fondue View Recipe >"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/ritter-dark-chocolate-fondue?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/99e4b0bb-6159-47e7-bd13-46c7fba5f618.jpg?ver=1544103696000"
+  img_alt: "Save the Date"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/cce40a1c-2d6a-4e9c-911c-ebe7e5c95f36.jpg?ver=1544103696000"
+  img_alt: "Holiday Tasting Event Don't miss this special event featuring our favorite roasts plus fresh seafood for the Feast of the Seven Fishes. Sunday, 12/16 | 12 PM-4 PM Select stores only."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12fd38bc-bbc2-4110-97da-a7e4bf618323.jpg?ver=1544103696000"
+  img_alt: "Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b72a508a-ba9b-4cab-8ca7-b7accf63a80b.jpg?ver=1544103697000"
+  img_alt: "Seasonal Scents Bedrock Tree Farm Candles"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ef4dc41e-d796-4282-aeec-e7a65a4b8c39.jpg?ver=1544103697000"
+  img_alt: "A Truly Festive Holiday Gift The intoxicating scent from these candles - made with real, freshly harvested pine needles - is unlike any other on the market. Available in select stores. Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2a5a4d16-2b2e-4127-ab6d-fc485fffe504.jpg?ver=1544103697000"
+  img_alt: "Mary&#34;s Chicken"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9ee92a78-d20a-4f99-b789-28c1555c0cab.jpg?ver=1544103697000"
+  img_alt: "New! The Best Chicken Raised on Family Farms Raised on multigenerational, family owned farms, Mary&#34;s chickens are air-chilled, not water-chilled like many other producers, for a juicier, more flavorful chicken you'll treasure. Organic and Non-Organic Chickens are: • Non-GMO project verified • Antibiotic-free • Vegetarian-fed • Humanely raised"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/825478ec-2a87-4b7b-8042-c47d2288774c.jpg?ver=1544103698000"
+  img_alt: "Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/09d5575e-ccd0-41c4-a6fc-d46b5563f2c1.jpg?ver=1544104514000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/663ee621-9759-462f-af1a-481b71c1c40e.jpg?ver=1544104515000"
+  img_alt: "Weekend Deal | Valid 12/7-12/9/18 Save $15 Kings Extraordinary Large Cocktail Shrimp 2 LB. Bag members pay 19.98 EA."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2f7e9c0f-c371-4988-8b34-f200047e6a80.jpg?ver=1544104515000"
+  img_alt: "Local Beef Save $2.49 lb. Locally Raised 90% Lean Ground Beef members pay 5.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0780b837-d8a4-4afe-b9ca-858fc764f4be.jpg?ver=1544104515000"
+  img_alt_2: "50% OFF SAVE $4.50 Kings Gourmet Cinnamon Raisin Loaf 18 OZ. members pay 4.49 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6a0eaa39-b124-461d-aaa1-e47310848e4f.jpg?ver=1544104515000"
+  img_alt: "View More Specials and Make a List View Hoboken Weekly Sales >"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=1207_KF_WeeklyEmail"
+
+
+

@@ -1,0 +1,138 @@
+title: 'Set the Table for 2019'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a4c561b1-6b63-4f93-84e5-4ce12a124db3.jpg?ver=1545848971000"
+  img_alt: "Welcome 2019 In Style! Set the stage for a delicious New Year."
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c4643ea2-d519-40a2-a759-61ea99999549.jpg?ver=1545848971000"
+  img_alt: "Step Up Your Cocktail Game Perfect your drink presentation with new ideas for garnishes. Instead of the everyday lemon twist, try raspberries or grapes threaded on a skewer for your own signature style."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6fe60c74-91ae-4af7-9ae7-221528acc379.jpg?ver=1545848972000"
+  img_alt: "Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/624aeb3c-f40e-437d-81a7-3cfc248e4475.jpg?ver=1545848972000"
+  img_alt: "Welcome the New Year with Splendid Seafood Make your New Year&#39;s Eve main course magnificent with luxurious lobster tails and fresh king crab legs."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ad5fa652-e295-4272-b903-90e6af0a179b.jpg?ver=1545848972000"
+  img_alt: "Weekend Deal | Valid 12/28-12/31/18 Save $4 lb. Merus Cut King Crab Legs Perfect for surf & turf! The &#34;Merus&#34; section is the largest section of the leg, full of sweet and tender meat considered the filet mignon of King Crab. Pre-cut to avoid cracking, these savory crab legs are ready to enjoy."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b0483167-061d-45f9-b8cc-e1c7ee282d3c.jpg?ver=1545848972000"
+  img_alt: "Nicaraguan Lobster Tails"
+  url: "https://kingsfoodmarkets.com/unique-recipes/grilled-lobster-tails-with-lemon-chive-butter?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7c67ebf2-301b-4cf9-a642-bcc8528bd077.jpg?ver=1545848972000"
+  img_alt_2: "Grilled Lobster Tails with Lemon Chive Butter View Recipe >"
+  url_2: "https://kingsfoodmarkets.com/unique-recipes/grilled-lobster-tails-with-lemon-chive-butter?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a39d3ad6-7191-4e60-96d6-4b5b90568ddb.jpg?ver=1545848972000"
+  img_alt: "New Year&#39;s Catering All of the Elegance, None of the Effort"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ad67215b-3cfc-46e7-931b-bee89472ae16.jpg?ver=1545848972000"
+  img_alt: "Raspberry & Brie Phyllo Flaky phyllo pastry log filled with Brie cheese, raspberry preserves and sliced almonds."
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/27418e6f-87af-4f58-923e-6cf4ed313cd4.jpg?ver=1545848973000"
+  img_alt_2: "Sushi Platters Treat your guests to the freshest sushi, made in-store by our Sushi Chefs."
+  url_2: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4654b341-bd52-4dfc-9b95-f462124f75ef.jpg?ver=1545848973000"
+  img_alt: "Order Online >"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4a2f6903-7b68-497b-99c4-225a74f9b41d.jpg?ver=1545848973000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/49343964-0bd9-4d15-9760-a6ca440a1c27.jpg?ver=1545848973000"
+  img_alt: "Save $4 lb. American Lamb Loin Chops members pay $12.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/84905bff-1032-45ee-9676-1d52546d4259.jpg?ver=1545848973000"
+  img_alt_2: "Save $8 lb. USDA Prime Certified Angus Beef® Tenderloin Steaks members pay 24.99 LB."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e0e6a66b-c8b7-4db6-90cd-cf95940c7016.jpg?ver=1545848974000"
+  img_alt: "Marky&#39;s 1 OZ. Gift Set Caviar Russian Osetra Blister Pack members pay 64.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5974e71c-982e-4763-8372-732ec8f5a567.jpg?ver=1545848974000"
+  img_alt_2: "Buy One Get One BOGO Save $5.99 on 2 Beignets 7 OZ. members Buy 1 Get 1 Free"
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/499fbe66-72a3-4339-b40e-5faf49164709.jpg?ver=1545848974000"
+  img_alt: "View Weekly Sales >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d0b795dc-a345-4ffb-8ece-9ee6ca6ae667.jpg?ver=1545848974000"
+  img_alt: "Your Party, Delivered Fast. Fresh. Delivered. Let Instacart bring the ingredients for the perfect party. Get your grocery list delivered in as little as one hour. Powered by Instacart Order Now > Free Delivery On Your First Order"
+  url: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f00b440d-11ae-4b71-8dd7-d1f797d55fe2.jpg?ver=1545848974000"
+  img_alt: "Here To Help Holiday Store Hours Monday, Dec. 31…7am-8pm Tuesday, Jan. 1…7am-9pm"
+  url: "https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1228_KF_WeeklyEmail"
+
+
