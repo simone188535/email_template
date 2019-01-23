@@ -1,0 +1,108 @@
+title: 'Your finest Thanksgiving feast ever.'
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d5151fdd-aff8-4395-9003-ca0bd3398e5d.jpg?ver=1542216663000'
+  img_alt: 'FABULOUS FEASTS Treat your family and friends to an unforgettable Thanksgiving spread. Catering Full Dinner Package Entrees, Sides & Extras I Serves 6-8 Order Now>'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0b55c158-9bf9-437f-b022-a518f33d2cd9.jpg?ver=1542216664000'
+  img_alt: 'FABULOUS FEASTS Treat your family and friends to an unforgettable Thanksgiving spread. Catering Full Dinner Package Entrees, Sides & Extras I Serves 6-8 Order Now>'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail#butchery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a52a7560-78c3-4b2a-a804-fd778587c0ca.jpg?ver=1542216664000'
+  img_alt: 'EXTRAORDINARY TURKEYS We&#39;re proud to offer a variety of extraordinary turkeys for your feast. Ranging from antibiotic free to organic and even pre-brined. All of our turkeys are: • Ethically raised on small family farms • Fed on a vegetarian diet • Never frozen Ask our butchers to custom-cut your turkey in-store!'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail#seafood'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ba41ebcb-2070-4585-b747-1849589c01d4.jpg?ver=1542216664000'
+  img_alt: 'AW SHUCKS I FRESH SEAFOOD Don&#39;t miss the oyster of the season, our locally harvested fresh whole Blackberry. These oysters shine raw or featured in a baked stuffing for a unique and delicious Thanksgiving side. Fresh Blackberry Oysters'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/recipes/savory-oyster-and-sage-dressing?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bd9d943f-245e-4ea1-8fa7-f6f8b426da4a.jpg?ver=1542216665000'
+  img_alt: 'Recipe Idea Savory Oyster & Sage Dressing View Recipe >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail#chef'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/86e36f77-a0b1-4001-84ce-319aa98fb7b4.jpg?ver=1542216665000'
+  img_alt: 'HOLIDAY INSPIRATION I SEDUCTIVE SIDES TAKE IT Chef Prepared Roasted Brussels Sprouts Pick up in-store or cater'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/recipes/brussels-sprouts-applewood-smoked-bacon?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/539c62d7-97fd-46d2-86bb-9f69e511f1c4.jpg?ver=1542216665000'
+  img_alt: 'MAKE IT Recipe Idea Brussels Sprouts with Applewood Smoked Bacon View Recipe >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail#chef'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2de99b7b-58db-4536-8f6b-fec747a71f19.jpg?ver=1542216666000'
+  img_alt: 'Traditional Herb Stuffing Pick Up In-store or Cater'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail#chef'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2950e34a-6db7-4ff4-9d49-1cfbb7dea097.jpg?ver=1542216666000'
+  img_alt: 'Chef Prepared Haricots Verts Pick Up In-store or Cater'
+  url_2: 'https://www.balduccis.com/recipes/havens-kitchen-charred-string-beans-and-baby-tomatoes-red-pepper-romesco?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4b73d5e5-1864-4984-979f-00228a94a38e.jpg?ver=1542216666000'
+  img_alt_2: 'Haven&#39;s Kitchen Vegan & Gluten Free Sauces'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail#patisserie'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9407e64c-127a-4eb6-937c-428fd2050bb4.jpg?ver=1542216666000'
+  img_alt: 'PERFECT PIES Balducci&#39;s Apple Pie Our classic flaky apple pie is a guaranteed blockbuster featuring fresh, sweet Ida Red apples, real sugar and a hint of cinnamon.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5db5f41f-5632-4f3c-b8bb-b0cc21029a76.jpg?ver=1542216667000'
+  img_alt: 'THANKSGIVING CATERING Make it Delicious. Make it Welcoming. Be more present at your gatherings this year and order from our catering menus with a full suite of appetizers, sides and mains to delight your guests. Order Now >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f375d9b3-260f-4084-9a70-17f6425a5f74.jpg?ver=1542216667000'
+  img_alt: 'TASTING EVENT Visit your local Balducci&#39;s this weekend for a special Thanksgiving Tasting Event, straight from our catering menu! View Details >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail#wine'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2c5f86c8-388f-4a40-bb99-90d235ba5961.jpg?ver=1542216667000'
+  img_alt: 'WINE & CHEESE TASTING EVENT Join us Saturday, November 17th 2-5PM Balducci&#39;s Alexandria, Bethesda, McLean and our newest location in Reston, VA. Experience the ultimate gourmet cheese tasting, plus perfectly paired wine selections.'

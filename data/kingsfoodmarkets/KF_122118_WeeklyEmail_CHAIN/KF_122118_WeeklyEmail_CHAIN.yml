@@ -1,0 +1,156 @@
+title: 'Holiday Indulgences: Make It Yours.'
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2aa5e274-3ea5-4f7b-9ef1-40ee2534a91e.jpg?ver=1545254000000"
+  img_alt: "More Merry The holidays are happier when they're a little easier. With a host of delectable last-minute catering options, we can help! View Menu >"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ebf0010d-88b8-4a24-9355-d2d5bb92d4c2.jpg?ver=1545254000000"
+  img_alt: "Party Platters Kings Specialty Cheese Platter Kings Baked Brie"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b8c7f308-340e-4785-b889-7c20b2e92184.jpg?ver=1545254000000"
+  img_alt_2: "Party Platters Kings Specialty Cheese Platter Kings Baked Brie"
+  url_2: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a9b9002-e77f-429f-a6a1-d781bc820833.jpg?ver=1545254000000"
+  img_alt: "Sides Green Beans with Lemon & Shallots Order Sides Ahead or Pick Up on the Go! Roasted Brussels Sprouts with Cremini Mushrooms Order Now >"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/196631c4-88ce-4f80-922d-2474aadbd37c.jpg?ver=1545254000000"
+  img_alt_2: "Sides Green Beans with Lemon & Shallots Order Sides Ahead or Pick Up on the Go! Roasted Brussels Sprouts with Cremini Mushrooms Order Now >"
+  url_2: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4c99c7f1-ce34-48d2-b7dd-ec4318a42699.jpg?ver=1545254000000"
+  img_alt: "Sides Green Beans with Lemon & Shallots Order Sides Ahead or Pick Up on the Go! Roasted Brussels Sprouts with Cremini Mushrooms Order Now >"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/383ba4f8-1485-4531-8740-b7ff123bff49.jpg?ver=1545254001000"
+  img_alt: "Think Differently Make the Holiday Yours Dare to find yourself this holiday. From a fresh take on floral arrangements to delightfully different appetizers, create lasting, personal memories as a gift for the ones you love."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e250e987-a4cb-4ebe-a642-4a5e6743ca40.jpg?ver=1545254001000"
+  img_alt: "Create Your Own Flower Arrangements 1. Begin with one of our fresh, seasonal bouquets. 2. Line up your favorite bud vases, jars and teacups. 3. Deconstruct the bouquet to create your own personal, simple arrangements."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4e26bba7-76fc-4009-a0ed-33a13f147ee4.jpg?ver=1545254001000"
+  img_alt: "Impress with Interesting Hors D'Oeuvres Our catered asparagus roll ups, featuring asparagus tips delicately wrapped in a flaky phyllo pastry, make a deliciously unique starter. View Menu >"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c11f269b-ad3e-42e4-84dc-8c15fb65f43b.jpg?ver=1545254001000"
+  img_alt: "Rethink the Garnish Instead of ubiquitous sprigs of parsley, complement the shape of our catered crab cakes with soft, round, unexpected florets."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/607a4c43-d7f0-42ec-aa71-6df5725a57aa.jpg?ver=1545254001000"
+  img_alt: "Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/27805815-6432-4e4b-8621-ec32f96fce6b.jpg?ver=1545254001000"
+  img_alt: "End on a Sweet Note"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/81c3eebf-7685-4a7f-9b01-38b8568d761c.jpg?ver=1545254001000"
+  img_alt: "Kings Fresh Fruit Tart"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/30d7925d-b0ea-4997-a59c-d8708493754c.jpg?ver=1545254001000"
+  img_alt: "View More >"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/46361d12-18d4-4fc9-a006-5722f6547164.jpg?ver=1545254001000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/65424cf5-c830-4f78-9649-6f037faedc1e.jpg?ver=1545254002000"
+  img_alt: "Weekend Deal | Valid 12/21-12/24/18 Save $12 Kings Extra Jumbo Cocktail Shrimp 2 LB. Bag members pay 26.98 EA."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8b507d65-cbaf-4188-9303-dee06b636199.jpg?ver=1545254002000"
+  img_alt: "Save $4 lb. Locally Raised Beef Rib Roast members pay 12.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/984a93c2-674f-47f8-95c6-f5154e0e61a4.jpg?ver=1545254002000"
+  img_alt_2: "Kings Chef Prepared Crudité & Cheese Platter members pay 34.99 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d13077f8-8b58-43a3-9d52-c41c35a18af1.jpg?ver=1545254002000"
+  img_alt: "Large Navel Oranges members pay 1.49 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2fe61897-3162-479d-a04a-fedf85d96cf7.jpg?ver=1545254002000"
+  img_alt_2: "Fields of Christmas Box Arrangement members pay 74.99 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/91347528-7cd5-4a48-ac26-5fad05e02a8c.jpg?ver=1545254003000"
+  img_alt: "View Weekly Sales >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/05dd54eb-3ddf-4c48-bbbc-f5f84d6ce4c1.jpg?ver=1545254002000"
+  img_alt: "Holiday Hours We're here to help you through the holiday rush! Monday, Dec. 24…7am-6pm Tuesday, Dec. 25…Closed Monday, Dec. 31…7am-8pm Tuesday, Jan. 1…7am-9pm Find A Store"
+  url: "https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c5b7f132-114f-4500-abaa-80508573cf2d.jpg?ver=1545254003000"
+  img_alt: "Holiday Hours We're here to help you through the holiday rush! Monday, Dec. 24…7am-6pm Tuesday, Dec. 25…Closed Monday, Dec. 31…7am-8pm Tuesday, Jan. 1…7am-9pm Find A Store"
+  url: "https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1221_KF_WeeklyEmail"
+
