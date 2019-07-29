@@ -1,0 +1,123 @@
+title: ''
+  
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/60bb0116-6d41-4ea8-86af-fdbcebf86156.jpg?ver=1547665001000"
+  img_alt: "GAME ON! Catering and football make the perfect call. "
+  url: "https://catering.kingsfoodmarkets.com/site?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b5c3c913-9633-4040-873f-0769132edfcc.jpg?ver=1547665001000"
+  img_alt: "Up your entertaining game this football season with our fresh, citrus-inspired Chef Prepared catering. Order ahead to make extra sure your game is covered, or call an audible with our grab and go, ready to heat and eat prepared foods. It&#39;s a win-win. ORDER NOW >"
+  url: "https://catering.kingsfoodmarkets.com/site?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/08aa116a-cbf0-45d8-86e2-b7cfc3e0af30.jpg?ver=1547665001000"
+  img_alt: "GAME DAY TASTING JOIN US SATURDAY, JANUARY 19TH, 12-4PM Discover new ideas for entertaining while you sample our delicious game day menu, plus, place your catering order while you shop."
+  url: "https://catering.kingsfoodmarkets.com/site?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a1439a7f-49a6-4695-9ed3-93fc93c7d1c8.jpg?ver=1547665001000"
+  img_alt: "STICK TO YOUR RIBS CHEF PREPARED"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b49e2431-12c6-480a-8d84-05262ee33f96.jpg?ver=1547665001000"
+  img_alt: "TANGY, SWEET RIBS Sticky, umami-rich ribs owe an overwhelming debt to citrus. Our ribs are antibiotic-free, vegetarian-fed and humanely-raised on a local farm. Filled with flavors of Orange, Soy Sauce and Ginger, they are every bit as good as they look."
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e6ab9c14-c9ea-4099-a0a0-f15257ba0775.jpg?ver=1547665001000"
+  img_alt: "YUZU MAYO SHAKE IT UP NOT YOUR UNCLE&#39;S SHRIMP COCKTAIL Kings Extra Jumbo Shrimp. Pre-cooked, flash frozen, and ready to defrost and serve cold with an unexpected side dip of Yuzu Mayo. The flavor is slightly savory with notes of tangerine, Meyer lemon and egg yolk."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c5ce7610-6773-481c-9202-3b8818010a90.jpg?ver=1547665001000"
+  img_alt: "A NEW TASTE TO TRY: YUZU A hybrid of mandarin and lime, Yuzu adds an amazing flavor and fragrance to a variety of dishes. It&#39;s flavors are bright, fresh citrus and floral, while slightly tart with just a touch of sweetness. Try our varieties of yuzu marmalade, mayo and miso. LEARN MORE >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d4accfea-81ba-4664-a9ed-c0d172e0b98a.jpg?ver=1547665002000"
+  img_alt: "GRAB & GO MONKFISH MEAL MONKFISH - READY FOR THE OVEN Rich, meaty Monkfish stands up to heady spices, green beans, peppers, purple onion, and the distinctive tang of Preserved Lemon, in a completely delicious, ready-for-over stew. Available in our Seafood Department."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+
+
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0bc7100f-655f-4db9-94f8-2beb84ac02bd.jpg?ver=1547668163000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0cd60de4-4d59-4b61-a391-5ee6ad643c1c.jpg?ver=1547668164000"
+  img_alt: "Weekend Deal | Valid 1/18-1/20/19 Just Fish Wild Caught ALASKAN SALMON FILLET members pay 12.99 lb. Save $3 lb."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/756aef15-1cdc-4559-9d6d-68f29370603c.jpg?ver=1547668164000"
+  img_alt: "members extra! savings Save $1.70 lb. Mary&#39;s BUFFALO CUT CHICKEN WINGS members pay 2.99 lb."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8b076e1d-177f-4bee-b92e-52e1237a0314.jpg?ver=1547668164000"
+  img_alt_2: "members extra! savings Save $1 Kings Chef Inspired LEMON GARLIC SHRIMP SKEWER members pay 8.99 ea."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a8c5a307-9af3-48c0-b8bd-cb8e74c473eb.jpg?ver=1547668164000"
+  img_alt: "members extra! savings Save $2 on 2 HASS AVOCADOS members pay 2/4."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f25f630f-80ae-49db-a252-44ed89fade35.jpg?ver=1547668164000"
+  img_alt_2: "members extra! savings Save $1.98 on 2 Organic Earthbound Farm SALADS members pay 2/8."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/68620120-14de-4fe7-9d1d-90d3e349d22b.jpg?ver=1547668164000"
+  img_alt: "View Hoboken Weekly Sales >"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0118_KF_WeeklyEmail"

@@ -1,0 +1,201 @@
+title: ''
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "https://oldtimepottery.com/?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_02.jpg"
+outdoor_img_alt: "ALL HALLOWEEN 75% OFF"
+outdoor_img_link: "https://oldtimepottery.com/departments/seasonal/halloween.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=otp_seasonal"
+
+preheader_text: 'Visit Old Time Pottery for Amazing Value'
+preheader_link: 'https://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_02.jpg'
+  image_alt: 'EXTENDED STORE HOURS MONDAY - SATURDAY 8am - 9pm  SUNDAY 9am - 8pm'
+  image_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_03.jpg'
+  image_alt: 'STEP AWAY FROM THE COMPUTER AND Save MORE THIS CYBER MONDAY BY VISITING OLD TIME POTTERY'
+  image_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_04.jpg'
+  image_first_alt: '$39.99Each HOLIDAY QUILT SET [See More Selection]'
+  image_first_link: 'https://oldtimepottery.com/departments/seasonal/christmas/holiday-home/quilts-comforters.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=quilt_sets'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_05.jpg'
+  image_second_alt: '$2.99Each 50&#34; x 60&#34; FLEECE THROW AVAILABILITY MAY VARY BY STORE'
+  image_second_link: 'https://oldtimepottery.com/departments/bed-bath/quilts-blankets.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=fleece_throws'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_06.jpg'
+  image_first_alt: '$39.99Each HOLIDAY QUILT SET [See More Selection]'
+  image_first_link: 'https://oldtimepottery.com/departments/seasonal/christmas/holiday-home/quilts-comforters.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=quilt_sets'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_07.jpg'
+  image_second_alt: '$25.00Each 28&#34; LANTERN WITH 3 LED CANDLES AVAILABILITY MAY VARY BY STORE'
+  image_second_link: 'https://oldtimepottery.com/departments/home-decor/candles-candle-holders.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=led_candles'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_08.jpg'
+  image_first_alt: 'AVAILABILITY MAY VARY BY STORE $9.99Each KITCHEN HELPERS [See More Selection]'
+  image_first_link: 'https://oldtimepottery.com/departments/kitchen/cookware-bakeware.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=bakeware'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_09.jpg'
+  image_second_alt: '$25.00Each 28&#34; LANTERN WITH 3 LED CANDLES AVAILABILITY MAY VARY BY STORE'
+  image_second_link: 'https://oldtimepottery.com/departments/home-decor/candles-candle-holders.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=led_candles'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_10.jpg'
+  image_first_alt: 'AVAILABILITY MAY VARY BY STORE $9.99Each KITCHEN HELPERS [See More Selection]'
+  image_first_link: 'https://oldtimepottery.com/departments/kitchen/cookware-bakeware.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=bakeware'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_11.jpg'
+  image_second_alt: '$12.99Each FRYING PAN SET 11&#34; 8&#34; 9.5&#34; AVAILABILITY MAY VARY BY STORE'
+  image_second_link: 'https://oldtimepottery.com/departments/kitchen/cookware-bakeware.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=frying_pan_set'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_12.jpg'
+  image_first_alt: 'AVAILABILITY MAY VARY BY STORE $9.99Each KITCHEN HELPERS [See More Selection]'
+  image_first_link: 'https://oldtimepottery.com/departments/kitchen/cookware-bakeware.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=bakeware'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_13.jpg'
+  image_second_alt: '$12.99Each SHARPER IMAGE SEAT CUSHION'
+  image_second_link: 'https://oldtimepottery.com/departments/seasonal/christmas/amazing-values.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=cushion_seat'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_14.jpg'
+  image_first_alt: '$129.99Each 7FT PATIO HEATER'
+  image_first_link: 'https://oldtimepottery.com/departments/seasonal/christmas/amazing-values.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=patio_heater'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_15.jpg'
+  image_second_alt: '$12.99Each SHARPER IMAGE SEAT CUSHION'
+  image_second_link: 'https://oldtimepottery.com/departments/seasonal/christmas/amazing-values.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=cushion_seat'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_16.jpg'
+  image_first_alt: '$129.99Each 7FT PATIO HEATER'
+  image_first_link: 'https://oldtimepottery.com/departments/seasonal/christmas/amazing-values.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=patio_heater'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_17.jpg'
+  image_second_alt: '$79.99Each TAILGATE SPEAKER AVAILABILITY MAY VARY BY STORE'
+  image_second_link: 'https://oldtimepottery.com/departments/seasonal/christmas/amazing-values.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=tailgate_speaker'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_18.jpg'
+  image_first_alt: '$129.99Each 7FT PATIO HEATER'
+  image_first_link: 'https://oldtimepottery.com/departments/seasonal/christmas/amazing-values.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=patio_heater'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_19.jpg'
+  image_second_alt: '$75.00Each AVAILABILITY MAY VARY BY STORE QUEEN AIR MATTRESS WITH 2 PILLOWS, 4PC SHEET SET & PUMP'
+  image_second_link: 'https://oldtimepottery.com/departments/seasonal/christmas/amazing-values.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=air_mattress'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_20.jpg'
+  image_first_alt: 'BEST TOY BRANDS ARE HERE $1 - $59.99 LARGE ASSORTMENT OF TOYS INCLUDING PRESCHOOL TOYS ASSORTMENT OF PRESCHOOL TOYS [See More Selection] AVAILABILITY MAY VARY BY STORE'
+  image_first_link: 'https://oldtimepottery.com/departments/seasonal/toys/pre-school-playsets.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=best_toy_brands'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_21.jpg'
+  image_second_alt: '$75.00Each AVAILABILITY MAY VARY BY STORE QUEEN AIR MATTRESS WITH 2 PILLOWS, 4PC SHEET SET & PUMP'
+  image_second_link: 'https://oldtimepottery.com/departments/seasonal/christmas/amazing-values.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=air_mattress'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_22.jpg'
+  image_first_alt: 'BEST TOY BRANDS ARE HERE $1 - $59.99 LARGE ASSORTMENT OF TOYS INCLUDING PRESCHOOL TOYS ASSORTMENT OF PRESCHOOL TOYS [See More Selection] AVAILABILITY MAY VARY BY STORE'
+  image_first_link: 'https://oldtimepottery.com/departments/seasonal/toys/pre-school-playsets.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=best_toy_brands'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_23.jpg'
+  image_second_alt: '$39.99Each AVAILABILITY MAY VARY BY STORE 59&#34; PLUSH DOG'
+  image_second_link: 'https://oldtimepottery.com/departments/seasonal/toys/dolls-plush.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=plush_toys'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_24.jpg'
+  image_first_alt: 'BEST TOY BRANDS ARE HERE $1 - $59.99 LARGE ASSORTMENT OF TOYS INCLUDING PRESCHOOL TOYS ASSORTMENT OF PRESCHOOL TOYS [See More Selection] AVAILABILITY MAY VARY BY STORE'
+  image_first_link: 'https://oldtimepottery.com/departments/seasonal/toys/pre-school-playsets.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=best_toy_brands'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_25.jpg'
+  image_second_alt: '$25.00Each AVAILABILITY MAY VARY BY STORE TONKA DUMP TRUCK'
+  image_second_link: 'https://oldtimepottery.com/departments/seasonal/toys/cars-action.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=tonka_dump_trucks'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_26.jpg'
+  image_alt: '[See More Selection]'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/toys.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=selection_of_toys'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_27.jpg'
+  image_alt: 'FINISH DECORATING TODAY!'
+  image_link: 'https://oldtimepottery.com/christmas?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=finish_decorating'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_28.jpg'
+  image_alt: 'WE GOT THE Elf Family TOGETHER FOR THE HOLIDAYS $9.99-14.99Each ASSORTMENT OF ELVES'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/christmas/trim-a-home/christmas-home-accents.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=elf_family'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_29.jpg'
+  image_alt: '2pk 3.57&#39; Pre-lit Cashmere Porch Tree $34.99 47&#39; Pre-lit Noble Pine $14.99 also available in white 7.57&#39; Pre-lit Cashmere Mixed Pine $99.99 7&#39; Pre-lit Quick Set Winthrop $99.99 [See Selection]'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/christmas/christmas-trees.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=pre-lit_trees'
+
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_30.jpg'
+  image_first_alt: '$2.99Each INDOOR/OUTDOOR LIGHT 100 COUNT SETS'
+  image_first_link: 'https://oldtimepottery.com/departments/seasonal/christmas/trim-a-tree/lights.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=indoor_outdoor_lights'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_31.jpg'
+  image_second_alt: '$7.99Each 41CT SHATTERPROOF ORNAMENTS ASSORTED STYLES. 60MM.'
+  image_second_link: 'https://oldtimepottery.com/departments/seasonal/christmas/trim-a-tree/ornaments.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=shatterproof_ornaments'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_32.jpg'
+  image_alt: 'YULE LOVE THESE DEALS 15&#34; Poinsettias $3.99Each'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/christmas/trim-a-home/christmas-floral.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=christmas_floral'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_33.jpg'
+  image_alt: 'HARVEST DÉCOR AND FLORAL 75% OFF [Learn More]'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/harvest-167.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=otp_harvest'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_34.jpg'
+  image_alt: 'Our biggest selection of brands ever! [Learn More]'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/toys.html?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=see_selection'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_35.jpg'
+  image_alt: 'RED TAG CLEARANCE 14,000 ITEMS INCLUDED 50% OFF LOOK FOR THE RED  STICKER & SAVE! YELLOW TAG CLEARANCE ALL ACROSS THE STORE 75% OFF GET THEM WHILE YOU STILL CAN! [Save]'
+  image_link: 'https://oldtimepottery.com/clearance?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=red_tag_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_folder3/OTP_11.26.18_CyberMonday_v2-FINAL_36.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=otp_instagram'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=otp_gift_cards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=otp_account_login'
+
+socialnav:
+- link: "http://instagram.com/oldtimepottery?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery?utm_source=otp_weekly11_26&utm_medium=email&utm_campaign=cyber_monday&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"

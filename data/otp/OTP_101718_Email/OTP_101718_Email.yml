@@ -1,0 +1,90 @@
+title: ''
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_image2/OTP_101718_Email_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "https://oldtimepottery.com/?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_image2/OTP_101718_Email_02.jpg"
+outdoor_img_alt: "YOUR LARGEST CHRISTMAS STORE [See Preview]"
+outdoor_img_link: "https://oldtimepottery.com/christmas-preview?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=christmas_preview"
+
+preheader_text: 'Drop in for our best selection of party décor.'
+preheader_link: 'https://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_101718_Email_03.jpg'
+  image_alt: 'RAISE SOME SPIRITS CAST A SPELL ON YOUR NEIGHBORS WITH OUR NEWEST YARD DÉCOR COLLECTIONS! [Learn More] Tombstones 4.99-19.99 Each Hanging Reapers 4.99-14.99 Each'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/halloween/outdoor-decor.html?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=raise_some_spirits'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_101718_Email_04.jpg'
+  image_alt: 'RAISE SOME SPIRITS CAST A SPELL ON YOUR NEIGHBORS WITH OUR NEWEST YARD DÉCOR COLLECTIONS! [Learn More] Tombstones 4.99-19.99 Each Hanging Reapers 4.99-14.99 Each'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/halloween/outdoor-decor.html?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=raise_some_spirits'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_101718_Email_05.jpg'
+  image_alt: 'FRIGHT NIGHT FUN SET A SPOOKY ATMOSPHERE FOR GUESTS WITH COOL PARTY SUPPLIES. [Learn More] 12&#34; Halloween Candle Lanterns 8.99 Each 7.5&#34; Battery Operated Glass Colored Mason Jars 4.99 Each Halloween Décor 5.99-12.99 Each 7.5&#34; Glass Halloween Light Orbs 10.99 Each'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/halloween/indoor-decor.html?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=fright_night_fun'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_101718_Email_06.jpg'
+  image_alt: 'THE LEAVES ARE CALLING DROP IN FOR OUR BEST VARIETY OF GORGEOUS FALL FLORAL! [Learn More]'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/halloween/indoor-decor.html?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=fall_floral'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_101718_Email_07.jpg'
+  iimage_first_alt: 'Linens & Tablecloths 2.99-19.99 Each [See Selection]'
+  image_first_link: 'https://oldtimepottery.com/departments/dining-entertaining/table-linens.html?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=table_linens'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_101718_Email_08.jpg'
+  image_second_alt: 'Lanterns 1.29-79.99 Each [See Selection]'
+  image_second_link: 'https://oldtimepottery.com/departments/home-decor/lighting.html?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=lanterns'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_101718_Email_09.jpg'
+  image_alt: 'EVERGREEN DREAMS FIND THE PERFECT CHRISTMAS TREE FOR ANY STYLE OR BUDGET! [Learn More]'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/christmas/christmas-trees.html?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=evergreen_dreams'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_101718_Email_10.jpg'
+  image_alt: 'RED TAG CLEARANCE 14,000 ITEMS INCLUDED 25% OFF LOOK FOR THE RED STICKER & SAVE! YELLOW TAG CLEARANCE ALL ACROSS THE STORE 60% OFF GET THEM WHILE YOU STILL CAN! [Save]'
+  image_link: 'https://oldtimepottery.com/clearance?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=otp_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_101718_Email_11.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=otp_instagram'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=otp_gift_cards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=otp_account'
+
+socialnav:
+- link: "http://instagram.com/oldtimepottery?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery?utm_source=otp_weekly10-17&utm_medium=email&utm_campaign=halloween_parties&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"

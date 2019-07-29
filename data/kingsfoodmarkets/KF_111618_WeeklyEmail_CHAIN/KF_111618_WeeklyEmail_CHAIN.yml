@@ -1,0 +1,151 @@
+title: ''
+  
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0d32d44e-b0e7-4599-9c29-14ffc906c0a1.jpg?ver=1542293255000"
+  img_alt: "The Perfect Feast Celebrate family and friends with a gourmet Thanksgiving meal. Thanksgiving Catering Order Now>"
+  url: "https://catering.kingsfoodmarkets.com/items/folder/thanksgiving-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/79bf45f9-1c72-4b96-a205-789aae0e4b11.jpg?ver=1542293255000"
+  img_alt: "At Your Service"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3144f467-1e63-40a3-aefc-e4f57f48f4e0.jpg?ver=1542293255000"
+  img_alt: "Let us custom cut & prep your turkey to order • Truss & Trim • Debone & Tie for galantine & ballotine • Spatchcock or Split Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3a0a0359-6c43-4cda-83d6-31530b28f8ac.jpg?ver=1542293255000"
+  img_alt: "myKINGS EXTRA! SAVINGS Thanksgiving Inspiration"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/aa982e87-6042-47a9-8393-bde387a83c88.jpg?ver=1542293256000"
+  img_alt: "Kings Plainville Fresh Turkeys members pay 2.79 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c6dee403-81e2-40f6-9b6f-1592d8e6ec93.jpg?ver=1542293256000"
+  img_alt_2: "Kings Patisserie Pumpkin Cake members pay 18.99 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e8ae95bf-f53d-414d-afd1-912c9b62c322.jpg?ver=1542293256000"
+  img_alt: "Save $1 lb. Organic Garnett or Jewel Yams members pay 1.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/631e6755-2dea-4051-a511-c24627447849.jpg?ver=1542293256000"
+  img_alt_2: "Save $2 Green Beans 2 lb. Bag members pay 7.99 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0befe9b3-f110-4786-9b91-c373faff4313.jpg?ver=1542293256000"
+  img_alt: "View Weekly Sales >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/6a1b1d95-6e46-4cc4-ba48-1e4c81c49b9d.jpg?ver=1542293256000"
+  img_alt: "Aw Shucks Oyster of the Season Our locally harvested, fresh, whole Blue Point Oysters shine raw or featured in a baked stuffing for a uniquely delicious Thanksgiving side."
+  url: "https://kingsfoodmarkets.com/unique-recipes/savory-oyster-and-sage-dressing?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/71ea528b-fda7-4b05-8c45-365cd3b200d7.jpg?ver=1542293256000"
+  img_alt: "Fresh Blue Point Oysters"
+  url: "https://kingsfoodmarkets.com/unique-recipes/savory-oyster-and-sage-dressing?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f8d9981e-0bf2-4b8e-87c7-666647d58e07.jpg?ver=1542293256000"
+  img_alt: "Savory Oyster & Sage Dressing View Recipe >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/savory-oyster-and-sage-dressing?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/47a243b0-4ec9-4850-b5fe-78c073ad3e4c.jpg?ver=1542293257000"
+  img_alt: "Harvest Veggies Enjoy perfect fall produce however you like it: get it fresh for your own recipes, pick up Chef Prepared sides in-store or order catered sides as part of a full Thanksgiving spread."
+  url: " https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/thanksgiving-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fcffcf9d-46ef-4cd7-a122-d9ccad84ff51.jpg?ver=1542293257000"
+  img_alt: "Make It… Maple Whipped Sweet Potatoes View Recipe >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/whipped-maple-sweet-potatoes?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/46e192aa-96af-4b7c-b9e3-48e869e2df54.jpg?ver=1542293257000"
+  img_alt_2: "Take It… Roasted Brussels Sprouts with Cremini Mushrooms"
+  url_2: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/28f5d632-1b13-405a-8026-0e5d8a6b911b.jpg?ver=1542293257000"
+  img_alt: "or Order It! Thanksgiving Catering Be more present at your gatherings this year and order from our catering menus with a full suite of appetizers, sides and mains to delight your guests. Order Now >"
+  url: " https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/thanksgiving-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c3ea2d05-8c94-4aec-a03f-e246a07514c9.jpg?ver=1542293257000"
+  img_alt: "An Ode to Pies Our patisseries craft a wide range of harvest pies every day including Apple, Pumpkin, Sweet Potato and more!"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/83ae4e77-7bd6-48f0-93fb-2002db9284be.jpg?ver=1542293257000"
+  img_alt: "Kings Classic Holiday Pies 12.99 EA. View More >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0172dd50-8917-4d75-aafa-a1cafbdde765.jpg?ver=1542293257000"
+  img_alt: "Kings Classic Holiday Pies 12.99 EA. View More >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a89bf26d-adf8-4615-9396-6750201c1420.jpg?ver=1542293258000"
+  img_alt: "Kings Turkey Drive"
+  url: "https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7b987974-d34a-42e2-8118-03d9c3c39b9e.jpg?ver=1542293258000"
+  img_alt: "Gobble, Gobble Help Families in Need Help us fill the Community Foodbank of NJ's donation truck with turkeys so local families in need will be able to celebrate Thanksgiving! Short Hills, Gillette and Garwood locations Saturday, 11/17 I 9am - 2pm Find a Store >"
+  url: "https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_KF_WeeklyEmail"
+
+
+

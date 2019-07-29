@@ -1,0 +1,138 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5e54a0ce-48c5-444c-aa44-98697be82fcf.jpg?ver=1549393533000"
+  img_alt: "HOT IDEAS FOR VALENTINE'S DAY"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/edb9733f-e51f-4cc6-8152-dbc4f2e7b311.jpg?ver=1549393533000"
+  img_alt: "THE HEAT OF THE MOMENT AT THIS TIME OF YEAR, everyone's talking Naughty instead of Nice. Look at the language: Tempt. Entice. Indulge. Satiate. But there's more than a little Heat in the idea of indulgence. And, as we're in the business of Luscious, we've collected a few things to get you started."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d74f553c-6743-4ee4-9802-98fafccd7fe8.jpg?ver=1549393533000"
+  img_alt: "DINNER FOR TWO VALENTINE'S DAY CATERING CHEF PREPARED THREE-COURSE MEAL Make Valentine's Day sweet and simple with a perfectly prepared three-course dinner. Choose two appetizers, entrées and desserts, and set the stage for romance. ORDER NOW>"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/category/dinner-for-two?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2f3b6584-8f52-4d91-aba4-5383aa9c5c9c.jpg?ver=1549393533000"
+  img_alt: "INDULGENT SWEETS & ADD ONS Want to really spoil your sweetheart? Add an indulgent gift of gourmet candy, baked treats or fresh roses to pair with your dinner."
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/category/dinner-for-two?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/32f79101-2d58-41ea-9828-7687787958ee.jpg?ver=1549393534000"
+  img_alt: "SUGARFINA &#34;KISS ME&#34; CUBES Sweet and sour gummy lips filled with cherry, watermelon and strawberry flavors."
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/category/dinner-for-two?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/786da72f-50d5-49c8-b152-1524173fbc30.jpg?ver=1549393534000"
+  img_alt_2: "NEUHAUS CHOCOLATES Classic Belgian chocolates in a traditional red heart-shaped box. Available in select stores. "
+  url_2: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/category/dinner-for-two?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/81657573-611a-476a-8b4a-1b79183ac4e3.jpg?ver=1549393534000"
+  img_alt: "ROSE BOUQUET A beautiful bouquet of one dozen solid red or multi-colored roses with baby's breath and greens."
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/category/dinner-for-two?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ed79944b-cf4c-4cda-a4e1-7340364f165b.jpg?ver=1549393534000"
+  img_alt_2: "SOTTOCENERE Raw cow's milk cheese made with white truffles, herbs and spices. Available in the Cheese Department. "
+  url_2: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/category/dinner-for-two?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/be27fec3-642f-4bcd-ac42-44f6833e00dd.jpg?ver=1549393534000"
+  img_alt: "VIEW MORE>"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/category/dinner-for-two?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94b88812-bfc7-4c9a-b269-7366bf3ad8ea.jpg?ver=1549393535000"
+  img_alt: "GREAT GIFT IDEAS FOR VALENTINE&#39;S DAY"
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0a52da7-240c-47ed-9c1b-21d2fddfaf35.jpg?ver=1549393535000"
+  img_alt: "SOMETHING FOR EVERYONE Looking for the perfect Valentine&#39;s Day gift? We offer a wide selection of gift cards for the most popular brands, as well as Kings gift cards and Cooking Studio gift certificates."
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/84a286db-b86c-4955-b92c-85c6797d8e37.jpg?ver=1549393535000"
+  img_alt: "PAPYRUS GREETING CARDS Whether it's a significant other, best friend or child, share your fondest sentiments with Valentine's Day cards from Papyrus. Choose from unique designs to show them just how much they mean to you."
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8937176f-b767-45d4-ae82-a78b4e624562.jpg?ver=1549393535000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4bf0fbbe-24ea-4cc4-ad5b-8e993396b665.jpg?ver=1549393535000"
+  img_alt: "members extra! SAVINGS CHOCOLATE COVERED STRAWBERRIES Milk or Dark members pay 19.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/27661d1f-6318-4058-8cf7-e7478acc0952.jpg?ver=1549393535000"
+  img_alt: "members extra! SAVINGS SWEETHEART DEAL Valid 2/13 - 2/17/19 USDA Prime Natural RIBEYE SWEETHEART AND RIBEYE STEAKS Save $7 lb. members pay 14.99 LB."
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/06e4d580-d515-4157-b185-ff221f6cf8af.jpg?ver=1549393536000"
+  img_alt_2: "members extra! SAVINGS SAVE $1 Vitamia HEART SHAPE RAVIOLI Small or Large, 14 oz. members pay 8.99-9.99 EA."
+  url_2: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c7202c20-7c9d-45ad-9f80-b895ba37793d.jpg?ver=1549393536000"
+  img_alt: "View Weekly Sales >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+#
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c7202c20-7c9d-45ad-9f80-b895ba37793d.jpg?ver=1549393536000"
+#   img_alt: "WHAT'S NEW IN-STORE"
+#   url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/08525f15-807f-4f8c-abe8-37a47ea8ae86.jpg?ver=1549393536000"
+  img_alt: "WHAT'S NEW IN-STORE SHARE THE LOVE FOOD DRIVE FEBRUARY 9-10 Join us in the fight against hunger this weekend at all Kings locations. Meet members of your local food bank collecting donations, and pick up a new shopping list of the most needed items."
+  url: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=020819_KF_WeeklyEmails"

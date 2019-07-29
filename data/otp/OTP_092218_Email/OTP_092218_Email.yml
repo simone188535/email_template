@@ -1,0 +1,83 @@
+title: ''
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_092218_v2_FNL_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "https://oldtimepottery.com/?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_092218_v2_FNL_02.jpg"
+outdoor_img_alt: "HARVEST IS HERE [Get Inspired]"
+outdoor_img_link: "https://oldtimepottery.com/harvest?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=harvest_logo"
+
+preheader_text: 'More style for less'
+preheader_link: 'https://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_092218_v2_FNL_03.jpg'
+  image_alt: 'THREE-DAY RUG SALE SALE ENDS SUNDAY, SEPETEMBER 23RD Featuring our largest variety of colors and styles ever! 5&#39; x 7&#39; 39.99 Sale | REG. PRICE $49.99 Woven, Shag, Tufted, Print, Tapestry, Indoor and Outdoor Sizes are approximate. Selection varies by store. [Learn More] 8&#39; x 10&#39; 99.99 Sale | REG. PRICE $129.99'
+  image_link: 'https://oldtimepottery.com/departments/home-decor/rugs.html?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=3day_rugsale'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_092218_v2_FNL_04.jpg'
+  image_alt: 'BEAUTIFUL FURNITURE FOR EVERY STYLE COME SEE A BEVY OF NEW, AFFORDABLE DÉCOR FOR FALL! [View Selection] Selection varies by store. '
+  image_link: 'https://oldtimepottery.com/departments/home-decor/furniture.html?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=furniture_HERO'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_092218_v2_FNL_05.jpg'
+  image_alt: 'SO MANY NEW SELECTIONS AT BUDGET-FRIENDLY PRICES! Parson&#39;s Chairs 59.99 Each Barstool with Adjustable Legs 24&#34; or 29&#34; 39.99 Each Papasan Chair 46&#34; Cushion Assorted colors 49.99 Each 2pc Frame Set 79.99 Each Farmhouse Wood Cabinet 229.99 Each 3 Tier Natural Bookshelf 119.99 Each Black Nightstand w / 2 Doors and 1 Drawer 99.99 Each [See More]'
+  image_link: 'https://oldtimepottery.com/departments/home-decor/furniture.html?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=furniture_seeMore'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_092218_v2_FNL_06.jpg'
+  image_alt: '$6.99 Sale 5&#39; FABRIC SACRECROW OR CROW ON A POLE REG. $9.99 [See More]'
+  image_link: 'https://oldtimepottery.com/harvest?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=scarecrow_sale'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_092218_v2_FNL_07.jpg'
+  image_alt: 'SPELLBINDING SAVINGS [Learn More]'
+  image_link: 'https://oldtimepottery.com/halloween?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=spellbinding_savings'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_092218_v2_FNL_08.jpg'
+  image_alt: 'RED TAG CLEARANCE 14,000 ITEMS INCLUDED 25% OFF LOOK FOR THE RED STICKER & SAVE! YELLOW TAG CLEARANCE ALL ACROSS THE STORE 60% OFF GET THEM WHILE YOU STILL CAN! [Save]'
+  image_link: 'https://oldtimepottery.com/clearance?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=otp_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_092218_v2_FNL_09.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=otp_instagram'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=otp_giftcards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=otp_account'
+
+socialnav:
+- link: "http://instagram.com/oldtimepottery?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery?utm_source=otp_weekly09_22&utm_medium=email&utm_campaign=furniture_accents&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"

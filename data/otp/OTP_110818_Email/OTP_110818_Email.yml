@@ -1,0 +1,134 @@
+title: ''
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "https://oldtimepottery.com/?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=otp_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_02.jpg"
+outdoor_img_alt: "ALL HALLOWEEN 75% OFF"
+outdoor_img_link: "https://oldtimepottery.com/departments/seasonal/halloween.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=otp_seasonal"
+
+preheader_text: 'More Trees, Ornaments, Floral and Toys'
+preheader_link: 'https://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_03.jpg'
+  image_alt: 'CREATE THE PERFECT TREE HUGE SELECTION AT THE PERFECT PRICE'
+  image_link: 'https://oldtimepottery.com/christmas?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=otp_christmas'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_04.jpg'
+  image_alt: '$159.99 7&#39; PRE-LIT BRONSON QUICK SET CASHMERE PINE TREE  * Automated Lighting System * With Rotating Stand'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/christmas/christmas-trees.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=7_foot_pre-lit_trees'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_05.jpg'
+  image_first_alt: '$99.99 Each 7.5&#39 PRE-LIT CASHMERE MIXED PINE TREE'
+  image_first_link: 'https://oldtimepottery.com/departments/seasonal/christmas/christmas-trees.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=7.5_foot_pre-lit_trees'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_06.jpg'
+  image_second_alt: ' $149.99Each 7.5&#39; PRE-LIT FLOCKED DONNER SPRUCE TREE Also available  9&#39; Flocked Spruce 229.99'
+  image_second_link: 'https://oldtimepottery.com/departments/seasonal/christmas/christmas-trees.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=9_foot_pre-lit_trees'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_07.jpg'
+  image_first_alt: '$69.99Each 7&#39; PRE-LIT PENCIL TREE Also available 9&#39; Pre-Lit Aspen Pencil Tree 99.99'
+  image_first_link: 'https://oldtimepottery.com/departments/seasonal/christmas/christmas-trees.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=pencil_tree'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_08.jpg'
+  image_second_alt: '$14.99Each 4&#39; PRE-LIT NOBLE PINE TREE White or Green'
+  image_second_link: 'https://oldtimepottery.com/departments/seasonal/christmas/christmas-trees.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=4_foot_pre-lit'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_09.jpg'
+  image_alt: '[See More Selection]'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/christmas/christmas-trees.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=see_more_selection'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_10.jpg'
+  image_alt: 'TRIM IT OUT WITH ORNAMENTS AND FLORAL'
+  image_link: 'https://oldtimepottery.com/christmas?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=ornaments_and_floral'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_11.jpg'
+  image_alt: '$7.99Each LICENSED ORNAMENTS'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/christmas/trim-a-tree/ornaments.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=licensed_ornaments'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_12.jpg'
+  image_first_alt: '$2.99-14.99Each BOXED SHATTERPROOF ORNAMENTS Assorted Sizes and Styles'
+  image_first_link: 'https://oldtimepottery.com/departments/seasonal/christmas/trim-a-tree/ornaments.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=shatterproof_ornaments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_13.jpg'
+  image_second_alt: '.99Each BOXED MONOGRAM ORNAMENTS Assorted Styles '
+  image_second_link: 'https://oldtimepottery.com/departments/seasonal/christmas/trim-a-tree/ornaments.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=boxed_monogramed'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_14.jpg'
+  image_first_alt: '$1.99-4.99Each BOXED GLASS ORNAMENTS Assorted Sizes and Styles'
+  image_first_link: 'https://oldtimepottery.com/departments/seasonal/christmas/trim-a-tree/ornaments.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=boxed_glass_ornaments'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_15.jpg'
+  image_second_alt: '$3.99-12.88Each CHRISTMAS FLORAL Assorted Picks & Bushes'
+  image_second_link: 'https://oldtimepottery.com/departments/seasonal/christmas/trim-a-home/christmas-floral.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=christmas_floral_picks_%26_bushes'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_16.jpg'
+  image_alt: '[See More Selection]'
+  image_link: 'https://oldtimepottery.com/christmas?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=see_more_selections'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_17.jpg'
+  image_alt: 'THE BEST BRANDS ARE HERE!'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/toys.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=best_brand_toys'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_18.jpg'
+  image_alt: '[See Toys]'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/toys.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=see_all_toys'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_19.jpg'
+  image_alt: 'FALL FLORAL CLEARANCE 50% OFF [See Selection]'
+  image_link: 'https://oldtimepottery.com/departments/seasonal/harvest-152/fall-floral.html?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=fall_floral'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_20.jpg'
+  image_alt: 'RED TAG CLEARANCE 14,000 ITEMS INCLUDED 50% OFF LOOK FOR THE RED STICKER AND SAVE! YELLOW TAG CLEARANCE ALL ACROSS THE STORE 75% OFF GET THEM WHILE YOU STILL CAN! [Save]'
+  image_link: 'https://oldtimepottery.com/clearance?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=red_tag_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_11.8.18_Email_FNL2_21.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=otp_instagram'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=otp_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=otp_locations'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=otp_gift_cards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=otp_account_login'
+
+socialnav:
+- link: "http://instagram.com/oldtimepottery?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=otp_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=otp_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=otp_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery?utm_source=otp_weekly11_08&utm_medium=email&utm_campaign=trees_and_trimmings&utm_term=discount_home_decor&utm_content=otp_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"

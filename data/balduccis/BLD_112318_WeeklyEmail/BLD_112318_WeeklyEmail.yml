@@ -1,0 +1,103 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/chanukah?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d395fe98-8fa7-47ec-98fb-cffb0ce86c82.jpg?ver=1542813374000'
+  img_alt: 'Chanukah Made Easy Celebrate the Festival of Lights with a classic catered feast. Catering Traditional Beef Brisket Entrée, Starter, Sides & Extras | Serves 6 Order Now'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/chanukah?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b68abc5f-ccc7-40de-bfad-972c886161c2.jpg?ver=1542813374000'
+  img_alt: 'Chanukah Made Easy Celebrate the Festival of Lights with a classic catered feast. Catering Traditional Beef Brisket Entrée, Starter, Sides & Extras | Serves 6 Order Now'
+  
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/chanukah?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/835f4b63-bbcc-4104-85fb-fa3e1c5b5775.jpg?ver=1542813375000'
+  img_alt: 'Chanukah Catering Our specialized menu has a range of full dinner packages and à la carte traditional specialties like potato latkes, matzoh ball soup and more to build your meal. View Menu'
+ 
+- type: 'image'
+  url: 'https://www.balduccis.com/explore/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail#chef'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e5024079-d35a-475d-8127-ad4270d23d33.jpg?ver=1542813375000'
+  img_alt: 'Chef Prepared | Chanukah To Go Made in our stores daily, our Chef Prepared Chanukah classics are ready to go when you are. Pick up your favorites in-store to complete your holiday feast.'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/explore/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail#chef'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cf6c274e-9ce6-448e-8297-8a25aa304c06.jpg?ver=1542813375000'
+  img_alt: 'Roasted Squash & Parsnips with Apples Pick up in-store or cater'
+  url_2: 'https://www.balduccis.com/explore/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail#chef'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1db678dd-30df-445f-b619-6ca07c859380.jpg?ver=1542813375000'
+  img_alt_2: 'Haricots Verts Pick up in-store or cater'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/38e9617a-dda2-4ff0-acdd-0b5b76bfe0a3.jpg?ver=1542813375000'
+  img_alt: 'Premium Produce | Classic Recipe Idea'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2c9e9f28-4e2f-42f5-a357-255917d62931.jpg?ver=1542813375000'
+  img_alt: 'Organic Yams'
+  url_2: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail#produce'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a63b0cd5-19ca-490b-a988-4e805f1a3be4.jpg?ver=1542813375000'
+  img_alt_2: 'Fresh Cranberries'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/recipes/sweet-potato-latkes-cranberry-compote?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5e5d54bc-afe5-4785-b47a-1547bef64a58.jpg?ver=1542813375000'
+  img_alt: 'Recipe idea Sweet Potato Latkes with Cranberry Compote View Recipe'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1116_BLD_WeeklyEmail#gifts'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5ccebfc9-70f9-4565-b4c4-08eef1fb782b.jpg?ver=1542813375000'
+  img_alt: 'The Perfect Gift Balducci&#39;s Gourmet Gifts Sets Mark all of life&#39;s special occasions with gratitude and love. Order a lovingly assembled specialty gift basket or gift set, a build a gift with your favorite hand-selected delicacies. Learn More'
+
+- type: 'image'
+  url: 'https://delivery.balduccis.com/store/balduccis/storefront?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e4c05e89-b078-4bce-9731-b3205079400a.jpg?ver=1542813375000'
+  img_alt: 'The Holidays, Delivered Fresh. Fast. Delivered. Get your holiday groceries delivered in as little as one hour! Balducci&#39;s delivery, powered by Instacart, makes holiday shopping easy. Shop Now'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1123_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/88a85870-ec3c-4c96-8c9b-9232a4a11766.jpg?ver=1542813376000'
+  img_alt: 'What&#39;s New | In-Store Sandwich of the Week Prosciutto & Fig Ficelle'
+
+

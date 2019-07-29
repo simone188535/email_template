@@ -1,0 +1,74 @@
+title: ''
+  
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3990e2d8-c0e6-4bff-8038-21a04501c6f2.jpg?ver=1541702926000"
+  img_alt: "Mark Your Calendar! Thanksgiving Catering Tastings Sunday, November 11 12:00 - 4:00 PM Join Us For A Thanksgiving Menu Sampling In Our Deli Department At The Following Kings Locations: Cresskill, Livingston, Morristown, Chatham, Verona, Short Hills, Garwood, Hillsdale, Bedminster, Mendham, Boonton & Midland Park."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bda0e5ac-39e6-4780-93c3-00bad8fddec4.jpg?ver=1541702926000"
+  img_alt: "Mark Your Calendar! Thanksgiving Catering Tastings Sunday, November 11 12:00 - 4:00 PM Join Us For A Thanksgiving Menu Sampling In Our Deli Department At The Following Kings Locations: Cresskill, Livingston, Morristown, Chatham, Verona, Short Hills, Garwood, Hillsdale, Bedminster, Mendham, Boonton & Midland Park."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5ee3b194-3463-47a9-9480-575969c628f9.jpg?ver=1541702926000"
+  img_alt: "Mark Your Calendar! Thanksgiving Catering Tastings Sunday, November 11 12:00 - 4:00 PM Join Us For A Thanksgiving Menu Sampling In Our Deli Department At The Following Kings Locations: Cresskill, Livingston, Morristown, Chatham, Verona, Short Hills, Garwood, Hillsdale, Bedminster, Mendham, Boonton & Midland Park."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0059f908-f9a3-46d9-ae90-69ea35f0a162.jpg?ver=1541702926000"
+  img_alt: "View Menu >"
+  url: "https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1fa8cfd7-6c19-4997-a279-05b091cbf8a7.jpg?ver=1541702926000"
+  img_alt: "Food Donation Event Sunday, November 11 Join Team WDHA Radio at the Morristown and Short Hills Stores to Support the Check Out Hunger Holiday Food Drive. The WDHA Van Will Be in the Parking Lot to Accept Food Donations. Make a Donation and Win A Chance for a Kings Gift Card! Short Hills Store: 12:00 PM - 1:00 PM Morristown Store: 2:00 PM - 3:00 PM"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=110818_KF_ThanksgivingTasting_Solo"

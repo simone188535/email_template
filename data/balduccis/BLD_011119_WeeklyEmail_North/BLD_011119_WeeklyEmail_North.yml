@@ -1,0 +1,90 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ed7e8e04-0f0a-444c-aa2a-0ecfc5368fe3.jpg?ver=1547051970000'
+  img_alt: 'Lemon in the Limelight Nothing says fresh like a squeeze of lemon. Oils refine. Salts perk up. Fish may be less fishy, but berries are berrier. No fruit runs from sweets to savories with more alacrity than lemon. Join us in celebrating the fresh citrus fruit-of-the-moment: lemon!'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c889b2d-83cb-4c04-a945-8555a81e10dc.jpg?ver=1547051970000'
+  img_alt: 'Lemon in the Limelight Nothing says fresh like a squeeze of lemon. Oils refine. Salts perk up. Fish may be less fishy, but berries are berrier. No fruit runs from sweets to savories with more alacrity than lemon. Join us in celebrating the fresh citrus fruit-of-the-moment: lemon!'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/recipes/lemon-curd?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/21f3b5b9-2e83-4d74-92e3-b8636e38501a.jpg?ver=1547051970000'
+  img_alt: 'The Sunshine of Lemon Curd Magically concocted from lemons, sugar and egg yolks, Lemon Curd may be one of the tangy, sweet, creamy, delicious wonders of the world. Here are three ways to enjoy: Make It Yourself Homemade Lemon Curd View Recipe >'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c72f43e2-4aaf-412c-a564-33186a4d8331.jpg?ver=1547051970000'
+  img_alt: 'Lemon curd on demand is easy as pie - just open a jar of Bonne Maman&#39;s best and spread it on toast for a great alternative to jam. Open a Jar Bonne Maman Lemon Curd'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8af1fe60-4cb9-485a-81c8-22f83e31e867.jpg?ver=1547051971000'
+  img_alt: 'Our brilliant bakery mavens have hustled up the freshest, most lemony tart we&#39;ve sampled. Serve it with a dollop of crème fraiche, and top with a sprinkling of lime rind, for an elegant, unexpected end of meal. Pick Up In-Store Fresh Baked Lemon Curd Tart'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/81d5b80c-26c9-4724-ab5b-ddbed6de1aff.jpg?ver=1547051971000'
+  img_alt: 'From The Patisserie | Fresh Baked Balducci&#39;s Lemon Meringue Pie Zesty lemon flavor and creamy meringue topping are combined with our famous flaky crust in this classic delight.'
+
+- type: 'image'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/94b42b42-1a20-4b1c-ad30-5678920d2e55.jpg?ver=1547051971000'
+  img_alt: 'Citrus Essentials | Finishing Touches'
+
+- type: 'image-2-columns'
+  url: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ebad199f-1bb3-4337-ad53-12f6dd43e160.jpg?ver=1547051971000'
+  img_alt: 'Don&#39;t Forget The Zest! Zest has been around since the world made citrus, but if you&#39;re not using it enough, you should think again. This microplane will make all the difference to your cooking.'
+  url_2: 'http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a96f7cb6-1dfd-4e5e-8f41-bfbe87c61597.jpg?ver=1547051971000'
+  img_alt_2: 'Pâté De Fruit Concentrated flavors of the best fruit preserves, Pâté de Fruit is a favorite in Europe; and now, thanks to Neuhaus, it&#39;s here at Balducci&#39;s.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=0111_BLD_WeeklyEmail_North'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7c58af76-853d-4a46-a1c5-ccd78d9606ef.jpg?ver=1547051971000'
+  img_alt: 'Mark Your Calendar Game Time Tasting Event Join us on Saturday, Jan. 19th, 12-4PM for our Game Time Catering Tasting Event! Discover new ideas for entertaining, plus, place your catering order while you shop.'
+
+

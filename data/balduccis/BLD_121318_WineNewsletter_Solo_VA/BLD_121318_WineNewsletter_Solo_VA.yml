@@ -1,0 +1,80 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4d971f19-f30c-46aa-8b0c-2fa26762d415.jpg?ver=1544714028000'
+  img_alt: 'Wine Newsletter December 2018'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9fc85824-0aee-474f-b122-6df626337e6e.jpg?ver=1544711671000'
+  img_alt: 'Wine & Food Event Saturday, DEC. 15th Food Tasting: 12pm-5pm Wine Tasting: 2pm-5pm Save 25% Mix & Match 12 Bottles Or More FEATURING * Celebratory Bubblies * Wine Lover&#39;s Gifts * Holiday Gatherings'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c08efd79-bc5c-4ae4-b67e-241f16109969.jpg?ver=1544711671000'
+  img_alt: 'Must Have Wines The heart of the holiday season is upon us. Family gatherings, neighborhood get-togethers and a full social calendar… somebody has to bring the wine! Our staff&#39;s Top Picks…'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/77ffb852-a3d3-42c5-9185-144c8fae9b1b.jpg?ver=1544715191000'
+  img_alt: 'Peter&#39;s Pick is a small production bubbly… - Peter Bishop, Wine Manager Balducci&#39;s Bethesda Turgy Brut Champagne $44.99/BTL &#34;Mesnil is an area in Champagne&#39;s Cote des Blancs, where chardonnay achieves its greatest expression. Wines from Mesnil are typically big and bold flavored (Krug being a prominent example), but Michel Turgy achieves a remarkable finesse and delicacy. And at this price, it&#39;s a relative value.&#34; -The Washington Post'
+
+# - type: 'image'
+#   url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA'
+#   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/41ce0957-58eb-48be-9b42-7862858f813b.jpg?ver=1544711674000'
+#   img_alt: 'Peter&#39;s Pick is a small production bubbly… - Peter Bishop, Wine Manager Balducci&#39;s Bethesda Turgy Brut Champagne $54.99/BTL &#34;Mesnil is an area in Champagne&#39;s Cote des Blancs, where chardonnay achieves its greatest expression. Wines from Mesnil are typically big and bold flavored (Krug being a prominent example), but Michel Turgy achieves a remarkable finesse and delicacy. And at this price, it&#39;s a relative value.&#34; -The Washington Post'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f18cfd19-e3e3-421f-88dc-2652115c2e6a.jpg?ver=1544715191000'
+  img_alt: 'Mark&#39;s Pick is a beautiful pinot from California… - Mark Magness, Wine Manager Balducci&#39;s McLean Melville Santa Rita Pinot Noir 2014 NOW 34.99/BTL Reg: $39.99 SAVE 5.00 &#34;Light raspberry-sorbet notes meet with fresh fennel fronds, pepper and cinnamon on the nose of this bottling from Chad Melville and family. It&#39;s tight and tart on the palate, with dried cranberry, pine needle and eucalyptus flavors that juxtapose with the more fruit-driven nose.&#34; Wine Enthusiast 94pts. Insider&#39;s tip: we have a limited supply of Melville&#39;s Sandy Pinot Noir bottling (96pts Wine Spectator, #22 wine of the year!)'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/abf101be-8c33-4a75-be8a-b40074218e1a.jpg?ver=1544711676000'
+  img_alt: 'Tony&#39;s Pick is a knockout Chardonnay… - Tony Roddy, Wine Manager Balducci&#39;s Alexandria El Enemigo Chardonnay 2016 34.99/BTL &#34;This is really amazing with an exotic dried-fruit character of pineapple and mangoes. Full-bodied, rich and fruity with cream, pie-crust and caramel character. Crazy chardonnay with a little Jura style and some flor undertones. It really does have flor in the barrel when aging. Love. Get it. Drink now.&#34; - James Suckling 98pts.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0612e942-817f-41a6-a36e-b757ab7ade21.jpg?ver=1544711676000'
+  img_alt: 'John&#39;s pick is meant to cap the night off… - John Coleman, Balducci&#39;s Wine Merchant Taylor Fladgate 20 Year Tawny Port 54.99/BTL Rich, with a spicy nose, this wine offers flavors of fig, dried apricot, mango and ginger. Complex and elegant, delivering concentrated creme brulee and tropical fruit notes that linger on the vibrant and buttery finish. Drink now." -Wine Spectator 93pts.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1213_BLD_WineNewsletter_Solo_VA'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c6cb8285-753a-4bf2-b819-599752f89fc4.jpg?ver=1544711676000'
+  img_alt: 'Serving Tips | Temperature Matters Get the most out of your wine this holiday season! - John Coleman, Balducci&#39;s Wine Merchant Too often we serve our reds too warm and our whites too cold. RED WINES: For a richer texture on the palate and a red that shows better fruit, serve at cellar temperature: 60-65°F. WHITE WINES: For a more full-bodied flavor, serve whites at a crisp 40-50°F. Our rule of thumb: 20 minutes before service, bring your  white wines out of the refrigerator and put your red wines in!'

@@ -1,0 +1,48 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_02.jpg', '/sl-forward-sprisv/ECZ/KSBPIKE24/1054764175/0', 580, 392, 'ECZKSBPIKE24']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_03.jpg', '/sl-forward-sprisv/ECZ/KSBPIKE24/1054764175/0', 580, 346, 'ECZKSBPIKE24']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_04.jpg', '/sl-forward-sprisv/SPT/WS40141/1054764631/0', 580, 392, 'SPTWS40141']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_05.jpg', '/sl-forward-sprisv/VER/99849/1046029793/0', 290, 508, 'VER99849'], ['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_06.jpg', '/sl-forward-sprisv/KMW/75227/1041663018/0', 290, 508, 'KMW75227']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_07.jpg', '/sl-forward-sprisv/PAP/2023717/1054764506/0', 234, 310, 'PAP2023717'], ['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_08.jpg', '/sl-forward-sprisv/MMM/EX3332CBNT/1053506039/0', 346, 310, 'MMMEX3332CBNT']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_09.jpg', '/sl-forward-sprisv/PAP/2023717/1054764506/0', 194, 309, 'PAP2023717'], ['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_10.jpg', '/sl-forward-sprisv/MMM/EX3332CBNT/1053506039/0', 386, 309, 'MMMEX3332CBNT']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_11.jpg', '', 580, 405, '']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_12.jpg', '/sl-forward-sprisv/IMP/B1001/1049172275/0', 580, 128, 'IMPB1001']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_13.jpg', '/sl-forward-sprisv/EVE/WRESAL35/1054764224/0', 376, 252, 'EVEWRESAL35'], ['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_14.jpg', '/sl-forward-sprisv/IMP/B1001/1049172275/0', 204, 252, 'IMPB1001']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_15.jpg', '/sl-forward-sprisv/EVE/WRESAL35/1054764224/0', 376, 268, 'EVEWRESAL35'], ['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_16.jpg', '/sl-forward-sprisv/IMP/B1001/1049172275/0', 204, 268, 'IMPB1001']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_157_020519_CA_Canada_R4_DEV_17.jpg', '/sl-forward-sprisv/RSI/RDL95MC/1054764559/0', 580, 424, 'RSIRDL95MC']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_157_020519_CA_Canada_R4_DEV_18.jpg', '', 580, 127, '', '#bc0070', '#FFFFFF', 'linetext1_CUS']]
+

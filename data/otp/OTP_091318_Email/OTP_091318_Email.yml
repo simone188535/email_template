@@ -1,0 +1,73 @@
+title: ''
+
+logo_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_091318_v2_r3_FNL_01.jpg"
+logo_img_alt: "Old Time Pottery Logo"
+logo_img_link: "https://oldtimepottery.com/?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=opt_logo"
+
+outdoor_img_url: "https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_091318_v2_r3_FNL_02.jpg"
+outdoor_img_alt: "HARVEST IS HERE [Get Inspired]"
+outdoor_img_link: "https://oldtimepottery.com/harvest?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=opt_harvest"
+
+preheader_text: 'Plus, fall into great style with new décor and rugs.'
+preheader_link: 'https://oldtimepottery.com/'
+
+viewaswebpage_text: 'View this email in your browser'
+viewaswebpage_link: '#'
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_091318_v2_r3_FNL_03.jpg'
+  image_alt: 'STARTING TOMORROW FRIDAY, SEPTEMBER 14TH - SUNDAY, SEPTEMBER 16TH Fall Customer Appreciation Coupon! [Get Coupon]'
+  image_link: 'https://oldtimepottery.com/coupons?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=opt_coupon'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_091318_v2_r3_FNL_04.jpg'
+  image_alt: 'REFRESH YOUR SPACE For Fall A BEAUTIFUL ASSORTMENT OF COLORS AND ACCENTS FOR EVERY STYLE AND EVERY BUDGET! [See What&#39;s New]'
+  image_link: 'https://oldtimepottery.com?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=see_whats_new'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_091318_v2_r3_FNL_05.jpg'
+  image_alt: 'MORE BEAUTY FOR YOUR Floor! FIND THE PERFECT RUG TO ENHANCE ANY ROOM OR SPACE. [See More]'
+  image_link: 'https://oldtimepottery.com/departments/home-decor/rugs.html?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=woven_rugs'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_091318_v2_r3_FNL_06.jpg'
+  image_alt: 'RED TAG CLEARANCE 14,000 ITEMS INCLUDED 25% OFF LOOK FOR THE RED STICKER & SAVE! Red Tag Clearance will be arriving at all stores soon, but is currently unavailable at the following locations: Fort Myers, FL; Largo, FL; New Port Richey, FL; Stuart, FL; Fairview Heights, IL; Rockford, IL & Murfreesboro, TN. YELLOW TAG CLEARANCE ALL ACROSS THE STORE 60% OFF GET THEM WHILE YOU STILL CAN! [Save]'
+  image_link: 'https://oldtimepottery.com/clearance?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=yelllow_tag_clearance'
+
+- type: 'image'
+  image_url: 'https://s3.amazonaws.com/pr-otp/email_images4/OTP_084_091318_v2_r3_FNL_07.jpg'
+  image_alt: 'Snap and Share #myOTPstyle @OldTimePottery'
+  image_link: 'http://instagram.com/oldtimepottery?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=opt_instagram'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_get-inspired.jpg'
+  image_first_alt: 'Get Inspired'
+  image_first_link: 'http://blog.oldtimepottery.com/?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=opt_blog'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_find-your-store.jpg'
+  image_second_alt: 'Find Your Store'
+  image_second_link: 'https://oldtimepottery.com/locations?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=opt_stores'
+
+- type: 'images-2-columns'
+  image_first_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_buy-gift-cards.jpg'
+  image_first_alt: 'Buy Gift Cards'
+  image_first_link: 'https://oldtimepottery.com/gift-cards/?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=opt_gift_cards'
+  image_second_url: 'https://s3.amazonaws.com/pr-otp/email_image2/OTP_footer_update-your-profile.jpg'
+  image_second_alt: 'Update Your Profile'
+  image_second_link: 'https://oldtimepottery.com/customer/account/login/referer/aHR0cHM6Ly9vbGR0aW1lcG90dGVyeS5jb20vP19fX1NJRD1V/?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=opt_account_settings'
+
+socialnav:
+- link: "http://instagram.com/oldtimepottery?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=opt_instagram"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/instagram.jpg"
+  alt: "Instagram"
+- link: "https://www.facebook.com/oldtimepottery?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=opt_facebook"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/facebook.jpg"
+  alt: "Facebook"
+- link: "https://www.pinterest.com/oldtimepottery/?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=opt_pinterest"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/pinterest.jpg"
+  alt: "Pinterest"
+- link: "https://twitter.com/oldtimepottery?utm_source=otp_weekly09-13&utm_medium=email&utm_campaign=sept_coupon&utm_term=discount_home_decor&utm_content=opt_twitter"
+  img: "https://s3.amazonaws.com/pr-otp/email_image2/twitter.jpg"
+  alt: "Twitter"
