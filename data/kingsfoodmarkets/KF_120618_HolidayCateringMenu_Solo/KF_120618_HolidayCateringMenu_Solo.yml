@@ -1,0 +1,91 @@
+title: ''
+  
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=112918_KF_Holiday_Catering_Menu_2018_Solo'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=112918_KF_Holiday_Catering_Menu_2018_Solo'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=112918_KF_Holiday_Catering_Menu_2018_Solo'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=112918_KF_Holiday_Catering_Menu_2018_Solo'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=112918_KF_Holiday_Catering_Menu_2018_Solo'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=112918_KF_Holiday_Catering_Menu_2018_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=112918_KF_Holiday_Catering_Menu_2018_Solo"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=112918_KF_Holiday_Catering_Menu_2018_Solo"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=112918_KF_Holiday_Catering_Menu_2018_Solo"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=112918_KF_Holiday_Catering_Menu_2018_Solo"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=112918_KF_Holiday_Catering_Menu_2018_Solo"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e2ce3966-014c-40a9-be89-c9c141c77b04.jpg?ver=1544024327000"
+  img_alt: "HOLIDAY CATERING! 2018 Edition"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e57314d7-2711-4b62-85ef-5c39586031b1.jpg?ver=1544024327000"
+  img_alt: "Save 10% Online *Valid on all online orders placed between 12/7-12/9. Orders must be filled by 1/1/19. Order Online > Use Code: KINGS18"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=112918_KF_Holiday_Catering_Menu_2018_Solo"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/edb8d250-70f6-4f1a-8735-3735fe7ac82f.jpg?ver=1544024328000"
+  img_alt: "OUR HOLIDAY GIFT TO YOU Use us for a single course, or let us provide the whole celebration - be more present for the presents!"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f018d765-7b12-4640-8589-5513c979f34f.jpg?ver=1544024328000"
+  img_alt: "Asparagus Roll Ups"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/01b38117-2b8b-4646-916a-f11e5565b26e.jpg?ver=1544024328000"
+  img_alt_2: "Roasted Brussels Sprouts with Cremini Mushrooms"
+  url_2: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0638d915-f8bb-4471-9f13-6a7d17554202.jpg?ver=1544024329000"
+  img_alt: "Sushi Platters"
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/25255883-8caa-440c-be14-24ad97d211cf.jpg?ver=1544024329000"
+  img_alt_2: "Fresh Fruit Tart"
+  url_2: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e81403c9-31fa-42f5-aa24-bf56fa8c5720.jpg?ver=1544024330000"
+  img_alt: "ENTERTAIN WITH EASE! Christmas and New Years Full Dinner Packages for 6: Sophisticated Holiday Meal or Classic Turkey Feast Includes your choice of Entrée plus 3 sides and 1 extra Order Online > "
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu"
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0c6a2c36-861c-46e0-91fd-00a9240ce6cc.jpg?ver=1544024330000"
+  img_alt: "ENTERTAIN WITH EASE! Christmas and New Years Full Dinner Packages for 6: Sophisticated Holiday Meal or Classic Turkey Feast Includes your choice of Entrée plus 3 sides and 1 extra Order Online > "
+  url: "https://catering.kingsfoodmarkets.com/site?returnUrl=/items/folder/holiday-menu"

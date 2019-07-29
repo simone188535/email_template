@@ -1,0 +1,104 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: '#'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e56b80bb-5d6d-45b7-a0fb-faa8925bd0db.jpg?ver=1541690391000'
+  img_alt: 'The Perfect Pork Fresh, all natural, locally raised pork - you&#39;ll taste the difference. Recipe idea Pan Seared Pork Chops with Sweet Bourbon Sauce View Recipe >'
+
+- type: 'image'
+  url: '#'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c729ea07-3579-4edd-9700-58e3834e1c1f.jpg?ver=1541690391000'
+  img_alt: 'The Perfect Pork Fresh, all natural, locally raised pork - you&#39;ll taste the difference. Recipe idea Pan Seared Pork Chops with Sweet Bourbon Sauce View Recipe >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail#butchery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1b366d65-1929-46bf-acfd-0c5bdd4d8169.jpg?ver=1541690392000'
+  img_alt: 'Local Pork We source our top quality pork from local family farms in Pennsylvania and New York, and it comes from the farm to our store in just four days, guaranteeing freshness. You&#39;ll taste the difference. • Vegetarian Fed • Hand Trimmed • Humanely Raised • Antibiotic Free'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail#butchery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/450f8b53-3bfc-4e91-9ac3-bf76fbeaaee6.jpg?ver=1541690392000'
+  img_alt: 'Superior Selection We offer a wide variety of local pork cuts including: • Bone-in Center Cut Rib Chops & Loin Chops • Baby Back & St. Louis-Style Ribs • Pork Butts (Shoulder) Bone-in & Boneless • Boneless Center Cut Pork Loin Chops & Roasts'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bd99d401-f27d-4de7-9b78-85944def5459.jpg?ver=1541694233000'
+  img_alt: 'Wine & Cheese Event Join us for the ultimate cheese tasting, wine pairings, demonstrations, tips and more! Saturday, November 17th, 2-5pm Alexandria, Bethesda, McLean & Reston'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/explore/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail#cheese'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3bc849bd-3727-431e-8286-4d6ad55a1665.jpg?ver=1541690392000'
+  img_alt: 'Balducci&#39;s Legendary Brie en Croute'
+  url_2: 'https://www.balduccis.com/catering/classic/party-platters?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fb2e80a3-254d-4bc6-84ad-8c9630b42b7f.jpg?ver=1541690392000'
+  img_alt_2: 'Catering Artisanal Cheese Platter Order Now >'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2e881fa6-34f7-4342-8113-340e2a3d692b.jpg?ver=1541690392000'
+  img_alt: 'Build Your Shopping List Thanksgiving Greats Choose from a wide variety of gourmet products to take your Thanksgiving entrées and sides to a whole new level of deliciousness.'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/564441c8-8777-4cce-8d9f-272316c33779.jpg?ver=1541691677000'
+  img_alt: 'Real Bone Broths Stonewall Kitchen Cornbread Mix Member Exclusive 4.99/EA Reg 6.49'
+  url_2: 'https://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/17311718-3eb5-4912-8740-15c52572b0ad.jpg?ver=1541690392000'
+  img_alt_2: 'Stonewall Kitchen New England Cranberry Relish Pick Up In-Store or Cater'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3fda6b7d-689e-429c-8392-58fc751b82e1.jpg?ver=1541691677000'
+  img_alt: 'Real Bone Broths Stonewall Kitchen Cornbread Mix Member Exclusive 4.99/EA Reg 6.49'
+  url_2: 'https://www.balduccis.com/catering/thanksgiving?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/87ad4676-fd36-4890-945e-1dd7227a6b6a.jpg?ver=1541690393000'
+  img_alt_2: 'Traditional Herb Stuffing Pick Up In-store or Cater'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1109_BLD_WeeklyEmail'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bed3aaf7-1fb9-49ae-8b64-00b66ea4de95.jpg?ver=1541690393000'
+  img_alt: 'Gourmet Gobbler Turkey Brine & Rub Kit Available in the Grocery Department'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=1026_BLD_WeeklyEmail#patisserie'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d6580d53-7d67-41cc-b20c-3417c724d98b.jpg?ver=1541690393000'
+  img_alt: 'Thanksgiving Catering Make It Delicious, Make It Welcoming This year, give thanks for no-stress gourmet entrées, sides and desserts from our catering team. Order Now >'

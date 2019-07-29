@@ -1,0 +1,82 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+#footer
+footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/120f1ff2-3072-4594-8386-e0199b1b8266.jpg?ver=1523474184000"
+footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7e4801b5-620c-4616-aa9f-40bb6cb830d6.jpg?ver=1523474184000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/4c30a486-18f3-4be7-99df-d6a67b59bc95.jpg?ver=1523474184000"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_instagram_alt: "instagram"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a3fff6cd-c34d-452f-8e19-ded0341a1d5a.jpg?ver=1529432908000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/b580788c-4282-4742-a2be-fc8f31f7d60e.jpg?ver=1547565485000'
+  img_alt: 'GAME TIME CATERING 2019 EDITION'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e85319a7-f223-4429-8a86-b62083f145f2.jpg?ver=1547565486000'
+  img_alt: 'GAME TIME CATERING 2019 EDITION'
+  
+- type: 'image'
+  url: 'https://www.balduccis.com/catering/game-time/pregame?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/70dc0009-2383-45d4-8b09-d7359bd5837c.jpg?ver=1547565486000'
+  img_alt: 'Satisfy the Fans This Game Day Relax, enjoy the game and let our chefs take care of the cooking for Game Day!'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/catering/game-time/pregame?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/ea913f0d-e2fd-4114-b520-a5d5af09dc13.jpg?ver=1547565486000'
+  img_alt: 'Mini Maryland Crab Cakes'
+  url_2: 'https://www.balduccis.com/catering/game-time/pregame?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/84308e0d-4089-4cfb-b965-973039acd621.jpg?ver=1547565486000'
+  img_alt_2: 'Antipasto Skewers'
+
+- type: 'image-2-columns'
+  url: 'https://www.balduccis.com/catering/game-time/pregame?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/d1c334a9-4f93-425b-a34c-2beaccd58422.jpg?ver=1547565486000'
+  img_alt: 'BBQ Pulled Pork Slider Bar'
+  url_2: 'https://www.balduccis.com/catering/game-time/pregame?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+  img_2: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c8fb24c1-6214-43e2-b117-fb398305cba9.jpg?ver=1547565486000'
+  img_alt_2: 'Vegetable Crudités'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/7dcd93f1-fd6b-4de7-b1f3-a96c605172f4.jpg?ver=1547565486000'
+  img_alt: 'Mark Your Calendars Game Day Tasting Saturday, January 19 | 12 PM - 4 PM Discover new ideas for Game Day entertaining. Join us in our Greenwich, Scarsdale, Rye Brook and Westport Stores'
+  
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9de3fdf9-30e7-4f01-9adc-634e10310ecf.jpg?ver=1547565486000'
+  img_alt: 'Mark Your Calendars Game Day Tasting Saturday, January 19 | 12 PM - 4 PM Discover new ideas for Game Day entertaining. Join us in our Greenwich, Scarsdale, Rye Brook and Westport Stores'
+  

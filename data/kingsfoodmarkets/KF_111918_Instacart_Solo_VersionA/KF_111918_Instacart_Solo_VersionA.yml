@@ -1,0 +1,88 @@
+title: ''
+  
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8076e443-4e2d-4610-934e-5e41f40a7bef.jpg?ver=1542310102000"
+  img_alt: "It's Not Too Late To Order! Leave Your Last Minute Shopping to Us!"
+  url: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/4884eafe-a947-40c4-b3c2-9fcaf0f2ce4f.jpg?ver=1542310103000"
+  img_alt: "Fast. Fresh. Delivered. In as little as one hour. Start Shopping Now "
+  url: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/dbec94eb-33e7-4b70-bac8-c0d098db9339.jpg?ver=1542310103000"
+  img_alt: "Free Delivery on Your First Order Order Online & We Shop & We Deliver"
+  url: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/46bd3dc3-24f1-41a9-87fb-9df823ddfb5e.jpg?ver=1542310104000"
+  img_alt: "Thanksgiving Essentials Pantry Staples Fresh Produce Baking Needs You'll find all the solutions for a fabulous feast at Kings. Save by shopping on Instacart for your Turkey Day essentials. Order Now for Thanksgiving!"
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/20002247-6b85-46b8-bad9-b0fca93af40a.jpg?ver=1542310104000"
+  img_alt: "See How Easy It Is To Shop"
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/73a6ac84-d1a4-428f-82ef-5297228b6a50.jpg?ver=1542310104000"
+  img_alt: "Learn More"
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d4552fe5-e8cc-4ab3-9e4a-095af14224c3.jpg?ver=1542310104000"
+  img_alt: "*$5.99 delivery fee waived with first order of $35 or more. Prices on Instacart match our everyday store prices; sale prices are not available online. myKINGS Extra Savings and offers are not applicable with home delivery. $5.99 delivery fee with $35 minimum order 2018 Kings Food Markets"
+  url: "https://kingsfoodmarkets.com/delivers?utm_source=weeklyemail&utm_medium=email&utm_campaign=111918_KF_Instacart_Solo_VersionA"
+
+
+
+

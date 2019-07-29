@@ -1,0 +1,149 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail'
+catering_img: ''
+catering_alt: 'CATERING'
+
+#footer
+footer_site_link: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+footer_site_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94000c5c-c7b1-42d5-9bdb-6900d46d7d2a.jpg?ver=1536336162000"
+footer_site_alt: "www.kingsfoodmarkets.com"
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+footer_facebook_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0a18ab97-e8eb-4880-9802-b6a25273afbb.jpg?ver=1536336162000"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+footer_twitter_img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/12e5f4d7-320b-474c-bbf0-a119e7491d48.jpg?ver=1536336162000"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+footer_youtube_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/604ef3ff-0d1a-497b-8d15-27fb4471a8eb.jpg?ver=1536336162000"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+footer_instagram_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/428e7e40-2c81-42e8-80ea-50aada101175.jpg?ver=1536336162000"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+footer_pinterest_img:  "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/870c2b93-5a12-4700-9ede-2767b7e9701f.jpg?ver=1536336162000"
+footer_pinterest_alt: "pinterest"
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2fe01f5c-e7d8-4ba3-b6b4-c455805f793e.jpg?ver=1538574146000"
+  img_alt: "Rediscover our little Italy Authentic Italian olive oils, artisan-made pastas and more. Recipe idea Creamy Mushroom & Pea Gnocchi View Recipe >"
+  url: "https://kingsfoodmarkets.com/unique-recipes/creamy-mushroom-and-pea-gnocchi?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/82216cd3-4ac3-4166-bece-1cacde59672c.jpg?ver=1538574146000"
+  img_alt: "An Old World Pantry Stock your pantry with special edition imported pastas, olive oils, sauces and more reflecting the best of traditional Italian flavors."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+
+- type: "image-3-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/bcc2f35a-a19d-4a6d-a0bb-f5da21d6c9c4.jpg?ver=1538574147000"
+  img_alt: "Bono Extra Virgin Olive Oil"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/18362baf-6c78-44cb-81fd-49b0473914bc.jpg?ver=1538574147000"
+  img_alt_2: "Nocca Gnocchi"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+  img_3: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/eaedac2b-e91e-4e1b-86f1-683a9a175935.jpg?ver=1538574148000"
+  img_alt_3: "Benedetto Pasta"
+  url_3: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9aa9efcd-2f4b-4df5-9b86-ff5b8e759b15.jpg?ver=1538574148000"
+  img_alt: "Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/0d70df4a-308c-4164-adf5-3f90e792115b.jpg?ver=1538574149000"
+  img_alt: "La Dolce Vita Sweet Endings No authentic Italian meal is complete without fresh made traditional desserts from the bakery. Pair with Kings Coffee"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c10c20f9-657d-4dbf-a0af-0127fcd7fee1.jpg?ver=1538574149000"
+  img_alt: "Kings Mini Cannolis"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/26865c67-5f17-4a03-92eb-90160dc860da.jpg?ver=1538574150000"
+  img_alt_2: "Kings Tiramisu or Triple Layer Cannoli Cake"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7a5147ee-74fa-4e79-8b82-8646b72098a6.jpg?ver=1538574150000"
+  img_alt: "View More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/86a014da-c97d-462c-8b87-236899965d64.jpg?ver=1538582600000"
+  img_alt: "myKINGS EXTRA! SAVINGS Columbus Day Centerpieces"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/432f1f3c-a6bd-4aa3-b267-e7bb133290d7.jpg?ver=1538582600000"
+  img_alt: "Local Beef Save $2 lb. Locally Raised Chuck Beef for Stew members pay 5.49 LB."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fe0d3de1-a7a1-43b9-9283-dc1432f307d5.jpg?ver=1538582601000"
+  img_alt_2: "Save $4.99 on 2 Kings Hot or Sweet Italian Sausage 16 OZ. members Buy 1 Get 1 Free"
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_KF_WeeklyEmail"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7f013cee-8155-4c57-a2dc-47207a91b6b9.jpg?ver=1538582601000"
+  img_alt: "Save $1 Tri-Colored Salad with Balsamic Dressing 8.5 OZ. members pay 6.99 EA."
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_KF_WeeklyEmail"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/51f1d673-c384-4126-a8ee-9619290c6b7c.jpg?ver=1538582601000"
+  img_alt_2: "Local Save $2.98 on 2 Locally Grown Broccoli or Cauliflower Bunch members pay 2/5."
+  url_2: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5f0f4cf9-28af-4614-84bc-4d60bef0bab4.jpg?ver=1538582601000"
+  img_alt: "View More Specials and Make a List View Hoboken Weekly Sales"
+  url: "http://circular.kingsfoodmarkets.com/?storeid=3380&utm_source=weeklyemail&utm_medium=email&utm_campaign=0921_KF_WeeklyEmail"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7d7a6b59-e892-4d8d-aa70-fc4745b0cccc.jpg?ver=1538574151000"
+#   img_alt: "View Weekly Sales >"
+#   url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3e40a39a-bff0-40bd-8339-550c4b927615.jpg?ver=1538574151000"
+  img_alt: "What's New In Store Brotzeit, or bread time, is the Bavarian experience of coming together to enjoy bread, meat and cheese with friends and family."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/99c82167-53c6-4436-8ea6-cc754bb4d033.jpg?ver=1538574152000"
+  img_alt: "Thru 10/11 Get a free Kings Baguette Receive a free Kings Baguette by purchasing a wedge of St. Mang Bavarian Cheese - Garlic & Chives or Peppercorn - 10/5-10/11/18. Learn More >"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/58cbcb9d-2610-443b-8189-1cc55980102c.jpg?ver=1538574152000"
+  img_alt: "Chef Prepared"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b1a2cea4-ba59-403a-a2c3-c73ca5b2574d.jpg?ver=1538574153000"
+  img_alt: "Sandwich of the Week Roast Beef Pretzel Roll View More >"
+  url: "https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=1005_KF_WeeklyEmail"
+
+
+
+
