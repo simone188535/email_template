@@ -31,6 +31,9 @@ footer_twitter_alt: "twitter"
 footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
 footer_instagram_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
 footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+footer_pintrest_img: "https://mlsvc01-prod.s3.amazonaws.com/ad716150601/943ec4fe-a160-4f12-ae1a-c5899d1f4d70.jpg?ver=1523474184000"
+footer_pintrest_alt: "pintrest"
 
 # Loop through articles
 articles:
@@ -48,6 +51,9 @@ articles:
   url: 'https://www.balduccis.com/catering/game-time?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
   img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e85319a7-f223-4429-8a86-b62083f145f2.jpg?ver=1547565486000'
   img_alt: 'GAME TIME CATERING 2019 EDITION'
+  
+- type: 'live-text'
+  text: '<span><b>Celebrates summer with <a href="https://kingsfoodmarkets.com/coupon1?utm_source=weeklyemail&utm_medium=email&utm_campaign=KF_ZETA_OFFER_EMAIL_1" class="live-text-link">20% OFF</a> your next clam bake or meat bundle purchase in-store. </b></span> <div class="mobile-break"> Exclusive offer valid for one use.</div> <div class="live-text-section"><sup>*</sup>Valid 07/22/19-09/02/19.</div>'
   
 - type: 'image'
   url: 'https://www.balduccis.com/catering/game-time/pregame?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo'
