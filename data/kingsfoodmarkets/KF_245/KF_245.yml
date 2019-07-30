@@ -1,0 +1,129 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+our_products_link: 'http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails'
+our_products_img: ''
+our_products_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=013019_KF_ValentinesDay_Solo"
+footer_pinterest_alt: "pinterest"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1d4a24cf-22ac-40a7-84f7-88e9e08d4639.jpg?ver=1551368252000"
+  img_alt: "THE NEW PANTRY"
+  url: "http://kingsfoodmarkets.com/pantry?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/676f3452-d870-4cfb-abd5-cf7c4f8066fe.jpg?ver=1551368252000"
+  img_alt: "It's an easily checked fact that when our own professional chefs find themselves snowed in or just too tired to face a food aisle, the difference between a dinner of cereal and a great meal can come down to two things: creativity and…WHAT'S IN THE PANTRY. Go beyond the basics. Here are five pantry items that will transform your cooking:"
+  url: "http://kingsfoodmarkets.com/pantry?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8c2e6055-4e97-49f1-970b-380286a15ac3.jpg?ver=1551368252000"
+  img_alt: "GHEE Middle Eastern and Indian families have used ghee as a mainstay for centures; but the rest of America is just behining to appreciate how the higher smoking point and delicious, brown, nutty flavor can enhance our cooking. Try our ghee from ORGANIC VALLEY, it's ideal for searing and sautéing. "
+  url: "http://kingsfoodmarkets.com/pantry?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f7f4efd2-e457-4d27-a5ee-776229e3285d.jpg?ver=1551368252000"
+  img_alt: "ALEPPO PEPPER Like salt, Aleppo is a flavor enhancer that may not be as hot as your familiar red-pepper flakes, but delivers an earthy slow-building heat with a hint of zest. Shirred eggs on toast would be lifted into the sublime with MANITOU'S Aleppo. As would grilled clams, sautéed chicken on rice, come to think of it, almost anything."
+  url: "http://kingsfoodmarkets.com/pantry?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/c0ab5921-ee55-414f-ace5-252af5d03b35.jpg?ver=1551368252000"
+  img_alt: "MUSTARD With a plethora of glorious new mustard options available, it might surprise you to see us go so basic, but BRASWELL makes the brightest, freshest Horseradish Mustard around. A smart starting point for sauces, glazes, dressings, spreads; it's the perfect mustard for your Corned Beef Sandwich."
+  url: "http://kingsfoodmarkets.com/pantry?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/b148a2ff-3189-4143-bf03-a2bfb2010117.jpg?ver=1551368252000"
+  img_alt: "GRAINS One of the oldest cultivated whole-grain forms of wheat, FARRO has a delicious, chewy nuttiness that can stand in place of rice or potatoes on a dinner plate, in a soup, or as the center of a salad. Mixed with our own fruit, yogurt, and a dollop of honey, hot as porridge or cold as a parfait, you'll have a breakfast fit for a star. "
+  url: "http://kingsfoodmarkets.com/pantry?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2dc5f264-8f63-4e8e-8ec9-9ec48450fdce.jpg?ver=1551368252000"
+  img_alt: "HARISSA Like the jars of spice we call Chili or Curry, Harissa is really a mix of spices that deliver the delectable, deep and mysterious flavors of the Middle East we're all craving. Of course, you could concoct your own, but having MINA'S in your pantry supports our idea of turning something simple into something glorious–with ease."
+  url: "http://kingsfoodmarkets.com/pantry?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/db8ae796-e844-416e-bd69-51cc80536a8c.jpg?ver=1551368252000"
+  img_alt: "ORDER ON INSTACART>"
+  url: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ea6a570e-a0a6-4634-97ee-7df4b93716ca.jpg?ver=1551368253000"
+  img_alt: "MARK YOUR CALENDAR"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ea6a570e-a0a6-4634-97ee-7df4b93716ca.jpg?ver=1551368253000"
+#   img_alt: "MARK YOUR CALENDAR"
+#   url: "http://kingsfoodmarkets.com/pantry?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/afce8301-2aa8-45df-ac69-42bf44529ce7.jpg?ver=1551371860000"
+  img_alt: "ST. PATRICK'S TASTING JOIN US SATURDAY, MARCH 10TH, 12–4 PM From the creative Reuben Dip to classic Irish Soda Bread, taste traditional and inspired twists for St. Patrick's Day. Morristown store only."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/af01ee43-1a6b-4d33-ab26-917fce33ed58.jpg?ver=1551368253000"
+  img_alt: "THE GREEN BEAN GALA MEND Hunger Relief Network MEND'S 2019 GREEN BEAN GALA Kings is proud to sponsor the MEND Spring Gala and their ongoing efforts to end hunger. Learn how you can get involved in the fight against hunger. LEARN MORE>"
+  url: "https://mendnj.org/donate/?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+# - type: "image"
+#   img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8495bbd4-a2e3-4173-84ec-d6248e8d58a8.jpg?ver=1551368253000"
+#   img_alt: "ONLY IN MIDLAND PARK HALIBUT CUTTING SATURDAY, MAR. 9 11 AM–4 PM | MIDLAND PARK Join us at our Midland Park store for a fresh fish experience featuring Wild Canadian Halibut from Glacé Bay, Nova Scotia. LEARN MORE>"
+#   url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/453c3e3c-9e14-4044-822c-2661875c83ca.jpg?ver=1551368253000"
+  img_alt: "myKINGS EXTRA! SAVINGS"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/baa3b4af-c0a7-4c47-8f9e-711361ff8142.jpg?ver=1551368253000"
+  img_alt: "members extra! SAVINGS Kings Organic MEDITERRANEAN EXTRA VIRGIN OLIVE OIL 16.9 FL OZ. members pay 4.99 EA. 1/2 PRICE SAVE $5"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/7d2fc27e-d897-4457-bee7-ada54ffcc4e3.jpg?ver=1551368253000"
+  img_alt: "View Weekly Sales >"
+  url: "http://circular.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=030119_KF_WeeklyEmails"
+
+
+
