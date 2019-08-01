@@ -1,0 +1,109 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+footer_pinterest_alt: "pinterest"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "images/080219_KF_WeeklyEmail_r3_02.jpg"
+  img_alt: "PRESERVATION SOCIETY"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+
+- type: "image"
+  img: "images/080219_KF_WeeklyEmail_r3_03.jpg"
+  img_alt: "THIS MONTH WE EXPLORE ways to preserve the sweet, abundant, ripe yield of Summer. Pickles, sauces, shrubs, infusions, syrups or jams can hold on to that beauty for weeks, and sometimes deep into a colder year. And they're simpler than you might have imagined."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+
+- type: "image"
+  img: "images/080219_KF_WeeklyEmail_r3_04.jpg"
+  img_alt: "PICKLING & PRESERVING THE STARTING POINT • Add sugar, salt, herbs and spices to white or cider vinegar. • Simmer for about 10 minutes to dissolve the sugar and salt and release the spice' and herbs' oils. • Let cool completely. This is your pickling liquid. See how simple? Now get to it."
+  url: "https://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+
+- type: "image"
+  img: "images/080219_KF_WeeklyEmail_r3_05.jpg"
+  img_alt: "PICKLED BEETS PICKLED ONIONS"
+  url: "https://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+
+- type: "image"
+  img: "images/080219_KF_WeeklyEmail_r3_06.jpg"
+  img_alt: "WATERMELON RIND PICKLES PICKLED BLUEBERRIES OR BLACKBERRIES"
+  url: "https://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+
+- type: "image"
+  img: "images/080219_KF_WeeklyEmail_r3_07.jpg"
+  img_alt: "VIEW RECIPES>"
+  url: "https://kingsfoodmarkets.com/unique-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+
+- type: "image"
+  img: "images/080219_KF_WeeklyEmail_r3_08.jpg"
+  img_alt: "WHAT'S NEW IN STORE FOOLPROOF PRESERVING This detailed guide to home preserving is perfect for novice canners and experts alike. It offers over 100 foolproof recipes across a wide range of categories, from jams, vegetables, condiments and more. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+
+- type: "image"
+  img: "images/080219_KF_WeeklyEmail_r3_09.jpg"
+  img_alt: "MARK YOUR CALENDAR"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+
+- type: "image"
+  img: "images/080219_KF_WeeklyEmail_r3_10.jpg"
+  img_alt: "BOUNTY OF SUMMER TASTING MONDAY, AUGUST 5th 12–4 PM The abundance of the season, for enjoying tonight or preserving for later. From grill-ready favorites to local produce, this tasting can't be missed. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+
+- type: "image"
+  img: "images/080219_KF_WeeklyEmail_r3_11.jpg"
+  img_alt: "KINGS COOKING STUDIO CANNING & PICKLING DEMOS AUG. 10TH & SEPT. 7TH 11 AM – 3 PM Learn how to preserve all of the best summer produce. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+
+- type: "image"
+  img: "images/080219_KF_WeeklyEmail_r3_12.jpg"
+  img_alt: "myKINGS EXTRA! SAVINGS WEEKEND DEAL | VALID 8/2 – 8/4/19 CAFÉ SPICE ENTREES Assorted varieties, 16 oz. members pay 5.99 EA. SAVE $2 SHOP OUR PRODUCTS>"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+
+- type: "image"
+  img: "images/080219_KF_WeeklyEmail_r3_13.jpg"
+  img_alt: "myKINGS EXTRA! SAVINGS WEEKEND DEAL | VALID 8/2 – 8/4/19 CAFÉ SPICE ENTREES Assorted varieties, 16 oz. members pay 5.99 EA. SAVE $2 SHOP OUR PRODUCTS>"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080219_KF_Email"
+
+
+
+
+

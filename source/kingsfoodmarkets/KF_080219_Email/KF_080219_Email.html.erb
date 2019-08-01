@@ -1,0 +1,226 @@
+<% require 'active_support/all' %>
+<% instance_variable_set("@base_data_file", data.kingsfoodmarkets.KF_080219_Email.KF_080219_Email) %>
+<% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+    <!-- So that mobile webkit will display zoomed in -->
+    <meta name="format-detection" content="telephone=no">
+    <!-- disable auto telephone linking in iOS -->
+    <title><%=@base_title%></title>
+    <style type="text/css">
+      
+
+    </style>
+
+
+    <style type="text/css" data-embed>
+      /* This style block will be ignored for inlining when running 'grunt build' and will not be stripped from the header */
+
+      /*  Media queries */
+
+      /* Define all styles in media queries using attribute selectors in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
+
+      #VWPLINK {
+        background-color: <%=@base_background_color%> !important;
+      }
+
+      @media screen and (max-width: 599px) {
+
+      
+    </style>
+  </head>
+  <body  bgcolor="<%=@base_background_color%>" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
+      <!--
+      Responsive framework: Antwort v1.0 - https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0)
+
+      * Force 100% width on aligned tables
+      * Use multiple aligned tables for columns
+      * Tables must have a fixed pixel width
+      * 'force-row' class forces the tables into rows on mobile
+      * Include an Outlook only wrapper table
+    -->
+
+     <!-- 100% background wrapper -->
+<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+      <td>
+         <table border="0" width="100%" cellpadding="0" cellspacing="0" class="container" align="center">
+          <tr>
+            <td>
+              <table width="600"  border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#5e4234">
+                  <tr>
+                    <td style="border-collapse:collapse;" valign="top" colspan="2" rowspan="2">
+                            <a href="<%=@base_weekly_circular_link%>">
+                                    <img class="responsive" alt="<%=@base_weekly_circular_alt%>" title="<%=@base_weekly_circular_alt%>" src="https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5a7790f0-2391-4791-92ae-8e6bfd051b25.jpg?ver=1564595967000" width="100" height="115" border="0"></a></td>
+                    <td style="border-collapse:collapse;" valign="top" colspan="2" rowspan="2">
+                            <a href="<%=@base_chef_prepared_link%>">
+                                    <img class="responsive" alt="<%=@base_chef_prepared_alt%>" title="<%=@base_chef_prepared_alt%>" src="https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e0fa1597-aa45-4e8e-a082-b228d9cd3bed.jpg?ver=1564589486000" width="87" height="115" border="0"></a></td>
+                    <td style="border-collapse:collapse;" valign="top" rowspan="2">
+                            <a href="<%=@base_logo_link%>">
+                                    <img class="responsive" alt="<%=@base_logo_alt%>" title="<%=@base_logo_alt%>"  src="https://mlsvc01-prod.s3.amazonaws.com/6a147818101/3b8b7ff6-5bdc-45c0-8058-58231796b0eb.jpg?ver=1564589486000" width="225" height="115" border="0"></a></td>
+                    <td style="border-collapse:collapse;" valign="top" colspan="2">
+                            <a href="<%=@base_catering_link%>">
+                                    <img class="responsive" alt="<%=@base_catering_alt%>" title="<%=@base_catering_alt%>" src="https://mlsvc01-prod.s3.amazonaws.com/6a147818101/d42ccfb1-e802-4207-b27b-456bb7fd0676.jpg?ver=1564589486000" width="96" height="115" border="0"></a></td>
+                    <td style="border-collapse:collapse;" valign="top" colspan="2">
+                            <a href="<%=@base_store_locator_link%>">
+                                    <img class="responsive" alt="<%=@base_store_locator_alt%>" title="<%=@base_store_locator_alt%>" src="https://mlsvc01-prod.s3.amazonaws.com/6a147818101/aca23897-0f7c-423c-af44-d2cbd15a90e5.jpg?ver=1564589486000" width="92" height="115" border="0"></a></td>
+                    </tr>
+                  </table>
+        <!-- 600px container -->
+        <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+            <!-- Articles -->
+            <% @base_data_file.articles.each do |f| %>
+      <% if f["type"]== "image" %>
+            <tr>
+              <td valign="top" align="center">
+                <a href="<%= f["url"] %>">
+                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                </a>
+              </td>
+            </tr>
+            <% end %>
+
+            <% if f["type"]== "image-2-columns" %>
+                  <tr>
+                    <td valign="top" align="center">
+                <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+                  <tr>
+                    <td>
+                            <a href="<%= f["url"] %>">
+                              <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                            </a>
+
+                    </td>
+                    <td>
+                            <a href="<%= f["url_2"] %>">
+                              <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
+                            </a>
+                    </td>
+                  </tr>
+                </table>
+                    </td>
+                  </tr>
+                  <% end %>
+
+                    <% if f["type"]== "image-3-columns" %>
+                  <tr>
+                    <td valign="top" align="center">
+                <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+                  <tr>
+                    <td>
+                            <a href="<%= f["url"] %>">
+                              <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                            </a>
+
+                    </td>
+                    <td>
+                            <a href="<%= f["url_2"] %>">
+                              <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
+                            </a>
+                    </td>
+                    <td>
+                            <a href="<%= f["url_3"] %>">
+                              <img src="<%= f["img_3"] %>" alt="<%= f["img_alt_3"] %>" title="<%= f["img_alt_3"] %>" class="responsive">
+                            </a>
+                    </td>
+                  </tr>
+                </table>
+                    </td>
+                  </tr>
+                  <% end %>
+
+                  <% if f["type"]== "image-4-columns" %>
+                        <tr>
+                          <td valign="top" align="center">
+                      <table  border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center">
+                        <tr>
+                          <td>
+                                  <a href="<%= f["url"] %>">
+                                    <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                                  </a>
+
+                          </td>
+                          <td>
+                                  <a href="<%= f["url_2"] %>">
+                                    <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
+                                  </a>
+                          </td>
+
+                          <td>
+                                  <a href="<%= f["url_3"] %>">
+                                    <img src="<%= f["img_3"] %>" alt="<%= f["img_alt_3"] %>" title="<%= f["img_alt_3"] %>" class="responsive">
+                                  </a>
+                          </td>
+
+                          <td>
+                                  <a href="<%= f["url_4"] %>">
+                                    <img src="<%= f["img_4"] %>" alt="<%= f["img_alt_4"] %>" title="<%= f["img_alt_4"] %>" class="responsive">
+                                  </a>
+                          </td>
+                        </tr>
+                      </table>
+                          </td>
+                        </tr>
+                        <% end %>
+
+            <% end %>
+
+        </table>
+          <!-- /600px container -->
+      </td>
+    </tr>
+      <!-- Footer logo -->
+     <tr>
+        <td>
+            <table border="0" width="600" cellpadding="0" cellspacing="0" class="container" align="center" bgcolor="#5e4234">
+                <tr>
+                    <td valign="top" align="center">
+                        <!-- <a href="<%=@base_footer_site_link%>"> -->
+                            <img src="<%=@base_footer_site_img%>" alt="<%=@base_footer_site_alt%>" title="<%=@base_footer_site_alt%>" class="responsive">
+                        <!-- </a> -->
+                    </td>
+                    <td valign="top" align="center">
+                        <a href="<%=@base_footer_facebook_link%>">
+                            <img src="<%=@base_footer_facebook_img%>" alt="<%=@base_footer_facebook_alt%>" title="<%=@base_footer_facebook_alt%>" class="responsive">
+                        </a>
+                    </td>
+                    <td valign="top" align="center">
+                        <a href="<%=@base_footer_twitter_link%>">
+                            <img src="<%=@base_footer_twitter_img%>" alt="<%=@base_footer_twitter_alt%>" title="<%=@base_footer_twitter_alt%>" class="responsive">
+                        </a>
+                    </td>
+                    <td valign="top" align="center">
+                        <a href="<%=@base_footer_youtube_link%>">
+                            <img src="<%=@base_footer_youtube_img%>" alt="<%=@base_footer_youtube_alt%>" title="<%=@base_footer_youtube_alt%>" class="responsive">
+                        </a>
+                    </td>
+                    <td valign="top" align="center">
+                        <a href="<%=@base_footer_instagram_link%>">
+                            <img src="<%=@base_footer_instagram_img%>" alt="<%=@base_footer_instagram_alt%>" title="<%=@base_footer_instagram_alt%>" class="responsive">
+                        </a>
+                    </td>
+                    <td valign="top" align="center">
+                        <a href="<%=@base_footer_pinterest_link%>">
+                            <img src="<%=@base_footer_pinterest_img%>" alt="<%=@base_footer_pinterest_alt%>" title="<%=@base_footer_pinterest_alt%>" class="responsive">
+                        </a>
+                    </td>
+                    <td valign="top" align="center">
+                        <!-- <a href="<%=@base_footer_site_link_2%>"> -->
+                            <img src="<%=@base_footer_site_img_2%>" alt="<%=@base_footer_site_alt_2%>" title="<%=@base_footer_site_alt_2%>" class="responsive">
+                        <!-- </a> -->
+                    </td>
+                </tr>
+            </table>
+        </td>
+      </tr> 
+     </table>
+    </td>
+  </tr>
+    <!-- /Footer logo -->
+</table>
+  <!-- /100% background wrapper -->
+  </body>
+</html>
