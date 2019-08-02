@@ -1,0 +1,265 @@
+<% require 'active_support/all' %>
+<% instance_variable_set("@base_data_file", data.balduccis.BLD_080919_Email_North.BLD_080919_Email_North) %>
+<% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+    <!-- So that mobile webkit will display zoomed in -->
+    <meta name="format-detection" content="telephone=no">
+    <!-- disable auto telephone linking in iOS -->
+    <title>
+        <%=@base_title%>
+    </title>
+    <style type="text/css">
+    body {
+        margin: 0;
+    }
+
+    .live-text-section {
+        font-family: arial;
+        line-height: 1.5;
+
+    }
+
+    .live-text-container {
+        margin: 20px 45px;
+    }
+
+    .live-text-link {
+        color: #e98003;
+    }
+
+    .mobile-break {
+        display: inline-block;
+    }
+
+
+    .desktop-table {
+        display: table;
+    }
+
+    .desktop-table-row {
+        display: table-row;
+    }
+
+    .mobile-table {
+        display: none;
+    }
+
+    .mobile-table-row {
+        display: none;
+    }
+    </style>
+    <style type="text/css" data-embed>
+    /* This style block will be ignored for inlining when running 'grunt build' and will not be stripped from the header */
+
+    /*  Media queries */
+
+    /* Define all styles in media queries using attribute selectors in order to avoid Yahoo mail rendering the mobile version of the email for desktop */
+    #VWPLINK {
+        background-color: <%=@base_background_color%>  !important;
+    }
+
+    @media screen and (max-width: 600px) {
+
+        .desktop-table {
+            display: none !important;
+        }
+
+        .desktop-table-row {
+            display: none !important;
+        }
+
+        .mobile-table {
+            display: table !important;
+        }
+
+        .mobile-table-row {
+            display: table-row !important;
+        }
+
+        .mobile-break {
+            display: block;
+        }
+
+    }
+    </style>
+  </head>
+  <body bgcolor="<%=@base_background_color%>" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;" >
+      <!--
+      Responsive framework: Antwort v1.0 - https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0)
+
+      * Force 100% width on aligned tables
+      * Use multiple aligned tables for columns
+      * Tables must have a fixed pixel width
+      * 'force-row' class forces the tables into rows on mobile
+      * Include an Outlook only wrapper table
+    -->
+
+     <!-- 100% background wrapper -->
+<table align="center" border="0" width="600" height="100%" cellpadding="0" cellspacing="0" bgcolor="<%=@base_background_color%>">
+    <tr>
+      <td>
+        <!-- 600px container -->
+        <table border="0" width="100%" cellpadding="0" cellspacing="0" class="container" align="center">
+
+    <!-- Header logo -->
+      <tr>
+      <td>
+        <table width="100%"  border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#353535">
+   
+          <tr>
+              <td  valign="top" colspan="3" rowspan="2">
+                  <a href="<%=@base_logo_link%>">
+                      <img alt="<%=@base_logo_alt%>" title="<%=@base_logo_alt%>" src="https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8b23e63f-ec9c-4ff0-a120-9d8e7d6f7dbb.jpg?ver=1564680420000" border="0" ></a></td>
+              <td  valign="top" colspan="2">
+                  <img src="https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8afa6a87-385d-406d-94e6-564ae95632b7.jpg?ver=1564680420000"></td>
+              <td  valign="top" colspan="2">
+                  <img src="https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e1eae989-aa66-4a08-9f05-12dd254f60d2.jpg?ver=1564680420000"></td>
+              <td  valign="top" colspan="2">
+                  <a href="<%=@base_store_locator_link%>">
+                      <img alt="<%=@base_store_locator_alt%>" title="<%=@base_store_locator_alt%>" src="https://mlsvc01-prod.s3.amazonaws.com/ad716150601/19247ace-9f02-4c8f-bb18-4282ad830488.jpg?ver=1564680421000"  border="0"></a></td>
+          </tr>
+          <tr>
+              <td  valign="top" colspan="2">
+                  <a href="<%=@base_catering_link%>">
+                      <img alt="<%=@base_catering_alt%>" title="<%=@base_catering_alt%>" src="https://mlsvc01-prod.s3.amazonaws.com/ad716150601/8d3a6ddf-6203-4adc-a165-c5da6ed8f155.jpg?ver=1564680421000"  border="0"></a></td>
+              <td  valign="top" colspan="2">
+                  <a href="<%=@base_chef_prepared_link%>">
+                      <img  alt="<%=@base_chef_prepared_alt%>" title="<%=@base_chef_prepared_alt%>" src="https://mlsvc01-prod.s3.amazonaws.com/ad716150601/a6eae81e-46e0-4d72-8a17-a3af7a03c734.jpg?ver=1564680421000"  border="0" ></a></td>
+              <td  valign="top" colspan="2">
+                  <a href="<%=@base_my_balduccis_link%>">
+                      <img  alt="<%=@base_my_balduccis_alt%>" title="<%=@base_my_balduccis_alt%>" src="https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f90f59f3-e313-44bb-a4da-2707d4717516.jpg?ver=1564680421000"  border="0"></a></td>
+          </tr>
+           </table>
+          <!-- <table width="100%"  border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#353535">
+          <tr>
+            <td bgcolor="#353535" border="0" valign="top" colspan="2">
+              <a href="<%=@base_gourmet_link%>">
+                <img  class="responsive" alt="<%=@base_gourmet_alt%>" title="<%=@base_gourmet_alt%>"  src="images/header/BLD_header_desktop_08.jpg" border="0"></a></td>
+          </tr> -->
+        <!-- </table> -->
+      </td>
+      </tr>
+    <tr>
+      <td>
+          <table border="0" width="100%" cellpadding="0" cellspacing="0" class="container" align="center" >
+
+                      <!-- /Header logo -->
+
+                      <!-- Articles -->
+                      <% @base_data_file.articles.each do |f| %>
+
+                <% if f["type"]== "live-text" %>
+                      <tr>
+                        <td valign="top">
+                           <div class="live-text-container">
+                              <div class="live-text-section">
+                            <%= f["text"] %>
+                            </div>
+                        </div>
+                        </td>
+                      </tr>
+                      <% end %>
+
+                <% if f["type"]== "image" %>
+                      <tr>
+                        <td valign="top" align="center">
+                          <a href="<%= f["url"] %>">
+                            <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                          </a>
+                        </td>
+                      </tr>
+                      <% end %>
+                <% if f["type"]== "image-2-columns" %>
+                      <tr>
+                        <td valign="top" align="center">
+                    <table  border="0" width="100%" cellpadding="0" cellspacing="0" class="container" align="center">
+                      <tr>
+                        <td>
+                                <a href="<%= f["url"] %>">
+                                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                                </a>
+
+                        </td>
+                        <td>
+                                <a href="<%= f["url_2"] %>">
+                                  <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
+                                </a>
+                        </td>
+                      </tr>
+                    </table>
+                        </td>
+                      </tr>
+                      <% end %>
+                <% if f["type"]== "image-3-columns" %>
+                      <tr>
+                        <td valign="top" align="center">
+                    <table  border="0" width="100%" cellpadding="0" cellspacing="0" class="container" align="center">
+                      <tr>
+                        <td>
+                                <a href="<%= f["url"] %>">
+                                  <img src="<%= f["img"] %>" alt="<%= f["img_alt"] %>" title="<%= f["img_alt"] %>" class="responsive">
+                                </a>
+
+                        </td>
+                        <td>
+                                <a href="<%= f["url_2"] %>">
+                                  <img src="<%= f["img_2"] %>" alt="<%= f["img_alt_2"] %>" title="<%= f["img_alt_2"] %>" class="responsive">
+                                </a>
+                        </td>
+                        <td>
+                                <a href="<%= f["url_3"] %>">
+                                  <img src="<%= f["img_3"] %>" alt="<%= f["img_alt_3"] %>" title="<%= f["img_alt_3"] %>" class="responsive">
+                                </a>
+                        </td>
+                      </tr>
+                    </table>
+                        </td>
+                      </tr>
+                      <% end %>
+          <% end %>
+
+
+                      <!-- Footer logo -->
+                </table>
+      </td>
+    </tr>
+      <tr>
+        <td>
+          <table border="0" width="100%" cellpadding="0" cellspacing="0" class="container" align="center" bgcolor="#222222">
+                <tr>
+
+                      <td valign="top">
+                          <img  src="https://mlsvc01-prod.s3.amazonaws.com/ad716150601/02dc72a9-19fb-4588-aec6-d25efa1310e1.jpg?ver=1564680420000" width="133" height="68" alt=""></td>
+                      <td valign="top">
+                          <a href="<%=@base_footer_facebook_link%>">
+                              <img  src="https://mlsvc01-prod.s3.amazonaws.com/ad716150601/14f74f6f-5368-4545-8492-5f1a7b9ab379.jpg?ver=1564680420000" width="80" height="68" border="0" alt="<%=@base_footer_facebook_alt%>" title="<%=@base_footer_facebook_alt%>"></a></td>
+                      <td valign="top" colspan="2">
+                          <a href="<%=@base_footer_twitter_link%>">
+                              <img  src="https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9c49eda2-3dad-40e5-9644-85b3d4e95578.jpg?ver=1564680420000" width="87" height="68" border="0" alt="<%=@base_footer_twitter_alt%>" title="<%=@base_footer_twitter_alt%>"></a></td>
+                      <td valign="top" colspan="2">
+                          <a href="<%=@base_footer_instagram_link%>">
+                              <img  src="https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e58c49ce-90de-4d55-8e35-b9d3b1914cad.jpg?ver=1564680420000" width="89" height="68" border="0" alt="<%=@base_footer_instagram_alt%>" title="<%=@base_footer_instagram_alt%>"></a></td>
+                      <td valign="top" colspan="2">
+                          <a href="<%=@base_footer_pintrest_link%>">
+                              <img  src="https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1193841c-d456-4767-88ee-788b1c9369c3.jpg?ver=1564680420000" width="76" height="68" border="0" alt="<%=@base_footer_pintrest_alt%>" title="<%=@base_footer_pintrest_alt%>"></a></td>
+                      <td valign="top">
+                          <img  src="https://mlsvc01-prod.s3.amazonaws.com/ad716150601/5a1eaef0-d2f9-4816-95e3-aebf5258f650.jpg?ver=1564680420000" width="135" height="68" alt=""></td>
+                  </tr>
+                  
+          </table>
+        </td>
+      </tr>
+            <!-- /Footer logo -->
+          <!-- /600px container -->
+          </table>
+      </td>
+    </tr>
+</table>
+  <!-- /100% background wrapper -->
+  </body>
+</html>

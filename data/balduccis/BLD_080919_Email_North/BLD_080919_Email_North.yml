@@ -1,0 +1,65 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+
+#footer
+# footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/cd87ba27-0720-4c33-b550-69952a980e65.jpg?ver=1564680370000'
+  img_alt: 'GROWN HERE'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e3d64150-04c2-41b2-b942-84ee07dc5237.jpg?ver=1564680370000'
+  img_alt: 'We&#39;d like to highlight a handful of the farmers and growers who supply our outstanding produce. We owe a debt of gratitude and respect to all the men and women who battle the elements of weather and time to bring us the very best of the season.'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9b371c50-eaf4-436f-802a-cde7eb154058.jpg?ver=1564680370000'
+  img_alt: 'MEET THE GROWERS MIKE D&#39;OTTAVIO PRODUCE VINELAND, NJ This South Jersey farm first opened in 1903 when Callie D&#39;Ottavio cleared his first forty acres to grow sweet potatoes and broccoli. Today, producing over eighty conventional and organic fruits and vegetables, grandson Mike has expanded M. D&#39;Ottavio Produce into one of the largest and most respected farms in New Jersey. '
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/59136497-5b89-46a9-82fe-ad4bbb800657.jpg?ver=1564680371000'
+  img_alt: 'FORMISANO FAMILY FORMISANO FARMS INC. BUENA, NJ For four generations, the Formisano family have pooled their energy and experience to grow and ship farm-fresh produce and beautiful perennial flowers to their loyal customers. With their full-service farm, they pride themselves on both innovation and customer service as they deliver the freshest culinary herbs, red and green lettuces, cabbages, broccoli rabe and the prettiest blooms of summer. '
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e29f6916-85cd-4c19-aa8c-61aa0befbd67.jpg?ver=1564680371000'
+  img_alt: 'RICH & SHERRY MAROLDA MAROLDA FARMS VINELAND, NJ Rich and Sherry Marolda have farmed together producing some of the most beautiful vine-ripened tomatoes, leeks, herbs, greens, watermelon and butternut squash grown anywhere. A dedication to freshness and flavor runs all their family farm, where they are now welcoming their son, Rich Jr., to the business.'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/469d7436-0047-4ec3-967b-ea0c4b01e931.jpg?ver=1564680371000'
+  img_alt: 'VIRAJ PURI, ERIC HALEY & JENNIFER NELKIN FRYMARK GOTHAM GREENS BROOKLYN, NY Worldwide pioneers in the field of urban agriculture, Gotham Green&#39;s pesticide-free produce is sustainably and reliably grown year-round, under the highest standards of food safety, in clean-energy powered, climate-controlled rooftop greenhouses. They produce lettuces, kale, bok choy, herbs and tomatoes. '
+

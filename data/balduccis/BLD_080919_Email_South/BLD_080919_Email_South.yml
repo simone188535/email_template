@@ -1,0 +1,65 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+
+#footer
+# footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/aa7805f4-081c-42e3-a1b6-981198cc3cd8.jpg?ver=1564682391000'
+  img_alt: 'GROWN HERE'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/865192dc-7c2b-4c05-935f-e87446f1e321.jpg?ver=1564682391000'
+  img_alt: 'We&#39;d like to highlight a handful of the farmers and growers who supply our outstanding produce. We owe a debt of gratitude and respect to all the men and women who battle the elements of weather and time to bring us the very best of the season.'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/bd65cac7-eb8d-4a97-a702-ab0961fe7bd2.jpg?ver=1564682391000'
+  img_alt: 'MEET THE GROWERS JACK PAPEN PAPEN FARMS DOVER, MD For more than seventy years, four generations of the Papen family have produced sweet corn, cabbage and green beans on the 2,000 acres of their Dover farm, on the Eastern Shore of Maryland. Running double crops of their specialties, cabbage and beans, on 600 acres, the remainder is devoted to sweet corn, which they produce through mid-September.'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/493b9eab-7822-45fe-85e5-60a54b04fc32.jpg?ver=1564682391000'
+  img_alt: 'TOM, CLAY & RAY VINCENT VINCENT FARMS LAUREL, MD Tom Vincent founded Vincent Farms in 1978 and now grows 1,500 acres of grain and 1,200 acres of vegetables with his sons, Clay and Ray. Innovators in reducing pesticides and developing an extensive food safety program, they are proud to produce outstanding sweet corn, melons, tomatoes, bell peppers, and pumpkins, assuring produce that is both fresh and safe. '
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/47fb1937-1b49-46f2-b855-ff588ab4e008.jpg?ver=1564682391000'
+  img_alt: 'JENNIFER STURMER HUMMINGBIRD FARMS RIDGELY, MD As the owner of Hummingbird Farms for nearly thirty years, Jennifer Sturmer has demonstrated the efficiency of hydroponic greenhouse gardening, where soil is replaced by rockwool irrigated with a nutrient solution. Growing about 17,000 plants twice each year, from varieties of tomatoes to edible flowers, Jennifer offers a delicious and reliable selection. '
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email#produce'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/9070d798-30ab-4ecf-a4d9-56e61c0ebea0.jpg?ver=1564682391000'
+  img_alt: 'VIRAJ PURI, ERIC HALEY & JENNIFER NELKIN FRYMARK GOTHAM GREENS BROOKLYN, NY Worldwide pioneers in the field of urban agriculture, Gotham Green&#39;s pesticide-free produce is sustainably and reliably grown year-round, under the highest standards of food safety, in clean-energy powered, climate-controlled rooftop greenhouses. They produce lettuces, kale, bok choy, herbs and tomatoes. '
+  
