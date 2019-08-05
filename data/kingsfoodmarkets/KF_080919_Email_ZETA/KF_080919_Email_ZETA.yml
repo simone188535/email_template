@@ -1,0 +1,103 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+footer_pinterest_alt: "pinterest"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "images/080919_KF_WeeklyEmail_r2_02.jpg"
+  img_alt: "RIPE REWARDS IT'S STONE FRUIT SEASON "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+
+- type: "image"
+  img: "images/080919_KF_WeeklyEmail_r2_03.jpg"
+  img_alt: "FRESH SUMMER STONE FRUIT"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+
+- type: "image"
+  img: "images/080919_KF_WeeklyEmail_r2_04.jpg"
+  img_alt: "PLUOTS A fruit breeder realized that by crossing plum and apricot varieties, they were able to create a piece of fruit that is much sweeter and more tantalizing than those from which it was created. Whether it's the explosive Flavor Grenade or the tropical the Dinosaur Egg, there is a pluot to captivate every palate."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+
+- type: "image"
+  img: "images/080919_KF_WeeklyEmail_r2_05.jpg"
+  img_alt: "VELVET APRICOTS The Velvet Collection apricots have a sweet rich luxurious flavor enrobed in a smooth, velvety skin. They are delicious grilled and served as a dessert or part of a relish. Don't wait! They are only available for a short time in early August."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+
+- type: "image"
+  img: "images/080919_KF_WeeklyEmail_r2_06.jpg"
+  img_alt: "PEACHES & CHERRIES Savor the mouth-watering sweetness of fresh summer peaches and bold cherry varieties. They're perfect for pies and summer desserts or as a fresh topping on ice cream. Both are in their peak season now, so don't wait another minute to pick up your basketful."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+
+- type: "image"
+  img: "images/080919_KF_WeeklyEmail_r2_07.jpg"
+  img_alt: "RECIPE IDEA HOMEMADE JAM PEACH-BOURBON JAM VIEW RECIPE>"
+  url: "https://kingsfoodmarkets.com/unique-recipes/peach-bourbon-jam?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+
+- type: "image"
+  img: "images/080919_KF_WeeklyEmail_r2_08.jpg"
+  img_alt: "SWEET IDEA STONE FRUIT PRESERVES TRY THIS TERRIFIC TOPPING Steep ripe stone fruit in a mix of sugar and spice and spoon over High Road Bourbon Burnt Sugar Ice Cream. Yum. "
+  url: "https://kingsfoodmarkets.com/unique-recipes/peach-bourbon-jam?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+
+- type: "image"
+  img: "images/080919_KF_WeeklyEmail_r2_09.jpg"
+  img_alt: "FRESH GALETTES BAKED IN-STORE NEW FLAVOR! PEACH BLUEBERRY GALETTE Available for a limited time, this sweet and tangy galette is made in-store from fresh, seasonal fruits and real butter, flour and sugar. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+
+- type: "image"
+  img: "images/080919_KF_WeeklyEmail_r2_10.jpg"
+  img_alt: "MARK YOUR CALENDAR KINGS COOKING STUDIO CANNING & PICKLING DEMOS AUG. 10TH & SEPT. 7TH 11 AM – 3 PM Learn how to preserve all of the best summer produce. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+
+- type: "image"
+  img: "images/080919_KF_WeeklyEmail_r2_11.jpg"
+  img_alt: "myKINGS EXTRA! SAVINGS WEEKEND DEAL | VALID 8/9 – 8/11/19 Handmade CHICKEN KEBABS members pay 4.99 LB. SAVE $4 LB. SHOP OUR PRODUCTS>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+
+- type: "image"
+  img: "images/080919_KF_WeeklyEmail_r2_12.jpg"
+  img_alt: "myKINGS EXTRA! SAVINGS WEEKEND DEAL | VALID 8/9 – 8/11/19 Handmade CHICKEN KEBABS members pay 4.99 LB. SAVE $4 LB. SHOP OUR PRODUCTS>"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_KF_Email"
+
+
+
+
