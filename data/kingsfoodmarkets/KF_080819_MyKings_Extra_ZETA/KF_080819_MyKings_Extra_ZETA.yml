@@ -1,0 +1,64 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080819_KF_MyKings_Extra'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=080819_KF_MyKings_Extra'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080819_KF_MyKings_Extra'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=080819_KF_MyKings_Extra'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=080819_KF_MyKings_Extra'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=080819_KF_MyKings_Extra"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=080819_KF_MyKings_Extra"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=080819_KF_MyKings_Extra"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080819_KF_MyKings_Extra"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080819_KF_MyKings_Extra"
+footer_pinterest_alt: "pinterest"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "images/080819_KF_MyKings_Extra_06.jpg"
+  img_alt: "myKINGS extra! Smart Savings & More $10 OFF YOUR NEXT PURCHASE OF $50 OR MORE OFFER IS LOADED TO YOUR ACCOUNT VALID 8/09/19 - 08/15/19 Welcome Thank you for being a valued member of the myKings Extra! Program. We are providing $10 OFF your next visit as an exclusive offer just for our members!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080819_KF_MyKings_Extra"
+
+- type: "image"
+  img: "images/080819_KF_MyKings_Extra_07.jpg"
+  img_alt: "Shop this week to receive your $10 OFF and keep an eye on your inbox for more exclusive savings and offers!"
+  url: "http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080819_KF_MyKings_Extra"
+
+- type: "image"
+  img: "images/080819_KF_MyKings_Extra_08.jpg"
+  img_alt: "VIEW MEMBER SPECIALS"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080819_KF_MyKings_Extra"
+
+- type: "image"
+  img: "images/080819_KF_MyKings_Extra_09.jpg"
+  img_alt: "EVEN MORE EXTRA! BENEFITS Members only sale prices Exclusive email offers Free fruit or cookie for kids while you shop"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=080819_KF_MyKings_Extra"

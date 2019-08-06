@@ -1,5 +1,5 @@
 <% require 'active_support/all' %>
-<% instance_variable_set("@base_data_file", data.kingsfoodmarkets.KF_245.KF_245) %>
+<% instance_variable_set("@base_data_file", data.kingsfoodmarkets.KF_080819_MyKings_Extra_ZETA.KF_080819_MyKings_Extra_ZETA) %>
 <% @base_data_file.each{|variable, value| instance_variable_set("@base_#{variable}", value)} %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
@@ -51,7 +51,7 @@
     .mobile-table-row {
         display: none;
     }
-     img{
+    img{
       display: block;
     }
 
@@ -132,8 +132,8 @@
                 <table width="100%"  border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#353535">          
                     <tr class="desktop-table-row">
                         <td valign="top" colspan="2" rowspan="2">
-                                <a href="<%=@base_our_products_link%>">
-                                        <img class="responsive" alt="<%=@base_our_products_alt%>" title="<%=@base_our_products_alt%>" src="images/header/KF_offer_email_01_d_600_01.jpg" width="100" height="115" border="0"></a></td>
+                                <a href="<%=@base_weekly_circular_link%>">
+                                        <img class="responsive" alt="<%=@base_weekly_circular_alt%>" title="<%=@base_weekly_circular_alt%>" src="images/header/KF_offer_email_01_d_600_01_v2.jpg" width="100" height="115" border="0"></a></td>
                         <td valign="top" colspan="2" rowspan="2">
                                 <a href="<%=@base_chef_prepared_link%>">
                                         <img class="responsive" alt="<%=@base_chef_prepared_alt%>" title="<%=@base_chef_prepared_alt%>" src="images/header/KF_offer_email_01_d_600_02.jpg" width="87" height="115" border="0"></a></td>
@@ -155,6 +155,9 @@
                   </table>
                </td>
               </tr>
+            <tr>
+             <td>
+              <table border="0" width="100%" cellpadding="0" cellspacing="0" class="container" align="center" >
 
             <!-- 600px container -->
            
@@ -271,8 +274,9 @@
                 <% end %>
           
               <!-- /600px container -->
-        <!--   </td>
-        </tr> -->
+              </table>
+          </td>
+        </tr>
           <!-- Footer logo -->
                <tr>
                   <td>
@@ -316,8 +320,8 @@
                           </tr>
                           <tr class="mobile-table-row">
                             <td valign="top" colspan="6">
-                                <a href="<%=@base_our_products_link%>">
-                                    <img src="images/footer/KF_offer_email_01_m_375_10.jpg" width="375" height="54" border="0" alt="<%=@base_our_products_alt%>" title="<%=@base_our_products_alt%>"></a></td>
+                                <a href="<%=@base_weekly_circular_link%>">
+                                    <img src="images/footer/KF_offer_email_01_m_375_10_v2.jpg" width="375" height="54" border="0" alt="<%=@base_weekly_circular_alt%>" title="<%=@base_weekly_circular_alt%>"></a></td>
                         </tr>
                         <tr class="mobile-table-row">
                             <td valign="top" colspan="6">
