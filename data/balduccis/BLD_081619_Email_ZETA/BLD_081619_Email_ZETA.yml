@@ -1,0 +1,75 @@
+title: ""
+
+primary_color: "#"
+
+background_color: "#f6f5f3"
+
+pre_header_text: ""
+
+#header
+logo_link: "https://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email"
+logo_alt: "Balducci's® Food Lover's Market™"
+store_locator_link: "https://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email"
+store_locator_alt: "FIND A STORE"
+catering_link: "https://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email"
+catering_alt: "CATERING"
+chef_prepared_link: "https://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email"
+chef_prepared_alt: "CHEF PREPARED"
+my_balduccis_link: "https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email"
+my_balduccis_alt: "myBALDUCCI&#39;S"
+gourmet_link: "https://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email"
+gourmet_alt: "GOURMET REWARDS CLUB"
+
+#footer
+# footer_site_link: "https://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis/?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+- type: "image"
+  url: "https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email#produce"
+  img: "images/BLD_241_weekly_email_0816_R3_02.jpg"
+  img_alt: "RIPE REWARDS SWEET IDEAS FOR THE FRUITS OF SUMMER"
+
+- type: "image"
+  url: "https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=080919_BLD_Email#produce"
+  img: "images/BLD_241_weekly_email_0816_R3_03.jpg"
+  img_alt: "IT&#39;S SUMMER STONE FRUIT SEASON PLUOTS Plums are one of the first fruits humans cultivated. Naturally, plum trees and apricot trees planted within close proximity would create hybrid &#34;pluots&#34;. We intentionally seek out the sweetest of these accidental fruits, and now is their season!"
+
+- type: "image"
+  url: "https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email#produce"
+  img: "images/BLD_241_weekly_email_0816_R3_04.jpg"
+  img_alt: "VELVET APRICOTS Dark red skin. Bright golden fruit. Red Velvet Apricots are a sweet blend of the plums and apricots from which they descend. But be careful! Their velvety skin can bruise easily. Grab them while you can – they are available for a brief moment every summer – and this is that moment."
+
+- type: "image"
+  url: "https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email#produce"
+  img: "images/BLD_241_weekly_email_0816_R3_05.jpg"
+  img_alt: "MOON CHERRIES The grand finale to cherry season! These cherries are at their best in late summer when cooler weather allows them to grow big, firm and super-sweet. It&#39;s believed the full moon&#39;s gravitational pull at harvest helps pull extra nutrients from the roots creating cherries with an added boost of flavor."
+
+- type: "image"
+  url: "https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email#produce"
+  img: "images/BLD_241_weekly_email_0816_R3_06.jpg"
+  img_alt: "YELLOW PEACHES These fresh peaches are bright, juicy and flavorful, ideally eaten on their own or as part of your favorite recipe. Yellow peaches are a great fruit for preserving, and we highly recommend canning them to enjoy the sweet summer flavor during the winter months."
+
+- type: "image"
+  url: "https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email#patisserie"
+  img: "images/BLD_241_weekly_email_0816_R3_07.jpg"
+  img_alt: "SWEET IDEAS FOR STONE FRUIT PEACH BLUEBERRY GALETTES Available for a limited time! Pick up one of these seasonal galettes to enjoy fresh and hot today, or save it to enjoy after summer has passed. They freeze and reheat beautifully."
+
+- type: "image"
+  url: "https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email#patisserie"
+  img: "images/BLD_241_weekly_email_0816_R3_08.jpg"
+  img_alt: "HIGH ROAD BOURBON BURNT SUGAR ICE CREAM Absolutely delicious spooned over one of our peach blueberry galettes or topped with ripe stone fruit steeped in a mix of sugar and spice. Yum."
+
+- type: "image"
+  url: "https://balduccis.com/recipes/peach-bourbon-jam?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_Email"
+  img: "images/BLD_241_weekly_email_0816_R3_09.jpg"
+  img_alt: "RECIPE IDEA PEACH-BOURBON JAM View Recipe>"
