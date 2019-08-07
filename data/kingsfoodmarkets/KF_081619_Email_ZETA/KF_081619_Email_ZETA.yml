@@ -1,0 +1,89 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email"
+footer_pinterest_alt: "pinterest"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "images/081619_KF_Email_R5_02.jpg"
+  img_alt: "GROWN HERE Our in-store campaign highlights just a handful of the farmers and growers who supply our outstanding produce. We owe a debt of gratitude and respect to all the men and women who battle the elements of weather and time to bring us the very best of the season."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email"
+
+- type: "image"
+  img: "images/081619_KF_Email_R5_03.jpg"
+  img_alt: "GROWN HERE Our in-store campaign highlights just a handful of the farmers and growers who supply our outstanding produce. We owe a debt of gratitude and respect to all the men and women who battle the elements of weather and time to bring us the very best of the season."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email"
+
+- type: "image"
+  img: "images/081619_KF_Email_R5_04.jpg"
+  img_alt: "Meet our Local Growers"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email"
+
+- type: "image"
+  img: "images/081619_KF_Email_R5_05.jpg"
+  img_alt: "VIRAJ PURI, ERIC HALEY & JENNIFER NELKIN FRYMARK GOTHAM GREENS BROOKLYN, NY Worldwide pioneers in the field of urban agriculture, Gotham Green’s pesticide-free produce is sustainably and reliably grown year-round, under the highest standards of food safety, in clean-energy powered, climate-controlled rooftop greenhouses. They are passionate about producing lettuces, kale, bok choy, herbs and tomatoes."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email"
+
+- type: "image"
+  img: "images/081619_KF_Email_R5_06.jpg"
+  img_alt: "MIKE D'OTTAVIO D’OTTAVIO PRODUCE VINELAND, NJ This South Jersey farm first opened in 1903 when Callie D’Ottavio cleared his first forty acres to grow sweet potatoes and broccoli. Today, producing over eighty conventional and organic fruits and vegetables, grandson Mike has expanded M. D’Ottavio Produce into one of the largest and most respected farms in New Jersey."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email"
+
+- type: "image"
+  img: "images/081619_KF_Email_R5_07.jpg"
+  img_alt: "JOHN FORMISANO FORMISANO PRODUCE BUENA, NJ For four generations, the Formisano family has grown and ship farm fresh produce and beautiful perennial flowers to their loyal customers. They pride themselves on both innovation and customer service as they deliver the freshest culinary herbs, red and green lettuces, cabbages, broccoli rabe, and the prettiest blooms of summer."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email"
+
+- type: "image"
+  img: "images/081619_KF_Email_R5_08.jpg"
+  img_alt: "MAROLDA PRODUCE VINELAND, NJ Rich and Sherry Marolda have farm together producing some of the most beautiful vine-ripened tomatoes, leeks, herbs, greens, watermelon and butternut squash grown anywhere. A dedication to freshness and flavor runs all through their family farm, where they are now welcoming their son, Rich Jr., to the business."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email"
+
+- type: "image"
+  img: "images/081619_KF_Email_R5_09.jpg"
+  img_alt: "MARK YOUR CALENDAR KINGS COOKING STUDIO CLASSES Learn new culinary tips and tricks while having fun! September and October Cooking Studio classes are enrolling now. Register today! LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/cooking-studio?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email"
+
+- type: "image"
+  img: "images/081619_KF_Email_R5_10.jpg"
+  img_alt: "myKINGS EXTRA! SAVINGS WEEKEND DEAL | VALID 8/16 – 8/18/19 Kings LARGE SHRIMP 2 LB. BAG 31/40 ct., Tail-On members pay 18.98 EA. SAVE $10.00 SHOP OUR PRODUCTS>"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_KF_Email"
