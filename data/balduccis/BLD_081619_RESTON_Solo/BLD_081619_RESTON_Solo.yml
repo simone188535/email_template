@@ -1,0 +1,58 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_RESTON_Solo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_RESTON_Solo'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_RESTON_Solo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_RESTON_Solo'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/my-balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=0802_BLD_RESTON_Solo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+
+#footer
+# footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_RESTON_Solo"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_RESTON_Solo"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_RESTON_Solo"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis/?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_RESTON_Solo"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_RESTON_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1b146f15-30fb-4e84-b661-f0018b984928.jpg?ver=1564680422000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/my-balduccis/offers/reston-va?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_RESTON_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/fb25b021-fcd5-49f4-b1cf-49960b31e497.jpg?ver=1565878602000'
+  img_alt: 'ORGANIC DRISCOLL&#39;S STRAWBERRIES 16 OZ. $3.99 EA. REG. 6.99 EA. THREE DAY EXCLUSIVE'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/my-balduccis/offers/reston-va?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_RESTON_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/2e53ba83-dcbc-4a67-aad6-8760237ce607.jpg?ver=1565878602000'
+  img_alt: 'HUDSON VALLEY STEELHEAD TROUT FREE OF HORMONES & ANTIBIOTICS. SUSTAINABLY GROWN. $10.99 LB. REG. 13.99 LB. CAULIPOWER PIZZA 10.6 OZ. ALL VARIETIES. GLUTEN FREE. BUY ONE GET ONE REG. 10.99 EA. ESSENTIA WATER 1 LITER $1.50 EA. RE. 2.19 EA.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/my-balduccis/offers/reston-va?utm_source=weeklyemail&utm_medium=email&utm_campaign=081619_BLD_RESTON_Solo'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/c4135a8f-7bcd-425a-ba13-31b92b840371.jpg?ver=1565878602000'
+  img_alt: 'OFFERS VALID 8/16/19 - 8/18/19 IN RESTON ONLY EVERY TUESDAY GET $3 OFF/LB. ON POKE BAR REGULARLY 13.99 LB.'
+
+
+
