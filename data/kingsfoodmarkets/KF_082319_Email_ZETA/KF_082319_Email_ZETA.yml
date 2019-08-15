@@ -1,0 +1,127 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+footer_pinterest_alt: "pinterest"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_02.jpg"
+  img_alt: "READY FOR THE GRILL "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_03.jpg"
+  img_alt: "INTRODUCING OUR SHRIMP BURGER A FLAWLESS PATTY of pink and perfect shrimp served on a sweet and delicious Port Muffin. This brilliant addition to your burger repertoire is prepared in-store, ready for the grill and available in three flavors–Ginger Lime, Scallion Garlic and Spicy Cayenne. LEARN MORE> "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_04.jpg"
+  img_alt: "HOST A CREATIVE CLAM BAKE"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_05.jpg"
+  img_alt: "CLAM & LOBSTER STEAM POT This traditional New England seafood feast feeds 2–4 and includes: • 2 WHOLE LOBSTERS • 18 LITTLENECK CLAMS • SWEET CORN • NEW POTATOES LEARN MORE> "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_06.jpg"
+  img_alt: "BUNDLE UP! CHEF PREPARED COOKOUT BUNDLES HEROIC MEAT BUNDLES With servings ranging from 14 to 25, our Meat Bundles are designed  by our master butchers to include the perfect amount of protein to feed a party or large family. ORDER NOW>"
+  url: "https://catering.kingsfoodmarkets.com/items/category/meat-bundles?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_07.jpg"
+  img_alt: "GRAB & GO GRILLED VEGGIES CHEF PREPARED MEXICAN STREET CORN That first bite will offer the intense spice of chili and salty Parmesan balanced against the unmistakable flavor of sweet, fresh corn picked at its ripest and finished on the grill. We have it ready and waiting for you in our Prepared Foods Department. VIEW MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_08.jpg"
+  img_alt: "PRODUCE KEBAB OF THE WEEK LOCAL ZUCCHINI, TOMATO & RED ONION Toss with balsamic glaze, olive oil, salt, pepper and fresh mozzarella, for a savory salad. You can find them, ready-to-grill, in our Produce Department. "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_09.jpg"
+  img_alt: "A GUIDE TO EGGPLANT VARIETY"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_10.jpg"
+  img_alt: "GLOBE This is the biggest and meatiest eggplant. The flesh acts like a sponge, so coat slices in flour before frying to avoid absorbing too much oil. "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_11.jpg"
+  img_alt: "GRAFFITI Named for its beautiful purple and white stripes, this eggplant is similar in taste to regular eggplant. However, the stripes do fade when cooked. "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_12.jpg"
+  img_alt: "JAPANESE This variety is characterized by it's long, narrow shape. It has a thin skin, contains fewer seeds and has an extra creamy texture when cooked. It works well grilled or stir-fried."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_13.jpg"
+  img_alt: "WHITE With a similar taste to regular eggplant, the main distinguishing feature is its white color. Use it in place of other types of eggplant or in dips such as baba ghanoush."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_14.jpg"
+  img_alt: "ITALIAN These meaty, teardrop-shaped eggplants are used in Italian recipes, and they tend to be a bit sweeter than other varieties. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_15.jpg"
+  img_alt: "ITALIAN These meaty, teardrop-shaped eggplants are used in Italian recipes, and they tend to be a bit sweeter than other varieties. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_16.jpg"
+  img_alt: "MARK YOUR CALENDAR KINGS COOKING STUDIO CLASSES Learn new culinary tips and tricks while having fun! September and October Cooking Studio classes are enrolling now. Register today! LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+- type: "image"
+  img: "images/082319_KF_WeeklyEmail_01_R3_17.jpg"
+  img_alt: "myKINGS EXTRA! SAVINGS WEEKEND DEAL | VALID 8/23 – 8/25/19 Locally Raised Center Cut BONELESS PORK CHOPS members pay 3.99 LB. SAVE $4 LB. SHOP OUR PRODUCTS>"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_KF_Email"
+
+
+

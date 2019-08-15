@@ -1,0 +1,92 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+
+
+#footer
+# footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis/?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/1b146f15-30fb-4e84-b661-f0018b984928.jpg?ver=1564680422000'
+  img_alt: 'GOURMET REWARDS CLUB'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email#butchery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/0f99ec7d-d037-4dc2-b5ba-f7c1bb6f480e.jpg?ver=1565705704000'
+  img_alt: 'LABOR DAY MADE EASY'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email#butchery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/519c19c0-bdce-4dcb-a471-893354546d61.jpg?ver=1565705703000'
+  img_alt: 'Our MASTER BUTCHER MEAT KEBABS might be the easiest entrée of summer. We&#39;re offering both chicken and beef, rubbed or marinated and threaded on skewers, ready for the grill. Pair with a fresh chef prepared salad and Labor Day dinner is done.'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email#butchery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f61d1253-1dca-4695-b4a9-cb6a422cc942.jpg?ver=1565705704000'
+  img_alt: 'GRILL-READY MEAT KEBABS STEAK KEBAB + BORSARI SEASONED SALT All-natural seasoned salt made from a mix of salt and herbs in small batches after an age-old Bolognese recipe. Only fresh, whole herbs and gourmet ground salts are used to create Borsari&#39;s intriguing blend of freshness, taste and aroma.'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email#butchery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/71de633b-cf15-447f-9541-21ac8bdf4807.jpg?ver=1565705704000'
+  img_alt: 'STEAK WITH ONION, RED & YELLOW PEPPERS + BORSARI COFFEE RUB A distinctive mixture of coffee, cacao, Borsari Original Seasoning and carefully selected spices. This unique rub is great on steak, chicken, carrots, bacon, peaches, salmon, shrimp, chili, corn on the cob and vanilla ice cream–to name a few.'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email#butchery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/185ecab3-7662-41c0-a13c-445e9a4f42a0.jpg?ver=1565705704000'
+  img_alt: 'CHICKEN + BEER CAN RUB Made with real beer, this seasoning blend is salty, sweet and hoppy. Infuse your kebabs with the delightful flavor of a summer day. '
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email#butchery'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/08339c3d-c5d1-4055-ae04-8d020104a6b0.jpg?ver=1565705705000'
+  img_alt: 'CHICKEN WITH ONION, RED & YELLOW PEPPERS + YAKINIKU SAUCE You&#39;ll love this Japanese barbecue sauce by Nippon. Made with garlic, pear, pineapple and a hint of citrus, it imparts a tangy-sweet and savory flavor.'
+
+- type: 'image'
+  url: 'https://catering.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/e1dbd7e7-a66b-493e-8218-ccb49479f8ee.jpg?ver=1565705705000'
+  img_alt: 'GET CREATIVE WITH A CLAM BAKE CLAM & LOBSTER STEAM POT FEEDS 2–4 INCLUDES: • 2 WHOLE LOBSTERS • 18 LITTLENECK CLAMS • SWEET CORN • NEW POTATOES'
+
+- type: 'image'
+  url: 'https://catering.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/335792ac-26c8-4658-9e45-f81147a105f8.jpg?ver=1565705705000'
+  img_alt: 'GET CREATIVE WITH A CLAM BAKE CLAM & LOBSTER STEAM POT FEEDS 2–4 INCLUDES: • 2 WHOLE LOBSTERS • 18 LITTLENECK CLAMS • SWEET CORN • NEW POTATOES'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/dc0bb63f-b220-4ce9-8ce4-9910f0722e4c.jpg?ver=1565705705000'
+  img_alt: 'SIDE SALADS TO SERVE A CROWD WATERMELON, FETA & LENTIL SALAD Arugula and radicchio topped with watermelon, feta cheese, lentils, walnuts and a red wine vinaigrette. SUMMER STONE FRUIT SALAD Fresh white and yellow peaches, nectarines and a sweet honey-lime ginger dressing.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=082319_BLD_Email'
+  img: 'https://mlsvc01-prod.s3.amazonaws.com/ad716150601/f06e9577-2dfb-4f5e-9e88-595f4b813dcb.jpg?ver=1565705705000'
+  img_alt: 'MARK YOUR CALENDAR WINE EVENT JOIN US SATURDAY, SEPTEMBER 7TH, 2–5 PM Join us at Balducci&#39;s Bethesda, Alexandria, McLean and Reston for a wine tasting event. We&#39;ll offer tasting of both wine and food, plus a savings of 25% OFF a case of wine. We even allow you to mix and match! RESTON: enjoy FREE TWO-HOUR PARKING in the Silver Garage.'
+
+
