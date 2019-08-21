@@ -1,0 +1,73 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+gourmet_link: "https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo"
+gourmet_alt: "GOURMET REWARDS CLUB"
+
+#footer
+# footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/channel/UCI3TdolMLEfmj5QoMk3JmZQ?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis0203/?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo#grocery'
+  img: 'images/BALDUCCIS_Back_To_School_2019_solo_email_FNL_02.jpg'
+  img_alt: 'Get Ready For BACK TO SCHOOL!'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo#grocery'
+  img: 'images/BALDUCCIS_Back_To_School_2019_solo_email_FNL_03.jpg'
+  img_alt: 'Back-to-school season is almost here – and these organic, nutritious snacks from our Makers are here to make the transition a little easier. These convenient, better-for-you foods are perfect for breakfast, lunch boxes, or on-the-go. LEARN MORE>'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo#grocery'
+  img: 'images/BALDUCCIS_Back_To_School_2019_solo_email_FNL_04.jpg'
+  img_alt: 'MADE GOOD Allergy-friendly ingredients make these wholesome, organic granola bars a safe addition to the lunch box. Each bar contains a full serving of fruits and vegetables.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo#grocery'
+  img: 'images/BALDUCCIS_Back_To_School_2019_solo_email_FNL_05.jpg'
+  img_alt: 'LATE JULY Real food, real snacks. Late July&#39;s philosophy on creating great snacks means selecting the highest quality organic and non-GMO ingredients for its tortilla chips, crackers and popcorn. '
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo#grocery'
+  img: 'images/BALDUCCIS_Back_To_School_2019_solo_email_FNL_06.jpg'
+  img_alt: 'YOYO BEAR Never made from juice or concentrate, these fruit rolls are made with whole fruit and veggies picked at season&#39;s peak, without added sugar. '
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=082219_BLD_BacktoSchool_Solo#grocery'
+  img: 'images/BALDUCCIS_Back_To_School_2019_solo_email_FNL_07.jpg'
+  img_alt: 'LAVVA Dairy-free and made with real fruit with no added sugars or stabilizers, this plant-based, gluten-free yogurt is a great on-the-go snack. '
+
+- type: 'image'
+  url: 'https://delivery.balduccis.com/'
+  img: 'images/BALDUCCIS_Back_To_School_2019_solo_email_FNL_08.jpg'
+  img_alt: 'NEW! BALDUCCI&#39;S DELIVERY APP BACK-TO-SCHOOL ITEMS DELIVERED IN AS LITTLE AS ONE HOUR DOWNLOAD FROM THE iOS APP STORE'
