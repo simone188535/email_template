@@ -1,0 +1,66 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+gourmet_link: "http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email"
+gourmet_alt: "GOURMET REWARDS CLUB"
+
+#footer
+# footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email#wine'
+  img: 'images/BLD_243_weekly_email_0906_v2_r1_02.jpg'
+  img_alt: 'EXCLUSIVE WEST COAST WINES'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email#wine'
+  img: 'images/BLD_243_weekly_email_0906_v2_r1_03.jpg'
+  img_alt: 'MEET THE BALDUCCI&#39;S CALIFORNIA COLLECTION. We&#39;re proud to introduce perhaps the finest examples of California varietals we&#39;ve ever been able to secure. Wine is available at Balducci&#39;s Alexandria, Bethesda, Greenwich, McLean and Reston locations. CABERNET SAUVIGNON Full of lively plum flavors with oak highlights on the mid-palate and a finish with vanilla and toasty notes. PAIRING: The tannin structure makes this a great pairing with well-marbled cuts like Prime Ribeye. CHARDONNAY A crisp wine with a citrus backbone and rich tropical flair, featuring notes of delicate pear, bright apple and a creamy finish.  PAIRING: We love this citrusy wine with simply prepared foods like baked halibut or lobster.'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email#wine'
+  img: 'images/BLD_243_weekly_email_0906_v2_r1_04.jpg'
+  img_alt: 'RED BLEND Offering aromas of Royal cherries, cedar, blueberries, plum pits, dark chocolate and hints of herbs. The palate is full-bodied and brightly flavored with loads of fruit. PAIRING:  The low tannins make this a great pairing for lean cuts like filet mignon. SAUVIGNON BLANC Medium-bodied with a round, juicy texture, the palate presents pear, peach and fresh, tart apple flavors with a lingering, bright finish. PAIRING: Try with oysters, light fish like sole, herbal, briny sauces and anything goat cheese related. PINOT NOIR A lushly styled &#34;bigger&#34; flavored Pinot with a nose of bright red fruit and earth and a full-bodied palate of dark berries and soft tannin. PAIRING: Pinot Noir goes with everything! Try with duck or game birds, casseroles and, of course, beef bourguignon.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email'
+  img: 'images/BLD_243_weekly_email_0906_v2_r1_05.jpg'
+  img_alt: 'WINE EVENT JOIN US THIS SATURDAY SEPTEMBER 7th, 2–5 PM Join us at Balducci&#39;s Bethesda, Alexandria, McLean and Reston for a wine tasting event. We&#39;ll offer tasting of both wine and food, plus 25% OFF a case of wine. We even allow you to mix and match! Reston: FREE two-hour parking in the Silver Garage. '
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email#cheese'
+  img: 'images/BLD_243_weekly_email_0906_v2_r1_06.jpg'
+  img_alt: 'A RARE FIND THIS SIDE OF THE POND NEAL&#39;S YARD CHEESE WE&#39;RE DELIGHTED to be among a very select group of shops in America to carry some of the most delicious cheeses from Neal&#39;s Yard. London&#39;s foremost cheese retailer offers the finest artisanal (mostly British and Irish) cheeses to be found. You&#39;ll be happy to know that the stock is always changing. Check in often.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_Email'
+  img: 'images/BLD_243_weekly_email_0906_v2_r1_07.jpg'
+  img_alt: 'HARVEST TASTING SATURDAY, SEPTEMBER 14th, 12–4 PM Join us in-store and explore the rich bounty of the harvest paired with the best of Fall&#39;s flavors.'

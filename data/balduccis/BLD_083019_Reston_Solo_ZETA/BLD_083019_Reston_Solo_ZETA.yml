@@ -1,0 +1,51 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=083019_BLD_RESTON_Solo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=083019_BLD_RESTON_Solo'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=083019_BLD_RESTON_Solo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=083019_BLD_RESTON_Solo'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/my-balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=083019_BLD_RESTON_Solo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+gourmet_link: "http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=083019_BLD_RESTON_Solo"
+gourmet_alt: "GOURMET REWARDS CLUB"
+
+#footer
+# footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=083019_BLD_RESTON_Solo"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=083019_BLD_RESTON_Solo"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=083019_BLD_RESTON_Solo"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis/?utm_source=weeklyemail&utm_medium=email&utm_campaign=083019_BLD_RESTON_Solo"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'https://www.balduccis.com/my-balduccis/offers/reston-va?utm_source=weeklyemail&utm_medium=email&utm_campaign=083019_BLD_RESTON_Solo'
+  img: 'images/0830_BLD_Reston3DAY_Solo_02.jpg'
+  img_alt: 'LOCAL ELEPHANT TRUNK SEA SCALLOPS WILD CAUGHT. LIMITED TIME. $15.99 LB. REG. 25.99 LB. THREE DAY EXCLUSIVE'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/my-balduccis/offers/reston-va?utm_source=weeklyemail&utm_medium=email&utm_campaign=083019_BLD_RESTON_Solo'
+  img: 'images/0830_BLD_Reston3DAY_Solo_03.jpg'
+  img_alt: 'CHERRY GLORY TOMATOES 10 OZ. $2.99 EA. REG. 4.99 EA. BEN & JERRY&#39;S ICE CREAM 16 OZ. BUY ONE GET ONE REG. 5.99 EA. FEVER TREE DRINK MIXERS ALL VARIETIES $3.99 EA. REG. 6.99 EA.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/my-balduccis/offers/reston-va?utm_source=weeklyemail&utm_medium=email&utm_campaign=083019_BLD_RESTON_Solo'
+  img: 'images/0830_BLD_Reston3DAY_Solo_04.jpg'
+  img_alt: 'OFFERS VALID 8/30/19 - 9/19/19 IN RESTON ONLY EVERY TUESDAY GET $3 OFF/LB. ON POKE BAR REGULARLY 13.99 LB.'

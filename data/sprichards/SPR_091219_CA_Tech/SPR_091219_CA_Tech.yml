@@ -1,0 +1,120 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_02.jpg', '/sl-forward-sprisv/MMM/R330NALT/11965625/412-936', 364, 248, 'MMMR330NALT - Cape Town Collection'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_03.jpg', '/sl-forward-sprisv/BSN/42250/1017129386/722-649', 216, 248, 'BSN42250']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_04.jpg', '/sl-forward-sprisv/BSN/65780/1017129407/129-956', 364, 186, 'BSN65780'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_05.jpg', '/sl-forward-sprisv/BSN/42250/1017129386/722-649', 216, 186, 'BSN42250']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_06.jpg', '/sl-forward-sprisv/MMM/R330NALT/11965625/412-936', 580, 233, 'MMMR330NALT - Cape Town Collection']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_07.jpg', '/sl-forward-sprisv/MMM/R330NALT/11965625/412-936', 253, 143, 'MMMR330NALT - Cape Town Collection'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_08.jpg', '/sl-forward-sprisv/MMM/R330UALT/11965626/170-349', 327, 143, 'MMMR330UALT - Marseille Collection']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_09.jpg', '/sl-forward-sprisv/MMM/R330NALT/11965625/412-936', 253, 19, 'MMMR330NALT - Cape Town Collection'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_10.jpg', '/sl-forward-sprisv/MMM/R330UALT/11965626/170-349', 327, 19, 'MMMR330UALT - Marseille Collection']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_11.jpg', '/sl-forward-sprisv/MMM/R330UALT/11965626/170-349', 253, 24, 'MMMR330UALT - Marseille Collection'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_12.jpg', '/sl-forward-sprisv/MMM/R330UALT/11965626/170-349', 327, 24, 'MMMR330UALT - Marseille Collection']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_13.jpg', '/sl-forward-sprisv/MMM/R330NALT/11965625/412-936', 253, 53, 'MMMR330NALT - Cape Town Collection'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_14.jpg', '/sl-forward-sprisv/MMM/R330UALT/11965626/170-349', 327, 53, 'MMMR330UALT - Marseille Collection']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_15.jpg', '/sl-forward-sprisv/MMM/R330NALT/11965625/412-936', 18, 30, 'MMMR330NALT - Cape Town Collection'], ['text', 'images/SPR_165_092319_CA_Weekly_R3_DEV_16.jpg', '/sl-forward-sprisv/MMM/R330NALT/11965625/412-936', 232, 30, 'MMMR330NALT - Cape Town Collection', '#f6eada', '#000000', 'linetext1_CUS'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_17.jpg', '/sl-forward-sprisv/MMM/R330UALT/11965626/170-349', 330, 30, 'MMMR330UALT - Marseille Collection']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_18.jpg', '/sl-forward-sprisv/MMM/R330NALT/11965625/412-936', 243, 73, 'MMMR330NALT - Cape Town Collection'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_19.jpg', '/sl-forward-sprisv/MMM/R330UALT/11965626/170-349', 337, 73, 'MMMR330UALT - Marseille Collection']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_20.jpg', '/sl-forward-sprisv/DAA/851120/1035518591/908-249', 580, 133, 'DAA851120']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_21.jpg', '/sl-forward-sprisv/DAA/851120/1035518591/908-249', 374, 265, 'DAA851120'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_22.jpg', '/sl-forward-sprisv/HAM/162008/1010040086/377-770', 206, 265, 'HAM162008']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_23.jpg', '/sl-forward-sprisv/DAA/851120/1035518591/908-249', 283, 179, 'DAA851120'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_24.jpg', '/sl-forward-sprisv/HAM/162008/1010040086/377-770', 297, 179, 'HAM162008']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_25.jpg', '/sl-forward-sprisv/DAA/851120/1035518591/908-249', 40, 34, 'DAA851120'], ['text', 'images/SPR_165_092319_CA_Weekly_R3_DEV_26.jpg', '/sl-forward-sprisv/DAA/851120/1035518591/908-249', 243, 34, 'DAA851120', '#ffffff', '#000000', 'linetext2_CUS'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_27.jpg', '/sl-forward-sprisv/HAM/162008/1010040086/377-770', 14, 34, 'HAM162008'], ['text', 'images/SPR_165_092319_CA_Weekly_R3_DEV_28.jpg', '/sl-forward-sprisv/HAM/162008/1010040086/377-770', 184, 34, 'HAM162008', '#ffffff', '#000000', 'linetext3_CUS'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_29.jpg', '/sl-forward-sprisv/HAM/162008/1010040086/377-770', 99, 34, 'HAM162008']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_30.jpg', '/sl-forward-sprisv/DAA/851120/1035518591/908-249', 283, 50, 'DAA851120'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_31.jpg', '/sl-forward-sprisv/HAM/162008/1010040086/377-770', 297, 50, 'HAM162008']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_32.jpg', '/sl-forward-sprisv/WAU/20270/1017934367/376-602', 580, 123, 'WAU20270']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_33.jpg', '/sl-forward-sprisv/WAU/20270/1017934367/376-602', 580, 198, 'WAU20270']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_34.jpg', '/sl-forward-sprisv/WAU/20270/1017934367/376-602', 299, 29, 'WAU20270'], ['text', 'images/SPR_165_092319_CA_Weekly_R3_DEV_35.jpg', '/sl-forward-sprisv/WAU/20270/1017934367/376-602', 233, 29, 'WAU20270', '#ffffff', '#000000', 'linetext4_CUS'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_36.jpg', '/sl-forward-sprisv/WAU/20270/1017934367/376-602', 48, 29, 'WAU20270']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_37.jpg', '/sl-forward-sprisv/WAU/20270/1017934367/376-602', 580, 94, 'WAU20270']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_38.jpg', '/sl-forward-sprisv/BSN/42250/1017129386/722-649', 580, 376, 'BSN42250']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_39.jpg', '/sl-forward-sprisv/BSN/42250/1017129386/722-649', 580, 190, 'BSN42250']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_40.jpg', '/sl-forward-sprisv/BSN/42250/1017129386/722-649', 355, 30, 'BSN42250'], ['text', 'images/SPR_165_092319_CA_Weekly_R3_DEV_41.jpg', '/sl-forward-sprisv/BSN/42250/1017129386/722-649', 225, 30, 'BSN42250', '#ffffff', '#000000', 'linetext5_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_42.jpg', '/sl-forward-sprisv/BSN/42250/1017129386/722-649', 580, 70, 'BSN42250']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_43.jpg', '/sl-forward-sprisv/BSN/65780/1017129407/129-956', 265, 113, 'BSN65780'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_44.jpg', '/sl-forward-sprisv/SMD/70488/1010040803/981-400', 315, 113, 'SMD70488 - 12 Pockets']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_45.jpg', '/sl-forward-sprisv/BSN/65780/1017129407/129-956', 265, 159, 'BSN65780'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_46.jpg', '/sl-forward-sprisv/SMD/70488/1010040803/981-400', 82, 159, 'SMD70488 - 12 Pockets'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_47.jpg', '/sl-forward-sprisv/SMD/70425/1010040798/424-586', 233, 159, 'SMD70425 - 21 Pockets']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_48.jpg', '/sl-forward-sprisv/BSN/65780/1017129407/129-956', 193, 137, 'BSN65780'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_49.jpg', '/sl-forward-sprisv/SMD/70488/1010040803/981-400', 387, 137, 'SMD70488 - 12 Pockets']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_50.jpg', '/sl-forward-sprisv/BSN/65780/1017129407/129-956', 193, 70, 'BSN65780'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_51.jpg', '/sl-forward-sprisv/SMD/70488/1010040803/981-400', 146, 70, 'SMD70488 - 12 Pockets'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_52.jpg', '/sl-forward-sprisv/SMD/70425/1010040798/424-586', 241, 70, 'SMD70425 - 21 Pockets']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_53.jpg', '/sl-forward-sprisv/BSN/65780/1017129407/129-956', 18, 32, 'BSN65780'], ['text', 'images/SPR_165_092319_CA_Weekly_R3_DEV_54.jpg', '/sl-forward-sprisv/BSN/65780/1017129407/129-956', 175, 32, 'BSN65780', '#f9e9da', '#000000', 'linetext6_CUS'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_55.jpg', '/sl-forward-sprisv/SMD/70488/1010040803/981-400', 12, 32, 'SMD70488 - 12 Pockets'], ['text', 'images/SPR_165_092319_CA_Weekly_R3_DEV_56.jpg', '/sl-forward-sprisv/SMD/70488/1010040803/981-400', 134, 32, 'SMD70488 - 12 Pockets', '#f9e9da', '#000000', 'linetext7_CUS'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_57.jpg', '/sl-forward-sprisv/SMD/70425/1010040798/424-586', 17, 32, 'SMD70425 - 21 Pockets'], ['text', 'images/SPR_165_092319_CA_Weekly_R3_DEV_58.jpg', '/sl-forward-sprisv/SMD/70425/1010040798/424-586', 224, 32, 'SMD70425 - 21 Pockets', '#f9e9da', '#000000', 'linetext8_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_59.jpg', '/sl-forward-sprisv/BSN/65780/1017129407/129-956', 193, 64, 'BSN65780'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_60.jpg', '/sl-forward-sprisv/SMD/70488/1010040803/981-400', 146, 64, 'SMD70488 - 12 Pockets'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_61.jpg', '/sl-forward-sprisv/SMD/70425/1010040798/424-586', 241, 64, 'SMD70425 - 21 Pockets']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_62.jpg', '/sl-forward-sprisv/PGC/76230/1047998601/363-324', 290, 207, 'PGC76230'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_63.jpg', '/sl-forward-sprisv/PGC/76230/1047998601/363-324', 290, 207, 'PGC76230']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_64.jpg', '/sl-forward-sprisv/PGC/76230/1047998601/363-324', 290, 29, 'PGC76230'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_65.jpg', '/sl-forward-sprisv/PGC/76230/1047998601/363-324', 8, 29, 'PGC76230'], ['text', 'images/SPR_165_092319_CA_Weekly_R3_DEV_66.jpg', '/sl-forward-sprisv/PGC/76230/1047998601/363-324', 282, 29, 'PGC76230', '#ffffff', '#000000', 'linetext9_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_67.jpg', '/sl-forward-sprisv/PGC/76230/1047998601/363-324', 290, 54, 'PGC76230'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_68.jpg', '/sl-forward-sprisv/PGC/76230/1047998601/363-324', 290, 54, 'PGC76230']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_69.jpg', '/sl-forward-sprisv/PGC/76230/1047998601/363-324', 162, 77, 'PGC76230'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_70.jpg', '/sl-forward-sprisv/MRC/6079/11965688/116-200', 128, 77, 'MRC6079'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_71.jpg', '/sl-forward-sprisv/MRC/6079/11965688/116-200', 290, 77, 'MRC6079']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_72.jpg', '/sl-forward-sprisv/PGC/76230/1047998601/363-324', 123, 91, 'PGC76230'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_73.jpg', '/sl-forward-sprisv/MRC/6079/11965688/116-200', 167, 91, 'MRC6079'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_74.jpg', '/sl-forward-sprisv/MRC/6079/11965688/116-200', 290, 91, 'MRC6079']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_75.jpg', '/sl-forward-sprisv/PGC/76230/1047998601/363-324', 123, 30, 'PGC76230'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_76.jpg', '/sl-forward-sprisv/MRC/6079/11965688/116-200', 167, 30, 'MRC6079'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_77.jpg', '/sl-forward-sprisv/MRC/6079/11965688/116-200', 8, 30, 'MRC6079'], ['text', 'images/SPR_165_092319_CA_Weekly_R3_DEV_78.jpg', '/sl-forward-sprisv/MRC/6079/11965688/116-200', 282, 30, 'MRC6079', '#ffffff', '#000000', 'linetext10_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_79.jpg', '/sl-forward-sprisv/PGC/76230/1047998601/363-324', 123, 72, 'PGC76230'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_80.jpg', '/sl-forward-sprisv/MRC/6079/11965688/116-200', 167, 72, 'MRC6079'], ['image', 'images/SPR_165_092319_CA_Weekly_R3_DEV_81.jpg', '/sl-forward-sprisv/MRC/6079/11965688/116-200', 290, 72, 'MRC6079']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_165_092319_CA_Weekly_R3_DEV_82.jpg', '', 580, 127, '', '#a7846e', '#FFFFFF', 'linetext11_CUS']]
+

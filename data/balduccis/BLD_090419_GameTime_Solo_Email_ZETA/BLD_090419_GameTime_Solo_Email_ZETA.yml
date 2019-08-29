@@ -1,0 +1,59 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+gourmet_link: "https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email"
+gourmet_alt: "GOURMET REWARDS CLUB"
+
+#footer
+# footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis0203/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'https://catering.balduccis.com/items/folder/game-time-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email'
+  img: 'images/090419_BLD_GameTime_Solo_Email_DEV_02.jpg'
+  img_alt: 'GAME TIME & ANY TIME A LAID-BACK AND CASUAL approach to entertaining is the hallmark of this season, with gatherings around games and all the activities. Let us be the first place you think about when the idea of getting-together piques your interest. One call, and we can take care of it all. ORDER ONLINE>'
+
+- type: 'image'
+  url: 'https://catering.balduccis.com/items/folder/game-time-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email'
+  img: 'images/090419_BLD_GameTime_Solo_Email_DEV_03.jpg'
+  img_alt: 'GAME TIME & ANY TIME A LAID-BACK AND CASUAL approach to entertaining is the hallmark of this season, with gatherings around games and all the activities. Let us be the first place you think about when the idea of getting-together piques your interest. One call, and we can take care of it all. ORDER ONLINE>'
+
+- type: 'image-2-columns'
+  url: 'https://catering.balduccis.com/items/folder/game-time-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email'
+  img: 'images/090419_BLD_GameTime_Solo_Email_DEV_04.jpg'
+  img_alt: 'GAME TIME & ANY TIME A LAID-BACK AND CASUAL approach to entertaining is the hallmark of this season, with gatherings around games and all the activities. Let us be the first place you think about when the idea of getting-together piques your interest. One call, and we can take care of it all. ORDER ONLINE>'
+  url_2: 'https://catering.balduccis.com/items/folder/game-time-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email'
+  img_2: 'images/090419_BLD_GameTime_Solo_Email_DEV_05.jpg'
+  img_alt_2: 'GAME TIME & ANY TIME A LAID-BACK AND CASUAL approach to entertaining is the hallmark of this season, with gatherings around games and all the activities. Let us be the first place you think about when the idea of getting-together piques your interest. One call, and we can take care of it all. ORDER ONLINE>'
+
+- type: 'image'
+  url: 'https://catering.balduccis.com/items/folder/game-time-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_BLD_GameTime_Solo_Email'
+  img: 'images/090419_BLD_GameTime_Solo_Email_DEV_06.jpg'
+  img_alt: 'SPECIAL BUNDLE GAME DAY PACKAGE Ultimate Wing Duo, Tex-Mex Platter, Kobe Pigs in Blankets, Vegetable Crudit&#233;. Serves 6–8. $144.99'

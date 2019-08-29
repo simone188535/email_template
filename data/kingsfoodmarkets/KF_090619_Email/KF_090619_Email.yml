@@ -1,0 +1,141 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+footer_pinterest_alt: "pinterest"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/997aab42-ca43-4075-babb-ee445c62d7b6.jpg?ver=1567019938000"
+  img_alt: "WHAT'S FOR DINNER?"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/08844bed-6535-46cc-b1ca-5374b49f0619.jpg?ver=1567019938000"
+  img_alt: "WE'VE TACKLED THE PROBLEMS of time and choice to answer your &#34;what's for dinner&#34; questions. At Kings, we offer a variety of delicious Meal Solutions designed to meet a host of issues; from how many (or how few) servings, to just not enough time."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/fa2f2e07-2695-422f-9279-eb4076d97bcd.jpg?ver=1567019939000"
+  img_alt: "GRAB & GO EASY MEALS"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/daf89b15-e323-408e-ad58-641792761f78.jpg?ver=1567019939000"
+  img_alt: "HOMESTYLE MEATLOAF with Stuffed Acorn Squash One of our many prepped options–ready to roast–but with so many other choices in meat, fish and veggies, you can customize a meal to your heart's delight. Transfer any of our prepped choices to the oven, and in about 45 minutes, dinner's ready!"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/ae014b06-c732-4df7-a8f3-0533135e128e.jpg?ver=1567019939000"
+  img_alt_2: "HOMESTYLE MEATLOAF with Stuffed Acorn Squash One of our many prepped options–ready to roast–but with so many other choices in meat, fish and veggies, you can customize a meal to your heart's delight. Transfer any of our prepped choices to the oven, and in about 45 minutes, dinner's ready!"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/65136a49-7240-4565-b5d5-97f2becf5049.jpg?ver=1567019939000"
+  img_alt: "HOMESTYLE MEATLOAF with Stuffed Acorn Squash One of our many prepped options–ready to roast–but with so many other choices in meat, fish and veggies, you can customize a meal to your heart's delight. Transfer any of our prepped choices to the oven, and in about 45 minutes, dinner's ready!"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/a3f54d7c-ceae-422c-a49d-f4d17ddfbd3d.jpg?ver=1567019939000"
+  img_alt: "SWEET & SPICY GRILLED AURORA SALMON with Green Bean Almondine & Roasted Fingerling Potatoes Ready to eat. Our Chef's Meals are deliciously prepared entrées for one paired with sides. Your choice of both, directly from our chef's kitchen to your table. Figuring the re-heat, that's a fast 5 minutes to table! "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/deb1f21f-6472-4eae-9cc8-c63fb2020df4.jpg?ver=1567019939000"
+  img_alt_2: "SWEET & SPICY GRILLED AURORA SALMON with Green Bean Almondine & Roasted Fingerling Potatoes Ready to eat. Our Chef's Meals are deliciously prepared entrées for one paired with sides. Your choice of both, directly from our chef's kitchen to your table. Figuring the re-heat, that's a fast 5 minutes to table! "
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/8d26c8df-0603-4305-bf5e-722fc3bd73b6.jpg?ver=1567019939000"
+  img_alt: "SWEET & SPICY GRILLED AURORA SALMON with Green Bean Almondine & Roasted Fingerling Potatoes Ready to eat. Our Chef's Meals are deliciously prepared entrées for one paired with sides. Your choice of both, directly from our chef's kitchen to your table. Figuring the re-heat, that's a fast 5 minutes to table! "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/2e10541f-2483-43d2-b777-cce3c8aafc91.jpg?ver=1567019939000"
+  img_alt: "CHICKEN KEBAB over Saffron-Barberry Rice with Sugar Snap Peas Our smart, two-serving Meal Kits include our renowned produce and protein, all the bells and whistles to make a meal memorable, and a chef prepared recipe for you to follow. 35 minutes from our bag to your table. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/66a261ec-94b2-4525-8fdf-e19afb93dca5.jpg?ver=1567019939000"
+  img_alt_2: "CHICKEN KEBAB over Saffron-Barberry Rice with Sugar Snap Peas Our smart, two-serving Meal Kits include our renowned produce and protein, all the bells and whistles to make a meal memorable, and a chef prepared recipe for you to follow. 35 minutes from our bag to your table. LEARN MORE>"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/9e6c4333-1378-40ff-94a3-8de5abbdbc6f.jpg?ver=1567019940000"
+  img_alt: "CHICKEN KEBAB over Saffron-Barberry Rice with Sugar Snap Peas Our smart, two-serving Meal Kits include our renowned produce and protein, all the bells and whistles to make a meal memorable, and a chef prepared recipe for you to follow. 35 minutes from our bag to your table. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5920b5c9-8d5b-4e2e-9484-c9d22a64be03.jpg?ver=1567019940000"
+  img_alt: "SAVE TIME WITH INSTACART Get easy meals delivered to your doorstep in as little as one hour with Instacart. Find them in the Prepared Foods section. FREE DELIVERY ON YOUR FIRST ORDER"
+  url: "https://delivery.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/29c85c52-1140-47b8-82a2-b47cb0d1713f.jpg?ver=1567019940000"
+  img_alt: "MARK YOUR CALENDAR"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/94482b41-3aa9-44b3-8f3e-32e9d95f721e.jpg?ver=1567019940000"
+  img_alt: "HARVEST TASTING Sep. 14th | 11 AM–5 PM Explore the bounty of the harvest paired with the best of Fall's flavors. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/5185ac14-9420-477c-bb47-eb23d8e4454f.jpg?ver=1567019940000"
+  img_alt: "HARVEST TASTING Sep. 14th | 11 AM–5 PM Explore the bounty of the harvest paired with the best of Fall's flavors. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image-2-columns"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/f5b9aeb0-ed2b-4c45-b4f0-ea565e0066de.jpg?ver=1567019940000"
+  img_alt: "FESTINO ITALIANO Sep. 20th–30th | 11 AM–5 PM at Select Stores Sample authentic, imported Italian products, and meet the chefs and makers bringing Italy to your door. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+  img_2: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/298996c6-3e11-4123-8aa9-1700e3914b73.jpg?ver=1567019940000"
+  img_alt_2: "FESTINO ITALIANO Sep. 20th–30th | 11 AM–5 PM at Select Stores Sample authentic, imported Italian products, and meet the chefs and makers bringing Italy to your door. LEARN MORE>"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/e84352f0-3857-44c6-9b08-b81ce4ebaec7.jpg?ver=1567019941000"
+  img_alt: "myKINGS EXTRA MEMBER SAVINGS"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/849088d9-c037-4880-aa7d-984723a1d4a4.jpg?ver=1567019941000"
+  img_alt: "WEEKEND DEAL | VALID 9/6–9/8/19 Bell & Evans BREADED CHICKEN TENDERS members pay 3.99 EA. SAVE $3.50 SHOP OUR PRODUCTS>"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
+
+- type: "image"
+  img: "https://mlsvc01-prod.s3.amazonaws.com/6a147818101/1a0337b7-5672-4a01-836d-53c612b6fd8d.jpg?ver=1567019941000"
+  img_alt: "WEEKEND DEAL | VALID 9/6–9/8/19 Bell & Evans BREADED CHICKEN TENDERS members pay 3.99 EA. SAVE $3.50 SHOP OUR PRODUCTS>"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_KF_Email"
