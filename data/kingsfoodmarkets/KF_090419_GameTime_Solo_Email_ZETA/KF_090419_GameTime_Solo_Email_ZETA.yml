@@ -1,0 +1,67 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email"
+footer_pinterest_alt: "pinterest"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "images/090419_KF_GameTime_Solo_Email_DEV_06.jpg"
+  img_alt: "GAME TIME & ANY TIME A LAID-BACK AND CASUAL approach to entertaining is the hallmark of this season, with gatherings around games and all the activites. Let us be the first place you think about when the idea of getting-together piques your interest. One call, and we can take care of it all. ORDER ONLINE>"
+  url: "https://catering.kingsfoodmarkets.com/items/folder/game-time-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email"
+
+- type: "image"
+  img: "images/090419_KF_GameTime_Solo_Email_DEV_07.jpg"
+  img_alt: "GAME TIME & ANY TIME A LAID-BACK AND CASUAL approach to entertaining is the hallmark of this season, with gatherings around games and all the activites. Let us be the first place you think about when the idea of getting-together piques your interest. One call, and we can take care of it all. ORDER ONLINE>"
+  url: "https://catering.kingsfoodmarkets.com/items/folder/game-time-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email"
+
+- type: "image-2-columns"
+  img: "images/090419_KF_GameTime_Solo_Email_DEV_08.jpg"
+  img_alt: "GAME TIME & ANY TIME A LAID-BACK AND CASUAL approach to entertaining is the hallmark of this season, with gatherings around games and all the activites. Let us be the first place you think about when the idea of getting-together piques your interest. One call, and we can take care of it all. ORDER ONLINE>"
+  url: "https://catering.kingsfoodmarkets.com/items/folder/game-time-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email"
+  img_2: "images/090419_KF_GameTime_Solo_Email_DEV_09.jpg"
+  img_alt_2: "GAME TIME & ANY TIME A LAID-BACK AND CASUAL approach to entertaining is the hallmark of this season, with gatherings around games and all the activites. Let us be the first place you think about when the idea of getting-together piques your interest. One call, and we can take care of it all. ORDER ONLINE>"
+  url_2: "https://catering.kingsfoodmarkets.com/items/folder/game-time-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email"
+
+- type: "image"
+  img: "images/090419_KF_GameTime_Solo_Email_DEV_10.jpg"
+  img_alt: "KINGS DELIVERY APP PARTY SUPPLIES DELIVERED IN AS LITTLE AS ONE HOUR ORDER ONLINE & WE SHOP & WE DELIVER DOWNLOAD THE KINGS DELIVERY APP ON iOS TO SCHEDULE YOUR DELIVERY"
+  url: "https://delivery.kingsfoodmarkets.com ?utm_source=weeklyemail&utm_medium=email&utm_campaign=090419_KF_GameTime_Solo_Email"

@@ -1,0 +1,52 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_RESTON_Solo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_RESTON_Solo'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_RESTON_Solo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_RESTON_Solo'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/my-balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_RESTON_Solo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+gourmet_link: "http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_RESTON_Solo"
+gourmet_alt: "GOURMET REWARDS CLUB"
+
+#footer
+# footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_RESTON_Solo"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_RESTON_Solo"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_RESTON_Solo"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis/?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_RESTON_Solo"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'https://www.balduccis.com/my-balduccis/offers/reston-va?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_RESTON_Solo'
+  img: 'images/0906_BLD_Reston3DAY_Solo_02.jpg'
+  img_alt: 'MARYLAND STYLE CRAB CAKES FULL OF LUMP CRABMEAT AND PERFECTLY SEASONED, 4 OZ 6.99 EA. REG 8.99 EA. THREE DAY EXCLUSIVE'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/my-balduccis/offers/reston-va?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_RESTON_Solo'
+  img: 'images/0906_BLD_Reston3DAY_Solo_03.jpg'
+  img_alt: 'SWEET RED RASPBERRIES 6 OZ. PKG 2/8.00 REG 4.99 EA. CAULIPOWER PIZZA GLUTEN FREE, ALL VARIETIES 10.6 OZ. BUY ONE GET ONE REG 10.99 EA. SPINDRIFT SPARKLING WATER 8PK ALL VARIETIES 96 FL. OZ. 2/10.00 REG 7.99 EA.'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/my-balduccis/offers/reston-va?utm_source=weeklyemail&utm_medium=email&utm_campaign=090619_BLD_RESTON_Solo'
+  img: 'images/0906_BLD_Reston3DAY_Solo_04.jpg'
+  img_alt: 'OFFERS VALID 9/6/19 – 9/8/19 IN RESTON ONLY EVERY TUESDAY GET $3 OFF/LB. ON POKE BAR REGULARLY 13.99 LB.'
+
