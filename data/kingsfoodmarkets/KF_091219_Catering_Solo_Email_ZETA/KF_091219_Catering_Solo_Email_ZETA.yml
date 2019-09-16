@@ -1,0 +1,64 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091219_KF_Catering_Solo_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'http://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=091219_KF_Catering_Solo_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091219_KF_Catering_Solo_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'http://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=091219_KF_Catering_Solo_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'http://kingsfoodmarkets.com/catering-by-kings?utm_source=weeklyemail&utm_medium=email&utm_campaign=091219_KF_Catering_Solo_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=091219_KF_Catering_Solo_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=091219_KF_Catering_Solo_Email"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=091219_KF_Catering_Solo_Email"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091219_KF_Catering_Solo_Email"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091219_KF_Catering_Solo_Email"
+footer_pinterest_alt: "pinterest"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "images/K_Rosh&Yom_2019_FNL_02.jpg"
+  img_alt: "ROSH HASHANAH & YOM KIPPUR 2019 MENU ORDER CATERING>"
+  url: "https://catering.kingsfoodmarkets.com/items/folder/rosh-hashanah-yom-kippur-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=091219_KF_Catering_Solo_Email"
+
+- type: "image"
+  img: "images/K_Rosh&Yom_2019_FNL_03.jpg"
+  img_alt: "ROSH HASHANAH & YOM KIPPUR 2019 MENU ORDER CATERING>"
+  url: "https://catering.kingsfoodmarkets.com/items/folder/rosh-hashanah-yom-kippur-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=091219_KF_Catering_Solo_Email"
+
+- type: "image"
+  img: "images/K_Rosh&Yom_2019_FNL_04.jpg"
+  img_alt: "ROSH HASHANAH & YOM KIPPUR 2019 MENU ORDER CATERING>"
+  url: "https://catering.kingsfoodmarkets.com/items/folder/rosh-hashanah-yom-kippur-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=091219_KF_Catering_Solo_Email"
+
+- type: "image"
+  img: "images/K_Rosh&Yom_2019_FNL_05.jpg"
+  img_alt: "MODERN JEWISH COOKING WITH JAKE COHEN We teamed up with self-proclaimed &#34;nice Jewish boy&#34; and Instagram star Jake Cohen to create and share his favorite modern Jewish recipes for the holidays. VIEW RECIPES>"
+  url: "https://kingsfoodmarkets.com/jewish-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=091219_KF_Catering_Solo_Email"

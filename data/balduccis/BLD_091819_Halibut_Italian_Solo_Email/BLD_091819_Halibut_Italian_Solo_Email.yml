@@ -1,0 +1,51 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_BLD_Halibut_Italian_Solo_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_BLD_Halibut_Italian_Solo_Email'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_BLD_Halibut_Italian_Solo_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_BLD_Halibut_Italian_Solo_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_BLD_Halibut_Italian_Solo_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+gourmet_link: "http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_BLD_Halibut_Italian_Solo_Email"
+gourmet_alt: "GOURMET REWARDS CLUB"
+
+#footer
+# footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_BLD_Halibut_Italian_Solo_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_BLD_Halibut_Italian_Solo_Email"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_BLD_Halibut_Italian_Solo_Email"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_BLD_Halibut_Italian_Solo_Email"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'https://balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_BLD_Halibut_Italian_Solo_Email'
+  img: 'images/BAL_HALIBUT_CUTTING_SEPT_2019_f_02.jpg'
+  img_alt: 'WILD CANADIAN HALIBUT CUTTING BALDUCCI&#39;S BETHESDA FRIDAY, SEPTEMBER 20 | 11 AM – 3 PM BALDUCCI&#39;S RESTON SATURDAY, SEPTEMBER 21 | 11 AM – 3 PM JOIN US FOR FRESH WILD CANADIAN HALIBUT FROM GLACE BAY, NOVA SCOTIA CUSTOM CUT FOR YOU.'
+
+- type: 'image'
+  url: 'https://balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_BLD_Halibut_Italian_Solo_Email'
+  img: 'images/BAL_HALIBUT_CUTTING_SEPT_2019_f_03.jpg'
+  img_alt: 'WILD CANADIAN HALIBUT CUTTING BALDUCCI&#39;S BETHESDA FRIDAY, SEPTEMBER 20 | 11 AM – 3 PM BALDUCCI&#39;S RESTON SATURDAY, SEPTEMBER 21 | 11 AM – 3 PM JOIN US FOR FRESH WILD CANADIAN HALIBUT FROM GLACE BAY, NOVA SCOTIA CUSTOM CUT FOR YOU.'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_BLD_Halibut_Italian_Solo_Email#grocery'
+  img: 'images/BAL_HALIBUT_CUTTING_SEPT_2019_f_04.jpg'
+  img_alt: 'FESTINO ITALIANO AUTHENTIC IMPORTED ITALIAN PRODUCTS TASTING AT SELECT STORES SEPTEMBER 20–28 LEARN MORE>'

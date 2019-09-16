@@ -1,0 +1,157 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+footer_pinterest_alt: "pinterest"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "images/092019_KF_WeeklyEmail_DEV_02.jpg"
+  img_alt: "HARVEST THE MOMENT"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image"
+  img: "images/092019_KF_WeeklyEmail_DEV_03.jpg"
+  img_alt: "SOMETIMES WE LOOK AT FALL as the end of a perfect moment, romanticizing the warm and languid days of sunshine and rest. But for us, Fall signifies the beginning of so many wonderful things–like the season's best freshly-harvested produce."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image"
+  img: "images/092019_KF_WeeklyEmail_DEV_04.jpg"
+  img_alt: "NOT YOUR TYPICAL APPLE VARIETIES"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image"
+  img: "images/092019_KF_WeeklyEmail_DEV_05.jpg"
+  img_alt: "PINATA What really gets people excited about this apple is its sweet, tart taste and long-lasting pineapple finish. Its heirloom parentage makes it one of the best for baking, but you can't go wrong with it as a snack or added to a green salad."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image"
+  img: "images/092019_KF_WeeklyEmail_DEV_06.jpg"
+  img_alt: "SWEETANGO The SweeTango is both sweet and lively, just as its name suggests. Its loud, juicy crunch, hints of fall spices and vibrant acidity make it a favorite snacking apple, but it also adds zest to a wide range of dishes, like a healthy breakfast yogurt parfait."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image"
+  img: "images/092019_KF_WeeklyEmail_DEV_07.jpg"
+  img_alt: "LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image"
+  img: "images/092019_KF_WeeklyEmail_DEV_08.jpg"
+  img_alt: "PERFECT PAIRINGS With a growing board of feasts ahead on our calendars, let's catch a moment to keep entertaining simple. How about employing our favorite cheeses matched with perfect apples and pears? "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image-2-columns"
+  img: "images/092019_KF_WeeklyEmail_DEV_09.jpg"
+  img_alt: "PINATA APPLE + PRAIRIE BREEZE WHITE CHEDDAR The balanced and slightly tropical Pinata apple is especially delicious paired with nutty, tangy Prairie Breeze White Cheddar. STARKRIMSON PEAR + GORGONZOLA DULCE True to its name, Gorgonzola Dolce is buttery and sweet. It's a perfect complement to the floral flavors of the vibrant Starkrimson pear. "
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+  img_2: "images/092019_KF_WeeklyEmail_DEV_10.jpg"
+  img_alt_2: "PINATA APPLE + PRAIRIE BREEZE WHITE CHEDDAR The balanced and slightly tropical Pinata apple is especially delicious paired with nutty, tangy Prairie Breeze White Cheddar. STARKRIMSON PEAR + GORGONZOLA DULCE True to its name, Gorgonzola Dolce is buttery and sweet. It's a perfect complement to the floral flavors of the vibrant Starkrimson pear. "
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image-2-columns"
+  img: "images/092019_KF_WeeklyEmail_DEV_11.jpg"
+  img_alt: "TOSCA PEAR + ROQUEFORT PAPILLON The exceptionally crisp and verdant Tosca balances a piquant Roquefort Papillon. Add a drizzle of acacia honey and you'll thank us. SWEETANGO APPLE + VERMONT CREAMERY CHEVRE The SweeTango is a spectacular hybrid of the Honeycrisp and the Zestar. Pair it with a creamy, earthy Chevre from Vermont Creamery."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+  img_2: "images/092019_KF_WeeklyEmail_DEV_12.jpg"
+  img_alt_2: "TOSCA PEAR + ROQUEFORT PAPILLON The exceptionally crisp and verdant Tosca balances a piquant Roquefort Papillon. Add a drizzle of acacia honey and you'll thank us. SWEETANGO APPLE + VERMONT CREAMERY CHEVRE The SweeTango is a spectacular hybrid of the Honeycrisp and the Zestar. Pair it with a creamy, earthy Chevre from Vermont Creamery."
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image"
+  img: "images/092019_KF_WeeklyEmail_DEV_13.jpg"
+  img_alt: "AMERICAN CHEESE SOCIETY AWARD WINNERS Each year, the American Cheese Society Judging & Competition shines a spotlight on American-made cheeses. We're proud to offer ten award-winning varieties of this year's celebrated winning cheeses. 1ST PLACE BURRATA CON TARTUFO LIONI LATTICINI, INC., NEW JERSEY 1ST PLACE BIJOU VERMONT CREAMERY, VERMONT VIEW MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image-2-columns"
+  img: "images/092019_KF_WeeklyEmail_DEV_14.jpg"
+  img_alt: "AMERICAN CHEESE SOCIETY AWARD WINNERS Each year, the American Cheese Society Judging & Competition shines a spotlight on American-made cheeses. We're proud to offer ten award-winning varieties of this year's celebrated winning cheeses. 1ST PLACE BURRATA CON TARTUFO LIONI LATTICINI, INC., NEW JERSEY 1ST PLACE BIJOU VERMONT CREAMERY, VERMONT VIEW MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+  img_2: "images/092019_KF_WeeklyEmail_DEV_15.jpg"
+  img_alt_2: "AMERICAN CHEESE SOCIETY AWARD WINNERS Each year, the American Cheese Society Judging & Competition shines a spotlight on American-made cheeses. We're proud to offer ten award-winning varieties of this year's celebrated winning cheeses. 1ST PLACE BURRATA CON TARTUFO LIONI LATTICINI, INC., NEW JERSEY 1ST PLACE BIJOU VERMONT CREAMERY, VERMONT VIEW MORE>"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image"
+  img: "images/092019_KF_WeeklyEmail_DEV_16.jpg"
+  img_alt: "AMERICAN CHEESE SOCIETY AWARD WINNERS Each year, the American Cheese Society Judging & Competition shines a spotlight on American-made cheeses. We're proud to offer ten award-winning varieties of this year's celebrated winning cheeses. 1ST PLACE BURRATA CON TARTUFO LIONI LATTICINI, INC., NEW JERSEY 1ST PLACE BIJOU VERMONT CREAMERY, VERMONT VIEW MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image"
+  img: "images/092019_KF_WeeklyEmail_DEV_17.jpg"
+  img_alt: "MARK YOUR CALENDAR"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image-2-columns"
+  img: "images/092019_KF_WeeklyEmail_DEV_18.jpg"
+  img_alt: "FESTINO ITALIANO Today–Sept. 30th | 11 AM–5 PM at Select Stores Sample authentic, imported Italian products, and meet the chefs and makers bringing Italy to your table. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+  img_2: "images/092019_KF_WeeklyEmail_DEV_19.jpg"
+  img_alt_2: "FESTINO ITALIANO Today–Sept. 30th | 11 AM–5 PM at Select Stores Sample authentic, imported Italian products, and meet the chefs and makers bringing Italy to your table. LEARN MORE>"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image-2-columns"
+  img: "images/092019_KF_WeeklyEmail_DEV_20.jpg"
+  img_alt: "HALIBUT CUTTING Sept. 21ST | 11 AM – 3 PM at Short Hills Sept. 24TH | 11 AM – 3 PM at Verona The Kings fishmongers will cut, fillet and trim Wild Canadian Halibut to each customer request. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+  img_2: "images/092019_KF_WeeklyEmail_DEV_21.jpg"
+  img_alt_2: "HALIBUT CUTTING Sept. 21ST | 11 AM – 3 PM at Short Hills Sept. 24TH | 11 AM – 3 PM at Verona The Kings fishmongers will cut, fillet and trim Wild Canadian Halibut to each customer request. LEARN MORE>"
+  url_2: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image"
+  img: "images/092019_KF_WeeklyEmail_DEV_22.jpg"
+  img_alt: "myKINGS EXTRA MEMBER SAVINGS WEEKEND DEAL | VALID 9/20–9/22/19 Extra Large Raw WHITE SHRIMP SKEWER members pay 2.99 EA. SAVE $1.50 SHOP OUR PRODUCTS>"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image"
+  img: "images/092019_KF_WeeklyEmail_DEV_23.jpg"
+  img_alt: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image"
+  img: "images/092019_KF_WeeklyEmail_DEV_24.jpg"
+  img_alt: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+- type: "image"
+  img: "images/092019_KF_WeeklyEmail_DEV_25.jpg"
+  img_alt: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_KF_Email"
+
+
+

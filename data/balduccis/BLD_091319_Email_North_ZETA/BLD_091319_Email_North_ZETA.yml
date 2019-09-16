@@ -1,0 +1,92 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+gourmet_link: "http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email"
+gourmet_alt: "GOURMET REWARDS CLUB"
+
+#footer
+# footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'https://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email'
+  img: 'images/BLD_243_weekly_email_0913_N_DEV_02.jpg'
+  img_alt: 'WHAT&#39;S FOR DINNER?'
+
+- type: 'image'
+  url: 'https://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email'
+  img: 'images/BLD_243_weekly_email_0913_N_DEV_03.jpg'
+  img_alt: 'We&#39;ve tackled the problems of time and choice to answer your &#34;what&#39;s for dinner&#34; questions. At Balducci&#39;s, we offer a variety of delicious Meal Solutions designed to meet a host of issues; from how many (or how few) servings, to just not enough time.'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email#chef-prepared'
+  img: 'images/BLD_243_weekly_email_0913_N_DEV_04.jpg'
+  img_alt: 'CHEF PREPARED MEALS'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email#chef-prepared'
+  img: 'images/BLD_243_weekly_email_0913_N_DEV_05.jpg'
+  img_alt: 'SPICE ROASTED CAULIFLOWER White, orange and purple cauliflower are spiced with honey, Aleppo pepper and shallots and roasted until tender. '
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email#chef-prepared'
+  img: 'images/BLD_243_weekly_email_0913_N_DEV_06.jpg'
+  img_alt: 'PISTACHIO CRUSTED SALMON Salmon is seasoned and coated with a honey and lemon mayonnaise, topped with a crust of roasted pistachios, panko and parsley and baked. VIEW MORE>'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email#chef-prepared'
+  img: 'images/BLD_243_weekly_email_0913_N_DEV_07.jpg'
+  img_alt: 'PISTACHIO CRUSTED SALMON Salmon is seasoned and coated with a honey and lemon mayonnaise, topped with a crust of roasted pistachios, panko and parsley and baked. VIEW MORE>'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email#butchery'
+  img: 'images/BLD_243_weekly_email_0913_N_DEV_08.jpg'
+  img_alt: 'HOMESTYLE MEALS – TO GO!'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_North_Email#butchery'
+  img: 'images/BLD_243_weekly_email_0913_N_DEV_09.jpg'
+  img_alt: 'GRIGGSTOWN FARM CHICKEN POT PIES Made completely from scratch on the farm, these mouthwatering pot pies are filled with six different fresh vegetables, large chunks of all-natural meat and a signature gravy. Pick one up in the Meat Department and dinner is done!'
+
+- type: 'image'
+  url: 'https://balduccis.com/recipes/sheet-pan-roasted-branzino-fennel?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_NORTH_Email'
+  img: 'images/BLD_243_weekly_email_0913_N_DEV_10.jpg'
+  img_alt: 'SIMPLE SHEET PAN RECIPE SHEET PAN ROASTED BRANZINO WITH FENNEL VIEW RECIPE>'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_NORTH_Email'
+  img: 'images/BLD_243_weekly_email_0913_N_DEV_11.jpg'
+  img_alt: 'MARK YOUR CALENDAR JOIN US FOR OUR HARVEST TASTING THIS SATURDAY, SEPT. 14th | 12–4 PM Explore the bounty of the harvest paired with the best of Fall&#39;s flavors at the Harvest Tasting. LEARN MORE>'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_BLD_NORTH_Email'
+  img: 'images/BLD_243_weekly_email_0913_N_DEV_12.jpg'
+  img_alt: 'JOIN US FOR FESTINO ITALIANO SEPT. 27th–28th 11 AM–5 PM Meet the chefs and makers sharing the flavors of Italy as you sample authentic, imported Italian products at select locations. LEARN MORE>'
+

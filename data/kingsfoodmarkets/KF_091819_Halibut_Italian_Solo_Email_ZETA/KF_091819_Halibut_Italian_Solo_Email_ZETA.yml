@@ -1,0 +1,59 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_KF_Halibut_Italian_Solo_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_KF_Halibut_Italian_Solo_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_KF_Halibut_Italian_Solo_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_KF_Halibut_Italian_Solo_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_KF_Halibut_Italian_Solo_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_KF_Halibut_Italian_Solo_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_KF_Halibut_Italian_Solo_Email"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_KF_Halibut_Italian_Solo_Email"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_KF_Halibut_Italian_Solo_Email"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_KF_Halibut_Italian_Solo_Email"
+footer_pinterest_alt: "pinterest"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "images/K_HALIBUT_CUTTING_SEPT_2019_FNL_02.jpg"
+  img_alt: "WILD CANADIAN HALIBUT CUTTING KINGS SHORT HILLS SATURDAY, SEPTEMBER 21 | 11 AM – 3 PM KINGS VERONA TUESDAY, SEPTEMBER 24 | 11 AM – 3 PM JOIN US FOR FRESH WILD CANADIAN HALIBUT FROM GLACE BAY, NOVA SCOTIA CUSTOM CUT FOR YOU."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_KF_Halibut_Italian_Solo_Email"
+
+- type: "image"
+  img: "images/K_HALIBUT_CUTTING_SEPT_2019_FNL_03.jpg"
+  img_alt: "WILD CANADIAN HALIBUT CUTTING KINGS SHORT HILLS SATURDAY, SEPTEMBER 21 | 11 AM – 3 PM KINGS VERONA TUESDAY, SEPTEMBER 24 | 11 AM – 3 PM JOIN US FOR FRESH WILD CANADIAN HALIBUT FROM GLACE BAY, NOVA SCOTIA CUSTOM CUT FOR YOU."
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_KF_Halibut_Italian_Solo_Email"
+
+- type: "image"
+  img: "images/K_HALIBUT_CUTTING_SEPT_2019_FNL_04.jpg"
+  img_alt: "FESTINO ITALIANO AUTHENTIC IMPORTED ITALIAN PRODUCTS TASTING AT SELECT STORES SEPTEMBER 20–30 LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=091819_KF_Halibut_Italian_Solo_Email"

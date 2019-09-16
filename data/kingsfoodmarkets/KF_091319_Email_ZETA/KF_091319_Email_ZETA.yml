@@ -1,0 +1,99 @@
+title: ''
+
+primary_color: ''
+
+background_color: '#eae6d6'
+
+pre_header_text: ''
+
+#header
+logo_link: 'https://kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email'
+logo_img: ''
+logo_alt: 'KINGS'
+logo_img_space: ''
+logo_img_space_2: ''
+store_locator_link: 'https://kingsfoodmarkets.com/store-locator?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email'
+store_locator_img: ''
+store_locator_alt: 'FIND A STORE'
+weekly_circular_link: 'https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email'
+weekly_circular_img: ''
+weekly_circular_alt: 'WEEKLY CIRCULAR'
+chef_prepared_link: 'https://kingsfoodmarkets.com/prepared-foods?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email'
+chef_prepared_img: ''
+chef_prepared_alt: 'CHEF PREPARED'
+catering_link: 'https://kingsfoodmarkets.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email'
+catering_img: ''
+catering_alt: 'CATERING'
+
+
+
+#footer
+footer_facebook_link: "https://www.facebook.com/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/KingsFoodMkts?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+footer_twitter_alt: "twitter"
+footer_youtube_link: "https://www.youtube.com/user/KingsFoodMarkets?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+footer_youtube_alt: "youtube"
+footer_instagram_link: "https://www.instagram.com/kingsfoodmarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+footer_instagram_alt: "instagram"
+footer_pinterest_link: "https://www.pinterest.com/kingsfoodmarkets/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+footer_pinterest_alt: "pinterest"
+
+
+# Loop through articles
+articles:
+
+- type: "image"
+  img: "images/091319_KF_WeeklyEmail_r1_06.jpg"
+  img_alt: "MODERN JEWISH COOKING JAKE COHEN "
+  url: "https://kingsfoodmarkets.com/jewish-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+
+- type: "image"
+  img: "images/091319_KF_WeeklyEmail_r1_07.jpg"
+  img_alt: "HARD AT WORK ON HIS FIRST COOKBOOK &#34;JEW-ISH,&#34; Jake Cohen is up to his elbows in a delicious exploration of Jewish culture and conventions. We&#39;ve asked our favorite Instagram star and culinary host to share a handful of his favorite recipes for the Jewish holidays."
+  url: "https://kingsfoodmarkets.com/jewish-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+
+- type: "image"
+  img: "images/091319_KF_WeeklyEmail_r1_08.jpg"
+  img_alt: "JAKE&#39;S RECIPES"
+  url: "https://kingsfoodmarkets.com/jewish-recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+
+- type: "image"
+  img: "images/091319_KF_WeeklyEmail_r1_09.jpg"
+  img_alt: "SMOKY TOMATO BRISKET VIEW RECIPE>"
+  url: "https://kingsfoodmarkets.com/unique-recipes/smoky-tomato-brisket?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+
+- type: "image"
+  img: "images/091319_KF_WeeklyEmail_r1_10.jpg"
+  img_alt: "HONEY MUSTARD SALMON VIEW RECIPE>"
+  url: "https://kingsfoodmarkets.com/unique-recipes/caramelized-maple-mustard-salmon?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+
+- type: "image"
+  img: "images/091319_KF_WeeklyEmail_r1_11.jpg"
+  img_alt: "SWEET POTATO LATKES VIEW RECIPE>"
+  url: "https://kingsfoodmarkets.com/unique-recipes/sweet-potato-latkes-with-tahini-dipping-sauce?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+
+- type: "image"
+  img: "images/091319_KF_WeeklyEmail_r1_12.jpg"
+  img_alt: "ROSH HASHANAH & YOM KIPPUR CATERING LEAVE THE HOLIDAY MEAL PREP TO US Celebrate the holidays with ease over a chef-prepared gourmet meal from our catering menu. With classics like brisket, latkes and smoked salmon, as well as fresh ideas like honey roasted apple wedges and pomegranate glazed salmon– our chefs are ready to make your meal memorable. VIEW MENU>"
+  url: "https://catering.kingsfoodmarkets.com/items/folder/rosh-hashanah-yom-kippur-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+
+- type: "image"
+  img: "images/091319_KF_WeeklyEmail_r1_13.jpg"
+  img_alt: "MARK YOUR CALENDAR"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+
+- type: "image"
+  img: "images/091319_KF_WeeklyEmail_r1_14.jpg"
+  img_alt: "HARVEST TASTING Sep. 14th | 12–4 PM Explore the bounty of the harvest paired with the best of Fall&#39;s flavors. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+
+- type: "image"
+  img: "images/091319_KF_WeeklyEmail_r1_15.jpg"
+  img_alt: "FESTINO ITALIANO Sep. 20th–30th | 11 AM–5 PM at Select Stores Sample authentic, imported Italian products, and meet the chefs and makers bringing Italy to your table. LEARN MORE>"
+  url: "https://kingsfoodmarkets.com/in-store-promotions?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"
+
+- type: "image"
+  img: "images/091319_KF_WeeklyEmail_r1_16.jpg"
+  img_alt: "myKINGS EXTRA MEMBER SAVINGS WEEKEND DEAL | VALID 9/13–9/15/19 EXTRA LARGE RAW SHRIMP 2 LB. Bag members pay 16.98 EA. SAVE $12 SHOP OUR PRODUCTS>"
+  url: "https://products.kingsfoodmarkets.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=091319_KF_Email"

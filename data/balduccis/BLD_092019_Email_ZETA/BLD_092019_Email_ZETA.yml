@@ -1,0 +1,91 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+gourmet_link: "http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email"
+gourmet_alt: "GOURMET REWARDS CLUB"
+
+#footer
+# footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email#Jewishcuisine'
+  img: 'images/BLD_243_weekly_email_0920_02.jpg'
+  img_alt: 'MODERN JEWISH COOKING FROM JAKE COHEN'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email#Jewishcuisine'
+  img: 'images/BLD_243_weekly_email_0920_03.jpg'
+  img_alt: 'Hard at work on his first cookbook &#34;Jew-ish,&#34; Jake Cohen is up to his elbows in a delicious exploration of Jewish culture and conventions. We&#39;ve asked our favorite Instagram star and culinary host to share a handful of his favorite recipes for the Jewish holidays.'
+
+- type: 'image'
+  url: 'https://balduccis.com/recipes?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email'
+  img: 'images/BLD_243_weekly_email_0920_04.jpg'
+  img_alt: 'JAKE&#34;S RECIPES'
+
+- type: 'image'
+  url: 'https://balduccis.com/recipes/sweet-potato-latkes-tahini-dipping-sauce?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email'
+  img: 'images/BLD_243_weekly_email_0920_05.jpg'
+  img_alt: 'SWEET POTATO LATKES VIEW RECIPE>'
+
+- type: 'image'
+  url: 'https://balduccis.com/recipes/sweet-and-sour-pomegranate-glazed-chicken?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email'
+  img: 'images/BLD_243_weekly_email_0920_06.jpg'
+  img_alt: 'POMEGRANATE CHICKEN VIEW RECIPE>'
+
+- type: 'image'
+  url: 'https://balduccis.com/recipes/apricot-braised-short-ribs?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email'
+  img: 'images/BLD_243_weekly_email_0920_07.jpg'
+  img_alt: 'APRICOT BRAISED SHORT RIBS VIEW RECIPE> '
+
+- type: 'image'
+  url: 'https://catering.balduccis.com/items/folder/rosh-hashanah-yom-kippur-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email'
+  img: 'images/BLD_243_weekly_email_0920_08.jpg'
+  img_alt: 'ROSH HASHANAH CATERING LEAVE THE HOLIDAY MEAL PREP TO US Celebrate the holidays with ease over a chef-prepared gourmet meal from our catering menu. With classics like brisket, latkes and smoked salmon, as well as fresh ideas like honey roasted apple wedges and pomegranate glazed salmon – our chefs are ready to make your meal memorable. VIEW MENU>'
+
+- type: 'image'
+  url: 'https://catering.balduccis.com/items/folder/rosh-hashanah-yom-kippur-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email'
+  img: 'images/BLD_243_weekly_email_0920_09.jpg'
+  img_alt: 'ROSH HASHANAH CATERING LEAVE THE HOLIDAY MEAL PREP TO US Celebrate the holidays with ease over a chef-prepared gourmet meal from our catering menu. With classics like brisket, latkes and smoked salmon, as well as fresh ideas like honey roasted apple wedges and pomegranate glazed salmon – our chefs are ready to make your meal memorable. VIEW MENU>'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email#grocery'
+  img: 'images/BLD_243_weekly_email_0920_10.jpg'
+  img_alt: 'MAKE YOUR CALENDAR'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email#grocery'
+  img: 'images/BLD_243_weekly_email_0920_11.jpg'
+  img_alt: 'JOIN US FOR FESTINO ITALIANO SEPT. 20TH – 28TH 11 AM – 5 PM Meet the chefs and makers sharing the flavors of Italy as you sample authentic, imported Italian products at select stores. LEARN MORE> '
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=092019_BLD_Email'
+  img: 'images/BLD_243_weekly_email_0920_12.jpg'
+  img_alt: 'SEAFOOD EVENT WILD CANADIAN HALIBUT CUTTING EVENT | 11 AM– 3 PM SEPT. 20TH–BETHESDA, MD SEPT. 21ST–RESTON, VA Our fishmongers will cut, fillet and trim Wild Canadian Halibut caught off the coast of Nova Scotia. LEARN MORE>'
