@@ -1,0 +1,86 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+gourmet_link: "http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email"
+gourmet_alt: "GOURMET REWARDS CLUB"
+
+#footer
+# footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis/?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'https://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email'
+  img: 'images/BLD_243_weekly_email_0927_r3_02.jpg'
+  img_alt: 'HARVEST THE MOMENT'
+
+- type: 'image'
+  url: 'https://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email'
+  img: 'images/BLD_243_weekly_email_0927_r3_03.jpg'
+  img_alt: 'SOMETIMES WE LOOK at Fall as the end of a perfect moment, romanticizing the warm and languid days of sunshine and rest. But for us, Fall signifies the beginning of so many wonderful things–like the season&#39;s best freshly-harvested produce. '
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email#produce'
+  img: 'images/BLD_243_weekly_email_0927_r3_04.jpg'
+  img_alt: 'FALL&#39;S FINEST FRUIT STARKRIMSON PEAR The vibrant, crimson-skinned Starkrimson pear is as tasty as it is beautiful, with sweet and floral flavors. SWEETANGO APPLE Its loud, juicy crunch, hints of fall spices and vibrant acidity make the SweeTango a favorite snacking apple. '
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email#produce'
+  img: 'images/BLD_243_weekly_email_0927_r3_05.jpg'
+  img_alt: 'PINATA APPLE This apple has a sweet, tart taste and pineapple finish. It&#39;s one of the best for baking, but you can&#39;t go wrong with it as a snack or added to a green salad. TOSCA PEAR One of the sweetest, juiciest and fanciest pears! You can balance its rich flavor by pairing with a tangy gorgonzola cheese.'
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email#cheese'
+  img: 'images/BLD_243_weekly_email_0927_r3_06.jpg'
+  img_alt: 'AMERICAN CHEESE SOCIETY Each year, the American Cheese Society Judging & Competition shines a spotlight on American-made cheeses. We&#39;re proud to offer ten award-winning varieties of this year&#39;s celebrated winning cheeses. '
+
+- type: 'image'
+  url: 'https://balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email#cheese'
+  img: 'images/BLD_243_weekly_email_0927_r3_07.jpg'
+  img_alt: '1ST PLACE BURRATA CON TARTUFO Lioni Latticini, Inc New Jersey 1ST PLACE BIJOU Vermont Creamery Vermont LEARN MORE>'
+
+- type: 'image'
+  url: 'https://catering.balduccis.com/items/folder/rosh-hashanah-yom-kippur-menu?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email'
+  img: 'images/BLD_243_weekly_email_0927_r3_08.jpg'
+  img_alt: 'YOM KIPPUR CATERING LEAVE THE HOLIDAY MEAL PREP TO US Break your fast with ease over a chef prepared gourmet brunch from our catering menu. We offer delicious choices like smoked salmon, bagels, quiche and more. VIEW MENU>'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email#grocery'
+  img: 'images/BLD_243_weekly_email_0927_r3_09.jpg'
+  img_alt: 'MAKE YOUR CALENDAR'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/explore?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email#grocery'
+  img: 'images/BLD_243_weekly_email_0927_r3_10.jpg'
+  img_alt: 'JOIN US FOR FESTINO ITALIANO THIS SATURDAY SEPT. 28TH | 11 AM – 5 PM Meet the chefs and makers sharing the flavors of Italy as you sample authentic Italian products at our Westport and Greenwich locations. LEARN MORE>'
+
+- type: 'image'
+  url: 'https://www.balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=092719_BLD_Email'
+  img: 'images/BLD_243_weekly_email_0927_r3_11.jpg'
+  img_alt: 'HALLOWEEN PUMPKIN DECORATING CONTEST OCT. 5TH | 10 AM – 2 PM Bring your kids to paint and decorate a pumpkin! We&#39;ll supply apple cider, donuts and other Fall goodies. LEARN MORE>'
