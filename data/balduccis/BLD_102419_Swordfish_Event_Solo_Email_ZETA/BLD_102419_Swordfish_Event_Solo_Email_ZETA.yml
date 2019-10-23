@@ -1,0 +1,51 @@
+title: ''
+
+primary_color: '#'
+
+background_color: '#f6f5f3'
+
+pre_header_text: ''
+
+#header
+logo_link: 'http://balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=102419_BLD_Swordfish_Event_Solo'
+logo_alt: 'Balducci&#39;s® Food Lover&#39;s Market™'
+store_locator_link: 'http://www.balduccis.com/locations?utm_source=weeklyemail&utm_medium=email&utm_campaign=102419_BLD_Swordfish_Event_Solo'
+store_locator_alt: 'FIND A STORE'
+catering_link: 'http://www.balduccis.com/catering?utm_source=weeklyemail&utm_medium=email&utm_campaign=102419_BLD_Swordfish_Event_Solo'
+catering_alt: 'CATERING'
+chef_prepared_link: 'http://www.balduccis.com/chef-prepared?utm_source=weeklyemail&utm_medium=email&utm_campaign=102419_BLD_Swordfish_Event_Solo'
+chef_prepared_alt: 'CHEF PREPARED'
+my_balduccis_link: 'https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=102419_BLD_Swordfish_Event_Solo'
+my_balduccis_alt: 'myBALDUCCI&#39;S'
+gourmet_link: "https://www.balduccis.com/?utm_source=weeklyemail&utm_medium=email&utm_campaign=102419_BLD_Swordfish_Event_Solo"
+gourmet_alt: "GOURMET REWARDS CLUB"
+
+#footer
+# footer_site_link: "http://www.balduccis.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=011619_BLD_GameDay_Solo"
+# footer_site_alt: "balduccis.com"
+footer_facebook_link: "https://www.facebook.com/balduccisfoodloversmarket?utm_source=weeklyemail&utm_medium=email&utm_campaign=102419_BLD_Swordfish_Event_Solo"
+footer_facebook_alt: "facebook"
+footer_twitter_link: "https://twitter.com/Balduccis?utm_source=weeklyemail&utm_medium=email&utm_campaign=102419_BLD_Swordfish_Event_Solo"
+footer_twitter_alt: "twitter"
+footer_instagram_link: "https://www.instagram.com/balduccismarket/?utm_source=weeklyemail&utm_medium=email&utm_campaign=102419_BLD_Swordfish_Event_Solo"
+footer_instagram_alt: "instagram"
+footer_pintrest_link: "https://www.pinterest.com/balduccis0203/?utm_source=weeklyemail&utm_medium=email&utm_campaign=102419_BLD_Swordfish_Event_Solo"
+footer_pintrest_alt: "pintrest"
+
+# Loop through articles
+articles:
+
+- type: 'image'
+  url: 'https://balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=102419_BLD_Swordfish_Event_Solo'
+  img: 'images/BALDUCCIS_Swordfish_Cutting_OCT2019_email_FNL_02.jpg'
+  img_alt: 'FRESH FISH EVENT SWORDFISH STEAK CUTTING CUT TO ORDER! ONLY AT BALDUCCI&#39;S McLEAN FRIDAY, OCTOBER 25 I 11 AM – 4 PM BALDUCCI&#39;S ALEXANDRIA SATURDAY, OCTOBER 26 I 11 AM – 4 PM DISCOVER THE VERSATILITY OF EAST COAST SWORDFISH, FRESHLY CAUGHT FROM THE ATLANTIC'
+
+- type: 'image'
+  url: 'https://balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=102419_BLD_Swordfish_Event_Solo'
+  img: 'images/BALDUCCIS_Swordfish_Cutting_OCT2019_email_FNL_03.jpg'
+  img_alt: 'FRESH FISH EVENT SWORDFISH STEAK CUTTING CUT TO ORDER! ONLY AT BALDUCCI&#39;S McLEAN FRIDAY, OCTOBER 25 I 11 AM – 4 PM BALDUCCI&#39;S ALEXANDRIA SATURDAY, OCTOBER 26 I 11 AM – 4 PM DISCOVER THE VERSATILITY OF EAST COAST SWORDFISH, FRESHLY CAUGHT FROM THE ATLANTIC'
+
+- type: 'image'
+  url: 'https://balduccis.com/events?utm_source=weeklyemail&utm_medium=email&utm_campaign=102419_BLD_Swordfish_Event_Solo'
+  img: 'images/BALDUCCIS_Swordfish_Cutting_OCT2019_email_FNL_04.jpg'
+  img_alt: 'FRESH FISH EVENT SWORDFISH STEAK CUTTING CUT TO ORDER! ONLY AT BALDUCCI&#39;S McLEAN FRIDAY, OCTOBER 25 I 11 AM – 4 PM BALDUCCI&#39;S ALEXANDRIA SATURDAY, OCTOBER 26 I 11 AM – 4 PM DISCOVER THE VERSATILITY OF EAST COAST SWORDFISH, FRESHLY CAUGHT FROM THE ATLANTIC'

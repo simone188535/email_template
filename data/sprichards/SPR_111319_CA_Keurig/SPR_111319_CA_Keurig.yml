@@ -1,0 +1,39 @@
+title: '__TITLE__'
+
+background_color: '#FFFFFF'
+
+# Loop through articles
+articles:
+#- type: 'image'
+  #img_urls: ['images/image_01.jpg', 'images/image_02.jpg']
+  #img_links: ['http://www.image1.jpg', 'http://www.image2.jpg']
+  #img_widths: ['163', '417']
+
+#__IMAGE_TEMPLATES__
+- type: 'table'
+  data: [['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_02.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 580, 232, 'GMT6204']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_03.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 580, 224, 'GMT6204']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_04.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 193, 164, 'GMT6204'], ['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_05.jpg', '/sl-forward-sprisv/GMT/7428/1054111966/241-498', 185, 164, 'GMT7428'], ['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_06.jpg', '/sl-forward-sprisv/GMT/7721/???/153-182', 202, 164, 'GMT7721']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_07.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 193, 75, 'GMT6204'], ['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_08.jpg', '/sl-forward-sprisv/GMT/7428/1054111966/241-498', 61, 75, 'GMT7428'], ['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_09.jpg', '/sl-forward-sprisv/GMT/79742/1036175945/646-393', 326, 75, 'GMT79742']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_10.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 250, 159, 'GMT6204'], ['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_11.jpg', '/sl-forward-sprisv/GMT/79742/1036175945/646-393', 330, 159, 'GMT79742']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_12.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 145, 167, 'GMT6204'], ['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_13.jpg', '/sl-forward-sprisv/GMT/7428/1054111966/241-498', 145, 167, 'GMT7428'], ['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_14.jpg', '/sl-forward-sprisv/GMT/79742/1036175945/646-393', 141, 167, 'GMT79742'], ['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_15.jpg', '/sl-forward-sprisv/GMT/7721/???/153-182', 149, 167, 'GMT7721']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_16.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 19, 29, 'GMT6204'], ['text', 'images/SPR_169_111319_CA_Keurig_R2_DEV_17.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 126, 29, 'GMT6204', '#b3d1e9', '#000000', 'linetext1_CUS'], ['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_18.jpg', '/sl-forward-sprisv/GMT/7428/1054111966/241-498', 15, 29, 'GMT7428'], ['text', 'images/SPR_169_111319_CA_Keurig_R2_DEV_19.jpg', '/sl-forward-sprisv/GMT/7428/1054111966/241-498', 130, 29, 'GMT7428', '#b4d2ea', '#000000', 'linetext2_CUS'], ['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_20.jpg', '/sl-forward-sprisv/GMT/79742/1036175945/646-393', 10, 29, 'GMT79742'], ['text', 'images/SPR_169_111319_CA_Keurig_R2_DEV_21.jpg', '/sl-forward-sprisv/GMT/79742/1036175945/646-393', 131, 29, 'GMT79742', '#b4d2ea', '#000000', 'linetext3_CUS'], ['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_22.jpg', '/sl-forward-sprisv/GMT/7721/???/153-182', 9, 29, 'GMT7721'], ['text', 'images/SPR_169_111319_CA_Keurig_R2_DEV_23.jpg', '/sl-forward-sprisv/GMT/7721/???/153-182', 140, 29, 'GMT7721', '#b4d2ea', '#000000', 'linetext4_CUS']]
+
+- type: 'table'
+  data: [['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_24.jpg', '/sl-forward-sprisv/GMT/6204/1029886315/901-220', 145, 65, 'GMT6204'], ['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_25.jpg', '/sl-forward-sprisv/GMT/7428/1054111966/241-498', 145, 65, 'GMT7428'], ['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_26.jpg', '/sl-forward-sprisv/GMT/79742/1036175945/646-393', 141, 65, 'GMT79742'], ['image', 'images/SPR_169_111319_CA_Keurig_R2_DEV_27.jpg', '/sl-forward-sprisv/GMT/7721/???/153-182', 149, 65, 'GMT7721']]
+
+- type: 'table'
+  data: [['footer', 'images/SPR_169_111319_CA_Keurig_R2_DEV_28.jpg', '', 580, 124, '', '#a88aac', '#FFFFFF', 'linetext5_CUS']]
+
